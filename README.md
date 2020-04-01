@@ -1,4 +1,4 @@
-## Welcome to the Nextstrain translations repo.
+## Welcome to the Nextstrain translations repo
 
 This repo houses markdown files of content to be translated into language other than English, including the weekly situation reports on COVID-19. 
 
