@@ -15,6 +15,6 @@ We welcome translations of the situation reports (narratives) into languages oth
 
 5. When your translation has been reviewed and approved by a second translator, we'll publish it and put it on the Nextstrain homepage!
 
-### \*If your language isn't listed on the project board
+### \*If your language isn't listed on the Nextstrain homepage
 
-We'd love to add even more languages! [Please open an issue here](https://github.com/nextstrain/translations/issues/new?assignees=cassiawag&labels=&template=translation--community-request-.md&title=%5BLanguage+translation+request%5D); we'll get back to you right away!
+We'd love to add even more languages! [Please open an issue here](https://github.com/nextstrain/translations/issues/new?assignees=cassiawag&labels=&template=translation-request.md&title=%5BLanguage+translation+request%5D); we'll get back to you right away!
