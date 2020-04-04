@@ -186,8 +186,8 @@ COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解�
 # [アイスランドにおける広範な分析を通じて、旅行者による拡散が示されます](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
 我々はアイスランドから 301 種の遺伝子配列を得ました。これはアイスランドにおいて [確認された症例]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) のうちの 25% になります。 
-
-<br><br>旅行履歴によって各サンプルを色分けすると、これらの約半分がアイスランド外で感染したことがわかりますが、半分は局所的な感染と推定されます（灰色で表示）。
+<br><br>
+旅行履歴によって各サンプルを色分けすると、これらの約半分がアイスランド外で感染したことがわかりますが、半分は局所的な感染と推定されます（灰色で表示）。
 <br><br>
 [先週報告 ](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5)したように、これはヨーロッパの国々での集団感染間での混合の程度を強く示しています。任意のサンプルについて、その前の感染者がどこにいたかを推論することはできますが、サンプルが採取されていない場所を経由した、間接的な伝搬の可能性を排除することはできません。
 <!-- There is no right side text -->
