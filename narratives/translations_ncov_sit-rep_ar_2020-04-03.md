@@ -140,20 +140,20 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Two local transmission chains circulating in Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
+# [سلستي انتشار محليتين تدوران في السنغال](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
 
-Here, we see two clusters of cases from Senegal. These clusters do not group together, which indicates that they were the result of at least two separate introductions. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
+نشاهد هنا تجمعان من الحالات من السنغال. لا تجتمع هاتان المجموعتان من الحالات معا وهذا يشير الى انهما نتجتا من حالتي ادخال منفصلتين على الأقل.  تتكون كل من هذه التجمعات من حالات متقاربة بقوة تم جمع عيناتها خلال فترة زمنية قصيرة، وهذا يتوافق مع حالة انتشار محلي.
 <br><br>
-The cluster shown towards the top of the tree consists of cases sampled in Dakar between February 28 and March 4.
-This suggests that hCoV-19 has been likely circulating locally in Dakar for at least 1 month.
+التجمع الملاحظ في اعلى الشجرة يتكون من حالات جمعت من داكار ما بين 28 شباط و 4 آذار.
+هذا يقترح بأن كو في 19 البشري كان ما زال يدور على الاغلب في داكار بشكل محلي منذ ما لا يقل عن شهر واحد.
 <br><br>
-In the middle of the tree is a cluster of cases sampled in Touba between March 10 and March 12.
-This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks.
+في وسط الشجرة هناك تجمع لحالات تم جمعها من في طوبا ما بين 10-12 آذار.
+هذا يقترح امكانية أن كو في 19 كان يدور هناك منذ نحو  ثلاثة اسابيع
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Continued local transmission in the DRC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
+# [انتشار محلي مستمر في جمهورية الكونغو الديموقراطية](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
 We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.
 <br><br>
 All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
