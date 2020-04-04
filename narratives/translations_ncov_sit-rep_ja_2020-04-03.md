@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-03.
+title: 新型コロナウイルス拡散の遺伝的解析と状況報告 2020-04-03.
 authors:
   - Emma Hodcroft
   - Cassia Wagner
@@ -20,10 +20,16 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Takeshi Sato
+  - Tomoyuki Nezu
+  - Fengjun Zhang
 translatorLinks:
-date: "2020 April 03"
+  - 
+  - https://twitter.com/tommy_nezy
+  - https://twitter.com/fengjun_zhang
+date: "2020年4月3日"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "このレポートでは、公開されているゲノム情報を使用して、COVID-19 の広がりを追跡しています。これらのレポートは毎週更新されます。"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
