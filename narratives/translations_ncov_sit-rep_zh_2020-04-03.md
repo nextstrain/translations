@@ -181,7 +181,7 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 <!-- This is left-side text 10-->
 # [冰岛的大量测序数据显示出旅行对疫情传播的影响](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-我们最近获得了301条冰岛的序列，占冰岛[确诊病例]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) 总量的25\%。
+我们最近获得了301条冰岛的序列，占冰岛[确诊病例](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)总量的25\%。
 <br><br>
 通过按照所登记的旅行史对样本进行着色，我们看到大约一半的病例是在冰岛境外感染的，另一半被认为是在本地感染的（灰色）。
 <br><br>
