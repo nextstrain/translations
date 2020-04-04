@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-03.
+title: 新型冠状病毒（COVID-19）传播情况的基因组学分析：状况报告 2020-04-03.
 authors:
   - Emma Hodcroft
   - Cassia Wagner
@@ -20,10 +20,12 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - 李雪莹
 translatorLinks:
+  - https://xueyingcli.weebly.com/
 date: "2020 April 03"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19）基因组数据来追踪疫情的传播，此报告将每周更新。"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,80 +33,79 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
+# [目录](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Updates for Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Updates for Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Updates for Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Updates for North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
+* [关于取样](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
+* [非洲的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
+* [亚洲的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
+* [欧洲的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
+* [北美的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
+* [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
+* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# 报告摘要
 
-We analyzed 2,544 publicly shared hCoV-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading within communities. In this week's updates, we report:
+我们分析了2544个公开共享的COVID-19基因组。通过将这些病毒基因组相互比较，我们可以描述COVID-19是如何在世界各地迁移和在社区中传播的。在本周的更新中，我们发现：
 
-**Africa**  
-* Evidence for at least two different transmission chains circulating locally in Senegal  
-* Continued local spread in the Democratic Republic of the Congo  
+**非洲**  
+* 有证据表明塞内加尔至少有两个不同的本地传播链 
+* 刚果民主共和国存在持续的本地传播
 
-**Asia**  
-* Recent introductions to Japan are cruiseship-associated
+**亚洲**  
+* 日本近期的输入病例与邮轮有关
 
-**Europe**  
-* Extensive sequencing by Iceland demonstrates the extent of travel-associated spread
-* Travel histories suggest local transmission in Austria
+**欧洲**  
+* 冰岛的大量序列数据表明了旅行所导致的疫情传播程度Extensive sequencing by Iceland demonstrates the extent of travel-associated spread
+* 旅行史数据表明奥地利存在本地传播
 
-**North America**   
-* Extensive mixing across the U.S.  
-* Likely two local transmission chains circulating in Ontario  
+**北美洲**   
+* 美国全国的序列大量地混杂在一起Extensive mixing across the U.S.  
+* 安大略省很有可能存在两个本地传播链
 
-**Other areas of the world**
+**其他地区**
 <br>
-We also received new viral genomes from South America and Oceania. Most of these new samples are scattered across the tree and group with samples collected in other regions of the world. Without more contextual data, however, we aren't yet able to draw inferences about these new sequences.
+我们也获得了新的来自南美洲和大洋洲的病毒序列。大部分新样本都散布在演化树的各处，与在世界上其他地区采集到的样本聚在一起。然而，在没有更多的背景数据的情况下，我们还不能对这些新序列做出推断。
 <br><br>
-We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.
+我们赞赏正在为这些地区产生更多数据的研究组。当我们能做出更具体的推断的时候，我们会马上分享我们的发现。We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/2020-03-27)
-We've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2, also known as hCov-19.
-This information will make interpreting the data we present in this narrative easier.
+# [COVID-19背景资料](https://nextstrain.org/ncov/2020-03-27)
+我们准备了一些值得一读的材料，让您了解COVID-19（2019冠状病毒病）及其致病病毒SARS-CoV-2（严重急性呼吸综合征冠状病毒2型），或称hCov-19。这些资料将使您更容易理解我们在本报告中提供的数据。
 <br><br>
-If you aren't familiar with phylogenetic trees, we encourage you to check out the ['How to Read Phylogenies' narrative](https://nextstrain.org/narratives/trees-background/) and come back when you're ready.
+如果您不熟悉系统发生树，我们建议先阅读[如何解读系统发生树](https://nextstrain.org/narratives/trees-background/zh)，并在阅读后再回到此页。
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-## Nextstrain Resources  
+## Nextstrain的资料  
 
-[How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+[如何解读系统发生树](https://nextstrain.org/narratives/trees-background/zh).  
 
-[Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
+[冠状病毒的背景知识（英文）](https://nextstrain.org/help/coronavirus/human-CoV).
 
-[Background on the current hCoV-19 outbreak](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
+[当前COVID-19疫情的背景（英文）](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
 
-[FAQs](https://nextstrain.org/help/coronavirus/FAQ).
+[常见问题（英文）](https://nextstrain.org/help/coronavirus/FAQ).
 
-[Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[常见误区](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-13?n=11).
 
 
-## External Resources  
-[WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+## 外部资料
+[WHO的状况报告（英文）](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 
-[CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+[美国CDC的资料（英文）](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
-[The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+[纽约时报对COVID-19的报道（英文）](https://www.nytimes.com/news-event/coronavirus).
 
-[Our World in Data](https://ourworldindata.org/coronavirus).
+[数据中的世界（Our World in Data）（英文）](https://ourworldindata.org/coronavirus).
 
-[Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+[向科学家提问 & 常见问题解答（英文）](https://covid19.fas.org/l/en).
 
 
 ```
