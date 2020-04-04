@@ -51,7 +51,7 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 我们分析了2544个公开共享的COVID-19基因组。通过将这些病毒基因组相互比较，我们可以描述COVID-19是如何在世界各地迁移和在社区中传播的。在本周的更新中，我们发现：
 
 **非洲**  
-* 有证据表明塞内加尔至少有两个不同的本地传播链 
+* 证据表明塞内加尔至少有两个不同的本地传播链 
 * 刚果民主共和国存在持续的本地传播
 
 **亚洲**  
@@ -127,51 +127,45 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 <!-- This is left-side text 4-->
 # [非洲的最新情况](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
-这周，我们有了关于塞内加尔和刚果民主共和国的最新情况。We have updates this week for Senegal and the Democratic Republic of the Congo.
-但是，重要的是，这不意味着非洲其他地区没有COVID-19的病例，这只是因为我们在这两个地区有了足够的数据来做出推断。Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.
+这周，我们对塞内加尔和刚果民主共和国的情况进行更新。
+但重要的是，这不意味着非洲其他地区没有COVID-19的病例，而只是因为我们在这两个地区有了足够的数据来做出一些推断。
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [塞内加尔存在两个正在传播的本地传播链Two local transmission chains circulating in Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
+# [塞内加尔存在两个本地传播链](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
 
-这里，我们看到来自塞内加尔的病例聚成两簇。这两簇不聚在一起，意味着它们来自至少两次独立的输入事件。每簇中都含有在短期内取样到的亲缘关系很近的样本，与存在本地传播相一致。Here, we see two clusters of cases from Senegal. These clusters do not group together, which indicates that they were the result of at least two separate introductions. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
+这里，我们看到有两簇来自塞内加尔的病例。这两簇不聚在一起，意味着它们来自至少两次独立的输入事件。每簇中都含有在短期内取样到的亲缘关系很近的样本，与当地存在本地传播的结论相一致。
 <br><br>
-树上方的那一簇包括在2月28日和3月4日之间在达喀尔市采集到的病例。这意味着新冠病毒在达喀尔的本地传播可能至少有一个月了。
-The cluster shown towards the top of the tree consists of cases sampled in Dakar between February 28 and March 4.
-This suggests that hCoV-19 has been likely circulating locally in Dakar for at least 1 month.
+位于演化树上方的那一簇包括在2月28日至3月4日之间在达喀尔市采集到的样本，意味着新冠病毒在达喀尔的本地传播可能至少有一个月了。
 <br><br>
-树的中部是一簇在3月10日至3月12日在图巴市采集到的病例，意味着新冠病毒可能已经在图巴传播约3周了。
-In the middle of the tree is a cluster of cases sampled in Touba between March 10 and March 12.
-This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks.
+树的中部是一簇在3月10日至3月12日在图巴市采集到的样本，意味着新冠病毒可能已经在图巴传播约3周了。
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [刚果的本地传播仍在继续Continued local transmission in the DRC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
-我们这周得到了刚果民主共和国金沙萨市的8条新的的基因组序列。We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.
+# [刚果的本地传播仍在继续](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
+我们这周得到了8条新的来自刚果民主共和国金沙萨市的病毒基因组序列。
 <br><br>
-除了一条序列外，所有的新样本都聚在我们上周报道的本地传播的一支内All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+除了一条序列外，所有的新序列都聚在我们[上周报道](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-27?n=16)过的本地传播的演化支内。
 这表明刚果境内存在持续的本地传播，必须迅速采取行动，控制疫情。
-This demonstrates that there is ongoing local transmission within the DRC, and swift action must be taken to contain the outbreak.
-
-
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Updates for Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
+# [亚洲的最新情况](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Recent introductions to Japan are cruiseship-associated](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+# [日本最近的输入病例与邮轮有关](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-Of 16 recent sequences added from Japan, 10 have travel history on-board a Nile River cruise. After being diagnosed and sampled in Japan, all 16 sequences divide between two clusters. Interestingly, these clusters do not link with other Japanese or Asian sequences, but fall within clusters that are primarily found in the US and Europe.
+在16条来自日本的新序列中，10条有乘坐一艘尼罗河邮轮的旅行史。这16个病例在日本确诊和取样，在树上归为两簇。有意思的是，这两簇序列与其他日本或亚洲的序列关系不大，而是位于主要由美国和欧洲的序列组成的分支中。
 <br><br>
-Thus, it seems likely that these Japanese travelers were infected by strains they encountered from other Europeans and Americans visiting Egypt. As sequences were sampled in mid-March, after that travelers returned to Japan, this is evidence that variants that were primarily circulating in Europe and the US were being exported around the world in early March via global travel.
+所以，这些日本旅行者很可能是在埃及旅行期间，被所遇到的欧洲和美国旅客传染的。因为序列是在三月中旬旅客回到日本之后采集的，这个证据表明，原本主要在欧洲和美国流传的毒株在三月上旬经由国际旅行输出到世界各地。
+
 <!-- There is no right side text -->
 
 
