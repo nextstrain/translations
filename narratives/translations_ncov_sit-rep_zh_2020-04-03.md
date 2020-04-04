@@ -21,9 +21,11 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
   - 李雪莹
+  - Fengjun Zhang
 translatorLinks:
   - https://xueyingcli.weebly.com/
-date: "2020 April 03"
+  - https://twitter.com/fengjun_zhang
+date: "2020年04月03日"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
 abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19）基因组数据来追踪疫情的传播，此报告将每周更新。"
 ---
