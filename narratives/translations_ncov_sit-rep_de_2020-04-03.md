@@ -142,34 +142,34 @@ Im Folgenden sind 2 Fallcluster aus dem Senegal sichtbar. Diese Cluster koennen 
 <br><br>
 Cluster, die sich in der oberen Haelfte des Baums befinden wurden, besteht aus Proben, die in Dakar zwischen dem 28. Februar und 4. Maerz genommen worden sind. Das deutet darauf hin, dass hCoV-19 sich hoechstwahrscheinlich fuer mindestens einen Monat innerhalb von Dakar ausgebreitet hat.
 <br><br>
-In the middle of the tree is a cluster of cases sampled in Touba between March 10 and March 12.
-This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks.
+In der Baummitte befindet sich ein Cluster, das aus Proben besteht, die zwischen dem 10. und 12. Maerz in Touba entnommen worden sind. Folglich konnte sich hCoV-19 innerhalb von Touba in 3 Wochen ausbreiten.
+
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Continued local transmission in the DRC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
-We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.
+# [Weiterfuehrende oertliche Uebertragung des Virus in DR Kongo](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
+Diese Woche haben wir 8 neue Genome aus Kinsasha in der Demonkratischen Republik Kongo erhalten.
 <br><br>
-All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
-This demonstrates that there is ongoing local transmission within the DRC, and swift action must be taken to contain the outbreak.
+Ausser eine liegen alle neuen Proben innerhalb der lokalen Epidemieklade, ueber die wir [im Bericht der letzten Woche] berichtet haben(https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+Das zeigt eine kontinuierliche, oertliche Uebertragung des Virus innerhalb der DR Kongo stattfindet, was rasche Massnahmen fordern sollte zur einschraekung der Empidemie.
 
 
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Updates for Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
+# [Updates fuer Asien](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Recent introductions to Japan are cruiseship-associated](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+# [Neuste Einschleppung des Virus nach Japan stehen im Zusammenhang mit der Kreuzschifffahrt](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-Of 16 recent sequences added from Japan, 10 have travel history on-board a Nile River cruise. After being diagnosed and sampled in Japan, all 16 sequences divide between two clusters. Interestingly, these clusters do not link with other Japanese or Asian sequences, but fall within clusters that are primarily found in the US and Europe.
+10 von 16 neuen Sequenzierdaten aus Japan weisen Aufenthalte auf dem Nilkreusfahrtschiff auf. Nach der Diagnose und Probenanhme in Japan koennen alle 16 Sequenzen in 2 Cluster aufgeteilt werden. Interessanterweise scheinen diese Cluster in keinerlei Verbindung zu den japanischen oder asiatischen Sequenzen zu stehen, aber sie fallen in Gruppen, die man hauptsaechlich in den USA und Europa gefunden hat.
 <br><br>
-Thus, it seems likely that these Japanese travelers were infected by strains they encountered from other Europeans and Americans visiting Egypt. As sequences were sampled in mid-March, after that travelers returned to Japan, this is evidence that variants that were primarily circulating in Europe and the US were being exported around the world in early March via global travel.
+Daher ist es moeglich, dass diese japanischen Reisenden durch Staemme infiziert worden sind, die aus Europaeern und Amerikanern, die in Aegypten gewesen sind, stammen. Weil die Sequenzierdaten Mitte Maerz beprobt worden sind, nachdem die Reisenden nach Japan zurueckgekehrt sind, kann davon ausgegangen werden, dass sich diese Stammvarianten, die groesstenteils in Europa und den USA praesent sind, Anfang Maerz in der Welt reisebedingt ausgebreitet haben.
 <!-- There is no right side text -->
 
 
@@ -177,64 +177,64 @@ Thus, it seems likely that these Japanese travelers were infected by strains the
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Updates for Europe](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
+# [Updates fuer Europa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Extensive sequencing by Iceland highlights extent of travel-associated spread](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+# [Umfangreiche Sequenzierung zeigt die Ausmasse der reisebedingten Ausbreitung des Virus](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-We recently received 301 sequences -- from 25\% of [confirmed cases]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- from Iceland.
+Wir haben 301 neue Sequenzen -- aus 25\% der [bestaetigten Faelle]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- aus Island erhalten.
 <br><br>
-Coloring each sample by its recorded travel history, we see that approximately half of these infections were acquired outside of Iceland, while half are presumed locally acquired infections (shown in gray).
+Wenn man jede Probe anhand des Reiseverhaltens anfaerbt, kann man feststellen, dass ungefaehr die Haelfte dieser Infektionen ihren Ursprung ausserhalb Islands haben, waehrend die restlichen 50% aller Voraussicht auf lokale Infektionen zurueckfuehrbar sind (in grau).
 <br><br>
-As we [reported last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), this highlights just how much mixing there is between the outbreaks in each European country.
-For any given sample, we can draw inferences about where its predecessors must have been, but we can't rule out the possibility of indirect transmission by way of an unsampled location.
+Wie man [dem Bericht letzter Woche](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5) entnehmen kann, betont dies die Durchmischung zwischen den einzelnen europaeischen Epidemien.
+Fuer jede bestimmte Probe koennen wir Rueckschluesse darauf ziehen, wo der Vorgaenger gewesen sein musste, dennoch koennen wir nicht komplett die Moeglichkeit einer indirekten Uebertragung durch einen unbeprobten Ort ausschliessen.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Travel histories reveal local transmission in Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
+# [Reiseverhalten suggeriert eine oertliche Uebertragung in Oesterreich](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 
-This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
+Das ist auch ein sehr gutes Beispiel wie umfassende Sequenzierungsbemühungen und Reiseprotokollierungen eines einzelnen Landes uns helgen kann die aktuelle Situation anderswo besser zu verstehen, selbst wenn dort noch keine Sequenzierdaten vorhanden sind.
 <br><br>
-Looking at the cases sequenced in Iceland after reported travel to Austria, we see multiple clusters of closely related Austrian cases, sequenced over a short time period.
-This is most consistent with a scenario wherein there were multiple introductions into Austria. We can't be sure if the linked sequences represent community transmission in Austria or travel partners linking together after exposure to the same strain.
+Schaut man sich die Sequenzierdaten aus Island an, die eine Reise nach Oesterreich aufweisen, sieht man viele Cluster, die nah verwandt mit den oesterreichischen Faellen zu sein scheinen, die innerhalb einer kurzen Zeitspanne sequenziert worden sind.
+Das stimmt auch mit dem Szenario ueberein, worin es mehrere Einschleppungen nach Oesterreich gegeben hat. Wir sind nicht absolut sicher, ob die verknuepften Sequenzen eine Uebertragung innerhalb der Gemeinde oder ein Zusammenschluss mehrerer Reisepartner widerspiegelt nachdem sie mit demselben Stamm in Kontakt gekommen sind.
 <br><br>
-Though shown in grey, the number of connections between different European countries is notable. Most European countries seem to have multiple introductions, so there is no 'simple' story for how the virus has spread through Europe - it was likely spreading widely weeks ago.
+Die Anzahl der Verbingungen innerhalb der verschiedenen eruopaeischen Laender ist nennenswert, obwohl diese nur in grau dargestellt sind. Die meisten europaeischen Laender scheinen mehrere Einschleppungen des Virus aufzuweisen, daher gibt es keine einfache Erklaerung zur Ausbreitung innerhalb Europas. Hoechstwahrscheinlich hat es sich weitlaeufig vor einigen Wochen ausgebreitet.
 
 
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Updates for North America](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
+# [Updates fuer Nordamerika](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Extensive mixing across the U.S.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
+# [Grossflaechige Durchmischung innerhalb der USA](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
 
-As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
+Da wir uns ein besseres Bild der Epidemie in den USA machen koennen, ist es nun sicher, dass diese oertlichen Ausbrueche des Virus eine Folge einer grossflaechigen Durchmischung sind.
 <br><br>
-While many of the early cases were travel-associated, the more recent cases from many different states are largely intermingled with each other across the tree.   
+Waehrend die meisten der ersten Faelle reisebedingte Infektionen sind, scheinen die juengsten Proben stark untereinander verknuepft und ueber den gesamten Braum verteilt zu sein.    
 <br><br>
-This emphasizes that a unified strategy will be crucial to stopping this outbreak.
+Dies betont, dass eine einheitliche Strategie zur Verhinderung der Epidemie noetig ist.
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [Two local transmission chains circulating in Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+# [Hoechstwahrscheinlich kursieren 2 lokale Verbreitungsketten in Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-Here, we see two clusters of sequences from Ontario. These clusters do not group together, and each cluster nests alongside samples from other countries, indicating that these were the result of two separate introductions.
+Hierbei sehen wir 2 Cluster innerhalb der Sequenzen aus Ontario. Diese Cluster koennen nicht miteinander gruppiert werden und jedes Cluster ist mit Proben aus anderen Laendern verschachtelt. Dies deutet auf 2 unaebhaengige Einfuehrungen des Virus hin.
 <br><br>
-Within each cluster, however, each of these cases is most closely related to other cases from Ontario, indicating that this is most likely local, community transmission.
+Jedoch ist jeder Fall Innerhalb jedes Clusters nah verwandt zu anderen Faellen aus Ontario, was darauf hindeutet, dass die Uebertragung sich hier innerhalb der Gemeinden lokal vollzogen hat.
 <br><br>
-From this, we infer that there has likely been community transmission in Ontario since at least the 3rd of March.
+Davon ausgehend schlussfolgern wir eine uebertragung innerhalb der Gemeinden in Ontario seit fruhstens dem 3. Maerz.
 <br><br>
 Interestingly, most of the surrounding sequences (faded tips) are from the U.S., suggesting that there has been significant mixing between the two countries.
 <!-- There is no right side text -->
