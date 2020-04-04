@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-03.
+title: Analiza genomiczna rozprzestrzeniania się COVID-19. Raport sytuacyjny 2020-04-03.
 authors:
   - Emma Hodcroft
   - Cassia Wagner
@@ -23,7 +23,7 @@ translators:
 translatorLinks:
 date: "2020 April 03"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się COVID-19. Raporty są uaktualniane co tydzień."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,43 +31,60 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
+# [Spis treści](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Updates for Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Updates for Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Updates for Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Updates for North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [Materiały wprowadzające w tematykę](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
+* [O danych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
+* [Aktualizacja sytuacji w Afryce](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
+* [Aktualizacja sytuacji w Azji](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
+* [Aktualizacja sytuacji w Europie](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
+* [Aktualizacja sytuacji w Ameryce Północnej](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
+* [Co ty możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
+* [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Streszczenie
 
-We analyzed 2,544 publicly shared hCoV-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading within communities. In this week's updates, we report:
+Przeanalizowaliśmy 2,544</tag> dostępnych publicznie genomów COVID-19. Porównując je potrafimy ocenić, w jaki sposób wirus rozprzestrzenia się po świecie i wewnątrz społeczności. W niniejszym raporcie prezentujemy:
 
-**Africa**  
-* Evidence for at least two different transmission chains circulating locally in Senegal  
-* Continued local spread in the Democratic Republic of the Congo  
 
-**Asia**  
-* Recent introductions to Japan are cruiseship-associated
+**Afryka**  
+* Przedstawiamy dowody na co najmniej dwa niezależne łańcuchy transmisji wystepujące lokalnie w Senegalu
+* Kontynuacja lokalnego rozprzestrzeniania się wirusa w Demokratycznej Repuplice Kongo 
 
-**Europe**  
-* Extensive sequencing by Iceland demonstrates the extent of travel-associated spread
-* Travel histories suggest local transmission in Austria
+<!-- * Evidence for at least two different transmission chains circulating locally in Senegal  
+* Continued local spread in the Democratic Republic of the Congo --> 
 
-**North America**   
-* Extensive mixing across the U.S.  
-* Likely two local transmission chains circulating in Ontario  
+**Azja**  
+* Niedawne introdukcje wirusa do Japonii związane ze statkami wycieczkowymi
 
-**Other areas of the world**
+<!-- * Recent introductions to Japan are cruiseship-associated -->
+
+**Europa**  
+* Intensywne sekwencjonowanie na Islandii demonstruje zakres rozprzestrzeniania się wirusa związany z podróżami
+* Historie podróży sugerują lokalne ogniska epidemii w Austrii
+
+<!-- * Extensive sequencing by Iceland demonstrates the extent of travel-associated spread
+* Travel histories suggest local transmission in Austria -->
+
+**Ameryka Północna**   
+* Rozległe mieszanie się wirusa w obrębie USA
+* Prawdopodobe dwa lokalne łańcuchy transmisji w Ontario
+
+<!-- * Extensive mixing across the U.S.  
+* Likely two local transmission chains circulating in Ontario  -->
+
+**Inne rejony świata**
 <br>
-We also received new viral genomes from South America and Oceania. Most of these new samples are scattered across the tree and group with samples collected in other regions of the world. Without more contextual data, however, we aren't yet able to draw inferences about these new sequences.
+Otrzymaliśmy również nowe genomy wirusa z Ameryki Południowej i Oceanii. Większość tych nowych próbek jest rozproszona na drzewie i grupuje się z próbkami pochodzącymi z innych rejonów świata. Bez dodatkowych informacji, nie jesteśmy jeszcze w stanie wyciągnąć wniosków na temat tych nowych sekwencji. 
 <br><br>
-We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.
+Przyklaskujemy grupom pracującym nad generowaniem dodatkowych danych dla tych regionów. Udostępnimy rezultaty analiz jak tylko będziemy mogle wyciągnąć bardziej szczegółowe wnioski. 
+
+<!-- We also received new viral genomes from South America and Oceania. Most of these new samples are scattered across the tree and group with samples collected in other regions of the world. Without more contextual data, however, we aren't yet able to draw inferences about these new sequences.
+<br><br>
+We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.-->
+
 ```
 
 
