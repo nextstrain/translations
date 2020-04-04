@@ -152,7 +152,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 # [지속적으로 콩고민주공화국 내 지역전파가 이루어지는 중](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
 이번 주 저희는 콩고민주공화국의 킨사샤로부터 8개의 새로운 염기서열 자료를 받았습니다.
 <br><br>
-[지난 주에 보고한](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-27?n=16) 사례들 중 1개를 제외한 전부가 공통의 지역사회 유행 분류군으로 한데 묶였습니다. 
+[지난 주에 보고한](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-27?n=16) 사례들 중 1개를 제외한 전부가 공통의 지역사회 유행 분기군으로 한데 묶였습니다. 
 이는 현재 콩고민주공화국 내에서 지역사회 전파가 이루어지고 있음을 의미하며, 확산을 막기 위한 신속한 조치가 필요합니다.
 
 
@@ -198,12 +198,12 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- This is left-side text 11-->
 # [여행 기록을 통해 오스트리아 지역사회 전파가 밝혀졌습니다.](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 
-This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
+이는 또한 한 국가의 포괄적인 유전정보 해독 노력과 여행 기록이 아직 유전정보 해독이 이루어지지 않은 지역일지라도 다른 지역의 상황을 이해하는데 얼마나 큰 도움이 될 수 있는지를 잘 보여주는 사례입니다.
 <br><br>
-Looking at the cases sequenced in Iceland after reported travel to Austria, we see multiple clusters of closely related Austrian cases, sequenced over a short time period.
-This is most consistent with a scenario wherein there were multiple introductions into Austria. We can't be sure if the linked sequences represent community transmission in Austria or travel partners linking together after exposure to the same strain.
+오스트리아로의 여행을 보고한 후 아이슬란드에서 해독된 사례들을 보면, 단기간 동안에 해독되었으며, 오스트리아 사례들과 매우 밀접한 연관성을 여러 사례군들을 확인할 수 있습니다.
+이는 오스트리아로의 여러번 유입이 있었다는 시나리오와 가장 일치합니다. 연결된 사례들이 오스트리아 내의 지역사회 전파를 나타내는 것인지, 아니면 같은 변종에 노출된 후에 함께 연결되는 여행 동반자들을 나타내는 것인지는 확실하지 않습니다.
 <br><br>
-Though shown in grey, the number of connections between different European countries is notable. Most European countries seem to have multiple introductions, so there is no 'simple' story for how the virus has spread through Europe - it was likely spreading widely weeks ago.
+비록 회색으로 표시되어 있지만, 다른 유럽 국가들 간의 연결되는 횟수는 주목할 만 합니다. 대부분의 유럽 국가에는 여러 번의 유입이 있는 것처럼 보이기 때문에, 어떻게 바이러스가 유럽 전역에 퍼졌는지에 대한 '단순한' 설명은 불가능합니다. 이 바이러스는 몇 주 전부터 널리 퍼져 있었을 것으로 보입니다.
 
 
 
