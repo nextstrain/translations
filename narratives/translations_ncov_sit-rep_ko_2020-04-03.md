@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-03.
+title: COVID-19 확산에 대한 유전체 분석. 2020년 4월 3일 상황 보고서
 authors:
   - Emma Hodcroft
   - Cassia Wagner
@@ -19,8 +19,10 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
+translators: 
+  - Taehoon Ha
 translatorLinks:
+  - https://taehoonh.github.io
 date: "2020 April 03"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
 abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
@@ -33,41 +35,43 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- This is left-side text 1-->
 # [Table of Contents](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Updates for Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Updates for Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Updates for Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Updates for North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [배경지식](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
+* [데이터 수집 관련 사항](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
+* [아프리카의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
+* [아시아의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
+* [유럽의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
+* [북아메리카의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
+* [우리가 할 수 있는 것들](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
+* [과학적 기여](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# 개요
 
-We analyzed 2,544 publicly shared hCoV-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading within communities. In this week's updates, we report:
+저희는 2,544개의 공개된 코로나19의 유전체 염기서열을 분석하였습니다. 바이러스들을 비교 분석하여 코로나19가 어떻게 진화하고 세계 곳곳으로 퍼지고 있는지 분석할 수 있습니다. 
 
-**Africa**  
-* Evidence for at least two different transmission chains circulating locally in Senegal  
-* Continued local spread in the Democratic Republic of the Congo  
+이번 주 보고서에서 새로 추가된 것들:
 
-**Asia**  
-* Recent introductions to Japan are cruiseship-associated
+**아프리카**  
+* 세네갈에서 적어도 두 개의 전파 연쇄가 순환 중이라는 증거를 발견
+* 지속적으로 콩고민주공화국에서 지역사회 확산이 이루어지고 있음
 
-**Europe**  
-* Extensive sequencing by Iceland demonstrates the extent of travel-associated spread
-* Travel histories suggest local transmission in Austria
+**아시아**  
+* 최근 일본으로의 유입은 유람선과 관련
 
-**North America**   
-* Extensive mixing across the U.S.  
-* Likely two local transmission chains circulating in Ontario  
+**유럽**  
+* 아이슬란드의 광범위한 염기서열 자료는 여행과 관련된 확산의 정도를 보여줌
+* 여행의 이력을 살펴보면 오스트리아에서의 지역사회 전파 가능성을 시사
 
-**Other areas of the world**
+**북아메리카**   
+* 미국 전역에서 광범위하게 뒤섞이고 있음
+* 온타리오 지역 내 두 개의 전파 연쇄가 있는 것으로 보임
+
+**세계 다른 지역들**
 <br>
-We also received new viral genomes from South America and Oceania. Most of these new samples are scattered across the tree and group with samples collected in other regions of the world. Without more contextual data, however, we aren't yet able to draw inferences about these new sequences.
+남아메리카와 오세아니아로부터 새로 염기서열 자료를 받았습니다. 이 새로운 자료 대부분은 계통수의 여기저기에 흩어져 위치하고 있으며, 세계의 다른 지역에서 수집된 자료와 함께 한데 묶입니다. 하지만, 전후사정에 대한 추가적인 자료가 없으면, 우리는 아직 이 새로운 염기서열 자료에 대해서 유추하기 어렵습니다.
 <br><br>
-We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.
+우리는 이 지역들에 대한 추가적인 자료를 생성하기 위해 일하는 조직들에게 감사의 인사를 전합니다. 보다 구체적인 추론이 가능해지는대로, 즉시 결과를 공유하도록 하겠습니다.
 ```
 
 
