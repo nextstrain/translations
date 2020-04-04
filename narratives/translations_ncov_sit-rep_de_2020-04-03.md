@@ -126,7 +126,7 @@ Zum Beispiel zeigt die Karte nur sehr geringe Sequenzierdaten aus dem globalen S
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Updates fue Afrika](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
+# [Updates fuer Afrika](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
 Wir haben aktuelle Informationen zu Senegal und der Demokratischen Repulik Kongo. 
 Vor allem sei hier erwaehnt, dass dies nicht bedeutet, dass es keine COVID-19 Faelle anderswo in Afrika gibt. Fuer die oben erwaehnten Laender stehen uns derzeit genuegend Daten zu Verfuegung, um Rueckschluesse ziehen zu koennen.
