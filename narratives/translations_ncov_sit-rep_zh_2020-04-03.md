@@ -37,14 +37,14 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- This is left-side text 1-->
 # [目录](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [关于取样](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [非洲的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [亚洲的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [欧洲的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [北美的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-03?n=2).     
+* [关于取样](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-03?n=3).
+* [非洲的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-03?n=4).
+* [亚洲的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-03?n=7).
+* [欧洲的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-03?n=9).
+* [北美的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-03?n=12).
+* [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-03?n=15).
+* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -283,7 +283,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 我们要感谢参与此次疫情研究的所有科学家所做的令人惊叹和及时的工作，特别是那些在中国工作的科学家。只有通过基因组数据和元数据的快速共享，才有可能进行这样的分析。
 
 <br>
-我们也感谢GISAID提供了上传和共享这些数据的平台。
+我们也感谢[GISAID](https://www.gisaid.org/)提供了上传和共享这些数据的平台。
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
