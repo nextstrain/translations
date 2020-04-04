@@ -25,7 +25,7 @@ translators:
 translatorLinks:
   - https://xueyingcli.weebly.com/
   - https://twitter.com/fengjun_zhang
-date: "2020年04月03日"
+date: "2020年 04月 03日"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
 abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-19）基因组数据来追踪疫情的传播，此报告将每周更新。"
 ---
@@ -130,7 +130,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 # [非洲的最新情况](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
 这周，我们对塞内加尔和刚果民主共和国的情况进行更新。
-重要的是，这不意味着非洲其他地区没有COVID-19的病例——我们只是在这两个地区有了足够的数据来做出一些推断。
+重要的是，这不意味着非洲其他地区就没有 COVID-19 的病例了，我们只是在这两个地区有了足够的数据来做出一些推断。
 <!-- There is no right side text -->
 
 
