@@ -164,7 +164,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- This is left-side text 8-->
 # [日本近期的输入病例与邮轮有关](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-在 16 条来自日本的新序列中，10 条有乘坐尼罗河邮轮的旅行史。这 16 个病例在回到日本后被确诊和取样，放在此演化树上能被归为两簇。有意思的是，这两簇序列与其他日本或亚洲的序列关系不大，而是被归类为主要由美国和欧洲的序列组成的分支中。
+在 16 条来自日本的新序列中，10 条有乘坐尼罗河邮轮的旅行史。这 16 个病例在回到日本后被确诊和取样，放在此演化树上能被归为两簇。有意思的是，这两簇序列与其他日本或亚洲的序列关系不大，而是被归在主要由美国和欧洲的序列组成的分支中。
 <br><br>
 所以，这些日本旅行者很可能是在埃及旅行期间，在当地被所遇到的欧洲和美国旅客传染的。因为序列是在三月中旬旅客回到日本之后采集的，所以这里的证据表明，原本主要在欧洲和美国流传的病毒株，在三月上旬经由国际旅行输出到了世界各地。
 
@@ -183,12 +183,12 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- This is left-side text 10-->
 # [冰岛的大量测序数据显示出旅行对疫情传播的影响](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-我们最近获得了301条冰岛的序列，占冰岛[确诊病例](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)总量的25\%。
+我们最近获得了 301 条冰岛的序列，占冰岛[确诊病例](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)总量的 25\%。
 <br><br>
-通过按照所登记的旅行史对样本进行着色，我们看到大约一半的病例是在冰岛境外感染的，另一半被认为是在本地感染的（灰色）。
+这些病例通过按照所登记的旅行史对样本进行着色后，我们看到大约一半的病例是在冰岛境外感染的，而另一半则被认为是在本地感染的（灰色）。
 <br><br>
-如[上周报告](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-27?n=5)所述，这凸显出欧洲各国的疫情大幅度地混杂在一起。
-我们可以对每一个样本的来源地点进行推测，但是我们不能排除病毒经由未取样地区间接传播的情况。
+如[上周报告](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-27?n=5)所述，这凸显出欧洲各国的疫情有多大幅度上是混杂在一起相互影响的。
+我们现在可以对每一个样本的来源地点进行推测，但是并不能排除病毒经由未取样地区间接传播的情况。
 <!-- There is no right side text -->
 
 
