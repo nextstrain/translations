@@ -240,7 +240,7 @@ For any given sample, we can draw inferences about where its predecessors must h
 To jest również bardzo mocny przykład jak obszerne sekwencjonowanie i rejestrowanie podróży w jednym kraju może nam pomóc w zrozumieniu lokalnej sytuacji w innych miejscach, nawet tych, gdzie nie ma jeszcze danych z sekwencjonowania.
 <br><br>
 Patrząc na przypadki zsekwencjonowane w Islandii z zarejestrowaną podróżą do Austrii, widzimy wiele klastrów blisko spokrewnionych przypadków, zsekwencjonowanych w ciągu krótkiego okresu czasu. 
-To jest najbardziej zgodne ze scenariuszem, w którym nastapiło wiele introdukcji do Austrii. Nie możemy być jednak pewni czy powiązane grupy sekwencji przedstawiają lokalne transmisje w Austii, czy raczej partnerów podróży wspólnie powiązanych po ekspozycji na ten sam wariant wirusa.
+To jest najbardziej zgodne ze scenariuszem, w którym nastapiło wiele introdukcji do Austrii. Nie możemy być jednak pewni czy powiązane grupy sekwencji przedstawiają lokalne transmisje w Austrii, czy raczej partnerów podróży wspólnie powiązanych po ekspozycji na ten sam wariant wirusa.
 <br><br>
 Liczba kontaktów pomiędzy różnymi krajami Europejskimi jest znaczna i zaznaczona na szaro. Większość krajów Europejskich wydaje się mieć wielokrotne introdukcje, wobec tego nie ma 'prostego' scenariusza opisującego jak wirus rozprzestrzenia się w Europie - prawdopodobnie szeroko się rozprzestrzeniał od wielu tygodni.
 
@@ -262,27 +262,43 @@ Though shown in grey, the number of connections between different European count
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Extensive mixing across the U.S.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
+# [Obszerne mieszanie się w obrębie USA](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
+<!--Extensive mixing across the U.S.-->
 
-As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
+W miarę jak uzyskujemy coraz pełniejszy obraz epidemii w USA, staje się jasne, że te lokalne wybuchy epidemii są rezultatem rozległego mieszania się przypadków. <!-- trochę to dziwnie brzmi 'mieszanie się przypadków', może jakieś lepsze sformuowanie AF -->
+<br><br>
+Podczas gdy wiele pierwotnych przypadków było związanych z podróżami, niedawne przypadki z wielu stanów są silnie ze sobą zmieszane na drzewie filogenetycznym.
+<br><br>
+To poskreśla, że potrzebna jest jednolita strategia aby zatrzymać tą epidemię.
+
+<!-- As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
 <br><br>
 While many of the early cases were travel-associated, the more recent cases from many different states are largely intermingled with each other across the tree.   
 <br><br>
-This emphasizes that a unified strategy will be crucial to stopping this outbreak.
+This emphasizes that a unified strategy will be crucial to stopping this outbreak.-->
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [Two local transmission chains circulating in Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+# [Dwa lokalne łańcuchy transmisji w Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+<!-- [Two local transmission chains circulating in Ontario] -->
+Tutaj widzimy dwa klastry sekwencji z Ontario w Kanadzie. Te klastry nie grupują się ze sobą, a każdy klaster jest zagnieżdżony obok próbek pochodzących z innych krajów, wskazując, że te przypadki były wynikiem dwóch niezależnych introdukcji. 
+<br><br>
+Jednak w obrębie każdego klastra, każdy z przypadków grupuje się z innymi przypadkami z Ontario, wskazując, że są to najprawdopodobniej lokalne ogniska transmisji.
+<br><br>
+Na tej podstawie wnioskujemy, że prawdopodobnie występowały trasmisje wirusa w obrębie społeczności od co najmniej 3 marca. 
+<br><br>
+Co ciekawe, większość otaczających ich sekwencji na drzewie (wyblakłe krańce gałęzi) są z USA, co sugeruje, że jest intensywna wymiana wirusa pomiędzy tymi dwoma krajami.
 
-Here, we see two clusters of sequences from Ontario. These clusters do not group together, and each cluster nests alongside samples from other countries, indicating that these were the result of two separate introductions.
+<!-- Here, we see two clusters of sequences from Ontario. These clusters do not group together, and each cluster nests alongside samples from other countries, indicating that these were the result of two separate introductions.
 <br><br>
 Within each cluster, however, each of these cases is most closely related to other cases from Ontario, indicating that this is most likely local, community transmission.
 <br><br>
 From this, we infer that there has likely been community transmission in Ontario since at least the 3rd of March.
 <br><br>
-Interestingly, most of the surrounding sequences (faded tips) are from the U.S., suggesting that there has been significant mixing between the two countries.
+Interestingly, most of the surrounding sequences (faded tips) are from the U.S., suggesting that there has been significant mixing between the two countries.-->
+
 <!-- There is no right side text -->
 
 
