@@ -1,6 +1,6 @@
 ---
-Titel: Genomische Analyse der Verbreitung von COVID-19. Lagebericht vom 2020-04-03.
-Autoren:
+title: Genomische Analyse der Verbreitung von COVID-19. Lagebericht vom 2020-04-03.
+authors:
   - Emma Hodcroft
   - Cassia Wagner
   - Sidney M. Bell
@@ -9,7 +9,7 @@ Autoren:
   - Louise Moncla  
   - Richard Neher
   - Trevor Bedford
-Links zu den Autoren:
+authorLinks:
   - https://neherlab.org/emma-hodcroft.html
   - https://bedford.io/team/cassia-wagner/
   - https://twitter.com/sidneymbell
@@ -18,16 +18,16 @@ Links zu den Autoren:
   - https://bedford.io/team/louise-moncla/
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
-Zugehoerigkeiten: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-Uebersetzer:
+affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
+translators:
   - Elisabeth Hirth
   - Astrid Gall
-Links zu den Uebersetzern:
+translatorLinks:
   - https://bsse.ethz.ch/department/people/detail-person.MjM4ODcw.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html
   - https://www.ebi.ac.uk/about/people/astrid-gall
-Datum: "2020-04-03"
-Daten: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-Kurzfassung: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von COVID-19 zu beschreiben, und wird wöchentlich aktualisiert."
+date: "2020-04-03"
+dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
+abstract: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von COVID-19 zu beschreiben, und wird wöchentlich aktualisiert."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -37,14 +37,14 @@ Kurzfassung: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung v
 <!-- This is left-side text 1-->
 # [Inhaltsverzeichnis](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [Anmerkung zur Probennahme](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Updates fuer Afrika](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Updates fuer Asien](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Updates fuer Europa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Updates fuer Nordamerika](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [Was Sie tun koennen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Wissenschaftliche Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-03?n=2).     
+* [Anmerkung zur Probennahme](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-03?n=3).
+* [Updates fuer Afrika](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-03?n=4).
+* [Updates fuer Asien](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-03?n=7).
+* [Updates fuer Europa](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-03?n=9).
+* [Updates fuer Nordamerika](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-03?n=12).
+* [Was Sie tun koennen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-03?n=15).
+* [Wissenschaftliche Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -97,7 +97,7 @@ Falls Sie nicht mit phylogenetischen Baeumen vertraut sein sollten, raten wir Ih
 
 [FAQs](https://nextstrain.org/help/coronavirus/FAQ).
 
-[Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-03-13?n=11).
 
 
 ## Externe Quellen  
@@ -155,7 +155,7 @@ In der Baummitte befindet sich ein Cluster, der aus Proben besteht, die zwischen
 # [Weiterfuehrende oertliche Uebertragung des Virus in der DR Kongo](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
 Diese Woche haben wir acht neue Genome aus Kinshasa in der Demonkratischen Republik Kongo erhalten.
 <br><br>
-Mit Ausnahme einer Probe liegen alle neuen Proben innerhalb der lokalen Epidemieklade, ueber die wir [letzte Woche] berichtet haben(https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+Mit Ausnahme einer Probe liegen alle neuen Proben innerhalb der lokalen Epidemieklade, ueber die wir [letzte Woche] berichtet haben(https://nextstrain.org/narratives/ncov/sit-rep/de/2020-03-27?n=16).
 Das zeigt eine kontinuierliche, oertliche Uebertragung des Virus innerhalb der DR Kongo, was rasche Massnahmen fordern sollte zur Einschraekung der Empidemie.
 
 
@@ -189,11 +189,11 @@ Daher ist es moeglich, dass diese japanischen Reisenden durch Isolate infiziert 
 <!-- This is left-side text 10-->
 # [Umfangreiche Sequenzierung zeigt die Ausmasse der reisebedingten Ausbreitung des Virus](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-Wir haben 301 neue Sequenzen -- aus 25\% der [bestaetigten Faelle]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- aus Island erhalten.
+Wir haben 301 neue Sequenzen -- aus 25\% der [bestaetigten Faelle](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf) -- aus Island erhalten.
 <br><br>
 Wenn man jede Probe anhand des Reiseverhaltens anfaerbt, kann man feststellen, dass ungefaehr die Haelfte dieser Infektionen ihren Ursprung ausserhalb Islands haben, waehrend die andere Haelfte aller Voraussicht nach auf lokale Infektionen zurueckfuehrbar ist (in grau).
 <br><br>
-Wie man [dem Bericht letzter Woche](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5) entnehmen kann, betont dieses die Durchmischung zwischen den einzelnen europaeischen Epidemien.
+Wie man [dem Bericht letzter Woche](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-03-27?n=5) entnehmen kann, betont dieses die Durchmischung zwischen den einzelnen europaeischen Epidemien.
 Fuer jede bestimmte Probe koennen wir Rueckschluesse darauf ziehen, wo der Vorgaenger gewesen sein musste, dennoch koennen wir nicht komplett die Moeglichkeit einer indirekten Uebertragung an einen unbeprobten Ort ausschliessen.
 <!-- There is no right side text -->
 
@@ -291,7 +291,7 @@ Wir moechten uns recht herzlich bei allen Forschern fuer deren Zeit und wunderba
 
 <br>
 
-Zudem moechten wir uns recht herzlich bei GISAID fuer die Bereitstellung der Plattform bedanken, durch die diese Daten geteilt und hochgeladen werden koennen.
+Zudem moechten wir uns recht herzlich bei [GISAID](https://www.gisaid.org/) fuer die Bereitstellung der Plattform bedanken, durch die diese Daten geteilt und hochgeladen werden koennen.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
