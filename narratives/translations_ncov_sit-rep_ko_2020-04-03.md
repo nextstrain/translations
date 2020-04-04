@@ -150,6 +150,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
 # [지속적으로 콩고민주공화국 내 지역전파가 이루어지는 중](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
+
 이번 주 저희는 콩고민주공화국의 킨사샤로부터 8개의 새로운 염기서열 자료를 받았습니다.
 <br><br>
 [지난 주에 보고한](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-27?n=16) 사례들 중 1개를 제외한 전부가 공통의 지역사회 유행 분기군으로 한데 묶였습니다. 
@@ -166,7 +167,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [최근 일본으로의 유입은 유람선과 관련되어 있습니다.](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+# [최근 일본으로의 유입은 유람선과 관련이 있습니다.](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
 최근 일본에서 추가된 16개의 염기서열 자료 중 10개는 나일 강 유람선 승선 이력이 있습니다. 일본에서 진단과 수집을 거친 후에, 16개의 자료들은 두 사례군으로 나누어졌습니다. 흥미롭게도, 이 사례군들은 다른 일본인 또는 아시아 사람의 염기서열 자료와 같이 묶이지 않고, 미국과 유럽에서 주로 발견되는 사례들과 묶이는 것을 확인할 수 있었습니다.
 <br><br>
@@ -185,6 +186,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
 # [아이슬란드로부터 받은 대규모 염기서열 자료는 여행과 관련된 확산의 정도를 보여줍니다.](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+
 최근 저희는 아이슬란드로부터 301개의 염기서열 자료를 받았습니다. 이는 [아이슬란드 전체 확진자 수](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf) 의 25\%에 해당하는 양입니다.
 <br><br>
 여행 기록에 따라 각 사례들을 채색해 본 결과, 이 중 절반은 아이슬란드 밖에서 감염되었음을 확인할 수 있었고, 또 다른 절반은 아이슬란드 지역 내에서 감염(회색으로 표시된)된 것으로 추정됩니다.  
@@ -216,27 +218,27 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Extensive mixing across the U.S.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
+# [미국 전역에서 광범위하게 뒤섞이고 있습니다.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
 
-As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
+미국에서의 확산 상황을 더 잘 알 수 있게 되면서, 지역사회 유행은 광범위한 뒤섞임의 결과라는 점이 분명해졌습니다.
 <br><br>
-While many of the early cases were travel-associated, the more recent cases from many different states are largely intermingled with each other across the tree.   
+초기의 많은 사례들이 여행과 관련된 것이었지만, 최근 다른 주들에서 발생한 사례들은 계통수 전체에 퍼져 뒤섞여 있습니다.
 <br><br>
-This emphasizes that a unified strategy will be crucial to stopping this outbreak.
+이는 단일화된 전략이 확산을 막는 데 얼마나 중요한지를 잘 보여줍니다.
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [Two local transmission chains circulating in Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+# [두 개의 전파 연쇄가 순환 중인 온타리오](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-Here, we see two clusters of sequences from Ontario. These clusters do not group together, and each cluster nests alongside samples from other countries, indicating that these were the result of two separate introductions.
+온타리오 내에서 두 개의 사례군이 보입니다. 이 사례군들은 함께 묶이지 않으며, 각 사례군은 다른 나라 사례들 옆에 자리하는 것을 확인할 수 있습니다. 이는 두 개의 서로 다른 유입이 있었음을 의미합니다.
 <br><br>
-Within each cluster, however, each of these cases is most closely related to other cases from Ontario, indicating that this is most likely local, community transmission.
+그러나 각 사례군 내에서, 각 표본들은 온타리오 주 내의 다른 사례들과 가장 밀접한 연관성을 보이며, 이는 지역사회 전파 가능성이 높다는 것을 의미합니다.
 <br><br>
-From this, we infer that there has likely been community transmission in Ontario since at least the 3rd of March.
+이를 통해, 적어도 3월 3일 이후 온타리오 내에서 지역사회 전파가 있었을 것으로 추정됩니다.
 <br><br>
-Interestingly, most of the surrounding sequences (faded tips) are from the U.S., suggesting that there has been significant mixing between the two countries.
+흥미롭게도, 대부분의 주변 사례들(희미하게 표시된)은 미국에서 온 것으로, 양 국가 간에 상당한 뒤섞임이 있었을 것으로 보입니다.
 <!-- There is no right side text -->
 
 
