@@ -188,14 +188,13 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Extensive sequencing by Iceland highlights extent of travel-associated spread](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+# [تحديد مكثف لسلاسل جينات الفيروس في ايسلندا يسلط الضوء على انتشار للفيروس مرتبط بالسفر](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-We recently received 301 sequences -- from 25\% of [confirmed cases]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- from Iceland.
+حصلنا مؤخرا على  ٣٠١ سلسلة جينية من ايسلندا -  ٢٥٪ منها مأخوذة من مرضى بحالات [اصابة مؤكدة]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf))
 <br><br>
-Coloring each sample by its recorded travel history, we see that approximately half of these infections were acquired outside of Iceland, while half are presumed locally acquired infections (shown in gray).
+هنا قمنا بتلوين العينات بالاعتماد على تاريخ السفر للمريض، وجدنا تقريبا نصف هذه الحالات تمت اصابتها خارج ايسلندا. بينما النصف الآخر، افتراضيا، هي اصابات محلية. 
 <br><br>
-As we [reported last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), this highlights just how much mixing there is between the outbreaks in each European country.
-For any given sample, we can draw inferences about where its predecessors must have been, but we can't rule out the possibility of indirect transmission by way of an unsampled location.
+كما  ذكرنا  في تقرير [الاسبوع  الماضي](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5)،  هذا يشير إلى كمية الخلط الحاصلة في انتشار الوباء في كل دولة  أوروبية. بامكاننا التنبؤ عن المكان الجغرافي  للإصابة، ولكن لا يمكن استبعاد احتمالية انتقال غير مباشر للعدوى في مكان لم تجمع منه العينا
 <!-- There is no right side text -->
 
 
