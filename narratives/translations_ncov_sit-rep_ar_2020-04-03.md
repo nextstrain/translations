@@ -33,14 +33,14 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 <!-- This is left-side text 1-->
 # [جدول المحتويات](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [مصادر الخلفية العلمية](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [ملاحظة عن جمع العينات](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [تحديثات عن افريقيا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [تحديثات عن آسيا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [تحديثات عن اوروبا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [تحديثات عن امريكا الشمالية](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [ماذا يمكنك ان تفعل](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [الحقوق العلمية](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [مصادر الخلفية العلمية](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=2).     
+* [ملاحظة عن جمع العينات](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=3).
+* [تحديثات عن افريقيا](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=4).
+* [تحديثات عن آسيا](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=7).
+* [تحديثات عن اوروبا](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=9).
+* [تحديثات عن امريكا الشمالية](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=12).
+* [ماذا يمكنك ان تفعل](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=15).
+* [الحقوق العلمية](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -190,7 +190,7 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 <!-- This is left-side text 10-->
 # [تحديد مكثف لسلاسل جينات الفيروس في ايسلندا يسلط الضوء على انتشار للفيروس مرتبط بالسفر](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-حصلنا مؤخرا على  ٣٠١ سلسلة جينية من ايسلندا -  ٢٥٪ منها مأخوذة من مرضى بحالات [اصابة مؤكدة]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf))
+حصلنا مؤخرا على  ٣٠١ سلسلة جينية من ايسلندا -  ٢٥٪ منها مأخوذة من مرضى بحالات [اصابة مؤكدة](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf).
 <br><br>
 هنا قمنا بتلوين العينات بالاعتماد على تاريخ السفر للمريض، وجدنا تقريبا نصف هذه الحالات تمت اصابتها خارج ايسلندا. بينما النصف الآخر، افتراضيا، هي اصابات محلية. 
 <br><br>
