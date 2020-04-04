@@ -19,7 +19,7 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
+translators: Elisabeth Hirth
 translatorLinks:
 date: "2020 April 03"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
@@ -33,24 +33,24 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- This is left-side text 1-->
 # [Table of Contents](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Updates for Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Updates for Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Updates for Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Updates for North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
+* [Anmerkung zur Probennahme](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
+* [Updates fuer Afirka](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
+* [Updates fuer Asien](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
+* [Updates fuer Europa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
+* [Updates fuer Nordamerika](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
+* [Was Sie tun koennen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
+* [Wissenschaftliche Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Zusammenfassung
 
-We analyzed 2,544 publicly shared hCoV-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading within communities. In this week's updates, we report:
+Wir haben 2,544 oeffentlich zugaengliche hCoV-19 Genome analysiert. Durch den Vergleich der Virusgenome untereinander koennen wir charakterisieren, wie sich COVID-19 global und lokal weiterverbreitet. In diesem woechentlichen Update berichten wir:
 
-**Africa**  
-* Evidence for at least two different transmission chains circulating locally in Senegal  
-* Continued local spread in the Democratic Republic of the Congo  
+**Afrika**  
+* Hinweise fuer mindestens 2 unterschiedliche Uebertragungsketten, die dezentral im Senegal zirkuliert.
+* Weiterhin verbreitet sich das Virus in der Demokratischen Republik Kongo
 
 **Asia**  
 * Recent introductions to Japan are cruiseship-associated
