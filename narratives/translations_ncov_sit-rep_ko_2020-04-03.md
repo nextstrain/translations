@@ -81,7 +81,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 # [코로나바이러스감염증-19 관련자료](https://nextstrain.org/ncov/2020-03-27)
 코로나바이러스감염증-19와 이를 유발하는 SARS-CoV-2 바이러스(또는 hCov-19로 알려진)에 대한 몇 가지 자료를 준비했습니다. 이 정보들은 저희가 이 보고서에서 제시한 내용을 이해하는데 도움을 줄 것입니다.
 <br><br>
-계통수(계통유전학적 나무)가 익숙하지 않은 분들은 ['계통수를 읽는 법'](https://nextstrain.org/narratives/trees-background/ko) 를 읽고 오십시오.
+계통수(계통유전학적 나무)가 익숙하지 않은 분들은 ['계통수를 읽는 법'](https://nextstrain.org/narratives/trees-background/ko) 을 읽고 오십시오.
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
@@ -107,7 +107,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 [데이터로 본 세계](https://ourworldindata.org/coronavirus).
 
-[과학자에게 물어보세요 & 흔한 질문들](https://covid19.fas.org/l/en).
+[과학자에게 물어보세요 & 자주 묻는 질문](https://covid19.fas.org/l/en).
 
 
 ```
