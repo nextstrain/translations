@@ -154,10 +154,10 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
 # [انتشار محلي مستمر في جمهورية الكونغو الديموقراطية](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
-We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.
+حصلنا هذا الاسبوع على ثمانية جينومات جديدة من كينشاسا في جمهورية الكونغو الديموقراطية
 <br><br>
-All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
-This demonstrates that there is ongoing local transmission within the DRC, and swift action must be taken to contain the outbreak.
+جميع العينات الجديدة ما عدا واحدة منها تتجمع في عنقود انتشار محلي والذي  [قمنا بتوثيقه في تقرير الاسبوع الماضي](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+وهذا يشير الى ام هناك انتشار محلي جار في جمهورية الكونغو الديمقراطية، وللحاجة الى تدابير سريعة من أجل احتواء الانتشار الوبائي هناك.
 
 
 
