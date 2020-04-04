@@ -21,7 +21,7 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
 translatorLinks:
-date: "3 نيسان 2020"
+date: "3 April 2020"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
 abstract: "يستخدم هذا التقرير بيانات الجينومات الفيروسية التي تم مشاركتها للعموم في تتبع انتشار كوفيد 19. يتم تحديث هذا التقرير اسبوعيا"
 ---
@@ -157,7 +157,7 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 حصلنا هذا الاسبوع على ثمانية جينومات جديدة من كينشاسا في جمهورية الكونغو الديموقراطية
 <br><br>
 جميع العينات الجديدة ما عدا واحدة منها تتجمع في عنقود انتشار محلي والذي  [قمنا بتوثيقه في تقرير الاسبوع الماضي](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
-وهذا يشير الى ام هناك انتشار محلي جار في جمهورية الكونغو الديمقراطية، وللحاجة الى تدابير سريعة من أجل احتواء الانتشار الوبائي هناك.
+وهذا يشير الى أن هناك انتشار محلي جار في جمهورية الكونغو الديمقراطية، وللحاجة الى تدابير سريعة من أجل احتواء الانتشار الوبائي هناك.
 
 
 
@@ -170,11 +170,11 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Recent introductions to Japan are cruiseship-associated](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+# [ادخالات حديثة لليابان مرتبطة بسفينة سياحية](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-Of 16 recent sequences added from Japan, 10 have travel history on-board a Nile River cruise. After being diagnosed and sampled in Japan, all 16 sequences divide between two clusters. Interestingly, these clusters do not link with other Japanese or Asian sequences, but fall within clusters that are primarily found in the US and Europe.
+من 16 تسلسل جينومي اضيفت من اليابان، 10 منها تمتلك تاريخ سفر على ظهر سفينة نهر النيل السياحية. بعد ان تم تشخيصها واخذ العينات منها في اليابان، تبين ان جميع 16 تسلسل تنقسم بين تجمعين. من المثير للاهتمام بأن هذه التجمعات لا ترتبط مع تسلسلات يابانية او آسيوية اخرى وانما تقع في تجمعات وجدت بشكل اساسي في الولايات المتحدة واوروبا
 <br><br>
-Thus, it seems likely that these Japanese travelers were infected by strains they encountered from other Europeans and Americans visiting Egypt. As sequences were sampled in mid-March, after that travelers returned to Japan, this is evidence that variants that were primarily circulating in Europe and the US were being exported around the world in early March via global travel.
+وعليه، فانه يظهر على الاغلب ان هؤلاؤ المسافرين اليابانيين اصيبوا بالعدوى من سلالات فيروسية لدى اوروبيين او امريكيين كانوا يزورون مصر. وحيث ان العينات تم جمعها في وسط آذار وبعدها عاد المسافرون الى اليابان، فمن الواضح بان السلالات التي كانت تدور بشكل اساسي في اوروبا والولايات المتحدة كان يتم تصديرها حول العالم منذ بداية اوائل شهر آذار من خلال السفر العالمي
 <!-- There is no right side text -->
 
 
@@ -182,7 +182,7 @@ Thus, it seems likely that these Japanese travelers were infected by strains the
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Updates for Europe](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
+# [تحديثات عن اوروبا](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
 <!-- There is no right side text -->
 
 
