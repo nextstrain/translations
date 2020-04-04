@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-03.
+title: Analyse génomique de la propagation de COVID-19. Rapport de situation du 2020-04-03.
 authors:
   - Emma Hodcroft
   - Cassia Wagner
@@ -20,10 +20,16 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+    - Etienne Simon-Loriere
+    - Maxime Morin
+    - Meriem El Karoui
 translatorLinks:
-date: "2020 April 03"
+    - https://twitter.com/simonlorierelab
+    - https://twitter.com/Maijin212
+    - https://twitter.com/MEKLab
+date: "3 Avril 2020"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "Ce rapport utilise des données génomiques partagées publiquement pour suivre la propagation de COVID-19. Ces rapports sont mis à jour chaque semaine."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,80 +37,81 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
+# [Table des matières](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Updates for Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Updates for Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Updates for Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Updates for North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [Ressources sur COVID-19](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-03?n=2).
+* [Une remarque sur l'échantillonnage](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-03?n=3).
+* [Mises à jour pour l'Afrique](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-03?n=4).
+* [Mises à jour pour l'Asie](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-03?n=7).
+* [Mises à jour pour l'Europe](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-03?n=9).
+* [Mises à jour pour l'Amérique du Nord](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-03?n=12).
+* [Mesures que vous pouvez prendre](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-03?n=15).
+* [Crédit scientifique](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Résumé exécutif
 
-We analyzed 2,544 publicly shared hCoV-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading within communities. In this week's updates, we report:
+Ici, nous avons analysé 2544 génomes du COVID-19 partagés publiquement. En comparant ces génomes viraux entre eux, nous pouvons caractériser comment COVID-19 se déplace dans le monde et évolue au sein des communautés. Dans les mises à jour de cette semaine, nous rapportons :
 
-**Africa**  
-* Evidence for at least two different transmission chains circulating locally in Senegal  
-* Continued local spread in the Democratic Republic of the Congo  
+**Afrique**  
+* Preuve d'au moins deux chaînes de transmission différentes circulant localement au Sénégal
+* Poursuite de la propagation locale en République Démocratique du Congo
 
-**Asia**  
-* Recent introductions to Japan are cruiseship-associated
+**Asie**  
+* Les introductions récentes au Japon sont associées à des croisières
 
 **Europe**  
-* Extensive sequencing by Iceland demonstrates the extent of travel-associated spread
-* Travel histories suggest local transmission in Austria
+* Le séquençage extensif effectué par l'Islande démontre l'étendue de la propagation associée aux voyages
+* Les historiques de voyage révèlent une transmission locale en Autriche
 
-**North America**   
-* Extensive mixing across the U.S.  
-* Likely two local transmission chains circulating in Ontario  
+**Amérique du Nord**  
+* Mélange extensif aux États-Unis
+* Probablement deux chaînes de transmission locales circulant en Ontario
 
-**Other areas of the world**
+**Autres régions du monde**
 <br>
-We also received new viral genomes from South America and Oceania. Most of these new samples are scattered across the tree and group with samples collected in other regions of the world. Without more contextual data, however, we aren't yet able to draw inferences about these new sequences.
+Nous avons également reçu de nouveaux génomes viraux d'Amérique du Sud et d'Océanie. La plupart de ces nouveaux échantillons sont dispersés à travers l'arbre et se groupent avec des échantillons collectés dans d'autres régions du monde. Sans données sur le contexte, nous ne sommes pas encore en mesure de tirer des conclusions sur ces nouvelles séquences.
 <br><br>
-We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.
+Nous applaudissons les groupes qui travaillent à produire des données supplémentaires pour ces régions. À mesure que des inférences plus spécifiques deviendront possibles, nous partagerons immédiatement ces résultats.
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/2020-03-27)
-We've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2, also known as hCov-19.
-This information will make interpreting the data we present in this narrative easier.
+# [Ressources sur COVID-19](https://nextstrain.org/ncov/2020-04-03)
+Nous avons préparé quelques ressources qui valent la peine d’être lues pour vous familiariser avec COVID-19 et le virus qui le provoque, SARS-CoV-2 aussi connu sous le nom de hCov-19.
+
+Ces informations faciliteront l’interprétation des données que nous présentons dans ce document.
 <br><br>
-If you aren't familiar with phylogenetic trees, we encourage you to check out the ['How to Read Phylogenies' narrative](https://nextstrain.org/narratives/trees-background/) and come back when you're ready.
+Si vous n’êtes pas familier avec les arbres phylogénétiques, nous vous encourageons à consulter ["Comment lire les phylogénies"](https://nextstrain.org/narratives/trees-background/fr) et à revenir quand vous serez prêt.
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-## Nextstrain Resources  
+## Ressources Nextstrain
 
-[How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+[Comment lire les phylogénies](https://nextstrain.org/narratives/trees-background/fr).  
 
-[Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
+[Informations sur les coronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
 
-[Background on the current hCoV-19 outbreak](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
+[Contexte de l'émergence de hCoV-19](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
 
 [FAQs](https://nextstrain.org/help/coronavirus/FAQ).
 
-[Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[Idées Reçues](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-03-13?n=11).
 
 
-## External Resources  
-[WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+## Ressources externes
+[Rapports de situation de l'OMS](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 
-[CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+[Ressources du CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
-[The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+[Couverture COVID-19 du NYTimes](https://www.nytimes.com/news-event/coronavirus).
 
-[Our World in Data](https://ourworldindata.org/coronavirus).
+[Le monde en Chiffres](https://ourworldindata.org/coronavirus).
 
-[Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+[Posez vos questions à un scientifique et FAQ](https://covid19.fas.org/l/en).
 
 
 ```
@@ -112,12 +119,12 @@ If you aren't familiar with phylogenetic trees, we encourage you to check out th
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 53 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Une remarque sur l'échantillonnage](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
+Nous disposons actuellement de séquences provenant d'isolats viraux prélevés dans 53 pays sur 6 continents. C'est une réalisation incroyable: le séquençage d'un virus à ARN inconnu et de grande taille en pleine pandémie est difficile, et n'est possible que grâce au travail exceptionnel et au partage en temps réel des données par les scientifiques et les médecins du monde entier.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+Si ces données nous permettent de déduire de nombreuses caractéristiques utiles de l'épidémie et de suivre sa propagation en temps réel, il est important de souligner que nos conclusions sont limitées par les données disponibles.
 <br><br>
-For example, the map shows relatively few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+Par exemple, la carte ne montre que très peu de séquences provenant des pays du Sud. Ce n'est PAS parce que COVID-19 ne circule pas dans ces régions, ou que ces cas ne sont pas aussi cruciaux à comprendre ; c'est plutôt que nous n'avons pas beaucoup de données disponibles sur ces régions. La taille de chaque cercle sur la carte indique la quantité de données actuellement disponibles dans cette zone, plutôt que l'ampleur réelle de l'épidémie.
 
 <!-- There is NO right-side text -->
 
@@ -125,50 +132,52 @@ For example, the map shows relatively few sequences from the global south. This 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Updates for Africa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
+# [Mises à jour pour l'Afrique](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
-We have updates this week for Senegal and the Democratic Republic of the Congo.
-Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.
+Nous avons des mises à jour cette semaine pour le Sénégal et la République Démocratique du Congo.
+Mais attention, cela ne signifie pas qu'il n'y a pas de cas de COVID-19 ailleurs en Afrique; il s'agit seulement des endroits où nous avons suffisamment de données pour commencer à faire des inférences.
+
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Two local transmission chains circulating in Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
+# [Deux chaînes de transmission locales en circulation au Sénégal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
 
-Here, we see two clusters of cases from Senegal. These clusters do not group together, which indicates that they were the result of at least two separate introductions. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
-<br><br>
-The cluster shown towards the top of the tree consists of cases sampled in Dakar between February 28 and March 4.
-This suggests that hCoV-19 has been likely circulating locally in Dakar for at least 1 month.
-<br><br>
-In the middle of the tree is a cluster of cases sampled in Touba between March 10 and March 12.
-This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks.
+Ici, nous voyons deux groupes de cas du Sénégal. Ces clusters de cas ne se regroupent pas dans l'arbre, ce qui indique qu'ils sont le résultat d'au moins deux introductions distinctes. Chacun de ces clusters de cas se compose de cas étroitement liés échantillonnés sur une courte période, compatible avec une transmission locale.
+<br> <br>
+Le cluster représenté vers le haut de l'arbre est constitué de cas échantillonnés à Dakar entre le 28 février et le 4 mars.
+Cela suggère que le hCoV-19 circule probablement localement à Dakar depuis au moins 1 mois.
+<br> <br>
+Au milieu de l'arbre se trouve un groupe de cas échantillonnés à Touba entre le 10 et le 12 mars.
+Cela suggère que le hCoV-19 pourrait avoir circulé à Touba pendant environ 3 semaines.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Continued local transmission in the DRC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
-We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.
+# [Poursuite de la transmission locale en RDC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
+Nous avons reçu cette semaine 8 nouveaux génomes de Kinshasa en République Démocratique du Congo.
 <br><br>
-All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
-This demonstrates that there is ongoing local transmission within the DRC, and swift action must be taken to contain the outbreak.
+Tous les nouveaux échantillons, sauf un, groupent avec les clades d’épidémies locales sur lesquelles
+[nous avons fait un rapport la semaine dernière](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+Cela démontre qu'il existe une transmission locale continue au sein de la RDC, et que des mesures rapides doivent être prises pour contenir l'épidémie.
 
 
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Updates for Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
+# [Mises à jour pour l'Asie](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Recent introductions to Japan are cruiseship-associated](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+# [Les introductions récentes au Japon sont associées à des croisières](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+Sur 16 séquences récentes ajoutées du Japon, 10 ont des antécédents de voyage à bord d'une croisière sur le Nil. Après diagnostic et échantillonnage au Japon, les 16 séquences se répartissent entre deux grappes. Fait intéressant, ces clusters ne sont pas liés à d'autres séquences japonaises ou asiatiques, mais font partie de clusters que l'on trouve principalement aux États-Unis et en Europe.
+<br> <br>
+Ainsi, il semble probable que ces voyageurs japonais ont été infectés par des souches rencontrées par d'autres Européens et Américains en visite en Égypte. Comme les séquences ont été échantillonnées à la mi-mars, après le retour des voyageurs au Japon, cela prouve que des variantes qui circulaient principalement en Europe et aux États-Unis étaient exportées dans le monde entier au début du mois de mars via des voyages internationaux.
 
-Of 16 recent sequences added from Japan, 10 have travel history on-board a Nile River cruise. After being diagnosed and sampled in Japan, all 16 sequences divide between two clusters. Interestingly, these clusters do not link with other Japanese or Asian sequences, but fall within clusters that are primarily found in the US and Europe.
-<br><br>
-Thus, it seems likely that these Japanese travelers were infected by strains they encountered from other Europeans and Americans visiting Egypt. As sequences were sampled in mid-March, after that travelers returned to Japan, this is evidence that variants that were primarily circulating in Europe and the US were being exported around the world in early March via global travel.
 <!-- There is no right side text -->
 
 
@@ -176,66 +185,67 @@ Thus, it seems likely that these Japanese travelers were infected by strains the
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Updates for Europe](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
+# [Mises à jour pour l'Europe](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Extensive sequencing by Iceland highlights extent of travel-associated spread](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+# [Un séquençage extensif par l'Islande met en évidence l'étendue de la diffusion associée aux voyages](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-We recently received 301 sequences -- from 25\% of [confirmed cases]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- from Iceland.
+Nous avons récemment reçu 301 séquences, provenant de 25 \% des [cas confirmés](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf) -- de l'Islande.
 <br><br>
-Coloring each sample by its recorded travel history, we see that approximately half of these infections were acquired outside of Iceland, while half are presumed locally acquired infections (shown in gray).
+En colorant chaque échantillon par son historique de voyage enregistré, on constate qu'environ la moitié de ces infections ont été contractées en dehors de l'Islande, tandis que la moitié sont des infections présumées acquises localement (indiquées en gris).
 <br><br>
-As we [reported last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), this highlights just how much mixing there is between the outbreaks in each European country.
-For any given sample, we can draw inferences about where its predecessors must have been, but we can't rule out the possibility of indirect transmission by way of an unsampled location.
+Comme nous l'avons [rapporté la semaine dernière](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), cela montre à quel point les épidémies se mélangent dans chaque pays européen.
+Pour un échantillon donné, nous pouvons tirer des conclusions sur l'endroit où ses prédécesseurs ont dû se trouver, mais nous ne pouvons pas exclure la possibilité d'une transmission indirecte par le biais d'un lieu non échantillonné.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Travel histories reveal local transmission in Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
+# [Les historiques de voyage révèlent une transmission locale en Autriche](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 
-This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
-<br><br>
-Looking at the cases sequenced in Iceland after reported travel to Austria, we see multiple clusters of closely related Austrian cases, sequenced over a short time period.
-This is most consistent with a scenario wherein there were multiple introductions into Austria. We can't be sure if the linked sequences represent community transmission in Austria or travel partners linking together after exposure to the same strain.
-<br><br>
-Though shown in grey, the number of connections between different European countries is notable. Most European countries seem to have multiple introductions, so there is no 'simple' story for how the virus has spread through Europe - it was likely spreading widely weeks ago.
+C'est également un exemple puissant de la façon dont des efforts de séquençage massifs et l'enregistrement des déplacements par un pays peuvent nous aider à comprendre la situation locale ailleurs, y compris pour des endroits qui ne génèrent pas encore de données de séquençage.
+<br> <br>
+En examinant les cas séquencés en Islande après un voyage signalé en Autriche, nous observons plusieurs groupes de cas autrichiens étroitement liés, séquencés sur une courte période.
+Cela est plus conforme à un scénario dans lequel il y a eu plusieurs introductions en Autriche. Nous ne pouvons pas être sûrs si les séquences liées représentent une transmission communautaire en Autriche ou si des partenaires de voyage se lient ensemble après une exposition à la même souche.
+<br> <br>
+Bien que représenté en gris, le nombre de connexions entre les différents pays européens est notable. La plupart des pays européens semblent avoir plusieurs introductions, il n'y a donc pas d'histoire «simple» sur la façon dont le virus s'est propagé à travers l'Europe - il se propageait probablement largement il y a plusieurs semaines.
+
 
 
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Updates for North America](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
+# [Mises à jour pour l'Amérique du Nord](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Extensive mixing across the U.S.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
+# [Mélange intensif à travers les États-Unis.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
 
-As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
+À mesure que nous nous faisons une idée plus complète de l'épidémie aux États-Unis, il est clair que ces foyers localisés sont le résultat d'un mélange intensif.
 <br><br>
-While many of the early cases were travel-associated, the more recent cases from many different states are largely intermingled with each other across the tree.   
+Alors que beaucoup des premiers cas étaient associés à des voyages, les cas plus récents, provenant de nombreux États différents, sont largement mêlés les uns aux autres de part et d'autre de l'arbre.
 <br><br>
-This emphasizes that a unified strategy will be crucial to stopping this outbreak.
+Cela souligne qu'une stratégie unifiée sera cruciale pour arrêter cette épidémie.
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [Two local transmission chains circulating in Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+# [Deux chaînes de transmission locales circulant en Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-Here, we see two clusters of sequences from Ontario. These clusters do not group together, and each cluster nests alongside samples from other countries, indicating that these were the result of two separate introductions.
+Ici, nous voyons deux groupes de séquences provenant de l'Ontario. Ces regroupements de cas ne se regroupent pas sur l'arbre, et chaque regroupement niche aux côtés d'échantillons provenant d'autres pays, ce qui indique que ceux-ci sont le résultat de deux introductions distinctes.
 <br><br>
-Within each cluster, however, each of these cases is most closely related to other cases from Ontario, indicating that this is most likely local, community transmission.
+Au sein de chaque groupe, cependant, chacun de ces cas est plus étroitement lié aux autres cas de l'Ontario, ce qui indique qu'il s'agit très probablement d'une transmission locale, communautaire.
 <br><br>
-From this, we infer that there has likely been community transmission in Ontario since at least the 3rd of March.
+Nous en déduisons qu'il y a probablement eu une transmission communautaire en Ontario depuis au moins le 3 mars.
 <br><br>
-Interestingly, most of the surrounding sequences (faded tips) are from the U.S., suggesting that there has been significant mixing between the two countries.
+Il est intéressant de noter que la plupart des séquences environnantes (points aux couleurs délavées) proviennent des États-Unis, ce qui suggère un mélange important entre les deux pays.
 <!-- There is no right side text -->
 
 
@@ -243,33 +253,33 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing.
-* Even if you are not vulnerable, practice social distancing to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially if you are sick; be prepared with a few extra supplies.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Mesures que vous pouvez prendre](https://nextstrain.org/ncov/2020-04-03?c=country&d=map&p=full)
+#### En tant que particulier
+* Réduisez drastiquement le nombre de personnes avec lesquelles vous êtes en contact chaque jour, surtout si vous faites partie d'un groupe vulnérable (par exemple, les personnes âgées et les personnes souffrant de maladies préexistantes).
+* N'oubliez pas que même si vous ne faites pas partie de ces personnes vulnérables, de nombreuses personnes autour de vous le sont ; suivez ces pratiques pour protéger les autres.
+* Lavez-vous les mains "comme si vous veniez de couper un piment et que vous deviez changer une lentille de contact".
+* Restez à la maison si vous êtes malade ; soyez prêt à vous procurer quelques provisions supplémentaires au cas où vous auriez besoin de vous mettre en quarantaine.
+* Si vous êtes un employeur, encouragez vos employés à rester chez eux lorsqu'ils sont malades (et soutenez-les financièrement).
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing and isolation efforts.  
-* Financially support those impacted by social distancing measures.
+#### En tant qu'autorité responsable
+* Rendre les tests gratuits et largement disponibles.
+* Mettre en place des mesures de distanciation sociale.
+* Financer et mettre en œuvre de vastes efforts de "contact tracing" (traçage des contacts).
+* Soutenir financièrement les personnes touchées par les mesures de distanciation sociale (par exemple, les travailleurs payés a l'heure, les personnes ayant des responsabilités, d'aide aux personnes âgées ou aux enfants, les petites entreprises, etc.).
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# En résumé
 <br><br>
-#### We find evidence for local transmission within Senegal and the DRC. Swift action must be taken to contain the outbreak in these vulnerable areas. We do not yet have enough data to assess the situation in other parts of Africa.
+#### Nous avons trouvé des preuves de transmission locale au Sénégal et en RDC. Des mesures rapides doivent être prises pour contenir l'épidémie dans ces zones vulnérables. Nous ne disposons pas encore de suffisamment de données pour évaluer la situation dans les autres régions d'Afrique.
 <br><br><br>
-#### Recent introductions to Japan are associated with cruiseship travel.
+#### Les introductions récentes au Japon sont associées à des croisières
 <br><br><br>
-#### Extensive sequencing by Iceland highlights extent of travel-associated spread and reveal likely local transmission in Austria.  
+#### Un séquençage approfondi effectué par l'Islande met en évidence l'ampleur de la propagation associée aux voyages et révèle une probable transmission locale en Autriche.
 <br><br><br>
-#### Cases across the U.S. co-mingle on the tree, demonstrating extensive spread across state lines. There is also evidence of mixing across the U.S.-Canadian border and local transmission within Ontario.  
+#### Les cas se mêlent sur l'arbre à travers les États-Unis, démontrant une vaste propagation à travers les frontières des États. Il y a également des preuves de mélange à travers la frontière canado-américaine et de transmission locale en Ontario. 
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -279,21 +289,19 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 
 <!-- ############ SLIDE BREAK ############# -->
 
-<!-- This is left-side text 16-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
+# [Crédit scientifique](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
-
+Nous tenons à souligner le superbe travail accompli si rapidement par tous les scientifiques impliqués dans cette épidémie, et en particulier ceux qui travaillent en Chine. 
+Ce n'est que par le partage rapide des données génomiques et des métadonnées que de telles analyses sont possibles.
 <br>
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Nous remercions également [GISAID](https://gisaid.org) d'avoir fourni la plate-forme à travers laquelle ces données peuvent être téléchargées et partagées.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Nous sommes reconnaissants pour les données recueillies par ces laboratoires d'origine:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -612,19 +620,18 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Crédit scientifique détaillé](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Ces données ont été partagées par [GISAID](https://gisaid.org). Nous remercions chaleureusement leurs contributions.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+Sur la droite nous indiquons les séquences partagées par chaque laboratoire.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Les génomes du SRAS-CoV-2 ont été généreusement partagés par les scientifiques de ces laboratoires:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
