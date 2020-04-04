@@ -125,32 +125,35 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Updates for Africa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
+# [非洲的最新情况](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
-We have updates this week for Senegal and the Democratic Republic of the Congo.
-Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.
+这周，我们有了关于塞内加尔和刚果民主共和国的最新情况。We have updates this week for Senegal and the Democratic Republic of the Congo.
+但是，重要的是，这不意味着非洲其他地区没有COVID-19的病例，这只是因为我们在这两个地区有了足够的数据来做出推断。Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Two local transmission chains circulating in Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
+# [塞内加尔存在两个正在传播的本地传播链Two local transmission chains circulating in Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
 
-Here, we see two clusters of cases from Senegal. These clusters do not group together, which indicates that they were the result of at least two separate introductions. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
+这里，我们看到来自塞内加尔的病例聚成两簇。这两簇不聚在一起，意味着它们来自至少两次独立的输入事件。每簇中都含有在短期内取样到的亲缘关系很近的样本，与存在本地传播相一致。Here, we see two clusters of cases from Senegal. These clusters do not group together, which indicates that they were the result of at least two separate introductions. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
 <br><br>
+树上方的那一簇包括在2月28日和3月4日之间在达喀尔市采集到的病例。这意味着新冠病毒在达喀尔的本地传播可能至少有一个月了。
 The cluster shown towards the top of the tree consists of cases sampled in Dakar between February 28 and March 4.
 This suggests that hCoV-19 has been likely circulating locally in Dakar for at least 1 month.
 <br><br>
+树的中部是一簇在3月10日至3月12日在图巴市采集到的病例，意味着新冠病毒可能已经在图巴传播约3周了。
 In the middle of the tree is a cluster of cases sampled in Touba between March 10 and March 12.
 This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Continued local transmission in the DRC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
-We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.
+# [刚果的本地传播仍在继续Continued local transmission in the DRC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
+我们这周得到了刚果民主共和国金沙萨市的8条新的的基因组序列。We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.
 <br><br>
-All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+除了一条序列外，所有的新样本都聚在我们上周报道的本地传播的一支内All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+这表明刚果境内存在持续的本地传播，必须迅速采取行动，控制疫情。
 This demonstrates that there is ongoing local transmission within the DRC, and swift action must be taken to contain the outbreak.
 
 
