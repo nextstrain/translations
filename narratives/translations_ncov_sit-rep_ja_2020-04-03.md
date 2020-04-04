@@ -73,7 +73,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <br>
 南米とオセアニアから新しいウイルスゲノムを受け取りました。これらの新しいサンプルのほとんどは系統樹全体に散らばっており、世界の他の地域で収集されたサンプルとグループを形成しています。ただし、より多くの状況に関する情報がないかぎり、これらの新しい遺伝子配列に関する推論を得ることはできません。
 <br><br>
-我々はこれらの地域で追加データの生成に取り組んでいるグループを称賛します。より具体的な推論が可能になり次第、すぐにその結果を共有します。
+我々はこれらの地域で追加データの生成に取り組んでいるグループを称賛します。より具体的な推論が可能になり次第、すぐにその結果を共有します。We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.
 ```
 
 
