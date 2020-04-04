@@ -37,7 +37,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
+# 目次(https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
 * [資料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
 * [このデータについて](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
@@ -62,8 +62,8 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 * 最近の日本への伝搬は、クルーズ船に関連しています
 
 **ヨーロッパ**  
-* アイスランドにおける広範な分析は、旅行者による拡散を示しています
-* 旅行履歴からオーストリアでの地域感染を示唆しています
+* アイスランドにおける広範な分析を通じて、旅行者による拡散の度合いを示します
+* 旅行履歴によってオーストリアでの地域感染が示唆されます
 
 **北米**   
 * 米国全体での広範な混ざり合い
@@ -71,7 +71,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 
 **その他の地域**
 <br>
-南米とオセアニアから新しいウイルスゲノムを受け取りました。これらの新しいサンプルのほとんどは系統樹全体に散らばっており、世界の他の地域で収集されたサンプルとグループ化されています。ただし、より多くの情報がないと、これらの新しい遺伝子配列に関する推論を得ることはできません。
+南米とオセアニアから新しいウイルスゲノムを受け取りました。これらの新しいサンプルのほとんどは系統樹全体に散らばっており、世界の他の地域で収集されたサンプルとグループを形成しています。ただし、より多くの状況に関する情報がないかぎり、これらの新しい遺伝子配列に関する推論を得ることはできません。
 <br><br>
 我々はこれらの地域で追加データの生成に取り組んでいるグループを称賛します。より具体的な推論が可能になり次第、すぐにその結果を共有します。
 ```
@@ -82,7 +82,6 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- This is left-side text 2-->
 # [COVID-19 に関する資料](https://nextstrain.org/ncov/2020-03-27)
 COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解するために、読む価値のある資料を用意しました。これらの情報は、このレポートで提示するデータの解釈に役立ちます。
-This information will make interpreting the data we present in this narrative easier.
 <br><br>系統樹に詳しくない場合は[系統発生の読み方](https://nextstrain.org/narratives/trees-background/) の内容を確認した上で、次のページに進むことをお勧めします。
 <!-- This is right-side text -->
 
@@ -120,7 +119,7 @@ This information will make interpreting the data we present in this narrative ea
 <!-- This is left-side text 3-->
 
 # [収集されたデータについて](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
-現在、6大陸の53か国で採取されたサンプルの遺伝子配列があります。これは信じられないほどの成果です。流行の最中に未知の大型RNAウイルスの遺伝子を解析することは難しく、世界中の科学者や医師による信じられないような作業とタイムリーなデータの共有があって初めて可能になりました。
+現在、6大陸の53カ国で採取されたサンプルの遺伝子配列があります。これは信じられないほどの成果です。流行の最中に未知の大型RNAウイルスの遺伝子を解析することは難しく、世界中の科学者や医師による信じられないような作業とタイムリーなデータの共有があって初めて可能になりました。
 <br><br>このデータにより、多くの有用な特性を推測し、流行の広がりをリアルタイムで追跡することができますが、結論は利用可能なデータによって制限されることに留意して下さい。
 <br><br>例えば、この地図を見ると、南半球からの遺伝子配列が非常に少なく表示されますが、これは COVID-19 がこれらの地域で流行していないため、またはこれらの症例を理解することが重要ではないためではありません。むしろ、これらの地域からの入手可能なデータが少ないことを意味します。 マップ上の各円のサイズは、実際の流行の広がり度合いを示すというよりも、そのエリアにおいて利用可能なデータ量を示しています。
 
@@ -132,7 +131,7 @@ This information will make interpreting the data we present in this narrative ea
 <!-- This is left-side text 4-->
 # [アフリカに関するアップデート](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
-今週は、セネガルとコンゴ民主共和国についての更新があります。これは、この２カ国が推論を始めるのに十分なデータがある場所という事であり、アフリカの他の場所において COVID-19 の症例がないということではありません。
+今週は、セネガルとコンゴ民主共和国についての更新があります。これは、この2カ国が推論を始めるのに十分なデータがある場所という事であり、アフリカの他の場所において COVID-19 の症例がないということではありません。
 <!-- There is no right side text -->
 
 
@@ -152,7 +151,7 @@ This information will make interpreting the data we present in this narrative ea
 # [コンゴ民主共和国での継続的な地域拡散](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
 今週コンゴ民主共和国のキンシャサ (Kinshasa) から8つの新しいゲノムを受け取りました。
 <br><br>
-新しいサンプルの1つを除くすべてが、先週報告した地域的な感染拡大の系統内に集まっています。これは、コンゴ民主共和国内で進行中の地域感染が存在することを示しており、感染拡大を封じ込めるために迅速な行動をとる必要があります。
+新しいサンプルの1つを除くすべてが、[先週報告した](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16)地域的な感染拡大の系統内に集まっています。これは、コンゴ民主共和国内で進行中の地域感染が存在することを示しており、感染拡大を封じ込めるために迅速な行動をとることが必須です。
 
 
 
@@ -168,7 +167,7 @@ This information will make interpreting the data we present in this narrative ea
 # [最近の日本への伝搬は、クルーズ船に関連しています](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
 日本から追加された最近の16種の遺伝子配列のうち、10種はナイル川のクルーズ船に乗った旅行の履歴があります。 日本で診断および採取された16種の遺伝子配列すべてが、2つのクラスターに分かれます。興味深いことに、これらのクラスターは他の日本やアジアの遺伝子配列とは関係していませんが、主に米国とヨーロッパで見られる遺伝子配列に含まれています。
-<br><br>したがって、これらの日本人旅行者は、エジプトを訪れた他のヨーロッパ人やアメリカ人から感染した可能性が高いと思われます。旅行者が日本へ帰国した後の3月中旬に遺伝子配列が採取されたことから、欧米で主に流通していた亜種が3月上旬に旅行者を経由して世界中に広まった事が伺えます。
+<br><br>したがって、これらの日本人旅行者は、エジプトを訪れた他のヨーロッパ人やアメリカ人から感染した可能性が高いと思われます。旅行者が日本へ帰国した後の3月中旬に遺伝子配列が採取されたことから、欧米で主に流行していた種が3月上旬に旅行者を経由して世界中に広まった事が伺えます。
 
 <!-- There is no right side text -->
 
@@ -183,13 +182,13 @@ This information will make interpreting the data we present in this narrative ea
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [アイスランドにおける広範な分析は、旅行者による拡散を示しています](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+# [アイスランドにおける広範な分析を通じて、旅行者による拡散が示されます](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
 我々はアイスランドから 301 種の遺伝子配列を得ました。これはアイスランドにおいて [確認された症例]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) のうちの 25% になります。 
 
 <br><br>旅行履歴によって各サンプルを色分けすると、これらの約半分がアイスランド外で感染したことがわかりますが、半分は局所的な感染と推定されます（灰色で表示）。
 <br><br>
-[先週報告 ](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5)したように、これはヨーロッパの国々での集団感染間での混合の程度を強く示しています。任意のサンプルについて、その前の感染者がどこにいたかを推論することはできますが、サンプル化されていない場所を経由した、間接的な伝搬の可能性を排除することはできません。
+[先週報告 ](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5)したように、これはヨーロッパの国々での集団感染間での混合の程度を強く示しています。任意のサンプルについて、その前の感染者がどこにいたかを推論することはできますが、サンプルが採取されていない場所を経由した、間接的な伝搬の可能性を排除することはできません。
 <!-- There is no right side text -->
 
 
@@ -226,10 +225,10 @@ This information will make interpreting the data we present in this narrative ea
 <!-- This is left-side text 14-->
 # [オンタリオ州（カナダ）で蔓延している可能性のある2つの地域伝搬](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-オンタリオ州では2つのクラスターが見られます。これらのクラスターはグループ化されておらず、それぞれのクラスターは他の国のサンプルと連なっています。これは2つの別々な伝搬の結果であることを示しています。
+オンタリオ州では2つのクラスターが見られます。これらのクラスターはグループ化されておらず、それぞれのクラスターは他の国のサンプルの隣に形成されています。これは2つの別々な伝搬の結果であることを示しています。
 <br><br>しかし、各クラスター内では、これらの症例のそれぞれがオンタリオ州の他の症例と最も密接に関連しており、これは地域的な感染である可能性が高いことを示しています。
 <br><br>このことから、少なくとも3月3日以降、オンタリオ州では地域への感染があった可能性が高いと推測されます。
-<br><br>興味深いことに、周囲の遺伝子配列（色あせたもの）のほとんどは米国のものであり、2つの国の間でかなりの混合があったことを示唆しています。
+<br><br>興味深いことに、周囲の遺伝子配列（細い先端）のほとんどは米国のものであり、2つの国の間でかなりの混合があったことを示唆しています。
 <!-- There is no right side text -->
 
 
@@ -263,7 +262,7 @@ This information will make interpreting the data we present in this narrative ea
 <br><br><br>
 #### アイスランドによる広範な遺伝子配列解析により、旅行に関連した感染の広がりが明らかになり、オーストリアでの地域感染の可能性が明らかになりました。
 <br><br><br>
-#### 米国全体の事例が系統樹上で混じり合い、州の境界を越えて広範囲に広がっている事を示しています。また、米国とカナダの国境を越えての混合や、オンタリオ州内での地域感染の証拠があります。  
+#### 米国全体の症例が系統樹上で混じり合い、州の境界を越えて広範囲に広がっている事を示しています。また、米国とカナダの国境を越えての混合や、オンタリオ州内での地域感染の証拠があります。  
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
