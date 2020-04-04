@@ -44,7 +44,7 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# الملخص التنفيذي
 
 قمنا في هذا التقرير بتحليل جينومات 2544 من فيروسات كو في 19 البشري والتي تم مشاركتها للعموم. نستطيع من خلال مقارنة الجينومات الفيروسية مع بعضها البعض ان نحدد كيف يتنقل وينتشر كوفيد 19 حول العالم وداخل المجتمعات. في التحديث الاسبوعي لهذا التقرير نوثق ما يلي
 
@@ -74,11 +74,11 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/2020-03-27)
-We've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2, also known as hCov-19.
-This information will make interpreting the data we present in this narrative easier.
+# [مصادر كوفيد 19](https://nextstrain.org/ncov/2020-03-27)
+قمنا هنا بتحضير بعض المصادر التي تستحق الاطلاع لتتعرف على كوفيد 19 والفيروس الذي يسببه وهو سارس كو في 19 والذي يعرف أيضاً كو في 19 البشري
+ستجعل هذه المعلومات عملية تحليل البيانات التي يتم عرضها في هذا التقرير اكثر سهولة 
 <br><br>
-If you aren't familiar with phylogenetic trees, we encourage you to check out the ['How to Read Phylogenies' narrative](https://nextstrain.org/narratives/trees-background/) and come back when you're ready.
+اذا لم تكن على اطلاع عن كيفية قراءة وفهم اشجار التصنيف الجيني فنحن نشجعك على فحص التقرير التال ['كيف تقرأ اشجار التصنيف الجيني'](https://nextstrain.org/narratives/trees-background/) and come back when you're ready.
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
