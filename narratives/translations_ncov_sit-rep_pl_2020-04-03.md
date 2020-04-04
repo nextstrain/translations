@@ -79,7 +79,7 @@ Przeanalizowaliśmy 2,544</tag> dostępnych publicznie genomów COVID-19. Porów
 <br>
 Otrzymaliśmy również nowe genomy wirusa z Ameryki Południowej i Oceanii. Większość tych nowych próbek jest rozproszona na drzewie i grupuje się z próbkami pochodzącymi z innych rejonów świata. Bez dodatkowych informacji, nie jesteśmy jeszcze w stanie wyciągnąć wniosków na temat tych nowych sekwencji. 
 <br><br>
-Przyklaskujemy grupom pracującym nad generowaniem dodatkowych danych dla tych regionów. Udostępnimy rezultaty analiz jak tylko będziemy mogle wyciągnąć bardziej szczegółowe wnioski. 
+Przyklaskujemy grupom pracującym nad generowaniem dodatkowych danych dla tych regionów. Udostępnimy rezultaty analiz jak tylko będziemy mogli wyciągnąć bardziej szczegółowe wnioski. 
 
 <!-- We also received new viral genomes from South America and Oceania. Most of these new samples are scattered across the tree and group with samples collected in other regions of the world. Without more contextual data, however, we aren't yet able to draw inferences about these new sequences.
 <br><br>
@@ -214,34 +214,49 @@ Thus, it seems likely that these Japanese travelers were infected by strains the
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Extensive sequencing by Iceland highlights extent of travel-associated spread](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+# [Rozległe sekwencjonowanie w Islandii pokazuje zakres rozpszestrzeniania się wirusa związany z podróżami](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+<!-- Extensive sequencing by Iceland highlights extent of travel-associated spread-->
+Ostatnio otrzymaliśmy 301</tag> sekwencji -- z 25\% [potwierdzonych przypadków]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- z Islandii.
+<br><br>
+Po pokolorowaniu każdej próbki według historii podróży, widzimy, że około połowa tych infekcji została nabyta spoza Islandii, a połowa pochodzi od prawdopodobnie lokalnie nabytych infekcji (pokazane na szaro).
+<br><br>
+Jak [raportowaliśmy w zeszłym tygodniu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), ten obraz pokazuje jak bardzo mieszają się przypadki z różnych lokalnych wybuchów epidemii w każdym Europejskim kraju.
+Możemy wyciągać wnioski na temat miejsca pochodzenia przodków każdej próbki, ale nie możemy wykluczyć pośrednich transmisji z niepróbkowanych miejsc.
 
-We recently received 301 sequences -- from 25\% of [confirmed cases]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- from Iceland.
+
+<!-- We recently received 301 sequences -- from 25\% of [confirmed cases]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- from Iceland.
 <br><br>
 Coloring each sample by its recorded travel history, we see that approximately half of these infections were acquired outside of Iceland, while half are presumed locally acquired infections (shown in gray).
 <br><br>
 As we [reported last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), this highlights just how much mixing there is between the outbreaks in each European country.
-For any given sample, we can draw inferences about where its predecessors must have been, but we can't rule out the possibility of indirect transmission by way of an unsampled location.
+For any given sample, we can draw inferences about where its predecessors must have been, but we can't rule out the possibility of indirect transmission by way of an unsampled location.-->
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Travel histories reveal local transmission in Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
+# [Historie podróży wskazują na lokalną transmisję w Austrii](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
+<!-- Travel histories reveal local transmission in Austria-->
+To jest również bardzo mocny przykład jak obszerne sekwencjonowanie i rejestrowanie podróży w jednym kraju może nam pomóc w zrozumieniu lokalnej sytuacji w innych miejscach, nawet tych, gdzie nie ma jeszcze danych z sekwencjonowania.
+<br><br>
+Patrząc na przypadki zsekwencjonowane w Islandii z zarejestrowaną podróżą do Austrii, widzimy wiele klastrów blisko spokrewnionych przypadków, zsekwencjonowanych w ciągu krótkiego okresu czasu. 
+To jest najbardziej zgodne ze scenariuszem, w którym nastapiło wiele introdukcji do Austrii. Nie możemy być jednak pewni czy powiązane grupy sekwencji przedstawiają lokalne transmisje w Austii, czy raczej partnerów podróży wspólnie powiązanych po ekspozycji na ten sam wariant wirusa.
+<br><br>
+Liczba kontaktów pomiędzy różnymi krajami Europejskimi jest znaczna i zaznaczona na szaro. Większość krajów Europejskich wydaje się mieć wielokrotne introdukcje, wobec tego nie ma 'prostego' scenariusza opisującego jak wirus rozprzestrzenia się w Europie - prawdopodobnie szeroko się rozprzestrzeniał od wielu tygodni.
 
-This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
+<!--This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
 <br><br>
 Looking at the cases sequenced in Iceland after reported travel to Austria, we see multiple clusters of closely related Austrian cases, sequenced over a short time period.
 This is most consistent with a scenario wherein there were multiple introductions into Austria. We can't be sure if the linked sequences represent community transmission in Austria or travel partners linking together after exposure to the same strain.
 <br><br>
-Though shown in grey, the number of connections between different European countries is notable. Most European countries seem to have multiple introductions, so there is no 'simple' story for how the virus has spread through Europe - it was likely spreading widely weeks ago.
+Though shown in grey, the number of connections between different European countries is notable. Most European countries seem to have multiple introductions, so there is no 'simple' story for how the virus has spread through Europe - it was likely spreading widely weeks ago.-->
 
 
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Updates for North America](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
+# [Aktualizacja sytuacji w Ameryce Północnej](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
 <!-- There is no right side text -->
 
 
