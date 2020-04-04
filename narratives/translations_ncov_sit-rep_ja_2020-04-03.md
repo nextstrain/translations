@@ -39,78 +39,78 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- This is left-side text 1-->
 # [Table of Contents](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Updates for Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Updates for Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Updates for Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Updates for North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [資料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
+* [このデータについて](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
+* [アフリカに関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
+* [アジアに関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
+* [ヨーロッパに関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
+* [北米に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
+* [私たちにできること](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
+* [分析データのクレジット](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# 概要
 
-We analyzed 2,544 publicly shared hCoV-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading within communities. In this week's updates, we report:
+ここでは、公に共有されている 2,544 種のゲノムを分析しました。これらのウイルスのゲノムを相互に比較することにより、COVID-19 が世界中をどのように移動しているか、地域の中でどのように拡散しているかを特徴付けることができます。今週の更新では、次の内容を報告します:
 
-**Africa**  
-* Evidence for at least two different transmission chains circulating locally in Senegal  
-* Continued local spread in the Democratic Republic of the Congo  
+**アフリカ**  
+* セネガルで局所的に蔓延している少なくとも2つの異なる伝搬連鎖の証拠  
+* コンゴ民主共和国での継続的な地域拡散
 
-**Asia**  
-* Recent introductions to Japan are cruiseship-associated
+**アジア**  
+* 最近の日本への伝搬は、クルーズ船に関連しています
 
-**Europe**  
-* Extensive sequencing by Iceland demonstrates the extent of travel-associated spread
-* Travel histories suggest local transmission in Austria
+**ヨーロッパ**  
+* アイスランドにおける広範な分析は、旅行者による拡散を示しています
+* 旅行履歴からオーストリアでの地域感染を示唆しています
 
-**North America**   
-* Extensive mixing across the U.S.  
-* Likely two local transmission chains circulating in Ontario  
+**北米**   
+* 米国全体での広範な混ざり合い
+* オンタリオ州で蔓延している可能性のある2つの地域伝搬 
 
-**Other areas of the world**
+**その他の地域**
 <br>
-We also received new viral genomes from South America and Oceania. Most of these new samples are scattered across the tree and group with samples collected in other regions of the world. Without more contextual data, however, we aren't yet able to draw inferences about these new sequences.
+南米とオセアニアから新しいウイルスゲノムを受け取りました。これらの新しいサンプルのほとんどは系統樹全体に散らばっており、世界の他の地域で収集されたサンプルとグループ化されています。ただし、より多くの情報がないと、これらの新しい遺伝子配列に関する推論を得ることはできません。
 <br><br>
-We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.
+我々はこれらの地域で追加データの生成に取り組んでいるグループを称賛します。より具体的な推論が可能になり次第、すぐにその結果を共有します。
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/2020-03-27)
-We've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2, also known as hCov-19.
+# [COVID-19 に関する資料](https://nextstrain.org/ncov/2020-03-27)
+COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解するために、読む価値のある資料を用意しました。これらの情報は、このレポートで提示するデータの解釈に役立ちます。
 This information will make interpreting the data we present in this narrative easier.
-<br><br>
-If you aren't familiar with phylogenetic trees, we encourage you to check out the ['How to Read Phylogenies' narrative](https://nextstrain.org/narratives/trees-background/) and come back when you're ready.
+<br><br>系統樹に詳しくない場合は[系統発生の読み方](https://nextstrain.org/narratives/trees-background/) の内容を確認した上で、次のページに進むことをお勧めします。
 <!-- This is right-side text -->
+
 ```auspiceMainDisplayMarkdown
 
-## Nextstrain Resources  
+## Nextstrain上の資料  
 
-[How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+[系統樹の読み方](https://nextstrain.org/narratives/trees-background/ja).  
 
-[Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
+[コロナウイルスの背景](https://nextstrain.org/help/coronavirus/human-CoV).
 
-[Background on the current hCoV-19 outbreak](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
+[最近の COVID-19 流行の背景](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
 
-[FAQs](https://nextstrain.org/help/coronavirus/FAQ).
+[よくある質問と答え](https://nextstrain.org/help/coronavirus/FAQ).
 
-[Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[よくある誤解](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 
-## External Resources  
-[WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+## 外部の資料 
+[WHOの状況報告](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 
-[CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+[CDC の資料](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
-[The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+[The NYTimes による COVID-19 の報道](https://www.nytimes.com/news-event/coronavirus).
 
 [Our World in Data](https://ourworldindata.org/coronavirus).
 
-[Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+[Ask a Scientist と FAQs](https://covid19.fas.org/l/en).
 
 
 ```
@@ -118,12 +118,11 @@ If you aren't familiar with phylogenetic trees, we encourage you to check out th
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 53 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
-<br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
-<br><br>
-For example, the map shows relatively few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+
+# [収集されたデータについて](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
+現在、6大陸の53か国で採取されたサンプルの遺伝子配列があります。これは信じられないほどの成果です。流行の最中に未知の大型RNAウイルスの遺伝子を解析することは難しく、世界中の科学者や医師による信じられないような作業とタイムリーなデータの共有があって初めて可能になりました。
+<br><br>このデータにより、多くの有用な特性を推測し、流行の広がりをリアルタイムで追跡することができますが、結論は利用可能なデータによって制限されることに留意して下さい。
+<br><br>例えば、この地図を見ると、南半球からの遺伝子配列が非常に少なく表示されますが、これは COVID-19 がこれらの地域で流行していないため、またはこれらの症例を理解することが重要ではないためではありません。むしろ、これらの地域からの入手可能なデータが少ないことを意味します。 マップ上の各円のサイズは、実際の流行の広がり度合いを示すというよりも、そのエリアにおいて利用可能なデータ量を示しています。
 
 <!-- There is NO right-side text -->
 
@@ -131,7 +130,7 @@ For example, the map shows relatively few sequences from the global south. This 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Updates for Africa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
+# [](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
 We have updates this week for Senegal and the Democratic Republic of the Congo.
 Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.
