@@ -173,32 +173,37 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Updates for Europe](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
+# [欧洲的最新情况](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Extensive sequencing by Iceland highlights extent of travel-associated spread](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+# [冰岛的大量测序数据显示出旅行对疫情传播的影响](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-We recently received 301 sequences -- from 25\% of [confirmed cases]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- from Iceland.
+我们最近获得了301条冰岛的序列，占冰岛[确诊病例]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) 总量的25\%。
 <br><br>
-Coloring each sample by its recorded travel history, we see that approximately half of these infections were acquired outside of Iceland, while half are presumed locally acquired infections (shown in gray).
+通过按照所登记的旅行史对样本进行着色，我们看到大约一半的病例是在冰岛境外感染的，另一半被认为是在本地感染的（灰色）。
 <br><br>
-As we [reported last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), this highlights just how much mixing there is between the outbreaks in each European country.
+如[上周报告](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-27?n=5)所述，这凸显出欧洲各国的疫情大量混杂。this highlights just how much mixing there is between the outbreaks in each European country.
+我们可以对每一个样本的来源进行推测，但是我们不能排除病毒经由未取样地区间接传播的情况。
 For any given sample, we can draw inferences about where its predecessors must have been, but we can't rule out the possibility of indirect transmission by way of an unsampled location.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Travel histories reveal local transmission in Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
+# [旅行史数据揭示奥地利的本地传播](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 
+这也是一个有说服力的例子，一个国家全面的测序工作和旅行史记录，能如何帮助我们理解其他地区的当地状况，即使是还没有产生测序数据的地区。
 This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
 <br><br>
+我们可以看已测序的报告有奥地利旅行史的冰岛病例，我们看到在短期内取样到的亲缘关系很近的奥地利病例聚在一起，有多簇。
 Looking at the cases sequenced in Iceland after reported travel to Austria, we see multiple clusters of closely related Austrian cases, sequenced over a short time period.
+最有可能的情况是，病毒被多次输入到奥地利。我们不能确定紧密联系的序列是否代表奥地利的社区传播，还是被一个毒株传染的旅客传给了同伴。
 This is most consistent with a scenario wherein there were multiple introductions into Austria. We can't be sure if the linked sequences represent community transmission in Austria or travel partners linking together after exposure to the same strain.
 <br><br>
+不过，灰色所示，欧洲国家之间联系的数量值得注意。大多数欧洲国家看起来有多次输入，所以没有一个“简单”的解释，病毒是如何在欧洲传播的——它很可能在几周前就大范围传播开了。
 Though shown in grey, the number of connections between different European countries is notable. Most European countries seem to have multiple introductions, so there is no 'simple' story for how the virus has spread through Europe - it was likely spreading widely weeks ago.
 
 
@@ -206,7 +211,7 @@ Though shown in grey, the number of connections between different European count
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Updates for North America](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
+# [北美的最新情况](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
 <!-- There is no right side text -->
 
 
@@ -214,24 +219,29 @@ Though shown in grey, the number of connections between different European count
 <!-- This is left-side text 13-->
 # [Extensive mixing across the U.S.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
 
-As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
+随着我们对在美国疫情的了解日益全面，很明显，这些本地疫情是广泛混合的结果。As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
 <br><br>
+虽然很多早期病例与旅行有关，很多州的最新病例大多数情况都与其他州的病例在树上交错混杂在一起。
 While many of the early cases were travel-associated, the more recent cases from many different states are largely intermingled with each other across the tree.   
 <br><br>
+这强调，统一的策略将是遏止疫情的关键。
 This emphasizes that a unified strategy will be crucial to stopping this outbreak.
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [Two local transmission chains circulating in Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+# [安大略省存在两个本地传播链](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-Here, we see two clusters of sequences from Ontario. These clusters do not group together, and each cluster nests alongside samples from other countries, indicating that these were the result of two separate introductions.
+这里，我们看到两簇来自安大略省的序列。这两簇不聚在一起，而是各自与其他国家的样本聚在一起，表明它们来自两次独立的输入事件。Here, we see two clusters of sequences from Ontario. These clusters do not group together, and each cluster nests alongside samples from other countries, indicating that these were the result of two separate introductions.
 <br><br>
+然而，在每一簇内，每个病例都与来自安大略省的其他病例亲缘关系接近，表明很有可能存在本地的社区传播。
 Within each cluster, however, each of these cases is most closely related to other cases from Ontario, indicating that this is most likely local, community transmission.
 <br><br>
+由此，我们推断至少从3月3日起，安大略省很可能就已经存在社区传播。
 From this, we infer that there has likely been community transmission in Ontario since at least the 3rd of March.
 <br><br>
+有意思的是，大多数周围的序列（虚化的样本）来自美国，表明两个国家之间可能有显著的传播。
 Interestingly, most of the surrounding sequences (faded tips) are from the U.S., suggesting that there has been significant mixing between the two countries.
 <!-- There is no right side text -->
 
@@ -240,33 +250,33 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing.
-* Even if you are not vulnerable, practice social distancing to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially if you are sick; be prepared with a few extra supplies.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [你能做些什么](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...个人可以采取的行动
+* 保持严格的社交距离。
+* 即使你不属于高风险人群，也要保持社交距离，从而保护他人。
+* 仔细洗手，要像“刚切完辣椒但是要换隐形眼镜”时一样洗手。
+* 尽可能地留在家里，尤其是生病时；准备一些额外的补给。
+* 雇主请尽可能地鼓励员工在家办公。
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing and isolation efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...政府可以采取的行动 
+* 推广免费检测。 
+* 推行能够有力减少社交接触的措施。
+* 资助和建立全面的病例追踪和隔离体系。 
+* 在经济上支持受到社交隔离措施影响的人。
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# 总结
 <br><br>
-#### We find evidence for local transmission within Senegal and the DRC. Swift action must be taken to contain the outbreak in these vulnerable areas. We do not yet have enough data to assess the situation in other parts of Africa.
+#### 我们发现了塞内加尔和刚果境内本地传播的证据。必须迅速采取行动，控制疫情在这些高风险地区的传播。我们目前还没有足够数据来评估非洲其他地区的情况。
 <br><br><br>
-#### Recent introductions to Japan are associated with cruiseship travel.
+#### 日本近期的输入病例与邮轮旅行有关。
 <br><br><br>
-#### Extensive sequencing by Iceland highlights extent of travel-associated spread and reveal likely local transmission in Austria.  
+#### 冰岛全面的测序工作凸显了旅行对疫情传播的影响，也揭示出奥地利境内很可能存在本地传播。
 <br><br><br>
-#### Cases across the U.S. co-mingle on the tree, demonstrating extensive spread across state lines. There is also evidence of mixing across the U.S.-Canadian border and local transmission within Ontario.  
+#### 美国各地的样本在树上混杂排列，表明各州之间的传播广泛存在。也有证据表明美国和加拿大之间的传播和安大略省内的本地传播。Cases across the U.S. co-mingle on the tree, demonstrating extensive spread across state lines. There is also evidence of mixing across the U.S.-Canadian border and local transmission within Ontario.  
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -277,20 +287,18 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 16-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
+# [科学贡献人员](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+我们要感谢参与此次疫情研究的所有科学家所做的令人惊叹和及时的工作，特别是那些在中国工作的科学家。只有通过基因组数据和元数据的快速共享，才有可能进行这样的分析。
 
 <br>
-
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+我们也感谢GISAID提供了上传和共享这些数据的平台。
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+非常感谢以下机构和实验室慷慨分享:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -609,19 +617,17 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [科学贡献详情](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
-
+所有数据已被共享至[GISAID](https://gisaid.org)数据库。 我们感谢各位科学家的慷慨分享。
 <br>
+在右边，我们列出了每个实验室共享的序列。
 
-To the right we give specific sequences shared by each lab.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+感谢下列实验室的科学家们慷慨分享SARS-CoV-2的基因组:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
