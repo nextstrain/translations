@@ -23,7 +23,7 @@ translators:
 translatorLinks:
 date: "2020 April 03"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: "يستخدم هذا التقرير بيانات الجينومات الفيروسية التي مشاركتها للعموم في تتبع انتشار كوفيد 19. يتم تحديث هذا التقرير اسبوعيا"
+abstract: "يستخدم هذا التقرير بيانات الجينومات الفيروسية التي تم مشاركتها للعموم في تتبع انتشار كوفيد 19. يتم تحديث هذا التقرير اسبوعيا"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -46,7 +46,7 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 ```auspiceMainDisplayMarkdown
 # Executive summary
 
-قمنا في هذا التقرير بتحليل جينومات 2544 من فيروسات كو في 19 البشري والتي تم مشاركتها للعموم. نستطيع من خلال مقارنة الجينومات الفيروسية مع بعضها البعض ان نحدد كيف يتنقل وينتشر كوفيد 19 حول العالم وداخل المجتمعات. في التحديث الاسبوعي لهذا التقرير نوثق ما يلي:
+قمنا في هذا التقرير بتحليل جينومات 2544 من فيروسات كو في 19 البشري والتي تم مشاركتها للعموم. نستطيع من خلال مقارنة الجينومات الفيروسية مع بعضها البعض ان نحدد كيف يتنقل وينتشر كوفيد 19 حول العالم وداخل المجتمعات. في التحديث الاسبوعي لهذا التقرير نوثق ما يلي
 
 **افريقيا**  
 * هناك دليل بان هناك على الاقل سلسلتي انتشار مختلفتين تدوران محليا في السنغال 
@@ -82,29 +82,29 @@ If you aren't familiar with phylogenetic trees, we encourage you to check out th
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-## Nextstrain Resources  
+## مصادر Nextrstrain  
 
-[How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+[كيف تقرأ شجرة التصنيف الجيني](https://nextstrain.org/narratives/trees-background/).  
 
-[Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
+[خلفية علمية عن فيروسات كورونا](https://nextstrain.org/help/coronavirus/human-CoV).
 
-[Background on the current hCoV-19 outbreak](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
+[خلفية علمية عن الانتشار الوبائي لفيروس كو في 19 البشري](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
 
-[FAQs](https://nextstrain.org/help/coronavirus/FAQ).
+[الاسئلة الشائعة](https://nextstrain.org/help/coronavirus/FAQ).
 
-[Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[المفاهيم الخاطئة الشائعة](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 
-## External Resources  
-[WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+## المصادر الخارجية 
+[تقارير حالة من منظمة الصحة العالمية](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 
-[CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+[مصادر مركز مكافحة الأمراض الامريكي](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
-[The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+[تغطية كوفيد 19 في مجلة نبويورك تايمز](https://www.nytimes.com/news-event/coronavirus).
 
-[Our World in Data](https://ourworldindata.org/coronavirus).
+[عالمنا بالبيانات](https://ourworldindata.org/coronavirus).
 
-[Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+[اسأل عالما والاسئلة الاكثر شيوعاً](https://covid19.fas.org/l/en).
 
 
 ```
