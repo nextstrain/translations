@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-03.
+title: التحليل الجينومي لانتشار كوفيد 19. تقرير حالة. 3 نيسان 2020
 authors:
   - Emma Hodcroft
   - Cassia Wagner
@@ -23,7 +23,7 @@ translators:
 translatorLinks:
 date: "2020 April 03"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "يستخدم هذا التقرير بيانات الجينومات الفيروسية التي مشاركتها للعموم في تتبع انتشار كوفيد 19. يتم تحديث هذا التقرير اسبوعيا"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
