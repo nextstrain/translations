@@ -19,8 +19,12 @@ Links zu den Autoren:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 Zugehoerigkeiten: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-Uebersetzer: Elisabeth Hirth
-Links zu den Uebersetzern:https://bsse.ethz.ch/department/people/detail-person.MjM4ODcw.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html
+Uebersetzer:
+  - Elisabeth Hirth
+  - Astrid Gall
+Links zu den Uebersetzern:
+  - https://bsse.ethz.ch/department/people/detail-person.MjM4ODcw.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html
+  - https://www.ebi.ac.uk/about/people/astrid-gall
 Datum: "03. April 2020"
 Daten: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
 Kurzfassung: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von COVID-19 zu beschreiben, und wird wöchentlich aktualisiert."
@@ -35,7 +39,7 @@ Kurzfassung: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung v
 
 * [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
 * [Anmerkung zur Probennahme](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Updates fuer Afirka](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
+* [Updates fuer Afrika](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
 * [Updates fuer Asien](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
 * [Updates fuer Europa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
 * [Updates fuer Nordamerika](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
@@ -49,11 +53,11 @@ Kurzfassung: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung v
 Wir haben 2,544 oeffentlich zugaengliche hCoV-19 Genome analysiert. Durch den Vergleich der Virusgenome untereinander koennen wir charakterisieren, wie sich COVID-19 global und lokal weiterverbreitet. In diesem woechentlichen Update berichten wir:
 
 **Afrika**  
-* Hinweise fuer mindestens 2 unterschiedliche Uebertragungsketten, die dezentral im Senegal zirkulieren.
-* Weiterhin verbreitet sich das Virus in der Demokratischen Republik Kongo
+* Hinweise fuer mindestens zwei unterschiedliche Uebertragungsketten, die dezentral im Senegal zirkulieren.
+* Weiterhin verbreitet sich das Virus in der Demokratischen Republik Kongo.
 
 **Asien**  
-* Neuste Einschleppungen des Virus nach Japan stehen im Zusammenhang mit der Kreuzschifffahrt.
+* Neueste Einschleppungen des Virus nach Japan stehen im Zusammenhang mit der Kreuzschifffahrt.
 
 **Europa**  
 * Umfangreiche Sequenzierungen zeigen die Ausmasse der reisebedingten Ausbreitung des Virus.
@@ -61,11 +65,11 @@ Wir haben 2,544 oeffentlich zugaengliche hCoV-19 Genome analysiert. Durch den Ve
 
 **Nordamerika**   
 * Grossflaechige Durchmischung innerhalb der USA.  
-* Hoechstwahrscheinlich kursieren 2 lokale Verbreitungsketten in Ontario.
+* Hoechstwahrscheinlich kursieren zwei lokale Verbreitungsketten in Ontario.
 
 **Andere Weltregionen**
 <br>
-Zusaetzlich haben wir neue Virengenome aus Suedamerika und Ozeaninen erhalten. Die meisten der neuen Proben sind quer ueber den gesamten Baum verstreut und koennen mit Proben aus anderen Teilen der Welt gruppiert werden. Allerdings ohne mehr kontextuelle Daten ist es uns bis jetzt nicht moeglich genaue Rueckschluesse zu diesen neuen Sequenzen zu ziehen. 
+Zusaetzlich haben wir neue Virengenome aus Suedamerika und Ozeanien erhalten. Die meisten der neuen Proben sind ueber den gesamten Baum verteilt und koennen mit Proben aus anderen Teilen der Welt gruppiert werden. Allerdings ist es uns ohne mehr kontextuelle Daten bis jetzt nicht moeglich, genaue Rueckschluesse zu diesen neuen Sequenzen zu ziehen. 
 
 <br><br>
 Wir wollen die Arbeit der Gruppen begruessen, die diese zusaetzlichen Daten generiert haben. Falls konkretere Rueckschluesse moeglich sind, werden wir diese sofort teilen.
@@ -76,20 +80,20 @@ Wir wollen die Arbeit der Gruppen begruessen, die diese zusaetzlichen Daten gene
 
 <!-- This is left-side text 2-->
 # [COVID-19 Quellen](https://nextstrain.org/ncov/2020-03-27)
-Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch bekannt als hCov-19 - haben wir einige Quellen vorbereitet, die dem Leser helfen sollen, die nachfolgenden Daten besser und leichter zu verstehen. Diese Informationen helfen Ihnen die nachfolgenden Daten besser interpretieren zu koennen.
+Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch bekannt als hCov-19 - haben wir einige Quellen vorbereitet, die dem Leser helfen sollen, die nachfolgenden Daten besser und leichter zu verstehen. Diese Informationen helfen Ihnen, die nachfolgenden Daten besser interpretieren zu koennen.
 
 <br><br>
-Falls Sie nicht mit phylogenetische Baeume vertraut sein sollten, raten wir Ihnen naehere Informationen unter diesem Link nachzuschlagen und anschliessen wieder zu diesem Dokument zurueckzukehren: ['Wie phylogenetische Bäume zu interpretieren sind.](https://nextstrain.org/narratives/trees-background/).
+Falls Sie nicht mit phylogenetischen Baeumen vertraut sein sollten, raten wir Ihnen, naehere Informationen unter diesem Link nachzuschlagen und anschliessend wieder zu diesem Dokument zurueckzukehren: ['Wie phylogenetische Bäume zu interpretieren sind.](https://nextstrain.org/narratives/trees-background/de).
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
 ## Nextstrain Quellen  
 
-[Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/).  
+[Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/de).  
 
 [Hintergrundwissen zu Coronaviren](https://nextstrain.org/help/coronavirus/human-CoV).
 
-[Hintergrundwissen zur derzeitigen hCoV-19 Epidemie](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
+[Hintergrundwissen zur derzeitigen hCoV-19 Pandemie](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
 
 [FAQs](https://nextstrain.org/help/coronavirus/FAQ).
 
@@ -105,7 +109,7 @@ Falls Sie nicht mit phylogenetische Baeume vertraut sein sollten, raten wir Ihne
 
 [Unsere Welt in Daten](https://ourworldindata.org/coronavirus).
 
-[Frag einen Wissenschaftler & FAQs](https://covid19.fas.org/l/en).
+[Frage einen Wissenschaftler & FAQs](https://covid19.fas.org/l/en).
 
 
 ```
@@ -138,20 +142,20 @@ Vor allem sei hier erwaehnt, dass dies nicht bedeutet, dass es keine COVID-19 Fa
 <!-- This is left-side text 5-->
 # [Zwei lokale Uebertragunsgketten breiten sich derzeit im Senegal aus](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
 
-Im Folgenden sind 2 Fallcluster aus dem Senegal sichtbar. Diese Cluster koennen nicht gruppiert werden, was auf 2 unabhaengige Einschleppungen des Virus hindeutet. Jedes Cluster besteht aus nah verwandten Proben, die innerhalb einer kurzen Zeit genommen worden sind, was fuer eine oertlich konzentrierte Uebertragung spricht.
+Im Folgenden sind zwei Fallcluster aus dem Senegal sichtbar. Diese Cluster koennen nicht gruppiert werden, was auf zwei unabhaengige Einschleppungen des Virus hindeutet. Jedes Cluster besteht aus nah verwandten Proben, die innerhalb einer kurzen Zeit genommen worden sind, was fuer eine oertlich konzentrierte Uebertragung spricht.
 <br><br>
-Das Cluster, das sich in der oberen Haelfte des Baums befinden, besteht aus Proben, die in Dakar zwischen dem 28. Februar und 4. Maerz genommen worden sind. Das deutet darauf hin, dass hCoV-19 sich hoechstwahrscheinlich fuer mindestens einen Monat innerhalb von Dakar ausgebreitet hat.
+Der Cluster, der sich in der oberen Haelfte des Baums befindet, besteht aus Proben, die in Dakar zwischen dem 28. Februar und dem 4. Maerz genommen worden sind. Das deutet darauf hin, dass hCoV-19 sich hoechstwahrscheinlich fuer mindestens einen Monat innerhalb von Dakar ausgebreitet hat.
 <br><br>
-In der Baummitte befindet sich ein Cluster, das aus Proben besteht, die zwischen dem 10. und 12. Maerz in Touba entnommen worden sind. Folglich konnte sich hCoV-19 innerhalb von Touba in 3 Wochen ausbreiten.
+In der Baummitte befindet sich ein Cluster, der aus Proben besteht, die zwischen dem 10. und 12. Maerz in Touba entnommen worden sind. Folglich konnte sich hCoV-19 innerhalb von Touba in drei Wochen ausbreiten.
 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
 # [Weiterfuehrende oertliche Uebertragung des Virus in der DR Kongo](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
-Diese Woche haben wir 8 neue Genome aus Kinsasha in der Demonkratischen Republik Kongo erhalten.
+Diese Woche haben wir acht neue Genome aus Kinshasa in der Demonkratischen Republik Kongo erhalten.
 <br><br>
-Ausser einer liegen alle neuen Proben innerhalb der lokalen Epidemieklade, ueber die wir [letzte Woche] berichtet haben(https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+Mit Ausnahme einer Probe liegen alle neuen Proben innerhalb der lokalen Epidemieklade, ueber die wir [letzte Woche] berichtet haben(https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
 Das zeigt eine kontinuierliche, oertliche Uebertragung des Virus innerhalb der DR Kongo, was rasche Massnahmen fordern sollte zur Einschraekung der Empidemie.
 
 
@@ -165,11 +169,11 @@ Das zeigt eine kontinuierliche, oertliche Uebertragung des Virus innerhalb der D
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Neuste Einschleppungen des Virus nach Japan stehen im Zusammenhang mit der Kreuzschifffahrt](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+# [Neueste Einschleppungen des Virus nach Japan stehen im Zusammenhang mit der Kreuzschifffahrt](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-10 von 16 neuen Sequenzierungsdaten aus Japan weisen Aufenthalte auf dem Nilkreusfahrtschiff auf. Nach der Diagnose und Probenanhme in Japan koennen alle 16 Sequenzen in 2 Cluster aufgeteilt werden. Interessanterweise scheinen diese Cluster in keinerlei Verbindung zu den japanischen oder asiatischen Sequenzen zu stehen, aber sie fallen in Gruppen, die man hauptsaechlich in den USA und Europa gefunden hat.
+Insgesamt zehn von 16 neuen Sequenzierungsdaten aus Japan weisen Aufenthalte auf dem Nilkreuzfahrtschiff auf. Nach der Diagnose und Probenanhme in Japan koennen alle 16 Sequenzen in zwei Cluster aufgeteilt werden. Interessanterweise scheinen diese Cluster in keinerlei Verbindung zu den japanischen oder asiatischen Sequenzen zu stehen, stattdessen fallen sie in Gruppen, die man hauptsaechlich in den USA und Europa gefunden hat.
 <br><br>
-Daher ist es moeglich, dass diese japanischen Reisenden durch Staemme infiziert worden sind, die aus Europaeern und Amerikanern, die in Aegypten gewesen sind, stammen. Weil die Sequenzierdaten Mitte Maerz beprobt worden sind, nachdem die Reisenden nach Japan zurueckgekehrt sind, kann davon ausgegangen werden, dass sich diese Stammvarianten, die groesstenteils in Europa und den USA praesent sind, Anfang Maerz in der Welt reisebedingt ausgebreitet haben.
+Daher ist es moeglich, dass diese japanischen Reisenden durch Isolate infiziert worden sind, die von Europaeern und Amerikanern, die in Aegypten gewesen sind, stammen. Weil die Sequenzierdaten Mitte Maerz generiert worden sind, nachdem die Reisenden nach Japan zurueckgekehrt sind, kann davon ausgegangen werden, dass sich diese Virusvarianten, die groesstenteils in Europa und den USA praesent sind, Anfang Maerz in der Welt reisebedingt ausgebreitet haben.
 <!-- There is no right side text -->
 
 
@@ -187,10 +191,10 @@ Daher ist es moeglich, dass diese japanischen Reisenden durch Staemme infiziert 
 
 Wir haben 301 neue Sequenzen -- aus 25\% der [bestaetigten Faelle]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- aus Island erhalten.
 <br><br>
-Wenn man jede Probe anhand des Reiseverhaltens anfaerbt, kann man feststellen, dass ungefaehr die Haelfte dieser Infektionen ihren Ursprung ausserhalb Islands haben, waehrend die restlichen 50% aller Voraussicht nach auf lokale Infektionen zurueckfuehrbar sind (in grau).
+Wenn man jede Probe anhand des Reiseverhaltens anfaerbt, kann man feststellen, dass ungefaehr die Haelfte dieser Infektionen ihren Ursprung ausserhalb Islands haben, waehrend die andere Haelfte aller Voraussicht nach auf lokale Infektionen zurueckfuehrbar ist (in grau).
 <br><br>
-Wie man [dem Bericht letzter Woche](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5) entnehmen kann, betont dies die Durchmischung zwischen den einzelnen europaeischen Epidemien.
-Fuer jede bestimmte Probe koennen wir Rueckschluesse darauf ziehen, wo der Vorgaenger gewesen sein musste, dennoch koennen wir nicht komplett die Moeglichkeit einer indirekten Uebertragung durch einen unbeprobten Ort ausschliessen.
+Wie man [dem Bericht letzter Woche](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5) entnehmen kann, betont dieses die Durchmischung zwischen den einzelnen europaeischen Epidemien.
+Fuer jede bestimmte Probe koennen wir Rueckschluesse darauf ziehen, wo der Vorgaenger gewesen sein musste, dennoch koennen wir nicht komplett die Moeglichkeit einer indirekten Uebertragung an einen unbeprobten Ort ausschliessen.
 <!-- There is no right side text -->
 
 
@@ -198,12 +202,12 @@ Fuer jede bestimmte Probe koennen wir Rueckschluesse darauf ziehen, wo der Vorga
 <!-- This is left-side text 11-->
 # [Reiseverhalten suggeriert eine oertliche Uebertragung in Oesterreich](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 
-Das ist auch ein sehr gutes Beispiel wie umfassende Sequenzierungsbemühungen und Reiseprotokollierungen eines einzelnen Landes uns helfen kann die aktuelle Situation anderswo besser zu verstehen, selbst wenn dort noch keine Sequenzierungsdaten vorhanden sind.
+Dieses ist auch ein sehr gutes Beispiel, wie umfassende Sequenzierungsbemühungen und Reiseprotokollierungen eines einzelnen Landes uns helfen koennen, die aktuelle Situation anderswo besser zu verstehen, selbst wenn dort noch keine Sequenzierungsdaten vorhanden sind.
 <br><br>
 Schaut man sich die Sequenzierungsdaten aus Island an, die eine Reise nach Oesterreich aufweisen, sieht man viele Cluster, die nah verwandt mit den oesterreichischen Faellen zu sein scheinen, die innerhalb einer kurzen Zeitspanne sequenziert worden sind.
-Das stimmt auch mit dem Szenario ueberein, worin es mehrere Einschleppungen nach Oesterreich gegeben hat. Wir sind nicht absolut sicher, ob die verknuepften Sequenzen eine Uebertragung innerhalb der Gemeinden oder ein Zusammenschluss mehrerer Reisepartner widerspiegelt nachdem sie mit demselben Stamm in Kontakt gekommen sind.
+Das stimmt auch mit dem Szenario ueberein, worin es mehrere Einschleppungen nach Oesterreich gegeben hat. Wir sind nicht absolut sicher, ob die verknuepften Sequenzen eine Uebertragung innerhalb der Gemeinden oder ein Zusammenschluss mehrerer Reisepartner, nachdem sie mit demselben Isolat in Kontakt gekommen sind, widerspiegelt.
 <br><br>
-Die Anzahl der Verbindungen innerhalb der verschiedenen eruopaeischen Laender ist nennenswert, obwohl diese nur in grau dargestellt sind. Die meisten europaeischen Laender scheinen mehrere Einschleppungen des Virus aufzuweisen, daher gibt es keine einfache Erklaerung zur Ausbreitung innerhalb Europas. Hoechstwahrscheinlich hat es sich weitlaeufig vor einigen Wochen ausgebreitet.
+Die Anzahl der Verbindungen innerhalb der verschiedenen eruopaeischen Laender ist nennenswert, obwohl diese nur in grau dargestellt sind. Die meisten europaeischen Laender scheinen mehrere Einschleppungen des Virus aufzuweisen, daher gibt es keine einfache Erklaerung zur Ausbreitung innerhalb Europas. Hoechstwahrscheinlich hat das Virus sich weitlaeufig vor einigen Wochen ausgebreitet.
 
 
 
@@ -220,7 +224,7 @@ Die Anzahl der Verbindungen innerhalb der verschiedenen eruopaeischen Laender is
 
 Da wir uns ein besseres Bild der Epidemie in den USA machen koennen, ist es nun sicher, dass diese oertlichen Ausbrueche des Virus eine Folge einer grossflaechigen Durchmischung sind.
 <br><br>
-Waehrend die meisten der ersten Faelle reisebedingte Infektionen waren, scheinen die juengsten Proben stark miteinander verknuepft und ueber den gesamten Baum verteilt zu sein.    
+Waehrend die meisten der fruehen Faelle reisebedingte Infektionen waren, scheinen die juengsten Proben stark miteinander verknuepft und ueber den gesamten Baum verteilt zu sein.    
 <br><br>
 Dies betont, dass eine einheitliche Strategie zur Verhinderung der Epidemie noetig ist.
 <!-- This is no right-side text -->
@@ -228,15 +232,15 @@ Dies betont, dass eine einheitliche Strategie zur Verhinderung der Epidemie noet
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [Hoechstwahrscheinlich kursieren 2 lokale Verbreitungsketten in Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+# [Hoechstwahrscheinlich kursieren zwei lokale Verbreitungsketten in Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-Hierbei sehen wir 2 Cluster innerhalb der Sequenzen aus Ontario. Diese Cluster koennen nicht miteinander gruppiert werden und jedes Cluster ist mit Proben aus anderen Laendern verschachtelt. Dies deutet auf 2 unaebhaengige Einfuehrungen des Virus hin.
+Hier sehen wir zwei Cluster innerhalb der Sequenzen aus Ontario. Diese Cluster koennen nicht miteinander gruppiert werden, und jeder Cluster ist mit Proben aus anderen Laendern verschachtelt. Dies deutet auf zwei unaebhaengige Einfuehrungen des Virus hin.
 <br><br>
-Jedoch ist jeder Fall Innerhalb jedes Clusters nah verwandt zu anderen Faellen aus Ontario, was darauf hindeutet, dass die Uebertragung sich hier innerhalb der Gemeinden lokal vollzogen hat.
+Jedoch ist jeder Fall innerhalb jedes Clusters nah verwandt zu anderen Faellen aus Ontario, was darauf hindeutet, dass die Uebertragung sich hier innerhalb der Gemeinden lokal vollzogen hat.
 <br><br>
-Davon ausgehend schlussfolgern wir eine uebertragung innerhalb der Gemeinden in Ontario seit fruehstens dem 3. Maerz.
+Davon ausgehend schlussfolgern wir, dass eine Uebertragung innerhalb der Gemeinden in Ontario seit fruehstens dem 3. Maerz stattgefunden hat.
 <br><br>
-Interessanterweise sind die umliegenden Sequenzen (hier sichtbar als blasse Spitzen) aus den USA, was scheinbar auf eine grossflaechige Durchmischung zwischen den beiden Laendern zurueckzufuehren sein koennte.
+Interessanterweise sind die umliegenden Sequenzen (hier sichtbar als blasse Spitzen) aus den USA, was auf eine grossflaechige Durchmischung zwischen den beiden Laendern zurueckzufuehren sein koennte.
 <!-- There is no right side text -->
 
 
@@ -254,21 +258,21 @@ Interessanterweise sind die umliegenden Sequenzen (hier sichtbar als blasse Spit
 
 #### ...als Amtsperson 
 * Machen Sie Tests kostenlos und weitlaeufig verfuegbar.  
-* Fordern Sie strikte social distancing Massnahmen.
+* Fordern Sie strikte Massnahmen zur rauemlichen Distanzierung.
 * Unterstuetzen und implementieren Sie umfangreiche Kontaktverfolgungen. 
-* Unterstuetzen Sie all diejenigen finanziell, die aufgrund von social distancing Massnahmen negativ betroffen sind.
+* Unterstuetzen Sie all diejenigen finanziell, die aufgrund von Massnahmen zur rauemlichen Distanzierung negativ betroffen sind.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Zusammenfassung
 <br><br>
-#### Wir haben Hinweise fuer eine lokale Ausbreitung des Virus innerhalb Senegals und der DR Kongos. Schnelle Massnahmen muessen ergriffen werden, um die Epidemie in diesen schutzbeduerftigen Regionen einzudaemmen. Bis jetzt haben wir nicht genuegend Daten, um die Situation in anderen Teilen Afrikas abschaetzen zu koennen. 
+#### Wir haben Hinweise fuer eine lokale Ausbreitung des Virus innerhalb Senegals und der DR Kongo. Schnelle Massnahmen muessen ergriffen werden, um die Epidemie in diesen schutzbeduerftigen Regionen einzudaemmen. Bis jetzt haben wir nicht genuegend Daten, um die Situation in anderen Teilen Afrikas abschaetzen zu koennen. 
 <br><br><br>
-#### Kuerzliche Einschleppungen des Virus nach Japan sind auf die Kreusfahrtreise zurueckfuehrbar.
+#### Kuerzliche Einschleppungen des Virus nach Japan sind auf eine Kreuzfahrtreise zurueckfuehrbar.
 <br><br><br>
-#### Ausfuehrliche Sequenzierung in Island verdeutlicht das Ausmass reisebedingter Verbreitung des Virus und zeigte eine hoechstwahrscheinliche lokale Uebertragung nach Oesterreich.
+#### Ausfuehrliche Sequenzierung in Island verdeutlicht das Ausmass reisebedingter Verbreitung des Virus und zeigte eine hoechstwahrscheinlich lokale Uebertragung nach Oesterreich.
 <br><br><br>
 #### Faelle innerhalb der USA vermischen sich im Baum, was eine starke Verbreitung ueber die Staatsgrenzen hinaus verdeutlicht. Zusaetzlich gibt es Hinweise auf eine Vermischung ueber die US-kanadische Grenze hinweg und eine lokale Uebertragung innerhalb Ontarios.  
 ```
@@ -612,7 +616,7 @@ Vielen herzlichen Dank an nachfolgende Labore fuer das Zusammentragen der Daten:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailierte Danksagung](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Detaillierte Danksagung](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
 Diese Daten wurden durch [GISAID] ermoeglicht (https://gisaid.org).
 Wir moechten uns hier recht herzlich fuer deren Beteiligung bedanken.
