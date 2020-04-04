@@ -37,7 +37,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# 目次(https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
+# [目次](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
 * [資料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
 * [このデータについて](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
@@ -73,7 +73,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <br>
 南米とオセアニアから新しいウイルスゲノムを受け取りました。これらの新しいサンプルのほとんどは系統樹全体に散らばっており、世界の他の地域で収集されたサンプルとグループを形成しています。ただし、より多くの状況に関する情報がないかぎり、これらの新しい遺伝子配列に関する推論を得ることはできません。
 <br><br>
-我々はこれらの地域で追加データの生成に取り組んでいるグループを称賛します。より具体的な推論が可能になり次第、すぐにその結果を共有します。We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.
+我々はこれらの地域で追加データの生成に取り組んでいるグループを称賛します。より具体的な推論が可能になり次第、すぐにその結果を共有します。
 ```
 
 
