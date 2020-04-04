@@ -187,17 +187,20 @@ This demonstrates that there is ongoing local transmission within the DRC, and s
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Updates for Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
+# [Aktualizacja sytuacji w Azji](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Recent introductions to Japan are cruiseship-associated](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
-
-Of 16 recent sequences added from Japan, 10 have travel history on-board a Nile River cruise. After being diagnosed and sampled in Japan, all 16 sequences divide between two clusters. Interestingly, these clusters do not link with other Japanese or Asian sequences, but fall within clusters that are primarily found in the US and Europe.
+# [Nidawne introdukcje do Japonii są związane ze statkami wycieczkowymi](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+Spośród 16 nowych sekwencji z Japonii, 10 posiada historię podróży związaną z rejsem na rzece Nil. Po diagnozie i pobraniu prób w Japonii, wszystkie 16 przypadków można podzielić na dwie grupy. Co ciekawe, te przypadki nie grupują się z żadnymi innymi z Japonii i Azji ogólnie, ale grupują się z przypadkami pierwotnie znalezionymi w USA i Europie.
 <br><br>
-Thus, it seems likely that these Japanese travelers were infected by strains they encountered from other Europeans and Americans visiting Egypt. As sequences were sampled in mid-March, after that travelers returned to Japan, this is evidence that variants that were primarily circulating in Europe and the US were being exported around the world in early March via global travel.
+Wydaje się, że Japońscy turyści zostali zainfekowani wirusem pochodzącym od Europejczyków i Amerykanów odwiedzających Egipt. Ponieważ próbki zostały pobrane w środku marca, po czym turyści wrócili do Japonii, to sugeruje, że warianty wirusa będące początkowo w obiegu w Europie i USA rozprzestrzeniły się po świecie dzieki globalnym podróżom.
+
+<!-- Of 16 recent sequences added from Japan, 10 have travel history on-board a Nile River cruise. After being diagnosed and sampled in Japan, all 16 sequences divide between two clusters. Interestingly, these clusters do not link with other Japanese or Asian sequences, but fall within clusters that are primarily found in the US and Europe.
+<br><br>
+Thus, it seems likely that these Japanese travelers were infected by strains they encountered from other Europeans and Americans visiting Egypt. As sequences were sampled in mid-March, after that travelers returned to Japan, this is evidence that variants that were primarily circulating in Europe and the US were being exported around the world in early March via global travel.-->
 <!-- There is no right side text -->
 
 
@@ -205,7 +208,7 @@ Thus, it seems likely that these Japanese travelers were infected by strains the
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Updates for Europe](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
+# [Aktualizacja sytuacji w Europie](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
 <!-- There is no right side text -->
 
 
