@@ -159,7 +159,7 @@ Cela suggère que le hCoV-19 pourrait avoir circulé à Touba pendant environ 3 
 Nous avons reçu cette semaine 8 nouveaux génomes de Kinshasa en République Démocratique du Congo.
 <br><br>
 Tous les nouveaux échantillons, sauf un, groupent avec les clades d’épidémies locales sur lesquelles
-[nous avons fait un rapport la semaine dernière](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+[nous avons fait un rapport la semaine dernière](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-03-27?n=16).
 Cela démontre qu'il existe une transmission locale continue au sein de la RDC, et que des mesures rapides doivent être prises pour contenir l'épidémie.
 
 
@@ -197,7 +197,7 @@ Nous avons récemment reçu 301 séquences, provenant de 25 \% des [cas confirm�
 <br><br>
 En colorant chaque échantillon par son historique de voyage enregistré, on constate qu'environ la moitié de ces infections ont été contractées en dehors de l'Islande, tandis que la moitié sont des infections présumées acquises localement (indiquées en gris).
 <br><br>
-Comme nous l'avons [rapporté la semaine dernière](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), cela montre à quel point les épidémies se mélangent dans chaque pays européen.
+Comme nous l'avons [rapporté la semaine dernière](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-03-27?n=5), cela montre à quel point les épidémies se mélangent dans chaque pays européen.
 Pour un échantillon donné, nous pouvons tirer des conclusions sur l'endroit où ses prédécesseurs ont dû se trouver, mais nous ne pouvons pas exclure la possibilité d'une transmission indirecte par le biais d'un lieu non échantillonné.
 <!-- There is no right side text -->
 
