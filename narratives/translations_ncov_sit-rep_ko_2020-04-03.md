@@ -61,7 +61,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 **유럽**  
 * 아이슬란드의 광범위한 염기서열 자료는 여행과 관련된 확산의 정도를 보여줌
-* 여행의 이력을 살펴보면 오스트리아에서의 지역사회 전파 가능성을 시사
+* 여행 기록을 살펴보면 오스트리아에서의 지역사회 전파 가능성을 시사
 
 **북아메리카**   
 * 미국 전역에서 광범위하게 뒤섞이고 있음
@@ -166,11 +166,11 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Recent introductions to Japan are cruiseship-associated](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+# [최근 일본으로의 유입은 유람선과 관련되어 있습니다.](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-Of 16 recent sequences added from Japan, 10 have travel history on-board a Nile River cruise. After being diagnosed and sampled in Japan, all 16 sequences divide between two clusters. Interestingly, these clusters do not link with other Japanese or Asian sequences, but fall within clusters that are primarily found in the US and Europe.
+최근 일본에서 추가된 16개의 염기서열 자료 중 10개는 나일 강 유람선 승선 이력이 있습니다. 일본에서 진단과 수집을 거친 후에, 16개의 자료들은 두 사례군으로 나누어졌습니다. 흥미롭게도, 이 사례군들은 다른 일본인 또는 아시아 사람의 염기서열 자료와 같이 묶이지 않고, 미국과 유럽에서 주로 발견되는 사례들과 묶이는 것을 확인할 수 있었습니다.
 <br><br>
-Thus, it seems likely that these Japanese travelers were infected by strains they encountered from other Europeans and Americans visiting Egypt. As sequences were sampled in mid-March, after that travelers returned to Japan, this is evidence that variants that were primarily circulating in Europe and the US were being exported around the world in early March via global travel.
+따라서, 이 일본인 여행자들은 이집트를 방문하는 다른 유럽인, 미국인 보균자한테서 감염되었을 것으로 보입니다. 이 여행자들이 일본으로 돌아온 후 3월 중순에 표본을 채취하였으므로, 이는 3월 초에 주로 유럽과 미국에서 유행 중인 변종들이 전세계로 퍼졌음을 시사하는 증거로 볼 수 있습니다.
 <!-- There is no right side text -->
 
 
