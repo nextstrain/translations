@@ -46,26 +46,26 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 ```auspiceMainDisplayMarkdown
 # Executive summary
 
-We analyzed 2,544 publicly shared hCoV-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading within communities. In this week's updates, we report:
+قمنا في هذا التقرير بتحليل جينومات 2544 من فيروسات كو في 19 البشري والتي تم مشاركتها للعموم. نستطيع من خلال مقارنة الجينومات الفيروسية مع بعضها البعض ان نحدد كيف يتنقل وينتشر كوفيد 19 حول العالم وداخل المجتمعات. في التحديث الاسبوعي لهذا التقرير نوثق ما يلي:
 
-**Africa**  
-* Evidence for at least two different transmission chains circulating locally in Senegal  
-* Continued local spread in the Democratic Republic of the Congo  
+**افريقيا**  
+* هناك دليل بان هناك على الاقل سلسلتي انتشار مختلفتين تدوران محليا في السنغال 
+* استمرار الانتشار المحلي للوباء في جمهورية الكونغو الديموقراطية 
 
-**Asia**  
-* Recent introductions to Japan are cruiseship-associated
+**آسيا**  
+* ادخالات جديدة للوباء في اليابان مرتبطة بسفينة سياحية
 
-**Europe**  
-* Extensive sequencing by Iceland demonstrates the extent of travel-associated spread
-* Travel histories suggest local transmission in Austria
+**اوروبا**  
+*  يشير تحديد التسلسلات الجينومية المكثف في ايسلندا الى مدى انتشار الوباء المرتبط بالسفر
+* تاريخ السفر يقترح وجود انتشار محلي للوباء في النمس
 
-**North America**   
-* Extensive mixing across the U.S.  
-* Likely two local transmission chains circulating in Ontario  
+**امريكا الشمالية**   
+* عمليات اختلاط مكثفة لسلاسل الإنتشار عبر الولايات المتحدة
+* على الاغلب هناك سلسلتي انتشار محليتين تدوران او اونتاريو 
 
-**Other areas of the world**
+**اماكن اخرى من العالم**
 <br>
-We also received new viral genomes from South America and Oceania. Most of these new samples are scattered across the tree and group with samples collected in other regions of the world. Without more contextual data, however, we aren't yet able to draw inferences about these new sequences.
+حصلنا أيضاً على تسلسلات جينومية جديدة من جنوب امريكا واوقيانوسيا.معظم هذه العينات الجديدة تتواجد متفرقة على الشجرة وتتجمع مع عينات تم جمعها من مناطق مختلفة من العالم. بدون معلومات اكثر في هذا السياق فلا يمكننا حتى الان الوصول الى استنتاجات عن هذه التسلسلات الجديدة
 <br><br>
 We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.
 ```
