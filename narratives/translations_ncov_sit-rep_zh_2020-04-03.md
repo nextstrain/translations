@@ -58,18 +58,18 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 * 日本近期的输入病例与邮轮有关
 
 **欧洲**  
-* 冰岛的大量序列数据表明了旅行所导致的疫情传播程度Extensive sequencing by Iceland demonstrates the extent of travel-associated spread
+* 冰岛的大量序列数据表明旅行对疫情传播的影响
 * 旅行史数据表明奥地利存在本地传播
 
 **北美洲**   
-* 美国全国的序列大量地混杂在一起Extensive mixing across the U.S.  
+* 美国各地的序列充分混杂在一起  
 * 安大略省很有可能存在两个本地传播链
 
 **其他地区**
 <br>
 我们也获得了新的来自南美洲和大洋洲的病毒序列。大部分新样本都散布在演化树的各处，与在世界上其他地区采集到的样本聚在一起。然而，在没有更多的背景数据的情况下，我们还不能对这些新序列做出推断。
 <br><br>
-我们赞赏正在为这些地区产生更多数据的研究组。当我们能做出更具体的推断的时候，我们会马上分享我们的发现。We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.
+我们给那些为这些地区收集数据的研究组鼓掌加油。当我们能做出更具体的推断的时候，我们会马上分享我们的发现。
 ```
 
 
@@ -77,7 +77,7 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 
 <!-- This is left-side text 2-->
 # [COVID-19背景资料](https://nextstrain.org/ncov/2020-03-27)
-我们准备了一些值得一读的材料，让您了解COVID-19（2019冠状病毒病）及其致病病毒SARS-CoV-2（严重急性呼吸综合征冠状病毒2型），或称hCov-19。这些资料将使您更容易理解我们在本报告中提供的数据。
+我们准备了一些值得一读的材料，让您了解COVID-19（2019冠状病毒病）及其致病病毒SARS-CoV-2（严重急性呼吸综合征冠状病毒2型），又称hCov-19病毒。这些资料将使您更容易理解我们在本报告中提供的数据。
 <br><br>
 如果您不熟悉系统发生树，我们建议先阅读[如何解读系统发生树](https://nextstrain.org/narratives/trees-background/zh)，并在阅读后再回到此页。
 <!-- This is right-side text -->
@@ -128,7 +128,7 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 # [非洲的最新情况](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
 这周，我们对塞内加尔和刚果民主共和国的情况进行更新。
-但重要的是，这不意味着非洲其他地区没有COVID-19的病例，而只是因为我们在这两个地区有了足够的数据来做出一些推断。
+重要的是，这不意味着非洲其他地区没有COVID-19的病例——我们只是在这两个地区有了足够的数据来做出一些推断。
 <!-- There is no right side text -->
 
 
@@ -138,7 +138,7 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 
 这里，我们看到有两簇来自塞内加尔的病例。这两簇不聚在一起，意味着它们来自至少两次独立的输入事件。每簇中都含有在短期内取样到的亲缘关系很近的样本，与当地存在本地传播的结论相一致。
 <br><br>
-位于演化树上方的那一簇包括在2月28日至3月4日之间在达喀尔市采集到的样本，意味着新冠病毒在达喀尔的本地传播可能至少有一个月了。
+位于演化树上部的那一簇包括在2月28日至3月4日之间在达喀尔市采集到的样本，意味着新冠病毒在达喀尔的本地传播可能至少有一个月了。
 <br><br>
 树的中部是一簇在3月10日至3月12日在图巴市采集到的样本，意味着新冠病毒可能已经在图巴传播约3周了。
 <!-- There is no right side text -->
@@ -148,7 +148,7 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 # [刚果的本地传播仍在继续](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
 我们这周得到了8条新的来自刚果民主共和国金沙萨市的病毒基因组序列。
 <br><br>
-除了一条序列外，所有的新序列都聚在我们[上周报道](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-27?n=16)过的本地传播的演化支内。
+除了一条序列外，所有的新序列都聚在我们[上周报道](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-27?n=16)过的本地疫情的同一演化支内。
 这表明刚果境内存在持续的本地传播，必须迅速采取行动，控制疫情。
 
 
@@ -160,11 +160,11 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [日本最近的输入病例与邮轮有关](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+# [日本近期的输入病例与邮轮有关](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-在16条来自日本的新序列中，10条有乘坐一艘尼罗河邮轮的旅行史。这16个病例在日本确诊和取样，在树上归为两簇。有意思的是，这两簇序列与其他日本或亚洲的序列关系不大，而是位于主要由美国和欧洲的序列组成的分支中。
+在16条来自日本的新序列中，10条有乘坐尼罗河邮轮的旅行史。这16个病例在日本确诊和取样，在树上归为两簇。有意思的是，这两簇序列与其他日本或亚洲的序列关系不大，而是位于主要由美国和欧洲的序列组成的分支中。
 <br><br>
-所以，这些日本旅行者很可能是在埃及旅行期间，被所遇到的欧洲和美国旅客传染的。因为序列是在三月中旬旅客回到日本之后采集的，这个证据表明，原本主要在欧洲和美国流传的毒株在三月上旬经由国际旅行输出到世界各地。
+所以，这些日本旅行者很可能是在埃及旅行期间，被所遇到的欧洲和美国旅客传染的。因为序列是在三月中旬旅客回到日本之后采集的，这里的证据表明，原本主要在欧洲和美国流传的毒株在三月上旬经由国际旅行输出到世界各地。
 
 <!-- There is no right side text -->
 
@@ -185,9 +185,8 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 <br><br>
 通过按照所登记的旅行史对样本进行着色，我们看到大约一半的病例是在冰岛境外感染的，另一半被认为是在本地感染的（灰色）。
 <br><br>
-如[上周报告](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-27?n=5)所述，这凸显出欧洲各国的疫情大量混杂。this highlights just how much mixing there is between the outbreaks in each European country.
-我们可以对每一个样本的来源进行推测，但是我们不能排除病毒经由未取样地区间接传播的情况。
-For any given sample, we can draw inferences about where its predecessors must have been, but we can't rule out the possibility of indirect transmission by way of an unsampled location.
+如[上周报告](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-27?n=5)所述，这凸显出欧洲各国的疫情大幅度地混杂在一起。
+我们可以对每一个样本的来源地点进行推测，但是我们不能排除病毒经由未取样地区间接传播的情况。
 <!-- There is no right side text -->
 
 
@@ -195,18 +194,13 @@ For any given sample, we can draw inferences about where its predecessors must h
 <!-- This is left-side text 11-->
 # [旅行史数据揭示奥地利的本地传播](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 
-这也是一个有说服力的例子，一个国家全面的测序工作和旅行史记录，能如何帮助我们理解其他地区的当地状况，即使是还没有产生测序数据的地区。
-This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
+这个例子强有力地表明，一个国家全面的测序和旅行史登记工作，能如何帮助我们理解其他地区的本土状况，哪怕是还没有测序数据的地区。
 <br><br>
-我们可以看已测序的报告有奥地利旅行史的冰岛病例，我们看到在短期内取样到的亲缘关系很近的奥地利病例聚在一起，有多簇。
-Looking at the cases sequenced in Iceland after reported travel to Austria, we see multiple clusters of closely related Austrian cases, sequenced over a short time period.
-最有可能的情况是，病毒被多次输入到奥地利。我们不能确定紧密联系的序列是否代表奥地利的社区传播，还是被一个毒株传染的旅客传给了同伴。
-This is most consistent with a scenario wherein there were multiple introductions into Austria. We can't be sure if the linked sequences represent community transmission in Austria or travel partners linking together after exposure to the same strain.
+通过查看冰岛所测序的、报告有奥地利旅行史的病例，我们观察到这些病例聚成几簇，每簇中的病例亲缘关系很近，测序时间也很接近。
+
+最有可能解释这个现象的情况是，病毒被多次输入到奥地利。我们不能确定这些紧密联系的序列是代表奥地利的社区传播，还是代表共同旅行的人被同一毒株所感染。
 <br><br>
-不过，灰色所示，欧洲国家之间联系的数量值得注意。大多数欧洲国家看起来有多次输入，所以没有一个“简单”的解释，病毒是如何在欧洲传播的——它很可能在几周前就大范围传播开了。
-Though shown in grey, the number of connections between different European countries is notable. Most European countries seem to have multiple introductions, so there is no 'simple' story for how the virus has spread through Europe - it was likely spreading widely weeks ago.
-
-
+不过，灰色线条所表示的欧洲国家之间联系的数量值得注意。大多数欧洲国家看起来经历了多次输入事件，所以对于病毒是如何在欧洲传播的，我们并没有一个“简单”的解释——病毒很可能在几周前就大范围传播开了。
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -217,32 +211,27 @@ Though shown in grey, the number of connections between different European count
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Extensive mixing across the U.S.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
+# [美国各地的序列充分混杂在一起](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
 
-随着我们对在美国疫情的了解日益全面，很明显，这些本地疫情是广泛混合的结果。As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
+随着我们对美国疫情的了解日益全面，可以清楚地看到美国各地的本地疫情是广泛混合的结果。
 <br><br>
-虽然很多早期病例与旅行有关，很多州的最新病例大多数情况都与其他州的病例在树上交错混杂在一起。
-While many of the early cases were travel-associated, the more recent cases from many different states are largely intermingled with each other across the tree.   
+虽然很多早期病例与旅行有关，但很多州的最近的病例大多都与其他州的病例在树上交错混杂在一起。
 <br><br>
-这强调，统一的策略将是遏止疫情的关键。
-This emphasizes that a unified strategy will be crucial to stopping this outbreak.
+这突出表明了制订全美统一的应对策略将是遏止疫情的关键。
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [安大略省存在两个本地传播链](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+# [加拿大安大略省存在两个本地传播链](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-这里，我们看到两簇来自安大略省的序列。这两簇不聚在一起，而是各自与其他国家的样本聚在一起，表明它们来自两次独立的输入事件。Here, we see two clusters of sequences from Ontario. These clusters do not group together, and each cluster nests alongside samples from other countries, indicating that these were the result of two separate introductions.
+这里，我们看到两簇来自加拿大安大略省的序列。这两簇彼此不聚在一起，而是各自聚在其他国家的样本的旁边，表明它们来自两次独立的输入事件。
 <br><br>
-然而，在每一簇内，每个病例都与来自安大略省的其他病例亲缘关系接近，表明很有可能存在本地的社区传播。
-Within each cluster, however, each of these cases is most closely related to other cases from Ontario, indicating that this is most likely local, community transmission.
+然而，在每一簇内，每个病例都与来自安大略省的其他病例亲缘关系最近，这个现象最有可能是由于本地的社区传播所导致的。
 <br><br>
 由此，我们推断至少从3月3日起，安大略省很可能就已经存在社区传播。
-From this, we infer that there has likely been community transmission in Ontario since at least the 3rd of March.
 <br><br>
-有意思的是，大多数周围的序列（虚化的样本）来自美国，表明两个国家之间可能有显著的传播。
-Interestingly, most of the surrounding sequences (faded tips) are from the U.S., suggesting that there has been significant mixing between the two countries.
+有意思的是，邻近的序列（虚化的样本）大多数来自美国，表明这两个国家之间有显著的传播。
 <!-- There is no right side text -->
 
 
@@ -276,7 +265,7 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 <br><br><br>
 #### 冰岛全面的测序工作凸显了旅行对疫情传播的影响，也揭示出奥地利境内很可能存在本地传播。
 <br><br><br>
-#### 美国各地的样本在树上混杂排列，表明各州之间的传播广泛存在。也有证据表明美国和加拿大之间的传播和安大略省内的本地传播。Cases across the U.S. co-mingle on the tree, demonstrating extensive spread across state lines. There is also evidence of mixing across the U.S.-Canadian border and local transmission within Ontario.  
+#### 美国各地的样本在树上混杂排列，表明州与州之间的传播广泛存在。也有证据表明病毒在美国和加拿大之间的传播，以及加拿大安大略省内的本地传播。
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
