@@ -78,7 +78,7 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 قمنا هنا بتحضير بعض المصادر التي تستحق الاطلاع لتتعرف على كوفيد 19 والفيروس الذي يسببه وهو سارس كو في 19 والذي يعرف أيضاً كو في 19 البشري
 ستجعل هذه المعلومات عملية تحليل البيانات التي يتم عرضها في هذا التقرير اكثر سهولة 
 <br><br>
-اذا لم تكن على اطلاع عن كيفية قراءة وفهم اشجار التصنيف الجيني فنحن نشجعك على فحص التقرير التال ['كيف تقرأ اشجار التصنيف الجيني'](https://nextstrain.org/narratives/trees-background/) and come back when you're ready.
+اذا لم تكن على اطلاع عن كيفية قراءة وفهم اشجار التصنيف الجيني فنحن نشجعك على فحص التقرير التالي ['كيف تقرأ اشجار التصنيف الجيني'](https://nextstrain.org/narratives/trees-background/) ومن ثم العودة هنا عندما تكون جاهزاً
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
@@ -131,10 +131,10 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Updates for Africa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
+# [تحديثات من افريقيا](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
-We have updates this week for Senegal and the Democratic Republic of the Congo.
-Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.
+لدينا هذا الاسبوع تحديثات عن السنغال وجمهورية الكونغو الديموقراطية
+من المهم التأكيد هنا بان هذا لا يعني عدم وجود حالات كوفيد 19 في اماكن اخرى من افريقيا، وانما فقط هذه الاماكن التي يتوفر لدينا منها بيانات كافية تمكننا من البدأ في عمل استنتاجات
 <!-- There is no right side text -->
 
 
@@ -164,7 +164,7 @@ This demonstrates that there is ongoing local transmission within the DRC, and s
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Updates for Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
+# [تحديثات من آسيا](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
 <!-- There is no right side text -->
 
 
