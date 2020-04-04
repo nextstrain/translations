@@ -60,8 +60,8 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 * 최근 일본으로의 유입은 유람선과 관련
 
 **유럽**  
-* 아이슬란드의 광범위한 염기서열 자료는 여행과 관련된 확산의 정도를 보여줌
-* 여행 기록을 살펴보면 오스트리아에서의 지역사회 전파 가능성을 시사
+* 아이슬란드로부터 받은 대규모의 염기서열 자료는 여행과 관련된 확산의 정도를 보여줌
+* 여행 기록이 오스트리아에서의 지역사회 전파 가능성을 시사
 
 **북아메리카**   
 * 미국 전역에서 광범위하게 뒤섞이고 있음
@@ -184,20 +184,19 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Extensive sequencing by Iceland highlights extent of travel-associated spread](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
-
-We recently received 301 sequences -- from 25\% of [confirmed cases]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- from Iceland.
+# [아이슬란드로부터 받은 대규모 염기서열 자료는 여행과 관련된 확산의 정도를 보여줍니다.](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+최근 저희는 아이슬란드로부터 301개의 염기서열 자료를 받았습니다. 이는 [아이슬란드 전체 확진자 수](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf) 의 25\%에 해당하는 양입니다.
 <br><br>
-Coloring each sample by its recorded travel history, we see that approximately half of these infections were acquired outside of Iceland, while half are presumed locally acquired infections (shown in gray).
+여행 기록에 따라 각 사례들을 채색해 본 결과, 이 중 절반은 아이슬란드 밖에서 감염되었음을 확인할 수 있었고, 또 다른 절반은 아이슬란드 지역 내에서 감염(회색으로 표시된)된 것으로 추정됩니다.  
 <br><br>
-As we [reported last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), this highlights just how much mixing there is between the outbreaks in each European country.
-For any given sample, we can draw inferences about where its predecessors must have been, but we can't rule out the possibility of indirect transmission by way of an unsampled location.
+[지난 주에 보고](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-27?n=5) 한 것처럼, 이는 각 유럽 국가에서 발생한 유행들 사이에 얼마나 많은 뒤섞임이 있었는지를 잘 보여줍니다.
+주어진 사례들을 통해, 이전 전파자가 어디에 있었는지를 추론할 수 있지만, 수집되지 않은 위치로 인한 간접 전파 가능성도 배제할 수는 없습니다.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Travel histories reveal local transmission in Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
+# [여행 기록을 통해 오스트리아 지역사회 전파가 밝혀졌습니다.](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 
 This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
 <br><br>
@@ -269,7 +268,7 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 <br><br><br>
 #### 최근 일본으로의 유입은 유람선과 관련이 있습니다.
 <br><br><br>
-#### 아이슬란드의 광범위한 염기서열 자료는 여행과 관련된 확산의 정도를 보여주며, 오스트리아의 지역사회 전파 가능성을 시사합니다.
+#### 아이슬란드로부터 받은 대규모의 염기서열 자료는 여행과 관련된 확산의 정도를 보여주며, 오스트리아의 지역사회 전파 가능성을 시사합니다.
 <br><br><br>
 #### 미국 전역의 사례들이 계통수 내에서 서로 뒤섞이는데, 이는 주의 경계를 넘어 광범위하게 확산되고 있음을 의미합니다. 또한, 지역사회 전파가 미국-캐나다 국경을 넘나들고 있고 온타리오 주 내에서도 이루어지고 있다는 증거가 있습니다.
 ```
