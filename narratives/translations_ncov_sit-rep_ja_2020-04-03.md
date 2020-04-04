@@ -24,7 +24,7 @@ translators:
   - Tomoyuki Nezu
   - Fengjun Zhang
 translatorLinks:
-  - 
+  - https://github.com/satotake
   - https://twitter.com/tommy_nezy
   - https://twitter.com/fengjun_zhang
 date: "2020年4月3日"
@@ -39,14 +39,14 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- This is left-side text 1-->
 # [目次](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [資料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [このデータについて](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [アフリカに関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [アジアに関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [ヨーロッパに関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [北米に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [私たちにできること](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [分析データのクレジット](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [資料](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=2).     
+* [このデータについて](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=3).
+* [アフリカに関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=4).
+* [アジアに関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=7).
+* [ヨーロッパに関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=9).
+* [北米に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=12).
+* [私たちにできること](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=15).
+* [分析データのクレジット](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -82,7 +82,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- This is left-side text 2-->
 # [COVID-19 に関する資料](https://nextstrain.org/ncov/2020-03-27)
 COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解するために、読む価値のある資料を用意しました。これらの情報は、このレポートで提示するデータの解釈に役立ちます。
-<br><br>系統樹に詳しくない場合は[系統発生の読み方](https://nextstrain.org/narratives/trees-background/) の内容を確認した上で、次のページに進むことをお勧めします。
+<br><br>系統樹に詳しくない場合は[系統発生の読み方](https://nextstrain.org/narratives/trees-background/ja) の内容を確認した上で、次のページに進むことをお勧めします。
 <!-- This is right-side text -->
 
 ```auspiceMainDisplayMarkdown
@@ -97,7 +97,7 @@ COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解�
 
 [よくある質問と答え](https://nextstrain.org/help/coronavirus/FAQ).
 
-[よくある誤解](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[よくある誤解](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-13?n=11).
 
 
 ## 外部の資料 
@@ -152,7 +152,7 @@ COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解�
 # [コンゴ民主共和国での継続的な地域拡散](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
 今週コンゴ民主共和国のキンシャサ (Kinshasa) から8つの新しいゲノムを受け取りました。
 <br><br>
-新しいサンプルの1つを除くすべてが、[先週報告した](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16)地域的な感染拡大の系統内に集まっています。これは、コンゴ民主共和国内で進行中の地域感染が存在することを示しており、感染拡大を封じ込めるために迅速な行動をとることが必須です。
+新しいサンプルの1つを除くすべてが、[先週報告した](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-27?n=16)地域的な感染拡大の系統内に集まっています。これは、コンゴ民主共和国内で進行中の地域感染が存在することを示しており、感染拡大を封じ込めるために迅速な行動をとることが必須です。
 
 
 
@@ -185,11 +185,11 @@ COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解�
 <!-- This is left-side text 10-->
 # [アイスランドにおける広範な分析を通じて、旅行者による拡散が示されます](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-我々はアイスランドから 301 種の遺伝子配列を得ました。これはアイスランドにおいて [確認された症例]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) のうちの 25% になります。 
+我々はアイスランドから 301 種の遺伝子配列を得ました。これはアイスランドにおいて [確認された症例](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf) のうちの 25% になります。 
 <br><br>
 旅行履歴によって各サンプルを色分けすると、これらの約半分がアイスランド外で感染したことがわかりますが、半分は局所的な感染と推定されます（灰色で表示）。
 <br><br>
-[先週報告 ](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5)したように、これはヨーロッパの国々での集団感染間での混合の程度を強く示しています。任意のサンプルについて、その前の感染者がどこにいたかを推論することはできますが、サンプルが採取されていない場所を経由した、間接的な伝搬の可能性を排除することはできません。
+[先週報告 ](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-27?n=5)したように、これはヨーロッパの国々での集団感染間での混合の程度を強く示しています。任意のサンプルについて、その前の感染者がどこにいたかを推論することはできますが、サンプルが採取されていない場所を経由した、間接的な伝搬の可能性を排除することはできません。
 <!-- There is no right side text -->
 
 
@@ -281,7 +281,7 @@ COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解�
 
 <br>
 
-また、これらのデータをアップロードおよび共有できるプラットフォームを提供してくれた GISAID にも感謝します。
+また、これらのデータをアップロードおよび共有できるプラットフォームを提供してくれた [GISAID](https://www.gisaid.org/) にも感謝します。
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
