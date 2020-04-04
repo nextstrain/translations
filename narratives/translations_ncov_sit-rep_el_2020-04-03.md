@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-03.
+title: Γονιδιωματική ανάλυση της εξάπλωσης του COVID-19. Κατάσταση 03/04/2020.
 authors:
   - Emma Hodcroft
   - Cassia Wagner
@@ -19,11 +19,13 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
-date: "2020 April 03"
+translators: 
+  - Sofia Paraskevopoulou
+translatorLinks: 
+  - https://github.com/akifoss
+date: "03 Απριλίου 2020"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "Aυτή η αναφορά χρησιμοποιεί δεδομένα που είναι δημοσίως διαθέσιμα για την ιχνηλάτηση της εξάπλωσης της ασθένειας COVID-19. Οι αναφορές ανανεώνονται σε εβδομαδιαία βάση."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,71 +33,70 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
+# [Πίνακας περιεχομένων](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Updates for Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Updates for Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Updates for Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Updates for North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).
+* [Μια σημείωση σχετικά με τις δειγματοληψίες](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
+* [Ενημερώσεις απο την Αφρική](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
+* [Ενημερώσεις απο την Ασία](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
+* [Ενημερώσεις απο την Ευρώπη](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
+* [Ενημερώσεις απο τη Βόρεια Αμερική](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
+* [Τι μπορείτε να κάνετε](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
+* [Επιστημονικές ευχαριστίες](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Γενική περίληψη
 
-We analyzed 2,544 publicly shared hCoV-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading within communities. In this week's updates, we report:
+Έχουμε αναλύσει 2.544 δημοσίως διαθέσιμα γονιδιώματα hCoV-19. Συγκρίνοντας αυτά τα ιικά γονιδιώματα μεταξύ τους, μπορούμε να κατανοήσουμε πώς μετακινείται ο COVID-19 στην υφήλιο και πώς διασπείρεται τοπικά. Στην αναφορά αυτής της εβδομάδας αναφέρουμε:
 
-**Africa**  
-* Evidence for at least two different transmission chains circulating locally in Senegal  
-* Continued local spread in the Democratic Republic of the Congo  
+**Αφρική** 
+* Ενδείξεις για τουλάχιστον δύο ξεχωριστές αλυσίδες διασποράς που εντοπίζονται τοπικά και είναι ενεργές στη Σενεγάλη
+* Συνεχής τοπική διασπορά στη Λαϊκή Δημοκρατία του Κονγκό 
 
-**Asia**  
-* Recent introductions to Japan are cruiseship-associated
+**Ασία**  
+* Οι πρόσφατες εισαγωγές στην Ιαπωνία σχετίζονται με το κρουαζιερόπλοιο
 
-**Europe**  
-* Extensive sequencing by Iceland demonstrates the extent of travel-associated spread
-* Travel histories suggest local transmission in Austria
+**Ευρώπη**  
+* Εκτεταμένη αλληλούχηση του ιού στην Ισλανδία φανερώνει την έκταση της διασποράς που σχετίζεται με γεγονότα ταξιδίων
+* Τα ιστορικά ταξιδίων φανερώνουν τοπική διασπορά στην Αυστρία
 
-**North America**   
-* Extensive mixing across the U.S.  
-* Likely two local transmission chains circulating in Ontario  
+**Βόρεια Αμερική**   
+* Εκτεταμένη ανάμιξη στις ΗΠΑ
+* Πιθανώς δύο τοπικές αλυσίδες διασποράς είναι ενεργές στο Ontario
 
-**Other areas of the world**
+**Άλλες περιοχές του κόσμου**
 <br>
-We also received new viral genomes from South America and Oceania. Most of these new samples are scattered across the tree and group with samples collected in other regions of the world. Without more contextual data, however, we aren't yet able to draw inferences about these new sequences.
+Έχουμε στα χέρια μας νέα ιικά γονδιώματα από τη Νότια Αμερική και την Ωκεανία. Τα περισσότερα από αυτά τα δείγματα είναι διάσπαρτα στο δέντρο και ομαδοποιούνται με δείγματα που έχουν συλλεχθεί σε άλλες περιοχές του κόσμου. Ωστόσο, χωρίς την ύπαρξη κι άλλων συναφών δεδομένων, δεν είμαστε ακόμα σε θέση να εξάγουμε συμπεράσματα σχετικά με αυτές τις νέες αλληλουχίες.
 <br><br>
-We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.
+Επαινούμε τις ομάδες που εργάζονται στην παραγωγή περισσότερων δεδομένων από τις περιοχές αυτές. Καθώς καθίστανται δυνατές πιο συγκεκριμένες αναλύσεις, είμαστε σε ετοιμότητα να μοιραστούμε τα αποτελέσματα αυτών των αναλύσεων μαζί σας.
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/2020-03-27)
-We've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2, also known as hCov-19.
-This information will make interpreting the data we present in this narrative easier.
+# [COVID-19 Πηγές](https://nextstrain.org/ncov/2020-03-27)
+Έχουμε ετοιμάσει ορισμένες πηγές πληροφόρησης που αξίζει να διαβάσετε για να εξοικειωθείτε με την ασθένεια COVID-19 και τον ιό που την προκαλεί, τον SARS-CoV-2, επίσης γνωστός ώς hCov-19. Οι πληροφορίες αυτές θα διευκολύνουν την ερμηνεία των δεδομένων που παρουσιάζουμε σε αυτή την αναφορά. 
 <br><br>
-If you aren't familiar with phylogenetic trees, we encourage you to check out the ['How to Read Phylogenies' narrative](https://nextstrain.org/narratives/trees-background/) and come back when you're ready.
+Αν δεν είστε εξοικειωμένοι με φυλογενετικά δέντρα σας συνιστούμε να ελέγξετε το άρθρο ['Πώς να ερμηνεύσετε φυλογενετικά δέντρα'](https://nextstrain.org/narratives/trees-background/el) και να επιστρέψετε όταν είστε έτοιμοι.
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-## Nextstrain Resources  
+## Nextstrain Πηγές  
 
-[How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+[Πώς να ερμηνεύσετε φυλογενετικά δέντρα](https://nextstrain.org/narratives/trees-background/el).  
 
-[Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
+[Πληροφορίες σχετικά με τους κορωνοϊούς](https://nextstrain.org/help/coronavirus/human-CoV).
 
-[Background on the current hCoV-19 outbreak](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
+[Πληροφορίες σχετικά με την πανδημία hCoV-19](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
 
 [FAQs](https://nextstrain.org/help/coronavirus/FAQ).
 
-[Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[Συχνές παρερμηνείες](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 
-## External Resources  
+## Εξωτερικές Πηγές  
 [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 
 [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
@@ -112,12 +113,12 @@ If you aren't familiar with phylogenetic trees, we encourage you to check out th
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 53 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Μια σημείωση σχετικά με τις δειγματοληψίες](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
+Αυτή τη στιγμή έχουμε αλληλουχίες από δείγματα που έχουν ληφθεί από 53 χώρες σε 6 ηπείρους. Αυτό είναι ένα αξιόλογο κατόρθωμα - η αλληλούχηση ενός άγνωστου ιού με μεγάλο RNA γονιδίωμα εν μέσω πανδημίας είναι δύσκολη και είναι η εξαιρετική δουλειά και ο συνεχής διαμοιρασμός δεδομένων από επιστήμονες και γιατρούς σε όλο τον κόσμο που την καθιστούν δυνατή.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+Αν και τα δεδομένα μας επιτρέπουν να εξαγάγουμε αρκετά χρήσιμα χαρακτηριστικά για την επιδήμια και να παρακολουθήσουμε την εξάπλωσή της σε πραγματικό χρόνο, είναι σημαντικό να επισημάνουμε ότι τα συμπερασματά μας περιορίζονται απο τη διαθεσιμότητα των δεδομένων.
 <br><br>
-For example, the map shows relatively few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+Για παράδειγμα, ο χάρτης περιλαμβάνει πολύ λίγες αλληλουχίες απο το νότιο ημισφαίριο. Αυτό ΔΕ συμβαίνει επειδή δεν υπάρχει διάδοση COVID-19 σε αυτές τις περιοχές ή επειδή τα κρούσματα σε εκείνες τις περιοχές είναι λίγοτερο σημαντικά για να τα κατανοήσουμε. Αντιθέτως, απλά δεν έχουμε αρκετά δεδομένα διαθέσιμα απο αυτές τις περιοχές. Το μέγεθος κάθε κύκλου στο χάρτη υποδηλώνει πόσα δεδομένα είναι διαθέσιμα αυτή τη στιγμή απο τις αντίστοιχες περιοχές και όχι το πραγματικό μέγεθος της επιδημίας στις περιοχές αυτές.
 
 <!-- There is NO right-side text -->
 
@@ -125,50 +126,47 @@ For example, the map shows relatively few sequences from the global south. This 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Updates for Africa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
+# [Ενημερώσεις απο την Αφρική](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
-We have updates this week for Senegal and the Democratic Republic of the Congo.
-Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.
+Αυτή την εβδομάδα έχουμε ενημερώσεις που αφορούν τη Σενεγάλη και τη Λαϊκή Δημοκρατία του Κονγκό.
+Πρέπει όμως να τονίσουμε ότι αυτό δε σημαίνει ότι δεν υπάρχουν κρούσματα COVID-19 σε άλλες περιοχές της Αφρικής. Απλά αυτές είναι οι περιοχές από τις οποίες έχουμε αρκετά δεδομένα ώστε να αρχίσουμε να εξάγουμε συμπεράσματα.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Two local transmission chains circulating in Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
+# [Δύο τοπικές αλυσίδες διασποράς είναι ενεργές στη Σενεγάλη](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
 
-Here, we see two clusters of cases from Senegal. These clusters do not group together, which indicates that they were the result of at least two separate introductions. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
+Εδώ βλέπουμε δύο γκρουπ κρουσμάτων από τη Σενεγάλη. Αυτά τα γκρουπ δεν ομαδοποιούνται μεταξύ τους, πράγμα που σημαίνει ότι είναι αποτέλεσμα τουλάχιστον δύο ξεχωριστών γεγονότων εισαγωγής του ιού. Κάθε γκρουπ αποτελείται από στενά συνδεδεμένα κρούσματα, τα δείγματα των οποίων ελήφθησαν σε μικρό χρονικό διάστημα και συμφωνούν με το σενάριο της τοπικής διασποράς.
 <br><br>
-The cluster shown towards the top of the tree consists of cases sampled in Dakar between February 28 and March 4.
-This suggests that hCoV-19 has been likely circulating locally in Dakar for at least 1 month.
+Το γκρουπ που εμφανίζεται προς την κορυφή του δέντρου αποτελείται από κρούσματα τα δείγματα των οποίων ελήφθησαν στο Dakar μεταξύ 28 Φεβρουαρίου και 4 Μαρτίου. Αυτό σημαίνει ότι πιθανότατα ο hCoV-19 κυκλοφορεί τοπικά στο Dakar εδώ και τουλάχιστον 1 μήνα.
 <br><br>
-In the middle of the tree is a cluster of cases sampled in Touba between March 10 and March 12.
-This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks.
+Στη μέση του δέντρου υπάρχει ένα γκρουπ κρουσμάτων τα δείγματα των οποίων ελήφθησαν στην Touba μεταξύ 10 και 12 Μαρτίου.
+Αυτό σημαίνει ότι ο hCoV-19 κυκλοφορεί στην Touba εδώ και περίπου 3 εβδομάδες.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Continued local transmission in the DRC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
-We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.
+# [Συνεχής τοπική διασπορά στη Λαϊκή Δημοκρατία του Κονγκό](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
+Παραλάβαμε 8 γονιδιώματα από την Kinsasha της Λαϊκής Δημοκρατίας του Κονγκό αυτή την εβομάδα.
 <br><br>
-All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
-This demonstrates that there is ongoing local transmission within the DRC, and swift action must be taken to contain the outbreak.
-
-
+Όλα τα δείγματα αυτά, εκτός από ένα, ομαδοποιούνται εντός των κλάδων της τοπικής επιδημίας [που αναφέραμε την προηγούμενη εβδομάδα](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+Αυτό σημαίνει ότι υπάρχει συνεχής τοπική διασπορά του ιού εντός της Λαϊκής Δημοκρατίας του Κονγκό και πρέπει γρήγορα να ληφθούν μέτρα ώστε να περιοριστεί η έκταση της επιδημίας.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Updates for Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
+# [Ενημερώσεις από την Ασία](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Recent introductions to Japan are cruiseship-associated](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+# [Οι πρόσφατες εισαγωγές στην Ιαπωνία σχετίζονται με το κρουαζιερόπλοιο](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-Of 16 recent sequences added from Japan, 10 have travel history on-board a Nile River cruise. After being diagnosed and sampled in Japan, all 16 sequences divide between two clusters. Interestingly, these clusters do not link with other Japanese or Asian sequences, but fall within clusters that are primarily found in the US and Europe.
+Από τις 16 αλληλουχίες που προστέθηκαν πρόσφατα από την Ιαπωνία, οι 10 έχουν ιστορικό ταξιδίου σε ένα κρουαζιερόπλοιο στον ποταμό Νείλο. Αφότου τα κρούσματα διαγνώσθηκαν και ελήφθησαν δείγματα στην Ιαπωνία, και οι 16 αλληλουχίες διαμοιράζονται σε δύο ομάδες. Είναι ενδιαφέρον να δούμε ότι οι ομάδες αυτές δε συνδέονται με άλλες ιαπωνικές ή ασιατικές αλληλουχίες, αλλά εντοπίζονται εντός ομάδων που πρωτίστως εντοπίζονται στις ΗΠΑ και στην Ευρώπη.
 <br><br>
-Thus, it seems likely that these Japanese travelers were infected by strains they encountered from other Europeans and Americans visiting Egypt. As sequences were sampled in mid-March, after that travelers returned to Japan, this is evidence that variants that were primarily circulating in Europe and the US were being exported around the world in early March via global travel.
+Επομένως είναι πιθανό ότι αυτοί οι Ιάπωνες ταξιδιώτες μολύνθηκαν από στελέχη του ιού από άλλους Ευρωπαίους και Αμερικανούς που επισκέπτονταν την Αίγυπτο. Καθώς οι αλληλουχίες ελήφθησαν στα μέσα Μαρτίου, αφότου οι ταξιδιώτες είχαν επιστρέψει στην Ιαπωνία, το γεγονός αυτό αποδεικνύει ότι ιικά στελέχη που πρωτίστως εντοπίζονταν στην Ευρώπη και τις ΗΠΑ έχουν εξαχθεί και σε άλλα μέρη του κόσμου στις αρχές Μαρτίου μέσω ταξιδίων ανά την υφήλιο.
 <!-- There is no right side text -->
 
 
@@ -176,100 +174,95 @@ Thus, it seems likely that these Japanese travelers were infected by strains the
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Updates for Europe](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
+# [Ενημερώσεις από την Ευρώπη](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Extensive sequencing by Iceland highlights extent of travel-associated spread](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+# [Εκτεταμένη αλληλούχηση του ιού στην Ισλανδία φανερώνει την έκταση της διασποράς που σχετίζεται με γεγονότα ταξιδίων](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-We recently received 301 sequences -- from 25\% of [confirmed cases]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- from Iceland.
+Πρόσφατα παραλάβαμε 301 αλληλουχίες -- από το 25\% των [επιβεβαιωμένων κρουσμάτων]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- από την Ισλανδία.
 <br><br>
-Coloring each sample by its recorded travel history, we see that approximately half of these infections were acquired outside of Iceland, while half are presumed locally acquired infections (shown in gray).
+Χρωματίζοντας κάθε δείγμα με βάση το ιστορικό ταξιδίου του παρατηρούμε ότι περίπου οι μισές από αυτές τις μολύνσεις προήλθαν από πηγές εκτός Ισλανδίας, ενώ οι άλλες μισές θεωρούνται μολύνσεις από τοπική διασπορά του ιού (γκρι χρώμα).
 <br><br>
-As we [reported last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), this highlights just how much mixing there is between the outbreaks in each European country.
-For any given sample, we can draw inferences about where its predecessors must have been, but we can't rule out the possibility of indirect transmission by way of an unsampled location.
+Όπως [αναφέραμε την προηγούμενη εβδομάδα](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), αυτό καταδεικνύει την έντονη ανάμιξη που υπάρχει μεταξύ των επιδημιών κάθε ευρωπαϊκής χώρας.
+Για κάθε ένα δείγμα μπορούμε να εξάγουμε συμπεράσματα σχετικά με το ποιοι θα μπορούσαν να είναι οι πρόγονοί του, αλλά δεν μπορούμε να αποκλείσουμε το ενδεχόμενο έμμεσης διασποράς απουσία δειγμάτων.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Travel histories reveal local transmission in Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
+# [Τα ιστορικά ταξιδίων φανερώνουν τοπική διασπορά στην Αυστρία](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 
-This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
+Αυτό είναι άλλο ένα παράδειγμα που καταδεικνύει τη σημασία της αλληλούχησης και της καταγραφής των ιστορικών ταξιδίων για το πώς μας βοηθούν να κατανοήσουμε την τοπική διασπορά ακόμα και σε μέρη που δεν έχουν παράξει δεδομένα αλληλουχιών.
 <br><br>
-Looking at the cases sequenced in Iceland after reported travel to Austria, we see multiple clusters of closely related Austrian cases, sequenced over a short time period.
-This is most consistent with a scenario wherein there were multiple introductions into Austria. We can't be sure if the linked sequences represent community transmission in Austria or travel partners linking together after exposure to the same strain.
+Βλέποντας τα κρούσματα που αλληλουχήθηκαν στην Ισλανδία αφότου ανέφεραν ιστορικό ταξιδίου στην Αυστρία, παρατηρούμε πολλές ομάδες στενά συνδεδεμένων αυστριακών κρουσμάτων που αλληλουχήθηκαν σε μικρό χρονικό διάστημα.
+Αυτή η παρατήρηση συμφωνεί με ένα σενάριο πολλαπλών εισαγωγών του ιού στην Αυστρία. Δεν μπορούμε να είμαστε σίγουροι αν οι συνδεδεμένες αλληλουχίες είναι αποτέλεσμα τοπικής διασποράς εντός της αυστριακής κοινότητας ή αν ανήκουν σε ταξιδιώτες που ταξίδεψαν μαζί και εκτέθηκαν στο ίδιο ιικό στέλεχος.
 <br><br>
-Though shown in grey, the number of connections between different European countries is notable. Most European countries seem to have multiple introductions, so there is no 'simple' story for how the virus has spread through Europe - it was likely spreading widely weeks ago.
-
-
+Αν και είναι χρωματισμένες με γκρι, οι συνδέσεις διαφορετικών ευρωπαϊκών χωρών είναι αξιοσημείωτες. Οι περισσότερες ευρωπαϊκές χώρες φαίνεται να έχουν πολλαπλές εισαγωγές του ιού, επομένως δεν υπάρχει κάποια 'απλή' ιστορία που να εξηγεί πώς ο ιός διαδόθηκε στην Ευρώπη - είναι πιθανόν να είχε εξαπλωθεί ευρέως αρκετές εβδομάδες πριν.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Updates for North America](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
+# [Ενημερώσεις από τη Βόρεια Αμερική](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
 <!-- There is no right side text -->
-
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Extensive mixing across the U.S.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
+# [Εκτεταμένη ανάμιξη στις ΗΠΑ](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
 
-As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
+Καθώς αποκτούμε πιο ολοκληρωμένη εικόνα της επιδημίας στις ΗΠΑ, είναι σαφές ότι οι εντοπισμένες εστίες είναι αποτέλεσμα εκτεταμένης ανάμιξης.
 <br><br>
-While many of the early cases were travel-associated, the more recent cases from many different states are largely intermingled with each other across the tree.   
+Αν και πολλά από τα αρχικά κρούσματα είχαν σχέση με ταξιδιωτικά γεγονότα, τα πρόσφατα κρούσματα σε διαφορετικές πολιτείες αναμιγνύονται μεταξύ τους επάνω στο δέντρο σε μεγάλο βαθμό.
 <br><br>
-This emphasizes that a unified strategy will be crucial to stopping this outbreak.
+Το γεγονός αυτό καταδεικνύει ότι μια ενωτική στρατηγική θα είναι κρίσιμη στον περιορισμό της επιδημίας.
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [Two local transmission chains circulating in Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+# [Δύο τοπικές αλυσίδες διασποράς είναι ενεργές στο Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-Here, we see two clusters of sequences from Ontario. These clusters do not group together, and each cluster nests alongside samples from other countries, indicating that these were the result of two separate introductions.
+Εδώ βλέπουμε δύο γκρουπ αλληλουχιών από το Ontario. Αυτά τα γκρουπ δεν ομαδοποιούνται μεταξύ τους και κάθε ένα βρίσκεται ανάμεσα σε δείγματα από άλλες χώρες υποδεικνύοντας ότι προέκυψαν από δύο ξεχωριστά γεγονότα εισαγωγής του ιού.
 <br><br>
-Within each cluster, however, each of these cases is most closely related to other cases from Ontario, indicating that this is most likely local, community transmission.
+Ωστόσο, μέσα σε κάθε γκρουπ παρατηρούμε ότι κάθε ένα κρούσμα συνδέεται στενά με τα υπόλοιπα από το Ontario, πράγμα που υποδεικνύει ότι οφείλονται σε γεγονότα κοινοτικής διασποράς.
 <br><br>
-From this, we infer that there has likely been community transmission in Ontario since at least the 3rd of March.
+Από τα παραπάνω συμπεραίνουμε ότι πιθανώς υπάρχει κοινοτική διασπορά στο Ontario τουλάχιστον από τις 3 Μαρτίου.
 <br><br>
-Interestingly, most of the surrounding sequences (faded tips) are from the U.S., suggesting that there has been significant mixing between the two countries.
+Είναι ενδιαφέρον να παρατηρήσουμε ότι οι περισσότερες από τις αλληλουχίες που βρίσκονται γύρω από αυτά τα γκρουπ (αχνοφαινόμενοι κλάδοι) προέρχονται από τις ΗΠΑ, πράγμα που υποδεικνύει ότι υπήρξε σημαντική ανάμιξη μεταξύ των δύο χωρών 
 <!-- There is no right side text -->
-
-
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing.
-* Even if you are not vulnerable, practice social distancing to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially if you are sick; be prepared with a few extra supplies.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Τί μπορείτε να κάνετε](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...ο καθένας ξεχωριστά
+* Τηρείτε τα μέτρα κοινωνικής απόστασης.
+* Ακόμα κι αν δεν ανήκετε σε ευπαθή ομάδα, τηρείτε τα μέτρα κοινωνικής απόστασης για να προστατέψετε άλλους.
+* Πλένετε τα χέρια σας "σα να έχετε κόψει μια καυτερή πιπεριά και πρέπει να αλλάξετε φακούς επαφής".
+* Μείνετε στο σπίτι όσο γίνεται περισσότερο -- ειδικά εάν είστε άρρωστοι. Προμηθευτείτε επιπλέον ποσότητες τροφίμων.
+* Εάν είστε εργοδότης, ενθαρρύνετε τους εργαζομένους σας να δουλεύουν από το σπίτι όσο αυτό είναι δυνατό.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing and isolation efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...η πολιτεία
+* Κάνετε εκτεταμένους και δωρεάν ελέγχους για τον εντοπισμό του ιού.
+* Εφαρμόστε ισχυρά μέτρα κοινωνικής απόστασης.
+* Χρηματοδοτείστε και υλοποιήστε προσπάθειες ιχνηλάτησης.
+* Υποστηρίξτε οικονομικά αυτούς που πλήγονται από τα μέτρα αποκλεισμού.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Συμπεράσματα
 <br><br>
-#### We find evidence for local transmission within Senegal and the DRC. Swift action must be taken to contain the outbreak in these vulnerable areas. We do not yet have enough data to assess the situation in other parts of Africa.
+#### Υπάρχει απόδειξη τοπικής διασποράς εντός της Σενεγάλης και της Λαϊκής Δημοκρατίας του Κονγκό. Πρέπει άμεσα να ληφθούν μέτρα ώστε να περιοριστεί η επιδημία σε αυτές τις ευάλωτες περιοχές. Δεν έχουμε ακόμη αρκετά δεδομένα ώστε να εκτιμήσουμε την κατάσταση σε άλλες περιοχές της Αφρικής.
 <br><br><br>
-#### Recent introductions to Japan are associated with cruiseship travel.
+#### Οι πρόσφατες εισαγωγές στην Ιαπωνία σχετίζονται με ταξίδι σε κρουαζιερόπλοιο.
 <br><br><br>
-#### Extensive sequencing by Iceland highlights extent of travel-associated spread and reveal likely local transmission in Austria.  
+#### Η εκτεταμένη αλληλούχηση στην Ισλανδία τονίζει την έκταση της διάδοσης που σχετίζεται με ταξίδια και φανερώνει την πιθανή τοπική διάδοση στην Αυστρία. 
 <br><br><br>
-#### Cases across the U.S. co-mingle on the tree, demonstrating extensive spread across state lines. There is also evidence of mixing across the U.S.-Canadian border and local transmission within Ontario.  
+#### Τα κρούσματα στις ΗΠΑ αναμιγνύονται στο δέντρο φανερώνοντας την έκταση της διασποράς εκτός των ορίων των πολιτειών. Υπάρχει επίσης ένδειξη ανάμιξης στο σύνορο ΗΠΑ-Καναδά και τοπικής διασποράς στο Ontario.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -280,20 +273,19 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 16-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
+# [Επιστημονικές ευχαριστίες](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Θα θέλαμε να ευχαριστήσουμε αυτήν την υπέροχη και συνεχή προσπάθεια όλων των επιστημόνων που έχουν εργαστεί σε αυτήν την πανδημία, και ιδιαιτέρως αυτούς που δουλεύουν στην Κίνα. Μόνο μέσα από τον άμεσο διαμοιρασμό γενομικών δεδομένων και μεταδεδομένων, αναλύσεις σαν και αυτή είναι δυνατό να πραγματοποιηθούν.
 
 <br>
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Επίσης ευχαριστούμε θερμά την πλατφόρμα GISAID στην οποία ανεβαίνουν και διατίθενται τα δεδομένα.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Είμαστε ευγνώμονες για τα δεδομένα που συλλέχθηκαν από αυτά τα εργαστήρια:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -612,19 +604,20 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Λεπτομερής επιστημονική αναγνώριση](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Αυτά τα δεδομένα κοινοποιήθηκαν μέσω του [GISAID](https://gisaid.org).
+Ευχαριστούμε πολύ για τη συμβολή τους.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+Στα δεξιά θα βρείτε μια λίστα με τα εργαστήρια και τις αντίστοιχες αλληλουχίες που έχει προσφέρει το καθένα.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Τα γονιδιώματα του SARS-CoV-2 προέρχονται από τους επιστήμονες που εργάζονται στα αντίστοιχα εργαστήρια:
+
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
