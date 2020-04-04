@@ -78,13 +78,13 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 قمنا هنا بتحضير بعض المصادر التي تستحق الاطلاع لتتعرف على كوفيد 19 والفيروس الذي يسببه وهو سارس كو في 19 والذي يعرف أيضاً كو في 19 البشري
 ستجعل هذه المعلومات عملية تحليل البيانات التي يتم عرضها في هذا التقرير اكثر سهولة 
 <br><br>
-اذا لم تكن على اطلاع عن كيفية قراءة وفهم اشجار التصنيف الجيني فنحن نشجعك على فحص التقرير التالي ['كيف تقرأ اشجار التصنيف الجيني'](https://nextstrain.org/narratives/trees-background/) ومن ثم العودة هنا عندما تكون جاهزاً
+اذا لم تكن على اطلاع عن كيفية قراءة وفهم اشجار التصنيف الجيني فنحن نشجعك على فحص التقرير التالي ['كيف تقرأ اشجار التصنيف الجيني'](https://nextstrain.org/narratives/trees-background/ar) ومن ثم العودة هنا عندما تكون جاهزاً
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
 ## مصادر Nextrstrain  
 
-[كيف تقرأ شجرة التصنيف الجيني](https://nextstrain.org/narratives/trees-background/).  
+[كيف تقرأ شجرة التصنيف الجيني](https://nextstrain.org/narratives/trees-background/ar).  
 
 [خلفية علمية عن فيروسات كورونا](https://nextstrain.org/help/coronavirus/human-CoV).
 
@@ -92,7 +92,7 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 
 [الاسئلة الشائعة](https://nextstrain.org/help/coronavirus/FAQ).
 
-[المفاهيم الخاطئة الشائعة](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[المفاهيم الخاطئة الشائعة](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-03-13?n=11).
 
 
 ## المصادر الخارجية 
@@ -212,10 +212,8 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [تحديثات من شمال أمريكا
-](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
+# [تحديثات من شمال أمريكا](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
 <!-- There is no right side text -->
-
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
