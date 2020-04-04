@@ -33,7 +33,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
+# [목차](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
 * [배경지식](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
 * [데이터 수집 관련 사항](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
@@ -78,37 +78,36 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/2020-03-27)
-We've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2, also known as hCov-19.
-This information will make interpreting the data we present in this narrative easier.
+# [코로나바이러스감염증-19 관련자료](https://nextstrain.org/ncov/2020-03-27)
+코로나바이러스감염증-19와 이를 유발하는 SARS-CoV-2 바이러스(또는 hCov-19로 알려진)에 대한 몇 가지 자료를 준비했습니다. 이 정보들은 저희가 이 보고서에서 제시한 내용을 이해하는데 도움을 줄 것입니다.
 <br><br>
-If you aren't familiar with phylogenetic trees, we encourage you to check out the ['How to Read Phylogenies' narrative](https://nextstrain.org/narratives/trees-background/) and come back when you're ready.
+계통수(계통유전학적 나무)가 익숙하지 않은 분들은 ['계통수를 읽는 법'](https://nextstrain.org/narratives/trees-background/ko) 를 읽고 오십시오.
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-## Nextstrain Resources  
+## Nextstrain 관련자료
 
-[How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+[계통수를 읽는 법](https://nextstrain.org/narratives/trees-background/ko).  
 
-[Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
+[코로나바이러스 관련 배경지식](https://nextstrain.org/help/coronavirus/human-CoV).
 
-[Background on the current hCoV-19 outbreak](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
+[최근 코로나바이러스감염증-19 유행 관련 배경지식](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
 
-[FAQs](https://nextstrain.org/help/coronavirus/FAQ).
+[자주 묻는 질문](https://nextstrain.org/help/coronavirus/FAQ).
 
-[Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[흔한 오해들](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 
-## External Resources  
-[WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+## 외부 자료 
+[WHO 상황 보고서](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 
-[CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+[미국 질병통제예방센터에서 제공하는 자료](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
-[The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+[뉴욕타임즈 코로나19 커버리지](https://www.nytimes.com/news-event/coronavirus).
 
-[Our World in Data](https://ourworldindata.org/coronavirus).
+[데이터로 본 세계](https://ourworldindata.org/coronavirus).
 
-[Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+[과학자에게 물어보세요 & 흔한 질문들](https://covid19.fas.org/l/en).
 
 
 ```
@@ -116,12 +115,13 @@ If you aren't familiar with phylogenetic trees, we encourage you to check out th
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 53 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [데이터 수집 관련 사항](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
+
+현재 저희는 6개 대륙, 53개국에서 얻은 분리된 바이러스의 RNA 염기서열 정보를 해독했습니다. 이는 엄청난 성과입니다. 큰 RNA 유전체를 가진 미지의 바이러스의 염기서열 정보를 유행 와중에 얻는 것은 굉장히 어렵습니다. 이는 전 세계의 과학자와 의료인들의 신속한 정보공유와 헌신이 아니었다면 불가능했을 것입니다.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+이 데이터를 활용하면 유행의 여러 특성을 실시간으로 유추할 수 있지만 저희의 결론은 현재 활용가능한 데이터에만 국한됩니다.
 <br><br>
-For example, the map shows relatively few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+예를 들어, 아래의 지도는 남반구에서 채취된 바이러스가 매우 적음을 보여줍니다. 이는 그 지역에 코로나19 유행이 없어서도, 다른 지역보다 덜 중요해서도 아닙니다. 단지 그 지역에서 수집된 데이터가 부족하다는 것을 의미합니다. 지도 상의 원의 크기는 그 지역에서 얻은 데이터의 양을 의미할 뿐 실제 유행의 규모와는 무관합니다.
 
 <!-- There is NO right-side text -->
 
@@ -129,7 +129,7 @@ For example, the map shows relatively few sequences from the global south. This 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Updates for Africa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
+# [아프리카의 현황](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
 We have updates this week for Senegal and the Democratic Republic of the Congo.
 Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.
@@ -162,7 +162,7 @@ This demonstrates that there is ongoing local transmission within the DRC, and s
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Updates for Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
+# [아시아의 현황](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
 <!-- There is no right side text -->
 
 
@@ -180,7 +180,7 @@ Thus, it seems likely that these Japanese travelers were infected by strains the
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Updates for Europe](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
+# [유럽의 현황](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
 <!-- There is no right side text -->
 
 
@@ -213,7 +213,7 @@ Though shown in grey, the number of connections between different European count
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Updates for North America](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
+# [북아메리카의 현황](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
 <!-- There is no right side text -->
 
 
@@ -247,33 +247,33 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing.
-* Even if you are not vulnerable, practice social distancing to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially if you are sick; be prepared with a few extra supplies.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### 개인이 할 수 있는 것들
+* 엄격한 사회적 거리두기를 하십시오.
+* 당신이 취약계층이 아니더라도 사회적 거리두기를 하십시오. 그래야 다른 사람들을 보호할 수 있습니다.
+* "당신이 방금 할라피뇨 고추를 썰고난 뒤 콘택트 렌즈를 교체해야만 하는 것처럼" 손을 자주 씻으십시오. 
+* 아프면 집에 머무르세요. 자가격리를 대비해 필요한 물자를 미리 비축하십시오.
+* 당신이 고용주라면 직원들이 아플 때 집에 있을 수 있도록 해주세요.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing and isolation efforts.  
-* Financially support those impacted by social distancing measures.
+#### 지도자와 관료들이 할 일
+* 검사가 무료로 광범위하게 이뤄질 수 있도록 하십시오.
+* 사회적 거리두기가 이뤄질 수 있도록 하십시오.
+* 광범위한 접촉 경로 추적과 격리에 재정을 지원하고 실행하십시오.
+* 사회적 거리두기로 인해 피해를 입은 사람들을 위한 경제적 지원이 필요합니다.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# 기억할 점들
 <br><br>
-#### We find evidence for local transmission within Senegal and the DRC. Swift action must be taken to contain the outbreak in these vulnerable areas. We do not yet have enough data to assess the situation in other parts of Africa.
+#### 세네갈과 콩고민주공화국 내에서의 지역사회 전파 증거를 찾았습니다. 이런 취약 지역에서 유행하는 것을 막기 위해선 신속한 조치를 취해야 합니다. 우리는 아직 아프리카의 다른 지역의 상황을 평가하기에 충분한 자료를 가지고 있지 않습니다. 
 <br><br><br>
-#### Recent introductions to Japan are associated with cruiseship travel.
+#### 최근 일본으로의 유입은 유람선과 관련이 있습니다.
 <br><br><br>
-#### Extensive sequencing by Iceland highlights extent of travel-associated spread and reveal likely local transmission in Austria.  
+#### 아이슬란드의 광범위한 염기서열 자료는 여행과 관련된 확산의 정도를 보여주며, 오스트리아의 지역사회 전파 가능성을 시사합니다.
 <br><br><br>
-#### Cases across the U.S. co-mingle on the tree, demonstrating extensive spread across state lines. There is also evidence of mixing across the U.S.-Canadian border and local transmission within Ontario.  
+#### 미국 전역의 사례들이 계통수 내에서 서로 뒤섞이는데, 이는 주의 경계를 넘어 광범위하게 확산되고 있음을 의미합니다. 또한, 지역사회 전파가 미국-캐나다 국경을 넘나들고 있고 온타리오 주 내에서도 이루어지고 있다는 증거가 있습니다.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -284,14 +284,13 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 16-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
+# [과학적 기여](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+이번 유행에 관련된 모든 과학자들, 특히 중국의 과학자들의 대단하고 신속한 작업에 감사를 표합니다. 유전체 정보 및 메타정보의 빠른 공유가 아니었다면 이 분석들은 불가능했을 것입니다.
 
 <br>
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+이 데이터는 [GISAID](https://www.gisaid.org/) 를 통해 공유되었습니다. 그들에게 감사의 뜻을 전합니다.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
