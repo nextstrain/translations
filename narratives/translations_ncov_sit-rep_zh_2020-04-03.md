@@ -27,7 +27,7 @@ translatorLinks:
   - https://twitter.com/fengjun_zhang
 date: "2020年04月03日"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19）基因组数据来追踪疫情的传播，此报告将每周更新。"
+abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-19）基因组数据来追踪疫情的传播，此报告将每周更新。"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -50,7 +50,7 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 ```auspiceMainDisplayMarkdown
 # 报告摘要
 
-我们分析了2544个公开共享的COVID-19基因组。通过将这些病毒基因组相互比较，我们可以描述COVID-19是如何在世界各地迁移和在社区中传播的。在本周的更新中，我们发现：
+我们分析了 2,544 个公开共享的 COVID-19 基因组。通过将这些病毒基因组相互比较，我们可以描述 COVID-19 是如何在世界各地迁移和在社区中传播的。在本周的更新中，我们发现：
 
 **非洲**  
 * 证据表明塞内加尔至少有两个不同的本地传播链 
@@ -78,7 +78,7 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19背景资料](https://nextstrain.org/ncov/2020-03-27)
+# [COVID-19 背景资料](https://nextstrain.org/ncov/2020-03-27)
 我们准备了一些值得一读的材料，让您了解 COVID-19（2019冠状病毒病）及其致病病毒 SARS-CoV-2（严重急性呼吸综合征冠状病毒2型），又称 hCov-19 病毒。这些资料将使您更容易理解我们在本报告中提供的数据。
 <br><br>
 如果您不熟悉系统发生树，我们建议先阅读[如何解读系统发生树](https://nextstrain.org/narratives/trees-background/zh)，并在阅读后再回到此页。
@@ -116,11 +116,11 @@ abstract: "这份报告使用了公开共享的2019新型冠状病毒（COVID-19
 
 <!-- This is left-side text 3-->
 # [关于抽样](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
-我们目前有来自6大洲53个国家的病毒样本序列。这是一项令人难以置信的壮举--在病毒大流行期间对一种未知的大型RNA病毒进行测序是很困难的，只有通过世界各地的科学家和医生令人难以置信的工作和及时共享数据才有可能。
+我们目前有来自 6 大洲 53 个国家的病毒样本序列。这是一项令人难以置信的壮举--在病毒大流行期间对一种未知的大型 RNA 病毒进行测序是很困难的，只有通过世界各地的科学家和医生令人难以置信的工作和及时共享数据才有可能。
 <br><br>
 虽然这些数据使我们能够推断出这场疫情的许多有用的特征并实时跟踪其传播，但需要强调的是，我们的结论受到现有数据的限制。
 <br><br>
-比如，地图上显示来自南半球的序列很少。这既不是因为COVID-19没有在这些地区传播，也不是因为理解这些病例不重要，而仅仅是因为我们没有从这些地区获得足够的数据。地图上每个圆圈的大小表示的是该区域当前有多少数据可用，而不是疫情的真实严重程度。
+比如，地图上显示来自南半球的序列很少。这既不是因为 COVID-19 没有在这些地区传播，也不是因为理解这些病例不重要，而仅仅是因为我们没有从这些地区获得足够的数据。地图上每个圆圈的大小表示的是该区域当前有多少数据可用，而不是疫情的真实严重程度。
 <!-- There is NO right-side text -->
 
 
