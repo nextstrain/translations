@@ -131,31 +131,29 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- This is left-side text 4-->
 # [아프리카의 현황](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
-We have updates this week for Senegal and the Democratic Republic of the Congo.
-Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.
+이번 주에 세네갈과 콩고민주공화국에 대한 새로운 업데이트가 있습니다. 하지만 중요한 것은, 이것이 아프리카 어디에도 코로나19 사례가 없다는 것을 의미하지는 않습니다. 단지 이 지역들이 추론을 시작하기 위한 충분한 데이터를 가지고 있을 뿐입니다.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Two local transmission chains circulating in Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
+# [두 개의 전파 연쇄가 순환 중인 세네갈](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
 
-Here, we see two clusters of cases from Senegal. These clusters do not group together, which indicates that they were the result of at least two separate introductions. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
+이 슬라이드에서 세네갈의 두 개의 사례군을 확인할 수 있습니다. 이 사례군들은 함께 묶이지 않는데, 이는 그들이 적어도 두 개의 서로다른 유입이 있었음을 시사합니다. 각 사례군들은 서로 밀접한 관련이 있는 사례들로 구성되어 있으며, 짧은 시간 동안에 수집되었고, 지역사회 전파의 내용과 일치합니다.
 <br><br>
-The cluster shown towards the top of the tree consists of cases sampled in Dakar between February 28 and March 4.
-This suggests that hCoV-19 has been likely circulating locally in Dakar for at least 1 month.
+계통수 상단에 표시된 사례군은 2월 28일에서 3월 사이에 다카르에서 수집된 사례들로 구성되어 있습니다. 이는 코로나 바이러스가 적어도 1개월 동안 다카르 지역 내에서 순환 중이었음을 의미합니다.
 <br><br>
-In the middle of the tree is a cluster of cases sampled in Touba between March 10 and March 12.
-This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks.
+계통수 중앙에는 3월 10일에서 3월 12일 사이에 투바에서 수집된 사례들로 구성되어 있습니다.
+이는 코로나 바이러스가 투바 지역 내에서 약 3주 동안 순환했을 가능성이 있음을 시사합니다.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Continued local transmission in the DRC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
-We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.
+# [지속적으로 콩고민주공화국 내 지역전파가 이루어지는 중](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
+이번 주 저희는 콩고민주공화국의 킨사샤로부터 8개의 새로운 염기서열 자료를 받았습니다.
 <br><br>
-All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
-This demonstrates that there is ongoing local transmission within the DRC, and swift action must be taken to contain the outbreak.
+[지난 주에 보고한](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-27?n=16) 사례들 중 1개를 제외한 전부가 공통의 지역사회 유행 분류군으로 한데 묶였습니다. 
+이는 현재 콩고민주공화국 내에서 지역사회 전파가 이루어지고 있음을 의미하며, 확산을 막기 위한 신속한 조치가 필요합니다.
 
 
 
