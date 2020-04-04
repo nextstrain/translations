@@ -25,7 +25,7 @@ Uebersetzer:
 Links zu den Uebersetzern:
   - https://bsse.ethz.ch/department/people/detail-person.MjM4ODcw.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html
   - https://www.ebi.ac.uk/about/people/astrid-gall
-Datum: "03. April 2020"
+Datum: "2020-04-03"
 Daten: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
 Kurzfassung: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von COVID-19 zu beschreiben, und wird wöchentlich aktualisiert."
 ---
