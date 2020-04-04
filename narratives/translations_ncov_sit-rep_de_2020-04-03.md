@@ -236,7 +236,7 @@ Jedoch ist jeder Fall Innerhalb jedes Clusters nah verwandt zu anderen Faellen a
 <br><br>
 Davon ausgehend schlussfolgern wir eine uebertragung innerhalb der Gemeinden in Ontario seit fruhstens dem 3. Maerz.
 <br><br>
-Interestingly, most of the surrounding sequences (faded tips) are from the U.S., suggesting that there has been significant mixing between the two countries.
+Interessanterweise sind die umliegenden Sequenzen (hier sichtbar als blasse Spitzen) aus den USA, was scheinbar auf eine grossflaechige Durchmischung zwischen den beiden Laendern zurueckzufuehren sein koennte.
 <!-- There is no right side text -->
 
 
@@ -244,19 +244,19 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing.
-* Even if you are not vulnerable, practice social distancing to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially if you are sick; be prepared with a few extra supplies.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Was Sie tun koennen](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...als Einzelperson
+* Reduzieren Sie die Anzahl an Personen, mit denen Sie taeglich Kontakt haben, drastisc, besonders wenn Sie zu einer Risikogruppe gehoeren (z.B. Senioren und Leute mit Vorerkrankungen).
+* Bedenken Sie, dass selbst wenn Sie nicht zu einer Risikogruppe gehoeren, Leute in Ihrer Umgebung dies eventuell tun. Halten Sie sich an die Anweisungen, um Andere zu schuetzen.
+* Haendewaschen "like you just chopped a jalapeno and have to change a contact lens."  
+* Bleiben Sie zuhause, so oft wie es geht - besonders wenn Sie krank sind; bereiten Sie sich mit Vorraeten auf eine eventuelle Quarantaene vor.  
+* Als Arbeitgeber raten Sie Ihren Angestellten von zuhause aus zu arbeiten, wenn moeglich.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing and isolation efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...als Amtsperson 
+* Machen Sie Tests kostenlos und weitlaeufig verfuegbar.  
+* Fordern Sie strikte social distancing Massnahmen.
+* Unterstuetzen und implementieren Sie umfangreiche Kontaktverfolgungen. 
+* Unterstuetzen Sie all diejenigen finanziell, die aufgrund von social distancing Massnahmen negativ betroffen sind.
 
 
 <!-- This is the right-side text -->
@@ -264,13 +264,13 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 ```auspiceMainDisplayMarkdown
 # Takeaways
 <br><br>
-#### We find evidence for local transmission within Senegal and the DRC. Swift action must be taken to contain the outbreak in these vulnerable areas. We do not yet have enough data to assess the situation in other parts of Africa.
+#### Wir haben Hinweise fuer eine lokale Ausbreitung des Virus innerhalb Senegals und der DR Kongos. Schnelle Massnahmen muessen ergriffen werden, um die Epidemie in diesen schutzbeduerftigen Regionen einzudaemmen. Bis jetzt haben wir nicht genuegend Daten, um die Situation in anderen Teilen Afrikas abschaetzen zu koennen. 
 <br><br><br>
-#### Recent introductions to Japan are associated with cruiseship travel.
+#### Kuerzliche Einschleppungen des Virus nach Japan sind auf die Kreusfahrtreise zurueckfuehrbar.
 <br><br><br>
-#### Extensive sequencing by Iceland highlights extent of travel-associated spread and reveal likely local transmission in Austria.  
+#### Ausfuehrliche Sequenzierung in Island verdeutlicht das Ausmass reisebedingter Verbreitung des Virus und zeigte eine hoechstwahrscheinliche lokale Uebertragung nach Oesterreich.
 <br><br><br>
-#### Cases across the U.S. co-mingle on the tree, demonstrating extensive spread across state lines. There is also evidence of mixing across the U.S.-Canadian border and local transmission within Ontario.  
+#### Faelle innerhalb der USA vermischen sich im Baum, was eine starke Verbreitung ausserhalb der Staatsgrenzen verdeutlicht. Zusaetzlich gibt es Hinweise auf eine Vermischung ueber die US-kanadische Grenze hinweg und eine lokale Uebertragung innerhalb Ontarios.  
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -281,20 +281,19 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 16-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
+# [Wissenschaftliche Danksagung](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Wir moechten uns recht herzlich bei allen Forschern fuer deren Zeit und wunderbares Engagement bedanken, die in dieser Epidemie ihren unentbehrlichen Beitrag leisten. Besonders moechten wir uns bei denen bedanken, die in China die Epidemie versuchen in den Griff zu bekommen. Nur durch das schnelle Teilen von Genom- und Metadaten sind Analysen wie diese moeglich.
 
 <br>
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Zudem moechten wir uns recht herzlich bei GISAID fuer die Bereitstellung der Plattform bedanken, durch die diese Daten geteilt und hochgeladen werden koennen.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Vielen herzlichen Dank an nachfolgende Labore fuer das Zusammentragen der Daten:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -615,17 +614,16 @@ We are grateful for the data gathered by these originating labs:
 <!-- This is left-side text -->
 # [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
-
+Diese Daten wurden durch [GISAID] moeglich (https://gisaid.org).
+Wir moechten uns hier recht herzlich fuer deren Beteiligung bedanken.
 <br>
 
-To the right we give specific sequences shared by each lab.
+Rechts geben wir spezifische Sequenzen an, die von jedem Labor gemeinsam genutzt werden.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Die SARS-CoV-2 Genome wurden grosszuegig von Wissenschaftlern an den nachfolgenden Instituten geteilt:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
