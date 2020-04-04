@@ -141,33 +141,46 @@ Na przykład, mapa pokazuje bardzo niewiele sekwencji z południowej części ś
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Updates for Africa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
+# [Aktualizacja sytuacji w Afryce](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
+W tym tygodniu mamy aktualizacje informacji w Senegalu i Demokratycznej Republice Kongo.
+Co ważne, nie oznacza to, że COVID-19 nie występuje w innych miejscach w Afryce; to są jedyne miejsca gdzie możemy wyciągnąć wnioski na temat rozprzestrzeniania się wirusa. 
 
-We have updates this week for Senegal and the Democratic Republic of the Congo.
-Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.
+<!-- We have updates this week for Senegal and the Democratic Republic of the Congo.
+Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.-->
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Two local transmission chains circulating in Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
+# [Dwa lokalne łańcuchy transmisji w Senegalu](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
+Widzimy dwa klastry przypadków z Senegalu. Te klastry nie grupują się razem, co oznacza, że były wynikiem przynajmniej dwóch niezależnych introdukcji. Każdy z tych klastrów składa się z blisko spokrewnionych przypadków próbkowanych w ciagu krótkiego przedziału czasowego, co zgadza się z wystepowaniem lokalnych ognisk epidemii.
+<br><br>
+Klaster u góry drzewa składa się z przypadków pobranych w Dakarze pomiędzy 28 lutego a 4 marca. 
+To sugeruje, że hCoV-19 najprawdopodobniej był w obiegu w Dakarze przez co najmniej miesiąc. 
+<br><br>
+W środku drzewa znajduje się grupa przypadków pobranych w Touba pomiędzy 10 i 12 marca. 
+To sugeruje, że hCoV-19 był w obiegu w Touba przez co najmniej 3 tygodnie. 
 
-Here, we see two clusters of cases from Senegal. These clusters do not group together, which indicates that they were the result of at least two separate introductions. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
+<!--Here, we see two clusters of cases from Senegal. These clusters do not group together, which indicates that they were the result of at least two separate introductions. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
 <br><br>
 The cluster shown towards the top of the tree consists of cases sampled in Dakar between February 28 and March 4.
 This suggests that hCoV-19 has been likely circulating locally in Dakar for at least 1 month.
 <br><br>
 In the middle of the tree is a cluster of cases sampled in Touba between March 10 and March 12.
-This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks.
+This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks.-->
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Continued local transmission in the DRC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
-We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.
+# [Kontynuacja lokalnej transmisji w DRK](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
+W tym tygodniu otrzymaliśmy 8 nowych genomów z Kinszasy w Demokratycznej Republice Kongo. 
+<!-- We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.-->
 <br><br>
-All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
-This demonstrates that there is ongoing local transmission within the DRC, and swift action must be taken to contain the outbreak.
+Z jednym wyjątkiem, te nowe próbki grupują się z przypadkami pochodzącymi z lokalnego ogniska epidemii [które zareportowaliśmy w zeszłym tygodniu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+To pokazuje, że trwa lokalna transmisja w obrębie DRK i należy podjąć szybkie działania w celu ograniczenia epidemii.
+
+<!-- All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+This demonstrates that there is ongoing local transmission within the DRC, and swift action must be taken to contain the outbreak.-->
 
 
 
