@@ -33,14 +33,14 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 <!-- This is left-side text 1-->
 # [جدول المحتويات](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [مصادر الخلفية العلمية](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=2).     
-* [ملاحظة عن جمع العينات](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=3).
-* [تحديثات عن افريقيا](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=4).
-* [تحديثات عن آسيا](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=7).
-* [تحديثات عن اوروبا](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=9).
-* [تحديثات عن امريكا الشمالية](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=12).
-* [ماذا يمكنك ان تفعل](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=15).
-* [الحقوق العلمية](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=16).
+* [مصادر الخلفية العلمية](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
+* [ملاحظة عن جمع العينات](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
+* [تحديثات عن افريقيا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
+* [تحديثات عن آسيا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
+* [تحديثات عن اوروبا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
+* [تحديثات عن امريكا الشمالية](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
+* [ماذا يمكنك ان تفعل](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
+* [الحقوق العلمية](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -78,13 +78,13 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 قمنا هنا بتحضير بعض المصادر التي تستحق الاطلاع لتتعرف على كوفيد 19 والفيروس الذي يسببه وهو سارس كو في 19 والذي يعرف أيضاً كو في 19 البشري
 ستجعل هذه المعلومات عملية تحليل البيانات التي يتم عرضها في هذا التقرير اكثر سهولة 
 <br><br>
-اذا لم تكن على اطلاع عن كيفية قراءة وفهم اشجار التصنيف الجيني فنحن نشجعك على فحص التقرير التالي ['كيف تقرأ اشجار التصنيف الجيني'](https://nextstrain.org/narratives/trees-background/ar) ومن ثم العودة هنا عندما تكون جاهزاً
+اذا لم تكن على اطلاع عن كيفية قراءة وفهم اشجار التصنيف الجيني فنحن نشجعك على فحص التقرير التالي ['كيف تقرأ اشجار التصنيف الجيني'](https://nextstrain.org/narratives/trees-background/) ومن ثم العودة هنا عندما تكون جاهزاً
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-## مصادر Nextstrain  
+## مصادر Nextrstrain  
 
-[كيف تقرأ شجرة التصنيف الجيني](https://nextstrain.org/narratives/trees-background/ar).  
+[كيف تقرأ شجرة التصنيف الجيني](https://nextstrain.org/narratives/trees-background/).  
 
 [خلفية علمية عن فيروسات كورونا](https://nextstrain.org/help/coronavirus/human-CoV).
 
@@ -92,7 +92,7 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 
 [الاسئلة الشائعة](https://nextstrain.org/help/coronavirus/FAQ).
 
-[المفاهيم الخاطئة الشائعة](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-03-13?n=11).
+[المفاهيم الخاطئة الشائعة](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 
 ## المصادر الخارجية 
@@ -190,7 +190,7 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 <!-- This is left-side text 10-->
 # [تحديد مكثف لسلاسل جينات الفيروس في ايسلندا يسلط الضوء على انتشار للفيروس مرتبط بالسفر](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-حصلنا مؤخرا على  ٣٠١ سلسلة جينية من ايسلندا -  ٢٥٪ منها مأخوذة من مرضى بحالات [اصابة مؤكدة](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)
+حصلنا مؤخرا على  ٣٠١ سلسلة جينية من ايسلندا -  ٢٥٪ منها مأخوذة من مرضى بحالات [اصابة مؤكدة]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf))
 <br><br>
 هنا قمنا بتلوين العينات بالاعتماد على تاريخ السفر للمريض، وجدنا تقريبا نصف هذه الحالات تمت اصابتها خارج ايسلندا. بينما النصف الآخر، افتراضيا، هي اصابات محلية. 
 <br><br>
@@ -200,47 +200,49 @@ abstract: "يستخدم هذا التقرير بيانات الجينومات ا
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Travel histories reveal local transmission in Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
+# [تاريخ السفر يظهر انتشار محلي  في النمسا](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 
-This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
+هذا مثال مهم يوضح كيفي ان  الحصول على سلاسل الجينات  للفيروس وتاريخ السفر يساعدنا لفهم حالات محلية في أماكن أخرى. حتى في أماكن لم يتم جمع العينات منها بعد. 
 <br><br>
-Looking at the cases sequenced in Iceland after reported travel to Austria, we see multiple clusters of closely related Austrian cases, sequenced over a short time period.
-This is most consistent with a scenario wherein there were multiple introductions into Austria. We can't be sure if the linked sequences represent community transmission in Austria or travel partners linking together after exposure to the same strain.
+بالنظر للحالات المرتبطة بالسفر للنمسا في ايسلندا، نرى تجمع لعينات متشابهة تم جمعها وتحديد سلاسل جينات  الفيروس فيها  خلال وقت قصير. هذه النتائج ترجح حصول  أكثر من إدخال للنمسا. ولكن لا  يمكن التأكيد على أن هذه النتائج ليست نتيجة انتشار في محلي داخل مجتمع  محدود في النمسا، او عدة  اشخاص سافروا سوية وتعرضوا لنفس سلالة الفيروس. 
 <br><br>
-Though shown in grey, the number of connections between different European countries is notable. Most European countries seem to have multiple introductions, so there is no 'simple' story for how the virus has spread through Europe - it was likely spreading widely weeks ago.
-
-
+على أية حال، يمكن ملاحظة العديد من الارتباطات  بين  الدول الأوروبية، كما تظهر الخطوط الرمادية في الشكل. معظم الدول الأوروبية  تبدو وكأنها عانت من إدخالات متعددة للفيروس. لذلك  لا يمكن تبسيط فهم عملية انتشار الفيروس في أوروبا. على الأرجع بأن الانتشارات ابتدأت منذ أسابيع. 
+<br><br>
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Updates for North America](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
+# [تحديثات من شمال أمريكا
+](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Extensive mixing across the U.S.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
+# [خلط مكثف في أمريكا](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
 
-As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
+حصلنا  على صورة أكثر  وضوحا عن الوباء  في أمريكا. ويتضح بأن هذه الانتشارات المحلية  هي  نتيجة لاختلاط كبير في الانتشار.
 <br><br>
-While many of the early cases were travel-associated, the more recent cases from many different states are largely intermingled with each other across the tree.   
+بين أن هناك ارتباط للسفر في العديد من الحالات الأولية،  الا ان الحالات الحالية تختلط مع بعضها في كل أنحاء الشجرة. 
 <br><br>
-This emphasizes that a unified strategy will be crucial to stopping this outbreak.
+هذا يؤكد على ضرورة إيجاد طريقة موحدة للحد من الوباء 
+<br><br>
+
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [Two local transmission chains circulating in Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+# [انتشاران محليان للوباء في أونتاريو](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-Here, we see two clusters of sequences from Ontario. These clusters do not group together, and each cluster nests alongside samples from other countries, indicating that these were the result of two separate introductions.
+هنا  نرى مجموعة من العينات من أونتاريو تتجمع في مجموعتين مختلفتين. وكل مجموعة تتفرع من عينات من دول مختلفة،  مما يدل على وجود ادخالات متفرقة.
 <br><br>
-Within each cluster, however, each of these cases is most closely related to other cases from Ontario, indicating that this is most likely local, community transmission.
+ونرى أيضا تشابها في العينات داخل كل مجموعة مما يدل على وجود انتشار محلي. 
 <br><br>
-From this, we infer that there has likely been community transmission in Ontario since at least the 3rd of March.
+يمكننا الاستنتاج بأن هناك انتشار محلي في أونتاريو منذ الثالث من مارس لهذه السنة
 <br><br>
-Interestingly, most of the surrounding sequences (faded tips) are from the U.S., suggesting that there has been significant mixing between the two countries.
+ومما يثير الاهتمام بأن كل العينات الأخرى في الشجرة (التي تظهر بخطوط أقل سماكة) هي من أمريكا، مما  يشر لحدوث خلط واضح بين الدولتين
+
 <!-- There is no right side text -->
 
 
@@ -248,33 +250,33 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing.
-* Even if you are not vulnerable, practice social distancing to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially if you are sick; be prepared with a few extra supplies.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [ماذا تفعل](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...كفرد في المجتمع
+* قم بالتقيد بالحجر الصحي، تحديدا إذا كنت في مجموعة هي عرضة للوباء
+* تذكر ،  حتى لو لم تكن عرضة  للوباء،  فهناك  العديد من الأشخاص حولنا قد يكونون.  فتقيد بالحجر لحمايتهم 
+* اغسل بديك "كانك تريد تغيير عدساتك اللاصقة بعد ان قمت بتقطيع الفلفل"
+* ابق في المنزل قدر ما تستطيع -- بشكل مخصوص إذا كنت مريضا، كن مستعدا وتزود باحتياجات اضافية في حال اضطررت للحجر الذاتي.
+* إذا كنت رب عمل، شجع موظفيك على العمل من البيت ان كان ذلك ممكنا
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing and isolation efforts.  
-* Financially support those impacted by social distancing measures.
-
+#### ...كشخص في موقع مسؤولية
+* اجعل الفحوصات مجانية ومتوفرة بكثرة
+* ضع تدابير التباعد الاجتماعي وتابع تنفيذها بفعالية على ارض الواقع
+* قم بتمويل وتطبيق جهود متابعة التواصل المكثفة. 
+* ادعم ماديا أولئك المتضررين مم التباعد الاجتماعي ( العمالة الذين يعملون بنظام الوقت الساعي، اولئك الذين يعتنون بالكبار والأطفال, والمشاريع الصغيرة،...الخ).
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+## الاستنتاجات والحقائق الحالية 
 <br><br>
-#### We find evidence for local transmission within Senegal and the DRC. Swift action must be taken to contain the outbreak in these vulnerable areas. We do not yet have enough data to assess the situation in other parts of Africa.
-<br><br><br>
-#### Recent introductions to Japan are associated with cruiseship travel.
-<br><br><br>
-#### Extensive sequencing by Iceland highlights extent of travel-associated spread and reveal likely local transmission in Austria.  
-<br><br><br>
-#### Cases across the U.S. co-mingle on the tree, demonstrating extensive spread across state lines. There is also evidence of mixing across the U.S.-Canadian border and local transmission within Ontario.  
+#### وجدنا  دلائل على حدوث انتشار  محلي في السنغال وجمهورية الكونغو الشعبية. يجب اتخاذ اجراءات سريعة للحد من انتشار الوباء في هذه المناطق الغير محصنة. ليس لدينا بيانات كافية لتقييم الوباء في أفريقيا حتى الآن
+<br><br>
+#### الإدخالات الحاصلة في اليابان مرتبطة بالسفر في رحلة بحرية عبر سفينة سياحية
+<br><br>
+#### الجمع الكثيف للعينات في ايسلندا  يشير إلى انتشارات مرتبطة بالسفر وكشف عن احتمالية وجود انتشارات محلية في النمسا 
+<br><br>
+#### تختلط عينات أمريكا على طول الشجرة، مما يشيرلانتشارات عديدة بين الولايات. وهناك ايضا دلائل لخلط بين كندا وأمريكا وانتشارات محلية في أونتاريو. 
+
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -287,12 +289,11 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 <!-- This is left-side text 16-->
 # [Scientific credit](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+نود هنا ان نشكر ونقدر الاعمال الرائعة المنجزة بوقتها من قبل جميع العلماء الذي عملوا على هذا الوباء وخصوصاً أولئك العاملين في الصين. فقط من خلال المشاركة السريعة للبيانات الجينية كان بالامكان عمل هذه التحليلات
 
 <br>
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+كما نثمن بقوة ونشكر GISAID على تزويدهم لنا بمنصتهم والتي تم من خلالها تحميل وتحليل البيانات.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
