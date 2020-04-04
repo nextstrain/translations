@@ -23,7 +23,7 @@ translators:
   - Ahmad Saleh
   - Fadi Alnaji
 translatorLinks:
-  - https://twitter.com/Ahmadsa96201545
+  - https://twitter.com/DrSalehAhmad
   - https://twitter.com/biofadialnaji
 date: "3 April 2020"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
