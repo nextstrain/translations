@@ -73,7 +73,6 @@ Zusaetzlich haben wir neue Virengenome aus Suedamerika und Ozeanien erhalten. Di
 
 <br><br>
 Wir wollen die Arbeit der Gruppen begruessen, die diese zusaetzlichen Daten generiert haben. Falls konkretere Rueckschluesse moeglich sind, werden wir diese sofort teilen.
-
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -155,7 +154,7 @@ In der Baummitte befindet sich ein Cluster, der aus Proben besteht, die zwischen
 # [Weiterfuehrende oertliche Uebertragung des Virus in der DR Kongo](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
 Diese Woche haben wir acht neue Genome aus Kinshasa in der Demonkratischen Republik Kongo erhalten.
 <br><br>
-Mit Ausnahme einer Probe liegen alle neuen Proben innerhalb der lokalen Epidemieklade, ueber die wir [letzte Woche] berichtet haben(https://nextstrain.org/narratives/ncov/sit-rep/de/2020-03-27?n=16).
+Mit Ausnahme einer Probe liegen alle neuen Proben innerhalb der lokalen Epidemieklade, ueber die wir [letzte Woche](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-03-27?n=16) berichtet haben.
 Das zeigt eine kontinuierliche, oertliche Uebertragung des Virus innerhalb der DR Kongo, was rasche Massnahmen fordern sollte zur Einschraekung der Empidemie.
 
 
@@ -618,7 +617,7 @@ Vielen herzlichen Dank an nachfolgende Labore fuer das Zusammentragen der Daten:
 <!-- This is left-side text -->
 # [Detaillierte Danksagung](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-Diese Daten wurden durch [GISAID] ermoeglicht (https://gisaid.org).
+Diese Daten wurden durch [GISAID](https://gisaid.org) ermoeglicht.
 Wir moechten uns hier recht herzlich fuer deren Beteiligung bedanken.
 <br>
 
