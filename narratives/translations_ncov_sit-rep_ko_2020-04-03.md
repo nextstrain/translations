@@ -21,6 +21,8 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators: 
   - Taehoon Ha
+  - Kyobin Kang
+  - Minkyu Kim
 translatorLinks:
   - https://taehoonh.github.io
 date: "2020 April 03"
