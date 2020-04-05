@@ -20,7 +20,11 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+ - Anna Fijarczyk
+ - Marta Niedzicka
 translatorLinks:
+ - https://twitter.com/afijarczyk
+ - https://www.researchgate.net/profile/Marta_Niedzicka
 date: "2020 April 03"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
 abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się COVID-19. Raporty są uaktualniane co tydzień."
@@ -77,7 +81,7 @@ Przeanalizowaliśmy 2,544</tag> dostępnych publicznie genomów COVID-19. Porów
 
 **Inne rejony świata**
 <br>
-Otrzymaliśmy również nowe genomy wirusa z Ameryki Południowej i Oceanii. Większość tych nowych próbek jest rozproszona na drzewie i grupuje się z próbkami pochodzącymi z innych rejonów świata. Bez dodatkowych informacji, nie jesteśmy jeszcze w stanie wyciągnąć wniosków na temat tych nowych sekwencji. 
+Otrzymaliśmy również nowe genomy wirusa z Ameryki Południowej i Oceanii. Większość tych nowych próbek jest rozproszona na drzewie i grupuje się z próbkami pochodzącymi z innych rejonów świata. Bez dodatkowych informacji nie jesteśmy jeszcze w stanie wyciągnąć wniosków na temat tych nowych sekwencji. 
 <br><br>
 Przyklaskujemy grupom pracującym nad generowaniem dodatkowych danych dla tych regionów. Udostępnimy rezultaty analiz jak tylko będziemy mogli wyciągnąć bardziej szczegółowe wnioski. 
 
@@ -92,7 +96,7 @@ We applaud the groups working to generate additional data for these regions. As 
 
 <!-- This is left-side text 2-->
 # [Materiały wprowadzające w tematykę](https://nextstrain.org/ncov/2020-03-27)
-Przygotowaliśmy materiały online, które warto przeczytać w celu zapoznania się z COVID-19 i wirusem SARS-CoV-2, który tę chorobę wywołuje, również znanym jako nCov-19.
+Przygotowaliśmy materiały online, które warto przeczytać w celu zapoznania się z COVID-19 i wirusem SARS-CoV-2, który tę chorobę wywołuje, również znanym jako hCov-19.
 Zawarte w nich informacje ułatwią interpretację danych, które prezentujemy w tym raporcie.
 <br><br>
 Jeżeli nie jesteś zaznajomiona/y z tematyką drzew filogenetycznych, zachęcamy do przeczytania w pierwszej kolejności ['Jak interpretować drzewa filogenetyczne'](https://nextstrain.org/narratives/trees-background/pl).
@@ -130,7 +134,7 @@ Jeżeli nie jesteś zaznajomiona/y z tematyką drzew filogenetycznych, zachęcam
 
 <!-- This is left-side text 3-->
 # [Opis próbkowania](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
-Obecnie dysponujemy sekwencjami próbek pobranych w 53</tag> krajach z 6 kontynenów. To niesamowity wyczyn -- sekwencjonowanie nieznanego wirusa o sporym genomie RNA w środku pandemii jest trudne i możliwe jedynie dzięki ogromnej pracy i sprawnemu udostępnianiu danych przez naukowców i lekarzy z całego świata.
+Obecnie dysponujemy sekwencjami próbek pobranych w 53</tag> krajach z 6 kontynentów. To niesamowity wyczyn -- sekwencjonowanie nieznanego wirusa o sporym genomie RNA w środku pandemii jest trudne i możliwe jedynie dzięki ogromnej pracy i sprawnemu udostępnianiu danych przez naukowców i lekarzy z całego świata.
 <br><br>
 Choć zgromadzone dane umożliwiają wyciąganie wniosków na temat wielu przydatnych aspektów epidemii oraz pozwalają śledzić jej rozprzestrzenianie w czasie rzeczywistym, należy podkreślić, że są one ograniczone.
 <br><br>
@@ -142,8 +146,8 @@ Na przykład, mapa pokazuje bardzo niewiele sekwencji z południowej części ś
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
 # [Aktualizacja sytuacji w Afryce](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
-W tym tygodniu mamy aktualizacje informacji w Senegalu i Demokratycznej Republice Kongo.
-Co ważne, nie oznacza to, że COVID-19 nie występuje w innych miejscach w Afryce; to są jedyne miejsca gdzie możemy wyciągnąć wnioski na temat rozprzestrzeniania się wirusa. 
+W tym tygodniu mamy aktualizacje dotyczące Senegalu i Demokratycznej Republice Kongo.
+Co ważne, nie oznacza to, że COVID-19 nie występuje w innych miejscach w Afryce; jedynie w tych miejscach możemy wyciągnąć wnioski na temat rozprzestrzeniania się wirusa. 
 
 <!-- We have updates this week for Senegal and the Democratic Republic of the Congo.
 Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.-->
@@ -153,12 +157,12 @@ Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
 # [Dwa lokalne łańcuchy transmisji w Senegalu](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
-Widzimy dwa klastry przypadków z Senegalu. Te klastry nie grupują się razem, co oznacza, że były wynikiem przynajmniej dwóch niezależnych introdukcji. Każdy z tych klastrów składa się z blisko spokrewnionych przypadków próbkowanych w ciagu krótkiego przedziału czasowego, co zgadza się z wystepowaniem lokalnych ognisk epidemii.
+Widzimy dwa klastry przypadków z Senegalu. Te klastry nie grupują się razem, co oznacza, że były wynikiem przynajmniej dwóch niezależnych introdukcji. Każdy z tych klastrów składa się z blisko spokrewnionych przypadków próbkowanych w ciagu krótkiego przedziału czasowego, co zgadza się z występowaniem lokalnych ognisk epidemii.
 <br><br>
 Klaster u góry drzewa składa się z przypadków pobranych w Dakarze pomiędzy 28 lutego a 4 marca. 
 To sugeruje, że hCoV-19 najprawdopodobniej był w obiegu w Dakarze przez co najmniej miesiąc. 
 <br><br>
-W środku drzewa znajduje się grupa przypadków pobranych w Touba pomiędzy 10 i 12 marca. 
+W środku drzewa znajduje się grupa przypadków pobranych w Touba pomiędzy 10 a 12 marca. 
 To sugeruje, że hCoV-19 był w obiegu w Touba przez co najmniej 3 tygodnie. 
 
 <!--Here, we see two clusters of cases from Senegal. These clusters do not group together, which indicates that they were the result of at least two separate introductions. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
@@ -176,7 +180,7 @@ This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks
 W tym tygodniu otrzymaliśmy 8 nowych genomów z Kinszasy w Demokratycznej Republice Kongo. 
 <!-- We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.-->
 <br><br>
-Z jednym wyjątkiem, te nowe próbki grupują się z przypadkami pochodzącymi z lokalnego ogniska epidemii [które zareportowaliśmy w zeszłym tygodniu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+Z jednym wyjątkiem, te nowe próbki grupują się z przypadkami pochodzącymi z lokalnego ogniska epidemii [które zaraportowaliśmy w zeszłym tygodniu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
 To pokazuje, że trwa lokalna transmisja w obrębie DRK i należy podjąć szybkie działania w celu ograniczenia epidemii.
 
 <!-- All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
@@ -193,10 +197,10 @@ This demonstrates that there is ongoing local transmission within the DRC, and s
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Nidawne introdukcje do Japonii są związane ze statkami wycieczkowymi](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
-Spośród 16 nowych sekwencji z Japonii, 10 posiada historię podróży związaną z rejsem na rzece Nil. Po diagnozie i pobraniu prób w Japonii, wszystkie 16 przypadków można podzielić na dwie grupy. Co ciekawe, te przypadki nie grupują się z żadnymi innymi z Japonii i Azji ogólnie, ale grupują się z przypadkami pierwotnie znalezionymi w USA i Europie.
+# [Niedawne introdukcje do Japonii są związane ze statkami wycieczkowymi](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+Spośród 16 nowych sekwencji z Japonii, 10 posiada historię podróży związaną z rejsem po rzece Nil. Po diagnozie i pobraniu prób w Japonii, wszystkie 16 przypadków można podzielić na dwie grupy. Co ciekawe, te przypadki nie grupują się z żadnymi innymi z Japonii i Azji ogólnie, ale grupują się z przypadkami pierwotnie znalezionymi w USA i Europie.
 <br><br>
-Wydaje się, że Japońscy turyści zostali zainfekowani wirusem pochodzącym od Europejczyków i Amerykanów odwiedzających Egipt. Ponieważ próbki zostały pobrane w środku marca, po czym turyści wrócili do Japonii, to sugeruje, że warianty wirusa będące początkowo w obiegu w Europie i USA rozprzestrzeniły się po świecie dzieki globalnym podróżom.
+Wydaje się, że japońscy turyści zostali zainfekowani wirusem pochodzącym od Europejczyków i Amerykanów odwiedzających Egipt. Ponieważ próbki zostały pobrane w środku marca, po czym turyści wrócili do Japonii, to sugeruje, że warianty wirusa będące początkowo w obiegu w Europie i USA rozprzestrzeniły się po świecie dzięki globalnym podróżom.
 
 <!-- Of 16 recent sequences added from Japan, 10 have travel history on-board a Nile River cruise. After being diagnosed and sampled in Japan, all 16 sequences divide between two clusters. Interestingly, these clusters do not link with other Japanese or Asian sequences, but fall within clusters that are primarily found in the US and Europe.
 <br><br>
@@ -214,13 +218,13 @@ Thus, it seems likely that these Japanese travelers were infected by strains the
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Rozległe sekwencjonowanie w Islandii pokazuje zakres rozpszestrzeniania się wirusa związany z podróżami](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+# [Rozległe sekwencjonowanie w Islandii pokazuje zakres rozprzestrzeniania się wirusa związany z podróżami](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 <!-- Extensive sequencing by Iceland highlights extent of travel-associated spread-->
 Ostatnio otrzymaliśmy 301</tag> sekwencji -- z 25\% [potwierdzonych przypadków]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- z Islandii.
 <br><br>
-Po pokolorowaniu każdej próbki według historii podróży, widzimy, że około połowa tych infekcji została nabyta spoza Islandii, a połowa pochodzi od prawdopodobnie lokalnie nabytych infekcji (pokazane na szaro).
+Po pokolorowaniu każdej próbki według historii podróży, widzimy, że około połowa tych infekcji została nabyta poza Islandią, a połowa pochodzi od prawdopodobnie lokalnie nabytych infekcji (pokazane na szaro).
 <br><br>
-Jak [raportowaliśmy w zeszłym tygodniu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), ten obraz pokazuje jak bardzo mieszają się przypadki z różnych lokalnych wybuchów epidemii w każdym Europejskim kraju.
+Jak [raportowaliśmy w zeszłym tygodniu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), ten obraz pokazuje jak bardzo mieszają się przypadki z różnych lokalnych wybuchów epidemii w każdym europejskim kraju.
 Możemy wyciągać wnioski na temat miejsca pochodzenia przodków każdej próbki, ale nie możemy wykluczyć pośrednich transmisji z niepróbkowanych miejsc.
 
 
@@ -237,12 +241,12 @@ For any given sample, we can draw inferences about where its predecessors must h
 <!-- This is left-side text 11-->
 # [Historie podróży wskazują na lokalną transmisję w Austrii](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 <!-- Travel histories reveal local transmission in Austria-->
-To jest również bardzo mocny przykład jak obszerne sekwencjonowanie i rejestrowanie podróży w jednym kraju może nam pomóc w zrozumieniu lokalnej sytuacji w innych miejscach, nawet tych, gdzie nie ma jeszcze danych z sekwencjonowania.
+To jest również bardzo mocny przykład, jak obszerne sekwencjonowanie i rejestrowanie podróży w jednym kraju może nam pomóc w zrozumieniu lokalnej sytuacji w innych miejscach, nawet tych, gdzie nie ma jeszcze danych z sekwencjonowania.
 <br><br>
 Patrząc na przypadki zsekwencjonowane w Islandii z zarejestrowaną podróżą do Austrii, widzimy wiele klastrów blisko spokrewnionych przypadków, zsekwencjonowanych w ciągu krótkiego okresu czasu. 
-To jest najbardziej zgodne ze scenariuszem, w którym nastapiło wiele introdukcji do Austrii. Nie możemy być jednak pewni czy powiązane grupy sekwencji przedstawiają lokalne transmisje w Austrii, czy raczej partnerów podróży wspólnie powiązanych po ekspozycji na ten sam wariant wirusa.
+To jest najbardziej zgodne ze scenariuszem, w którym nastąpiło wiele introdukcji do Austrii. Nie możemy być jednak pewni czy powiązane grupy sekwencji przedstawiają lokalne transmisje w Austrii, czy raczej towarzyszy podróży, powiązanych po ekspozycji na ten sam wariant wirusa.
 <br><br>
-Liczba kontaktów pomiędzy różnymi krajami Europejskimi jest znaczna i zaznaczona na szaro. Większość krajów Europejskich wydaje się mieć wielokrotne introdukcje, wobec tego nie ma 'prostego' scenariusza opisującego jak wirus rozprzestrzenia się w Europie - prawdopodobnie szeroko się rozprzestrzeniał od wielu tygodni.
+Liczba kontaktów pomiędzy różnymi krajami europejskimi jest znaczna i zaznaczona na szaro. Większość krajów europejskich wydaje się mieć wielokrotne introdukcje, wobec tego nie ma 'prostego' scenariusza opisującego, jak wirus rozprzestrzenia się w Europie - prawdopodobnie szeroko się rozprzestrzeniał od wielu tygodni.
 
 <!--This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
 <br><br>
@@ -265,11 +269,11 @@ Though shown in grey, the number of connections between different European count
 # [Obszerne mieszanie się w obrębie USA](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
 <!--Extensive mixing across the U.S.-->
 
-W miarę jak uzyskujemy coraz pełniejszy obraz epidemii w USA, staje się jasne, że te lokalne wybuchy epidemii są rezultatem rozległego mieszania się przypadków. <!-- trochę to dziwnie brzmi 'mieszanie się przypadków', może jakieś lepsze sformuowanie AF -->
+W miarę, jak uzyskujemy coraz pełniejszy obraz epidemii w USA, staje się jasne, że te lokalne wybuchy epidemii są rezultatem rozległego przemieszczania się. <!-- trochę to dziwnie brzmi 'mieszanie się przypadków', może jakieś lepsze sformuowanie AF - myślę, że chodzi o mieszanie się w efekcie przemieszczania się ludzi, więc zmieniłam MN -->
 <br><br>
-Podczas gdy wiele pierwotnych przypadków było związanych z podróżami, niedawne przypadki z wielu stanów są silnie ze sobą zmieszane na drzewie filogenetycznym.
+Podczas gdy wiele pierwotnych przypadków było związanych z podróżami, niedawne przypadki z wielu stanów są silnie ze sobą przemieszane na drzewie filogenetycznym.
 <br><br>
-To poskreśla, że potrzebna jest jednolita strategia aby zatrzymać tą epidemię.
+To podkreśla, że potrzebna jest jednolita strategia, aby zatrzymać tę epidemię.
 
 <!-- As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
 <br><br>
@@ -289,7 +293,7 @@ Jednak w obrębie każdego klastra, każdy z przypadków grupuje się z innymi p
 <br><br>
 Na tej podstawie wnioskujemy, że prawdopodobnie występowały trasmisje wirusa w obrębie społeczności od co najmniej 3 marca. 
 <br><br>
-Co ciekawe, większość otaczających ich sekwencji na drzewie (wyblakłe krańce gałęzi) są z USA, co sugeruje, że jest intensywna wymiana wirusa pomiędzy tymi dwoma krajami.
+Co ciekawe, większość otaczających ich sekwencji na drzewie (wyblakłe krańce gałęzi) są z USA, co sugeruje, że mamy do czynienia z intensywną wymianą wirusa pomiędzy tymi dwoma krajami.
 
 <!-- Here, we see two clusters of sequences from Ontario. These clusters do not group together, and each cluster nests alongside samples from other countries, indicating that these were the result of two separate introductions.
 <br><br>
@@ -311,7 +315,7 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 * Stosuj ścisłą izolację społeczną, zwłaszcza jeśli jesteś w grupie podwyższonego ryzyka.
 * Pamiętaj, że nawet jeśli nie jesteś szczególnie narażona/y, wiele osób wokół ciebie jest; postępuj zgodnie z tymi praktykami, aby chronić innych.
 * Myj ręcę "jakbyś właśnie pokroił papryczkę jalapeno i musiał zmienić soczewkę kontaktową".  
-* Zostań w domu na tyle, ile to możliwe -- szczególnie jeśli jesteś chora/y; przygotuj trochę zapasów w razie potrzeby przebycia kwarantanny.  
+* Zostań w domu na tyle, na ile to możliwe -- szczególnie jeśli jesteś chora/y; przygotuj trochę zapasów w razie potrzeby przebycia kwarantanny.  
 * Jeśli jesteś pracodawcą, zachęć swoich pracowników, aby pracowali z domu, gdziekolwiek jest to możliwe.
 
 #### ...jako urzędnik 
@@ -326,7 +330,7 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 ```auspiceMainDisplayMarkdown
 # Konkluzje
 <br><br>
-#### Mamy dowody na wystepowanie lokalnych ognisk epidemii w Senegalu i Demokratycznej Republice Kongo. Należy podjąć szybkie działania, w celu ograniczenia epidemii w tych wrażliwych regionach. Nie mamy wsytarczającej ilości danych, aby ocenić sytuację w innych rejonach Afryki.
+#### Mamy dowody na wystepowanie lokalnych ognisk epidemii w Senegalu i Demokratycznej Republice Kongo. Należy podjąć szybkie działania w celu ograniczenia epidemii w tych wrażliwych regionach. Nie mamy wystarczającej ilości danych, aby ocenić sytuację w innych rejonach Afryki.
 <br><br><br>
 #### Niedawne introdukcje do Japonii są związane z podróżami statkami wycieczkowymi. 
 <br><br><br>
