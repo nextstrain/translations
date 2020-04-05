@@ -19,12 +19,14 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: 
+translators:
   - Taehoon Ha
   - Kyobin Kang
   - Minkyu Kim
 translatorLinks:
   - https://taehoonh.github.io
+  - https://twitter.com/kyobinkang
+  - https://twitter.com/minkyuxyz
 date: "2020 April 03"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
 abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
@@ -37,20 +39,20 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- This is left-side text 1-->
 # [목차](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [배경지식](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [데이터 수집 관련 사항](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [아프리카의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [아시아의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [유럽의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [북아메리카의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [우리가 할 수 있는 것들](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [과학적 기여](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [배경지식](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-03?n=2).     
+* [데이터 수집 관련 사항](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-03?n=3).
+* [아프리카의 현황](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-03?n=4).
+* [아시아의 현황](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-03?n=7).
+* [유럽의 현황](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-03?n=9).
+* [북아메리카의 현황](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-03?n=12).
+* [우리가 할 수 있는 것들](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-03?n=15).
+* [과학적 기여](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # 개요
 
-저희는 2,544개의 공개된 코로나19의 유전체 염기서열을 분석하였습니다. 바이러스들을 비교 분석하여 코로나19가 어떻게 진화하고 세계 곳곳으로 퍼지고 있는지 분석할 수 있습니다. 
+저희는 2,544개의 공개된 코로나19의 유전체 염기서열을 분석하였습니다. 바이러스들을 비교 분석하여 코로나19가 어떻게 진화하고 세계 곳곳으로 퍼지고 있는지 분석할 수 있습니다.
 
 이번 주 보고서에서 새로 추가된 것들:
 
@@ -97,10 +99,10 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 [자주 묻는 질문](https://nextstrain.org/help/coronavirus/FAQ).
 
-[흔한 오해들](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[흔한 오해들](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-13?n=11).
 
 
-## 외부 자료 
+## 외부 자료
 [WHO 상황 보고서](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 
 [미국 질병통제예방센터에서 제공하는 자료](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
@@ -155,7 +157,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 이번 주 저희는 콩고민주공화국 킨사샤로부터 8개의 새로운 염기서열 자료를 받았습니다.
 <br><br>
-[지난 주에 보고한](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-27?n=16) 사례들 중 1개를 제외한 전부가 공통의 지역사회 유행 분기군으로 한데 묶였습니다. 
+[지난 주에 보고한](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-27?n=16) 사례들 중 1개를 제외한 전부가 공통의 지역사회 유행 분기군으로 한데 묶였습니다.
 이는 현재 콩고민주공화국 내에서 지역사회 전파가 이루어지고 있음을 의미하며, 확산을 막기 위한 신속한 조치가 필요합니다.
 
 
@@ -252,7 +254,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 #### 개인이 할 수 있는 것들
 * 엄격한 사회적 거리두기를 하십시오.
 * 당신이 취약계층이 아니더라도 사회적 거리두기를 하십시오. 그래야 다른 사람들을 보호할 수 있습니다.
-* "당신이 방금 할라피뇨 고추를 썰고난 뒤 콘택트 렌즈를 교체해야만 하는 것처럼" 손을 자주 씻으십시오. 
+* "당신이 방금 할라피뇨 고추를 썰고난 뒤 콘택트 렌즈를 교체해야만 하는 것처럼" 손을 자주 씻으십시오.
 * 아프면 집에 머무르세요. 자가격리를 대비해 필요한 물자를 미리 비축하십시오.
 * 당신이 고용주라면 직원들이 아플 때 집에 있을 수 있도록 해주세요.
 
@@ -268,7 +270,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 ```auspiceMainDisplayMarkdown
 # 기억할 점들
 <br><br>
-#### 세네갈과 콩고민주공화국 내에서의 지역사회 전파 증거를 찾았습니다. 이런 취약 지역에서 유행하는 것을 막기 위해선 신속한 조치를 취해야 합니다. 우리는 아직 아프리카의 다른 지역의 상황을 평가하기에 충분한 자료를 가지고 있지 않습니다. 
+#### 세네갈과 콩고민주공화국 내에서의 지역사회 전파 증거를 찾았습니다. 이런 취약 지역에서 유행하는 것을 막기 위해선 신속한 조치를 취해야 합니다. 우리는 아직 아프리카의 다른 지역의 상황을 평가하기에 충분한 자료를 가지고 있지 않습니다.
 <br><br><br>
 #### 최근 일본으로의 유입은 유람선과 관련이 있습니다.
 <br><br><br>
@@ -618,12 +620,11 @@ We are grateful for the data gathered by these originating labs:
 <!-- This is left-side text -->
 # [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+이 데이터는 [GISAID](https://gisaid.org)를 통해 공유되었습니다. 그들에게 감사의 뜻을 전합니다.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+우측에 각 연구실이 기여한 구체적인 서열 정보가 있습니다.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
