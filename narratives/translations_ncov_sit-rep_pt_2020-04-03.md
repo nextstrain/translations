@@ -124,40 +124,37 @@ Por exemplo, o mapa mostra muitas poucas sequências do hemisfério sul. Isso N�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Updates for Africa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
+# [Atualizações da África](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
-We have updates this week for Senegal and the Democratic Republic of the Congo.
-Importantly, though, this doesn't mean there aren't COVID-19 cases elsewhere in Africa; this is just where we have enough data to start making inferences.
+Essa semana temos atualizações relacionados à Senegal e República Democrática do Congo. É importante ressaltar que isso não significa que não haja casos de COVID-19 em outras partes da África; Assim sendo, faremos inferências acerca desses dois países, dos quais temos dados suficientes.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Two local transmission chains circulating in Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
+# [Duas cadeias de transmissão locais circulando em Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
 
-Here, we see two clusters of cases from Senegal. These clusters do not group together, which indicates that they were the result of at least two separate introductions. Each of these clusters consists of closely related cases sampled across a short period of time, consistent with local transmission.
+Aqui vemos dois clusters de casos de Senegal. Esses clusters não se agrupam, o que indica que eles foram o resultado de pelo menos duas introduções separadas. Cada um desses clusters consiste em casos intimamente relacionados, amostrados em um curto período de tempo, consistente com transmissão local.
 <br><br>
-The cluster shown towards the top of the tree consists of cases sampled in Dakar between February 28 and March 4.
-This suggests that hCoV-19 has been likely circulating locally in Dakar for at least 1 month.
+O cluster mostrado no topo da árvore consiste em casos amostrados em Dakar entre 28 de fevereiro e 4 de março. Isso sugere que o hCoV-19 provavelmente circula localmente em Dakar há pelo menos 1 mês.
 <br><br>
-In the middle of the tree is a cluster of cases sampled in Touba between March 10 and March 12.
-This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks.
+No meio da árvore, há um cluster de casos amostrados em Touba entre 10 e 12 de março. Isso sugere que o hCoV-19 pode estar circulando em Touba por cerca de 3 semanas.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Continued local transmission in the DRC](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
-We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.
+# [Transmissão local continuada na RD Congo](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
+Recebemos 8 novos genomas esta semana de Kinshasa (República Democrática do Congo).
 <br><br>
-All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
-This demonstrates that there is ongoing local transmission within the DRC, and swift action must be taken to contain the outbreak.
+Todos, com exceção de 1 das novas amostras, fazem parte do mesmo cluster do [surto local relatado na semana passada](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-27?n=16).
+Isso demonstra que há uma transmissão local em andamento na RDC e é necessário tomar medidas rápidas para conter o surto.
 
 
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Updates for Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
+# [Atualizações da Ásia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
 <!-- There is no right side text -->
 
 
