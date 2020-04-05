@@ -99,7 +99,7 @@ abstract: "Aυτή η αναφορά χρησιμοποιεί δεδομένα �
 
 
 ## Εξωτερικές Πηγές  
-[ΠΟΥ Αναφορές καταστάσεων](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+[Αναφορές καταστάσεων του ΠΟΥ](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 
 [CDC Αναφορές](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
@@ -107,7 +107,7 @@ abstract: "Aυτή η αναφορά χρησιμοποιεί δεδομένα �
 
 [Ο κόσμος μας σε δεδομένα](https://ourworldindata.org/coronavirus).
 
-[Ρωτήστε ενα επιστήμονα & Συχνές ερωτήσεις](https://covid19.fas.org/l/en).
+[Ρωτήστε έναν επιστήμονα & Συχνές ερωτήσεις](https://covid19.fas.org/l/en).
 
 
 ```
