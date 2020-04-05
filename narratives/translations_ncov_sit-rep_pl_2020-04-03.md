@@ -146,7 +146,7 @@ Na przykład, mapa pokazuje bardzo niewiele sekwencji z południowej części ś
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
 # [Aktualizacja sytuacji w Afryce](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
-W tym tygodniu mamy aktualizacje dotyczące Senegalu i Demokratycznej Republice Kongo.
+W tym tygodniu mamy aktualizacje dotyczące Senegalu i Demokratycznej Republiki Kongo.
 Co ważne, nie oznacza to, że COVID-19 nie występuje w innych miejscach w Afryce; jedynie w tych miejscach możemy wyciągnąć wnioski na temat rozprzestrzeniania się wirusa. 
 
 <!-- We have updates this week for Senegal and the Democratic Republic of the Congo.
