@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-03.
+title: Análise genômica da dispersão da COVID-19. Relatório da situação até 03/04/2020.
 authors:
   - Emma Hodcroft
   - Cassia Wagner
@@ -23,7 +23,7 @@ translators:
 translatorLinks:
 date: "2020 April 03"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "Esse relatório usa dados genômicos compartilhados publicamente para rastrear o espalhamento de COVID-19. Esses relatórios serão atualizados semanalmente."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,80 +31,79 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
+# [Índice](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Updates for Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Updates for Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Updates for Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Updates for North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [Fontes sobre COVID-19](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
+* [Observação sobre amostragem](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
+* [Atualizações da África](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
+* [Atualizações da Ásia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
+* [Atualizações da Europa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
+* [Atualizações da América do Norte](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
+* [O que você pode fazer](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
+* [Crédito científico](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Resumo
 
-We analyzed 2,544 publicly shared hCoV-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading within communities. In this week's updates, we report:
+Analisamos 2544 genomas do COVID-19 compartilhados publicamente. Ao comparar esses genomas virais uns com os outros, podemos caracterizar como o COVID-19 está evoluindo e se movendo ao redor do mundo e se espalhando comunidades adentro. Nas atualizações dessa semana, constatamos:
 
-**Africa**  
-* Evidence for at least two different transmission chains circulating locally in Senegal  
-* Continued local spread in the Democratic Republic of the Congo  
+**África**  
+* Evidências de pelo menos duas cadeias de transmissão diferentes circulando localmente em Senegal  
+* Continuação da disseminação local na República Democrática do Congo
 
-**Asia**  
-* Recent introductions to Japan are cruiseship-associated
+**Ásia**  
+* Introduções recentes no Japão estão associadas a navios de cruzeiro
 
-**Europe**  
-* Extensive sequencing by Iceland demonstrates the extent of travel-associated spread
-* Travel histories suggest local transmission in Austria
+**Europa**  
+* Sequenciamento extensivo feito pela Islândia demonstra a extensão da propagação associada a viagens
+* Históricos de viagens sugerem transmissão local na Áustria
 
-**North America**   
-* Extensive mixing across the U.S.  
-* Likely two local transmission chains circulating in Ontario  
+**América do Norte**   
+* Mistura extensiva pelos Estados Unidos
+* Há provavelmente duas cadeias de transmissão locais circulando em Ontário (Canadá)
 
-**Other areas of the world**
+**Outras regiões do mundo**
 <br>
-We also received new viral genomes from South America and Oceania. Most of these new samples are scattered across the tree and group with samples collected in other regions of the world. Without more contextual data, however, we aren't yet able to draw inferences about these new sequences.
+Também recebemos novos genomas virais da América do Sul e Oceania. A maioria dessas novas amostras está espalhada pela árvore e agrupada com amostras coletadas em outras regiões do mundo. Sem mais dados contextuais, no entanto, ainda não somos capazes de extrair inferências sobre essas novas seqüências.
 <br><br>
-We applaud the groups working to generate additional data for these regions. As more specific inferences become possible, we will immediately share those findings.
+Aplaudimos os grupos que trabalham para gerar dados adicionais para essas regiões. À medida que inferências mais específicas se tornarem possíveis, compartilharemos imediatamente essas descobertas.
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/2020-03-27)
-We've prepared some resources that are worth reading to familiarize yourself with COVID-19 and the virus that causes it, SARS-CoV-2, also known as hCov-19.
-This information will make interpreting the data we present in this narrative easier.
+# [Fontes sobre COVID-19](https://nextstrain.org/ncov/2020-03-27)
+Preparamos alguns materiais (em Inglês) que valem a pena ser lidos para se familiarizar com o COVID-19 e o vírus que o causa, SARS-CoV-2, também conhecido como hCov-19. Essa informação tornará mais fácil a interpretação dos dados apresentados aqui.
 <br><br>
-If you aren't familiar with phylogenetic trees, we encourage you to check out the ['How to Read Phylogenies' narrative](https://nextstrain.org/narratives/trees-background/) and come back when you're ready.
+Se você não está familiarizado com árvores filogenéticas, encorajamos que leia o [artigo 'Como interpretar árvores filogenéticas'](https://nextstrain.org/narratives/trees-background/pt) e retorne quando estiver pronto.
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-## Nextstrain Resources  
+## Materiais da Nextstrain 
 
-[How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+[Como interpretar árvores filogenéticas](https://nextstrain.org/narratives/trees-background/pt).  
 
-[Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
+[Informações acerca dos coronavírus](https://nextstrain.org/help/coronavirus/human-CoV).
 
-[Background on the current hCoV-19 outbreak](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
+[Informações cerca do surto de hCoV-19 atual](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
 
-[FAQs](https://nextstrain.org/help/coronavirus/FAQ).
+[Perguntas Frequentes](https://nextstrain.org/help/coronavirus/FAQ).
 
-[Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[Equívocos comuns](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 
-## External Resources  
-[WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+## Materiais Externos
+[Relatórios de situação da OMS](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 
-[CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+[Materiais do CDC (Centro de Controle de Doenças/EUA)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
-[The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+[Cobertura do NY Times sobre a COVID-19](https://www.nytimes.com/news-event/coronavirus).
 
-[Our World in Data](https://ourworldindata.org/coronavirus).
+[Nosso Mundo em Dados](https://ourworldindata.org/coronavirus).
 
-[Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+[Pergunte a um cientista & Perguntas frequentes.](https://covid19.fas.org/l/en).
 
 
 ```
