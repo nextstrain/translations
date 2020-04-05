@@ -37,14 +37,14 @@ abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śl
 <!-- This is left-side text 1-->
 # [Spis treści](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Materiały wprowadzające w tematykę](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [O danych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Aktualizacja sytuacji w Afryce](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Aktualizacja sytuacji w Azji](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Aktualizacja sytuacji w Europie](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Aktualizacja sytuacji w Ameryce Północnej](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [Co ty możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [Materiały wprowadzające w tematykę](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-03?n=2).     
+* [O danych](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-03?n=3).
+* [Aktualizacja sytuacji w Afryce](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-03?n=4).
+* [Aktualizacja sytuacji w Azji](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-03?n=7).
+* [Aktualizacja sytuacji w Europie](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-03?n=9).
+* [Aktualizacja sytuacji w Ameryce Północnej](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-03?n=12).
+* [Co ty możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-03?n=15).
+* [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -113,7 +113,7 @@ Jeżeli nie jesteś zaznajomiona/y z tematyką drzew filogenetycznych, zachęcam
 
 [FAQs](https://nextstrain.org/help/coronavirus/FAQ).
 
-[Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+[Przesądy](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-03-13?n=11).
 
 
 ## Inne źródła  
@@ -180,7 +180,7 @@ This suggests that hCoV-19 may have been circulating in Touba for around 3 weeks
 W tym tygodniu otrzymaliśmy 8 nowych genomów z Kinszasy w Demokratycznej Republice Kongo. 
 <!-- We received 8 new genomes this week from Kinsasha in the Democratic Republic of the Congo.-->
 <br><br>
-Z jednym wyjątkiem, te nowe próbki grupują się z przypadkami pochodzącymi z lokalnego ogniska epidemii [które zaraportowaliśmy w zeszłym tygodniu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+Z jednym wyjątkiem, te nowe próbki grupują się z przypadkami pochodzącymi z lokalnego ogniska epidemii [które zaraportowaliśmy w zeszłym tygodniu](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-03-27?n=16).
 To pokazuje, że trwa lokalna transmisja w obrębie DRK i należy podjąć szybkie działania w celu ograniczenia epidemii.
 
 <!-- All but 1 of the new samples cluster within the local outbreak clades which [we reported on last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
@@ -220,11 +220,11 @@ Thus, it seems likely that these Japanese travelers were infected by strains the
 <!-- This is left-side text 10-->
 # [Rozległe sekwencjonowanie w Islandii pokazuje zakres rozprzestrzeniania się wirusa związany z podróżami](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 <!-- Extensive sequencing by Iceland highlights extent of travel-associated spread-->
-Ostatnio otrzymaliśmy 301</tag> sekwencji -- z 25\% [potwierdzonych przypadków]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- z Islandii.
+Ostatnio otrzymaliśmy 301</tag> sekwencji -- z 25\% [potwierdzonych przypadków](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf) -- z Islandii.
 <br><br>
 Po pokolorowaniu każdej próbki według historii podróży, widzimy, że około połowa tych infekcji została nabyta poza Islandią, a połowa pochodzi od prawdopodobnie lokalnie nabytych infekcji (pokazane na szaro).
 <br><br>
-Jak [raportowaliśmy w zeszłym tygodniu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), ten obraz pokazuje jak bardzo mieszają się przypadki z różnych lokalnych wybuchów epidemii w każdym europejskim kraju.
+Jak [raportowaliśmy w zeszłym tygodniu](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-03-27?n=5), ten obraz pokazuje jak bardzo mieszają się przypadki z różnych lokalnych wybuchów epidemii w każdym europejskim kraju.
 Możemy wyciągać wnioski na temat miejsca pochodzenia przodków każdej próbki, ale nie możemy wykluczyć pośrednich transmisji z niepróbkowanych miejsc.
 
 
