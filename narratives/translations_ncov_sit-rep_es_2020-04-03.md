@@ -20,10 +20,11 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
-  - Miguel I. Paredes, Roy Costilla
+  - Miguel I. Paredes, Roy Costilla, Diego Oyarzún
 translatorLinks:
   - https://twitter.com/miguelp1120
   - https://researchers.uq.edu.au/researcher/18392
+  - https://twitter.com/doyarzunrod
 date: "03 Abril 2020"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
 abstract: Este reporte utiliza datos genómicos públicos para el seguimiento de la propagación del COVID-19. Los reportes son actualizados semanalmente".
@@ -62,13 +63,13 @@ Analizamos 2.544 genomas de COVID-19 compartidos públicamente. Comparando estos
 * Secuenciación extensa de parte de Irlanda demuestra el alcance de la propagación del virus asociada con viajes
 * Historiales de viaje implican transmisión local en Austria
 
-**North America**   
+**América del Norter**   
 * Apreciamos una extensa mezcla de casos en los EEUU  
 * -	Reportamos que probablemente existen dos cadenas de transmisión local circulando en Ontario  
 
 **Otras áreas del mundo**
 <br>
-También hemos recibido nuevos genomas virales proviniendo de América del Sur y Oceanía. La mayoría de estas nuevas muestras se encuentran dispersas por todo el árbol filogenético y se agrupan con muestras recolectadas en otras regiones del mundo. Sin embargo, sin más datos contextuales, aún no podemos hacer inferencias sobre estas nuevas secuencias.
+También hemos recibido nuevos genomas virales procedientes de América del Sur y Oceanía. La mayoría de estas nuevas muestras se encuentran dispersas por todo el árbol filogenético y se agrupan con muestras recolectadas en otras regiones del mundo. Sin embargo, sin más datos contextuales, aún no podemos hacer inferencias sobre estas nuevas secuencias.
 <br><br>
 Aplaudimos a los grupos que están trabajando para generar datos adicionales para estas regiones. Cuando sea posible obtener inferencias más específicas, compartiremos inmediatamente los hallazgos.
 ```
@@ -115,7 +116,7 @@ Si no estás familiarizado con la filogenética, te recomendamos leer la siguien
 
 <!-- This is left-side text 3-->
 # [Acerca del muestreo de datos](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
-Actualmente tenemos secuencias virales tomadas de 53 países en 6 continentes. Este es un logro increíble: secuenciar un virus de ARN desconocido y de gran tamaño durante una pandemia es difícil, y solo es posible gracias al increíble trabajo y al intercambio de datos por parte de científicos y médicos de todo el mundo.
+Actualmente tenemos secuencias virales de 53 países en 6 continentes. Este es un logro increíble: secuenciar un virus de ARN desconocido y de gran tamaño durante una pandemia es difícil, y solo es posible gracias al increíble trabajo y al intercambio de datos por parte de científicos y médicos de todo el mundo.
 <br><br>
 Si bien estos datos nos permiten inferir muchas características útiles del brote y seguir su propagación en tiempo real, es importante destacar que nuestras conclusiones se ven limitadas por los datos disponibles.
 <br><br>
@@ -129,7 +130,7 @@ Por ejemplo, el mapa muestra muy pocas secuencias del sur global. Esto NO se deb
 <!-- This is left-side text 4-->
 # [Actualizaciones para África](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
-Las actualizaciones de esta semana se enfocan en Senegal y la República Democrática del Congo. De importancia: este enfoque no implica una falta de casos de COVID-19 en otros lugares de África, solo que estos dos países son los únicos de los cuales tenemos suficientes datos para comenzar a hacer inferencias.
+Las actualizaciones de esta semana se enfocan en Senegal y la República Democrática del Congo. De importancia: este enfoque no implica una falta de casos de COVID-19 en otros lugares de África, solo que estos dos países son los únicos de los cuales tenemos suficientes datos para hacer inferencias.
 <!-- There is no right side text -->
 
 
@@ -163,7 +164,7 @@ Todas menos una de las muestras nuevas se agrupan con los clados del brote local
 <!-- This is left-side text 8-->
 # [Las introducciones recientes a Japón están relacionadas con cruceros](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-De un total de 16 secuencias agregadas recientemente en este país, 10 están relacionadas al crucero Nile River. Luego de ser diagnosticadas y muestreadas en Japón, las 16 secuencias se agrupan en dos conglomerados. Es interesante notar que estos dos grupos no se relacionan con otras secuencias japonesas o asiáticas, sino con otros grupos encontrados principalmente en EEUU y Europa.
+De un total de 16 secuencias agregadas recientemente en este país, 10 están relacionadas al crucero Nile River. Luego de ser diagnosticadas y muestreadas en Japón, las 16 secuencias se agrupan en dos grupos. Es interesante notar que estos dos grupos no se relacionan con otras secuencias japonesas o asiáticas, sino con otros grupos encontrados principalmente en EEUU y Europa.
 <br><br>
 Por tanto, parece probable que los pasajeros japoneses hayan sido infectados por cepas encontradas en otros viajeros europeos y estadounidenses visitando Egipto. El hecho que las secuencias fueran muestreadas a mediados de Marzo, luego de su regreso a Japón, es evidencia que las cepas europeas y estadounidenses han sido exportadas alrededor del mundo a inicios de Marzo a través de viajes inter-continentales.
 <!-- There is no right side text -->
@@ -187,13 +188,13 @@ Hemos recibido 301 secuencias -- del 25\% de los [casos confirmados]((https://ww
 Al colorear las muestras según su historia de viaje asociada, podemos ver que alrededor de la mitad de infecciones fueron adquiridas fuera del país, mientras que la otra mitad son presumiblemente infecciones adquiridas localmente (mostradas en gris).
 <br><br>
 Tal como [reportamos la semana pasada](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), esto destaca el alto grado de interrelación entre los brotes epidémicos de los países europeos. 
-Para una muestra dada, es posible hacer inferencias acerca de sus predecesores pero no es posible descartar la posibilidad de transmisión indirecta a través de una locación no muestreada.
+Para una muestra dada, es posible hacer inferencias acerca de sus predecesores pero no es posible descartar la posibilidad de transmisión indirecta a través de una ubicación no muestreada.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Las historias de viaje revelan transmisión local en Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
+# [Historiales de viaje revelan transmisión local en Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 
 Este es también un excelente ejemplo de como los esfuerzos para secuenciar y registrar el historial de viajes en un país puede ayudarnos a entender la situación en otros, incluso aquellos donde hay aun secuencias genómicas.
 <br><br>
