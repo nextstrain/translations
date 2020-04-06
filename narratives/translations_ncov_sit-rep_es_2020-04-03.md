@@ -20,10 +20,11 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
-  - Miguel I. Paredes
+  - Miguel I. Paredes, Roy Costilla
 translatorLinks:
   - https://twitter.com/miguelp1120
-date: "2020 April 03"
+  - https://researchers.uq.edu.au/researcher/18392
+date: "03 Abril 2020"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
 abstract: Este reporte utiliza datos genómicos públicos para el seguimiento de la propagación del COVID-19. Los reportes son actualizados semanalmente".
 ---
@@ -154,17 +155,17 @@ Todas menos una de las muestras nuevas se agrupan con los clados del brote local
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Updates for Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
+# [Actualizaiones de Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Recent introductions to Japan are cruiseship-associated](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+# [Las introducciones recientes a Japón están relacionadas con cruceros](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-Of 16 recent sequences added from Japan, 10 have travel history on-board a Nile River cruise. After being diagnosed and sampled in Japan, all 16 sequences divide between two clusters. Interestingly, these clusters do not link with other Japanese or Asian sequences, but fall within clusters that are primarily found in the US and Europe.
+De un total de 16 secuencias agregadas recientemente en este país, 10 están relacionadas al crucero Nile River. Luego de ser diagnosticadas y muestreadas en Japón, las 16 secuencias se agrupan en dos conglomerados. Es interesante notar que estos dos grupos no se relacionan con otras secuencias japonesas o asiáticas, sino con otros grupos encontrados principalmente en EEUU y Europa.
 <br><br>
-Thus, it seems likely that these Japanese travelers were infected by strains they encountered from other Europeans and Americans visiting Egypt. As sequences were sampled in mid-March, after that travelers returned to Japan, this is evidence that variants that were primarily circulating in Europe and the US were being exported around the world in early March via global travel.
+Por tanto, parece probable que los pasajeros japoneses hayan sido infectados por cepas encontradas en otros viajeros europeos y estadounidenses visitando Egipto. El hecho que las secuencias fueran muestreadas a mediados de Marzo, luego de su regreso a Japón, es evidencia que las cepas europeas y estadounidenses han sido exportadas alrededor del mundo a inicios de Marzo a través de viajes inter-continentales.
 <!-- There is no right side text -->
 
 
@@ -172,7 +173,7 @@ Thus, it seems likely that these Japanese travelers were infected by strains the
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Updates for Europe](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
+# [Actualizaciones de Europa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
 <!-- There is no right side text -->
 
 
