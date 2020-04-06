@@ -213,7 +213,7 @@ Aunque coloreada en gris, el numero de conexiones entre países de Europa es muy
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Mezcla extendida de casos en EEUU](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
+# [Mezcla extendida en los casos en EEUU](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
 
 Conforme logramos tener un panorama general del alcance del brote en EEUU, es claro que los brotes localizados son el resultado de una mezcla extendida de casos.
 <br><br>
@@ -259,15 +259,15 @@ También es importante notar que las secuencias cercanas (en gris) son de EEUU, 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Hallazgos Principales
 <br><br>
-#### We find evidence for local transmission within Senegal and the DRC. Swift action must be taken to contain the outbreak in these vulnerable areas. We do not yet have enough data to assess the situation in other parts of Africa.
+#### Encontramos evidencia de transmisión local en Senegal y la Republica Democrática de Congo. Acciones rápidas deben tomarse para contener el brote en estas áreas. No tenemos aun suficientes datos para evaluar la situación de otras partes de África.
 <br><br><br>
-#### Recent introductions to Japan are associated with cruiseship travel.
+#### Introducciones recientes a Japón están asociadas con el arribo de cruceros.
 <br><br><br>
-#### Extensive sequencing by Iceland highlights extent of travel-associated spread and reveal likely local transmission in Austria.  
+#### El secuenciamiento extensivo en Islandia resalta la dimensión de la transmisión debido a los viajes y revela la probable transmisión local en Austria.
 <br><br><br>
-#### Cases across the U.S. co-mingle on the tree, demonstrating extensive spread across state lines. There is also evidence of mixing across the U.S.-Canadian border and local transmission within Ontario.  
+#### Los casos en EEUU se entremezclan en el árbol filogenético, demostrando transmisión generalizada entre diferentes estados. Existe también evidencia de mezcla a través de la frontera entre EEUU y Canadá y de transmisión local en Ontario.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
