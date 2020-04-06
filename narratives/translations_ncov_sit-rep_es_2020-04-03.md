@@ -20,14 +20,16 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
-  - Miguel I. Paredes, Roy Costilla, Diego Oyarzún
+  - Miguel I. Paredes
+  - Roy Costilla
+  - Diego Oyarzún
 translatorLinks:
   - https://twitter.com/miguelp1120
   - https://researchers.uq.edu.au/researcher/18392
   - https://twitter.com/doyarzunrod
 date: "03 Abril 2020"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: Este reporte utiliza datos genómicos públicos para el seguimiento de la propagación del COVID-19. Los reportes son actualizados semanalmente".
+abstract: "Este reporte utiliza datos genómicos públicos para el seguimiento de la propagación del COVID-19. Los reportes son actualizados semanalmente."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -37,14 +39,14 @@ abstract: Este reporte utiliza datos genómicos públicos para el seguimiento de
 <!-- This is left-side text 1-->
 # [Contenidos](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [Información básica del COVID-19](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [Acerca del muestreo de datos](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [Actualizaciones de África](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [Actualizaciones de Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [Actualizaciones de Europa ](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [Actualizaciones de América del Norte ](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [Qué puedes hacer tú](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [Créditos Científicos](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
+* [Información básica del COVID-19](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-04-03?n=2).     
+* [Acerca del muestreo de datos](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-04-03?n=3).
+* [Actualizaciones de África](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-04-03?n=4).
+* [Actualizaciones de Asia](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-04-03?n=7).
+* [Actualizaciones de Europa ](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-04-03?n=9).
+* [Actualizaciones de América del Norte ](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-04-03?n=12).
+* [Qué puedes hacer tú](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-04-03?n=15).
+* [Créditos Científicos](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -81,7 +83,7 @@ Aplaudimos a los grupos que están trabajando para generar datos adicionales par
 # [Información básica del COVID-19](https://nextstrain.org/ncov/2020-03-27)
 Hemos compilado información que vale la pena leer para familiarizarse con el COVID-19 y el virus que lo causa, SARS-CoV-2, también llamado hCov-19. Esta información facilitará la interpretación de los datos que presentamos en este reporte.
 <br><br>
-Si no estás familiarizado con la filogenética, te recomendamos leer la siguiente introducción ['Cómo leer filogenias'](https://nextstrain.org/narratives/trees-background/) antes de leer este reporte.
+Si no estás familiarizado con la filogenética, te recomendamos leer la siguiente introducción ['Cómo leer filogenias'](https://nextstrain.org/narratives/trees-background/es) antes de leer este reporte.
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
@@ -151,7 +153,7 @@ En la mitad del árbol se encuentra un grupo de casos muestreados en Touba entre
 # [Transmisión local continúa en la República Democrática del Congo](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
 Esta semana, hemos recibido 8 genomas nuevos proviniendo de Kinshasa en República Democrática del Congo.
 <br><br>
-Todas menos una de las muestras nuevas se agrupan con los clados del brote local que  [reportamos la semana pasada](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16), demostrando que hay transmisión local continua en la RDC y que se requiere tomar medidas rápidas para contener el brote.
+Todas menos una de las muestras nuevas se agrupan con los clados del brote local que  [reportamos la semana pasada](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-03-27?n=16), demostrando que hay transmisión local continua en la RDC y que se requiere tomar medidas rápidas para contener el brote.
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -182,12 +184,12 @@ Por tanto, parece probable que los pasajeros japoneses hayan sido infectados por
 <!-- This is left-side text 10-->
 # [El secuenciamiento en Islandia revela la extensión de la propagación del virus debido a los viajes](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-Hemos recibido 301 secuencias -- del 25\% de los [casos confirmados]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- de Islandia.
+Hemos recibido 301 secuencias -- del 25\% de los [casos confirmados](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf) -- de Islandia.
 <br><br>
 
 Al colorear las muestras según su historia de viaje asociada, podemos ver que alrededor de la mitad de infecciones fueron adquiridas fuera del país, mientras que la otra mitad son presumiblemente infecciones adquiridas localmente (mostradas en gris).
 <br><br>
-Tal como [reportamos la semana pasada](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), esto destaca el alto grado de interrelación entre los brotes epidémicos de los países europeos. 
+Tal como [reportamos la semana pasada](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-03-27?n=5), esto destaca el alto grado de interrelación entre los brotes epidémicos de los países europeos.
 Para una muestra dada, es posible hacer inferencias acerca de sus predecesores pero no es posible descartar la posibilidad de transmisión indirecta a través de una ubicación no muestreada.
 <!-- There is no right side text -->
 
@@ -285,7 +287,7 @@ Nos gustaría reconocer el increíble y oportuno trabajo realizado por todos los
 
 <br>
 
-También agradecemos a GISAID por proporcionar la plataforma a través de la cual estos datos se pueden depositar y compartir.
+También agradecemos a [GISAID](https://www.gisaid.org/) por proporcionar la plataforma a través de la cual estos datos se pueden depositar y compartir.
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
