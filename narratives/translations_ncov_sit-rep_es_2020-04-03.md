@@ -241,19 +241,19 @@ También es importante notar que las secuencias cercanas (en gris) son de EEUU, 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [Que puedes hacer tu](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...como personal
-* Practice strict social distancing.
-* Even if you are not vulnerable, practice social distancing to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially if you are sick; be prepared with a few extra supplies.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [¡Qué puedes hacer tú!](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...como persona
+* Practica distanciamiento social estricto.
+* Incluso si no perteneces a ningún grupo vulnerable, practica distanciamiento social para proteger a otros.
+* Lávate las manos “como si hubieses terminado de picar un jalapeño y tuvieras que cambiar tus lentes de contacto”.
+* Quédate en casa lo mas posible, especialmente si estas enfermo. Prepárate con unas provisiones extras.
+* Si eres empleador, permite que tus empleados trabajen desde casa en lo posible.
 
-#### ...como funcionario  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing and isolation efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...como funcionario público
+* Haz que las pruebas de diagnostico sean gratuitas y estén disponibles para toda la población.
+* Impone medidas estrictas de distanciamiento social.
+* Financia e implementa seguimiento de contagiados y esfuerzos de aislamiento.
+* Financia aquellos que son impactados por la medidas de distanciamiento social.
 
 
 <!-- This is the right-side text -->
@@ -278,20 +278,18 @@ También es importante notar que las secuencias cercanas (en gris) son de EEUU, 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 16-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
+# [Creditos Científicos](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Nos gustaría reconocer el increíble y oportuno trabajo realizado por todos los científicos involucrados en este brote, pero particularmente aquellos que trabajan en China. Solo mediante el intercambio rápido de datos genómicos y metadatos se pueden realizar análisis como estos.
 
 <br>
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
-
+También agradecemos a GISAID por proporcionar la plataforma a través de la cual estos datos se pueden depositar y compartir.
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Agradecemos los datos generados por estos laboratorios:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -610,19 +608,18 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Créditos científicos detallados](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Los datos utilizados en este reporte son datos públicos compartidos por cada laboratorio a través de [GISAID](https://gisaid.org).
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+En el panel de la derecha especificamos las secuencias compartidas por cada laboratorio.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Los genomas del SARS-CoV-2 fueron generosamente compartidos por los científicos en estos laboratorios:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
