@@ -195,25 +195,25 @@ Para una muestra dada, es posible hacer inferencias acerca de sus predecesores p
 <!-- This is left-side text 11-->
 # [Las historias de viaje revelan transmisión local en Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 
-This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
+Este es también un excelente ejemplo de como los esfuerzos para secuenciar y registrar el historial de viajes en un país puede ayudarnos a entender la situación en otros, incluso aquellos donde hay aun secuencias genómicas.
 <br><br>
-Looking at the cases sequenced in Iceland after reported travel to Austria, we see multiple clusters of closely related Austrian cases, sequenced over a short time period.
-This is most consistent with a scenario wherein there were multiple introductions into Austria. We can't be sure if the linked sequences represent community transmission in Austria or travel partners linking together after exposure to the same strain.
+Al ver los casos secuenciados en Islandia luego de viajes a Austria, podemos apreciar varios aglomerados de casos austriacos que han sido secuenciados en un periodo de tiempo corto.
+Esto es consistente con un escenario donde ha habido múltiples introducciones a Austria. Sin embargo, no es posible asegurar que estos grupos de secuencias representan transmisión comunitaria en Austria o viajeros retornados que fueron expuestos a la misma cepa del virus durante su viaje.
 <br><br>
-Though shown in grey, the number of connections between different European countries is notable. Most European countries seem to have multiple introductions, so there is no 'simple' story for how the virus has spread through Europe - it was likely spreading widely weeks ago.
+Aunque coloreada en gris, el numero de conexiones entre países de Europa es muy importante. La mayoría de países europeos parecen haber tenido introducciones múltiples, por tanto, no es posible simplificar la forma de como el virus se ha expandido en Europa. Es altamente probable que el virus se haya estado propagando desde hace varias semanas.
 
 
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Updates for North America](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
+# [Actualizaciones para América del Norte](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Extensive mixing across the U.S.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
+# [Mezcla extendida de cepas Extensive mixing across the U.S.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
 
 As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
 <br><br>
