@@ -213,27 +213,27 @@ Aunque coloreada en gris, el numero de conexiones entre países de Europa es muy
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Mezcla extendida de cepas Extensive mixing across the U.S.](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
+# [Mezcla extendida de casos en EEUU](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
 
-As we gain a fuller picture of the outbreak in the U.S., it's clear that these localized outbreaks are the result of extensive mixing.
+Conforme logramos tener un panorama general del alcance del brote en EEUU, es claro que los brotes localizados son el resultado de una mezcla extendida de casos.
 <br><br>
-While many of the early cases were travel-associated, the more recent cases from many different states are largely intermingled with each other across the tree.   
+Aunque la mayoría de casos iniciales estaban asociados a viajes, los casos mas recientes de muchos estados están grandemente entremezclados en el árbol filogenético.   
 <br><br>
-This emphasizes that a unified strategy will be crucial to stopping this outbreak.
+Esto enfatiza la necesidad de una estrategia unificada para poder detener el brote.
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [Two local transmission chains circulating in Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+# [Dos cadenas de transmisión local circulan en Ontario, Canadá](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-Here, we see two clusters of sequences from Ontario. These clusters do not group together, and each cluster nests alongside samples from other countries, indicating that these were the result of two separate introductions.
+Dos aglomerados de secuencias pueden apreciarse en Ontario. Estos aglomerados están distanciados entre si y se relacionan con muestras de otros países, indicando que han sido resultado de dos introducciones independientes a Canadá.
 <br><br>
-Within each cluster, however, each of these cases is most closely related to other cases from Ontario, indicating that this is most likely local, community transmission.
+Por otro lado, los casos en cada aglomerado se relacionan cercanamente, sugiriendo transmisión local comunitaria.
 <br><br>
-From this, we infer that there has likely been community transmission in Ontario since at least the 3rd of March.
+Como resultado, podemos inferir que es muy probable que haya existido transmisión comunitaria en Ontario desde la 3ra semana de Marzo.
 <br><br>
-Interestingly, most of the surrounding sequences (faded tips) are from the U.S., suggesting that there has been significant mixing between the two countries.
+También es importante notar que las secuencias cercanas (en gris) son de EEUU, sugiriendo que ha habido una mezcla importante entre los dos países.
 <!-- There is no right side text -->
 
 
@@ -241,15 +241,15 @@ Interestingly, most of the surrounding sequences (faded tips) are from the U.S.,
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
+# [Que puedes hacer tu](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...como personal
 * Practice strict social distancing.
 * Even if you are not vulnerable, practice social distancing to protect others.
 * Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
 * Stay home as much as possible -- especially if you are sick; be prepared with a few extra supplies.  
 * If you are an employer, encourage your employees to work from home wherever possible.
 
-#### ...as an official  
+#### ...como funcionario  
 * Make testing free and broadly available.  
 * Put strong social distancing measures in place.
 * Fund and implement extensive contact tracing and isolation efforts.  
