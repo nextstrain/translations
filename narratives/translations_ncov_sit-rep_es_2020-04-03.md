@@ -155,7 +155,7 @@ Todas menos una de las muestras nuevas se agrupan con los clados del brote local
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Actualizaiones de Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
+# [Actualizaciones de Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
 <!-- There is no right side text -->
 
 
@@ -179,20 +179,21 @@ Por tanto, parece probable que los pasajeros japoneses hayan sido infectados por
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Extensive sequencing by Iceland highlights extent of travel-associated spread](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+# [El secuenciamiento en Islandia revela la extensión de la propagación del virus debido a los viajes](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-We recently received 301 sequences -- from 25\% of [confirmed cases]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- from Iceland.
+Hemos recibido 301 secuencias -- del 25\% de los [casos confirmados]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) -- de Islandia.
 <br><br>
-Coloring each sample by its recorded travel history, we see that approximately half of these infections were acquired outside of Iceland, while half are presumed locally acquired infections (shown in gray).
+
+Al colorear las muestras según su historia de viaje asociada, podemos ver que alrededor de la mitad de infecciones fueron adquiridas fuera del país, mientras que la otra mitad son presumiblemente infecciones adquiridas localmente (mostradas en gris).
 <br><br>
-As we [reported last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), this highlights just how much mixing there is between the outbreaks in each European country.
-For any given sample, we can draw inferences about where its predecessors must have been, but we can't rule out the possibility of indirect transmission by way of an unsampled location.
+Tal como [reportamos la semana pasada](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), esto destaca el alto grado de interrelación entre los brotes epidémicos de los países europeos. 
+Para una muestra dada, es posible hacer inferencias acerca de sus predecesores pero no es posible descartar la posibilidad de transmisión indirecta a través de una locación no muestreada.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Travel histories reveal local transmission in Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
+# [Las historias de viaje revelan transmisión local en Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 
 This is also a powerful example of how comprehensive sequencing efforts and travel logging by one country can help us understand the local situation elsewhere, even for places that aren't yet generating sequencing data.
 <br><br>
