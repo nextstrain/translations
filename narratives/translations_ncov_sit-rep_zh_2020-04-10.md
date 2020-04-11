@@ -37,14 +37,14 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <br>
 * [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
 * [关于抽样](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [亚洲地区内部的早期传播](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
+* [在亚洲地区内部的早期传播](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
 * [最早从亚洲输入到北美、欧洲和大洋洲的病例Initial introductions from Asia to North America, Europe and Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
 * [北美和欧洲疫情的扩散Growth of North American & European outbreaks](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
 * [后续的跨国传播Subsequent spread across international borders within regions](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
 * [从欧洲到北美扩散到南半球Spread from Europe and North America to the global south](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
 * [形成闭环：重新输入到亚洲Coming full circle: reintroductions to Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
 * [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [科学贡献人员Scientific credits](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -52,8 +52,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 
 我们分析了 3,160 个公开共享的 SARS-Cov-2 基因组。通过将这些病毒基因组相互比较，我们可以描述 COVID-19 是如何在世界各地迁移和在社区中传播的。
 
-我们正在转移到对每个地区的更具体的分析。你可以在[这里（推特链接）](https://twitter.com/nextstrain/status/1247851469392564224)找到关于此变化的更多信息，在[这里（推特链接）](https://twitter.com/sidneymbell/status/1247933122064207872)看如何帮助我们。感谢您对此迁移过程的耐心。
-We are in the process of moving to more specific, regionally-focused analyses. You can find more information about this change [here](https://twitter.com/nextstrain/status/1247851469392564224) and how to help us out [here](https://twitter.com/sidneymbell/status/1247933122064207872); thank you for your patience during this transition.
+我们正在转移研究的重心，将对每个地区进行更具体的分析。你可以在[这里（推特链接）](https://twitter.com/nextstrain/status/1247851469392564224)找到关于此变化的更多信息，在[这里（推特链接）](https://twitter.com/sidneymbell/status/1247933122064207872)看如何帮助我们。感谢您对此过渡阶段的耐心。
 
 ```
 
@@ -90,68 +89,60 @@ We are in the process of moving to more specific, regionally-focused analyses. Y
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [亚洲的早期传播Early spread within Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
+# [在亚洲地区内部的早期传播](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
 这里显示的是疫情发生的第一个月，2019年12月中旬到2020年1月中旬的样本。
-树末端的圆点代表采到的患者样本。
-每个内部节点，又叫分支点，代表着一个未被取样到的病例，它是那一支的所有病毒的共同祖先。
-Tips of the tree represent samples from infected individuals.
-Each internal node, or branch point, represents an unsampled case, which was the ancestor of all of the other cases within the descendant clade.
+树末端的圆点代表来自患者的样本。
+树上的每个内部节点，又叫分支点，代表着一个未被取样到的病毒序列，它是它所属那一支中后续所有病毒的共同祖先。
 <br><br>
-末端的圆点是根据取样地点而着色，内部节点（分支点）是根据所推测的（最有可能的）祖先病毒株的地理位置所着色。
-Tips are colored according to where they were sampled from; nodes (branch points) are colored by the inferred (most likely) location of the ancestral case.
+末端圆点的颜色代表样本的取样地点，内部节点（分支点）的颜色代表所推测的该祖先病毒株的（最有可能的）地理位置。
 <br><br>
-我们可以把序列所被取样到的地理位置，和它的祖先的地理位置作比较，来理解不仅感染在哪里发生，而且它们可能是从哪里传染到的。
-Comparing where a sequence was isolated from geographically to where its ancestors were circulating can help us understand not only where infections are occurring, but also where they may have been acquired.
+我们可以把病毒所被取样到的地理位置和它的祖先的地理位置作比较，这样不仅可以帮助我们理解病毒感染在哪里发生，也可以理解被感染的患者可能是从哪里传染到的病毒。
+
 <br><br>
-目前流行的病毒的共同祖先看起来是在中国武汉出现的，在2019年11月下旬或12月上旬。
-因此，在这段时间内，大部分取样到的和推断出的祖先病例位于亚洲。
-这支持，在疫情发生的第一个月，病毒主要在中国境内传播，和有一些到亚洲其他国家的输出病例。
-The common ancestor of circulating viruses appears to have emerged in Wuhan, China, in late Nov or early Dec 2019.
-Accordingly, the majority of sampled and inferred ancestral cases were located in Asia during this early period.
-This is consistent with circulation largely within China and some exported cases to other countries in Asia for the first month of the outbreak.  
+现在正在流行的病毒的共同祖先看起来是在2019年11月下旬或12月上旬，在中国武汉出现的。
+因而在疫情发生的早期这段时间内，大部分的样本和和所推断的祖先株的位置都在亚洲。
+这些数据表明，在疫情发生的第一个月，病毒主要在中国境内传播，并有一些病例输出到亚洲其他国家。
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [早期的输出病例Initial introductions to other regions](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
+# [其他地区最初的输入病例](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
 
-在疫情的第二个月，从2020年的1月中旬到2月中旬，我们开始看到在北美、欧洲和大洋洲出现了一些散发病例。During the 2nd month of the outbreak, from mid-January to mid-February 2020, we start to see individual cases crop up in North America, Europe and Oceania.
-这些早期病例仍然和亚洲的病例聚在一起，并且大体上缺乏本地传播的特征。
-These early cases still group with samples from Asia, and generally lack the hallmarks of local transmission.
+在疫情发生的第二个月，从2020年的1月中旬到2月中旬，我们开始看到在北美、欧洲和大洋洲出现了一些散发病例。
+这些早期病例仍然和亚洲的病例聚在一起，并且基本没有显示出本地传播的标志性特征。
 <br><br>
-这支持，早期的火星从亚洲的主战场传到了世界其他地区。虽然这些火星大部分都没有引起本地疫情，至少有三个输入事件引起了爆发，导致了欧洲和北美的大型爆发和大洋洲的局部传播。
-This is consistent with initial sparks being thrown from the main outbreak in Asia to other parts of the world. Although most of these sparks did not result in localized outbreaks, at least three of these introductions took off. These led to the large European and North American outbreaks, as well as more restricted spread in Oceania.
+这显示出当时有零星的“火种”从作为疫情主要爆发地的亚洲传到了世界其他地区。虽然大部分的“火种”都没有引起本地疫情，但至少有三起输入事件产生了后果，导致了疫情在欧洲和北美的大型爆发，以及在大洋洲的有限传播。
+
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [欧洲早期的未知传播Initial cryptic transmission in Europe](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
+# [欧洲最初的未知传播链](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-在同一时间区间中，我们把树的上部放大，可以看到一个欧洲的祖先型（内部节点）引发了欧洲的大规模爆发。Zooming in to the top of the tree for the same time period, we see an ancestral European virus (internal node) that seeded the large European outbreak.
+在同一时间区间中，我们把树的上部放大，可以看到一个欧洲的祖先株病毒（内部节点）引发了疫情在欧洲的大规模爆发。
 <br><br>
-这意味着，虽然我们当时没有测序到这一支的任何样本，在1月下旬或2月上旬之前，欧洲疫情的源头就疫情在未被察觉的情况下传播了。
-This indicates that while we hadn't yet sequenced any samples from this clade, the origins of the European outbreak were already circulating undetected by late January or early February.
+这些数据表明，虽然我们那时还没有测到属于这一支的任何样本，但是欧洲疫情的源头在1月下旬或2月上旬之前就已经在未被察觉的情况下传播了。
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [北美初期的未知传播Initial cryptic transmission in North America](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
+# [北美最初的未知传播链](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-与之相似，我们把树的下部放大，可以看到一株北美的祖先型（内部节点）引发了后来北美的大规模爆发。Similarly, zooming in to the bottom of the tree, we see an ancestral North American virus (internal node) that initiated what would later become a large outbreak in North America.
+同样地，我们把树的下部放大，可以看到一个北美的祖先株病毒（内部节点）引发了后来北美的大规模爆发。
 <br><br>
-这表明，虽然我们那时只测了这一簇序列中的一个病例，病毒已经在1月下旬或2月上旬之前就已经在未被察觉的情况下在北美传播了。
-This indicates that although we only had 1 sequenced case from this cluster at the time, the virus was circulating undetected within North America by late January or early February.
+这表明，虽然我们当时只有一个属于这簇病例的样本，但是病毒在1月下旬或2月上旬之前就已经在未被察觉的情况下在北美传播了。
+
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [疫情在北美和欧洲的扩散](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
+# [北美和欧洲疫情的扩散](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
 
-在疫情的第三个月，从2020年2月中旬到3月中旬，这两簇病毒的扩散分别在欧洲和北美引起了大规模爆发。
+在疫情发生的第三个月，从2020年2月中旬到3月中旬，这两簇病毒不断扩散，分别在欧洲和北美引起了大规模爆发。
 <!-- There is no right side text -->
 
 
