@@ -126,7 +126,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 같은 기간 동안의 계통수 상단을 확대해 보면, 나중에 유럽 대유행의 시초가 되는 유럽의 조상 바이러스(내부 노드)를 확인할 수 있습니다. 
 <br><br>
-이 시점에서 저희는 이 분기군에서 단 1개의 염기서열 자료도 가지고 있지 않았지만, 1월 말 또는 2월 초까지 유럽 유행의 시초를 발견하지 못했다는 것을 보여줍니다.
+이 시점에 저희는 이 분기군에서 단 1개의 염기서열 자료도 가지고 있지 않았지만, 1월 말 또는 2월 초까지 유럽 유행의 시초를 발견하지 못했다는 것을 보여줍니다.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -154,7 +154,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 이 각각의 지역들에서, 주 경계와 국경을 넘어 광범위하게 뒤섞인 것을 확인할 수 있습니다.
 미국의 여러 주와 캐나다의 여러 주의 사례들을 통해 이 뒤섞임을 보여주고 있습니다.
 <br><br>
-저희는 이와 비슷한 패턴으로 유럽 국가들 사이에서 바이러스 계통들이 빈번히 뒤섞이는 것을 [이전에 보고](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) 했던 적이 있습니다.
+저희는 이와 비슷한 패턴으로 유럽 국가들 사이에서 바이러스 계통들이 빈번히 뒤섞이는 것을 [이전에 보고](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-27?n=5) 했던 적이 있습니다.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
