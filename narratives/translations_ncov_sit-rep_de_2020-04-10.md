@@ -23,7 +23,7 @@ translators:
 translatorLinks:
   - https://bsse.ethz.ch/department/people/detail-person.MjM4ODcw.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html
   - https://www.ebi.ac.uk/about/people/astrid-gall
-date: "2020 April 9"
+date: "2020-04-10"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
 abstract: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von COVID-19 zu beschreiben, und wird wöchentlich aktualisiert."
 ---
