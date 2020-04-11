@@ -150,36 +150,39 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- This is left-side text 9-->
 # [跨国传播](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
 
-在各个地区的内部，我们看到了广泛的，在美国各州之间和各个国家之间的传播。Within each of these regions, we see widespread mixing across state lines and international borders.
-
-This is demonstrated here by the intermingling of samples from multiple U.S. states and Canadian provinces.
+在各个地区之内，我们看到了广泛的跨州、跨国传播的现象。
+这里是一个例子，美国多个州、加拿大多个省的样本都混在在一起。
 <br><br>
-We've [previously reported](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) on a similar pattern of frequent mixing of viral lineages between European countries.
+我们[之前报道](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-27?f_region=Europe&n=5) 过欧洲也有类似的现象，各国的病毒谱系频繁地混杂在一起。
+
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Introductions from North America & Europe to other parts of the globe](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
+# [北美和欧洲的病例输出到世界其他地区](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
+北美和欧洲的病毒簇并不受到地理边界的局限。在这个时间区间内，我们也看到了来自南美洲、大洋洲和非洲的病例，在主要由欧洲和北美的病例组成的分支中。这表明，在这个时间段内，有频繁的跨洲输出。
 The North American and European clusters are not restricted to their respective regions. During this time period, we also see cases from South America, Oceania, and Africa against a backdrop of primarily European and North American clades. This indicates that there were frequent intercontinental introductions during this time period.
 <br><br>
+有意思的是，南半球的样本从上到下在整个树上都有分布，表明这些地区的疫情混合了来自于很多谱系的病毒。
 Interestingly, samples from the global south span the full breadth of the tree, indicating that these regions' outbreaks are mixtures of many viral lineages.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Coming full circle: reintroductions to Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
+# [绕地球一圈：重新输入亚洲](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
 
-In the last month, the pandemic has come full circle. Here, we see re-introductions from Europe and North America back to Asia.
+到上个月为止，这场全球大流行的疫情已经绕地球一圈。在这张图中，我们看到病毒从欧洲和北美又输入到亚洲。
 <br><br>
+这振聋发聩地说明，战胜这场全球大流行的疫情需要全球的共同努力。如果我们想要在一个地方打败它，我们必须在每个地方控制它。
 This resoundingly demonstrates that this pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Takeaway](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [总结](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 
-Regional and national outbreaks are and will be deeply intertwined.
+每个国家和地区的疫情都是，并且将会是紧密相连的。
 <br><br>
 This pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
 
@@ -187,21 +190,24 @@ This pandemic is a global fight; we all must help control this virus everywhere 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# What you can do
+# 你能做些什么
 
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+#### ...个人可以采取的行动
+* 保持严格的社交距离，尤其是高风险人群。
+* 请记住，即使你不属于高风险人群，你周围的许多人也可能属于高危人群；遵循以上做法可以保护他人。
+* 仔细洗手，要像“刚切完辣椒但是要换隐形眼镜”时一样洗手。
+* 尽可能地留在家里，尤其是生病时；准备一些额外的补给，以备自我隔离。
+* 雇主请鼓励员工尽可能地在家办公。
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...政府可以采取的行动  
+* 推广免费检测。 
+* 推行能够有力减少社交接触的措施。
+* 资助和建立全面的病例追踪体系。
+* 在经济上支持受到社交隔离措施影响的人。
 ```
+
+
+
 
 <!-- ############ SLIDE BREAK ############# -->
 
@@ -213,20 +219,18 @@ This pandemic is a global fight; we all must help control this virus everywhere 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [科学贡献人员](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
-
+我们要感谢参与此次疫情研究的所有科学家所做的令人惊叹和及时的工作，特别是那些在中国工作的科学家。只有通过基因组数据和元数据的快速共享，才有可能进行这样的分析。
 <br>
+我们也感谢[GISAID](https://gisaid.org)提供了上传和共享这些数据的平台。
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+非常感谢以下机构和实验室慷慨分享:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -631,19 +635,20 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [科学贡献详情](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+所有数据已被共享至[GISAID](https://gisaid.org)数据库。 我们感谢各位科学家的慷慨分享。
+
 
 <br>
-
-To the right we give specific sequences shared by each lab.
+在右边，我们列出了每个实验室共享的序列。
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+
+感谢下列实验室的科学家们慷慨分享SARS-CoV-2的基因组:
+
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
