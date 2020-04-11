@@ -37,17 +37,17 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- This is left-side text 1-->
 # [目次](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-今週は、感染拡大がどのように発生したかを月ごとに追跡しています。 私たちは世界の地域間での伝搬の仕方に焦点を当てています。 ここでは、以下を取り上げます:  (translator note: Both "transmission" and "dynamics" can be translated into Japanese, but I couldn't known a suitable translation when combining the two. I translated "transmission dynamics" to "伝搬の仕方")  
+今週は、感染拡大がどのように発生したかを月ごとに追跡しています。 私たちは世界の地域間での伝播の仕方に焦点を当てています。 ここでは、以下を取り上げます:  (translator note: Both "transmission" and "dynamics" can be translated into Japanese, but I couldn't known a suitable translation when combining the two. I translated "transmission dynamics" to "伝播の仕方")  
 <br>
 
 * [資料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
 * [このデータについて](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
 * [アジアにおける初期の拡大](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [アジアから北米、欧州、オセアニアへの最初の伝搬](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
+* [アジアから北米、欧州、オセアニアへの最初の伝播](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
 * [北米および欧州での感染拡大の増加](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
 * [国を超えた広がり](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
 * [欧州と北米から南半球への広がり](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [地球を一周: アジアへの再伝搬](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
+* [地球を一周: アジアへの再伝播](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
 * [私達のできること](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
 * [分析データのクレジット](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
 
@@ -106,24 +106,24 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <br><br>
 循環ウイルスの共通の祖先は、2019年11月下旬または12月上旬に中国の武漢で出現したようです。
 したがって、収集され、推定された祖先のケースの大部分は、この初期の期間中にアジアで発生しました。
-これは、大部分が中国国内での感染と、発生の最初の月にアジアの他の国に伝搬されたいくつかのケースと一致しています。
+これは、大部分が中国国内での感染と、発生の最初の月にアジアの他の国に伝播されたいくつかのケースと一致しています。
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [他の地域への初期伝搬](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
+# [他の地域への初期伝播](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
 
 発生の2か月目、2020年1月中旬から2月中旬までにかけて、北米、欧州、オセアニアで個別の症例が出始めます。
 これらの初期症例はまだアジアからのサンプルと一緒にグループ化されており、一般的には局所的な感染の特徴はありません。
 <br><br>
-これは、アジアでの主な発生から世界の他の地域へと初期の拡散が起こった事と一致しています。これらの拡散のほとんどは局所的な感染拡大をもたらしませんでしたが、少なくとも３つの伝搬が発生しました。これらが、欧州や北米での大規模な感染拡大に繋がっただけでなく、オセアニアでのより限定的な広がりにも繋がりました。
+これは、アジアでの主な発生から世界の他の地域へと初期の拡散が起こった事と一致しています。これらの拡散のほとんどは局所的な感染拡大をもたらしませんでしたが、少なくとも３つの伝播が発生しました。これらが、欧州や北米での大規模な感染拡大に繋がっただけでなく、オセアニアでのより限定的な広がりにも繋がりました。
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [欧州における水面下での初期伝搬](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
+# [欧州における水面下での初期伝播](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
 同じ期間に系統樹の上部を拡大すると、欧州での感染拡大を引き起こした欧州のウイルス（内部の枝）の祖先が表示されます。
 <br><br>
@@ -132,7 +132,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [北米における水面下での初期伝搬](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
+# [北米における水面下での初期伝播](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
 同様に、系統樹の下部を拡大すると、後に北米で大規模な感染拡大が発生する原因となった祖先の北米のウイルス（内部の枝）の祖先が表示されます。
 <br><br>
@@ -160,7 +160,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [北米と欧州から世界各地への伝搬](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
+# [北米と欧州から世界各地への伝播](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
 北米と欧州のクラスターは、それぞれの地域に限定されるものではありません。この時期には、主に欧州と北米の系統群を背景に、南米、オセアニア、アフリカでの症例も見られます。このことは、この時期に大陸間の伝播が頻繁に行われていたことを示しています。
 <br><br>
@@ -168,7 +168,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [地球を一周: アジアへの再伝搬](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
+# [地球を一周: アジアへの再伝播](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
 
 この1ヶ月で世界的な大流行は地球を一周しました。ここでは、欧州と北米からアジアへの再伝播が見られます。
 <br><br>
