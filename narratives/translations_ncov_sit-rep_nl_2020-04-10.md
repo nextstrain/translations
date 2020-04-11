@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-10.
+title: Genomische analyse van de verspreiding van COVID-19. Situatierapport 2020-04-09.
 authors:
   - Sidney M. Bell
   - Nicola Müller
@@ -17,11 +17,11 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
-date: "2020 April 9"
+translators: Roan van Scheppingen
+translatorLinks: https://twitter.com/RScheppingen
+date: "9 April 2020"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "Deze rapportage maakt gebruik van openbaar gedeelde genomische data om zo de verspreiding van COVID-19 te volgen. Deze rapportages worden wekelijks bijgewerkt."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -29,30 +29,29 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Executive summary](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
+# [Samenvatting](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-This week, we take a step back to trace how the outbreak has unfolded, month by month.
-We focus on transmission dynamics _between_ regions of the world. Here, we cover:  
+Deze week, nemen we een stap terug om te traceren hoe de uitbraak tot stand kwam, maand voor maand. 
+We focussen op transmissiedynamic _tussen_ regios in de wereld. Hier behandelen we: 
 <br>
-* [Background and resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [Early spread within Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [Initial introductions from Asia to North America, Europe and Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [Growth of North American & European outbreaks](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [Subsequent spread across international borders within regions](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [Spread from Europe and North America to the global south](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [Coming full circle: reintroductions to Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [Scientific credits](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [Achtergrond en bronnen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
+* [Een opmerking over bemonstering](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
+* [Vroege verspreiding binnen Asië](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
+* [Initiële introducties vanuit Asië naar Noord-Amerika, Europa en Oceanië](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
+* [Groei van Noord-Amerikaanse en Europese uitbraken](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
+* [Volgende verspreiding over internationale grenzen heen binnen regios](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
+* [Verspreiding vanuit Europa en Noord-Amerika naar het globale zuiden](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
+* [De cirkel rond: herintroductie in Azië](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
+* [Wat kunt u doen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
+* [Wetenschappelijk dankwoord](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# About
+# Over
 
-We analyzed 3,160 publicly shared SARS-Cov-2 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 (which causes COVID-19) is moving around the world and spreading locally.
+In deze rapportage hebben we 3.160 publiekelijk gedeelde SARS-Cov-2 genomen geanalyseerd. Door deze virus genomen met elkaar te vergelijken, kunnen we karakteriseren hoe SARS-Cov-2 (wat COVID-19 veroorzaakt) zich ontwikkelt en over de hele wereld beweegt en lokaal verspreidt.
 
-
-We are in the process of moving to more specific, regionally-focused analyses. You can find more information about this change [here](https://twitter.com/nextstrain/status/1247851469392564224) and how to help us out [here](https://twitter.com/sidneymbell/status/1247933122064207872); thank you for your patience during this transition.
+We zijn bezig met het proces om meer specifieke, regio-gefocuste analyses te maken. Je kunt [hier](https://twitter.com/nextstrain/status/1247851469392564224) meer informatie vinden over deze verandering. En [hier](https://twitter.com/sidneymbell/status/1247933122064207872) hoe u ons kunt helpen; bedankt voor uw geduld tijdens deze transitie.
 
 ```
 
@@ -60,18 +59,18 @@ We are in the process of moving to more specific, regionally-focused analyses. Y
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [COVID-19 Bronnen](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
+We hebben een aantal bronnen voorbereid die het interpreteren van de data die we in dit narratief presenteren makkelijker maken. 
+#### Nextstrain Bronnen  
+* [BEGIN HIER: Hoe leest u een fylogenie](https://nextstrain.org/narratives/trees-background/nl/).  
+* [Achtergrond over Coronavirussen (Engels)](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Veelvoorkomende misvattingen (Engels)](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+#### Externe Bronnen
+* [WHO Situatierapporten (Engels)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [CDC Bronnen (Engels)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [De NYTimes COVID-19 artikelen (Engels)](https://www.nytimes.com/news-event/coronavirus).
+* [Vraag het een wetenschapper & FAQs (Engels)](https://covid19.fas.org/l/en).
 <!-- There is no right-side text -->
 
 
