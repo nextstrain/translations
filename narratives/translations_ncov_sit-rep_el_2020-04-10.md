@@ -23,7 +23,7 @@ translators:
 translatorLinks: 
   - https://github.com/akifoss
   - https://github.com/codergr
-date: "9 Απριλίου 2020"
+date: "10 Απριλίου 2020"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
 abstract: "Aυτή η αναφορά χρησιμοποιεί δεδομένα που είναι δημοσίως διαθέσιμα για την ιχνηλάτηση της εξάπλωσης της ασθένειας COVID-19. Οι αναφορές ανανεώνονται σε εβδομαδιαία βάση."
 ---
