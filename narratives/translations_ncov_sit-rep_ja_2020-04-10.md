@@ -40,16 +40,16 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 今週は、感染拡大がどのように発生したかを月ごとに追跡しています。 私たちは世界の地域間での伝播の仕方に焦点を当てています。 ここでは、以下を取り上げます:  (translator note: Both "transmission" and "dynamics" can be translated into Japanese, but I couldn't known a suitable translation when combining the two. I translated "transmission dynamics" to "伝播の仕方") 
 <br>
 
-* [資料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [データについて](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [アジアにおける初期の拡大](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [アジアから北米、欧州、オセアニアへの最初の伝播](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [北米および欧州での感染拡大の増加](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [国を超えた地域内での広がり](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [欧州と北米から南半球への広がり](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [地球を一周: アジアへの再伝播](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [私達のできること](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [分析データのクレジット](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [資料](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=2).
+* [データについて](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=3).
+* [アジアにおける初期の拡大](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=4).
+* [アジアから北米、欧州、オセアニアへの最初の伝播](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=5).  
+* [北米および欧州での感染拡大の増加](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=8).  
+* [国を超えた地域内での広がり](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=9).
+* [欧州と北米から南半球への広がり](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=10).  
+* [地球を一周: アジアへの再伝播](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=11).
+* [私達のできること](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=12).
+* [分析データのクレジット](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -68,9 +68,9 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 # [COVID-19 に関する資料](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
 このレポートで紹介するデータを理解するための資料を用意しています。
 #### Nextstrain Resources  
-* [最初にご覧下さい: 系統樹の読み方](https://nextstrain.org/narratives/trees-background/).  
+* [最初にご覧下さい: 系統樹の読み方](https://nextstrain.org/narratives/trees-background/ja).  
 * [コロナウイルスの背景](https://nextstrain.org/help/coronavirus/human-CoV).
-* [よくある誤解](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [よくある誤解](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-13?n=11).
 
 #### 外部の資料
 * [WHO の状況報告](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
@@ -156,7 +156,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 これらの各地域内では、州の境界線や国境を越えて広範囲に混合していることがわかります。
 これは、米国の複数の州とカナダの州からのサンプルが混ざり合っていることによって示されています。
 <br><br>
-私たちは [以前のレポートで](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) 欧州諸国間でウイルス系統が頻繁に混合する同様のパターンについて報告しています。
+私たちは [以前のレポートで](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-27?f_region=Europe&n=5) 欧州諸国間でウイルス系統が頻繁に混合する同様のパターンについて報告しています。
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
