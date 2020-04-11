@@ -37,16 +37,16 @@ abstract: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von 
 
 Diese Woche gehen wir einen Schritt zurueck und schauen uns an, wie die Epidemie sich monatlich entfaltet hat. Unser Fokus liegt hierbei auf den Uebertragungsdynamiken zwischen den Regionen weltweit. Dabei decken wir folgende Bereiche ab:
 <br>
-* [COVID-19 Quellen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [Anmerkung zur Probennahme](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [Fruehe Ausbreitung in Asien](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [Anfaengliche Einschleppung von Asien nach Nordamerika, Europa und Ozeanien](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [Wachstum der Epidemien in Nordamerika und Europa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [Anschliessende grenzueberschreitende Verbreitung des Virus innerhalb einzelner Gebiete](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [Ausbreitung von Europa und Nordamerika aus in den globalen Sueden](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [Zurueck zum Ausgangspunkt: Wiedereinschleppung nach Asien](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [Was koennen Sie tun](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [Wissenschaftliche Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [COVID-19 Quellen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-10?n=2).
+* [Anmerkung zur Probennahme](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-10?n=3).
+* [Fruehe Ausbreitung in Asien](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-10?n=4).
+* [Anfaengliche Einschleppung von Asien nach Nordamerika, Europa und Ozeanien](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-10?n=5).  
+* [Wachstum der Epidemien in Nordamerika und Europa](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-10?n=8).  
+* [Anschliessende grenzueberschreitende Verbreitung des Virus innerhalb einzelner Gebiete](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-10?n=9).
+* [Ausbreitung von Europa und Nordamerika aus in den globalen Sueden](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-10?n=10).  
+* [Zurueck zum Ausgangspunkt: Wiedereinschleppung nach Asien](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-10?n=11).
+* [Was koennen Sie tun](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-10?n=12).
+* [Wissenschaftliche Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -68,7 +68,7 @@ Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch 
 #### Nextstrain Quellen  
 * [Anfang: Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/de).  
 * [Hintergrundwissen zu Coronaviren](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-03-13?n=11).
 
 #### Externe Quellen  
 * [Lageberichte der Weltgesundheitsorganisation WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
@@ -150,7 +150,7 @@ Waehrend des dritten Monats der Epidemie - von Mitte Februar bis Mitte Maerz 202
 
 Innerhalb jeder dieser einzelnen Regionen sehen wir eine weitverbreitete Vermischung ueber Staatsgrenzen und internationale Grenzen hinweg. Das konnte mittels durchmischter Proben gezeigt werden, die aus mehreren US Bundesstaaten und kanadischen Provinzen stammen. 
 <br><br>
-In [vorhergehenden Berichten](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) konnten wir ein aehnliches Muster von haeufiger Durchmischung von Virusisolaten zwischen europaeischen Laendern finden. 
+In [vorhergehenden Berichten](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-03-27?f_region=Europe&n=5) konnten wir ein aehnliches Muster von haeufiger Durchmischung von Virusisolaten zwischen europaeischen Laendern finden. 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
