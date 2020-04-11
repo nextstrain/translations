@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-10.
+title: Análise genômica da dispersão da COVID-19. Relatório da situação até 2020-04-10.
 authors:
   - Sidney M. Bell
   - Nicola Müller
@@ -21,7 +21,7 @@ translators:
 translatorLinks:
 date: "2020 April 9"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "Esse relatório utiliza dados genômicos compartilhados publicamente para rastrear o espalhamento de COVID-19. Esses relatórios serão atualizados semanalmente."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -29,30 +29,29 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Executive summary](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
+# [Resumo](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-This week, we take a step back to trace how the outbreak has unfolded, month by month.
-We focus on transmission dynamics _between_ regions of the world. Here, we cover:  
+Nesta semana, demos um passo atrás para rastrear como o surto se desenrolou, mês a mês. Nos concentramos na dinâmica de transmissão entre regiões pelo mundo. Aqui, abordamos:  
 <br>
 * [Background and resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [Early spread within Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [Initial introductions from Asia to North America, Europe and Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [Growth of North American & European outbreaks](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [Subsequent spread across international borders within regions](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [Spread from Europe and North America to the global south](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [Coming full circle: reintroductions to Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [Scientific credits](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [Observação sobre amostragem](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
+* [Propagação inicial na Ásia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
+* [Introduções iniciais da Ásia na América do Norte, Europa e Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
+* [Crescimento dos surtos na América do Norte & Europa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
+* [Disseminação subsequente através das fronteiras internacionais dentro das regiões](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
+* [Disseminação da Europa e América do Norte para o Hemisfério Sul](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
+* [Fechando o círculo: Reintroduções na Ásia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
+* [O que você pode fazer](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
+* [Créditos científicos](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# About
+# Sobre
 
-We analyzed 3,160 publicly shared SARS-Cov-2 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 (which causes COVID-19) is moving around the world and spreading locally.
+Analisamos 3160 genomas do SARS-CoV-2. Ao comparar esses genomas virais uns com os outros, podemos caracterizar como o SARS-CoV-2 (que causa COVID-19) está se movendo ao redor do mundo e se espalhando localmente.
 
 
-We are in the process of moving to more specific, regionally-focused analyses. You can find more information about this change [here](https://twitter.com/nextstrain/status/1247851469392564224) and how to help us out [here](https://twitter.com/sidneymbell/status/1247933122064207872); thank you for your patience during this transition.
+Estamos em um processo de transição para atuar especificamente com análises com foco regional. Clicando [aqui](https://twitter.com/nextstrain/status/1247851469392564224) você pode encontrar mais informações sobre essa mudança, já para saber como nos ajudar clique [aqui](https://twitter.com/sidneymbell/status/1247933122064207872); Obrigado por sua paciência durante essa transição.
 
 ```
 
