@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-10.
+title: COVID-19 확산에 대한 유전체 분석. 2020년 4월 10일 상황 보고서
 authors:
   - Sidney M. Bell
   - Nicola Müller
@@ -17,8 +17,10 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
+translators: 
+  - Taehoon Ha
 translatorLinks:
+  - https://taehoonh.github.io
 date: "2020 April 9"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
 abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
@@ -29,30 +31,29 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Executive summary](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
+# [개요](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-This week, we take a step back to trace how the outbreak has unfolded, month by month.
-We focus on transmission dynamics _between_ regions of the world. Here, we cover:  
+이번 주, 저희는 한 걸음 뒤로 물러나 유행이 어떻게 전개되어 왔는지를 월 별로 추적해 보았습니다.
+세계의 지역 _간_ 전파가 어떻게 이루어져 왔는지에 집중했습니다. 이번 보고서에서는 다음과 같은 내용을 다룹니다: 
 <br>
-* [Background and resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [Early spread within Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [Initial introductions from Asia to North America, Europe and Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [Growth of North American & European outbreaks](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [Subsequent spread across international borders within regions](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [Spread from Europe and North America to the global south](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [Coming full circle: reintroductions to Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [Scientific credits](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [배경지식](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
+* [데이터 수집 관련 사항](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
+* [초기 아시아 내에서의 전파](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
+* [초기 아시아에서 북아메리카, 유럽, 오세아니아로의 유입](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
+* [북아메리카와 유럽의 유행 확산](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
+* [추후 몇몇 지역에서 국경을 넘어 확산이 이루어짐](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
+* [유럽과 북아메리카에서 남반구로 전파](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
+* [돌고 돌아 다시 원점으로: 아시아로의 재유입](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
+* [우리가 할 수 있는 것들](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
+* [과학적 기여](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# About
+# 개요
 
-We analyzed 3,160 publicly shared SARS-Cov-2 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 (which causes COVID-19) is moving around the world and spreading locally.
+저희는 3,160개의 공개된 코로나19의 유전체 염기서열을 분석하였습니다. 바이러스들을 비교 분석하여 코로나19가 어떻게 진화하고 세계 곳곳으로 퍼지고 지역에서 확산되고 있는지 분석할 수 있습니다.
 
-
-We are in the process of moving to more specific, regionally-focused analyses. You can find more information about this change [here](https://twitter.com/nextstrain/status/1247851469392564224) and how to help us out [here](https://twitter.com/sidneymbell/status/1247933122064207872); thank you for your patience during this transition.
+저희는 보다 구체적이고 지역 중심적인 분석으로 옮겨가는 과정 속에 있습니다. 이 변화와 관련된 보다 자세한 정보는 [여기](https://twitter.com/nextstrain/status/1247851469392564224) 에서 찾으실 수 있습니다. 도움을 주시고 싶으신 분들은 [여기](https://twitter.com/sidneymbell/status/1247933122064207872) 를 확인해주세요. 이 변화가 진행되는 동안 기다려주셔서 감사합니다.
 
 ```
 
@@ -60,144 +61,145 @@ We are in the process of moving to more specific, regionally-focused analyses. Y
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
+# [코로나바이러스감염증-19 관련자료](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
+코로나바이러스감염증-19와 이를 유발하는 SARS-CoV-2 바이러스(또는 hCov-19로 알려진)에 대한 몇 가지 자료를 준비했습니다. 이 정보들은 저희가 이 보고서에서 제시한 내용을 이해하는데 도움을 줄 것입니다.
 #### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [여기부터 시작하세요: 계통수를 읽는 법](https://nextstrain.org/narratives/trees-background/ko).  
+* [코로나바이러스 관련 배경지식](https://nextstrain.org/help/coronavirus/human-CoV).
+* [흔한 오해들](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+#### 외부 자료
+* [WHO 상황 보고서](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [미국 질병통제예방센터 자료](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [뉴욕타임즈 코로나19 커버리지](https://www.nytimes.com/news-event/coronavirus).
+* [과학자에게 물어보세요 & 자주 묻는 질문](https://covid19.fas.org/l/en).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 57 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [데이터 수집 관련 사항](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+현재 저희는 6개 대륙, 57개국에서 얻은 분리된 바이러스의 RNA 염기서열 정보를 해독했습니다. 이는 엄청난 성과입니다. 큰 RNA 유전체를 가진 미지의 바이러스의 염기서열 정보를 유행 와중에 얻는 것은 굉장히 어렵습니다. 이는 전 세계의 과학자와 의료인들의 신속한 정보공유와 헌신이 아니었다면 불가능했을 것입니다.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+이 데이터를 활용하면 유행의 여러 특성을 실시간으로 유추할 수 있지만 저희의 결론은 현재 활용가능한 데이터에만 국한됩니다.
 <br><br>
-For example, the map shows very few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+예를 들어, 아래의 지도는 남반구에서 채취된 바이러스가 매우 적음을 보여줍니다. 이는 그 지역에 코로나19 유행이 없어서도, 다른 지역보다 덜 중요해서도 아닙니다. 단지 그 지역에서 수집된 데이터가 부족하다는 것을 의미합니다. 지도 상의 원의 크기는 그 지역에서 얻은 데이터의 양을 의미할 뿐 실제 유행의 규모와는 무관합니다.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Early spread within Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
+# [초기 아시아 내에서의 확산](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
-Here, we highlight samples from mid-December 2019 through mid-January 2020, during the first month of the outbreak.
-Tips of the tree represent samples from infected individuals.
-Each internal node, or branch point, represents an unsampled case, which was the ancestor of all of the other cases within the descendant clade.
+이 슬라이드에는 유행 첫 달인 2019년 12월 중순부터 2020년 1월 중순까지의 사례들을 표시했습니다. 
+계통수 끝 부분은 감염된 개개인들의 사례들을 의미합니다.
+각 내부 노드 (또는 분기점)는 수집되지 않은 사례들을 나타내며, 이는 하위 분기군 내 모든 표본들의 조상입니다. 
 <br><br>
-Tips are colored according to where they were sampled from; nodes (branch points) are colored by the inferred (most likely) location of the ancestral case.
+계통수 끝부분은 표본 수집이 이루어진 위치에 따라 색을 다르게 표시했습니다. 노드 (분기점)는 조상이 되는 사례의 위치에 근거하여 유추된 (가장 확률이 높은) 지역의 색깔로 표시했습니다.
 <br><br>
-Comparing where a sequence was isolated from geographically to where its ancestors were circulating can help us understand not only where infections are occurring, but also where they may have been acquired.
+한 표본이 어디에서 지리적으로 고립되었는지를 이 표본의 조상들이 어느 지역에서 순환했는지와 비교해보면, 어느 지역에서 감염이 일어나고 있는지를 알 수 있을뿐만 아니라 어디에서 전염이 되었는지를 파악하는 데에도 도움이 됩니다.
 <br><br>
-The common ancestor of circulating viruses appears to have emerged in Wuhan, China, in late Nov or early Dec 2019.
-Accordingly, the majority of sampled and inferred ancestral cases were located in Asia during this early period.
-This is consistent with circulation largely within China and some exported cases to other countries in Asia for the first month of the outbreak.  
+순환 중인 바이러스의 공통 조상은 2019년 11월 말 또는 12월 초에 중국 우한에서 나타난 것으로 보입니다. 
+따라서, 이 기간 동안 수집되고 유추된 대부분의 초기 사례들은 아시아에 자리잡고 있었습니다.
+이는 주로 중국 내에서 유통되었으며, 일부는 유행 첫 달 동안 다른 아시아 국가로 전파된 사례들과 일치합니다.
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Initial introductions to other regions](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
+# [초기 다른 지역으로의 확산](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
 
-During the 2nd month of the outbreak, from mid-January to mid-February 2020, we start to see individual cases crop up in North America, Europe and Oceania.
-These early cases still group with samples from Asia, and generally lack the hallmarks of local transmission.
+유행이 시작된 지 2개월 차에 접어든 동안 (2020년 1월 중순에서 2월 중순까지), 유럽 및 오세아니아에서 개별적인 사례들이 발생하기 시작했던 것을 확인할 수 있습니다.
+이런 초기 사례들은 여전히 아시아의 사례들과 한데 묶였으며, 일반적으로 지역사회 전파의 특징을 보이지 않았습니다.
 <br><br>
-This is consistent with initial sparks being thrown from the main outbreak in Asia to other parts of the world. Although most of these sparks did not result in localized outbreaks, at least three of these introductions took off. These led to the large European and North American outbreaks, as well as more restricted spread in Oceania.
+이는 아시아에서의 주된 유행으로부터 전세계의 다른 지역들로 던져진 초기 불씨가 되었다는 해석과 일맥상통 합니다. 대부분의 이런 불씨들이 각 지역에서의 유행으로 이어지지는 않았지만, 이 유입들 중 적어도 3건이 지역사회 유행을 촉발시켰습니다. 이로 인해 오세아니아에서의 제한적인 확산뿐만 아니라 유럽 및 북아메리카 내에서 대유행이 발생하게 되었습니다.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Initial cryptic transmission in Europe](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
+# [파악이 힘든 유럽의 초기 전파](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-Zooming in to the top of the tree for the same time period, we see an ancestral European virus (internal node) that seeded the large European outbreak.
+같은 기간 동안의 계통수 상단을 확대해 보면, 나중에 유럽 대유행의 시초가 되는 유럽의 조상 바이러스 (내부 노드)를 확인할 수 있습니다. 
 <br><br>
-This indicates that while we hadn't yet sequenced any samples from this clade, the origins of the European outbreak were already circulating undetected by late January or early February.
+이 시점에서 저희는 이 분기군에서 단 1개의 염기서열 자료도 가지고 있지 않았지만, 1월 말 또는 2월 초까지 유럽 유행의 시초를 발견하지 못했다는 것을 보여줍니다.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Initial cryptic transmission in North America](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
+# [파악이 힘든 북아메리카의 초기 전파](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-Similarly, zooming in to the bottom of the tree, we see an ancestral North American virus (internal node) that initiated what would later become a large outbreak in North America.
+이와 유사하게, 계통수의 하단을 확대해서 보면, 나중에 북아메리카 대유행의 시발점이 된 북아메리카의 조상 바이러스 (내부 노드)를 확인할 수 있습니다. 
 <br><br>
-This indicates that although we only had 1 sequenced case from this cluster at the time, the virus was circulating undetected within North America by late January or early February.
+이 시점에서 저희는 이 사례군에서 1개의 염기서열 자료만을 가지고 있었지만, 1월 말 또는 2월 초까지 북아메리카 내에서 바이러스가 발견되지 않았음을 보여줍니다.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Expansion of North American and European outbreaks](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
+# [북아메리카와 유럽에서의 유행 확산](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
 
-During the 3rd month of the outbreak, from mid-February to mid-March 2020, these two clusters expanded to cause large outbreaks within Europe and North America, respectively.
+2020년 2월 중순에서 3월 중순까지 3개월 동안 이 두 사례군이 퍼져서 각각 유럽과 북아메리카 내에서 크게 유행했습니다.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Spread across international borders](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
+# [국경을 넘어 확산이 일어남](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
 
-Within each of these regions, we see widespread mixing across state lines and international borders.
-This is demonstrated here by the intermingling of samples from multiple U.S. states and Canadian provinces.
+이 각각의 지역들에서, 주의 경계와 국경을 넘어 광범위하게 뒤섞인 것을 확인할 수 있습니다.
+여러 미국 주와 캐나다 지방의 사례들을 통해 이 뒤섞임을 보여주고 있습니다.
 <br><br>
-We've [previously reported](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) on a similar pattern of frequent mixing of viral lineages between European countries.
+저희는 이와 비슷한 패턴으로 유럽 국가들 사이에서 바이러스 계통들이 빈번히 뒤섞이는 것을 [이전에 보고](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) 했던 적이 있습니다.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Introductions from North America & Europe to other parts of the globe](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
+# [북아메리카와 유럽에서 세계의 다른 지역으로의 유입](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
-The North American and European clusters are not restricted to their respective regions. During this time period, we also see cases from South America, Oceania, and Africa against a backdrop of primarily European and North American clades. This indicates that there were frequent intercontinental introductions during this time period.
+북아메리카 및 유럽의 사례군들은 각각의 지역들에 국한되지 않습니다. 이 기간 동안, 저희는 남아메리카, 오세아니아 및 아프리카 사례들이 주로 유럽 및 북아메리카 지역의 분기군으로부터 온 것을 확인했습니다. 이를 통해, 해당 기간 동안 대륙 간 유입이 빈번하게 발생했음을 알 수 있었습니다.
 <br><br>
-Interestingly, samples from the global south span the full breadth of the tree, indicating that these regions' outbreaks are mixtures of many viral lineages.
+하나 흥미로운 점은, 남반구에서 수집한 표본은 계통수 전체에 걸쳐 고루 분포해 있으며, 이 지역에서의 유행은 여러 바이러스 계통들끼리 뒤섞여 나타나게 된 산물입니다.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Coming full circle: reintroductions to Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
+# [돌고 돌아 다시 원점으로: 아시아로의 재유입](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
 
-In the last month, the pandemic has come full circle. Here, we see re-introductions from Europe and North America back to Asia.
+지난 달, 이 판데믹은 세계를 한 바퀴 돌고 다시 원점으로 돌아왔습니다. 이 슬라이드를 통해 우리는 유럽과 북아메리카에서 아시아로 재유입된 것을 확인할 수 있습니다.
 <br><br>
-This resoundingly demonstrates that this pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
-
+이는 이 판데믹이 세계적인 싸움이라는 것을 분명하게 알려줍니다. 전세계에서 이 바이러스가 퇴치되는 것을 원한다면, 모두 함께 이 바이러스가 퍼지지 않도록 협조해야 할 것입니다.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Takeaway](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [기억할 점들](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 
-Regional and national outbreaks are and will be deeply intertwined.
+지역적인 유행과 국가적인 유행은 서로 깊게 얽혀있을 것입니다.
 <br><br>
-This pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
+이 판데믹은 세계적인 싸움입니다. 전세계에서 이 바이러스가 퇴치되는 것을 원한다면, 모두 함께 이 바이러스가 퍼지지 않도록 협조해야 할 것입니다.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# What you can do
+# 우리가 할 수 있는 것들
 
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+#### 개인이 할 수 있는 것들
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+* 엄격한 사회적 거리두기를 하십시오. 특히, 당신이 취약 계층일수록 중요합니다.
+* 당신이 취약계층이 아니더라도 사회적 거리두기를 하십시오. 그래야 다른 사람들을 보호할 수 있습니다.
+* "당신이 방금 할라피뇨 고추를 썰고난 뒤 콘택트 렌즈를 교체해야만 하는 것처럼" 손을 자주 씻으십시오.
+* 아프면 집에 머무르세요. 자가격리를 대비해 필요한 물자를 미리 비축하십시오.
+* 당신이 고용주라면 직원들이 아플 때 집에 있을 수 있도록 해주세요.
+
+#### 지도자와 관료들이 할 일
+
+* 검사가 무료로 광범위하게 이뤄질 수 있도록 하십시오.
+* 사회적 거리두기가 이뤄질 수 있도록 하십시오.
+* 광범위한 접촉 경로 추적과 격리에 재정을 지원하고 실행하십시오.
+* 사회적 거리두기로 인해 피해를 입은 사람들을 위해 경제적 지원을 해주십시오.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -210,14 +212,13 @@ This pandemic is a global fight; we all must help control this virus everywhere 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [과학적 기여](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+이번 유행에 관련된 모든 과학자들, 특히 중국의 과학자들의 대단하고 신속한 작업에 감사를 표합니다. 유전체 정보 및 메타정보의 빠른 공유가 아니었다면 이 분석들은 불가능했을 것입니다.
 
 <br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+이 데이터는 [GISAID](https://gisaid.org) 를 통해 공유되었습니다. 그들에게 감사의 뜻을 전합니다.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
