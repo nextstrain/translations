@@ -23,7 +23,7 @@ translators:
 translatorLinks:
  - https://www.researchgate.net/profile/Marta_Niedzicka
  - https://twitter.com/afijarczyk
-date: "2020 April 9"
+date: "2020 April 10"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
 abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się COVID-19. Raporty są uaktualniane co tydzień."
 ---
@@ -37,16 +37,16 @@ abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śl
 
 W tym tygodniu robimy krok do tyłu, żeby prześledzić, jak epidemia rozwijała się miesiąc po miesiącu. Skupiamy się na dynamice transmisji _pomiędzy_ regionami świata. Będziemy omawiać:
 <br>
-* [Wstęp i materiały](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [Opis próbkowania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [Wczesne rozprzestrzenianie się w obrębie Azji](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [Początkowa introdukcja z Azji do Ameryki Północnej, Europy i Oceanii](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [Wzrost zachorowań w europejskich i północnoamerykańskich ogniskach epidemii](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [Następujące rozprzestrzenianie przez granice międzynarodowe w obrębie regionów](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [Rozprzestrzenianie z Europy i Ameryki Północnej do Globalnego Południa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [Zataczając koło: reintrodukcje do Azji](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [Co możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [Wstęp i materiały](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-10?n=2).
+* [Opis próbkowania](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-10?n=3).
+* [Wczesne rozprzestrzenianie się w obrębie Azji](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-10?n=4).
+* [Początkowa introdukcja z Azji do Ameryki Północnej, Europy i Oceanii](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-10?n=5).  
+* [Wzrost zachorowań w europejskich i północnoamerykańskich ogniskach epidemii](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-10?n=8).  
+* [Następujące rozprzestrzenianie przez granice międzynarodowe w obrębie regionów](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-10?n=9).
+* [Rozprzestrzenianie z Europy i Ameryki Północnej do Globalnego Południa](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-10?n=10).  
+* [Zataczając koło: reintrodukcje do Azji](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-10?n=11).
+* [Co możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-10?n=12).
+* [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-10?n=13).
 
 <!-- This week, we take a step back to trace how the outbreak has unfolded, month by month.
 We focus on transmission dynamics _between_ regions of the world. Here, we cover:  
@@ -94,7 +94,7 @@ Przygotowaliśmy materiały online, które ułatwią interpretowanie przygotowan
 #### Nextstrain Resources  
 * [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).-->
+* [Przesądy](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-03-13?n=11).-->
 
 <!--#### External Resources  
 * [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
@@ -216,7 +216,7 @@ Poprzednio [raportowaliśmy](https://nextstrain.org/narratives/ncov/sit-rep/2020
 <!-- Within each of these regions, we see widespread mixing across state lines and international borders.
 This is demonstrated here by the intermingling of samples from multiple U.S. states and Canadian provinces.
 <br><br>
-We've [previously reported](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) on a similar pattern of frequent mixing of viral lineages between European countries. -->
+We've [previously reported](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-03-27?f_region=Europe&n=5) on a similar pattern of frequent mixing of viral lineages between European countries. -->
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
