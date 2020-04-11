@@ -187,7 +187,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# What you can do
+# 私達のできること
 
 #### ...個人が出来ること
 * 社会的距離を保つことを厳格に実践してください。重症化しやすいグループに属している場合には特に。
