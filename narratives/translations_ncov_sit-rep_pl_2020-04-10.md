@@ -128,7 +128,7 @@ For example, the map shows very few sequences from the global south. This is NOT
 # [Wczesne rozprzestrzenianie się w obrębie Azji](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
 Tutaj prezentujemy próbki od połowy grudnia 2019 do połowy stycznia 2020, podczas pierwszego miesiąca epidemii.  Krańce gałęzi drzewa przedstawiają próbki od zainfekowanych osób.
-Każdy wewnętrzny węzeł (czy miejsce rozgałęzienia) prezentuje nie próbkowany przypadek, który był przodkiem dla wszystkich innych przypadków w kladzie potomnym.
+Każdy wewnętrzny węzeł (czy miejsce rozgałęzienia) prezentuje niepróbkowany przypadek, który był przodkiem dla wszystkich innych przypadków w kladzie potomnym.
 <br><br>
 Krańce są pokolorowane w zależności od tego, skąd próby były pobrane; węzły (rozgałęzienia) są pokolorowane przez wydedukowaną (najbardziej prawdopodobną) lokację pierwotnego przypadku.
 <br><br>
