@@ -82,7 +82,7 @@ Przygotowaliśmy materiały online, które ułatwią interpretowanie przygotowan
 #### Materiały Nextstrain
 * [ZACZNIJ TUTAJ: Jak interpretować drzewa filogenetyczne](https://nextstrain.org/narratives/trees-background/pl).  
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Przesądy](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-03-13?n=11).
 
 #### Inne źródła  
 * [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
@@ -211,7 +211,7 @@ Podczas trzeciego miesiąca epidemii, od połowy lutego do połowy marca 2020, t
 
 W obrębie każdego z tych regionów widzimy wszechobecne przemieszczanie się wirusa przez granice - stanów oraz państw. Dowodzi tego przenikanie się próbek z wielu stanów USA i prowincji kanadyjskich na drzewie filogenetycznym.
 <br><br>
-Poprzednio [raportowaliśmy](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) podobny wzór częstego przenikania się wariantów wirusa pomiędzy krajami europejskimi.
+Poprzednio [raportowaliśmy](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-03-27?f_region=Europe&n=5) podobny wzór częstego przenikania się wariantów wirusa pomiędzy krajami europejskimi.
 
 <!-- Within each of these regions, we see widespread mixing across state lines and international borders.
 This is demonstrated here by the intermingling of samples from multiple U.S. states and Canadian provinces.
