@@ -33,26 +33,26 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- This is left-side text 1-->
 # [报告摘要](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-这周，我们逐月回顾疫情发展的过程，重点关注疫情是如何在世界各个地区**之间**传播的。内容包括：  
+在本周的报告中，我们逐月回顾疫情发展的过程，重点关注疫情是如何在世界各个地区**之间**传播的。内容包括：  
 <br>
 * [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
 * [关于抽样](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
 * [在亚洲地区内部的早期传播](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [最早从亚洲输入到北美、欧洲和大洋洲的病例Initial introductions from Asia to North America, Europe and Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [北美和欧洲疫情的扩散Growth of North American & European outbreaks](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [后续的跨国传播Subsequent spread across international borders within regions](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [从欧洲到北美扩散到南半球Spread from Europe and North America to the global south](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [形成闭环：重新输入到亚洲Coming full circle: reintroductions to Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
+* [最早从亚洲输入到北美、欧洲和大洋洲的病例](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
+* [北美和欧洲疫情的扩散](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
+* [后续的跨国传播](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
+* [从欧洲和北美扩散到南半球](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
+* [绕地球一圈：重新输入到亚洲](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
 * [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
 * [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# About
+# 说明
 
 我们分析了 3,160 个公开共享的 SARS-Cov-2 基因组。通过将这些病毒基因组相互比较，我们可以描述 COVID-19 是如何在世界各地迁移和在社区中传播的。
 
-我们正在把研究的关注点转为对每个地区进行更具体的分析。你可以在[这里（推特链接）](https://twitter.com/nextstrain/status/1247851469392564224)找到关于此变化的更多信息，在[这里（推特链接）](https://twitter.com/sidneymbell/status/1247933122064207872)看如何帮助我们。感谢您对此过渡阶段的耐心。
+我们正在把研究的关注点转向对每个地区进行更具体的分析。你可以在[这里（推特链接）](https://twitter.com/nextstrain/status/1247851469392564224)找到关于此变化的更多信息，在[这里（推特链接）](https://twitter.com/sidneymbell/status/1247933122064207872)看到如何帮助我们。感谢您对此过渡阶段的耐心。
 
 ```
 
@@ -93,15 +93,15 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 
 这里显示的是疫情发生的第一个月，2019年12月中旬到2020年1月中旬的样本。
 树末端的圆点代表来自患者的样本。
-树上的每个内部节点，又叫分支点，都代表着一个未被取样到的病毒序列，它是它所属那一支中所有后续病毒的共同祖先。
+树上的每个内部节点，又叫分支点，都代表着一个未被取样到的病毒序列，它是它那一支中所有后续病毒的共同祖先。
 <br><br>
-末端圆点的颜色代表样本的取样地点，内部节点（分支点）的颜色代表所推测的该祖先病毒株的（最有可能的）地理位置。
+末端圆点的颜色代表样本的取样地点，内部节点（分支点）的颜色代表所推测的该祖先病毒的（最有可能的）地理位置。
 <br><br>
-我们可以把病毒被取样到的地理位置和它的祖先的地理位置作比较，这样不仅可以帮助我们理解病毒感染在哪里发生，也可以帮助理解被感染的患者可能是从哪里传染到的病毒。
+我们可以把病毒被取样到的地理位置和它的祖先的地理位置作比较，这样不仅可以帮助我们理解病毒感染在哪里发生，还可以了解被感染的患者可能是从哪里传染到的病毒。
 
 <br><br>
-现在正在流行的病毒的共同祖先看起来是在2019年11月下旬或12月上旬，在中国武汉出现的。
-因而在疫情发生的早期这段时间内，大部分的样本和和所推断的祖先株的位置都在亚洲。
+当前正在流行的病毒的共同祖先看起来是在2019年11月下旬或12月上旬，在中国武汉出现的。
+因而在疫情发生的早期这段时间内，大部分的样本和和所推断的祖先病毒的位置都在亚洲。
 这些数据表明，在疫情发生的第一个月，病毒主要在中国境内传播，并有一些病例输出到亚洲其他国家。
 
 <!-- There is no right side text -->
@@ -122,16 +122,16 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- This is left-side text 6-->
 # [欧洲最初的未知传播链](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-在同一时间区间中，我们把树的上部放大，可以看到一个欧洲的祖先株病毒（内部节点）引发了疫情在欧洲的大规模爆发。
+在同一时间区间中，我们把树的上部放大，可以看到一个欧洲的祖先病毒（内部节点）引发了疫情在欧洲的大规模爆发。
 <br><br>
-这些数据表明，虽然我们那时还没有测到属于这一支的任何样本，但是欧洲疫情的源头在1月下旬或2月上旬之前就已经在未被察觉的情况下传播了。
+这些数据表明，虽然我们那时没有测到属于这一支的任何样本，但是欧洲疫情的源头在1月下旬或2月上旬之前就已经在未被察觉的情况下传播了。
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
 # [北美最初的未知传播链](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-同样地，我们把树的下部放大，可以看到一个北美的祖先株病毒（内部节点）引发了后来北美的大规模爆发。
+同样地，我们把树的下部放大，可以看到一个北美的祖先病毒（内部节点）引发了后来北美的大规模爆发。
 <br><br>
 这表明，虽然我们当时只有一个属于这簇病例的样本，但是病毒在1月下旬或2月上旬之前就已经在未被察觉的情况下在北美传播了。
 
@@ -151,9 +151,9 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 # [跨国传播](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
 
 在各个地区之内，我们看到了广泛的跨州、跨国传播的现象。
-这里是一个例子，美国多个州、加拿大多个省的样本都混在在一起。
+这里是一个例子：美国多个州、加拿大多个省的样本都混在在一起。
 <br><br>
-我们[之前报道](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-27?f_region=Europe&n=5) 过欧洲也有类似的现象，各国的病毒谱系频繁地混杂在一起。
+我们[之前报道](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-27?f_region=Europe&n=5) 过欧洲也有类似的现象——各国的病毒谱系频繁地混杂在一起。
 
 <!-- There is no right side text -->
 
@@ -161,12 +161,9 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- This is left-side text 10-->
 # [北美和欧洲的病例输出到世界其他地区](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
-北美和欧洲的病毒簇并不受到地理边界的局限。在这个时间区间内，我们也看到了来自南美洲、大洋洲和非洲的病例，在主要由欧洲和北美的病例组成的分支中。这表明，在这个时间段内，有频繁的跨洲输出。
-The North American and European clusters are not restricted to their respective regions. During this time period, we also see cases from South America, Oceania, and Africa against a backdrop of primarily European and North American clades. This indicates that there were frequent intercontinental introductions during this time period.
+北美和欧洲的病毒簇并不受到地理边界的局限。在这个时间区间内，我们在主要由欧洲和北美的样本组成的分支中也看到了来自南美洲、大洋洲和非洲的样本，表明了这个时间段内频繁的跨大陆传播。
 <br><br>
-有意思的是，南半球的样本从上到下在整个树上都有分布，表明这些地区的疫情混合了来自于很多谱系的病毒。
-Interestingly, samples from the global south span the full breadth of the tree, indicating that these regions' outbreaks are mixtures of many viral lineages.
-
+值得注意的是，南半球的样本的分布纵贯整个演化树，表明这些地区的疫情混合了来自于很多谱系的病毒。
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
@@ -174,18 +171,15 @@ Interestingly, samples from the global south span the full breadth of the tree, 
 
 到上个月为止，这场全球大流行的疫情已经绕地球一圈。在这张图中，我们看到病毒从欧洲和北美又输入到亚洲。
 <br><br>
-这振聋发聩地说明，战胜这场全球大流行的疫情需要全球的共同努力。如果我们想要在一个地方打败它，我们必须在每个地方控制它。
-This resoundingly demonstrates that this pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
-
+这掷地有声地说明了，战胜这场全球大流行的疫情需要全球的共同努力。如果我们想要在任何一个地方打败它，都必须在所有地方控制它。
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
 # [总结](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 
-每个国家和地区的疫情都是，并且将会是紧密相连的。
+每个国家和地区的疫情都是且将是紧密相连的。
 <br><br>
-This pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
-
+战胜这场全球大流行的疫情需要全球的共同努力。如果我们想要在任何一个地方打败它，都必须在所有地方控制它。
 
 <!-- This is the right-side text -->
 
