@@ -21,7 +21,7 @@ Uebersetzer: Elisabeth Hirth
 Links zu den Uebersetzern: https://bsse.ethz.ch/department/people/detail-person.MjM4ODcw.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html
 Datum: "9. April 2020"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
-abstract: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von COVID-19 zu beschreiben, und wird wöchentlich aktualisiert."
+Kurzfassung: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von COVID-19 zu beschreiben, und wird wöchentlich aktualisiert."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,7 +31,7 @@ abstract: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von 
 <!-- This is left-side text 1-->
 # [Zusammenfassung](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-Diese Woche gehen wir einen Schritt zurueck und schauen uns an, wie die Epidemie sich monatlich entfaltet hat. Unser Fokus liegt hierbei auf den Uebertragungsdynamiken zwischen den Regionen weltweit. Dabei decken wir folgende Bereich ab:
+Diese Woche gehen wir einen Schritt zurueck und schauen uns an, wie die Epidemie sich monatlich entfaltet hat. Unser Fokus liegt hierbei auf den Uebertragungsdynamiken zwischen den Regionen weltweit. Dabei decken wir folgende Bereiche ab:
 
 <br>
 * [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
@@ -92,13 +92,13 @@ Zum Beispiel zeigt die Karte nur sehr geringe Sequenzierdaten aus dem globalen S
 <!-- This is left-side text 4-->
 # [Fruehe Ausbreitung in Asien](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
-Im Nachfolgenden heben wir Proben hervor, die von Dezember 2019 bis Mitte Januar 2020 genommen worden sind, da sie den ersten Monat des Virenausbruchs repraesentieren. Die Baumspitzen vertreten Proben von infizierten Individuen, waehrend jeder einzelne interne Knotenpunkt, oder Verzweigung, einen unbeprobten Fall darstellt, der den Vorgaenger von allen anderen Faellen innerhalb der nachdolgenden Klade repraesentiert. 
+Im Nachfolgenden heben wir Proben hervor, die von Dezember 2019 bis Mitte Januar 2020 genommen worden sind, da sie den ersten Monat des Virenausbruchs repraesentieren. Die Baumspitzen vertreten Proben von infizierten Individuen, waehrend jeder einzelne interne Knotenpunkt - oder Verzweigung - einen unbeprobten Fall darstellt, der den Vorgaenger von allen anderen Faellen innerhalb der nachdolgenden Klade repraesentiert. 
 <br><br>
-Die Baumspitzen wurden ihrem Probenursprung nach angefaerbt. Knotenpunkte (Verzweigungen) sind nach deren vermuteten (hoechstwahrscheinlichstenen) Ortszugehoerigkeit des Vorgaengerfalls nach angefaerbt.
+Die Baumspitzen wurden ihrem Probenursprung nach angefaerbt. Knotenpunkte (Verzweigungen) sind nach deren vermuteten (hoechstwahrscheinlichsten) Ortszugehoerigkeit des Vorgaengerfalls nach angefaerbt.
 <br><br>
-Dieser Vergleich zwischen der Lokalisation, wo eine Probe entnommen worden ist, und wo deren vorhergehende infizierte Probe zirkuliert ist, kann uns nicht nur helfen zu verstehen, wo Infektionen stattfinden, sondern auch wo diese eventuell gemessen worden sind. 
+Dieser Vergleich zwischen der Lokalisation, wo eine Probe entnommen worden ist, und wo deren vorhergehende infizierte Probe zirkuliert ist, kann uns nicht nur helfen zu verstehen, wo Infektionen stattgefunden haben, sondern auch wo diese eventuell gemessen worden sind. 
 <br><br>
-Der gemeinsame Vorgaenger aller im Moment zirkulierender Viren scheint aus Wuhan, China, zu stammen und im spaeten November und fruehen Dezember aufgetaucht zu sein. Daher stammt die Mehrheit der beprobten und nachfolgenden Vorgaengerfaelle aus Asien innerhalb dieser fruehen Periode. Dies stimmt mit dem weitverbreiteten Umlauf innerhalb Chinas und den exportierten Faellen in andere asiatische Laender innerhalb des ersten Monats der Epidemie ueberein.
+Der gemeinsame Vorgaenger aller im Moment zirkulierender Viren scheint aus Wuhan, China, zu stammen und innerhalb Spaetnovember und Fruehdezember aufgetaucht zu sein. Daher stammt die Mehrheit der beprobten und nachfolgenden Vorgaengerfaelle innerhalb Asiens aus dieser fruehen Periode. Dies stimmt mit dem weitverbreiteten Umlauf innerhalb Chinas und den exportierten Faellen in andere asiatische Laender innerhalb des ersten Monats der Epidemie ueberein.
 
 <!-- There is no right side text -->
 
@@ -116,7 +116,7 @@ Das ist konsistent mit Initialzuendern, die aus der Hauptepidemie in Asien in an
 <!-- This is left-side text 6-->
 # [Raetselhafte anfaengliche Uebertragung in Europa](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-Zoomt man in die Spitze des Baums zum selben Zeitpunkt, findet mn einen vorhergehenden europaeischen Virus (interner Knotenpunkt), der hoechstwahrscheinlich zum grossflaechigen Ausbruch in Europa gefuehrt hat. 
+Zoomt man in die Spitze des Baums zum selben Zeitpunkt, findet man einen vorhergehenden europaeischen Virus (interner Knotenpunkt), der hoechstwahrscheinlich zum grossflaechigen Ausbruch in Europa gefuehrt hat. 
 <br><br>
 Das deutet daraufin, dass waherend wir noch keinerlei Proben aus dieser Klade sequenziert hatten, die urspruenglichen Viren, die zur europaeischen Epidemie gefuehrt haben, unbemerkt schon zwischen Ende Januar und Beginn Februar zirkuliert sind. 
 <!-- There is no right side text -->
@@ -125,9 +125,9 @@ Das deutet daraufin, dass waherend wir noch keinerlei Proben aus dieser Klade se
 <!-- This is left-side text 7-->
 # [Raetselhafte anfaengliche Uebertragung in Nordamerika](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-Aehnlich verhaelt es sich in Nordamerika. Wenn man in den unteren Bereich des Baums hinenzoomt, sieht man den Vorgaenger des nordamerikanischen Virus (interner Knotenpunkt), der eingeleitet hat, was spaeter zur grossen Epidemie in Nordamerika gefuehrt hat. 
+Aehnlich verhaelt es sich in Nordamerika. Wenn man in den unteren Bereich des Baums hineinzoomt, sieht man den Vorgaenger des nordamerikanischen Virus (interner Knotenpunkt), der eingeleitet hat, was spaeter zur grossen Epidemie in Nordamerika gefuehrt hat. 
 <br><br>
-Das gibt HInweise darauf, dass obwohl wir nur einen sequenzierten Fall innerhalb dieses Clusters zu diesem Zeitpunkt haben, hat das Virus sich unbermerkt zwischen Ende Januar und Beginn Februar ausbreiten koennen.
+Das gibt HInweise darauf, dass obwohl wir nur einen sequenzierten Fall innerhalb dieses Clusters zu diesem Zeitpunkt haben, hat das Virus sich unbemerkt zwischen Ende Januar und Beginn Februar ausbreiten koennen.
 
 <!-- There is no right side text -->
 
@@ -136,7 +136,7 @@ Das gibt HInweise darauf, dass obwohl wir nur einen sequenzierten Fall innerhalb
 <!-- This is left-side text 8-->
 # [Expansion der Epidemien in Nordamerika und Europa](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
 
-waehrend des 3. Monats der Epidemie - von Mitte Februar bis Mitte Maerz 2020 - diese beiden Klusters sind expanidert und haben zu den grossen Epidemien innerhalb sowohl Europas als auch Nordamerikas gefuehrt.
+Waehrend des 3. Monats der Epidemie - von Mitte Februar bis Mitte Maerz 2020 - sind diese beiden Kluster expanidert und haben zu den grossen Epidemien innerhalb sowohl Europas als auch Nordamerikas gefuehrt.
 
 <!-- There is no right side text -->
 
@@ -154,16 +154,16 @@ In [vorhergehenden Berichten](https://nextstrain.org/narratives/ncov/sit-rep/202
 <!-- This is left-side text 10-->
 # [Einschleppung des Virus aus Nordamerika und Europa in andere Teile der Welt](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
-Die nordamerikanischen und europaeischen Cluster beschraenken sich nicht auf ihre entsprechenden Regionen. Waherendessen tauchten Faelle aus Suedamerika, Ozeanien und Afrika im Zusammenhang mit hauptsaechlich den Kladen von Europa und Nordamerika auf. Das deutet darauf hin, dass es haeufige interkontinentale Einschleppungen in diese Regionen zu diesem Zeitpunkt gegeben hat. 
+Die nordamerikanischen und europaeischen Cluster beschraenken sich nicht auf ihre entsprechenden Regionen. Waherendessen tauchten Faelle aus Suedamerika, Ozeanien und Afrika im Zusammenhang mit hauptsaechlich den Kladen von Europa und Nordamerika auf. Das deutet darauf hin, dass es haeufige interkontinentale Einschleppungen in diesen Regionen zu diesem Zeitpunkt gegeben hat. 
 <br><br>
-Interessanterweise spannen sich die Proben aus dem globalen Sueden ueber den gesamten Baum, was eventuell eine Durchmischung mehrerer verschiedener Virenstaemme zeigt, die zur Epidemie in diesen Regionen gefeuhrt hat. 
+Interessanterweise erstrecken sich die Proben aus dem globalen Sueden ueber den gesamten Baum, was eventuell eine Durchmischung mehrerer verschiedener Virenstaemme zeigt, die zur Epidemie in diesen Regionen gefeuhrt hat. 
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
 # [Zurueck zum Ausgangspunkt: Wiedereinschleppung nach Asien](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
 
-Innerhalb des letzten Monats hat ist die Pandemie zu ihrem Ausgangspunkt zurueckgekehrt. Im Folgenden sehen wir eine Wiedereinfuehrung des Virus aus Europa und Nordamerika zurueck nach Asien.
+Innerhalb des letzten Monats ist die Pandemie zu ihrem Ausgangspunkt zurueckgekehrt. Im Folgenden sehen wir eine Wiedereinfuehrung des Virus aus Europa und Nordamerika zurueck nach Asien.
 <br><br>
 Das zeigt umgehend, dass die Pandemie ein weltweiter Kampf ist; Wir muessen dazu beitragen, dass das Virus ueberall kontrolliert wird damit wir es hoffentlich ueberall beseitigen koennen.
 
