@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-10.
+title: 新型コロナウイルス拡散の遺伝的解析と状況報告 2020-04-10.
 authors:
   - Sidney M. Bell
   - Nicola Müller
@@ -35,9 +35,9 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [目次](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
+# [概要](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-今週は、感染拡大がどのように発生したかを月ごとに追跡しています。 私たちは世界の地域間での伝播の仕方に焦点を当てています。 ここでは、以下を取り上げます:  (translator note: Both "transmission" and "dynamics" can be translated into Japanese, but I couldn't known a suitable translation when combining the two. I translated "transmission dynamics" to "伝播の仕方")  
+今週は、感染拡大がどのように発生したかを月ごとに追跡しています。 私たちは世界の地域間での伝播の仕方に焦点を当てています。 ここでは、以下を取り上げます:  (translator note: Both "transmission" and "dynamics" can be translated into Japanese, but I couldn't known a suitable translation when combining the two. I translated "transmission dynamics" to "伝播の仕方") 
 <br>
 
 * [資料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
@@ -45,7 +45,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 * [アジアにおける初期の拡大](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
 * [アジアから北米、欧州、オセアニアへの最初の伝播](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
 * [北米および欧州での感染拡大の増加](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [国を超えた広がり](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
+* [国を超えた地域内での広がり](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
 * [欧州と北米から南半球への広がり](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
 * [地球を一周: アジアへの再伝播](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
 * [私達のできること](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
@@ -76,7 +76,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 * [WHO の状況報告](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [CDC の資料](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 * [The NYTimes による COVID-19 の報道](https://www.nytimes.com/news-event/coronavirus).
-* [研究者への質問、よくある質問と答え](https://covid19.fas.org/l/en).
+* [「Ask a Scientist」とよくある質問と答え](https://covid19.fas.org/l/en).
 <!-- There is no right-side text -->
 
 
@@ -98,14 +98,15 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 # [アジアにおける初期の拡大](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 ここでは、感染拡大が発生した最初の月である2019年12月中旬から2020年1月中旬までのサンプルを取り上げています。
 系統樹の先端は、感染者からのサンプルを表しています。
-それぞれの枝、または分岐点は、、、(translator note: I didn't translate for this part, "Each internal node, or branch point, represents an unsampled case, which was the ancestor of all of the other cases within the descendant clade.")
+それぞれの内側の節、つまり分岐点のことですが、は子孫群すべての先祖であるが、まだサンプルがない症例を表しています。
 <br><br>
-枝（分岐点）は、推測される（最も可能性の高い）祖先によって色分けされています。(translator note: Is there a proper translation for "ancestral case" as a medical term?)
+先端はどこでサンプルが採取されたかによって色分けされています;
+節（分岐点）は、推測される（最も可能性の高い）祖先となる症例によって色分けされています。
 <br><br>
-遺伝子配列が地理的に分離された場所と、その祖先（分岐元）が循環していた場所とを比較することで、感染が発生している場所だけでなく、感染が発生した可能性のある場所を理解するのに役立ちます。(translator note: Is there a more appropriate and medical translation of "circulating"?)
+遺伝子配列が地理的に分離された場所と、その祖先となる症例が流行していた場所とを比較することで、感染が発生している場所だけでなく、感染が発生した可能性のある場所を理解するのに役立ちます。
 <br><br>
-循環ウイルスの共通の祖先は、2019年11月下旬または12月上旬に中国の武漢で出現したようです。
-したがって、収集され、推定された祖先のケースの大部分は、この初期の期間中にアジアで発生しました。
+流行しているウイルスの共通の祖先は、2019年11月下旬または12月上旬に中国の武漢で出現したようです。
+したがって、収集され、推定された祖先の症例の大部分は、この初期の期間中にアジアで発生しました。
 これは、大部分が中国国内での感染と、発生の最初の月にアジアの他の国に伝播されたいくつかのケースと一致しています。
 
 <!-- There is no right side text -->
@@ -115,8 +116,8 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- This is left-side text 5-->
 # [他の地域への初期伝播](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
 
-発生の2か月目、2020年1月中旬から2月中旬までにかけて、北米、欧州、オセアニアで個別の症例が出始めます。
-これらの初期症例はまだアジアからのサンプルと一緒にグループ化されており、一般的には局所的な感染の特徴はありません。
+発生の2ヶ月目、2020年1月中旬から2月中旬までにかけて、北米、欧州、オセアニアで個別の症例が出始めます。
+これらの初期の症例はまだアジアからのサンプルと一緒にグループ化されており、一般的には局所的な感染の特徴はありません。
 <br><br>
 これは、アジアでの主な発生から世界の他の地域へと初期の拡散が起こった事と一致しています。これらの拡散のほとんどは局所的な感染拡大をもたらしませんでしたが、少なくとも３つの伝播が発生しました。これらが、欧州や北米での大規模な感染拡大に繋がっただけでなく、オセアニアでのより限定的な広がりにも繋がりました。
 <!-- There is no right side text -->
@@ -125,18 +126,18 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- This is left-side text 6-->
 # [欧州における水面下での初期伝播](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-同じ期間に系統樹の上部を拡大すると、欧州での感染拡大を引き起こした欧州のウイルス（内部の枝）の祖先が表示されます。
+同じ期間で系統樹の上部を拡大すると、欧州での感染拡大を引き起こした欧州のウイルス（内部の節）の祖先が表示されます。
 <br><br>
-このことは、私たちがまだこの系統群のサンプルの遺伝子配列を決定していない間に、欧州での感染拡大の原因は、1月下旬または2月上旬までに検出されずに広まっていることを示しています。
+このことは、この系統群のサンプルから私たちが遺伝子配列を解析したものはまだありませんが、欧州での感染拡大の原因は、1月下旬または2月上旬までに検出されずに広まっていたことを示しています。
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
 # [北米における水面下での初期伝播](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-同様に、系統樹の下部を拡大すると、後に北米で大規模な感染拡大が発生する原因となった祖先の北米のウイルス（内部の枝）の祖先が表示されます。
+同様に、系統樹の下部を拡大すると、後に北米で大規模な感染拡大が発生する原因となった祖先の北米のウイルス（内部の節）の祖先が表示されます。
 <br><br>
-このことは、当時、このクラスターから採取された遺伝子配列が１つの症例のみであったにも関わらず、北米では1月下旬から2月上旬までには検出されずに循環していたことを示しています。
+このことは、当時、このクラスターから採取された遺伝子配列が１つの症例のみでしたが、北米では1月下旬から2月上旬までには検出されずに循環していたことを示しています。
 <!-- There is no right side text -->
 
 
@@ -164,7 +165,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 
 北米と欧州のクラスターは、それぞれの地域に限定されるものではありません。この時期には、主に欧州と北米の系統群を背景に、南米、オセアニア、アフリカでの症例も見られます。このことは、この時期に大陸間の伝播が頻繁に行われていたことを示しています。
 <br><br>
-興味深いことに、南半球からのサンプルは、系統樹の全般にまたがっており、これらの地域での発生は、多くのウイルス系統の混合物であることを示しています。
+興味深いことに、南半球からのサンプルは、系統樹の全般にまたがっており、これらの地域での発生は、多くのウイルス系統が混ざっていることを示しています。
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
@@ -178,7 +179,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- This is left-side text 12-->
 # [まとめ](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 
-地域的および国家的な感染拡大は深く絡み合っており、今後も発生します。
+地域的および国家的な感染拡大は深く絡み合っており、今後もそうでしょう。
 <br><br>
 この大流行が世界的な戦いです。このウイルスを根絶させたいのであれば、このウイルスをあらゆる場所でコントロールできるようにしなくてはなりません。
 
@@ -189,7 +190,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 # What you can do
 
 #### ...個人が出来ること
-* 社会的距離を保つことを厳格に実践してください。弱いグループに属している場合には特に。(translator note: The word "vulnerable" is really difficult to translate into Japanese. It means "weak" but does not clearly indicate what is "weak". In this text, it means elderly or sick, but this part may not be necessary.)
+* 社会的距離を保つことを厳格に実践してください。重症化しやすいグループに属している場合には特に。
 * あなたが健康であるとしても、他の人を守るために社会的距離を保つことを実践して下さい。
 * 良く手を洗って下さい（辛いものを触ったあとにコンタクトレンズを交換する時のように）。 
 * できるだけ家にいましょう（特に体調の悪い時は）。自主的な隔離に備えて、いくつかの追加の備品を用意しておきましょう。
