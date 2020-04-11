@@ -8,7 +8,7 @@ authors:
   - James Hadfield
   - Richard Neher
   - Trevor Bedford
-authorLinks
+authorLinks:
   - https://twitter.com/sidneymbell
   - https://bedford.io/team/nicola-mueller/
   - https://bedford.io/team/cassia-wagner/
