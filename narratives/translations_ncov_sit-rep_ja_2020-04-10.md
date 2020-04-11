@@ -41,7 +41,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <br>
 
 * [資料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [このデータについて](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
+* [データについて](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
 * [アジアにおける初期の拡大](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
 * [アジアから北米、欧州、オセアニアへの最初の伝播](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
 * [北米および欧州での感染拡大の増加](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
@@ -57,7 +57,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 
 ここでは、公に共有されている 3,160 種の SARS-Cov-2 ゲノムを分析しました。これらのウイルスのゲノムを相互に比較することにより、SARS-Cov-2（COVID-19の原因）が世界中をどのように移動しているか、地域の中でどのように拡散しているかを特徴付けることができます。
 
-私たちは、より具体的かつ地域に焦点を当てた分析に移行しつつあります。この変更に関する詳細情報は [こちら](https://twitter.com/nextstrain/status/1247851469392564224) をご覧下さい。また、私たちにご協力頂ける場合は [こちら] (https://twitter.com/sidneymbell/status/1247933122064207872) をご覧下さい。移行中はしばらくお待ちくださいますようお願いいたします。
+私たちは、より具体的かつ地域に焦点を当てた分析に移行しつつあります。この変更に関する詳細情報は [こちら](https://twitter.com/nextstrain/status/1247851469392564224) をご覧下さい。また、私たちにご協力頂ける場合は [こちら](https://twitter.com/sidneymbell/status/1247933122064207872) をご覧下さい。移行中はしばらくお待ちくださいますようお願いいたします。
 
 ```
 
@@ -66,7 +66,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 
 <!-- This is left-side text 2-->
 # [COVID-19 に関する資料](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
-このレポートで紹介するデータの解釈を助ける資料を用意しています。
+このレポートで紹介するデータを理解するための資料を用意しています。
 #### Nextstrain Resources  
 * [最初にご覧下さい: 系統樹の読み方](https://nextstrain.org/narratives/trees-background/).  
 * [コロナウイルスの背景](https://nextstrain.org/help/coronavirus/human-CoV).
@@ -83,7 +83,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+# [データについて](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
 現在、6大陸の57カ国で採取されたサンプルの遺伝子配列があります。これは信じられないほどの成果です。流行の最中に未知の大型RNAウイルスの遺伝子を解析することは難しく、世界中の科学者や医師による信じられないような作業とタイムリーなデータの共有があって初めて可能になりました。
 <br><br>
 このデータにより、多くの有用な特性を推測し、流行の広がりをリアルタイムで追跡することができますが、結論は利用可能なデータによって制限されることに留意して下さい。
