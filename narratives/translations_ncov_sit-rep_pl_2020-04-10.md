@@ -18,7 +18,11 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+ - Marta Niedzicka
+ - Anna Fijarczyk
 translatorLinks:
+ - https://www.researchgate.net/profile/Marta_Niedzicka
+ - https://twitter.com/afijarczyk
 date: "2020 April 9"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
 abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się COVID-19. Raporty są uaktualniane co tydzień."
@@ -37,7 +41,7 @@ W tym tygodniu robimy krok do tyłu, żeby prześledzić, jak epidemia rozwijał
 * [Opis próbkowania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
 * [Wczesne rozprzestrzenianie się w obrębie Azji](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
 * [Początkowa introdukcja z Azji do Ameryki Północnej, Europy i Oceanii](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [Wzrost w europejskich i północnoamerykańskich ogniskach epidemii](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
+* [Wzrost zachorowań w europejskich i północnoamerykańskich ogniskach epidemii](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
 * [Dalsze rozprzestrzenianie przez granice międzynarodowe w obrębie regionów](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
 * [Rozprzestrzenianie z Europy i Ameryki Północnej do Globalnego Południa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
 * [Zataczając koło: reintrodukcje do Azji](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
@@ -64,7 +68,7 @@ We focus on transmission dynamics _between_ regions of the world. Here, we cover
 
 Przeanalizowaliśmy 3160 dostępnych publicznie genomów COVID-19. Porównując je, potrafimy ocenić, w jaki sposób wirus SARS-CoV2 rozprzestrzenia się po świecie i wewnątrz społeczności. 
 
-Jesteśmy w trakcie przechodzenia do bardziej szczegółowych anali regionalnych. Możesz znaleźć więcej informacji o tej zmianie [tutaj](https://twitter.com/nextstrain/status/1247851469392564224), oraz jak nam pomóc [tutaj](https://twitter.com/sidneymbell/status/1247933122064207872); dziękujemy za twoją cierpliwość w trakcie wprowadzania tych zmian.
+Jesteśmy w trakcie przechodzenia do bardziej szczegółowych analiz regionalnych. Możesz znaleźć więcej informacji na ten temat [tutaj](https://twitter.com/nextstrain/status/1247851469392564224), oraz jak nam pomóc [tutaj](https://twitter.com/sidneymbell/status/1247933122064207872); dziękujemy za cierpliwość w trakcie wprowadzania tych zmian.
 
 ```
 
@@ -76,7 +80,7 @@ Jesteśmy w trakcie przechodzenia do bardziej szczegółowych anali regionalnych
 
 Przygotowaliśmy materiały online, które ułatwią interpretowanie przygotowanych danych: 
 #### Materiały Nextstrain
-* [ZACZNIJ TUTAJ: Jak interpretować drzewa filogenetyczne](https://nextstrain.org/narratives/trees-background/).  
+* [ZACZNIJ TUTAJ: Jak interpretować drzewa filogenetyczne](https://nextstrain.org/narratives/trees-background/pl).  
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
 * [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
@@ -123,15 +127,15 @@ For example, the map shows very few sequences from the global south. This is NOT
 <!-- This is left-side text 4-->
 # [Wczesne rozprzestrzenianie się w obrębie Azji](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
-Tutaj prezentujemy próbki od połowy grudnia 2019 do połowy stycznia 2020, podczas pierwszego miesiąca epidemii.  Krańce gałęzi drzewa prezentują próbki od zainfekowanych osób.
+Tutaj prezentujemy próbki od połowy grudnia 2019 do połowy stycznia 2020, podczas pierwszego miesiąca epidemii.  Krańce gałęzi drzewa przedstawiają próbki od zainfekowanych osób.
 Każdy wewnętrzny węzeł (czy miejsce rozgałęzienia) prezentuje nie próbkowany przypadek, który był przodkiem dla wszystkich innych przypadków w kladzie potomnym.
 <br><br>
-Krańce są pokolorowane w zależności od tego, skąd były porbane; węzły (rozgałęzienia) są pokolorowane przez wydedukowaną (najbardziej prawdopodobną) lokację pierwotnego przypadku.
+Krańce są pokolorowane w zależności od tego, skąd próby były pobrane; węzły (rozgałęzienia) są pokolorowane przez wydedukowaną (najbardziej prawdopodobną) lokację pierwotnego przypadku.
 <br><br>
-Porównanie gdzie sekwencja została wyizolowana, do tego, gdzie krążyli jej przodkowie, pozwala nam zrozumienieć nie tylko jak doszło do infekcji, ale także gdzie te infekcje mogły zostać nabyte.
+Porównanie gdzie sekwencja została wyizolowana, do tego, gdzie krążyli jej przodkowie, pozwala nam zrozumienieć nie tylko gdzie wirus występuje, ale także gdzie infekcje mogły zostać nabyte.
 <br><br>
 Wygląda na to, że wspólny przodek krążących wirusów pojawił się w Wuhan w Chinach, w późnym listopadzie albo wczesnym grudniu 2019.
-Odpowiednio, większość zarówno próbkowanych i wywnioskowych przypadków jest zlokalizowanych w Azji w trakcie tego wczesnego etapu. Jest to zgodne z obiegiem wirusa głównie w obrębie Chin i niektórymi przypadkami eksportowanymi do innych krajów Azji w czasie pierwszego miesiąca epidemii.
+Zgodnie z tymi estymacjami, większość zarówno próbkowanych jak i wywnioskowych przypadków jest zlokalizowanych w Azji w trakcie tego wczesnego etapu. Jest to zgodne z obiegiem wirusa głównie w obrębie Chin i eksportem niewielu przypadków do innych krajów Azji w czasie pierwszego miesiąca epidemii.
 
 <!-- Here, we highlight samples from mid-December 2019 through mid-January 2020, during the first month of the outbreak.
 Tips of the tree represent samples from infected individuals.
@@ -155,7 +159,7 @@ This is consistent with circulation largely within China and some exported cases
 Podczas drugiego miesiąca epidemii, od połowy stycznia do połowy lutego 2020, zaczynamy obserwować pojedyncze przypadki pojawiające się w Ameryce Północnej, Europie i Oceanii.
 Te wczesne przypadki wciąż grupują się z próbkami z Azji i ogólnie brakuje im cech tranmisji lokalnej.
 <br><br>
-Zgadza się to z początkowymi "iskrami" wyrzuconymi z głównego ogniska epidemii w Azji do innych części świata. Chociaż większość tych "iskier" nie spowodowała utworzenia lokalnych ognisk epidemii, co najmniej trzy z tych introdukcji rozwinęły się. Doprowadziły do dużych ognisk w Europie i Ameryce Północnej, oraz bardziej ograniczonego rozprzestrzeniania się wirusa w Oceanii. 
+Zgadza się to z początkowymi "iskrami" wyrzuconymi z głównego ogniska epidemii w Azji do innych części świata. Chociaż większość tych "iskier" nie zapoczątkowała lokalnych ognisk epidemii, co najmniej trzy z tych introdukcji rozwinęły się. Doprowadziły do dużych ognisk w Europie i Ameryce Północnej, oraz bardziej ograniczonego rozprzestrzeniania się wirusa w Oceanii. 
 
 <!--During the 2nd month of the outbreak, from mid-January to mid-February 2020, we start to see individual cases crop up in North America, Europe and Oceania.
 These early cases still group with samples from Asia, and generally lack the hallmarks of local transmission.
@@ -168,9 +172,9 @@ This is consistent with initial sparks being thrown from the main outbreak in As
 <!-- This is left-side text 6-->
 # [Początkowa, utajona transmisja w Europie](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-Powiększając górę drzewa (i pozostając w tym samym przedziale czasowym), widzimy początkowy europejski wirus (wewnętrzny węzeł), z którego wyrosło duże europejskie ognisko epidemii. <!-- I am not convinced to this translation, help! - Marta -->
+Powiększając górną część drzewa (i pozostając w tym samym przedziale czasowym), widzimy przodka wirusa w Europie (wewnętrzny węzeł), który zainicjował duże europejskie ognisko epidemii. <!-- I am not convinced to this translation, help! - Marta -->
 <br><br>
-To wskazuje na to, że choć wciąż nie mamy sekwencji próbek z tego kladu, początki europejskiej epidemii krążyły niewykryte już w późnym styczniu lub wczesnym lutym.
+To pokazuje, że choć wciąż nie mamy sekwencji próbek z tego kladu, początki europejskiej epidemii krążyły niewykryte już w późnym styczniu lub wczesnym lutym.
 
 <!-- Zooming in to the top of the tree for the same time period, we see an ancestral European virus (internal node) that seeded the large European outbreak.
 <br><br>
@@ -181,9 +185,9 @@ This indicates that while we hadn't yet sequenced any samples from this clade, t
 <!-- This is left-side text 7-->
 # [Początkowa, utajona transmisja w Ameryce Północnej](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-Podobnie, powiększając dół drzewa, widzimy ancestralny północnoamerykański wirus (wewnętrzny węzeł), który zapoczątkował duże ognisko epidemii w Ameryce  Północnej.
+Podobnie, powiększając dolną część drzewa, widzimy przodka północnoamerykańskiego wirusa (wewnętrzny węzeł), który zapoczątkował duże ognisko epidemii w Ameryce  Północnej.
 <br><br>
-To wskazuje, że choć mamy tylko sekwencję z tylko jednej próbki z tego klastra, niewykryty wirus krążył w Ameryce Północnej od późnego stycznia lub wczesnego lutego.
+To wskazuje, że choć mamy sekwencję z tylko jednej próbki z tego kladu, niewykryty wirus krążył w Ameryce Północnej od późnego stycznia lub wczesnego lutego.
 
 <!-- Similarly, zooming in to the bottom of the tree, we see an ancestral North American virus (internal node) that initiated what would later become a large outbreak in North America.
 <br><br>
@@ -203,11 +207,11 @@ Podczas trzeciego miesiąca epidemii, od połowy lutego do połowy marca 2020, t
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Rozprzestrzenianie się przez międzynarodowe granice](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
+# [Rozprzestrzenianie się przez granice międzynarodowe](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
 
-W obrębie każdego z tych regionów widzimy rozpowszechnione mieszanie się przez granice - stanów oraz państw. Dowodzi tego przenikanie się próbek z wielu stanów USA i prowincji kanadyjskich.
+W obrębie każdego z tych regionów widzimy wszechobecne przemieszczanie się wirusa przez granice - stanów oraz państw. Dowodzi tego przenikanie się próbek z wielu stanów USA i prowincji kanadyjskich na drzewie filogenetycznym.
 <br><br>
-Poprzednio [raportowaliśmy](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) podobny wzór częstego przenikania się linii wirusa pomiędzy krajami europejskimi.
+Poprzednio [raportowaliśmy](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) podobny wzór częstego przenikania się wariantów wirusa pomiędzy krajami europejskimi.
 
 <!-- Within each of these regions, we see widespread mixing across state lines and international borders.
 This is demonstrated here by the intermingling of samples from multiple U.S. states and Canadian provinces.
@@ -219,9 +223,9 @@ We've [previously reported](https://nextstrain.org/narratives/ncov/sit-rep/2020-
 <!-- This is left-side text 10-->
 # [Introdukcje z Ameryki Północnej i Europy do innych części świata](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
-Oba klastry (północnoamerykański i europejski) nie są ograniczone do swoich odpowiednich regionów. W tym samym czasie widzimy również próbki z Ameryki Południowej, Oceanii i Afryki znajdujące się głównie na tle kladów: europejskiego i północnoamerykańskiego. To wskazuje na międzykontynentalne introdukcje w tym okresie.
+Oba klastry (północnoamerykański i europejski) nie są ograniczone do odpowiadających im geograficznie regionów. W tym samym przedziale czasowym widzimy na drzewie również próbki z Ameryki Południowej, Oceanii i Afryki położone na tle głównych kladów: europejskiego i północnoamerykańskiego. To wskazuje na międzykontynentalne introdukcje w tym okresie.
 <br><br>
-Co ciekawe, próbki z Globalnego Południa rozciągają się na całą szerokość drzewa, co wskazuje że te regionalne ogniska epidemii są mieszaniną różnych linii wirusowych. <!-- I am also not convinced to translating "lineages" as "linie", but "rodowody" is even more disturbing. - Marta -->
+Co ciekawe, próbki z Globalnego Południa rozciągają się na całą szerokość drzewa, co wskazuje że te regionalne ogniska epidemii są mieszaniną różnych wariantów wirusa. <!-- I am also not convinced to translating "lineages" as "linie", but "rodowody" is even more disturbing. - Marta - changed to 'warianty' because it was used before AF -->
 
 <!-- The North American and European clusters are not restricted to their respective regions. During this time period, we also see cases from South America, Oceania, and Africa against a backdrop of primarily European and North American clades. This indicates that there were frequent intercontinental introductions during this time period.
 <br><br>
@@ -232,7 +236,7 @@ Interestingly, samples from the global south span the full breadth of the tree, 
 
 W ostatnim miesiącu pandemia zatoczyła pełne koło. Widzimy tutaj reintrodukcje z Europy i Ameryki Północnej z powrotem do Azji.
 <br><br>
-To zdecydowanie pokazuje, że ta pandemia jest walką na skalę światową; wszyscy i wszędzie musimy pomóc w kontrolowaniu tego wirusa, jeśli chcemy mieć nadzieję na pokonanie go gdziekolwiek.
+To jasno pokazuje, że ta pandemia jest walką na skalę światową; wszyscy i wszędzie musimy pomóc w kontrolowaniu tego wirusa, jeśli chcemy mieć nadzieję na pokonanie go gdziekolwiek.
 
 <!-- In the last month, the pandemic has come full circle. Here, we see re-introductions from Europe and North America back to Asia.
 <br><br>
@@ -244,7 +248,7 @@ This resoundingly demonstrates that this pandemic is a global fight; we all must
 
 Regionalne i narodowe ogniska epidemii są i będą głęboko z sobą powiązane.
 <br><br>
-ta pandemia jest walką na skalę światową; szyscy i wszędzie musimy pomóc w kontrolowaniu tego wirusa, jeśli chcemy mieć nadzieję na pokonanie go gdziekolwiek.
+Ta pandemia jest walką na skalę światową; wszyscy i wszędzie musimy pomóc w kontrolowaniu tego wirusa, jeśli chcemy mieć nadzieję na pokonanie go gdziekolwiek.
 
 <!--Regional and national outbreaks are and will be deeply intertwined.
 <br><br>
