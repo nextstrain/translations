@@ -25,7 +25,7 @@ translatorLinks:
     - https://twitter.com/Maijin212
     - https://twitter.com/MEKLab
     - https://twitter.com/simonlorierelab
-date: "9 Avril 2020"
+date: "10 Avril 2020"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
 abstract: "Ce rapport utilise des données génomiques partagées publiquement pour suivre la propagation de COVID-19. Ces rapports sont mis à jour chaque semaine."
 ---
@@ -157,7 +157,7 @@ Au cours du troisième mois de l'épidémie, de la mi-février à la mi-mars 202
 Dans chacune de ces régions, nous constatons un mélange généralisé au-delà des frontières nationales et internationales.
 Cela est démontré ici par le mélange d'échantillons provenant de plusieurs États américains et provinces canadiennes.
 <br><br>
-Nous avons [précédemment] signalé(https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) un exemple similaire de mélange fréquent de lignages viraux entre les pays européens.
+Nous avons [précédemment](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) signalé un exemple similaire de mélange fréquent de lignages viraux entre les pays européens.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
