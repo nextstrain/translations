@@ -36,9 +36,8 @@ abstract: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von 
 # [Zusammenfassung](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
 Diese Woche gehen wir einen Schritt zurueck und schauen uns an, wie die Epidemie sich monatlich entfaltet hat. Unser Fokus liegt hierbei auf den Uebertragungsdynamiken zwischen den Regionen weltweit. Dabei decken wir folgende Bereiche ab:
-
 <br>
-* [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
+* [COVID-19 Quellen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
 * [Anmerkung zur Probennahme](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
 * [Fruehe Ausbreitung in Asien](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
 * [Anfaengliche Einschleppung von Asien nach Nordamerika, Europa und Ozeanien](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
