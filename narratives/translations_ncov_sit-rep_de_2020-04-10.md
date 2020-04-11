@@ -51,12 +51,12 @@ Diese Woche gehen wir einen Schritt zurueck und schauen uns an, wie die Epidemie
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Ueber
+# Ueber diesen Bericht
 
-Wir haben 3.160 oeffentlich zugaengliche SARS-Cov-19 Genome analysiert. Durch den Vergleich der Virusgenome untereinander koennen wir charakterisieren, wie sich SARS-CoV-2 (Ausloeser von COVID-19) global und lokal weiterverbreitet. 
+Wir haben 3.160 oeffentlich zugaengliche SARS-Cov-19 Genome analysiert. Durch den Vergleich der Virusgenome untereinander koennen wir charakterisieren, wie sich SARS-CoV-2 (das Virus, das COVID-19 ausloest) global und lokal weiterverbreitet. 
 
 
-Wir sind dabei, spezifischere, regional ausgerichtete Analysen durchzuführen. Naehere Informationen hierzu koennen Sie unter folgendem [Link](https://twitter.com/nextstrain/status/1247851469392564224) finden und wie Sie uns weiterhelfen koennen, finden Sie [hier](https://twitter.com/sidneymbell/status/1247933122064207872); Vielen herzlichen Dank fuer Ihre Geduld waehrend dieser Uebergangsphase. 
+Wir sind dabei, spezifischere, regional ausgerichtete Analysen durchzuführen. Naehere Informationen hierzu koennen Sie unter folgendem [Link](https://twitter.com/nextstrain/status/1247851469392564224) finden und wie Sie uns weiterhelfen koennen, finden Sie [hier](https://twitter.com/sidneymbell/status/1247933122064207872); vielen herzlichen Dank fuer Ihre Geduld waehrend dieser Uebergangsphase. 
 
 ```
 
@@ -67,7 +67,7 @@ Wir sind dabei, spezifischere, regional ausgerichtete Analysen durchzuführen. N
 # [COVID-19 Quellen](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
 Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch bekannt als hCov-19 - haben wir einige Quellen vorbereitet, die dem Leser helfen sollen, die nachfolgenden Daten besser und leichter zu verstehen. Diese Informationen helfen Ihnen, die nachfolgenden Daten besser interpretieren zu koennen.
 #### Nextstrain Quellen  
-* [Anfang: Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/).  
+* [Anfang: Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/de).  
 * [Hintergrundwissen zu Coronaviren](https://nextstrain.org/help/coronavirus/human-CoV).
 * [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
@@ -85,7 +85,7 @@ Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch 
 # [Anmerkung zur Probennahme](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
 Bis jetzt sind Sequenzierungsdaten von Virusisolaten aus 57 Laendern von sechs Kontinenten oeffentlich zugaenglich. Das ist eine Meisterleistung, wenn man bedenkt, dass man ein unbekanntes, grosses RNA-Virus inmitten einer Pandemie sequenzieren muss. Dies ist nur dank dem wunderbaren Einsatz und dem zeitnahen Teilen von Daten durch Forscher und Aerzte weltweit moeglich.
 <br><br>
-Waehrend diese Daten es uns ermoeglichen, die Epidemie naeher zu charakterisieren und die Ausbreitung zeitnah zu verfolgen, ist es wichtig zu betonen, dass die Schlussfolgerungen aufgrund der Datenverfuegbarkeit begrenzt sind.
+Waehrend diese Daten es uns ermoeglichen, die Pandemie naeher zu charakterisieren und die Ausbreitung zeitnah zu verfolgen, ist es wichtig zu betonen, dass die Schlussfolgerungen aufgrund der Datenverfuegbarkeit begrenzt sind.
 <br><br>
 Zum Beispiel zeigt die Karte nur sehr geringe Sequenzierdaten aus dem globalen Sueden. Das bedeutet NICHT, dass COVID-19 sich dort nicht ausbreitet, oder die Fallzahlen nicht wichtig sind fuer die Analyse. Sondern es bedeutet oft nur, dass es kaum verfuegbare Daten aus diesen Gebieten gibt. Die Groesse eines Kreises sagt lediglich aus, wie viel Daten aus einem Gebiet derzeit verfuegbar sind, und stellt nicht das wirkliche Ausmass des Ausbruchs in diesem Gebiet dar.
 
@@ -96,13 +96,13 @@ Zum Beispiel zeigt die Karte nur sehr geringe Sequenzierdaten aus dem globalen S
 <!-- This is left-side text 4-->
 # [Fruehe Ausbreitung in Asien](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
-Im Nachfolgenden heben wir Proben hervor, die von Dezember 2019 bis Mitte Januar 2020 genommen worden sind, da sie den ersten Monat des Virenausbruchs repraesentieren. Die Baumspitzen vertreten Proben von infizierten Individuen, waehrend jeder einzelne interne Knotenpunkt - oder Verzweigung - einen unbeprobten Fall darstellt, der den Vorgaenger von allen anderen Faellen innerhalb der nachdolgenden Klade repraesentiert. 
+Im Nachfolgenden heben wir Proben hervor, die von Dezember 2019 bis Mitte Januar 2020 genommen worden sind, da sie den ersten Monat des Ausbruchs repraesentieren. Die Baumspitzen vertreten Proben von infizierten Individuen, waehrend jeder einzelne interne Knotenpunkt - oder Verzweigung - einen unbeprobten Fall darstellt, der den Vorfahren von allen anderen Faellen innerhalb der nachdolgenden Klade repraesentiert. 
 <br><br>
-Die Baumspitzen wurden ihrem Probenursprung nach angefaerbt. Knotenpunkte (Verzweigungen) sind nach deren vermuteten (hoechstwahrscheinlichsten) Ortszugehoerigkeit des Vorgaengerfalls nach angefaerbt.
+Die Baumspitzen wurden ihrem Probenursprung nach angefaerbt. Knotenpunkte (Verzweigungen) sind nach der vermuteten (hoechstwahrscheinlichsten) Ortszugehoerigkeit des Vorgaengerfalls nach angefaerbt.
 <br><br>
-Dieser Vergleich zwischen der Lokalisation, wo eine Probe entnommen worden ist, und wo deren vorhergehende infizierte Probe zirkuliert ist, kann uns nicht nur helfen zu verstehen, wo Infektionen stattgefunden haben, sondern auch wo diese eventuell gemessen worden sind. 
+Dieser Vergleich zwischen der Lokalisation, wo eine Probe entnommen worden ist, und wo deren vorhergehende infizierte Probe zirkulierte, kann uns nicht nur helfen, zu verstehen, wo Infektionen stattgefunden haben, sondern auch wo diese eventuell gemessen worden sind. 
 <br><br>
-Der gemeinsame Vorgaenger aller im Moment zirkulierender Viren scheint aus Wuhan, China, zu stammen und innerhalb Spaetnovember und Fruehdezember aufgetaucht zu sein. Daher stammt die Mehrheit der beprobten und nachfolgenden Vorgaengerfaelle innerhalb Asiens aus dieser fruehen Periode. Dies stimmt mit dem weitverbreiteten Umlauf innerhalb Chinas und den exportierten Faellen in andere asiatische Laender innerhalb des ersten Monats der Epidemie ueberein.
+Der gemeinsame Vorfahre aller im Moment zirkulierender Viren scheint aus Wuhan, China, zu stammen und innerhalb Spaetnovember und Fruehdezember aufgetaucht zu sein. Daher stammt die Mehrheit der beprobten und nachfolgenden Vorfahrenfaelle innerhalb Asiens aus dieser fruehen Periode. Dies stimmt mit dem weitverbreiteten Umlauf innerhalb Chinas und den exportierten Faellen in andere asiatische Laender innerhalb des ersten Monats der Epidemie ueberein.
 
 <!-- There is no right side text -->
 
@@ -111,27 +111,27 @@ Der gemeinsame Vorgaenger aller im Moment zirkulierender Viren scheint aus Wuhan
 <!-- This is left-side text 5-->
 # [Anfaengliche Einschleppung in andere Regionen](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
 
-Waehrend des 2. Monats der Epidemie - von Mitte Januar bis Mitte Februar 2020 - haben wir angefangen vereinzelte Faelle in Nordamerika, Europa und Ozeaninen zu sehen. Diese anfaenglichen Faelle koennen noch immer mit Proben aus Asien gruppiert werden und mangeln Kennzeichen einer lokalen Uebertragung.
+Waehrend des zweiten Monats der Epidemie - von Mitte Januar bis Mitte Februar 2020 - haben wir angefangen, vereinzelte Faelle in Nordamerika, Europa und Ozeaninen zu sehen. Diese anfaenglichen Faelle koennen noch immer mit Proben aus Asien gruppiert werden und zeigen keine Anzeichen fuer eine lokale Uebertragung.
 <br><br>
-Das ist konsistent mit Initialzuendern, die aus der Hauptepidemie in Asien in andere Teile der Welt verbreitet worden sind. Obwohl der Grossteil nicht zu lokalen Epidemien gefuehrt hat, haben doch mindestens 3 Einfuehrungen des Virus zu verherenden Ausbruechen gefuehrt. Diese Faelle fuehrten zu den grossen Epidemien in Europa und Nordamerika, aber auch zu einer eingeschraenkten Verbreitung des Virus in Ozeanien. 
+Das stimmt ueberein mit Initialzuendern, die aus der Hauptepidemie in Asien in andere Teile der Welt verbreitet worden sind. Obwohl der Grossteil nicht zu lokalen Epidemien gefuehrt hat, haben doch mindestens drei Einfuehrungen des Virus zu verherenden Ausbruechen gefuehrt. Diese Faelle fuehrten zu den grossen Epidemien in Europa und Nordamerika, aber auch zu einer eingeschraenkten Verbreitung des Virus in Ozeanien. 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Raetselhafte anfaengliche Uebertragung in Europa](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
+# [Unbemerkte anfaengliche Uebertragung in Europa](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-Zoomt man in die Spitze des Baums zum selben Zeitpunkt, findet man einen vorhergehenden europaeischen Virus (interner Knotenpunkt), der hoechstwahrscheinlich zum grossflaechigen Ausbruch in Europa gefuehrt hat. 
+Zoomt man in die Spitze des Baumes zum selben Zeitpunkt, findet man ein vorhergehendes europaeisches Virus (interner Knotenpunkt), der hoechstwahrscheinlich zum grossflaechigen Ausbruch in Europa gefuehrt hat. 
 <br><br>
-Das deutet daraufin, dass waherend wir noch keinerlei Proben aus dieser Klade sequenziert hatten, die urspruenglichen Viren, die zur europaeischen Epidemie gefuehrt haben, unbemerkt schon zwischen Ende Januar und Beginn Februar zirkuliert sind. 
+Das deutet daraufin, dass waehrend noch keine Proben aus dieser Klade sequenziert waren, die urspruenglichen Viren, die zur europaeischen Epidemie gefuehrt haben, unbemerkt schon zwischen Ende Januar und Beginn Februar zirkuliert haben. 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Raetselhafte anfaengliche Uebertragung in Nordamerika](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
+# [Unbemerkte anfaengliche Uebertragung in Nordamerika](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-Aehnlich verhaelt es sich in Nordamerika. Wenn man in den unteren Bereich des Baums hineinzoomt, sieht man den Vorgaenger des nordamerikanischen Virus (interner Knotenpunkt), der eingeleitet hat, was spaeter zur grossen Epidemie in Nordamerika gefuehrt hat. 
+Aehnlich verhaelt es sich in Nordamerika. Wenn man in den unteren Bereich des Baumes hineinzoomt, sieht man den Vorgaenger des nordamerikanischen Virus (interner Knotenpunkt), der eingeleitet hat, was spaeter zur grossen Epidemie in Nordamerika gefuehrt hat. 
 <br><br>
-Das gibt HInweise darauf, dass obwohl wir nur einen sequenzierten Fall innerhalb dieses Clusters zu diesem Zeitpunkt haben, hat das Virus sich unbemerkt zwischen Ende Januar und Beginn Februar ausbreiten koennen.
+Das bedeutet, dass obwohl wir nur einen sequenzierten Fall innerhalb dieses Clusters zu diesem Zeitpunkt haben, sich das Virus unbemerkt zwischen Ende Januar und Beginn Februar ausbreiten koennen.
 
 <!-- There is no right side text -->
 
@@ -140,7 +140,7 @@ Das gibt HInweise darauf, dass obwohl wir nur einen sequenzierten Fall innerhalb
 <!-- This is left-side text 8-->
 # [Expansion der Epidemien in Nordamerika und Europa](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
 
-Waehrend des 3. Monats der Epidemie - von Mitte Februar bis Mitte Maerz 2020 - sind diese beiden Kluster expanidert und haben zu den grossen Epidemien innerhalb sowohl Europas als auch Nordamerikas gefuehrt.
+Waehrend des dritten Monats der Epidemie - von Mitte Februar bis Mitte Maerz 2020 - sind diese beiden Cluster expandiert und haben zu den grossen Epidemien innerhalb von Europa und Nordamerika gefuehrt.
 
 <!-- There is no right side text -->
 
@@ -149,18 +149,18 @@ Waehrend des 3. Monats der Epidemie - von Mitte Februar bis Mitte Maerz 2020 - s
 <!-- This is left-side text 9-->
 # [Grenzueberschreitende Ausbreitung](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
 
-Innerhalb jeder dieser einzelnen Regionen sehen wir eine weiterverbreitete Vermischung ueber Staatsgrenzen und internationalen Grenzen hinaus. Das konnte mittels durchmischten Proben gezeigt werden, die aus mehreren US Bundesstaaten und kanadischen Provinzen stammen. 
+Innerhalb jeder dieser einzelnen Regionen sehen wir eine weitverbreitete Vermischung ueber Staatsgrenzen und internationale Grenzen hinweg. Das konnte mittels durchmischter Proben gezeigt werden, die aus mehreren US Bundesstaaten und kanadischen Provinzen stammen. 
 <br><br>
-In [vorhergehenden Berichten](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) konnten wir ein aehnliches Muster von haeufiger Durchmischung von Virenstaemmen zwischen europaeischen Laendern finden. 
+In [vorhergehenden Berichten](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) konnten wir ein aehnliches Muster von haeufiger Durchmischung von Virusisolaten zwischen europaeischen Laendern finden. 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
 # [Einschleppung des Virus aus Nordamerika und Europa in andere Teile der Welt](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
-Die nordamerikanischen und europaeischen Cluster beschraenken sich nicht auf ihre entsprechenden Regionen. Waherendessen tauchten Faelle aus Suedamerika, Ozeanien und Afrika im Zusammenhang mit hauptsaechlich den Kladen von Europa und Nordamerika auf. Das deutet darauf hin, dass es haeufige interkontinentale Einschleppungen in diesen Regionen zu diesem Zeitpunkt gegeben hat. 
+Die nordamerikanischen und europaeischen Cluster beschraenken sich nicht auf ihre entsprechenden Regionen. Innerhalb dieses Zeitrahmen sehen wir auch Fälle aus Suedamerika, Ozeanien und Afrika vor dem Hintergrund der primär europäischen und Nord-amerikanischen Kladen. Das bedeutet, dass es haeufige interkontinentale Einschleppungen in diesen Regionen innerhalb dieses Zeitrahmens gegeben hat. 
 <br><br>
-Interessanterweise erstrecken sich die Proben aus dem globalen Sueden ueber den gesamten Baum, was eventuell eine Durchmischung mehrerer verschiedener Virenstaemme zeigt, die zur Epidemie in diesen Regionen gefeuhrt hat. 
+Interessanterweise erstrecken sich die Proben aus dem globalen Sueden ueber den gesamten Baum, was eventuell eine Durchmischung mehrerer verschiedener Viruslinien zeigt, die zur Epidemie in diesen Regionen gefeuhrt hat. 
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -169,15 +169,15 @@ Interessanterweise erstrecken sich die Proben aus dem globalen Sueden ueber den 
 
 Innerhalb des letzten Monats ist die Pandemie zu ihrem Ausgangspunkt zurueckgekehrt. Im Folgenden sehen wir eine Wiedereinfuehrung des Virus aus Europa und Nordamerika zurueck nach Asien.
 <br><br>
-Das zeigt umgehend, dass die Pandemie ein weltweiter Kampf ist; Wir muessen dazu beitragen, dass das Virus ueberall kontrolliert wird damit wir es hoffentlich ueberall beseitigen koennen.
+Das zeigt eindeutig, dass die Pandemie ein weltweiter Kampf ist; wir muessen alle dazu beitragen, dass das Virus ueberall kontrolliert wird, damit wir es hoffentlich ueberall besiegen koennen.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Takeaway](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Zusammenfassung](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 
 Regionale und nationale Epidemien sind und werden miteinander verflochten sein. 
 <br><br>
-Diese Pandemie ist ein globaler Kampf; wir sind alle gefordert bei der Kontrolle des Virus zu helfen, damit es hoffentlich jemals beseitigt werden kann. 
+Diese Pandemie ist ein globaler Kampf; wir sind alle gefordert, bei der Kontrolle des Virus zu helfen, damit es hoffentlich jemals besiegt werden kann. 
 
 
 <!-- This is the right-side text -->
@@ -214,10 +214,10 @@ Diese Pandemie ist ein globaler Kampf; wir sind alle gefordert bei der Kontrolle
 Wir moechten uns recht herzlich bei allen Forschern fuer deren Zeit und wunderbares Engagement bedanken, die in dieser Epidemie ihren unentbehrlichen Beitrag leisten. Besonders moechten wir uns bei denen bedanken, die in China die Epidemie versuchen in den Griff zu bekommen. Nur durch das schnelle Teilen von Genom- und Metadaten sind Analysen wie diese moeglich.
 
 
- GISAID f
+
 <br>
 
-Zudem moechten wir uns recht herzlich bei [GISAID](https://gisaid.org) uer die Bereitstellung der Plattform bedanken, durch die diese Daten geteilt und hochgeladen werden koennen.
+Zudem moechten wir uns recht herzlich bei [GISAID](https://gisaid.org) fuer die Bereitstellung der Plattform bedanken, durch die diese Daten geteilt und hochgeladen werden koennen.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
