@@ -63,7 +63,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- This is left-side text 2-->
 # [코로나바이러스감염증-19 관련자료](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
 코로나바이러스감염증-19와 이를 유발하는 SARS-CoV-2 바이러스(또는 hCov-19로 알려진)에 대한 몇 가지 자료를 준비했습니다. 이 정보들은 저희가 이 보고서에서 제시한 내용을 이해하는데 도움을 줄 것입니다.
-#### Nextstrain Resources  
+#### Nextstrain 관련자료
 * [여기부터 시작하세요: 계통수를 읽는 법](https://nextstrain.org/narratives/trees-background/ko).  
 * [코로나바이러스 관련 배경지식](https://nextstrain.org/help/coronavirus/human-CoV).
 * [흔한 오해들](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
