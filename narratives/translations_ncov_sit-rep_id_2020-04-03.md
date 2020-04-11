@@ -1,5 +1,5 @@
 ---
-title: 新型コロナウイルス拡散の遺伝的解析と状況報告 2020-04-03.
+title: Analisis genomik penyebaran COVID-19. Laporan keadaan per 03-04-2020.
 authors:
   - Emma Hodcroft
   - Cassia Wagner
@@ -20,20 +20,14 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
-  - Takeshi Sato
-  - Tomoyuki Nezu
-  - Fengjun Zhang
+  - Erwin Sentausa
+  - Iskandar Adnan
 translatorLinks:
-<<<<<<< HEAD
-  - 
-=======
-  - https://github.com/satotake
->>>>>>> 174f53e554c90f8afd85f6153f1ccc82aff72ff2
-  - https://twitter.com/tommy_nezy
-  - https://twitter.com/fengjun_zhang
-date: "2020年4月3日"
+  - https://www.linkedin.com/in/sentausa
+  - https://scholar.google.com/citations?user=eBn0ToYAAAAJ
+date: "3 April 2020"
 dataset: "https://nextstrain.org/ncov/2020-04-03?d=map&legend=closed"
-abstract: "このレポートでは、公開されているゲノム情報を使用して、COVID-19 の広がりを追跡しています。これらのレポートは毎週更新されます。"
+abstract: "Laporan ini menggunakan data genomik yang terbuka untuk melacak penyebaran COVID-19. Laporan ini diperbarui tiap pekan."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -41,100 +35,80 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-<<<<<<< HEAD
-# 目次(https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
+# [Daftar Isi](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
 
-* [資料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=2).     
-* [このデータについて](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=3).
-* [アフリカに関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=4).
-* [アジアに関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=7).
-* [ヨーロッパに関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=9).
-* [北米に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=12).
-* [私たちにできること](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=15).
-* [分析データのクレジット](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=16).
-=======
-# [目次](https://nextstrain.org/ncov/2020-04-03?d=tree,map&p=grid)
-
-* [資料](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=2).     
-* [このデータについて](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=3).
-* [アフリカに関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=4).
-* [アジアに関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=7).
-* [ヨーロッパに関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=9).
-* [北米に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=12).
-* [私たちにできること](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=15).
-* [分析データのクレジット](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=16).
->>>>>>> 174f53e554c90f8afd85f6153f1ccc82aff72ff2
+* [Bacaan latar belakang](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-03?n=2).     
+* [Catatan mengenai pengambilan sampel](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-03?n=3).
+* [Pembaruan untuk Afrika](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-03?n=4).
+* [Pembaruan untuk Asia](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-03?n=7).
+* [Pembaruan untuk Eropa](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-03?n=9).
+* [Pembaruan untuk Amerika Utara](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-03?n=12).
+* [Apa yang Anda dapat lakukan](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-03?n=15).
+* [Pengakuan ilmiah](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-03?n=16).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# 概要
+# Ringkasan
 
-ここでは、公に共有されている 2,544 種のゲノムを分析しました。これらのウイルスのゲノムを相互に比較することにより、COVID-19 が世界中をどのように移動しているか、地域の中でどのように拡散しているかを特徴付けることができます。今週の更新では、次の内容を報告します:
+Kami menganalisis 2.544 genom hCoV-19 yang terbuka untuk umum. Dengan membandingkan genom virus ini satu sama lain, kami dapat mengkarakterisasi bagaimana COVID-19 bergerak di seluruh dunia dan menyebar dalam masyarakat. Dalam pembaruan pekan ini, kami melaporkan:
 
-**アフリカ**  
-* セネガルで局所的に蔓延している少なくとも2つの異なる伝搬連鎖の証拠  
-* コンゴ民主共和国での継続的な地域拡散
+**Afrika**  
+* Bukti adanya setidaknya dua rantai penularan berbeda yang menyebar secara lokal di Senegal  
+* Penyebaran lokal berlanjut di Republik Demokratik Kongo  
 
-**アジア**  
-* 最近の日本への伝搬は、クルーズ船に関連しています
+**Asia**  
+* Penularan terkini ke Jepang berkaitan dengan kapal pesiar
 
-**ヨーロッパ**  
-* アイスランドにおける広範な分析を通じて、旅行者による拡散の度合いを示します
-* 旅行履歴によってオーストリアでの地域感染が示唆されます
+**Eropa**  
+* Sekuensing secara luas oleh Islandia menunjukkan tingkat penyebaran yang berkaitan dengan perjalanan
+* Riwayat perjalanan menunjukkan adanya penularan lokal di Austria
 
-**北米**   
-* 米国全体での広範な混ざり合い
-* オンタリオ州（カナダ）で蔓延している可能性のある2つの地域伝搬 
+**Amerika Utara**   
+* Percampuran meluas di seluruh AS  
+* Kemungkinan besar dua rantai penularan lokal beredar di Ontario  
 
-**その他の地域**
+**Daerah lain di dunia**
 <br>
-南米とオセアニアから新しいウイルスゲノムを受け取りました。これらの新しいサンプルのほとんどは系統樹全体に散らばっており、世界の他の地域で収集されたサンプルとグループを形成しています。ただし、より多くの状況に関する情報がないかぎり、これらの新しい遺伝子配列に関する推論を得ることはできません。
+Kami juga telah menerima sejumlah genom virus baru dari Amerika Selatan dan Oseania. Kebanyakan sampel baru ini terpencar di seluruh pohon filogenetik dan berkelompok dengan sampel dari wilayah-wilayah lain. Namun demikian, tanpa data kontekstual lebih lengkap, kami belum dapat menarik kesimpulan mengenai sekuens-sekuens baru ini.
 <br><br>
-我々はこれらの地域で追加データの生成に取り組んでいるグループを称賛します。より具体的な推論が可能になり次第、すぐにその結果を共有します。
+Kami sangat menghargai pihak-pihak yang bekerja untuk menghasilkan data tambahan untuk wilayah-wilayah ini. Jika kami sudah dapat membuat kesimpulan yang lebih spesifik, kami akan segera membagikan temuan tersebut.
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 に関する資料](https://nextstrain.org/ncov/2020-03-27)
-COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解するために、読む価値のある資料を用意しました。これらの情報は、このレポートで提示するデータの解釈に役立ちます。
-<<<<<<< HEAD
-<br><br>系統樹に詳しくない場合は[系統発生の読み方](https://nextstrain.org/narratives/trees-background/) の内容を確認した上で、次のページに進むことをお勧めします。
-=======
-<br><br>系統樹に詳しくない場合は[系統発生の読み方](https://nextstrain.org/narratives/trees-background/ja) の内容を確認した上で、次のページに進むことをお勧めします。
->>>>>>> 174f53e554c90f8afd85f6153f1ccc82aff72ff2
+# [Informasi mengenai COVID-19](https://nextstrain.org/ncov/2020-03-27)
+Kami telah menyiapkan sejumlah informasi yang dapat dibaca untuk membuat Anda lebih mengenali COVID-19 dan virus yang menyebabkannya, SARS-CoV-2, juga dikenal sebagai hCov-19.
+Informasi ini akan memudahkan interpretasi data yang kami sajikan dalam narasi ini.
+<br><br>
+Bila Anda tidak terbiasa membaca pohon filogenetik, kami sarankan Anda membaca ['Cara membaca pohon filogenetik'](https://nextstrain.org/narratives/trees-background/) dan kembali lagi ketika Anda sudah siap.
 <!-- This is right-side text -->
-
 ```auspiceMainDisplayMarkdown
 
-## Nextstrain上の資料  
+## Informasi dari Nextstrain  
 
-[系統樹の読み方](https://nextstrain.org/narratives/trees-background/ja).  
+[Cara membaca pohon filogenetik](https://nextstrain.org/narratives/trees-background/).
 
-[コロナウイルスの背景](https://nextstrain.org/help/coronavirus/human-CoV).
+[Latar belakang mengenai koronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
 
-[最近の COVID-19 流行の背景](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
+[Latar belakang mengenai wabah hCoV-19](https://nextstrain.org/help/coronavirus/SARS-CoV-2).
 
-[よくある質問と答え](https://nextstrain.org/help/coronavirus/FAQ).
+[Tanya jawab](https://nextstrain.org/help/coronavirus/FAQ).
 
-<<<<<<< HEAD
-[よくある誤解](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
-=======
-[よくある誤解](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-13?n=11).
->>>>>>> 174f53e554c90f8afd85f6153f1ccc82aff72ff2
+[Kesalahpahaman umum](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 
-## 外部の資料 
-[WHOの状況報告](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+## Informasi dari situs lain  
+[Laporan Keadaan dari WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 
-[CDC の資料](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+[Pusat Pengendalian dan Pencegahan Penyakit Amerika Serikat (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
-[The NYTimes による COVID-19 の報道](https://www.nytimes.com/news-event/coronavirus).
+[Liputan COVID-19 oleh *The New York Times*](https://www.nytimes.com/news-event/coronavirus).
 
-[Our World in Data](https://ourworldindata.org/coronavirus).
+[*Our World in Data*](https://ourworldindata.org/coronavirus).
 
-[Ask a Scientist と FAQs](https://covid19.fas.org/l/en).
+[*Ask a Scientist* ("tanyakanlah pada ilmuwan")](https://covid19.fas.org/l/en).
 
 
 ```
@@ -142,11 +116,12 @@ COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-
-# [収集されたデータについて](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
-現在、6大陸の53カ国で採取されたサンプルの遺伝子配列があります。これは信じられないほどの成果です。流行の最中に未知の大型RNAウイルスの遺伝子を解析することは難しく、世界中の科学者や医師による信じられないような作業とタイムリーなデータの共有があって初めて可能になりました。
-<br><br>このデータにより、多くの有用な特性を推測し、流行の広がりをリアルタイムで追跡することができますが、結論は利用可能なデータによって制限されることに留意して下さい。
-<br><br>例えば、この地図を見ると、南半球からの遺伝子配列が非常に少なく表示されますが、これは COVID-19 がこれらの地域で流行していないため、またはこれらの症例を理解することが重要ではないためではありません。むしろ、これらの地域からの入手可能なデータが少ないことを意味します。 マップ上の各円のサイズは、実際の流行の広がり度合いを示すというよりも、そのエリアにおいて利用可能なデータ量を示しています。
+# [Catatan mengenai sampling](https://nextstrain.org/ncov/2020-04-03?c=country&r=country&d=map&p=grid&legend=closed)
+Saat ini kami memiliki sekuens dari sampel yang diambil di 53 negara di 6 benua. Ini adalah prestasi yang luar biasa -- melakukan sekuensing virus RNA besar dan belum dikenal di tengah-tengah pandemi merupakan hal yang sulit, dan hanya mungkin dilakukan melalui kerja luar biasa dan pembagian data yang tepat waktu oleh para ilmuwan dan dokter di seluruh dunia.
+<br> <br>
+Meskipun data ini memungkinkan kami untuk menyimpulkan banyak karakteristik berguna dari wabah ini dan melacak penyebarannya secara langsung, kami harus menekankan bahwa kesimpulan kami dibatasi oleh data yang tersedia.
+<br> <br>
+Sebagai contoh, peta di samping menunjukkan hanya ada relatif sedikit sekuens dari belahan bumi selatan. Ini BUKAN karena COVID-19 tidak beredar di daerah-daerah ini, atau bahwa kasus-kasus ini tidak begitu penting untuk dipahami; melainkan, kami hanya tidak memiliki banyak data yang tersedia dari area ini. Ukuran setiap lingkaran pada peta menunjukkan berapa banyak data yang saat ini tersedia dari area itu, dan bukan ukuran wabah sebenarnya.
 
 <!-- There is NO right-side text -->
 
@@ -154,57 +129,50 @@ COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [アフリカに関するアップデート](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
+# [Pembaruan untuk Afrika](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
-今週は、セネガルとコンゴ民主共和国についての更新があります。これは、この2カ国が推論を始めるのに十分なデータがある場所という事であり、アフリカの他の場所において COVID-19 の症例がないということではありません。
+Kami memiliki pembaruan pekan ini untuk Senegal dan Republik Demokratik Kongo.
+Meskipun demikian, ini tidak berarti bahwa tidak ada kasus COVID-19 di tempat lain di Afrika; ini hanya tempat kami memiliki cukup data untuk dapat mulai membuat kesimpulan.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [セネガルで蔓延している２つの伝搬連鎖](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
+# [Dua rantai penularan lokal beredar di Senegal](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
 
-ここでは、セネガルのケースの2つのクラスターを示しています。これらのクラスターはグループ化されません。これは、それらが少なくとも2つの別々の伝搬の結果であったことを示しています。 これらのクラスターは、短期間に採取された密接に関連した症例で構成されており、局所的な伝播と一致しています。
-<<<<<<< HEAD
-<br><br>系統樹の上部に表示されるクラスターは、2月28日から3月4日の間にダカール (Dakar) で採取された症例で構成されています。これは hCoV-19 がダカール内で少なくとも1か月間蔓延している可能性が高いことを示唆しています。
-
-<br><br>系統樹の中央には、3月10日から12日間にトゥーバ (Touba) で採取された症例のクラスターがあります。これは、hCoV-19 が Touba で約3週間蔓延していた可能性があることを示唆しています。
-=======
-<br><br>
-系統樹の上部に表示されるクラスターは、2月28日から3月4日の間にダカール (Dakar) で採取された症例で構成されています。これは hCoV-19 がダカール内で少なくとも1か月間蔓延している可能性が高いことを示唆しています。
-<br><br>
-系統樹の中央には、3月10日から12日間にトゥーバ (Touba) で採取された症例のクラスターがあります。これは、hCoV-19 がトゥーバで約3週間蔓延していた可能性があることを示唆しています。
->>>>>>> 174f53e554c90f8afd85f6153f1ccc82aff72ff2
-
+Di sini, kita melihat dua klaster kasus dari Senegal. Kedua klaster ini tidak menyatu, menandakan hasil dari sekurangnya dua introduksi terpisah. Masing-masing klaster ini terdiri dari kasus-kasus terkait erat yang diambil sampelnya dalam waktu singkat, menunjukkan terjadinya penularan lokal.
+<br> <br>
+Klaster yang ditunjukkan di bagian atas pohon filogenetik terdiri dari kasus-kasus yang diisolasi di Dakar antara 28 Februari dan 4 Maret.
+Ini menunjukkan bahwa hCoV-19 kemungkinan telah beredar secara lokal di Dakar selama setidaknya 1 bulan.
+<br> <br>
+Di tengah pohon filogenetik terdapat klaster kasus yang diisolasi di Touba antara 10 Maret dan 12 Maret.
+Ini menunjukkan bahwa hCoV-19 mungkin telah beredar di Touba selama sekitar 3 pekan.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [コンゴ民主共和国での継続的な地域拡散](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
-今週コンゴ民主共和国のキンシャサ (Kinshasa) から8つの新しいゲノムを受け取りました。
+# [Penyebaran lokal berlanjut di Republik Demokratik Kongo](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Congo&f_recency=3-7%20days%20ago&label=clade:A2a&p=grid&r=division)
+Kami menerima 8 genom baru pekan ini dari Kinshasa di Republik Demokratik Kongo.
 <br><br>
-<<<<<<< HEAD
-新しいサンプルの1つを除くすべてが、[先週報告した](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16)地域的な感染拡大の系統内に集まっています。これは、コンゴ民主共和国内で進行中の地域感染が存在することを示しており、感染拡大を封じ込めるために迅速な行動をとることが必須です。
-=======
-新しいサンプルの1つを除くすべてが、[先週報告した](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-27?n=16)地域的な感染拡大の系統内に集まっています。これは、コンゴ民主共和国内で進行中の地域感染が存在することを示しており、感染拡大を封じ込めるために迅速な行動をとることが必須です。
->>>>>>> 174f53e554c90f8afd85f6153f1ccc82aff72ff2
+Semua sampel baru tersebut, kecuali satu, mengelompok di dalam klaster KLB (Kejadian Luar Biasa/perebakan penyakit, *outbreak*) lokal yang [kami laporkan pekan lalu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+Ini menunjukkan bahwa ada penularan lokal yang sedang berlangsung di Kongo, dan tindakan cepat harus diambil untuk membatasi perebakan penyakit tersebut.
 
 
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [アジアに関するアップデート](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
+# [Pembaruan untuk Asia](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Asia&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [最近の日本への伝搬は、クルーズ船に関連しています](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+# [Introduksi terkini ke Jepang berkaitan dengan kapal pesiar](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-日本から追加された最近の16種の遺伝子配列のうち、10種はナイル川のクルーズ船に乗った旅行の履歴があります。 日本で診断および採取された16種の遺伝子配列すべてが、2つのクラスターに分かれます。興味深いことに、これらのクラスターは他の日本やアジアの遺伝子配列とは関係していませんが、主に米国とヨーロッパで見られる遺伝子配列に含まれています。
-<br><br>したがって、これらの日本人旅行者は、エジプトを訪れた他のヨーロッパ人やアメリカ人から感染した可能性が高いと思われます。旅行者が日本へ帰国した後の3月中旬に遺伝子配列が採取されたことから、欧米で主に流行していた種が3月上旬に旅行者を経由して世界中に広まった事が伺えます。
-
+Dari 16 sekuens terakhir yang ditambahkan dari Jepang, 10 memiliki sejarah perjalanan dengan kapal pesiar di Sungai Nil. Setelah didiagnosis dan disampel di Jepang, keenam belas sekuens tersebut terbagi antara dua klaster. Menariknya, kedua klaster ini tidak terhubung dengan sekuens Jepang atau Asia lainnya, tetapi termasuk dalam klaster yang ditemukan terutama di AS dan Eropa.
+<br><br>
+Dengan demikian, nampaknya para wisatawan Jepang ini terinfeksi oleh galur virus yang mereka jumpai dari orang Eropa dan Amerika lainnya yang mengunjungi Mesir. Karena sekuens sampel-sampel tersebut diambil pada pertengahan Maret, setelah para pelancong itu kembali ke Jepang, ini adalah bukti bahwa varian yang beredar terutama di Eropa dan AS telah diekspor ke seluruh dunia pada awal Maret melalui perjalanan internasional.
 <!-- There is no right side text -->
 
 
@@ -212,74 +180,66 @@ COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [ヨーロッパに関するアップデート](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
+# [Pembaruan untuk Eropa](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Europe&p=grid)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [アイスランドにおける広範な分析を通じて、旅行者による拡散が示されます](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
+# [Sekuensing besar-besaran di Islandia menyorot tingkat penyebaran terkait perjalanan](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&f_country=Iceland&p=grid&d=tree,map&legend=open)
 
-<<<<<<< HEAD
-我々はアイスランドから 301 種の遺伝子配列を得ました。これはアイスランドにおいて [確認された症例]((https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf)) のうちの 25% になります。 
-
-<br><br>旅行履歴によって各サンプルを色分けすると、これらの約半分がアイスランド外で感染したことがわかりますが、半分は局所的な感染と推定されます（灰色で表示）。
+Baru-baru ini kami menerima 301 sekuens -- dari 25\% [kasus terkonfirmasi](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf) -- dari Islandia.
 <br><br>
-[先週報告 ](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5)したように、これはヨーロッパの国々での集団感染間での混合の程度を強く示しています。任意のサンプルについて、その前の感染者がどこにいたかを推論することはできますが、サンプルが採取されていない場所を経由した、間接的な伝搬の可能性を排除することはできません。
-=======
-我々はアイスランドから 301 種の遺伝子配列を得ました。これはアイスランドにおいて [確認された症例](https://www.who.int/docs/default-source/coronaviruse/situation-reports/20200402-sitrep-73-covid-19.pdf) のうちの 25% になります。 
+Jika setiap sampel diwarnai sesuai dengan riwayat perjalanannya, kita lihat hampir separuh dari infeksi ini didapat di luar Islandia, sementara sisanya diduga tertular secara lokal (warna kelabu).
 <br><br>
-旅行履歴によって各サンプルを色分けすると、これらの約半分がアイスランド外で感染したことがわかりますが、半分は局所的な感染と推定されます（灰色で表示）。
-<br><br>
-[先週報告 ](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-27?n=5)したように、これはヨーロッパの国々での集団感染間での混合の程度を強く示しています。任意のサンプルについて、その前の感染者がどこにいたかを推論することはできますが、サンプルが採取されていない場所を経由した、間接的な伝搬の可能性を排除することはできません。
->>>>>>> 174f53e554c90f8afd85f6153f1ccc82aff72ff2
+Sebagaimana [kami laporkan pekan lalu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=5), ini menggarisbawahi banyaknya percampuran antara perebakan penyakit ini di tiap negara Eropa.
+Kami dapat menyimpulkan leluhur setiap sampel yang diperiksa, namun kami tidak dapat mengesampingkan kemungkinan penularan tidak langsung dari wilayah yang tidak terambil sampelnya.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [旅行履歴が明らかにするオーストリアでの地域感染](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
+# [Riwayat perjalanan mengungkapkan terjadinya penularan lokal di Austria](https://nextstrain.org/ncov/2020-04-03?c=country_exposure&d=tree,map&f_country=Iceland&f_country_exposure=Austria&m=div&p=full)
 
-これは、まだ遺伝子配列の解析データが生成されていない場所であっても、一国による包括的な遺伝子配列解析の取り組みや旅の記録が、他の場所での状況を理解するのに役立つことを示している強力な事例でもあります。
-<<<<<<< HEAD
-<br><br>オーストリアへの旅行が報告された後にアイスランドで採取された症例を見ると、短期間に採取された密接に関連したオーストリアの症例が複数のクラスタを形成していることがわかります。これは、オーストリアへの複数の伝搬があったシナリオと最も一致しています。リンクされたシーケンスがオーストリアでの地域感染を表しているのか、同じ種(株)にさらされた後に一緒に旅行をしているパートナーを表しているのかはわかりません。
-
-<br><br>灰色で表示されていますが、ヨーロッパの異なる国々間のつながりの数は注目に値します。ほとんどのヨーロッパ諸国では複数の伝搬があるようで、ウイルスがどのようにしてヨーロッパ中に広まったのかについての「単純な」ストーリーはありません。それは何週間も前から広まっていたようです。
-=======
+Ini juga merupakan contoh yang sangat baik tentang bagaimana upaya sekuensing dan pencatatan perjalanan yang komprehensif oleh satu negara dapat membantu kita memahami situasi lokal di tempat lain, bahkan untuk tempat-tempat yang belum memiliki data sekuensing.
 <br><br>
-オーストリアへの旅行が報告された後にアイスランドで採取された症例を見ると、短期間に採取された密接に関連したオーストリアの症例が複数のクラスタを形成していることがわかります。これは、オーストリアへの複数の伝搬があったシナリオと最も一致しています。しかし、リンクされたシーケンスがオーストリアでの地域感染を表しているのか、同じウィルス株にさらされた後に一緒に旅行をしているパートナーを表しているのか、まだわかりません。
-<br><br>
-灰色で表示されていますが、ヨーロッパの異なる国々間のつながりの数は注目に値します。ほとんどのヨーロッパ諸国では複数の伝搬があるようで、ウイルスがどのようにしてヨーロッパ中に広まったのかについての「単純な」ストーリーはありません。それは何週間も前から広まっていたようです。
->>>>>>> 174f53e554c90f8afd85f6153f1ccc82aff72ff2
+Mengingat adanya kasus-kasus yang disekuensing di Islandia setelah melaporkan perjalanan ke Austria, kami melihat beberapa klaster kasus Austria yang terkait erat, disekuensing dalam waktu singkat.
+Ini paling sesuai dengan skenario adanya beberapa kali introduksi ke Austria. Kami tidak dapat memastikan apakah sekuens yang berkaitan itu mewakili penularan komunitas di Austria atau sesama pelancong yang terhubung setelah terpapar dengan galur virus yang sama.
+<br> <br>
+Meskipun ditunjukkan dalam warna kelabu, kita dapat sangat melihat banyaknya koneksi antara berbagai negara Eropa. Sebagian besar negara Eropa tampaknya mengalami beberapa kali introduksi, sehingga tidak ada skenario 'sederhana' tentang bagaimana virus ini telah menyebar ke seluruh Eropa - kemungkinan sudah menyebar secara luas beberapa pekan yang lalu.
 
 
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [北米に関するアップデート](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
+# [Pembaruan untuk Amerika Utara](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=North%20America&p=grid&legend=closed)
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [米国全体での広範な混ざり合い](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
+# [Percampuran luas di AS](https://nextstrain.org/ncov/2020-04-03?c=division&f_country=USA&m=div&r=location&d=tree,map&legend=closed)
 
-米国での集団感染の全容が明らかになるにつれ、これらの局地的な集団感染は広範囲にわたる混合の結果であること明らかになってきました。
-<br><br>初期の症例の多くは旅行に関連したものでしたが、多くの異なる州からの最近の症例は、系統樹全体でお互いに混じり合っています。
-<br><br>これは、この発生を止めるためには統一された戦略が重要であることを強調しています。
-
+Dengan semakin didapatkannya gambaran yang lebih lengkap di AS, jelas terlihat bahwa KLB terlokalisasi ini merupakan hasil dari percampuran yang luas.
+<br><br>
+Sementara kasus-kasus awal terkait riwayat perjalanan, kasus yang lebih baru dari banyak negara bagian kebanyakan membaur di sepanjang pohon filogenetiknya.   
+<br><br>
+Hal ini menegaskan pentingnya strategi terpadu untuk menghentikan perebakan penyakit tersebut.
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [オンタリオ州（カナダ）で蔓延している可能性のある2つの地域伝搬](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+# [Dua rantai penularan lokal beredar di Ontario](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
-オンタリオ州では2つのクラスターが見られます。これらのクラスターはグループ化されておらず、それぞれのクラスターは他の国のサンプルの隣に形成されています。これは2つの別々な伝搬の結果であることを示しています。
-<br><br>しかし、各クラスター内では、これらの症例のそれぞれがオンタリオ州の他の症例と最も密接に関連しており、これは地域的な感染である可能性が高いことを示しています。
-<br><br>このことから、少なくとも3月3日以降、オンタリオ州では地域への感染があった可能性が高いと推測されます。
-<br><br>興味深いことに、周囲の遺伝子配列（細い先端）のほとんどは米国のものであり、2つの国の間でかなりの混合があったことを示唆しています。
+Di sini, kita melihat dua klaster sekuens dari Ontario. Masing-masing klaster berkelompok dengan sampel dari negara lain, tidak tergabung dalam satu kelompok, menunjukkan bahwa kedua klaster ini merupakan hasil dari dua introduksi terpisah.
+<br><br>
+Meskipun demikian, masing-masing kasus dalam tiap klaster ini terhubung paling dekat dengan kasus lainnya dari Ontario, menandakan bahwa ini merupakan penularan komunitas lokal.
+<br><br>
+Dari sini, kami menyimpulkan adanya kemungkinan penularan komunitas di Ontario setidaknya sejak 3 Maret.
+<br><br>
+Yang menarik, kebanyakan sekuens di sekelilingnya (ujung samar) berasal dari AS, yang menunjukkan adanya percampuran yang signifikan antara kedua negara ini.
 <!-- There is no right side text -->
 
 
@@ -287,33 +247,33 @@ COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 15-->
-# [私たちにできること](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...個人が出来ること
-* 社会的距離を保つことを厳格に実践してください。
-* あなたが健康であるとしても、他の人を守るために社会的距離を保つことを学んで下さい。
-* 良く手を洗って下さい（辛いものを触ったあとにコンタクトレンズを交換する時のように）。
-* できるだけ家にいましょう（特に体調の悪い時は）。いくつかの追加の備品を用意しておきましょう。
-* あなたが雇用主である場合は、可能な限り自宅で仕事をするよう従業員に勧めてください。
+# [Apa yang Anda dapat lakukan](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...sebagai pribadi
+* Lakukanlah perenggangan sosial secara ketat.
+* Meskipun Anda tidak rentan, lakukanlah perenggangan sosial untuk melindungi orang lain.
+* Cucilah tangan Anda "seolah-olah Anda baru saja merajang cabe rawit dan harus mengganti lensa kontak Anda."  
+* Sedapat mungkin janganlah keluar rumah -- terutama jika Anda sakit; bersiaplah dengan sedikit tambahan persediaan kebutuhan.  
+* Jika Anda memiliki karyawan, sebisa mungkin doronglah karyawan Anda untuk bekerja dari rumah.
 
-#### ...行政機関が出来ること
-* 検査を広く、無料で利用出来るようにすること。
-* 社会的な距離をつという措置を強力にとること。
-* 広範囲な接触追跡作業に資金を提供し、実施すること。
-* 社会的距離に関する措置の影響を受ける人々を経済的に支援すること。
+#### ...sebagai pemerintah  
+* Sediakanlah tes secara gratis dengan jangkauan seluas mungkin.  
+* Terapkanlah perenggangan sosial secara tegas.
+* Danailah dan terapkanlah usaha pelacakan kontak dan isolasi secara luas.  
+* Dukunglah secara finansial orang-orang yang terdampak oleh penerapan perenggangan sosial.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# まとめ
+# Kesimpulan
 <br><br>
-#### セネガルとコンゴ民主共和国内で地域感染が確認されています。これらの脆弱な領域での感染拡大を阻止するために迅速な行動をとらなければなりません。アフリカの他の地域の状況を評価するのに十分なデータがまだありません。
+#### Kami menemukan petunjuk adanya penularan lokal di Senegal dan Kongo. Tindakan cepat harus dilakukan untuk mengatasi KLB di wilayah yang rentan ini. Kami tidak memiliki cukup data untuk dapat menganalisis keadaan di wilayah Afrika lainnya.
 <br><br><br>
-#### 日本への最近の伝搬は、クルーズ船旅行に関連しています。
+#### Introduksi terkini ke Jepang berasosiasi dengan perjalanan di kapal pesiar.
 <br><br><br>
-#### アイスランドによる広範な遺伝子配列解析により、旅行に関連した感染の広がりが明らかになり、オーストリアでの地域感染の可能性が明らかになりました。
+#### Sekuensing besar-besaran oleh Islandia menggarisbawahi luasnya penyebaran yang berkaitan dengan perjalanan dan mengungkapkan kemungkinan penularan lokal di Austria.  
 <br><br><br>
-#### 米国全体の症例が系統樹上で混じり合い、州の境界を越えて広範囲に広がっている事を示しています。また、米国とカナダの国境を越えての混合や、オンタリオ州内での地域感染の証拠があります。  
+#### Kasus di seantero AS berbaur di pohon filogenetik, menunjukkan penyebaran luas melintasi batas negara bagian. Terdapat juga petunjuk percampuran lintas AS-Kanada dan penularan lokal di Ontario.  
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -324,23 +284,20 @@ COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 16-->
-# [分析データのクレジット](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
+# [Pengakuan ilmiah](https://nextstrain.org/ncov/2020-04-03?d=map&c=author)
 
-私たちはこの感染症流行の中において、関係したすべての科学者、中国で働いている科学者による驚くべきタイムリーな研究に謝意を表します。 この分析は世界中の科学者や医師によるゲノム配列や病例に関するメタデータの共有があって可能になりました。
+Kami menyampaikan penghargaan atas kerja keras luar biasa yang telah dilakukan oleh semua ilmuwan yang terlibat dalam wabah ini, terutama mereka yang bekerja di Cina.
+Hanya melalui berbagi cepat data genomik dan metadata analisis ini dapat dilakukan.
 
 <br>
 
-<<<<<<< HEAD
-また、これらのデータをアップロードおよび共有できるプラットフォームを提供してくれた GISAID にも感謝します。
-=======
-また、これらのデータをアップロードおよび共有できるプラットフォームを提供してくれた [GISAID](https://www.gisaid.org/) にも感謝します。
->>>>>>> 174f53e554c90f8afd85f6153f1ccc82aff72ff2
+Kami juga menyampaikan penghargaan kepada GISAID yang telah menyediakan platform sehingga data ini dapat dimuat dan dibagikan.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-私たちはこれらの研修室によって集積されたデータに感謝します:
+Kami berterima kasih atas sumbangan data yang dikumpulkan oleh laboratorium-laboratorium berikut:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -659,18 +616,19 @@ COVID-19 とそれを引き起こすウイルスである SARS-CoV-2 を理解�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [分析データの詳細](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Rincian kontribusi ilmiah](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-これらのデータは [GISAID](https://gisaid.org) を介して共有されました。 彼らの貢献に感謝します。
+Data ini telah dibagikan melalui [GISAID](https://gisaid.org).
+Kami sangat menghargai dan berterima kasih atas kontribusi mereka.
 
 <br>
 
-右側に各ラボで共有される特定の遺伝子配列を示します。
+Di sebelah kanan kami mencantumkan sekuens spesifik yang dibagikan setiap lab.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Genom SARS-CoV-2 disumbangkan oleh para ilmuwan di laboratorium-laboratorium berikut:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
@@ -994,7 +952,7 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 * Centre Hospitalier des Vals d'Ardeche
 	* France/ARA094100/2020
 
-* Centre for Human and Zoonotic Virology (CHAZVY), College of Medicine University of Lagos/Lagos University Teaching Hospital (LUTH), part of the Laboratory Network of the Nigeria Centre for Disease Control (NCDC)
+* Centre for Human and Zoonotic Virology (CHAZVY), College of Medicine University of Lagos/Lagos University Teaching Hospital (LUTH), bagian dari Laboratory Network of the Nigeria Centre for Disease Control (NCDC)
 	* Nigeria/Lagos01/2020
 
 * Centre for Infectious Diseases and Microbiology - Public Health
