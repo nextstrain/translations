@@ -42,7 +42,7 @@ W tym tygodniu robimy krok do tyłu, żeby prześledzić, jak epidemia rozwijał
 * [Wczesne rozprzestrzenianie się w obrębie Azji](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
 * [Początkowa introdukcja z Azji do Ameryki Północnej, Europy i Oceanii](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
 * [Wzrost zachorowań w europejskich i północnoamerykańskich ogniskach epidemii](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [Dalsze rozprzestrzenianie przez granice międzynarodowe w obrębie regionów](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
+* [Następujące rozprzestrzenianie przez granice międzynarodowe w obrębie regionów](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
 * [Rozprzestrzenianie z Europy i Ameryki Północnej do Globalnego Południa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
 * [Zataczając koło: reintrodukcje do Azji](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
 * [Co możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
@@ -66,7 +66,7 @@ We focus on transmission dynamics _between_ regions of the world. Here, we cover
 ```auspiceMainDisplayMarkdown
 # Streszczenie
 
-Przeanalizowaliśmy 3160 dostępnych publicznie genomów COVID-19. Porównując je, potrafimy ocenić, w jaki sposób wirus SARS-CoV2 rozprzestrzenia się po świecie i wewnątrz społeczności. 
+Przeanalizowaliśmy 3160</tag> dostępnych publicznie genomów COVID-19. Porównując je, potrafimy ocenić, w jaki sposób wirus SARS-CoV2 rozprzestrzenia się po świecie i wewnątrz społeczności. 
 
 Jesteśmy w trakcie przechodzenia do bardziej szczegółowych analiz regionalnych. Możesz znaleźć więcej informacji na ten temat [tutaj](https://twitter.com/nextstrain/status/1247851469392564224), oraz jak nam pomóc [tutaj](https://twitter.com/sidneymbell/status/1247933122064207872); dziękujemy za cierpliwość w trakcie wprowadzania tych zmian.
 
@@ -108,7 +108,7 @@ Przygotowaliśmy materiały online, które ułatwią interpretowanie przygotowan
 
 <!-- This is left-side text 3-->
 # [Opis próbkowania](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
-Obecnie dysponujemy sekwencjami próbek pobranych w 57 krajach z 6 kontynentów. To niesamowity wyczyn -- sekwencjonowanie nieznanego wirusa o sporym genomie RNA w środku pandemii jest trudne i możliwe jedynie dzięki ogromnej pracy i sprawnemu udostępnianiu danych przez naukowców i lekarzy z całego świata.
+Obecnie dysponujemy sekwencjami próbek pobranych w 57</tag> krajach z 6 kontynentów. To niesamowity wyczyn -- sekwencjonowanie nieznanego wirusa o sporym genomie RNA w środku pandemii jest trudne i możliwe jedynie dzięki ogromnej pracy i sprawnemu udostępnianiu danych przez naukowców i lekarzy z całego świata.
 <br><br>
 Choć zgromadzone dane umożliwiają wyciąganie wniosków na temat wielu przydatnych aspektów epidemii oraz pozwalają śledzić jej rozprzestrzenianie w czasie rzeczywistym, należy podkreślić, że nasze wnioski są ograniczone dostępnością danych.
 <br><br>
@@ -187,7 +187,7 @@ This indicates that while we hadn't yet sequenced any samples from this clade, t
 
 Podobnie, powiększając dolną część drzewa, widzimy przodka północnoamerykańskiego wirusa (wewnętrzny węzeł), który zapoczątkował duże ognisko epidemii w Ameryce  Północnej.
 <br><br>
-To wskazuje, że choć mamy sekwencję z tylko jednej próbki z tego kladu, niewykryty wirus krążył w Ameryce Północnej od późnego stycznia lub wczesnego lutego.
+To wskazuje, że choć mamy sekwencję tylko jednej próbki z tego kladu, niewykryty wirus krążył w Ameryce Północnej od późnego stycznia lub wczesnego lutego.
 
 <!-- Similarly, zooming in to the bottom of the tree, we see an ancestral North American virus (internal node) that initiated what would later become a large outbreak in North America.
 <br><br>
