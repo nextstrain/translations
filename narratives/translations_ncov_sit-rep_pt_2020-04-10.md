@@ -33,7 +33,7 @@ abstract: "Esse relatório utiliza dados genômicos compartilhados publicamente 
 
 Nesta semana, demos um passo atrás para rastrear como o surto se desenrolou, mês a mês. Nos concentramos na dinâmica de transmissão entre regiões pelo mundo. Aqui, abordamos:  
 <br>
-* [Background and resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
+* [Fontes e Recursos](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
 * [Observação sobre amostragem](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
 * [Propagação inicial na Ásia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
 * [Introduções iniciais da Ásia na América do Norte, Europa e Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
@@ -59,37 +59,37 @@ Estamos em um processo de transição para atuar especificamente com análises c
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [Fontes sobre COVID-19](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
+Preparamos alguns materiais que tornarão mais fácil a interpretação dos dados apresentados nessa narrativa.
+#### Materiais da Nextstrain  
+* [COMECE AQUI: Como interpretar árvores filogenéticas](https://nextstrain.org/narratives/trees-background/pt).  
+* [Informações acerca dos coronavírus](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Equívocos comuns](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+#### Materiais Externos
+* [Relatórios de situação da OMS](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Materiais do CDC (Centro de Controle de Doenças/EUA)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Cobertura do NY Times sobre a COVID-19](https://www.nytimes.com/news-event/coronavirus).
+* [Pergunte a um cientista & Perguntas Frequentes](https://covid19.fas.org/l/en).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 57 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Observação sobre amostragem](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+Atualmente temos amostras sequenciadas em 57 países entre 6 continentes. Isso é um feito incrível — sequenciar um vírus de RNA longo e desconhecido em meio a uma pandemia é difícil, e só é possível através do incrível trabalho e rápido compartilhamento de dados por cientistas e médicos em todo o mundo.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+Embora esses dados nos permitam inferir muitas características úteis do surto e rastrear seu espalhamento em tempo real, é importante enfatizar que nossas conclusões são limitadas pela quantidade de dados disponíveis no momento.
 <br><br>
-For example, the map shows very few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+Por exemplo, o mapa mostra muitas poucas sequências do hemisfério sul. Isso NÃO É porque o COVID-19 não está circulando nessas áreas, ou que esses casos não sejam importantes para entender a epidemia; pelo contrário, apenas não temos muitos dados disponíveis dessas áreas. O tamanho de cada círculo no mapa indica a quantidade de dados atualmente disponíveis sobre essa área, e não o tamanho real do surto.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Early spread within Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
+# [Propagação inicial na Ásia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
 Here, we highlight samples from mid-December 2019 through mid-January 2020, during the first month of the outbreak.
 Tips of the tree represent samples from infected individuals.
@@ -108,7 +108,7 @@ This is consistent with circulation largely within China and some exported cases
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Initial introductions to other regions](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
+# [Introduções iniciais em outras regiões](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
 
 During the 2nd month of the outbreak, from mid-January to mid-February 2020, we start to see individual cases crop up in North America, Europe and Oceania.
 These early cases still group with samples from Asia, and generally lack the hallmarks of local transmission.
@@ -118,7 +118,7 @@ This is consistent with initial sparks being thrown from the main outbreak in As
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Initial cryptic transmission in Europe](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
+# [Transmissão inicial enigmática na Europa](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
 Zooming in to the top of the tree for the same time period, we see an ancestral European virus (internal node) that seeded the large European outbreak.
 <br><br>
@@ -127,7 +127,7 @@ This indicates that while we hadn't yet sequenced any samples from this clade, t
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Initial cryptic transmission in North America](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
+# [Transmissão inicial enigmática na América do Norte](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
 Similarly, zooming in to the bottom of the tree, we see an ancestral North American virus (internal node) that initiated what would later become a large outbreak in North America.
 <br><br>
@@ -137,7 +137,7 @@ This indicates that although we only had 1 sequenced case from this cluster at t
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Expansion of North American and European outbreaks](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
+# [Expansão dos surtos na América do Norte & Europa](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
 
 During the 3rd month of the outbreak, from mid-February to mid-March 2020, these two clusters expanded to cause large outbreaks within Europe and North America, respectively.
 <!-- There is no right side text -->
@@ -145,7 +145,7 @@ During the 3rd month of the outbreak, from mid-February to mid-March 2020, these
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Spread across international borders](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
+# [Disseminação através de fronteiras internacionais](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
 
 Within each of these regions, we see widespread mixing across state lines and international borders.
 This is demonstrated here by the intermingling of samples from multiple U.S. states and Canadian provinces.
@@ -155,7 +155,7 @@ We've [previously reported](https://nextstrain.org/narratives/ncov/sit-rep/2020-
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Introductions from North America & Europe to other parts of the globe](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
+# [Introduções oriundas da Europa e América do Norte em outras partes do globo](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
 The North American and European clusters are not restricted to their respective regions. During this time period, we also see cases from South America, Oceania, and Africa against a backdrop of primarily European and North American clades. This indicates that there were frequent intercontinental introductions during this time period.
 <br><br>
@@ -164,7 +164,7 @@ Interestingly, samples from the global south span the full breadth of the tree, 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Coming full circle: reintroductions to Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
+# [Fechando o círculo: Reintroduções na Ásia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
 
 In the last month, the pandemic has come full circle. Here, we see re-introductions from Europe and North America back to Asia.
 <br><br>
@@ -173,7 +173,7 @@ This resoundingly demonstrates that this pandemic is a global fight; we all must
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Takeaway](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Conclusões](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 
 Regional and national outbreaks are and will be deeply intertwined.
 <br><br>
@@ -183,16 +183,16 @@ This pandemic is a global fight; we all must help control this virus everywhere 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# What you can do
+# O que você pode fazer
 
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
+#### ... como um indivíduo
+* Pratique distanciamento social estrito, especialmente se você faz parte de algum grupo de risco.
 * Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
 * Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
 * Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
 * If you are an employer, encourage your employees to work from home wherever possible.
 
-#### ...as an official  
+#### ... como funcionário do governo
 * Make testing free and broadly available.  
 * Put strong social distancing measures in place.  
 * Fund and implement extensive contact tracing efforts.  
@@ -209,20 +209,19 @@ This pandemic is a global fight; we all must help control this virus everywhere 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [Crédito científico](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Gostaríamos de reconhecer o trabalho incrível e oportuno realizado por todos os cientistas envolvidos nesse surto, sobretudo os que estão trabalhando na China. Somente com o compartilhamento rápido de dados genômicos e de metadados é que tais análises foram possíveis.
 
 <br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+Também agradecemos a [GISAID](https://gisaid.org) por fornecer a plataforma pela qual esses dados podem ser inseridos e compartilhados.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Somos gratos pelos dados coletados pelos seguintes laboratórios:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -627,19 +626,18 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Crédito cientifíco detalhado](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Esses dados foram compartilhados através da [GISAID](https://gisaid.org). Agradecemos as suas contribuições com profunda gratidão.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+A direita, especificamos quais sequências foram compartilhadas por quais laboratórios.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Os genomas de SARS-CoV-2 foram generosamente cedidos por cientistas desses laboratórios:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
