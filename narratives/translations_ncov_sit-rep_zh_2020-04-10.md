@@ -92,14 +92,21 @@ We are in the process of moving to more specific, regionally-focused analyses. Y
 <!-- This is left-side text 4-->
 # [亚洲的早期传播Early spread within Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
-Here, we highlight samples from mid-December 2019 through mid-January 2020, during the first month of the outbreak.
+这里显示的是疫情发生的第一个月，2019年12月中旬到2020年1月中旬的样本。
+树末端的圆点代表采到的患者样本。
+每个内部节点，又叫分支点，代表着一个未被取样到的病例，它是那一支的所有病毒的共同祖先。
 Tips of the tree represent samples from infected individuals.
 Each internal node, or branch point, represents an unsampled case, which was the ancestor of all of the other cases within the descendant clade.
 <br><br>
+末端的圆点是根据取样地点而着色，内部节点（分支点）是根据所推测的（最有可能的）祖先病毒株的地理位置所着色。
 Tips are colored according to where they were sampled from; nodes (branch points) are colored by the inferred (most likely) location of the ancestral case.
 <br><br>
+我们可以把序列所被取样到的地理位置，和它的祖先的地理位置作比较，来理解不仅感染在哪里发生，而且它们可能是从哪里传染到的。
 Comparing where a sequence was isolated from geographically to where its ancestors were circulating can help us understand not only where infections are occurring, but also where they may have been acquired.
 <br><br>
+目前流行的病毒的共同祖先看起来是在中国武汉出现的，在2019年11月下旬或12月上旬。
+因此，在这段时间内，大部分取样到的和推断出的祖先病例位于亚洲。
+这支持，在疫情发生的第一个月，病毒主要在中国境内传播，和有一些到亚洲其他国家的输出病例。
 The common ancestor of circulating viruses appears to have emerged in Wuhan, China, in late Nov or early Dec 2019.
 Accordingly, the majority of sampled and inferred ancestral cases were located in Asia during this early period.
 This is consistent with circulation largely within China and some exported cases to other countries in Asia for the first month of the outbreak.  
@@ -109,46 +116,51 @@ This is consistent with circulation largely within China and some exported cases
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Initial introductions to other regions](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
+# [早期的输出病例Initial introductions to other regions](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
 
-During the 2nd month of the outbreak, from mid-January to mid-February 2020, we start to see individual cases crop up in North America, Europe and Oceania.
+在疫情的第二个月，从2020年的1月中旬到2月中旬，我们开始看到在北美、欧洲和大洋洲出现了一些散发病例。During the 2nd month of the outbreak, from mid-January to mid-February 2020, we start to see individual cases crop up in North America, Europe and Oceania.
+这些早期病例仍然和亚洲的病例聚在一起，并且大体上缺乏本地传播的特征。
 These early cases still group with samples from Asia, and generally lack the hallmarks of local transmission.
 <br><br>
+这支持，早期的火星从亚洲的主战场传到了世界其他地区。虽然这些火星大部分都没有引起本地疫情，至少有三个输入事件引起了爆发，导致了欧洲和北美的大型爆发和大洋洲的局部传播。
 This is consistent with initial sparks being thrown from the main outbreak in Asia to other parts of the world. Although most of these sparks did not result in localized outbreaks, at least three of these introductions took off. These led to the large European and North American outbreaks, as well as more restricted spread in Oceania.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Initial cryptic transmission in Europe](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
+# [欧洲早期的未知传播Initial cryptic transmission in Europe](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-Zooming in to the top of the tree for the same time period, we see an ancestral European virus (internal node) that seeded the large European outbreak.
+在同一时间区间中，我们把树的上部放大，可以看到一个欧洲的祖先型（内部节点）引发了欧洲的大规模爆发。Zooming in to the top of the tree for the same time period, we see an ancestral European virus (internal node) that seeded the large European outbreak.
 <br><br>
+这意味着，虽然我们当时没有测序到这一支的任何样本，在1月下旬或2月上旬之前，欧洲疫情的源头就疫情在未被察觉的情况下传播了。
 This indicates that while we hadn't yet sequenced any samples from this clade, the origins of the European outbreak were already circulating undetected by late January or early February.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Initial cryptic transmission in North America](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
+# [北美初期的未知传播Initial cryptic transmission in North America](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-Similarly, zooming in to the bottom of the tree, we see an ancestral North American virus (internal node) that initiated what would later become a large outbreak in North America.
+与之相似，我们把树的下部放大，可以看到一株北美的祖先型（内部节点）引发了后来北美的大规模爆发。Similarly, zooming in to the bottom of the tree, we see an ancestral North American virus (internal node) that initiated what would later become a large outbreak in North America.
 <br><br>
+这表明，虽然我们那时只测了这一簇序列中的一个病例，病毒已经在1月下旬或2月上旬之前就已经在未被察觉的情况下在北美传播了。
 This indicates that although we only had 1 sequenced case from this cluster at the time, the virus was circulating undetected within North America by late January or early February.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Expansion of North American and European outbreaks](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
+# [疫情在北美和欧洲的扩散](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
 
-During the 3rd month of the outbreak, from mid-February to mid-March 2020, these two clusters expanded to cause large outbreaks within Europe and North America, respectively.
+在疫情的第三个月，从2020年2月中旬到3月中旬，这两簇病毒的扩散分别在欧洲和北美引起了大规模爆发。
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Spread across international borders](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
+# [跨国传播](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
 
-Within each of these regions, we see widespread mixing across state lines and international borders.
+在各个地区的内部，我们看到了广泛的，在美国各州之间和各个国家之间的传播。Within each of these regions, we see widespread mixing across state lines and international borders.
+
 This is demonstrated here by the intermingling of samples from multiple U.S. states and Canadian provinces.
 <br><br>
 We've [previously reported](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) on a similar pattern of frequent mixing of viral lineages between European countries.
