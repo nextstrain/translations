@@ -37,7 +37,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- This is left-side text 1-->
 # [概要](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-今週は、感染拡大がどのように発生したかを月ごとに追跡しています。 私たちは世界の_地域間_での伝播動態に焦点を当てています。 ここでは、以下を取り上げます:
+今週は、感染拡大がどのように発生したかを月ごとに追跡しています。 私たちは世界の _地域間_ での伝播動態に焦点を当てています。 ここでは、以下を取り上げます:
 <br>
 
 * [資料](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=2).
