@@ -37,7 +37,7 @@ abstract: "このレポートでは、公開されているゲノム情報を使
 <!-- This is left-side text 1-->
 # [概要](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-今週は、感染拡大がどのように発生したかを月ごとに追跡しています。 私たちは世界の地域間での伝播の仕方に焦点を当てています。 ここでは、以下を取り上げます:  (translator note: Both "transmission" and "dynamics" can be translated into Japanese, but I couldn't known a suitable translation when combining the two. I translated "transmission dynamics" to "伝播の仕方") 
+今週は、感染拡大がどのように発生したかを月ごとに追跡しています。 私たちは世界の_地域間_での伝播動態に焦点を当てています。 ここでは、以下を取り上げます:
 <br>
 
 * [資料](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=2).
