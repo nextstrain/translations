@@ -1,6 +1,6 @@
 ---
 title: Genomische Analyse der Verbreitung von COVID-19. Lagebericht vom 2020-04-10.
-Autoren:
+authors:
   - Sidney M. Bell
   - Nicola Müller
   - Cassia Wagner
@@ -8,7 +8,7 @@ Autoren:
   - James Hadfield
   - Richard Neher
   - Trevor Bedford
-Links zu den Autoren
+authorLinks
   - https://twitter.com/sidneymbell
   - https://bedford.io/team/nicola-mueller/
   - https://bedford.io/team/cassia-wagner/
@@ -16,12 +16,12 @@ Links zu den Autoren
   - https://bedford.io/team/james-hadfield/
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
-Zugehoerigkeiten: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-Uebersetzer: Elisabeth Hirth
-Links zu den Uebersetzern: https://bsse.ethz.ch/department/people/detail-person.MjM4ODcw.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html
-Datum: "9. April 2020"
+affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
+translators: Elisabeth Hirth
+translatorLinks: https://bsse.ethz.ch/department/people/detail-person.MjM4ODcw.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html
+date: "2020 April 9"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
-Kurzfassung: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von COVID-19 zu beschreiben, und wird wöchentlich aktualisiert."
+abstract: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von COVID-19 zu beschreiben, und wird wöchentlich aktualisiert."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
