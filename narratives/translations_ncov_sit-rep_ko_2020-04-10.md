@@ -19,8 +19,10 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators: 
   - Taehoon Ha
+  - Minkyu Kim
 translatorLinks:
   - https://taehoonh.github.io
+  - https://twitter.com/minkyuxyz
 date: "2020 April 9"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
 abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
@@ -33,7 +35,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- This is left-side text 1-->
 # [개요](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-이번 주, 저희는 한 걸음 뒤로 물러나 유행이 어떻게 전개되어 왔는지를 월 별로 추적해 보았습니다.
+이번 주, 저희는 한 걸음 뒤로 물러나 유행이 어떻게 전개되어 왔는지를 월별로 추적해 보았습니다.
 세계의 지역 _간_ 전파가 어떻게 이루어져 왔는지에 집중했습니다. 이번 보고서에서는 다음과 같은 내용을 다룹니다: 
 <br>
 * [배경지식](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
@@ -95,9 +97,9 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 이 슬라이드에는 유행 첫 달인 2019년 12월 중순부터 2020년 1월 중순까지의 사례들을 표시했습니다. 
 계통수 끝 부분은 감염된 개개인들의 사례들을 의미합니다.
-각 내부 노드 (또는 분기점)는 수집되지 않은 사례들을 나타내며, 이는 하위 분기군 내 모든 표본들의 조상입니다. 
+각 내부 노드(또는 분기점)는 수집되지 않은 사례들을 나타내며, 이는 하위 분기군 내 모든 표본들의 조상입니다. 
 <br><br>
-계통수 끝부분은 표본 수집이 이루어진 위치에 따라 색을 다르게 표시했습니다. 노드 (분기점)는 조상이 되는 사례의 위치에 근거하여 유추된 (가장 확률이 높은) 지역의 색깔로 표시했습니다.
+계통수 끝부분은 표본 수집이 이루어진 위치에 따라 색을 다르게 표시했습니다. 노드(분기점)는 조상이 되는 사례의 위치에 근거하여 유추된 (가장 확률이 높은) 지역의 색깔로 표시했습니다.
 <br><br>
 한 표본이 어디에서 지리적으로 고립되었는지를 이 표본의 조상들이 어느 지역에서 순환했는지와 비교해보면, 어느 지역에서 감염이 일어나고 있는지를 알 수 있을뿐만 아니라 어디에서 전염이 되었는지를 파악하는 데에도 도움이 됩니다.
 <br><br>
@@ -115,14 +117,14 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 유행이 시작된 지 2개월 차에 접어든 동안 (2020년 1월 중순에서 2월 중순까지), 유럽 및 오세아니아에서 개별적인 사례들이 발생하기 시작했던 것을 확인할 수 있습니다.
 이런 초기 사례들은 여전히 아시아의 사례들과 한데 묶였으며, 일반적으로 지역사회 전파의 특징을 보이지 않았습니다.
 <br><br>
-이는 아시아에서의 주된 유행으로부터 전세계의 다른 지역들로 던져진 초기 불씨가 되었다는 해석과 일맥상통 합니다. 대부분의 이런 불씨들이 각 지역에서의 유행으로 이어지지는 않았지만, 이 유입들 중 적어도 3건이 지역사회 유행을 촉발시켰습니다. 이로 인해 오세아니아에서의 제한적인 확산뿐만 아니라 유럽 및 북아메리카 내에서 대유행이 발생하게 되었습니다.
+이는 아시아에서의 주된 유행으로부터 전세계의 다른 지역들로 던져진 초기 불씨가 되었다는 해석과 일맥상통합니다. 대부분의 이런 불씨들이 각 지역에서의 유행으로 이어지지는 않았지만, 이 유입들 중 적어도 3건이 지역사회 유행을 촉발시켰습니다. 이로 인해 오세아니아에서의 제한적인 확산뿐만 아니라 유럽 및 북아메리카 내에서 대유행이 발생하게 되었습니다.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
 # [파악이 힘든 유럽의 초기 전파](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-같은 기간 동안의 계통수 상단을 확대해 보면, 나중에 유럽 대유행의 시초가 되는 유럽의 조상 바이러스 (내부 노드)를 확인할 수 있습니다. 
+같은 기간 동안의 계통수 상단을 확대해 보면, 나중에 유럽 대유행의 시초가 되는 유럽의 조상 바이러스(내부 노드)를 확인할 수 있습니다. 
 <br><br>
 이 시점에서 저희는 이 분기군에서 단 1개의 염기서열 자료도 가지고 있지 않았지만, 1월 말 또는 2월 초까지 유럽 유행의 시초를 발견하지 못했다는 것을 보여줍니다.
 <!-- There is no right side text -->
@@ -131,7 +133,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- This is left-side text 7-->
 # [파악이 힘든 북아메리카의 초기 전파](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-이와 유사하게, 계통수의 하단을 확대해서 보면, 나중에 북아메리카 대유행의 시발점이 된 북아메리카의 조상 바이러스 (내부 노드)를 확인할 수 있습니다. 
+이와 유사하게, 계통수의 하단을 확대해서 보면, 나중에 북아메리카 대유행의 시발점이 된 북아메리카의 조상 바이러스(내부 노드)를 확인할 수 있습니다. 
 <br><br>
 이 시점에서 저희는 이 사례군에서 1개의 염기서열 자료만을 가지고 있었지만, 1월 말 또는 2월 초까지 북아메리카 내에서 바이러스가 발견되지 않았음을 보여줍니다.
 <!-- There is no right side text -->
@@ -149,8 +151,8 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- This is left-side text 9-->
 # [국경을 넘어 확산이 일어남](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
 
-이 각각의 지역들에서, 주의 경계와 국경을 넘어 광범위하게 뒤섞인 것을 확인할 수 있습니다.
-여러 미국 주와 캐나다 지방의 사례들을 통해 이 뒤섞임을 보여주고 있습니다.
+이 각각의 지역들에서, 주 경계와 국경을 넘어 광범위하게 뒤섞인 것을 확인할 수 있습니다.
+미국의 여러 주와 캐나다의 여러 주의 사례들을 통해 이 뒤섞임을 보여주고 있습니다.
 <br><br>
 저희는 이와 비슷한 패턴으로 유럽 국가들 사이에서 바이러스 계통들이 빈번히 뒤섞이는 것을 [이전에 보고](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) 했던 적이 있습니다.
 <!-- There is no right side text -->
@@ -161,16 +163,16 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 북아메리카 및 유럽의 사례군들은 각각의 지역들에 국한되지 않습니다. 이 기간 동안, 저희는 남아메리카, 오세아니아 및 아프리카 사례들이 주로 유럽 및 북아메리카 지역의 분기군으로부터 온 것을 확인했습니다. 이를 통해, 해당 기간 동안 대륙 간 유입이 빈번하게 발생했음을 알 수 있었습니다.
 <br><br>
-하나 흥미로운 점은, 남반구에서 수집한 표본은 계통수 전체에 걸쳐 고루 분포해 있으며, 이 지역에서의 유행은 여러 바이러스 계통들끼리 뒤섞여 나타나게 된 산물입니다.
+흥미로운 점은, 남반구에서 수집한 표본은 계통수 전체에 걸쳐 고루 분포해 있으며, 이 지역에서의 유행은 여러 바이러스 계통들끼리 뒤섞여 나타나게 된 산물이라는 것입니다.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
 # [돌고 돌아 다시 원점으로: 아시아로의 재유입](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
 
-지난 달, 이 판데믹은 세계를 한 바퀴 돌고 다시 원점으로 돌아왔습니다. 이 슬라이드를 통해 우리는 유럽과 북아메리카에서 아시아로 재유입된 것을 확인할 수 있습니다.
+지난 달, 이 팬데믹은 세계를 한 바퀴 돌고 다시 원점으로 돌아왔습니다. 이 슬라이드를 통해 우리는 유럽과 북아메리카에서 아시아로 재유입된 것을 확인할 수 있습니다.
 <br><br>
-이는 이 판데믹이 세계적인 싸움이라는 것을 분명하게 알려줍니다. 전세계에서 이 바이러스가 퇴치되는 것을 원한다면, 모두 함께 이 바이러스가 퍼지지 않도록 협조해야 할 것입니다.
+이는 이 팬데믹이 세계적인 싸움이라는 것을 분명하게 알려줍니다. 전세계에서 이 바이러스가 퇴치되는 것을 원한다면, 모두 함께 이 바이러스가 퍼지지 않도록 협조해야 할 것입니다.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
@@ -178,7 +180,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 지역적인 유행과 국가적인 유행은 서로 깊게 얽혀있을 것입니다.
 <br><br>
-이 판데믹은 세계적인 싸움입니다. 전세계에서 이 바이러스가 퇴치되는 것을 원한다면, 모두 함께 이 바이러스가 퍼지지 않도록 협조해야 할 것입니다.
+이 팬데믹은 세계적인 싸움입니다. 전세계에서 이 바이러스가 퇴치되는 것을 원한다면, 모두 함께 이 바이러스가 퍼지지 않도록 협조해야 할 것입니다.
 
 
 <!-- This is the right-side text -->
