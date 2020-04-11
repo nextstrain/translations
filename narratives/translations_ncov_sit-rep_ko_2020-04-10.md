@@ -17,7 +17,7 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: 
+translators:
   - Taehoon Ha
   - Minkyu Kim
 translatorLinks:
@@ -25,7 +25,7 @@ translatorLinks:
   - https://twitter.com/minkyuxyz
 date: "2020 April 9"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19의 전파를 추적합니다. 이 보고서는 매주 업데이트 됩니다."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -36,18 +36,18 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 # [개요](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
 이번 주, 저희는 한 걸음 뒤로 물러나 유행이 어떻게 전개되어 왔는지를 월별로 추적해 보았습니다.
-세계의 지역 _간_ 전파가 어떻게 이루어져 왔는지에 집중했습니다. 이번 보고서에서는 다음과 같은 내용을 다룹니다: 
+세계의 지역 _간_ 전파가 어떻게 이루어져 왔는지에 집중했습니다. 이번 보고서에서는 다음과 같은 내용을 다룹니다:
 <br>
-* [배경지식](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [데이터 수집 관련 사항](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [초기 아시아 내에서의 전파](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [초기 아시아에서 북아메리카, 유럽, 오세아니아로의 유입](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [북아메리카와 유럽의 유행 확산](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [추후 몇몇 지역에서 국경을 넘어 확산이 이루어짐](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [유럽과 북아메리카에서 남반구로 전파](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [돌고 돌아 다시 원점으로: 아시아로의 재유입](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [우리가 할 수 있는 것들](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [과학적 기여](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [배경지식](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=2).
+* [데이터 수집 관련 사항](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=3).
+* [초기 아시아 내에서의 전파](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=4).
+* [초기 아시아에서 북아메리카, 유럽, 오세아니아로의 유입](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=5).  
+* [북아메리카와 유럽의 유행 확산](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=8).  
+* [추후 몇몇 지역에서 국경을 넘어 확산이 이루어짐](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=9).
+* [유럽과 북아메리카에서 남반구로 전파](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=10).  
+* [돌고 돌아 다시 원점으로: 아시아로의 재유입](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=11).
+* [우리가 할 수 있는 것들](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=12).
+* [과학적 기여](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -68,7 +68,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 #### Nextstrain 관련자료
 * [여기부터 시작하세요: 계통수를 읽는 법](https://nextstrain.org/narratives/trees-background/ko).  
 * [코로나바이러스 관련 배경지식](https://nextstrain.org/help/coronavirus/human-CoV).
-* [흔한 오해들](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [흔한 오해들](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-13?n=11).
 
 #### 외부 자료
 * [WHO 상황 보고서](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
@@ -95,15 +95,15 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- This is left-side text 4-->
 # [초기 아시아 내에서의 확산](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
-이 슬라이드에는 유행 첫 달인 2019년 12월 중순부터 2020년 1월 중순까지의 사례들을 표시했습니다. 
+이 슬라이드에는 유행 첫 달인 2019년 12월 중순부터 2020년 1월 중순까지의 사례들을 표시했습니다.
 계통수 끝 부분은 감염된 개개인들의 사례들을 의미합니다.
-각 내부 노드(또는 분기점)는 수집되지 않은 사례들을 나타내며, 이는 하위 분기군 내 모든 표본들의 조상입니다. 
+각 내부 노드(또는 분기점)는 수집되지 않은 사례들을 나타내며, 이는 하위 분기군 내 모든 표본들의 조상입니다.
 <br><br>
 계통수 끝부분은 표본 수집이 이루어진 위치에 따라 색을 다르게 표시했습니다. 노드(분기점)는 조상이 되는 사례의 위치에 근거하여 유추된 (가장 확률이 높은) 지역의 색깔로 표시했습니다.
 <br><br>
 한 표본이 어디에서 지리적으로 고립되었는지를 이 표본의 조상들이 어느 지역에서 순환했는지와 비교해보면, 어느 지역에서 감염이 일어나고 있는지를 알 수 있을뿐만 아니라 어디에서 전염이 되었는지를 파악하는 데에도 도움이 됩니다.
 <br><br>
-순환 중인 바이러스의 공통 조상은 2019년 11월 말 또는 12월 초에 중국 우한에서 나타난 것으로 보입니다. 
+순환 중인 바이러스의 공통 조상은 2019년 11월 말 또는 12월 초에 중국 우한에서 나타난 것으로 보입니다.
 따라서, 이 기간 동안 수집되고 유추된 대부분의 초기 사례들은 아시아에 자리잡고 있었습니다.
 이는 주로 중국 내에서 유통되었으며, 일부는 유행 첫 달 동안 다른 아시아 국가로 전파된 사례들과 일치합니다.
 
@@ -124,7 +124,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- This is left-side text 6-->
 # [파악이 힘든 유럽의 초기 전파](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-같은 기간 동안의 계통수 상단을 확대해 보면, 나중에 유럽 대유행의 시초가 되는 유럽의 조상 바이러스(내부 노드)를 확인할 수 있습니다. 
+같은 기간 동안의 계통수 상단을 확대해 보면, 나중에 유럽 대유행의 시초가 되는 유럽의 조상 바이러스(내부 노드)를 확인할 수 있습니다.
 <br><br>
 이 시점에 저희는 이 분기군에서 단 1개의 염기서열 자료도 가지고 있지 않았지만, 1월 말 또는 2월 초까지 유럽 유행의 시초를 발견하지 못했다는 것을 보여줍니다.
 <!-- There is no right side text -->
@@ -133,7 +133,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- This is left-side text 7-->
 # [파악이 힘든 북아메리카의 초기 전파](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-이와 유사하게, 계통수의 하단을 확대해서 보면, 나중에 북아메리카 대유행의 시발점이 된 북아메리카의 조상 바이러스(내부 노드)를 확인할 수 있습니다. 
+이와 유사하게, 계통수의 하단을 확대해서 보면, 나중에 북아메리카 대유행의 시발점이 된 북아메리카의 조상 바이러스(내부 노드)를 확인할 수 있습니다.
 <br><br>
 이 시점에서 저희는 이 사례군에서 1개의 염기서열 자료만을 가지고 있었지만, 1월 말 또는 2월 초까지 북아메리카 내에서 바이러스가 발견되지 않았음을 보여줍니다.
 <!-- There is no right side text -->
@@ -631,14 +631,13 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [과학적 기여: 상세 내역](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+이 데이터는 [GISAID](https://gisaid.org)를 통해 공유되었습니다. 그들에게 감사의 뜻을 전합니다.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+우측에 각 연구실이 기여한 구체적인 서열 정보가 있습니다.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
