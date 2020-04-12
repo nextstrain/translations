@@ -23,7 +23,7 @@ translators:
 translatorLinks:
   - https://xueyingcli.weebly.com/
   - https://twitter.com/fengjun_zhang
-date: "2020 April 9"
+date: "2020 April 10"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
 abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-19）基因组数据来追踪疫情的传播，此报告将每周更新。"
 ---
@@ -37,16 +37,16 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 
 在本周的报告中，我们逐月回顾疫情发展的过程，重点关注疫情是如何在世界各个地区**之间**传播的。内容包括：  
 <br>
-* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [关于抽样](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [在亚洲地区内部的早期传播](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [最早从亚洲输入到北美、欧洲和大洋洲的病例](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [北美和欧洲疫情的扩散](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [后续的跨国传播](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [从欧洲和北美扩散到南半球](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [绕地球一圈：重新输入到亚洲](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=2).
+* [关于抽样](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=3).
+* [在亚洲地区内部的早期传播](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=4).
+* [最早从亚洲输入到北美、欧洲和大洋洲的病例](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=5).  
+* [北美和欧洲疫情的扩散](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=8).  
+* [后续的跨国传播](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=9).
+* [从欧洲和北美扩散到南半球](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=10).  
+* [绕地球一圈：重新输入到亚洲](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=11).
+* [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=12).
+* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
