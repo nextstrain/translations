@@ -25,7 +25,7 @@ translatorLinks:
   - https://twitter.com/RScheppingen
   - https://twitter.com/HuismanJisca
   - https://twitter.com/Jana_Huisman
-date: "9 April 2020"
+date: "10 April 2020"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
 abstract: "Deze rapportage maakt gebruik van openbaar gedeelde genomische data om zo de verspreiding van COVID-19 te volgen. Deze rapportages worden wekelijks bijgewerkt."
 ---
@@ -40,16 +40,16 @@ abstract: "Deze rapportage maakt gebruik van openbaar gedeelde genomische data o
 Deze week nemen we een stap terug om te traceren hoe de uitbraak tot stand kwam, maand voor maand. 
 We focussen op de dynamiek van transmissie _tussen_ regios in de wereld. Hier behandelen we: 
 <br>
-* [Achtergrond en bronnen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [Een opmerking over bemonstering](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [Vroege verspreiding binnen Azië](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [Eerste introducties vanuit Azië naar Noord-Amerika, Europa en Oceanië](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [Groei van Noord-Amerikaanse en Europese uitbraken](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [Daaropvolgende verspreiding over internationale grenzen heen binnen regios](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [Verspreiding vanuit Europa en Noord-Amerika naar het globale zuiden](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [De cirkel rond: herintroductie in Azië](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [Wat u kunt doen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [Wetenschappelijk dankwoord](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [Achtergrond en bronnen](https://nextstrain.org/narratives/ncov/sit-rep/nl/2020-04-10?n=2).
+* [Een opmerking over bemonstering](https://nextstrain.org/narratives/ncov/sit-rep/nl/2020-04-10?n=3).
+* [Vroege verspreiding binnen Azië](https://nextstrain.org/narratives/ncov/sit-rep/nl/2020-04-10?n=4).
+* [Eerste introducties vanuit Azië naar Noord-Amerika, Europa en Oceanië](https://nextstrain.org/narratives/ncov/sit-rep/nl/2020-04-10?n=5).  
+* [Groei van Noord-Amerikaanse en Europese uitbraken](https://nextstrain.org/narratives/ncov/sit-rep/nl/2020-04-10?n=8).  
+* [Daaropvolgende verspreiding over internationale grenzen heen binnen regios](https://nextstrain.org/narratives/ncov/sit-rep/nl/2020-04-10?n=9).
+* [Verspreiding vanuit Europa en Noord-Amerika naar het globale zuiden](https://nextstrain.org/narratives/ncov/sit-rep/nl/2020-04-10?n=10).  
+* [De cirkel rond: herintroductie in Azië](https://nextstrain.org/narratives/ncov/sit-rep/nl/2020-04-10?n=11).
+* [Wat u kunt doen](https://nextstrain.org/narratives/ncov/sit-rep/nl/2020-04-10?n=12).
+* [Wetenschappelijk dankwoord](https://nextstrain.org/narratives/ncov/sit-rep/nl/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -70,7 +70,7 @@ We hebben een aantal bronnen voorbereid die het interpreteren van de data die we
 #### Nextstrain Bronnen  
 * [BEGIN HIER: Hoe leest u een fylogenie](https://nextstrain.org/narratives/trees-background/nl/).  
 * [Achtergrond over Coronavirussen (Engels)](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Veelvoorkomende misvattingen (Engels)](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Veelvoorkomende misvattingen](https://nextstrain.org/narratives/ncov/sit-rep/nl/2020-03-13?n=11).
 
 #### Externe Bronnen
 * [WHO Situatierapporten (Engels)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
