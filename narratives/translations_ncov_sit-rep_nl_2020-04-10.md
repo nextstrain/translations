@@ -20,9 +20,11 @@ affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA
 translators: 
   - Roan van Scheppingen
   - Jisca Huisman
+  - Jana Huisman
 translatorLinks: 
   - https://twitter.com/RScheppingen
   - https://twitter.com/HuismanJisca
+  - https://twitter.com/Jana_Huisman
 date: "9 April 2020"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
 abstract: "Deze rapportage maakt gebruik van openbaar gedeelde genomische data om zo de verspreiding van COVID-19 te volgen. Deze rapportages worden wekelijks bijgewerkt."
@@ -35,16 +37,16 @@ abstract: "Deze rapportage maakt gebruik van openbaar gedeelde genomische data o
 <!-- This is left-side text 1-->
 # [Samenvatting](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-Deze week, nemen we een stap terug om te traceren hoe de uitbraak tot stand kwam, maand voor maand. 
-We focussen op transmissiedynamic _tussen_ regios in de wereld. Hier behandelen we: 
+Deze week nemen we een stap terug om te traceren hoe de uitbraak tot stand kwam, maand voor maand. 
+We focussen op de dynamiek van transmissie _tussen_ regios in de wereld. Hier behandelen we: 
 <br>
 * [Achtergrond en bronnen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
 * [Een opmerking over bemonstering](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
 * [Vroege verspreiding binnen Azië](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
 * [Eerste introducties vanuit Azië naar Noord-Amerika, Europa en Oceanië](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
 * [Groei van Noord-Amerikaanse en Europese uitbraken](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [Volgende verspreiding over internationale grenzen heen binnen regios](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [Verspreiding vanuit Europa en Noord-Amerika naar het zuidelijk halfrond](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
+* [Daaropvolgende verspreiding over internationale grenzen heen binnen regios](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
+* [Verspreiding vanuit Europa en Noord-Amerika naar het globale zuiden](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
 * [De cirkel rond: herintroductie in Azië](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
 * [Wat u kunt doen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
 * [Wetenschappelijk dankwoord](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
@@ -53,9 +55,9 @@ We focussen op transmissiedynamic _tussen_ regios in de wereld. Hier behandelen 
 ```auspiceMainDisplayMarkdown
 # Over
 
-In deze rapportage hebben we 3.160 publiekelijk gedeelde SARS-Cov-2 genomen geanalyseerd. Door deze virus genomen met elkaar te vergelijken, kunnen we karakteriseren hoe SARS-Cov-2 (wat COVID-19 veroorzaakt) zich over de hele wereld beweegt en lokaal verspreidt.
+In deze rapportage hebben we 3.160 publiekelijk gedeelde SARS-Cov-2 genomen geanalyseerd. Door deze virus genomen met elkaar te vergelijken, kunnen we karakteriseren hoe SARS-Cov-2 (het virus dat COVID-19 veroorzaakt) zich over de hele wereld beweegt en lokaal verspreidt.
 
-We zijn bezig met het proces om meer specifieke, regio-gefocuste analyses te maken. Je kunt [hier](https://twitter.com/nextstrain/status/1247851469392564224) meer informatie vinden over deze verandering. En [hier](https://twitter.com/sidneymbell/status/1247933122064207872) hoe u ons kunt helpen; bedankt voor uw geduld tijdens deze transitie.
+We zijn bezig om meer specifieke, regio-gefocuste analyses te maken. Je kunt [hier](https://twitter.com/nextstrain/status/1247851469392564224) meer informatie vinden over deze verandering. En [hier](https://twitter.com/sidneymbell/status/1247933122064207872) hoe u ons kunt helpen; bedankt voor uw geduld tijdens deze transitie.
 
 ```
 
@@ -87,7 +89,7 @@ We hebben momenteel sequenties van monsters die genomen zijn in 57 landen op 6 c
 <br><br>
 Hoewel deze gegevens ons in staat stellen om veel nuttige kenmerken van de uitbraak af te leiden en de verspreiding ervan in real-time te volgen, is het belangrijk om te benadrukken dat onze conclusies beperkt zijn door de beschikbare gegevens.
 <br><br>
-De kaart laat bijvoorbeeld weinig sequenties uit het zuidelijk halfrond zien. Dit is NIET omdat COVID-19 niet in deze gebieden circuleert, of dat deze besmettingen niet net zo cruciaal zijn om te begrijpen. In tegenstelling, we hebben simpelweg niet zoveel data beschikbaar vanuit deze gebieden. De grootte van iedere cirkel op de kaart geeft dan ook aan hoeveel data er beschikbaar is vanuit die regio, in plaats van de grootte van de uitbraak.
+De kaart laat bijvoorbeeld weinig sequenties uit het globale zuiden zien. Dit is NIET omdat COVID-19 niet in deze gebieden circuleert, of dat deze besmettingen niet net zo cruciaal zijn om te begrijpen. In tegenstelling, we hebben simpelweg niet zoveel data beschikbaar vanuit deze gebieden. De grootte van iedere cirkel op de kaart geeft dan ook aan hoeveel data er beschikbaar is vanuit die regio, in plaats van de grootte van de uitbraak.
 
 <!-- There is NO right-side text -->
 
@@ -100,13 +102,13 @@ Hier lichten we monsters toe van half december 2019 tot half januari 2020, tijde
 Toppen van de boom vertegenwoordigen monsters van geïnfecteerde personen.
 Elk intern knooppunt of vertakkingspunt vertegenwoordigt een niet-bemonsterd geval, dat de voorouder was van alle andere gevallen binnen de afstammelingenclade.
 <br> <br>
-Toppen zijn gekleurd op basis van waar ze zijn bemonsterd; knooppunten (vertakkingspunten) worden gekleurd door de afgeleide (meest waarschijnlijke) locatie van het voorouderlijke geval.
+Toppen zijn gekleurd op basis van waar ze zijn bemonsterd; knooppunten (vertakkingspunten) worden gekleurd door de geinfereerde (meest waarschijnlijke) locatie van het voorouderlijke geval.
 <br> <br>
-Door een vergelijking te maken tussen waar een sequentie geografisch geïsoleerd werd en waar de voorouders circuleerden, kunnen we niet alleen begrijpen waar infecties voorkomen, maar ook waar ze mogelijk zijn verworven.
+Door een vergelijking te maken tussen de locatie waar een sequentie geografisch geïsoleerd werd en waar de voorouders circuleerden, kunnen we niet alleen begrijpen waar infecties voorkomen, maar ook waar ze mogelijk zijn verworven.
 <br> <br>
 De gemeenschappelijke voorouder van circulerende virussen lijkt eind november of begin december 2019 te zijn ontstaan in Wuhan, China.
-Hiermee overeenkomstig bevonden de meeste steekproef- en afgeleide voorouderlijke gevallen zich in deze vroege periode in Azië.
-Dit is consistent met voor de eerste maand van de uitbraak circulatie die grotendeels binnen China plaatsvindt en enkele geëxporteerde gevallen naar andere landen in Azië.
+Hiermee overeenkomstig bevonden de meeste steekproef- en geinfereerde voorouderlijke gevallen zich in deze vroege periode in Azië.
+Dit is consistent met circulatie die grotendeels binnen China plaatsvindt en enkele geëxporteerde gevallen naar andere landen in Azië voor de eerste maand van de uitbraak.
 
 <!-- There is no right side text -->
 
@@ -118,7 +120,7 @@ Dit is consistent met voor de eerste maand van de uitbraak circulatie die groten
 Gedurende de 2e maand van de uitbraak, van half januari tot half februari 2020, beginnen individuele gevallen op te duiken in Noord-Amerika, Europa en Oceanië.
 Deze vroege gevallen groeperen nog steeds samen met monsters uit Azië, en missen over het algemeen de kenmerken van lokale transmissie.
 <br> <br>
-Dit is consistent met de eerste vonken die worden geworpen door de belangrijkste uitbraak in Azië naar andere delen van de wereld. Hoewel de meeste van deze vonken niet tot plaatselijke uitbraken leidden, zijn er minstens drie van deze introducties van de grond gekomen. Deze leidden tot de grote Europese en Noord-Amerikaanse uitbraken en tot een beperktere verspreiding in Oceanië.
+Dit is consistent met de eerste vonken die worden geworpen door de oorspronkelijke uitbraak in Azië naar andere delen van de wereld. Hoewel de meeste van deze vonken niet tot plaatselijke uitbraken leidden, zijn er minstens drie van deze introducties van de grond gekomen. Deze leidden tot de grote Europese en Noord-Amerikaanse uitbraken en tot een beperktere verspreiding in Oceanië.
 
 <!-- There is no right side text -->
 
@@ -126,7 +128,7 @@ Dit is consistent met de eerste vonken die worden geworpen door de belangrijkste
 <!-- This is left-side text 6-->
 # [Aanvankelijk cryptische verspreiding in Europa](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-Als we voor dezelfde periode inzoomen op de top van de boom, zien we een voorouderlijke Europese virusstam (interne knoop) dat de grote Europese uitbraak zaaide.
+Als we voor dezelfde periode inzoomen op de bovenkant van de boom, zien we een voorouderlijke Europese virusstam (interne knoop) die de grote Europese uitbraak zaaide.
 <br> <br>
 Dit geeft aan dat hoewel we toen nog geen monsters van deze clade hadden gesequenced, de oorsprong van de Europese uitbraak al eind januari of begin februari onopgemerkt circuleerde.
 
@@ -136,7 +138,7 @@ Dit geeft aan dat hoewel we toen nog geen monsters van deze clade hadden geseque
 <!-- This is left-side text 7-->
 # [Aanvankelijk cryptische verspreiding in Noord-Amerika](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-Gelijkerwijs, als we inzoomen op de onderkant van de boom zien we een voorouderlijk Noord-Amerikaans virus (interne knoop) dat later een grote uitbraak in Noord-Amerika zou worden.
+Gelijkerwijs, als we inzoomen op de onderkant van de boom zien we een voorouderlijk Noord-Amerikaans virus (interne knoop) dat een uitbraak initieerde die later de grote uitbraak in Noord-Amerika zou worden.
 <br> <br>
 Dit geeft aan dat, hoewel we op dat moment slechts één sequentie van dit cluster hadden, het virus eind januari of begin februari onopgemerkt in Noord-Amerika circuleerde.
 
@@ -169,7 +171,7 @@ We hebben [eerder gerapporteerd](https://nextstrain.org/narratives/ncov/sit-rep/
 
 De Noord-Amerikaanse en Europese clusters zijn niet beperkt tot hun respectieve regio's. Gedurende deze periode zien we ook gevallen uit Zuid-Amerika, Oceanië en Afrika tegen een achtergrond van voornamelijk Europese en Noord-Amerikaanse clades. Dit geeft aan dat er gedurende deze periode regelmatig intercontinentale introducties waren.
 <br> <br>
-Interessant is dat monsters uit het zuidelijk halfrond de volledige spanwijdte van de boom beslaan, wat aangeeft dat de uitbraken van deze regio's mengsels zijn van vele virale lijnen.
+Interessant is dat monsters uit het globale zuiden de volledige spanwijdte van de boom beslaan, wat aangeeft dat de uitbraken in deze regio's mengsels zijn van vele virale lijnen.
 
 
 
@@ -177,7 +179,7 @@ Interessant is dat monsters uit het zuidelijk halfrond de volledige spanwijdte v
 <!-- This is left-side text 11-->
 # [De cirkel rond: herintroductie in Azië](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
 
-In de afgelopen maand heeft de pandemie de cirkel rond gemaakt. Hier zien we herintroducties van Europa en Noord-Amerika terug naar Azië.
+In de afgelopen maand heeft de pandemie de cirkel rond gemaakt. Hier zien we herintroducties van het virus uit Europa en Noord-Amerika in Azië.
 <br> <br>
 Dit toont duidelijk aan dat deze pandemie een wereldwijde strijd is; als we het ergens willen verslaan moeten we allemaal helpen dit virus overal onder controle te krijgen.
 
