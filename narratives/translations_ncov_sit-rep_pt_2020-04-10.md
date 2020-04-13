@@ -36,7 +36,7 @@ Nesta semana, demos um passo atrás para rastrear como o surto se desenrolou, m�
 * [Fontes e Recursos](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
 * [Observação sobre amostragem](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
 * [Propagação inicial na Ásia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [Introduções iniciais da Ásia na América do Norte, Europa e Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
+* [Introduções iniciais da Ásia para a América do Norte, Europa e Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
 * [Crescimento dos surtos na América do Norte & Europa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
 * [Disseminação subsequente através das fronteiras internacionais dentro das regiões](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
 * [Disseminação da Europa e América do Norte para o Hemisfério Sul](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
@@ -91,9 +91,9 @@ Por exemplo, o mapa mostra muitas poucas sequências do hemisfério sul. Isso N�
 <!-- This is left-side text 4-->
 # [Propagação inicial na Ásia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
-Aqui, destacamos amostras de meados de dezembro de 2019 a meados de janeiro de 2020, durante o primeiro mês do surto. Os pontos da árvore representam amostras de indivíduos infectados. Cada ponto interno, ou ponto de ramificação, representa um caso não amostrado, que era o ancestral de todos os outros casos dentro do ramificação descendente.
+Aqui, destacamos amostras de meados de dezembro de 2019 a meados de janeiro de 2020, durante o primeiro mês do surto. Os pontos na árvore representam amostras de indivíduos infectados. Cada nó interno, ou ponto de ramificação, representa um caso não amostrado, que era o ancestral de todos os outros casos dentro do ramificação descendente.
 <br><br>
-Os pontos são coloridos de acordo com onde foram amostrados; os pontos de ramificação são coloridos pela localização inferida (mais provável) do caso ancestral.
+Os terminais são coloridos de acordo com onde foram amostrados; os nós (pontos de ramificação) são coloridos pela localização inferida (mais provável) do caso ancestral.
 <br><br>
 Comparar onde (geograficamente) uma sequência foi isolada com onde seus ancestrais estavam circulando pode nos ajudar a entender não apenas onde as infecções estão ocorrendo, mas também onde elas podem ter sido adquiridas.
 <br><br>
@@ -107,7 +107,7 @@ O ancestral comum dos vírus em circulação parece ter surgido em Wuhan, China,
 # [Introduções iniciais em outras regiões](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
 
 Durante o 2º mês do surto, de meados de janeiro a meados de fevereiro de 2020, começamos a ver casos individuais surgindo na América do Norte, Europa e Oceania.
-Esses casos iniciais ainda se agrupam juntos com amostras da Ásia, e geralmente não têm as características de transmissão local.
+Esses casos iniciais ainda se agrupam com amostras da Ásia, e geralmente não têm as características de transmissão local.
 <br><br>
 Isso é consistente com as "faíscas" iniciais lançadas pelo surto principal da Ásia para outras partes do mundo. Embora a maioria dessas faíscas não tenha resultado em surtos localizados, pelo menos três dessas introduções decolaram. Isso levou a grandes surtos europeus e norte-americanos, bem como a uma propagação mais restrita na Oceania.
 <!-- There is no right side text -->
@@ -116,16 +116,16 @@ Isso é consistente com as "faíscas" iniciais lançadas pelo surto principal da
 <!-- This is left-side text 6-->
 # [Transmissão inicial enigmática na Europa](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-Aproximando o zoom na parte superior da árvore no mesmo período, vemos um vírus ancestral europeu (ponto interno) que semeou o grande surto europeu.
+Aproximando o zoom na parte superior da árvore no mesmo período, vemos um vírus ancestral europeu (nó interno) que semeou o grande surto europeu.
 <br><br>
-Isso indica que, embora ainda não tivéssemos sequenciado nenhuma amostra dessa ramificação, as origens do surto europeu já estavam circulando sem serem detectadas no final de janeiro ou no início de fevereiro.
+Isso indica que, embora ainda não tivéssemos sequenciado nenhuma amostra desse clado, as origens do surto europeu já estavam circulando sem serem detectadas no final de janeiro ou no início de fevereiro.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Transmissão inicial enigmática na América do Norte](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
+# [Transmissão inicial críptica na América do Norte](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-Semelhantemente, aproximando o zoom na parte inferior da árvore, vemos um vírus ancestral norte-americano (ponto interno) que iniciou o que viria a se tornar o grande surto na América do Norte.
+Semelhantemente, aproximando o zoom na parte inferior da árvore, vemos um vírus ancestral norte-americano (nó interno) que iniciou o que viria a se tornar o grande surto na América do Norte.
 <br><br>
 Isso indica que, embora tivéssemos sequenciado apenas 1 caso desse grupo na época, o vírus já estava circulando sem ser detectado dentro do continente no final de janeiro ou no início de fevereiro.
 <!-- There is no right side text -->
@@ -145,16 +145,16 @@ Durante o 3º mês do surto, de meados de fevereiro a meados de março de 2020, 
 
 Dentro de cada uma dessas regiões, vemos uma mistura generalizada pelas fronteiras estaduais e fronteiras internacionais. Isso é demonstrado aqui pela mistura de amostras de vários estados dos EUA e províncias do Canadá.
 <br><br>
-[Reportamos anteriormente](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-27?f_region=Europe&n=5) sobre um padrão semelhante de mistura frequente de linhagens virais entre países europeus.
+[Reportamos anteriormente](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-27?f_region=Europe&n=5) um padrão semelhante de mistura frequente de linhagens virais entre países europeus.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Introduções oriundas da Europa e América do Norte em outras partes do globo](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
+# [Introduções oriundas da Europa e América do Norte para outras partes do globo](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
-Os grupos norte-americanos e europeus não se restringem às suas respectivas regiões. Durante esse período, também vemos casos da América do Sul, Oceania e África em um cenário de ramificações principalmente europeias e norte-americanas. Isso indica que houve frequentes introduções intercontinentais durante esse período.
+Os grupos norte-americanos e europeus não se restringem às suas respectivas regiões. Durante esse período, também vemos casos da América do Sul, Oceania e África em clados compostos principalmente por casos europeus e norte-americanas. Isso indica que houve frequentes introduções intercontinentais durante esse período.
 <br><br>
-Curiosamente, amostras do Hemisfério sul abrangem toda a largura da árvore, indicando que os surtos dessas regiões são misturas de muitas linhagens virais.
+Curiosamente, amostras do Hemisfério sul abrangem toda a árvore, indicando que os surtos dessas regiões são misturas de muitas linhagens virais.
 
 
 <!-- ############ SLIDE BREAK ############# -->
