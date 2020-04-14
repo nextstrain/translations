@@ -34,16 +34,16 @@ abstract: "Předkládaná zpráva využívá k sledování šíření nemoci COV
 V tomto týdnu se vrátíme o krok zpět a budeme sledovat, jak se nákaza šířila měsíc po měsíci.
 Soustředíme se na dynamiku přenosu mezi různými regiony světa. Budeme se zabývat těmito tématy:  
 <br>
-* [Výchozí informace a zdroje](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2)
-* [Poznámka o odběru vzorků](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3)
-* [Počáteční šíření v Asii](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4)
-* [První případy přenosu z Asie do Severní Ameriky, Evropy a Oceánie](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5)  
-* [Růst ohnisek nákazy v Severní Americe a Evropě](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8)  
-* [Následné přeshraniční šíření mezi zeměmi v regionech](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9)
-* [Šíření z Evropy a Severní Ameriky do jižních částí planety](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10)  
-* [Kruh se uzavírá: zpětný přenos do Asie](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11)
-* [Co můžete udělat vy](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12)
-* [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13)
+* [Výchozí informace a zdroje](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
+* [Poznámka o odběru vzorků](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
+* [Počáteční šíření v Asii](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
+* [První případy přenosu z Asie do Severní Ameriky, Evropy a Oceánie](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
+* [Růst ohnisek nákazy v Severní Americe a Evropě](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).
+* [Následné přeshraniční šíření mezi zeměmi v regionech](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
+* [Šíření z Evropy a Severní Ameriky do jižních částí planety](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
+* [Kruh se uzavírá: zpětný přenos do Asie](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
+* [Co můžete udělat vy](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
+* [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -63,15 +63,15 @@ V současnosti přecházíme ke konkrétnějším regionálně zaměřeným anal
 # [Informační zdroje o nemoci COVID-19](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
 Připravili jsme materiály dostupné online, které usnadňují interpretaci zde uváděných dat.
 #### Zdroje na webu Nextstrain  
-* [ZAČNĚTE ZDE: Jak číst fylogenetický strom](https://nextstrain.org/narratives/trees-background/)  
-* [Základní informace o koronavirech](https://nextstrain.org/help/coronavirus/human-CoV)
-* [Běžné omyly a mýty](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11)
+* [ZAČNĚTE ZDE: Jak číst fylogenetický strom](https://nextstrain.org/narratives/trees-background/).  
+* [Základní informace o koronavirech](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Běžné omyly a mýty](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 #### Externí zdroje   
-* [Situační zprávy Světové zdravotnické organizace (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
-* [Zdroje publikované Centrem pro kontrolu a prevenci nemocí (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
-* [Informace o nemoci COVID-19 v deníku The New York Times](https://www.nytimes.com/news-event/coronavirus)
-* [Zeptejte se odborníka a časté dotazy](https://covid19.fas.org/l/en)
+* [Situační zprávy Světové zdravotnické organizace (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Zdroje publikované Centrem pro kontrolu a prevenci nemocí (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Informace o nemoci COVID-19 v deníku The New York Times](https://www.nytimes.com/news-event/coronavirus).
+* [Zeptejte se odborníka a časté dotazy](https://covid19.fas.org/l/en).
 <!-- There is no right-side text -->
 
 
