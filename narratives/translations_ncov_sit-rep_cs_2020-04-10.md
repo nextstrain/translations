@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-10.
+title: Genomová analýza šíření nemoci COVID-19. Situační zpráva ze dne 10. 4. 2020.
 authors:
   - Sidney M. Bell
   - Nicola Müller
@@ -19,9 +19,9 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
 translatorLinks:
-date: "2020 April 9"
+date: "9. dubna 2020"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "Předkládaná zpráva využívá k sledování šíření nemoci COVID-19 veřejně dostupné genomové údaje. Aktualizace těchto zpráv se provádí jednou týdně."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -29,30 +29,30 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Executive summary](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
+# [Úvodní přehled](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-This week, we take a step back to trace how the outbreak has unfolded, month by month.
-We focus on transmission dynamics _between_ regions of the world. Here, we cover:  
+V tomto týdnu se vrátíme o krok zpět a budeme sledovat, jak se nákaza šířila měsíc po měsíci.
+Soustředíme se na dynamiku přenosu mezi různými regiony světa. Budeme se zabývat těmito tématy:  
 <br>
-* [Background and resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [Early spread within Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [Initial introductions from Asia to North America, Europe and Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [Growth of North American & European outbreaks](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [Subsequent spread across international borders within regions](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [Spread from Europe and North America to the global south](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [Coming full circle: reintroductions to Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [Scientific credits](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [Výchozí informace a zdroje](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2)
+* [Poznámka o odběru vzorků](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3)
+* [Počáteční šíření v Asii](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4)
+* [První případy přenosu z Asie do Severní Ameriky, Evropy a Oceánie](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5)  
+* [Růst ohnisek nákazy v Severní Americe a Evropě](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8)  
+* [Následné přeshraniční šíření mezi zeměmi v regionech](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9)
+* [Šíření z Evropy a Severní Ameriky do jižních částí planety](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10)  
+* [Kruh se uzavírá: zpětný přenos do Asie](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11)
+* [Co můžete udělat vy](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12)
+* [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13)
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# About
+# Úvodní informace
 
-We analyzed 3,160 publicly shared SARS-Cov-2 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 (which causes COVID-19) is moving around the world and spreading locally.
+Provedli jsme analýzu 3 160 veřejně dostupných genomů viru SARS-CoV-2. Vzájemným porovnáním těchto virových genomů můžeme popsat, jak virus SARS-CoV-2 (původce nemoci COVID-19) postupuje světem a šíří se v rámci různých lokalit.
 
 
-We are in the process of moving to more specific, regionally-focused analyses. You can find more information about this change [here](https://twitter.com/nextstrain/status/1247851469392564224) and how to help us out [here](https://twitter.com/sidneymbell/status/1247933122064207872); thank you for your patience during this transition.
+V současnosti přecházíme ke konkrétnějším regionálně zaměřeným analýzám. Více informací o této změně najdete [zde](https://twitter.com/nextstrain/status/1247851469392564224). O tom, jak nám můžete pomoci, se dozvíte [zde](https://twitter.com/sidneymbell/status/1247933122064207872). Děkujeme vám za trpělivost během tohoto procesu.
 
 ```
 
@@ -60,144 +60,144 @@ We are in the process of moving to more specific, regionally-focused analyses. Y
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [Informační zdroje o nemoci COVID-19](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
+Připravili jsme materiály dostupné online, které usnadňují interpretaci zde uváděných dat.
+#### Zdroje na webu Nextstrain  
+* [ZAČNĚTE ZDE: Jak číst fylogenetický strom](https://nextstrain.org/narratives/trees-background/)  
+* [Základní informace o koronavirech](https://nextstrain.org/help/coronavirus/human-CoV)
+* [Běžné omyly a mýty](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11)
 
-#### External Resources  
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+#### Externí zdroje   
+* [Situační zprávy Světové zdravotnické organizace (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
+* [Zdroje publikované Centrem pro kontrolu a prevenci nemocí (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html)
+* [Informace o nemoci COVID-19 v deníku The New York Times](https://www.nytimes.com/news-event/coronavirus)
+* [Zeptejte se odborníka a časté dotazy](https://covid19.fas.org/l/en)
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 57 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Poznámka o odběru vzorků](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+V současnosti máme k dispozici sekvence ze vzorků odebraných v 57 zemích na 6 světadílech. To je neuvěřitelný úspěch – sekvenování neznámého, velkého viru RNA uprostřed pandemie je obtížné a lze jej provést pouze díky neskutečné práci a včasnému sdílení dat vědci a lékaři z celého světa.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+I když nám tato data umožňují vyvodit mnoho užitečných charakteristik propuknutí nákazy a sledovat její šíření v reálném čase, je důležité zdůraznit, že naše závěry jsou limitovány dostupnými údaji.
 <br><br>
-For example, the map shows very few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+Mapa například ukazuje relativně málo sekvencí z jihu planety. Důvodem NENÍ to, že by se nemoc COVID-19 v těchto oblastech nevyskytovala nebo že by zjištěné případy nebyly natolik zásadní, abychom se jim snažili porozumět. Spíše z těchto oblastí nemáme k dispozici dostatečné množství údajů. Velikost jednotlivých kruhů na mapě tedy neoznačuje skutečný rozsah nákazy, ale spíše kolik dat je aktuálně z dané oblasti k dispozici.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Early spread within Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
+# [Počáteční šíření v Asii](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
-Here, we highlight samples from mid-December 2019 through mid-January 2020, during the first month of the outbreak.
-Tips of the tree represent samples from infected individuals.
-Each internal node, or branch point, represents an unsampled case, which was the ancestor of all of the other cases within the descendant clade.
+Na tomto místě se soustředíme na vzorky od poloviny prosince 2019 do poloviny ledna 2020, tedy z prvního měsíce šíření nákazy.
+Špičky stromu představují vzorky odebrané nakaženým osobám.
+Každý vnitřní uzel neboli bod větvení představuje případ bez odběru vzorku, který byl společným předkem všech ostatních případů v dceřiném větvení (kladu).
 <br><br>
-Tips are colored according to where they were sampled from; nodes (branch points) are colored by the inferred (most likely) location of the ancestral case.
+Špičky mají barvu podle toho, kde byly vzorky odebrány. Uzly (body větvení) mají barvu podle odvozeného (nejpravděpodobnějšího) místa ancestrálního neboli evolučně původního případu.
 <br><br>
-Comparing where a sequence was isolated from geographically to where its ancestors were circulating can help us understand not only where infections are occurring, but also where they may have been acquired.
+Geografické porovnání toho, kde byla sekvence izolována, s místy, kde se vyskytovali její předci, nám může pomoci porozumět nejen tomu, kde se infekce vyskytují, ale také tomu, odkud pravděpodobně pocházejí.
 <br><br>
-The common ancestor of circulating viruses appears to have emerged in Wuhan, China, in late Nov or early Dec 2019.
-Accordingly, the majority of sampled and inferred ancestral cases were located in Asia during this early period.
-This is consistent with circulation largely within China and some exported cases to other countries in Asia for the first month of the outbreak.  
+Zdá se, že společný předek vyskytujících se virů se objevil na konci listopadu nebo začátkem prosince 2019 ve Wu-chanu v Číně.
+V souladu s tím byla většina případů prokázaných na základě odběru vzorků i odvozených evolučně původních případů v tomto raném období lokalizována v Asii.
+To odpovídá šíření především v rámci Číny a přenosu několika případů do jiných zemí v Asii během prvního měsíce nákazy.  
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Initial introductions to other regions](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
+# [První případy přenosu do jiných regionů](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
 
-During the 2nd month of the outbreak, from mid-January to mid-February 2020, we start to see individual cases crop up in North America, Europe and Oceania.
-These early cases still group with samples from Asia, and generally lack the hallmarks of local transmission.
+Během druhého měsíce šíření nákazy (od poloviny ledna do poloviny února 2020) začínáme pozorovat výskyt jednotlivých případů v Severní Americe, Evropě a Oceánii.
+Tyto rané případy ještě spadají do společné skupiny se vzorky z Asie a obecně postrádají charakteristické znaky lokálního přenosu.
 <br><br>
-This is consistent with initial sparks being thrown from the main outbreak in Asia to other parts of the world. Although most of these sparks did not result in localized outbreaks, at least three of these introductions took off. These led to the large European and North American outbreaks, as well as more restricted spread in Oceania.
+To odpovídá předpokladu, že k prvotnímu rozšíření nákazy do jiných částí světa došlo z hlavního ohniska v Asii. I když většina těchto případů přenosu nevedla k lokálnímu propuknutí nákazy, nejméně ve třech případech se tak stalo. Právě ty pak vedly k rozsáhlému šíření nákazy v Evropě a Severní Americe i poněkud méně intenzivnímu šíření v Oceánii.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Initial cryptic transmission in Europe](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
+# [Počáteční skrytý přenos v Evropě](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-Zooming in to the top of the tree for the same time period, we see an ancestral European virus (internal node) that seeded the large European outbreak.
+Po přiblížení detailu horní části stromu (ve stejném časovém období) vidíme evolučně původní virus v Evropě (vnitřní uzel), který je zárodkem rozsáhlého evropského ohniska nákazy.
 <br><br>
-This indicates that while we hadn't yet sequenced any samples from this clade, the origins of the European outbreak were already circulating undetected by late January or early February.
+To naznačuje, že i když jsme v té době ještě nesekvenovali žádné vzorky z tohoto větvení (kladu), původci evropského ohniska nákazy se v oblasti vyskytovali již koncem ledna nebo začátkem února, aniž by byli detekováni.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Initial cryptic transmission in North America](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
+# [Počáteční skrytý přenos v Severní Americe](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-Similarly, zooming in to the bottom of the tree, we see an ancestral North American virus (internal node) that initiated what would later become a large outbreak in North America.
+Když si obdobně přiblížíme detail spodní části stromu, vidíme evolučně původní virus v Severní Americe (vnitřní uzel), který způsobil pozdější rozsáhlé šíření nákazy v Severní Americe.
 <br><br>
-This indicates that although we only had 1 sequenced case from this cluster at the time, the virus was circulating undetected within North America by late January or early February.
+To naznačuje, že ačkoli jsme v té době měli pouze jeden sekvenovaný případ z tohoto klastru, šířil se virus (aniž by byl zjištěn) v Severní Americe koncem ledna nebo začátkem února.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Expansion of North American and European outbreaks](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
+# [Růst počtu nakažených v Severní Americe a Evropě](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
 
-During the 3rd month of the outbreak, from mid-February to mid-March 2020, these two clusters expanded to cause large outbreaks within Europe and North America, respectively.
+Během třetího měsíce šíření nákazy (od poloviny února do poloviny března 2020) se tyto dva klastry rozšířily a vyvolaly velká ohniska epidemie v Evropě a Severní Americe.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Spread across international borders](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
+# [Šíření přes mezistátní hranice](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
 
-Within each of these regions, we see widespread mixing across state lines and international borders.
-This is demonstrated here by the intermingling of samples from multiple U.S. states and Canadian provinces.
+V každém z těchto regionů vidíme rozsáhlé mísení variant viru napříč vnitrostátními i mezistátními hranicemi.
+Tato skutečnost se zde projevuje vzájemným průnikem vzorků z několika států USA a kanadských provincií.
 <br><br>
-We've [previously reported](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) on a similar pattern of frequent mixing of viral lineages between European countries.
+Již [dříve jsme informovali](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) o podobném charakteristickém projevu častého mísení různých virových linií mezi evropskými zeměmi.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Introductions from North America & Europe to other parts of the globe](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
+# [Případy přenosu ze Severní Ameriky a Evropy do jiných částí světa](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
-The North American and European clusters are not restricted to their respective regions. During this time period, we also see cases from South America, Oceania, and Africa against a backdrop of primarily European and North American clades. This indicates that there were frequent intercontinental introductions during this time period.
+Severoamerické a evropské klastry se neomezují na příslušné regiony. Během tohoto období vidíme na pozadí hlavních kladů – evropských a severoamerických – rovněž případy z Jižní Ameriky, Oceánie a Afriky. To ukazuje na častý mezikontinentální přenos v tomto období.
 <br><br>
-Interestingly, samples from the global south span the full breadth of the tree, indicating that these regions' outbreaks are mixtures of many viral lineages.
+Zajímavé je, že vzorky z jihu planety pokrývají celou šířku stromu, což naznačuje, že ohniska nákazy v těchto regionech jsou směsicí mnoha virových linií.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Coming full circle: reintroductions to Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
+# [Kruh se uzavírá: zpětný přenos do Asie](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
 
-In the last month, the pandemic has come full circle. Here, we see re-introductions from Europe and North America back to Asia.
+Během posledního měsíce se pandemický kruh uzavřel. Zde vidíme případy zpětného přenosu z Evropy a Severní Ameriky zpět do Asie.
 <br><br>
-This resoundingly demonstrates that this pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
+To jednoznačně dokládá, že tato pandemie představuje celosvětový boj. Pokud máme mít naději virus kdekoli porazit, musíme se všichni úplně všude snažit dostat jej pod kontrolu.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Takeaway](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Klíčový závěr](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 
-Regional and national outbreaks are and will be deeply intertwined.
+Regionální a vnitrostátní ohniska nákazy jsou a budou pevně propojena.
 <br><br>
-This pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
+Tato pandemie představuje celosvětový boj. Pokud máme mít naději virus kdekoli porazit, musíme se všichni úplně všude snažit dostat jej pod kontrolu.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# What you can do
+# Co můžete udělat vy
 
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+#### ... jako běžný občan
+* Důsledně omezovat společenský kontakt, zejména pokud spadáte do ohrožené skupiny.
+* Nezapomínejte, že i když vy sami do silně ohrožené skupiny nepatříte, řada lidí kolem vás ano. Dodržováním těchto opatření chráníte ostatní.
+* Myjte si ruce, „jako byste právě nakrájeli silně pálivou papriku a chystali se vyměnit si kontaktní čočky“.  
+* Co nejvíce se zdržujte doma – zejména pokud jste nemocní. Pořiďte si zásoby pro případ, že budete muset zůstat v domácí karanténě.  
+* Jste-li zaměstnavatel, nabídněte všem zaměstnancům, u kterých je to možné, práci z domova.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ... jako představitel veřejné moci  
+* Zpřístupněte bezplatné a široce dostupné testování.  
+* Zaveďte přísná pravidla omezení společenského kontaktu (tzv. social distancing).  
+* Financujte a zavádějte rozsáhlé projekty trasování kontaktů.  
+* Finančně podporujte osoby postižené pravidly omezení společenského kontaktu.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -210,20 +210,20 @@ This pandemic is a global fight; we all must help control this virus everywhere 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Chtěli bychom ocenit úžasnou a rychlou práci všech vědců bojujících s touto nákazou, zejména těch, kteří pracují v Číně.
+Analýzy tohoto typu jsou možné pouze na základě rychlého sdílení genomových dat a metadat.
 
 <br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+Dále děkujeme organizaci [GISAID](https://gisaid.org) za poskytnutí platformy, přes kterou lze tyto údaje nahrávat a sdílet.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Chtěli bychom vyjádřit svůj vděk za data shromážděná těmito zdrojovými laboratořemi:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -628,19 +628,19 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Individuální poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Tyto údaje byly sdíleny prostřednictvím neziskové organizace [GISAID](https://gisaid.org).
+Srdečně děkujeme za její pomoc.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+Vpravo uvádíme konkrétní sekvence poskytnuté jednotlivými laboratořemi.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Genomy viru SARS-CoV-2 laskavě sdíleli vědci z těchto přispívajících laboratoří:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
