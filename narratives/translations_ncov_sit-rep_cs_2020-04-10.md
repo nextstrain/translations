@@ -19,9 +19,9 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
 translatorLinks:
-date: "9. dubna 2020"
+date: "10. dubna 2020"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
-abstract: "Předkládaná zpráva využívá k sledování šíření nemoci COVID-19 veřejně dostupné genomové údaje. Aktualizace těchto zpráv se provádí jednou týdně."
+abstract: "Předkládaná zpráva využívá ke sledování šíření nemoci COVID-19 veřejně dostupné genomové údaje. Aktualizace těchto zpráv se provádí jednou týdně."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,19 +31,19 @@ abstract: "Předkládaná zpráva využívá k sledování šíření nemoci COV
 <!-- This is left-side text 1-->
 # [Úvodní přehled](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-V tomto týdnu se vrátíme o krok zpět a budeme sledovat, jak se nákaza šířila měsíc po měsíci.
-Soustředíme se na dynamiku přenosu mezi různými regiony světa. Budeme se zabývat těmito tématy:  
+Nejprve si ukážeme, jak se nákaza šířila měsíc po měsíci.
+Budeme se soustředit na dynamiku přenosu mezi různými regiony světa,konkrétně se pak zabývat těmito tématy:  
 <br>
-* [Výchozí informace a zdroje](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [Poznámka o odběru vzorků](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [Počáteční šíření v Asii](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [První případy přenosu z Asie do Severní Ameriky, Evropy a Oceánie](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [Růst ohnisek nákazy v Severní Americe a Evropě](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).
-* [Následné přeshraniční šíření mezi zeměmi v regionech](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [Šíření z Evropy a Severní Ameriky do jižních částí planety](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [Kruh se uzavírá: zpětný přenos do Asie](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [Co můžete udělat vy](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [Výchozí informace a zdroje](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-10?n=2).
+* [Poznámka k odběru vzorků](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-10?n=3).
+* [Počáteční šíření v Asii](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-10?n=4).
+* [První případy přenosu z Asie do Severní Ameriky, Evropy a Oceánie](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-10?n=5).  
+* [Růst ohnisek nákazy v Severní Americe a Evropě](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-10?n=8).
+* [Následné přeshraniční šíření mezi zeměmi v regionech](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-10?n=9).
+* [Šíření z Evropy a Severní Ameriky do jižních částí planety](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-10?n=10).  
+* [Kruh se uzavírá: zpětný přenos do Asie](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-10?n=11).
+* [Co můžete udělat vy](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-10?n=12).
+* [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -78,12 +78,12 @@ Připravili jsme materiály dostupné online, které usnadňují interpretaci zd
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [Poznámka o odběru vzorků](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
-V současnosti máme k dispozici sekvence ze vzorků odebraných v 57 zemích na 6 světadílech. To je neuvěřitelný úspěch – sekvenování neznámého, velkého viru RNA uprostřed pandemie je obtížné a lze jej provést pouze díky neskutečné práci a včasnému sdílení dat vědci a lékaři z celého světa.
+# [Poznámka k odběru vzorků](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+V současnosti máme k dispozici sekvence ze vzorků odebraných v 57 zemích na 6 světadílech. To je neuvěřitelný úspěch – sekvenování neznámého, velkého RNA viru uprostřed pandemie je obtížné a lze jej provést pouze díky neskutečné práci a včasnému sdílení dat vědci a lékaři z celého světa.
 <br><br>
 I když nám tato data umožňují vyvodit mnoho užitečných charakteristik propuknutí nákazy a sledovat její šíření v reálném čase, je důležité zdůraznit, že naše závěry jsou limitovány dostupnými údaji.
 <br><br>
-Mapa například ukazuje relativně málo sekvencí z jihu planety. Důvodem NENÍ to, že by se nemoc COVID-19 v těchto oblastech nevyskytovala nebo že by zjištěné případy nebyly natolik zásadní, abychom se jim snažili porozumět. Spíše z těchto oblastí nemáme k dispozici dostatečné množství údajů. Velikost jednotlivých kruhů na mapě tedy neoznačuje skutečný rozsah nákazy, ale spíše kolik dat je aktuálně z dané oblasti k dispozici.
+Mapa například ukazuje relativně málo sekvencí z jihu planety. Důvodem však není to, že by se nemoc COVID-19 v těchto oblastech nevyskytovala nebo že by zjištěné případy nebyly natolik zásadní, abychom se jim snažili porozumět. Spíše z těchto oblastí nemáme k dispozici dostatečné množství údajů. Velikost jednotlivých kruhů na mapě tedy neoznačuje skutečný rozsah nákazy, ale spíše kolik dat je aktuálně z dané oblasti k dispozici.
 
 <!-- There is NO right-side text -->
 
@@ -92,11 +92,11 @@ Mapa například ukazuje relativně málo sekvencí z jihu planety. Důvodem NEN
 <!-- This is left-side text 4-->
 # [Počáteční šíření v Asii](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
-Na tomto místě se soustředíme na vzorky od poloviny prosince 2019 do poloviny ledna 2020, tedy z prvního měsíce šíření nákazy.
-Špičky stromu představují vzorky odebrané nakaženým osobám.
-Každý vnitřní uzel neboli bod větvení představuje případ bez odběru vzorku, který byl společným předkem všech ostatních případů v dceřiném větvení (kladu).
+Nyní se soustředíme na vzorky od poloviny prosince 2019 do poloviny ledna 2020, tedy z prvního měsíce šíření nákazy.
+Jednotlivé větve stromu představují vzorky odebrané nakaženým osobám.
+Každý vnitřní uzel neboli bod, kde dochází k  větvení představuje případ (bez odběru vzorku), který byl společným předkem všech ostatních případů v dceřiné větvi (kladu).
 <br><br>
-Špičky mají barvu podle toho, kde byly vzorky odebrány. Uzly (body větvení) mají barvu podle odvozeného (nejpravděpodobnějšího) místa ancestrálního neboli evolučně původního případu.
+Větve mají barvu podle toho, kde byly vzorky odebrány. Uzly (větvení) mají barvu podle odvozeného (nejpravděpodobnějšího) místa ancestrálního neboli evolučně původního případu.
 <br><br>
 Geografické porovnání toho, kde byla sekvence izolována, s místy, kde se vyskytovali její předci, nám může pomoci porozumět nejen tomu, kde se infekce vyskytují, ale také tomu, odkud pravděpodobně pocházejí.
 <br><br>
@@ -123,14 +123,14 @@ To odpovídá předpokladu, že k prvotnímu rozšíření nákazy do jiných č
 
 Po přiblížení detailu horní části stromu (ve stejném časovém období) vidíme evolučně původní virus v Evropě (vnitřní uzel), který je zárodkem rozsáhlého evropského ohniska nákazy.
 <br><br>
-To naznačuje, že i když jsme v té době ještě nesekvenovali žádné vzorky z tohoto větvení (kladu), původci evropského ohniska nákazy se v oblasti vyskytovali již koncem ledna nebo začátkem února, aniž by byli detekováni.
+To naznačuje, že i když jsme v té době ještě nesekvenovali žádné vzorky z této větve (kladu), původci evropského ohniska nákazy se v oblasti vyskytovali již koncem ledna nebo začátkem února, aniž by byli detekováni.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
 # [Počáteční skrytý přenos v Severní Americe](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-Když si obdobně přiblížíme detail spodní části stromu, vidíme evolučně původní virus v Severní Americe (vnitřní uzel), který způsobil pozdější rozsáhlé šíření nákazy v Severní Americe.
+Když si obdobně přiblížíme detail spodní části stromu, vidíme evolučně původní virus v Severní Americe (vnitřní uzel), který tam způsobil pozdější rozsáhlé šíření nákazy.
 <br><br>
 To naznačuje, že ačkoli jsme v té době měli pouze jeden sekvenovaný případ z tohoto klastru, šířil se virus (aniž by byl zjištěn) v Severní Americe koncem ledna nebo začátkem února.
 <!-- There is no right side text -->
@@ -158,7 +158,7 @@ Již [dříve jsme informovali](https://nextstrain.org/narratives/ncov/sit-rep/2
 <!-- This is left-side text 10-->
 # [Případy přenosu ze Severní Ameriky a Evropy do jiných částí světa](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
-Severoamerické a evropské klastry se neomezují na příslušné regiony. Během tohoto období vidíme na pozadí hlavních kladů – evropských a severoamerických – rovněž případy z Jižní Ameriky, Oceánie a Afriky. To ukazuje na častý mezikontinentální přenos v tomto období.
+Severoamerické a evropské klastry se neomezují jen na příslušné regiony. Během tohoto období vidíme na pozadí hlavních kladů – evropského a severoamerického – rovněž případy z Jižní Ameriky, Oceánie a Afriky. To ukazuje na častý mezikontinentální přenos v tomto období.
 <br><br>
 Zajímavé je, že vzorky z jihu planety pokrývají celou šířku stromu, což naznačuje, že ohniska nákazy v těchto regionech jsou směsicí mnoha virových linií.
 
@@ -195,7 +195,6 @@ Tato pandemie představuje celosvětový boj. Pokud máme mít naději virus kde
 
 #### ... jako představitel veřejné moci  
 * Zpřístupněte bezplatné a široce dostupné testování.  
-* Zaveďte přísná pravidla omezení společenského kontaktu (tzv. social distancing).  
 * Financujte a zavádějte rozsáhlé projekty trasování kontaktů.  
 * Finančně podporujte osoby postižené pravidly omezení společenského kontaktu.
 ```
