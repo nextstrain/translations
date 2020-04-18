@@ -97,20 +97,22 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Main New York clade linked to European outbreak](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
+# [纽约州的主要分支与欧洲疫情相关Main New York clade linked to European outbreak](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
-As you may have seen [in the news this week](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), most of the viral samples from New York (in color) group closely with samples from Europe (gray).
+您可能已经在[这周的新闻（英文）](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html)中读到，纽约州（有色样本）的病毒样本大部分与欧洲的样本（灰色样本）在树上聚的很近。
 <br><br>
-The New York clade is both flanked by and interleaved with sequences from Europe, which strongly suggests that most early cases resulted from introductions from Europe.
+纽约的分支既有被欧洲序列分隔开的，也有和欧洲序列交错排列的，有力地表明大多数早期病例是由欧洲的输入病例所引起。
+
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Many introductions to New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
+# [病毒被多次引入纽约州](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-The majority of the New York outbreak was seeded by European introduction(s). But the contextual sequences from other regions of the world allow us to see additional introductions into New York City. True to its cosmopolitan nature, there are cases in New York closely related to samples from every other region of the world.
+纽约州的大部分病例都是由欧洲的输入病例所引发。但是世界其他地区的序列提供了背景，让我们看到纽约市还有其他的输入病例。正因为纽约是个国际化大都市，纽约的病例的来源基本涵盖了世界上每个地区。The majority of the New York outbreak was seeded by European introduction(s). But the contextual sequences from other regions of the world allow us to see additional introductions into New York City. True to its cosmopolitan nature, there are cases in New York closely related to samples from every other region of the world.
 <br><br>
+早期的纽约病例很有可能是本土传播。疫情后期，我们看到了多得多的欧洲与纽约样本的混合，就不太容易看得清后期的传播方向了。我们在[上周](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=11)的报告中说到，也有证据表明最近也有从美国反向输出到欧洲和亚洲的证据。
 The early New York cases likely represent inbound transmissions. Later on in the outbreak, we see far more mixing between European and New York samples, making the
 direction of later transmissions less clear. As we reported on [last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), there is also evidence for recent reintroductions from the U.S. to Europe and Asia.
 
@@ -119,75 +121,75 @@ direction of later transmissions less clear. As we reported on [last week](https
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Intermingling of cases from all 5 NYC boroughs](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+# [纽约市的五个行政区的病例混杂Intermingling of cases from all 5 NYC boroughs](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
 
-Within New York City, we see little segregation of cases by borough. This is consistent with frequent mixing of cases across the city.
+在纽约市内，我们看到病例几乎没有按区分开，支持纽约市的病例频繁地混杂。Within New York City, we see little segregation of cases by borough. This is consistent with frequent mixing of cases across the city.
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [California outbreak related to both nearby and distant states](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
+# [加州的疫情与附近和远处的州都有关California outbreak related to both nearby and distant states](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
 
-We also see evidence of multiple introductions between states. For example, cases from California span the genetic diversity of the tree, grouping together with samples from both nearby Washington State and New York. This is evidence for transmission between California and both nearby and distant states.
+我们也看到各州之间多次输出的证据。比如，来自加州的样本的遗传多样性覆盖了整棵树，加州的病例既有与较近的华盛顿州聚在一起的，也有与较远的纽约州聚在一起的。这样的证据表明，病毒在较近和较远的州和加州之间都有传播。We also see evidence of multiple introductions between states. For example, cases from California span the genetic diversity of the tree, grouping together with samples from both nearby Washington State and New York. This is evidence for transmission between California and both nearby and distant states.
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Midwest outbreaks were seeded by many introductions](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
+# [中西部的疫情来自于多起输入事件Midwest outbreaks were seeded by many introductions](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
 
-Highlighting sequences from the Midwestern United States, we see that cases from this area are spread evenly across the tree, rather than forming a series of tight clusters. This tells us that there have been many independent introductions to these states, with several different transmission chains circulating simultaneously.
+我们在这里高亮了美国中西部地区的序列，可以看到当地的样本均匀分布在演化树的各处，而不是形成一系列紧密的簇。这告诉我们，这些州存在有多起独立的输入事件，并且有多个不同的传播链正在同时存在。Highlighting sequences from the Midwestern United States, we see that cases from this area are spread evenly across the tree, rather than forming a series of tight clusters. This tells us that there have been many independent introductions to these states, with several different transmission chains circulating simultaneously.
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Related outbreaks across the Rocky Mountain West](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
+# [落基山脉西部州的疫情存在关联Related outbreaks across the Rocky Mountain West](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
 
-There have also been several introductions to the Rocky Mountain West. Zooming in, we see a well-resolved transmission chain making its way across Idaho. Notably, this set of cases is flanked by a cluster of cases from Utah, demonstrating a close relationship between these two outbreaks.
+落基山脉西部州也经历了多次输入事件。把地图放大，我们看到一个分辨率很高的传播链，是到达爱达荷州的。值得注意的是，这部分样本被一簇来自犹他州的样本所隔开，证明这两地的疫情紧密相关。There have also been several introductions to the Rocky Mountain West. Zooming in, we see a well-resolved transmission chain making its way across Idaho. Notably, this set of cases is flanked by a cluster of cases from Utah, demonstrating a close relationship between these two outbreaks.
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [What you can do](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Wear a mask in public.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [你能做些什么](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+#### ...个人可以采取的行动
+* 保持严格的社交距离，尤其是高风险人群。
+* 在公共场所戴口罩。
+* 请记住，即使你不属于高风险人群，你周围的许多人也可能属于高危人群；遵循以上做法可以保护他人。
+* 仔细洗手，要像“刚切完辣椒但是要换隐形眼镜”时一样洗手。
+* 尽可能地留在家里，尤其是生病时；准备一些额外的补给，以备自我隔离。 
+* 雇主请鼓励员工尽可能地在家办公。
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...政府可以采取的行动
+* 推广免费检测。
+* 推行能够有力减少社交接触的措施。
+* 资助和建立全面的病例追踪体系。
+* 在经济上支持受到社交隔离措施影响的人。
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# 总结
 
-* Introductions from Europe seeded the majority of the New York outbreak, but there were also introductions from other areas of the world.
+* 欧洲的输入病例是纽约疫情的主要来源，不过世界其他地区也有病例输出到纽约。
 <br><br>
-* As the outbreak has progressed, we also see evidence for re-introductions from the U.S. to Europe and Asia.
+* 随着疫情的发展，我们也看到病毒从美国反向输出到欧洲和亚洲的证据。
 <br><br>
-* The outbreak in New York City shows mixing of cases across all 5 boroughs.
+* 纽约市五个行政区的The outbreak in New York City shows mixing of cases across all 5 boroughs.
 <br><br>
-* The outbreak in California is related to both nearby Washington State and distant New York.
+* 加州的疫情与近处的华盛顿州和远处的纽约州都有关。
 <br><br>
-* The Midwest outbreak is heterogeneous, with multiple transmission chains circulating in the region.
+* 美国中西部疫情的来源复杂，存在多个传播链。
 <br><br>
-* Outbreaks in Utah and Idaho are closely related, with ongoing community transmission.
+* 犹他州和爱达荷州的病毒亲缘关系很近，两地都存在社区传播。
 <br><br>
-* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.  
+* 每个州的决策都对其他州的命运产生深远的影响。如果要在任何一个州放松管控措施，都需要所有州协作来控制疫情，互相保护。The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.  
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -200,20 +202,18 @@ There have also been several introductions to the Rocky Mountain West. Zooming i
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
+# [科学贡献人员](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+我们要感谢参与此次疫情研究的所有科学家所做的令人惊叹和及时的工作，特别是那些在中国工作的科学家。只有通过基因组数据和元数据的快速共享，才有可能进行这样的分析。
 
 <br>
-
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+我们也感谢[GISAID](https://gisaid.org)提供了上传和共享这些数据的平台。
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+非常感谢以下机构和实验室慷慨分享：
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -683,19 +683,19 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [科学贡献详情](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+
+所有数据已被共享至[GISAID](https://gisaid.org)数据库。 我们感谢各位科学家的慷慨分享。
+
+
 
 <br>
-
-To the right we give specific sequences shared by each lab.
+在右边，我们列出了每个实验室共享的序列。
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+感谢下列实验室的科学家们慷慨分享SARS-CoV-2的基因组:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
