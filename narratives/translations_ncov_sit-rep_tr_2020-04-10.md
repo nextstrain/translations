@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-10.
+title: COVID-19 salgınının genomik analizi. 10 Nisan 2020 tarihli durum raporu.
 authors:
   - Sidney M. Bell
   - Nicola Müller
@@ -18,10 +18,16 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Benura Azeroglu
+  - Zeynep Harcanoğlu
+  - Eren Ada
 translatorLinks:
-date: "2020 April 10"
+- https://twitter.com/benuraaa
+- https://twitter.com/zharcanoglu
+- https://twitter.com/erenada
+date: "10 Nisan 2020"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "Bu rapor COVID-19'un yayılımını takip etmek için herkese açık olarak paylaşılan genomik dizi verileri kullanır. Raporlar haftalık olarak güncellenmektedir."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -29,175 +35,171 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Executive summary](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
+# [Yönetici Özeti](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-This week, we take a step back to trace how the outbreak has unfolded, month by month.
-We focus on transmission dynamics _between_ regions of the world. Here, we cover:  
+Bu hafta salgının ay ay nasıl ilerlediğini takip etmek için bir adım geri atıyor ve salgının dünyanın farklı bölgeleri _arasındaki_ bulaşma dinamiklerine odaklanıyoruz. Bu raporda şunlardan bahsedeceğiz:
 <br>
-* [Background and resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [Early spread within Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [Initial introductions from Asia to North America, Europe and Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [Growth of North American & European outbreaks](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [Subsequent spread across international borders within regions](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [Spread from Europe and North America to the global south](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [Coming full circle: reintroductions to Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [Scientific credits](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [Arkaplan ve Kaynaklar](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-04-10?n=2).
+* [Örnekleme hakkında not](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-04-10?n=3).
+* [Asya'daki erken yayılım](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-04-10?n=4).
+* [Asya'dan Kuzey Amerika, Avrupa ve Okyanusya'ya ilk girişler](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-04-10?n=5).  
+* [Kuzey Amerika & Avrupa salgınlarının büyümesi](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-04-10?n=8).  
+* [Daha sonraki uluslararası sınırlara yayılım](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-04-10?n=9).
+* [Kuzey Amerika ve Avrupa'dan güneye virüs yayılımı](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-04-10?n=10).  
+* [Dönüp dolaşıp aynı noktaya gelmek: Asya'daki yeni virüs girişleri](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-04-10?n=11).
+* [Ne yapabilirsiniz?](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-04-10?n=12).
+* [Bilimsel Katkılar](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# About
+# Hakkında
 
-We analyzed 3,160 publicly shared SARS-Cov-2 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 (which causes COVID-19) is moving around the world and spreading locally.
+Halka açık 3.160 SARS-Cov-2 genomunu analiz ettik. Bu viral genomları birbirleriyle karşılaştırarak, SARS-CoV-2'nin (COVID-19'a neden olan virüs) dünya çapında nasıl hareket ettiğini ve yerel olarak yayılım gösterdiğini karakterize edebiliriz.
 
-
-We are in the process of moving to more specific, regionally-focused analyses. You can find more information about this change [here](https://twitter.com/nextstrain/status/1247851469392564224) and how to help us out [here](https://twitter.com/sidneymbell/status/1247933122064207872); thank you for your patience during this transition.
+Ekip olarak daha sepesifik ve bölgelere özgü analizlere geçiş yapma sürecindeyiz. Bu değişiklik hakkında daha fazla bilgiye [buradan](https://twitter.com/nextstrain/status/1247851469392564224); bize nasıl yardım edebileceğinize dair bilgilere ise [buradan](https://twitter.com/sidneymbell/status/1247933122064207872) ulaşabilirsiniz. Bu geçiş sürecinde göstermiş olduğunuz sabır için teşekkürler.
 
 ```
-
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [COVID-19 Kaynakları](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
+Burada sunduğumuz verilerin yorumlanmasını kolaylaştıracak bazı kaynaklar hazırladık.
+#### Nextstrain Kaynakları  
+* [Buradan başla: Filogenetik ağaçları nasıl yorumlamalı?](https://nextstrain.org/narratives/trees-background/tr).  
+* [Koronavirüslerin arkaplanı](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Ortak yanlış kanılar](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+#### İlave Kaynaklar  
+* [Dünya Sağlık Örgütü Raporları](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [CDC Kaynakları](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [New York Times COVID-19 yayını](https://www.nytimes.com/news-event/coronavirus).
+* [Bir Biliminsanına Sorun & FAQs](https://covid19.fas.org/l/en).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 57 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Örnekleme hakkında not](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+Şu anda elimizde 6 kıta, 57 ülkeden alınan örneklerden elde ettiğimiz genom diziler var. Bu kesinlikle inanılmaz bir başarı, çünkü bilinmeyen ve büyük bir RNA virüsünü bir pandeminin ortasında dizilemek oldukça zor ve bu ancak dünyanın dört bir yanındaki bilim insanları ve doktorların olağanüstü çabaları ve verileri hızlıca paylaşabilmeleriyle mümkün.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+Bu veriler salgının pek çok özelliğine dair sonuçlar çıkarmamıza ve yayılışını gerçek zamanlı olarak takip etmemize olanak sağlasa da, bu çıkan sonuçların yalnızca eldeki veriler ile sınırlı olduğuna dikkat çekmekte fayda var.
 <br><br>
-For example, the map shows very few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+Bu harita dünyanın güney bölgelerden az sayıda genomik dizi verisi geldiğini gösteriyor. Bunun nedeni, COVID-19'un bu alanlarda yayılmamış olması veya bu bölgelerin önemli olmaması değil, elimizde bu bölgelerden pek veri olmamasıdır. Haritadaki her dairenin boyutu salgının gerçek boyutunu değil, o bölge hakkında sahip olduğuğumuz veriyi göstermektedir.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Early spread within Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
+# [Asya'daki erken yayılım](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
-Here, we highlight samples from mid-December 2019 through mid-January 2020, during the first month of the outbreak.
-Tips of the tree represent samples from infected individuals.
-Each internal node, or branch point, represents an unsampled case, which was the ancestor of all of the other cases within the descendant clade.
+Burada salgının ik ayı boyunca 2019 Aralık ortasından 2020 Ocak ortasına kadar olan sürede toplanan örneklere dikkat çekmek istiyoruz.
+Ağaçların uç kısımları enfekte olmuş bireylerin örneklerini temsil etmektedir.
+Her iç düğüm, veya dallanma noktası, diğer tüm vakaların aynı soydan gelen, atası aynı olan örneklenmemiş bir vakayı temsil ediyor.
 <br><br>
-Tips are colored according to where they were sampled from; nodes (branch points) are colored by the inferred (most likely) location of the ancestral case.
+Uçlar örneklendikleri yere göre renklendirilmiştir; düğümler (dallanma noktaları) (muhtemel) atasal vakanın yerine göre renklendirişmiştir.
 <br><br>
-Comparing where a sequence was isolated from geographically to where its ancestors were circulating can help us understand not only where infections are occurring, but also where they may have been acquired.
+Bir genomik dizinin coğrafi olarak izole edildiği yer ile o örneğin atasının nerede dolaşım halinde olduğunu karşılaştırmak, hem bulaşımın nerelerde gerçekleşiyor olduğunu, hem de bunların nereden edinilmiş olduğunu anlamamıza yardım eder.
 <br><br>
-The common ancestor of circulating viruses appears to have emerged in Wuhan, China, in late Nov or early Dec 2019.
-Accordingly, the majority of sampled and inferred ancestral cases were located in Asia during this early period.
-This is consistent with circulation largely within China and some exported cases to other countries in Asia for the first month of the outbreak.  
+Dolaşım halinde olan virüslerin ortak atasının, Kasım ayı sonunda veya Aralık 2019 başında Çin'in Wuhan şehrinde ortaya çıktığı görülüyor.
+Buna uygun olarak da, örneklenen ve atasal olduğu tahmin edilen vakaların çoğu bu erken dönem boyunca Asya'da yer alıyordu.
+Bu, virüs dolaşımının salgının ilk ayında Çin içerisinde ve Asya'daki diğer ülkelere sıçramış bazı vakalar ile gerçekleştiği fikri ile tutarlı.
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Initial introductions to other regions](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
+# [Diğer bölgelerdeki ilk virüs girişleri](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
 
-During the 2nd month of the outbreak, from mid-January to mid-February 2020, we start to see individual cases crop up in North America, Europe and Oceania.
-These early cases still group with samples from Asia, and generally lack the hallmarks of local transmission.
+Salgının 2. ayında, Ocak ortasından Şubat 2020 ortasına kadar, Kuzey Amerika, Avrupa ve Okyanusya'da bireysel vakaların ortaya çıktığını görmeye başlıyoruz.
+Bu erken tarihli vakalar hala Asya'dan gelen örneklerle gruplanmakta ve genellikle yerel bulaşımın ayırt edici özelliklerini göstermiyor.
 <br><br>
-This is consistent with initial sparks being thrown from the main outbreak in Asia to other parts of the world. Although most of these sparks did not result in localized outbreaks, at least three of these introductions took off. These led to the large European and North American outbreaks, as well as more restricted spread in Oceania.
+Bu, ilk kıvılcımların Asya'daki ana salgından dünyanın diğer bölgelerine sıçradığı fikrini desteklemektedir. Bu sıçramaların çoğu yerel salgınlara yol açmamış olsa da bu virüs girişlerinden en az üç tanesi salgına sebep oldu. Bunlar, büyük Avrupa ve Kuzey Amerika salgınlarının yanı sıra Okyanusya'da da daha sınırlı bir yayılıma yol açmıştır.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Initial cryptic transmission in Europe](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
+# [Avrupa'daki ilk gizli bulaşım](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-Zooming in to the top of the tree for the same time period, we see an ancestral European virus (internal node) that seeded the large European outbreak.
+Aynı zaman dilim için ağacın üst tarafına yakınlaştığımızda, atasal Avrupa virüsünün (ara düğüm) büyük Avrupa salgınını başlattığını görüyoruz.
 <br><br>
-This indicates that while we hadn't yet sequenced any samples from this clade, the origins of the European outbreak were already circulating undetected by late January or early February.
+Bu durum, Avrupa'daki salgını başlatan soy hattından herhangi bir genom dizimiz olmadığı dönemde bu soy hattının hali hazırda farkedilmeden Ocak sonu ya da Şubat başında dolaşımda olduğuna işaret ediyor.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Initial cryptic transmission in North America](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
+# [Kuzey Amerika'daki ilk gizli bulaşım](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-Similarly, zooming in to the bottom of the tree, we see an ancestral North American virus (internal node) that initiated what would later become a large outbreak in North America.
+Aynı şekilde, ağacın alt kısmına yakınlaştığımızda atasal Kuzey Amerika virüsünün (ara düğüm), Kuzey Amerika'da büyük bir salgını başlattığını görüyoruz.
 <br><br>
-This indicates that although we only had 1 sequenced case from this cluster at the time, the virus was circulating undetected within North America by late January or early February.
+Bu da gösteriyor ki, o dönemde bu kümeden yalnızca bir örneğimiz olmasına rağmen bu virüs Ocak sonu ya da Şubat başlarında Kuzey Amerika'da farkedilmeden dolaşmaktaydı.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Expansion of North American and European outbreaks](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
+# [Kuzey Amerika ve Avrupa Salgınlarının ilerlemesi](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
 
-During the 3rd month of the outbreak, from mid-February to mid-March 2020, these two clusters expanded to cause large outbreaks within Europe and North America, respectively.
+Salgının 3.ayında, 2020 Şubat ortasından Mart ortasına kadar, bu iki küme, sırasıyla Avrupa ve Kuzey Amerika'da büyük salgınlara neden olacak şekilde genişledi.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Spread across international borders](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
+# [Uluslararası sınırlara yayılım](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
 
-Within each of these regions, we see widespread mixing across state lines and international borders.
-This is demonstrated here by the intermingling of samples from multiple U.S. states and Canadian provinces.
+Bu bölgelerin her birinde, eyalet ve uluslararası sınırlar arasında yaygın bir karışım olduğunu görüyoruz.
+Bu, ABD ve Kanada eyaletlerinden gelen pek çok örneğin birbirlerine karışmış olduğunu göstermektedir.
 <br><br>
-We've [previously reported](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) on a similar pattern of frequent mixing of viral lineages between European countries.
+Daha önce, Avrupa ülkeleri arasında viral soyların buna benzer şekilde birbirlerine karıştığını [bildirmiştik](https://nextstrain.org/narratives/ncov/sit-rep/tr/2020-03-27?f_region=Europe&n=5).
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Introductions from North America & Europe to other parts of the globe](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
+# [Kuzey Amerika ve Avrupa'dan dünyanın diğer bölgelerine virüs girişleri](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
-The North American and European clusters are not restricted to their respective regions. During this time period, we also see cases from South America, Oceania, and Africa against a backdrop of primarily European and North American clades. This indicates that there were frequent intercontinental introductions during this time period.
+Kuzey Amerika ve Avrupa kümeleri kendi bölgeleriyle sınırlı değiller. Bu dönemde Kuzey Amerika ve Avrupa soylarının yanında Güney Amerika'dan, Okyanusya'dan ve Afrika'dan da vakalar görüyoruz. Bu, bu dönemde kıtalararası girişlerin sık olduğunu göstermektedir.
 <br><br>
-Interestingly, samples from the global south span the full breadth of the tree, indicating that these regions' outbreaks are mixtures of many viral lineages.
-
+İlginç bir şekilde, dünyanın güneyinden alınan örnekler filogenetik ağacın tüm dallarına yayılmaktadır. Bu da bu bölgelerdeki salgınların birden fazla viral soyun karışımı olduğunu göstermektedir.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Coming full circle: reintroductions to Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
+# [Dönüp dolaşıp aynı noktaya gelmek: Asya'daki yeni virüs girişleri](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
 
-In the last month, the pandemic has come full circle. Here, we see re-introductions from Europe and North America back to Asia.
+Geçen ay içinde, salgın başladığı yere geri döndü. Burada Avrupa ve Kuzey Amerika'dan Asya'ya yeniden girişler oldugunu görüyoruz.
 <br><br>
-This resoundingly demonstrates that this pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
+Bu, bir kez daha bu pandeminin küresel bir mücadele olduğunu göstermektedir. Virüsü bir yerde yenmek istiyorsak, yayıldığı her yerde kontol altına almaya yardımcı olmalıyız.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Takeaway](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Buradan çıkarılacak sonuçlar](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 
-Regional and national outbreaks are and will be deeply intertwined.
+Bölgesel ve ulusal salgınlar birbirlerine derinlemesine bir şekilde dolanmış durumda ve dolanmaya da devam edecek.
 <br><br>
-This pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
+Bu salgın küresel bir mücadeledir. Bu virüsü herhangi bir yerde yenmeyi umuyorsak, hepimiz onu her yerde kontrol etmeye yardımcı olmalıyız.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# What you can do
+# Ne yapabilirsiniz?
 
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+#### ...bireysel olarak
+* Her gün temas kurduğunuz kişi sayısını önemli ölçüde düşürün; özellikle de daha kolay etkilenen gruptaysanız.
+* Hassas grupta olmasanız da etrafınızdaki pek çok kişinin bu kategoriye girdiğini unutmayın. Diğerlerini korumak için bu kurallara uyun.
+* Ellerinizi "acı biber doğradıktan sonra lenslerinizi değiştirmek zorundaymışçasına" yıkayın.
+* Mümkün olabildiğince evde kalın -- özellikle de hastaysanız kendinizi karantinaya alma durumunda yeterli olacak malzemelerinizi hazır edin.  
+* Eğer bir işverenseniz, mümkün olduğunca çalışanlarınızın evden çalışmalarına izin verin veya teşvik edin.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...yetkililer olarak  
+* Testleri ücretsiz ve geniş ölçüde yapılabilir hale getirin.
+* Sert sosyal mesafe uygulamalarını yürürlüğe koyun.
+* Kapsamlı temas izleme çalışmalarına maddi destek verin ve uygulamaya geçirin.
+* Sosyal mesafe önlemlerinden etkilenenleri maddi olarak destekleyin.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -210,20 +212,20 @@ This pandemic is a global fight; we all must help control this virus everywhere 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [Bilimsel Katkılar](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Bu salgında harika ve hızlı bir şekilde çalışan tüm bilim insanlarına, özellikle de Çin'de çalışanlara, teşekkür etmek istiyoruz.
+Bu gibi çalışmalar yalnızca genomik verilerin ve meta verilerin hızlı paylaşımı sayesinde mümkün olabilir.
 
 <br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+Ayrıca, bu verilerin yüklenebileceği ve paylaşılabileceği platformu sağladığı için [GISAID'e](https://gisaid.org) minnettarlıkla teşekkür ederiz.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Bu kaynak laboratuvarlar tarafından toplanan veriler için minnettarız:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -628,19 +630,20 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Bilimsel katkı detayları](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Bu veriler [GISAID](https://gisaid.org) üzerinden paylaşılabiliyor.
+Onlara katkıları için çok teşekkür ediyoruz.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+Sağda her laboratuvar tarafından paylaşılan dizilerin bilgilerini bulabilirsiniz.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+SARS-CoV-2 genomları bu laboratuvarlardaki cömert bilim insanları tarafından paylaşıldı:
+
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020

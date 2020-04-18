@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-10.
+title: آنالیز ژنتیکی شیوع ویروس کووید-۱۹. شرح گزارش ۱۰ آوریل ۲۰۲۰.
 authors:
   - Sidney M. Bell
   - Nicola Müller
@@ -18,10 +18,16 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Marziye Jafariyazani
+  - Arman Karshenas
+  - Mahan Ghafari
 translatorLinks:
-date: "2020 April 10"
+  - https://github.com/marziye-jy
+  - https://twitter.com/ArmanKarshenas
+  - https://twitter.com/Mahan_Ghafari
+date: "دهم آوریل ۲۰۲۰"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "این گزارش از داده‌های کووید-۱۹ که در اختیار عموم گذاشته شده استفاده می‌کند. این گزارش‌ها هر هفته بروز رسانی می‌شود."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -29,30 +35,27 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Executive summary](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
-
-This week, we take a step back to trace how the outbreak has unfolded, month by month.
-We focus on transmission dynamics _between_ regions of the world. Here, we cover:  
+# [خلاصه اجرایی](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
+این هفته ما به عقب نگاه می‌‌کنیم تا نحوه گسترش همه‌گیری را ماه به ماه بررسی کنیم. همچنین بر روی رفتار زمانی انتقال میان مناطق مختلف جهان تمرکز می‌کنیم و موارد زیر را مورد بررسی قرار می‌دهیم:
 <br>
-* [Background and resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [Early spread within Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [Initial introductions from Asia to North America, Europe and Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [Growth of North American & European outbreaks](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [Subsequent spread across international borders within regions](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [Spread from Europe and North America to the global south](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [Coming full circle: reintroductions to Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [Scientific credits](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [منابع و پیش زمینه](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-10?n=2).
+* [یادداشتی درباره نمونه گیری](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-10?n=3).
+* [گسترش اولیه بیماری در قاره آسیا](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-10?n=4).
+* [ورود اولیه ویروس از آسیا به قاره آمریکا شمالی، اروپا و اقیانوسیه](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-10?n=5).  
+* [رشد همه‌گیری در آمریکای شمالی و اروپا](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-10?n=8).  
+* [گسترش‌ و شیوع خارج از مرزهای بین‌المللی در مناطق مختلف جهان](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-10?n=9).
+* [گسترش از اروپا و آمریکا به نیم‌کره جنوبی](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-10?n=10).  
+* [حلقه تکمیل شده: بازگشت دوباره ویروس به آسیا](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-10?n=11).
+* [کارهایی که شما می‌توانید انجام دهید](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-10?n=12).
+* [اعتبار علمی](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# About
+# درباره این گزارش
+ در این‌جا، ما ۳۱۶۰ داده ژنتیکی کووید-۱۹ را که به اشتراک عموم گذاشته‌شده است بررسی می‌کنیم. با مقایسه این اطلاعات، می‌توانیم مشخص کنیم که کووید-۱۹ چگونه در جهان منتقل می‌شود و در مناطق محلی پخش و شایع می‌شود.
 
-We analyzed 3,160 publicly shared SARS-Cov-2 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 (which causes COVID-19) is moving around the world and spreading locally.
-
-
-We are in the process of moving to more specific, regionally-focused analyses. You can find more information about this change [here](https://twitter.com/nextstrain/status/1247851469392564224) and how to help us out [here](https://twitter.com/sidneymbell/status/1247933122064207872); thank you for your patience during this transition.
+ما در پروسه انتقال به گزارش‌های تخصصی‌تر، با تمرکز بر مناطق مختلف هستیم. برای اطلاعات بیشتر به
+[اینجا](https://twitter.com/nextstrain/status/1247851469392564224) و برای چگونگی کمک به ما به [اینجا](https://twitter.com/sidneymbell/status/1247933122064207872) مراجعه کنید. از صبر شما در حین این انتقال سپاس‌گزاریم.
 
 ```
 
@@ -60,144 +63,140 @@ We are in the process of moving to more specific, regionally-focused analyses. Y
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [منابع کووید ۱۹ ](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
+ما منابع گوناگون دیگری که ارزش خواندن برای آشنایی با کووید-۱۹ و ویروس ایجاد‌کننده‌ی آن یعنی سارس-کووید-۲ دارند آماده کرده‌ایم تا با آن‌ها آشنا شوید. این اطلاعات تفسیر داده‌های ارائه شده در این گزارش را آسان‌تر می‌کند. 
+#### منابع Nextstrain  
+* [از اینجا شروع کنید: چگونه درخت‌های ژنتیکی را بخوانید](https://nextstrain.org/narratives/trees-background/fa).  
+* [پیش‌زمینه ویروس کرونا](https://nextstrain.org/help/coronavirus/human-CoV).
+* [باور‌های نادرست و متداول](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-03-13?n=11).
 
-#### External Resources  
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+#### منابع فراتر  
+* [گزارش وضعیت سازمان بهداشت جهانی](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [CDC منابع](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [پوشش خبری مجله نیویورک تایمز در‌ارتباط با همه‌گیری کووید-۱۹](https://www.nytimes.com/news-event/coronavirus).
+* [از یک دانشمند بپرسید و سوالات متداول](https://covid19.fas.org/l/en).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 57 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [یادداشتی در مورد نمونه‌گیری](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+ما در حال حاضر از ۵۷ کشور در ۶ قاره نمونه‌های توالی ژنتیکی داریم. این یک دست‌آورد باور نکردنی است به این خاطر که نمونه‌گیری از توالی ژنتیکی یک ویروس بزرگ آر‌ان‌ای ناشناخته در وسط یک همه‌گیری جهانی دشوار است و فقط با تلاش باورنکردنی و به اشتراک‌گذاری به موقع داده‌ها توسط دانشمندان و پزشکان در سراسر جهان امکان‌پذیر است.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+در حالی که این داده‌ها به ما این امکان را می‌دهد که بسیاری از خصوصیات مهم این شیوع را استنباط کرده و موقعیت زمانی و مکانی آن را ردیابی کنیم، تأکید می‌شود که نتیجه‌گیری‌های ما محدود به داده‌های موجود است. 
 <br><br>
-For example, the map shows very few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+به عنوان مثال، در نقشه‌ی روی این سایت نمونه‌های توالی ژنتیکی بسیار کمی از کشورهای نیم‌کره جنوبی نشان داده شده است. این به این دلیل نیست که کووید-۱۹ در این مناطق پخش نمی‌شود یا این موارد برای درک ما از شیوع ویروس چندان مهم نیستند، بلکه نشان می‌دهد ما داده‌های زیادی از این مناطق نداریم. اندازه‌ی هر دایره روی نقشه نشان می‌دهد که چه مقدار داده در حال حاضر از آن منطقه در دسترس است و به معنای گستره‌ی همه‌گیری نیست.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Early spread within Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
-
-Here, we highlight samples from mid-December 2019 through mid-January 2020, during the first month of the outbreak.
-Tips of the tree represent samples from infected individuals.
-Each internal node, or branch point, represents an unsampled case, which was the ancestor of all of the other cases within the descendant clade.
+# [گسترش اولیه بیماری در قاره‌ آسیا](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
+ در اینجا ما نمونه‌هایی از ماه اول شیوع یعنی اواسط دسامبر تا اواسط ژانویه را مورد بررسی قرار می‌دهیم.
+ سرشاخه‌های درخت نشان‌دهنده نمونه‌ها از افراد مبتلا هستند. هر یک از گره‌ها و نقاط چندشاخه شده در نمودار، نشان‌دهنده یک موردی است که نمونه‌گیری نشده است، که از نظر ژنتیکی، پیش گونه‌ی تمام بیمارانیست که توسط این فرد مبتلا شده‌اند.
 <br><br>
-Tips are colored according to where they were sampled from; nodes (branch points) are colored by the inferred (most likely) location of the ancestral case.
+رنگ سرشاخه‌های درخت بر اساس محل نمونه‌گیری آنها است، رنگ گره‌ها(نقاط چندشاخه شدن) بر‌اساس محل احتمالی ویروس مادر هستند.
 <br><br>
-Comparing where a sequence was isolated from geographically to where its ancestors were circulating can help us understand not only where infections are occurring, but also where they may have been acquired.
+مقایسه محل جغرافیایی نمونه‌گیری با محلی که نمونه‌ی مادر آن در حال پراکنده شدن هستند به ما کمک می‌کند تا علاوه بر نقاطی که همه‌گیری در آن‌ها در حال گسترش است نحوه ورود ویروس به این مناطق را نیز شناسایی کنیم.
 <br><br>
-The common ancestor of circulating viruses appears to have emerged in Wuhan, China, in late Nov or early Dec 2019.
-Accordingly, the majority of sampled and inferred ancestral cases were located in Asia during this early period.
-This is consistent with circulation largely within China and some exported cases to other countries in Asia for the first month of the outbreak.  
+به نظر می‌رسد که مبدأ مشترک همه ویروس‌های در حال پخش شدن از ووهان چین است که از اواخر نوامبر یا اوایل دسامبر ۲۰۱۹ آغاز شده است. به همین ترتیب، اکثریت موارد نمونه‌گیری شده یا مبدأهای استنتاج شده برای ویروس در این زمان در آسیا بوده‌اند. این منطبق با نظریه‌ی پخش گسترده ویروس در چین و چند مورد انتقال ویروس به بقیه کشورهای آسیایی در ماه اول شیوع است.
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Initial introductions to other regions](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
+# [اولین سرایت‌ها به سایر مناطق](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
 
-During the 2nd month of the outbreak, from mid-January to mid-February 2020, we start to see individual cases crop up in North America, Europe and Oceania.
-These early cases still group with samples from Asia, and generally lack the hallmarks of local transmission.
+در ماه دوم شیوع، یعنی از اواسط ژانویه تا اواسط فوریه ۲۰۲۰، ما بیمارانی از آمریکای شمالی، اروپا و اقیانوسیه مشاهده کردیم. 
+این اولین بیماران، هنوز مشابه نمونه‌های آسیایی بودند و به طور کلی اثری از انتقال منطقه ای نبود. 
 <br><br>
-This is consistent with initial sparks being thrown from the main outbreak in Asia to other parts of the world. Although most of these sparks did not result in localized outbreaks, at least three of these introductions took off. These led to the large European and North American outbreaks, as well as more restricted spread in Oceania.
+این مشاهدات نشان می‌دهند که جرقه‌های اولیه این بیماری در نقاط مختلف دنیا، از شیوع اصلی در آسیا نشأت گرفته‌اند. اگرچه اکثریت این جرقه‌ها منجر به زنجیره‌های انتقال منطقه‌ای نشدند، اما حداقل سه مورد منجر به همه‌گیری‌های منطقه‌ای شد: شیوع وسیع در اروپا، آمریکای شمالی و شیوع محدودتر در اقیانوسیه.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Initial cryptic transmission in Europe](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
+# [سرایت اولیه پنهان در اروپا](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-Zooming in to the top of the tree for the same time period, we see an ancestral European virus (internal node) that seeded the large European outbreak.
+با بزرگ‌نمایی در قسمت بالای نمودار درختی در این بازه زمانی، یک ویروس اروپایی مادر (گره داخلی) را مشاهده می‌کنیم که مبدأ و منشأ شیوع گسترده در اروپا است. 
 <br><br>
-This indicates that while we hadn't yet sequenced any samples from this clade, the origins of the European outbreak were already circulating undetected by late January or early February.
+این نشان‌دهنده‌ی این است که با این‌که ما هنوز داده توالی ژنتیکی از این گره نداشتیم، اما منشاهای شیوع اروپا از اواخر ژانویه یا اوایل فوریه، بدون این‌که شناسایی شوند در حال پخش  شدن بودند. 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Initial cryptic transmission in North America](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
-
-Similarly, zooming in to the bottom of the tree, we see an ancestral North American virus (internal node) that initiated what would later become a large outbreak in North America.
+# [سرایت اولیه پنهان در آمریکای شمالی](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
+به طور مشابه، با بزرگنمایی در قسمت پایین نمودار درختی، یک ویروس آمریکای شمالی مادر (گره داخلی) را مشاهده می‌کنیم که بعدأ به شیوع گسترده در آمریکای شمالی منجر شد. 
 <br><br>
-This indicates that although we only had 1 sequenced case from this cluster at the time, the virus was circulating undetected within North America by late January or early February.
+این هم نشان‌دهنده این است که با این‌که ما در آن زمان فقط یک داده توالی ژنتیکی از این خوشه داشتیم، اما ویروس از اواخر ژانویه یا اوایل فوریه، بدون این‌که شناسایی شود در حال پخش شدن در آمریکای شمالی بود.
+
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Expansion of North American and European outbreaks](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
+# [گسترش شیوع در اروپا و آمریکای شمالی](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
 
-During the 3rd month of the outbreak, from mid-February to mid-March 2020, these two clusters expanded to cause large outbreaks within Europe and North America, respectively.
+در طول سومین ماه شیوع، یعنی از اواسط فوریه  تا اواسط مارچ، این دو خوشه در حال گسترش بودند که در نهایت منجر به شیوع گسترده در اروپا و آمریکای شمالی شدند. 
+
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Spread across international borders](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
+# [گسترش فرای مرزهای بین المللی](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
 
-Within each of these regions, we see widespread mixing across state lines and international borders.
-This is demonstrated here by the intermingling of samples from multiple U.S. states and Canadian provinces.
+در هر کدام از این مناطق، درهم آمیختگی‌های گسترده‌ای بین مرزهای ایالتی و بین‌المللی مشاهده می‌کنیم.
+این موضوع در اینجا با درهم‌آمیختگی‌های نمونه‌هایی از ایالات مختلف آمریکا و استان‌های کانادا نشان داده شده است.  
 <br><br>
-We've [previously reported](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) on a similar pattern of frequent mixing of viral lineages between European countries.
+ما قبلا الگوی مشابهی از درهم‌آمیختگی‌های متعدد منشأهای ویروس در کشورهای مختلف اروپایی را [گزارش کرده بودیم.](https://nextstrain.org/narratives/ncov/sit-rep/fa/2020-03-27?f_region=Europe&n=5) 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Introductions from North America & Europe to other parts of the globe](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
+# [ورود ویروس به بقیه مناطق جهان از اروپا و آمریکای شمالی](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
-The North American and European clusters are not restricted to their respective regions. During this time period, we also see cases from South America, Oceania, and Africa against a backdrop of primarily European and North American clades. This indicates that there were frequent intercontinental introductions during this time period.
+خوشه‌های آمریکای شمالی و اروپا فقط محدود به خود این مناطق نیستند.  در این زمان، ما نمونه‌هایی از آمریکای جنوبی، اقیانوسیه و آفریقا را بر روی پس زمینه‌ی گروه اولیه متعلق به اروپا و آمریکای شمالی مشاهده می‌کنیم. این نشان‌دهنده این است که در این زمان، ویروس  به دفعات، به مناطقی در قاره‌های مختلف وارد شده است. 
 <br><br>
-Interestingly, samples from the global south span the full breadth of the tree, indicating that these regions' outbreaks are mixtures of many viral lineages.
-
+جالب توجه است که نمونه‌های نیم‌کره‌ی جنوبی، در تمام بخش‌های نمودار درختی قرار دارند، که نشان می‌دهد شیوع در این مناطق ناشی از ویروس‌هایی با مبدأهای مختلف است.    
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Coming full circle: reintroductions to Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
+# [حلقه تکمیل شده: ورود مجدد به آسیا](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
 
-In the last month, the pandemic has come full circle. Here, we see re-introductions from Europe and North America back to Asia.
+در ماه گذشته، همه‌گیری دور کاملی انجام داد و اینجا، ورود مجدد ویروس از آمریکای شمالی و اروپا را به آسیا مشاهده می‌کنیم.
 <br><br>
-This resoundingly demonstrates that this pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
+این به طرز قابل ملاحظه‌ای نشان می‌دهد که این همه‌گیری یک مبارزه‌ی جهانی است؛ اگر امید به شکست این ویروس در منطقه‌ای داریم، باید همه‌ی ما برای کنترل آن در همه جا کمک کنیم. 
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Takeaway](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [نتیجه‌گیری](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 
-Regional and national outbreaks are and will be deeply intertwined.
+شیوع‌ها چه در سطح منطقه و چه در سطح کشور درهم تنیده هستند و خواهند بود. 
 <br><br>
-This pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
 
+این همه‌گیری یک مبارزه‌ی جهانی است؛ اگر امید به شکست این ویروس در منطقه‌ای داریم، باید همگی برای کنترل آن در همه جا کمک کنیم.
 
 <!-- This is the right-side text -->
-
 ```auspiceMainDisplayMarkdown
-# What you can do
 
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# کارهایی که شما می‌توانید انجام دهید
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...به عنوان یک فرد
+* فاصله اجتماعی را رعایت کنید، مخصوصا اگر جز گروه‌های آسیب‌پذیر هستید.
+* به خاطر داشته باشید که حتی اگر شما در گروه‌های آسیب پذیر نیستید، بسیاری از اطرافیان شما آسیب‌پذیرند. برای مراقبت از دیگران توصیه ها را رعایت کنید.
+* .دست‌هایتان را بشویید، درست مانند زمانی که تسمه کولرتان را عوض کرده‌اید 
+* تا جایی که می توانید در خانه بمانید، مخصوصااگر بیمار هستید. با مقداری آذوقه اضافی خود را برای قرنطینه شخصی آماده کنید. 
+* اگر کارفرما هستید، کارمندان خود را ترغیب کنید که تاجایی که امکان‌پذیر است از خانه کار کنند.
+
+#### ...به عنوان یک مسئول رسمی 
+* فرایند تست گیری را رایگان و گسترده کنید. 
+* فاصله‌گیری اجتماعی را در دستور کار قرار دهید.  
+* از اجرای گسترده رهگیری افراد در تماس با مبتلایان، حمایت مالی کنید.  
+* از کسانی که به واسطه فاصله گیری اجتماعی تحت تاثیر قرار می‌گیرند، حمایت مالی کنید.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -210,20 +209,22 @@ This pandemic is a global fight; we all must help control this virus everywhere 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [اعتبار علمی](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+ما از تلاش شگفت‌انگیز و به موقع انجام‌شده‌ی همه‌ی دانشمندان در حال کار بر روی این همه‌گیری جهانی و به ویژه افرادی که در کشور چین کار می‌کنند قدردانی می‌کنیم، که با به اشتراک‌ گذاری سریع داده‌های ژنتیکی و داده‌های آماری خود تحلیل‌های این‌ چنینی را برای ما ممکن می‌سازد.
 
 <br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+
+با سپاس و قدردانی از [GISAID](https://gisaid.org) برای در اختیار گذاشتن این پلتفرم که از طریق آن داده‌ها بارگذاری و به اشتراک گذاشته‌ می شوند. 
+
+
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+ما از گروه‌های آزمایشگاهی زیر برای اشتراک‌گزاری داده‌ها تشکر می‌کنیم:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -628,19 +629,18 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [لیست کامل اعتبار علمی](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+این داده‌ها از طریق GISAID به اشتراک گذاشته‌شد. ما از مشارکت آن‌ها بسیار قدردانی می‌کنیم.
 
+
+در سمت راست، توالی‌های خاصی را که توسط هر آزمایشگاه به اشتراک گذاشته شده را نام می‌بریم..
 <br>
-
-To the right we give specific sequences shared by each lab.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Tما از آزمایشگاه‌هایی که داده‌های ژنتیکی سارس-کووید-۲ خود را در اختیار گذاشتند صمیمانه تشکر می‌کنیمs:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020

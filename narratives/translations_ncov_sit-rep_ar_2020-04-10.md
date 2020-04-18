@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-10.
+title: التحليل الجينومي لانتشار كوفيد-19. تقرير حالة. 10 نيسان 2020.
 authors:
   - Sidney M. Bell
   - Nicola Müller
@@ -18,10 +18,14 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Ahmad Saleh
+  - Fadi Alnaji
 translatorLinks:
+  - https://twitter.com/DrSalehAhmad
+  - https://twitter.com/biofadialnaji
 date: "2020 April 10"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "يستخدم هذا التقرير بيانات الجينومات التي يتم مشاركتها للعموم من أجل تتبع انتشار انتشار كوفيد-19. يتم تحديث هذه التقارير أسبوعيا"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -29,30 +33,30 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Executive summary](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
+# [الملخص التنفيذي](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-This week, we take a step back to trace how the outbreak has unfolded, month by month.
-We focus on transmission dynamics _between_ regions of the world. Here, we cover:  
+في هذا الاسبوع، نعود خطوة للخلف لتتبع كيف تكشف الانتشار الوبائي للمرض شهرا بشهر.
+نركز على ديناميكية الانتشار -بين- المناطق في العالم. وهنا نغطي ما يلي
 <br>
-* [Background and resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [Early spread within Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [Initial introductions from Asia to North America, Europe and Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [Growth of North American & European outbreaks](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [Subsequent spread across international borders within regions](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [Spread from Europe and North America to the global south](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [Coming full circle: reintroductions to Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [Scientific credits](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [الخلفية والمصادر](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-10?n=2).
+* [ ملاحظة عن العينات](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-10?n=3).
+* [انتشار مبكر في آسيا](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-10?n=4).
+* [ادخالات اولية من آسيا الى شمال أمريكا، اوروبا، أوقيانوسيا](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-10?n=5).  
+* [نمو الانتشار الوبائي في شمال امريكا وأوربا](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-10?n=8).  
+* [الانتشار المتتالي من خلال الحدود الدولية بين المناطق](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-10?n=9).
+* [الانتشار من اوروبا وشمال امريكا الى نصف الكرة الجنوبي](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-10?n=10).  
+* [الوصول لدورة كاملة: اعادة الاخال لآسيا](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-10?n=11).
+* [ماذا يمكنك ان تفعل](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-10?n=12).
+* [الحقوق العلمية](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# About
+# عن التقرير
 
-We analyzed 3,160 publicly shared SARS-Cov-2 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 (which causes COVID-19) is moving around the world and spreading locally.
+قمنا بتحليل 3160 جينوم لفيروسات سارس-كو-في-2 تم مشاركتها للعموم. من خلال مقارنة هذه الجينومات الفيروسية مع بعضها البعض نستطيع ان نحدد كيف يتنقل سارس-كو-في-2 (المسبب لمرض كوفيد-19) حول العالم وانتشاره محلياً
 
 
-We are in the process of moving to more specific, regionally-focused analyses. You can find more information about this change [here](https://twitter.com/nextstrain/status/1247851469392564224) and how to help us out [here](https://twitter.com/sidneymbell/status/1247933122064207872); thank you for your patience during this transition.
+نحن في عملية تحول لتحليلات اكثر تخصصا ومركزة على المناطق. يمكنك الحصول على بيانات اكثر عن هذا التغيير [هنا](https://twitter.com/nextstrain/status/1247851469392564224) وكيف تقدم لنا المساعدة[هنا](https://twitter.com/sidneymbell/status/1247933122064207872); نشكر لكم صبركم خلال هذا التحول
 
 ```
 
@@ -60,144 +64,148 @@ We are in the process of moving to more specific, regionally-focused analyses. Y
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [مصادر كوفيد-19](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
+قمنا هنا بتحضير بعض المصادر التي ستجعل قدرتك على تحليل البيانات المعروضة في هذا التقرير اسهل.
+#### مصادر Nextstrain  
+* [ابدأ هنا: كيف تقرأ شجرة التصنيف الجيني](https://nextstrain.org/narratives/trees-background/ar).  
+* [خلفية علمية عن فيروسات كورونا](https://nextstrain.org/help/coronavirus/human-CoV).
+* [مفاهيم خاطئة شائعة](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-03-13?n=11).
 
-#### External Resources  
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+#### مصادر خارجية   
+* [تقارير منظمة الصحة العالمية](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [مصادر مركز مكافحة الأمراض الأمريكي](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [تغطية صحيفة نيويورك تايمز لمرض كوفيد-19](https://www.nytimes.com/news-event/coronavirus).
+* [اسأل عالما والاسئلة الشائعة](https://covid19.fas.org/l/en).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 57 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [ملاحظة عن العينات](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+نمتلك حالياً تسلسلات جينومية للفيروس من 57 دولة في 6 قارات. وهذا يعتبر انجازا رهيبا- حيث ان تحديد تسلسل جينوم فيروس ار ان اي كبير وغير معروف مسبقاً في وسط جائحة هو أمر في غاية الصعوبة، وما كان ليكون ممكناً لولا العمل المضني والمشاركة السريعة للبيانات من قبل العلماء والاطباء حول العالم
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+بينما تمكننا هذه البيانات من استنتاج العديد من الخصائص المفيدة عن الاندلاع الوبائي وتتبع انتشاره في الوقت الفعلي، الا انه من المهم التأكيد على أن استنتاجاتنا تبقى محدودة بسبب البيانات المتوفرة.
 <br><br>
-For example, the map shows very few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+فعلي سبيل المثال، ترينا الخارطة عدد قليل من العينات من نصف الكرة الجنوبي. هذا لا يعني أن كوفيد-19 لا يدور في تلك المناطق ولا ان تلك الحالات غير مهمة لفهم انتشار الوباء وانما الى اننا لا نمتلك بيانات كافية من تلك المناطق. حجم كل دائرة على الخريطة يشير الى كمية البيانات المتوفرة حالياً من تلك المنطقة وليس الى الحجم الحقيقي لانتشار الوباء فيها
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Early spread within Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
+# [انتشار مبكر في آسيا](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
-Here, we highlight samples from mid-December 2019 through mid-January 2020, during the first month of the outbreak.
-Tips of the tree represent samples from infected individuals.
-Each internal node, or branch point, represents an unsampled case, which was the ancestor of all of the other cases within the descendant clade.
+نظلل هنا عينات من وسط ديسمبر 2019 حتى وسط يناير 2020 خلال الشهر الاول لاندلاع الوباء.
+نهايات فروع الشجرة تمثل عينات من افراد مصابين
+كل عقدة داخلية او نقطة تفرع تمثل حالات لم يجمع منها عينات والتي تعتبر منشأ كل الحالات الاخرى في العنقود المنبثق منها.
 <br><br>
-Tips are colored according to where they were sampled from; nodes (branch points) are colored by the inferred (most likely) location of the ancestral case.
+نهايات الفروع ملونة حسب المكان الذي جمعت منه، العقد (نقاط التفرع) ملونة حسب الموقع المستنتج على الاغلب للحالة المنشأ.
 <br><br>
-Comparing where a sequence was isolated from geographically to where its ancestors were circulating can help us understand not only where infections are occurring, but also where they may have been acquired.
+مقارنة اين تم عزل التسلسل الجينومي جغرافيا مع اين كانت تدور حالات المنشأ يمكننا ليس فقط من فهم اين توجد العدوى وانما أيضاً  من اين تم الحصول عليها
 <br><br>
-The common ancestor of circulating viruses appears to have emerged in Wuhan, China, in late Nov or early Dec 2019.
-Accordingly, the majority of sampled and inferred ancestral cases were located in Asia during this early period.
-This is consistent with circulation largely within China and some exported cases to other countries in Asia for the first month of the outbreak.  
+المنشأ العام للفيروسات الدائرة يظهر بأنه انطلق من ووهان في الصين في اواخر نوفمبر وبداية يناير 2019.
+وعليه فان معظم حالات المنشأ المستنتجة و تلك التي تم جمعها كانت متموضعة في الصين خلال هذه الفترة المبكرة.
+وهذا يتوافق مع الدوران الاكبر في الصين وبعض الحالات المصدرة الى دول آسيوية اخرى خلال الشهر الاول من اندلاع الوباء.  
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Initial introductions to other regions](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
+# [إدخالات أولية لمناطق مختلفة](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
 
-During the 2nd month of the outbreak, from mid-January to mid-February 2020, we start to see individual cases crop up in North America, Europe and Oceania.
-These early cases still group with samples from Asia, and generally lack the hallmarks of local transmission.
+خلال الشهر الثاني من اندلاع الوباء، من منتصف يناير وحتى منتصف فبراير٢٠٢٠، بدأنا نرى حالات فردية تتصاعد في جنوب أمريكا وأوروبا وأوقيانوسيا. هذه الحالات المبكرة لازالت تتجمع مع عينات أسيا، وتفتقد لسمات الانتشار المحلي .  
 <br><br>
-This is consistent with initial sparks being thrown from the main outbreak in Asia to other parts of the world. Although most of these sparks did not result in localized outbreaks, at least three of these introductions took off. These led to the large European and North American outbreaks, as well as more restricted spread in Oceania.
+وهذا يتماشى مع أن انطلاقة الوباء كانت في آسيا ثم انتقلت لمناطق العالم المختلفة. على الرغم من أن الفيروسات التي نتجت من الانطلاقة الاولى للوباء لم تحدث انتشارات محلية، إلا أن هناك ثلاث ادخالات تمكنت من ذلك. وتلك التي تسببت في اندلاع الوباء على نطاق واسع في أوروبا وأمريكا الشمالية، وكذلك اسست لانتشار محدود في أوقيانوسيا
+
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Initial cryptic transmission in Europe](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
+# [سلسلسة انتشار مبهمة في أوروبا](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-Zooming in to the top of the tree for the same time period, we see an ancestral European virus (internal node) that seeded the large European outbreak.
+بالتقريب على قمة الشجرة في نفس الفترة الزمنية، نرى الفيروس الرئيسي (العقد الداخلية) الذي أدخل الوباء على نطاق واسع في القارة الأوروبية.
 <br><br>
-This indicates that while we hadn't yet sequenced any samples from this clade, the origins of the European outbreak were already circulating undetected by late January or early February.
+هذا يدل على انه في حين لم يكن بحوزتنا أي عينات من هذا الفرع من الشجرة، فإن فيروس المنشأ للوباء في  أوروبا كان نشطا وغير مكتشف ابتداء من أواخر يناير أو بدايات  فبراير
+<br><br>
+
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Initial cryptic transmission in North America](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
+# [سلسلسة انتشار مبهمة في شمال أمريكا](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-Similarly, zooming in to the bottom of the tree, we see an ancestral North American virus (internal node) that initiated what would later become a large outbreak in North America.
+بنفس  الطريقة،  بالتقريب على قاع الشجر،  نرى فيروس المنشأ للوباء في شمال أمريكا، والذي سبب اندلاع  الوباء  على نطاق واسع كما نراه اليوم.
 <br><br>
-This indicates that although we only had 1 sequenced case from this cluster at the time, the virus was circulating undetected within North America by late January or early February.
+هذا يدل، وعلى الرغم من  تحديد سلسلة الجينوم لعينة واحدة فقط  من هذا الجزء من الشجرة في ذلك الوقت،  إلا أن الفيروس كان كان نشطا وغير مكتشف ابتداء من أواخر يناير أو بدايات  فبراير
+
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Expansion of North American and European outbreaks](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
+# [انتشار الوباء  في شمال أمريكا وأوروبا ](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
 
-During the 3rd month of the outbreak, from mid-February to mid-March 2020, these two clusters expanded to cause large outbreaks within Europe and North America, respectively.
+في الشهر الثالث من اندلاع الوباء، من منتصف فبراير وحتى منتصف مارس ٢٠٢٠،  فإن  فيرسات المنشأ تمددت لتحدث الوباء على نطاق واسع  كما نراه الآن .
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Spread across international borders](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
+# [الانتشار من خلال الحدود الدولية](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
 
-Within each of these regions, we see widespread mixing across state lines and international borders.
-This is demonstrated here by the intermingling of samples from multiple U.S. states and Canadian provinces.
+في  كل من هذه المناطق، نرى خلطا شاسعا بين الولايات الأمريكية، والحدود الدولية. هذا يبدو جليا من خلال الخلط في العينات بين ولايات أمريكية متعددة ومقاطعات في كندا.
 <br><br>
-We've [previously reported](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) on a similar pattern of frequent mixing of viral lineages between European countries.
+كما  [نشرنا سابقا](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-03-27?f_region=Europe&n=5) نسقا  مشابها  من الخلط بين سلالات الفيروس في مدن أوروبية.  
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Introductions from North America & Europe to other parts of the globe](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
+# [إدخالات  للفيروس من شمال أمريكا وأوروبا  للعالم](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
-The North American and European clusters are not restricted to their respective regions. During this time period, we also see cases from South America, Oceania, and Africa against a backdrop of primarily European and North American clades. This indicates that there were frequent intercontinental introductions during this time period.
+الفيروسات المتمثلة في فروع الشجرة الممثلة لأمريكا وأوروبا ليست حكرا على  هذه الدول. في خلال هذه الفترة ، رأينا عينات  من  جنوب أمريكا، وأوقيانوسيا وأفريقيا على خلفية تلك الفروع ، الشمال أمريكية والأوروبية في المقام  الأول. هذا يشير إلى أنه كان هناك  إدخالات  متعددة للفيروس على نطاق دولي في تلك الفترة.
 <br><br>
-Interestingly, samples from the global south span the full breadth of the tree, indicating that these regions' outbreaks are mixtures of many viral lineages.
+ بشكل مثير للاهتمام، نرى عينات الجزء الجنوبي من الكوكب تغطي كامل عرض الشجرة، مما يشير بأن الوباء في تلك المناطق يحتوي على فيروسات متعددة المنشأ.
+
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Coming full circle: reintroductions to Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
+# [الفيروس أكمل دورة  كاملة: إعادة إدخال لآسيا](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
 
-In the last month, the pandemic has come full circle. Here, we see re-introductions from Europe and North America back to Asia.
+أكمل الفيروس دورة كاملة خلال الشهر الفائت. هذا يبدو جليا من خلال إعادة الإدخال للفيروس من شمال أمريكا وأوروبا لآسيا
 <br><br>
-This resoundingly demonstrates that this pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
+وهذا يوضح أن هذا الوباء هو معركة عالمية ؛ يجب علينا جميعًا المساعدة في السيطرة على هذا الفيروس في كل مكان إذا كنا نأمل في القضاء عليه
+
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Takeaway](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [الاستنتاجات والحقائق الحالية](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 
-Regional and national outbreaks are and will be deeply intertwined.
+التفشي في الوباء متداخل بعمق على النطاق الإقليمي والدولي.
 <br><br>
-This pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
+هذا الوباء هو معركة عالمية ؛ يجب علينا جميعًا المساعدة في السيطرة على هذا الفيروس في كل مكان إذا كنا نأمل في القضاء عليه
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# What you can do
+ماذا تفعل
+#### ...كفرد في المجتمع
+* قم بالتقيد بالحجر الصحي، تحديدا إذا كنت في مجموعة هي عرضة للوباء
+* تذكر ،  حتى لو لم تكن عرضة  للوباء،  فهناك  العديد من الأشخاص حولنا قد يكونون.  فتقيد بالحجر لحمايتهم
+* اغسل بديك "كانك تريد تغيير عدساتك اللاصقة بعد ان قمت بتقطيع الفلفل"
+* ابق في المنزل قدر ما تستطيع -- بشكل مخصوص إذا كنت مريضا، كن مستعدا وتزود باحتياجات اضافية في حال اضطررت للحجر الذاتي.
+* إذا كنت رب عمل، شجع موظفيك على العمل من البيت ان كان ذلك ممكنا
 
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+#### ...كشخص في موقع مسؤولية
+* اجعل الفحوصات مجانية ومتوفرة بكثرة
+* ضع تدابير التباعد الاجتماعي وتابع تنفيذها بفعالية على ارض الواقع
+* قم بتمويل وتطبيق جهود متابعة التواصل المكثفة.
+* ادعم ماديا أولئك المتضررين مم التباعد الاجتماعي ( العمالة الذين يعملون بنظام الوقت الساعي، اولئك الذين يعتنون بالكبار والأطفال, والمشاريع الصغيرة،...الخ).
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -210,20 +218,19 @@ This pandemic is a global fight; we all must help control this virus everywhere 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [الحقوق العلمية ](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
-
+الحقوق العلمية
+نود هنا ان نشكر ونقدر الاعمال الرائعة المنجزة بوقتها من قبل جميع العلماء الذي عملوا على هذا الوباء وخصوصاً أولئك العاملين في الصين. فقط من خلال المشاركة السريعة للبيانات الجينية كان بالامكان عمل هذه التحليلات
 <br>
+كما نثمن بقوة ونشكر [GISAID](https://gisaid.org) على تزويدهم لنا بمنصتهم والتي تم من خلالها تحميل وتحليل البيانات.
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+نحن ممتنون للبيانات التي تم جمعها من قبل المختبرات التالية
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -628,19 +635,19 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [الحقوق العلمية التفصيلية](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+تم مشاركة هذه البيانات من خلال [GISAID](https://gisaid.org).
+نقدر ونثمن عاليا مساهماتهم
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+نظهر على اليمين التسلسلات الجينومية الخاصة ولتي تم مشاركتها من كل مختبر
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+جينومات سارس كو في 2 تمت بمشاركات كريمة من العلماء بالمختبرات التالية
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020

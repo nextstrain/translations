@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-10.
+title: Γονιδιωματική ανάλυση της εξάπλωσης του COVID-19. Κατάσταση 10/04/2020.
 authors:
   - Sidney M. Bell
   - Nicola Müller
@@ -17,11 +17,15 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
-date: "2020 April 10"
+translators: 
+  - Sofia Paraskevopoulou
+  - Sotiris Salloumis
+translatorLinks: 
+  - https://github.com/akifoss
+  - https://github.com/codergr
+date: "10 Απριλίου 2020"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "Aυτή η αναφορά χρησιμοποιεί δεδομένα που είναι δημοσίως διαθέσιμα για την ιχνηλάτηση της εξάπλωσης της ασθένειας COVID-19. Οι αναφορές ανανεώνονται σε εβδομαδιαία βάση."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -29,30 +33,32 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Executive summary](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
+# [Γενική περίληψη](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-This week, we take a step back to trace how the outbreak has unfolded, month by month.
-We focus on transmission dynamics _between_ regions of the world. Here, we cover:  
-<br>
-* [Background and resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [Early spread within Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [Initial introductions from Asia to North America, Europe and Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [Growth of North American & European outbreaks](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [Subsequent spread across international borders within regions](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [Spread from Europe and North America to the global south](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [Coming full circle: reintroductions to Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [Scientific credits](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+Αυτή την εβδομάδα θα πάμε ένα βήμα πίσω ώστε να ιχνηλατήσουμε την εξέλιξη της πανδημίας μήνα προς μήνα.
+Εστιάζουμε στις δυναμικές διασποράς _μεταξύ_ των διάφορων περιοχών του κόσμου. Θα καλύψουμε τα παρακάτω:
+
+
+* [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-10?n=2).
+* [Μια σημείωση σχετικά με τις δειγματοληψίες](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-10?n=3).
+* [Αρχική διασπορά εντός της Ασίας](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-10?n=4).
+* [Αρχικές εισαγωγές από την Ασία στη Βόρεια Αμερική, την Ευρώπη και την Ωκεανία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-10?n=5). 
+* [Ανάπτυξη των επιδημιών στη Βόρεια Αμερική και την Ευρώπη](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-10?n=8). 
+* [Δευτερογενής διασπορά πέρα από διεθνή σύνορα](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-10?n=9).
+* [Διασπορά από την Ευρώπη και τη Βόρεια Αμερική στο νότο της υφηλίου](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-10?n=10). 
+* [Επανεισαγωγές στην Ασία: ένας κύκλος που κλείνει](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-10?n=11).
+* [Τι μπορείτε να κάνετε](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-10?n=12).
+* [Επιστημονικές ευχαριστίες](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# About
-
-We analyzed 3,160 publicly shared SARS-Cov-2 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 (which causes COVID-19) is moving around the world and spreading locally.
+# Σχετικά με αυτή την αναφορά
 
 
-We are in the process of moving to more specific, regionally-focused analyses. You can find more information about this change [here](https://twitter.com/nextstrain/status/1247851469392564224) and how to help us out [here](https://twitter.com/sidneymbell/status/1247933122064207872); thank you for your patience during this transition.
+Έχουμε αναλύσει 3.160 δημοσίως διαθέσιμα γονιδιώματα SARS-Cov-2. Συγκρίνοντας αυτά τα ιικά γονιδιώματα μεταξύ τους, μπορούμε να κατανοήσουμε πώς ο SARS-Cov-2 (ο οποίος προκαλεί την ασθένεια COVID-19) μετακινείται στην υφήλιο και πώς διασπείρεται τοπικά.
+
+
+Είμαστε στη διαδικασία πραγματοποίησης αναλύσεων που θα είναι πιο συγκεκριμένες και στοχευμένες σε μικρότερες περιοχές. Μπορείτε να βρείτε περισσότερες πληροφορίες σχετικά με αυτή την αλλαγή [εδώ](https://twitter.com/nextstrain/status/1247851469392564224), καθώς και πώς μπορείτε να μας βοηθήσετε [εδώ](https://twitter.com/sidneymbell/status/1247933122064207872). Σας ευχαριστούμε για την υπομονή σας κατά τη διάρκεια αυτής της αλλαγής.
 
 ```
 
@@ -60,144 +66,154 @@ We are in the process of moving to more specific, regionally-focused analyses. Y
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [COVID-19 Πηγές](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
+Έχουμε ετοιμάσει ορισμένες πηγές πληροφόρησης που θα σας διευκολύνουν στην ερμηνεία των δεδομένων που παρουσιάζονται σε αυτή την αναφορά.
+#### Πηγές του Nextstrain 
+* [ΞΕΚΙΝΗΣΤΕ ΕΔΩ: Πώς να ερμηνεύσετε ενά φυλογενετικό δέντρο](https://nextstrain.org/narratives/trees-background/el). 
+* [Βασικές γνώσεις σχετικά με τους κορωνοϊούς](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Συχνές παρερμηνείες](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+#### Εξωτερικοί Σύνδεσμοι 
+* [Αναφορές κατάστασης του ΠΟΥ](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Πηγές του CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Κάλυψη των NYTimes σχετικά με τον COVID-19](https://www.nytimes.com/news-event/coronavirus).
+* [Ρωτήστε έναν επιστήμονα & Συχνές ερωτήσεις](https://covid19.fas.org/l/en).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 57 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
-<br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
-<br><br>
-For example, the map shows very few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+# [Μια σημείωση σχετικά με τις δειγματοληψίες](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
 
+Αυτή τη στιγμή έχουμε αλληλουχίες από δείγματα που έχουν ληφθεί από 57 χώρες σε 6 ηπείρους. Αυτό είναι ένα αξιόλογο κατόρθωμα - η αλληλούχηση ενός άγνωστου ιού με μεγάλο RNA γονιδίωμα εν μέσω πανδημίας είναι δύσκολη και είναι η εξαιρετική δουλειά και ο συνεχής διαμοιρασμός δεδομένων από επιστήμονες και γιατρούς σε όλο τον κόσμο που την καθιστούν δυνατή. 
+<br><br>
+Ενώ τα δεδομένα μας επιτρέπουν να εξάγουμε αρκετά χρήσιμα χαρακτηριστικά για την επιδήμια και να παρακολουθήσουμε την εξάπλωσή της σε πραγματικό χρόνο, είναι σημαντικό να επισημάνουμε ότι τα συμπερασματά μας περιορίζονται απο τη διαθεσιμότητα των δεδομένων. 
+
+
+<br><br>
+Για παράδειγμα, ο χάρτης περιλαμβάνει πολύ λίγες αλληλουχίες απο το νότιο ημισφαίριο. Αυτό ΔΕ συμβαίνει επειδή δεν υπάρχει διάδοση COVID-19 σε αυτές τις περιοχές ή επειδή τα κρούσματα σε εκείνες τις περιοχές είναι λίγοτερο σημαντικά για να τα κατανοήσουμε. Αντιθέτως, απλά δεν έχουμε αρκετά δεδομένα διαθέσιμα απο αυτές τις περιοχές. Το μέγεθος κάθε κύκλου στο χάρτη υποδηλώνει πόσα δεδομένα είναι διαθέσιμα αυτή τη στιγμή απο τις αντίστοιχες περιοχές και όχι το πραγματικό μέγεθος της επιδημίας στις περιοχές αυτές.
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Early spread within Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
+# [Αρχική διασπορά εντός της Ασίας](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
-Here, we highlight samples from mid-December 2019 through mid-January 2020, during the first month of the outbreak.
-Tips of the tree represent samples from infected individuals.
-Each internal node, or branch point, represents an unsampled case, which was the ancestor of all of the other cases within the descendant clade.
+Εδώ επισημαίνουμε δείγματα που έχουν ληφθεί από τα μέσα Δεκεμβρίου 2019 έως τα μέσα Ιανουαρίου 2020, κατά τον πρώτο δηλαδή μήνα της επιδημίας.
+Οι κορυφές του δέντρου αντιπροσωπεύουν δείγματα από μολυσμένα άτομα.
+Κάθε εσωτερικός κόμβος ή σημείο διακλάδωσης αντιπροσωπεύει ένα κρούσμα χωρίς δείγμα, το οποίο ήταν ο πρόγονος των υπόλοιπων κρουσμάτων-απογόνων.
 <br><br>
-Tips are colored according to where they were sampled from; nodes (branch points) are colored by the inferred (most likely) location of the ancestral case.
-<br><br>
-Comparing where a sequence was isolated from geographically to where its ancestors were circulating can help us understand not only where infections are occurring, but also where they may have been acquired.
-<br><br>
-The common ancestor of circulating viruses appears to have emerged in Wuhan, China, in late Nov or early Dec 2019.
-Accordingly, the majority of sampled and inferred ancestral cases were located in Asia during this early period.
-This is consistent with circulation largely within China and some exported cases to other countries in Asia for the first month of the outbreak.  
 
+Οι κορυφές είναι χρωματισμένες ανάλογα με τον τόπο στον οποίο λήφθηκε το κάθε δείγμα. Οι κόμβοι (σημεία διακλάδωσης) είναι χρωματισμένοι βάσει της υποθετικής (κατά πάσα πιθανότητα) θέσης του προγονικού κρούσματος.
+<br><br>
+
+Συγκρίνοντας τη γεωγραφική τοποθεσία στην οποία λάβαμε μια αλληλουχία με τις τοποθεσίες στις οποίες παρατηρείται κίνηση των προγονικών της αλληλουχιών, μπορούμε όχι μόνο να κατανοήσομε το πού εμφανίζονται λοιμώξεις, αλλά και το πού αυτές μπορεί να αποκτήθηκαν.
+<br><br>
+
+Ο κοινός πρόγονος των ιών που κυκλοφορούν φαίνεται να εμφανίστηκε στο Wuhan της Κίνας στα τέλη Νοεμβρίου ή αρχές Δεκεμβρίου 2019.
+Κατά συνέπεια, η πλειοψηφία των δειγμάτων και των υποτιθέμενων προγονικών κρουσμάτων τοποθετούνται στην Ασία κατά τη διάρκεια αυτής της πρώιμης περιόδου. 
+Αυτό συμβαδίζει με την εκτεταμένη διαδοση του ιού εντός της Κίνας και τις μερικές περιπτώσεις εξαγωγής του σε άλλες χώρες της Ασίας τον πρώτο μήνα της επιδημίας.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Initial introductions to other regions](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
+# [Αρχικές εισαγωγές σε άλλες περιοχές](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
 
-During the 2nd month of the outbreak, from mid-January to mid-February 2020, we start to see individual cases crop up in North America, Europe and Oceania.
-These early cases still group with samples from Asia, and generally lack the hallmarks of local transmission.
+Κατά το 2ο μήνα της επιδημίας, δηλαδή από τα μέσα Ιανουαρίου μέχρι τα μέσα Φεβρουαρίου του 2020, αρχίζουμε να βλέπουμε μεμονωμένα κρούσματα να εμφανίζονται στη Βόρεια Αμερική, την Ευρώπη και την Ωκεανία.
+Αυτά τα πρώτα κρούσματα εξακολουθούν να ομαδοποιούνται με δείγματα που προέρχονται από την Ασία και γενικά στερούνται χαρακτηριστικών γνωρισμάτων τοπικής μετάδοσης.
 <br><br>
-This is consistent with initial sparks being thrown from the main outbreak in Asia to other parts of the world. Although most of these sparks did not result in localized outbreaks, at least three of these introductions took off. These led to the large European and North American outbreaks, as well as more restricted spread in Oceania.
+
+Αυτό συμβαδίζει με την προέλευση αρχικών ομαδικών μεταδόσεων του ιού από την κύρια εστία της Ασίας σε άλλα μέρη του κόσμου. Αν και οι περισσότερες από αυτές τις μεταδόσεις δεν είχαν ως αποτέλεσμα τη δημιουργία τοπικών εστιών διασποράς, τουλάχιστον σε τρεις από αυτές τις περιπτώσεις η διασπορά του ιού επεκτάθηκε σε πολύ μεγάλο βαθμό. Κατά συνέπεια, δημιουργήθηκαν μεγάλες ευρωπαϊκές και βορειοαμερικανικές εστίες διασποράς καθώς και πιο περιορισμένες εστίες διασποράς στην Ωκεανία.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Initial cryptic transmission in Europe](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
+# [Αρχική κρυπτική διασπορά στην Ευρώπη](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-Zooming in to the top of the tree for the same time period, we see an ancestral European virus (internal node) that seeded the large European outbreak.
+Κατευθυνόμενοι προς την κορυφή του δέντρου την ίδια χρονική περίοδο, βλέπουμε έναν προγονικό ευρωπαϊκό ιό (εσωτερικό κόμβο) που συνέβαλε στη μεγάλη ευρωπαϊκή επιδημία.
 <br><br>
-This indicates that while we hadn't yet sequenced any samples from this clade, the origins of the European outbreak were already circulating undetected by late January or early February.
+
+Αυτό δείχνει ότι ενώ δεν είχαμε ακόμη αλληλουχήσει δείγματα από αυτή την ομάδα, οι απαρχές της ευρωπαϊκής επιδημίας ήταν ήδη ανιχνεύσιμες από τα τέλη Ιανουαρίου ή αρχές Φεβρουαρίου.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Initial cryptic transmission in North America](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
+# [Αρχική κρυπτική διασπορά στη Βόρεια Αμερική](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-Similarly, zooming in to the bottom of the tree, we see an ancestral North American virus (internal node) that initiated what would later become a large outbreak in North America.
+Ομοίως, αν κατευθυνθούμε στο κάτω μέρος του δέντρου, βλέπουμε έναν προγονικό ιό στη Βόρεια Αμερική (εσωτερικός κόμβος) που ξεκίνησε αυτό που αργότερα θα γινόταν μία μεγάλη επιδημία στη Βόρεια Αμερική.
 <br><br>
-This indicates that although we only had 1 sequenced case from this cluster at the time, the virus was circulating undetected within North America by late January or early February.
+
+Αυτό δείχνει ότι παρόλο που είχαμε μόνο μία αλληλουχία από αυτή την ομάδα εκείνη τη χρονική περίοδο, ο ιός κυκλοφορούσε χωρίς να είναι ανιχνεύσιμος στη Βόρεια Αμερική μέχρι τα τέλη Ιανουαρίου ή αρχές Φεβρουαρίου.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Expansion of North American and European outbreaks](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
+# [Εξάπλωση της επιδημίας στη Βόρεια Αμερική και στην Ευρώπη](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
 
-During the 3rd month of the outbreak, from mid-February to mid-March 2020, these two clusters expanded to cause large outbreaks within Europe and North America, respectively.
+Κατά τη διάρκεια του 3ου μήνα της πανδημίας, δηλαδή από τα μέσα Φεβρουαρίου έως τα μέσα Μαρτίου 2020, αυτές οι δύο ομάδες επεκτάθηκαν και προκάλεσαν τις μεγάλης έκτασης επιδημίες στην Ευρώπη και τη Βόρεια Αμερική αντίστοιχα.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Spread across international borders](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
+# [Διασπορά πέρα από διεθνή σύνορα](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
 
-Within each of these regions, we see widespread mixing across state lines and international borders.
-This is demonstrated here by the intermingling of samples from multiple U.S. states and Canadian provinces.
+Σε κάθε μία από αυτές τις περιοχές παρατηρούμε εκτεταμένη ανάμιξη τόσο στις συνοριακές γραμμές των πολιτειών όσο και στα διεθνή σύνορα.
+Αυτό γίνεται εδώ εμφανές με την ανάμιξη δειγμάτων από πολλές πολιτείες των ΗΠΑ και καναδικές επαρχίες.
 <br><br>
-We've [previously reported](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) on a similar pattern of frequent mixing of viral lineages between European countries.
+
+Έχουμε παρατηρήσει [σε προηγούμενη αναφορά](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-03-27?f_region=Europe&n=5) ένα παρόμοιο πρότυπο συχνής ανάμιξης ιογενών γραμμών μεταξύ των ευρωπαϊκών χωρών. 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Introductions from North America & Europe to other parts of the globe](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
+# [Εισαγωγές από τη Βόρεια Αμερική & την Ευρώπη σε άλλες περιοχές της υφηλίου](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
-The North American and European clusters are not restricted to their respective regions. During this time period, we also see cases from South America, Oceania, and Africa against a backdrop of primarily European and North American clades. This indicates that there were frequent intercontinental introductions during this time period.
+Οι ομάδες της Βόρειας Αμερικής και της Ευρώπης δεν περιορίζονται στις αντίστοιχες περιοχές τους. Κατά τη διάρκεια αυτής της περιόδου, βλέπουμε κρούσματα από τη Νότια Αμερική, την Ωκεανία και την Αφρική να εντοπίζονται σε ένα πλαίσιο όπου υπάρχουν κυρίως κρούσματα απο την Ευρώπη και τη Βόρεια Αμερική. Αυτό δείχνει ότι υπήρχαν συχνές δια-ηπειρωτικές εισαγωγές κατά τη διάρκεια αυτής της χρονικής περιόδου.
 <br><br>
-Interestingly, samples from the global south span the full breadth of the tree, indicating that these regions' outbreaks are mixtures of many viral lineages.
 
+Είναι ενδιαφέρον να παρατηρήσουμε ότι τα δείγματα από τον παγκόσμιο νότο καλύπτουν το πλήρες εύρος του δέντρου, υποδεικνύοντας ότι οι επιδημίες αυτών των περιοχών είναι μίγματα πολλών ιογενών γραμμών.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Coming full circle: reintroductions to Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
+# [Επανεισαγωγές στην Ασία: ένας κύκλος που κλείνει](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
 
-In the last month, the pandemic has come full circle. Here, we see re-introductions from Europe and North America back to Asia.
+Τον περασμένο μήνα η πανδημία έκανε έναν πλήρη κύκλο. Εδώ βλέπουμε εκ νέου εισαγωγή του ιού απο την Ευρώπη και τη Βόρεια Αμερική στην Ασία.
+
 <br><br>
-This resoundingly demonstrates that this pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
 
+Αυτό δείχνει εμφανώς ότι αυτή η πανδημία είναι ένας παγκόσμιος αγώνας. Όλοι πρέπει να βοηθήσουμε στην προσπάθεια περιορισμού αυτού του ιού σε κάθε μέρος του κόσμου αν θέλουμε να ελπίζουμε ότι μπορούμε να τον νικήσουμε.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Takeaway](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Συμπεράσματα](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 
-Regional and national outbreaks are and will be deeply intertwined.
+Οι περιφεριακές και εθνικές επιδημίες είναι και θα είναι βαθιά αλληλένδετες.
 <br><br>
-This pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
 
+Αυτή η πανδημία είναι ένας παγκόσμιος αγώνας. Πρέπει όλοι μας να βοηθήσουμε στην προσπάθεια περιορισμού αυτού του ιού σε κάθε μέρος του κόσμου αν θέλουμε να ελπίζουμε ότι μπορούμε να τον νικήσουμε.
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# What you can do
+# Τι μπορείτε να κάνετε
 
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+#### ...ο καθένας ξεχωριστά
+* Τηρείτε τα μέτρα κοινωνικής απόστασης, ειδικά εάν ανήκετε σε ευπαθή ομάδα.
+* Να θυμάστε πως ακόμα κι αν δεν ανήκετε σε ευπαθή ομάδα, πολλοί άνθρωποι γύρω σας ανήκουν σε κάποια ευπαθή ομάδα. Ακολουθήστε τις πρακτικές αυτές ώστε να τους προστατέψετε.
+* Πλένετε τα χέρια σας "σα να έχετε κόψει μια καυτερή πιπεριά και πρέπει να αλλάξετε φακούς επαφής".
+* Μείνετε στο σπίτι όσο γίνεται περισσότερο -- ειδικά εάν είστε άρρωστοι. Προμηθευτείτε επιπλέον ποσότητες τροφίμων σε περίπτωση που χρειαστεί να μπείτε σε καραντίνα.
+* Εάν είστε εργοδότης, ενθαρρύνετε τους εργαζομένους σας να δουλεύουν από το σπίτι όσο αυτό είναι δυνατό.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...η πολιτεία
+* Κάνετε εκτεταμένους και δωρεάν ελέγχους για τον εντοπισμό του ιού.
+* Εφαρμόστε ισχυρά μέτρα κοινωνικής απόστασης.
+* Χρηματοδοτείστε και υλοποιήστε προσπάθειες ιχνηλάτησης.
+* Υποστηρίξτε οικονομικά αυτούς που πλήγονται από τα μέτρα αποκλεισμού.
+
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -210,20 +226,19 @@ This pandemic is a global fight; we all must help control this virus everywhere 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [Επιστημονικές ευχαριστίες](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Θα θέλαμε να ευχαριστήσουμε αυτήν την υπέροχη και συνεχή προσπάθεια όλων των επιστημόνων που έχουν εργαστεί σε αυτήν την πανδημία, και ιδιαιτέρως αυτούς που δουλεύουν στην Κίνα. Μόνο μέσα από τον άμεσο διαμοιρασμό γενομικών δεδομένων και μεταδεδομένων, αναλύσεις σαν και αυτή είναι δυνατό να πραγματοποιηθούν.
 
 <br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+Επίσης ευχαριστούμε θερμά την [GISAID](https://gisaid.org) που παρέχει τη διαδικτυακή πλατφόρμα διαμοιρασμού των δεδομένων.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Είμαστε ευγνώμονες για τα δεδομένα που συλλέχθηκαν από αυτά τα εργαστήρια:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -628,19 +643,17 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Λεπτομερής επιστημονική αναγνώριση](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
-
+Αυτά τα δεδομένα κοινοποιήθηκαν μέσω της πλατφόρμας [GISAID](https://gisaid.org).
+Ευχαριστούμε πολύ για τη συμβολή τους.
 <br>
 
-To the right we give specific sequences shared by each lab.
-
+Στα δεξιά θα βρείτε μια λίστα με τα εργαστήρια και τις αντίστοιχες αλληλουχίες που έχει προσφέρει το καθένα.
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Τα γονιδιώματα του SARS-CoV-2 προέρχονται από τους επιστήμονες που εργάζονται στα αντίστοιχα εργαστήρια:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020

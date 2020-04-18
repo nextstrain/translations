@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-10.
+title: 新型冠状病毒（COVID-19）传播情况的基因组学分析：状况报告 2020-04-10.
 authors:
   - Sidney M. Bell
   - Nicola Müller
@@ -18,10 +18,14 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - 李雪莹
+  - Fengjun Zhang
 translatorLinks:
+  - https://xueyingcli.weebly.com/
+  - https://twitter.com/fengjun_zhang
 date: "2020 April 10"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-19）基因组数据来追踪疫情的传播，此报告将每周更新。"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -29,30 +33,28 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Executive summary](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
+# [报告摘要](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-This week, we take a step back to trace how the outbreak has unfolded, month by month.
-We focus on transmission dynamics _between_ regions of the world. Here, we cover:  
+在本周的报告中，我们逐月回顾疫情发展的过程，重点关注疫情是如何在世界各个地区**之间**传播的。内容包括：  
 <br>
-* [Background and resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [Early spread within Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [Initial introductions from Asia to North America, Europe and Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [Growth of North American & European outbreaks](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [Subsequent spread across international borders within regions](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [Spread from Europe and North America to the global south](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [Coming full circle: reintroductions to Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [Scientific credits](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=2).
+* [关于抽样](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=3).
+* [在亚洲地区内部的早期传播](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=4).
+* [最早从亚洲输入到北美、欧洲和大洋洲的病例](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=5).  
+* [北美和欧洲疫情的扩散](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=8).  
+* [后续的跨国传播](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=9).
+* [从欧洲和北美扩散到南半球](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=10).  
+* [绕地球一圈：重新输入到亚洲](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=11).
+* [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=12).
+* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# About
+# 说明
 
-We analyzed 3,160 publicly shared SARS-Cov-2 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 (which causes COVID-19) is moving around the world and spreading locally.
+我们分析了 3,160 个公开共享的 SARS-Cov-2 基因组。通过将这些病毒基因组相互比较，我们可以描述 COVID-19 是如何在世界各地迁移和在社区中传播的。
 
-
-We are in the process of moving to more specific, regionally-focused analyses. You can find more information about this change [here](https://twitter.com/nextstrain/status/1247851469392564224) and how to help us out [here](https://twitter.com/sidneymbell/status/1247933122064207872); thank you for your patience during this transition.
+我们正在把研究的关注点转向对每个地区进行更具体的分析。你可以在[这里（推特链接）](https://twitter.com/nextstrain/status/1247851469392564224)找到关于此变化的更多信息，在[这里（推特链接）](https://twitter.com/sidneymbell/status/1247933122064207872)看到如何帮助我们。感谢您对此过渡阶段的耐心。
 
 ```
 
@@ -60,145 +62,148 @@ We are in the process of moving to more specific, regionally-focused analyses. Y
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [COVID-19背景资料](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
+我们准备了一些资料，将使您更容易理解我们在本报告中提供的数据。
+#### Nextstrain的资料 
+* [如何解读系统发生树](https://nextstrain.org/narratives/trees-background/zh).  
+* [冠状病毒的背景知识（英文）](https://nextstrain.org/help/coronavirus/human-CoV).
+* [常见误区](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-13?n=11).
 
-#### External Resources  
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+#### 外部资料  
+* [WHO的状况报告（英文）](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [美国CDC的资料（英文）](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [纽约时报对COVID-19的报道（英文）](https://www.nytimes.com/news-event/coronavirus).
+* [向科学家提问 & 常见问题解答（英文）](https://covid19.fas.org/l/en).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 57 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [关于抽样](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+我们目前有来自 6 大洲 57 个国家的病毒样本序列。这是一项令人难以置信的壮举--在病毒大流行期间对一种未知的大型 RNA 病毒进行测序是很困难的，只有通过世界各地的科学家和医生令人难以置信的工作和及时共享数据才有可能。
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+虽然这些数据使我们能够推断出这场疫情的许多有用的特征并实时跟踪其传播，但需要强调的是，我们的结论受到现有数据的限制。
 <br><br>
-For example, the map shows very few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
-
+比如，地图上显示来自南半球的序列很少。这既不是因为 COVID-19 没有在这些地区传播，也不是因为理解这些病例不重要，而仅仅是因为我们没有从这些地区获得足够的数据。地图上每个圆圈的大小表示的是该区域当前有多少数据可用，而不是疫情的真实严重程度。
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Early spread within Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
+# [在亚洲地区内部的早期传播](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
-Here, we highlight samples from mid-December 2019 through mid-January 2020, during the first month of the outbreak.
-Tips of the tree represent samples from infected individuals.
-Each internal node, or branch point, represents an unsampled case, which was the ancestor of all of the other cases within the descendant clade.
+这里显示的是疫情发生的第一个月，2019年12月中旬到2020年1月中旬的样本。
+树末端的圆点代表来自患者的样本。
+树上的每个内部节点，又叫分支点，都代表着一个未被取样到的病毒序列，它是它那一支中所有后续病毒的共同祖先。
 <br><br>
-Tips are colored according to where they were sampled from; nodes (branch points) are colored by the inferred (most likely) location of the ancestral case.
+末端圆点的颜色代表样本的取样地点，内部节点（分支点）的颜色代表所推测的该祖先病毒的（最有可能的）地理位置。
 <br><br>
-Comparing where a sequence was isolated from geographically to where its ancestors were circulating can help us understand not only where infections are occurring, but also where they may have been acquired.
+我们可以把病毒被取样到的地理位置和它的祖先的地理位置作比较，这样不仅可以帮助我们理解病毒感染在哪里发生，还可以了解被感染的患者可能是从哪里传染到的病毒。
+
 <br><br>
-The common ancestor of circulating viruses appears to have emerged in Wuhan, China, in late Nov or early Dec 2019.
-Accordingly, the majority of sampled and inferred ancestral cases were located in Asia during this early period.
-This is consistent with circulation largely within China and some exported cases to other countries in Asia for the first month of the outbreak.  
+当前正在流行的病毒的共同祖先看起来是在2019年11月下旬或12月上旬，在中国武汉出现的。
+因而在疫情发生的早期这段时间内，大部分的样本和所推断的祖先病毒的位置都在亚洲。
+这些数据表明，在疫情发生的第一个月，病毒主要在中国境内传播，并有一些病例输出到亚洲其他国家。
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Initial introductions to other regions](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
+# [其他地区最初的输入病例](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
 
-During the 2nd month of the outbreak, from mid-January to mid-February 2020, we start to see individual cases crop up in North America, Europe and Oceania.
-These early cases still group with samples from Asia, and generally lack the hallmarks of local transmission.
+在疫情发生的第二个月，2020年的1月中旬至2月中旬，我们开始看到在北美、欧洲和大洋洲出现了一些散发病例。
+这些早期病例仍然和亚洲的病例聚在一起，并且基本没有显示出本地传播的标志性特征。
 <br><br>
-This is consistent with initial sparks being thrown from the main outbreak in Asia to other parts of the world. Although most of these sparks did not result in localized outbreaks, at least three of these introductions took off. These led to the large European and North American outbreaks, as well as more restricted spread in Oceania.
+这显示出当时有零星的“火种”从作为疫情主要爆发地的亚洲传到了世界其他地区。虽然大部分的“火种”都没有引起本地疫情，但至少有三起输入事件产生了后果，导致了疫情在欧洲和北美的大型爆发，以及在大洋洲的有限传播。
+
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Initial cryptic transmission in Europe](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
+# [欧洲最初的未知传播链](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-Zooming in to the top of the tree for the same time period, we see an ancestral European virus (internal node) that seeded the large European outbreak.
+在同一时间区间中，我们把树的上部放大，可以看到一个欧洲的祖先病毒（内部节点）引发了疫情在欧洲的大规模爆发。
 <br><br>
-This indicates that while we hadn't yet sequenced any samples from this clade, the origins of the European outbreak were already circulating undetected by late January or early February.
+这些数据表明，虽然我们那时没有测到属于这一支的任何样本，但是欧洲疫情的源头在1月下旬或2月上旬之前就已经在未被察觉的情况下传播了。
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Initial cryptic transmission in North America](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
+# [北美最初的未知传播链](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-Similarly, zooming in to the bottom of the tree, we see an ancestral North American virus (internal node) that initiated what would later become a large outbreak in North America.
+同样地，我们把树的下部放大，可以看到一个北美的祖先病毒（内部节点）引发了后来北美的大规模爆发。
 <br><br>
-This indicates that although we only had 1 sequenced case from this cluster at the time, the virus was circulating undetected within North America by late January or early February.
+这表明，虽然我们当时只有一个属于这簇病例的样本，但是病毒在1月下旬或2月上旬之前就已经在未被察觉的情况下在北美传播了。
+
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Expansion of North American and European outbreaks](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
+# [北美和欧洲疫情的扩散](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
 
-During the 3rd month of the outbreak, from mid-February to mid-March 2020, these two clusters expanded to cause large outbreaks within Europe and North America, respectively.
+在疫情发生的第三个月，2020年2月中旬至3月中旬，这两簇病毒不断扩散，分别在欧洲和北美引起了大规模爆发。
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Spread across international borders](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
+# [跨国传播](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
 
-Within each of these regions, we see widespread mixing across state lines and international borders.
-This is demonstrated here by the intermingling of samples from multiple U.S. states and Canadian provinces.
+在各个地区之内，我们看到了广泛的跨州、跨国传播的现象。
+这里是一个例子：美国多个州、加拿大多个省的样本都混杂在一起。
 <br><br>
-We've [previously reported](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) on a similar pattern of frequent mixing of viral lineages between European countries.
+我们[之前报道](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-27?f_region=Europe&n=5) 过欧洲也有类似的、各国的病毒谱系频繁地混杂在一起的现象。
+
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Introductions from North America & Europe to other parts of the globe](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
+# [北美和欧洲的病例输出到世界其他地区](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
-The North American and European clusters are not restricted to their respective regions. During this time period, we also see cases from South America, Oceania, and Africa against a backdrop of primarily European and North American clades. This indicates that there were frequent intercontinental introductions during this time period.
+北美和欧洲的病毒簇并未被局限在当地。在这个时间区间内，我们在主要由欧洲和北美的样本组成的分支中也看到了来自南美洲、大洋洲和非洲的样本，表明了这个时间段内频繁的跨大陆传播。
 <br><br>
-Interestingly, samples from the global south span the full breadth of the tree, indicating that these regions' outbreaks are mixtures of many viral lineages.
-
+值得注意的是，南半球样本的分布纵贯整个演化树，表明这些地区的疫情混合了来自于很多谱系的病毒。
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Coming full circle: reintroductions to Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
+# [绕地球一圈：重新输入亚洲](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
 
-In the last month, the pandemic has come full circle. Here, we see re-introductions from Europe and North America back to Asia.
+截至上个月，这场全球大流行的疫情已经绕地球一圈。在这张图中，我们看到病毒从欧洲和北美又输入到亚洲。
 <br><br>
-This resoundingly demonstrates that this pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
-
+这掷地有声地说明了，战胜这场全球大流行的瘟疫需要全球的共同努力。如果我们想要在任何一个地方打败它，都必须在所有地方控制它。
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Takeaway](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [总结](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 
-Regional and national outbreaks are and will be deeply intertwined.
+每个国家和地区的疫情都是且将是紧密相连的。
 <br><br>
-This pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
-
+战胜这场全球大流行的瘟疫需要全球的共同努力。如果我们想要在任何一个地方打败它，都必须在所有地方控制它。
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# What you can do
+# 你能做些什么
 
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+#### ...个人可以采取的行动
+* 保持严格的社交距离，尤其是高风险人群。
+* 请记住，即使你不属于高风险人群，你周围的许多人也可能属于高危人群；遵循以上做法可以保护他人。
+* 仔细洗手，要像“刚切完辣椒但是要换隐形眼镜”时一样洗手。
+* 尽可能地留在家里，尤其是生病时；准备一些额外的补给，以备自我隔离。
+* 雇主请鼓励员工尽可能地在家办公。
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...政府可以采取的行动  
+* 推广免费检测。 
+* 推行能够有力减少社交接触的措施。
+* 资助和建立全面的病例追踪体系。
+* 在经济上支持受到社交隔离措施影响的人。
 ```
+
+
+
 
 <!-- ############ SLIDE BREAK ############# -->
 
@@ -210,20 +215,18 @@ This pandemic is a global fight; we all must help control this virus everywhere 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [科学贡献人员](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
-
+我们要感谢参与此次疫情研究的所有科学家所做的令人惊叹和及时的工作，特别是那些在中国工作的科学家。只有通过基因组数据和元数据的快速共享，才有可能进行这样的分析。
 <br>
+我们也感谢[GISAID](https://gisaid.org)提供了上传和共享这些数据的平台。
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+非常感谢以下机构和实验室慷慨分享:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -628,19 +631,20 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [科学贡献详情](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+所有数据已被共享至[GISAID](https://gisaid.org)数据库。 我们感谢各位科学家的慷慨分享。
+
 
 <br>
-
-To the right we give specific sequences shared by each lab.
+在右边，我们列出了每个实验室共享的序列。
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+
+感谢下列实验室的科学家们慷慨分享SARS-CoV-2的基因组:
+
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020

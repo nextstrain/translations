@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-10.
+title: Analisis genomik penyebaran COVID-19. Laporan keadaan per 10-04-2020.
 authors:
   - Sidney M. Bell
   - Nicola Müller
@@ -18,10 +18,14 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Erwin Sentausa
+  - Iskandar Adnan
 translatorLinks:
-date: "2020 April 10"
+  - https://www.linkedin.com/in/sentausa
+  - http://scholar.google.com/citations?user=eBn0ToYAAAAJ
+date: "10 April 2020"
 dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
-abstract: "This report uses publicly shared genomic data to track the spread of COVID-19. These reports are updated weekly."
+abstract: "Laporan ini menggunakan data genomik yang terbuka untuk melacak penyebaran COVID-19. Laporan ini diperbarui tiap pekan."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -29,30 +33,30 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Executive summary](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
+# [Ringkasan](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
 
-This week, we take a step back to trace how the outbreak has unfolded, month by month.
-We focus on transmission dynamics _between_ regions of the world. Here, we cover:  
+Pekan ini, kita melihat ke belakang untuk melacak bagaimana perebakan penyakit ini terjadi, bulan demi bulan.
+Kami berkonsentrasi pada dinamika penularan _antar_-kawasan di dunia. Di sini, kami membahas:  
 <br>
-* [Background and resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=2).
-* [A note on sampling](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=3).
-* [Early spread within Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=4).
-* [Initial introductions from Asia to North America, Europe and Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=5).  
-* [Growth of North American & European outbreaks](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=8).  
-* [Subsequent spread across international borders within regions](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=9).
-* [Spread from Europe and North America to the global south](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=10).  
-* [Coming full circle: reintroductions to Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=12).
-* [Scientific credits](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=13).
+* [Latar belakang dan informasi lainnya](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-10?n=2).
+* [Catatan mengenai sampling](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-10?n=3).
+* [Penyebaran awal di seputar Asia](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-10?n=4).
+* [Introduksi pertama dari Asia ke Amerika Utara, Eropa, dan Oseania](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-10?n=5).  
+* [Perkembangan perebakan penyakit di Amerika Utara & Eropa](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-10?n=8).  
+* [Penyebaran selanjutnya lintas negara secara regional](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-10?n=9).
+* [Penyebaran dari Eropa dan Amerika Utara ke belahan bumi selatan](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-10?n=10).  
+* [Kembali lagi satu putaran penuh: reintroduksi ke Asia](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-10?n=11).
+* [Apa yang Anda dapat lakukan](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-10?n=12).
+* [Pengakuan ilmiah](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-04-10?n=13).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# About
+# Perihal
 
-We analyzed 3,160 publicly shared SARS-Cov-2 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 (which causes COVID-19) is moving around the world and spreading locally.
+Kami menganalisis 3.160 genom SARS-Cov-2 yang terbuka untuk umum. Dengan membandingkan genom virus ini satu sama lain, kami dapat mengkarakterisasi bagaimana SARS-CoV-2 (yang menyebabkan COVID-19) bergerak di seluruh dunia dan menyebar secara lokal.
 
 
-We are in the process of moving to more specific, regionally-focused analyses. You can find more information about this change [here](https://twitter.com/nextstrain/status/1247851469392564224) and how to help us out [here](https://twitter.com/sidneymbell/status/1247933122064207872); thank you for your patience during this transition.
+Kami sedang dalam proses beralih ke analisis yang lebih spesifik dan berfokus regional. Anda dapat menemukan informasi lebih lanjut tentang perubahan ini [di sini](https://twitter.com/nextstrain/status/1247851469392564224) dan bagaimana membantu kami [di sini](https://twitter.com/sidneymbell/status/1247933122064207872); terima kasih atas kesabaran Anda selama masa transisi ini.
 
 ```
 
@@ -60,144 +64,144 @@ We are in the process of moving to more specific, regionally-focused analyses. Y
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [Informasi mengenai COVID-19](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
+Kami telah menyiapkan sejumlah informasi yang akan memudahkan interpretasi data yang kami sajikan dalam narasi ini.
+#### Informasi dari Nextstrain  
+* [MULAI DARI SINI: Cara membaca pohon filogenetik](https://nextstrain.org/narratives/trees-background/).  
+* [Latar belakang mengenai koronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Kesalahpahaman umum](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
+#### Informasi dari situs lain  
+* [Laporan Keadaan dari WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Pusat Pengendalian dan Pencegahan Penyakit Amerika Serikat (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Liputan COVID-19 oleh _The New York Times_](https://www.nytimes.com/news-event/coronavirus).
+* [Ask a Scientist ("tanyakanlah kepada ilmuwan")](https://covid19.fas.org/l/en).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 57 countries across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Catatan mengenai sampling](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
+Saat ini kami memiliki sekuens dari sampel yang diambil di 57 negara di 6 benua. Ini adalah prestasi yang luar biasa -- melakukan sekuensing virus RNA besar dan belum dikenal di tengah-tengah pandemi merupakan hal yang sulit, dan hanya mungkin dilakukan melalui kerja luar biasa dan pembagian data yang tepat waktu oleh para ilmuwan dan dokter di seluruh dunia.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+Meskipun data ini memungkinkan kami untuk menyimpulkan banyak karakteristik berguna dari wabah ini dan melacak penyebarannya secara langsung, kami harus menekankan bahwa kesimpulan kami dibatasi oleh data yang tersedia.
 <br><br>
-For example, the map shows very few sequences from the global south. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+Sebagai contoh, peta di samping menunjukkan hanya ada sedikit sekali sekuens dari belahan bumi selatan. Ini BUKAN karena COVID-19 tidak beredar di daerah-daerah ini, atau bahwa kasus-kasus ini tidak begitu penting untuk dipahami, melainkan hanya karena kami tidak memiliki banyak data yang tersedia dari wilayah ini. Ukuran setiap lingkaran pada peta menunjukkan berapa banyak data yang saat ini tersedia dari wilayah itu, dan bukan ukuran wabah sebenarnya.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Early spread within Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
+# [Penyebaran awal di seputar Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
 
-Here, we highlight samples from mid-December 2019 through mid-January 2020, during the first month of the outbreak.
-Tips of the tree represent samples from infected individuals.
-Each internal node, or branch point, represents an unsampled case, which was the ancestor of all of the other cases within the descendant clade.
+Di sini kami menyoroti sampel-sampel dari pertengahan Desember 2019 hingga pertengahan Januari 2020, yaitu pada bulan pertama wabah.
+Ujung pohon filogenetik mewakili sampel-sampel dari individu-individu terinfeksi.
+Tiap simpul internal, atau titik cabang, mewakili kasus tak tersampel, yang merupakan leluhur dari semua kasus lain dalam klaster turunannya.
 <br><br>
-Tips are colored according to where they were sampled from; nodes (branch points) are colored by the inferred (most likely) location of the ancestral case.
+Ujung pohon diwarnai sesuai dengan asal penyampelannya; simpul (titik cabang) diwarnai berdasarkan inferensi lokasi (paling mendekati) kasus leluhurnya.
 <br><br>
-Comparing where a sequence was isolated from geographically to where its ancestors were circulating can help us understand not only where infections are occurring, but also where they may have been acquired.
+Membandingkan asal geografis suatu sekuens dengan tempat leluhurnya beredar dapat membantu kita memahami tidak hanya di mana infeksi terjadi, tetapi juga dari mana infeksi tersebut mungkin diperoleh.
 <br><br>
-The common ancestor of circulating viruses appears to have emerged in Wuhan, China, in late Nov or early Dec 2019.
-Accordingly, the majority of sampled and inferred ancestral cases were located in Asia during this early period.
-This is consistent with circulation largely within China and some exported cases to other countries in Asia for the first month of the outbreak.  
+Leluhur bersama dari virus yang beredar sepertinya muncul di Wuhan, Cina, pada akhir November atau awal Desember 2019.
+Oleh karena itu, kebanyakan kasus leluhur yang tersampel dan tersimpulkan berada di Asia pada periode awal ini.
+Ini konsisten dengan skenario sirkulasi sebagian besar di Cina dan beberapa kasus terekspor ke negara lain di Asia pada bulan pertama wabah.  
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Initial introductions to other regions](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
+# [Introduksi awal ke wilayah lain](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
 
-During the 2nd month of the outbreak, from mid-January to mid-February 2020, we start to see individual cases crop up in North America, Europe and Oceania.
-These early cases still group with samples from Asia, and generally lack the hallmarks of local transmission.
+Pada bulan kedua wabah, dari tengah Januari ke tengah Februari 2020, kita mulai melihat kasus-kasus individual muncul di Amerika Utara, Eropa, dan Oseania.
+Kasus-kasus awal ini masih berkelompok dengan sampel-sampel dari Asia, dan umumnya tidak punya ciri khas penularan lokal.
 <br><br>
-This is consistent with initial sparks being thrown from the main outbreak in Asia to other parts of the world. Although most of these sparks did not result in localized outbreaks, at least three of these introductions took off. These led to the large European and North American outbreaks, as well as more restricted spread in Oceania.
+Ini menunjukkan adanya percikan-percikan awal yang terlempar dari wabah utama di Asia ke bagian-bagian lain dunia. Meskipun kebanyakan percikan ini tidak menimbulkan perebakan terlokalisasi, setidaknya tiga dari introduksi ini berhasil menyebar. Hal ini mengakibatkan perebakan yang meluas di Eropa dan Amerika Utara maupun penyebaran terbatas di Oseania.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Initial cryptic transmission in Europe](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
+# [Penjangkitan awal yang tersembunyi di Eropa](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
 
-Zooming in to the top of the tree for the same time period, we see an ancestral European virus (internal node) that seeded the large European outbreak.
+Dengan mengamati lebih dekat bagian atas pohon untuk kurun waktu yang sama, kita melihat leluhur virus Eropa (simpul internal) yang menjadi sumber perebakan yang luas di Eropa.
 <br><br>
-This indicates that while we hadn't yet sequenced any samples from this clade, the origins of the European outbreak were already circulating undetected by late January or early February.
+Ini menunjukkan bahwa walaupun pada saat itu kami belum memiliki satu sekuens pun dari klaster ini, asal-usul perebakan di Eropa sudah beredar tanpa terdeteksi pada akhir Januari atau awal Februari.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Initial cryptic transmission in North America](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
+# [Penjangkitan awal yang tersembunyi di Amerika Utara](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
 
-Similarly, zooming in to the bottom of the tree, we see an ancestral North American virus (internal node) that initiated what would later become a large outbreak in North America.
+Demikian pula, dengan mengamati lebih dekat bagian bawah pohon, kita melihat leluhur virus Amerika Utara (simpul internal) yang memulai wabah besar di Amerika Utara.
 <br><br>
-This indicates that although we only had 1 sequenced case from this cluster at the time, the virus was circulating undetected within North America by late January or early February.
+Ini menandakan bahwa meskipun saat itu kami hanya memiliki satu kasus tersekuens dari klaster ini, virus ini menular secara tak terdeteksi di Amerika Utara pada penghujung Januari atau awal Februari.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Expansion of North American and European outbreaks](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
+# [Perluasan perebakan di Amerika Utara dan Eropa](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
 
-During the 3rd month of the outbreak, from mid-February to mid-March 2020, these two clusters expanded to cause large outbreaks within Europe and North America, respectively.
+Pada bulan ketiga wabah, dari tengah Februari hingga tengah Maret 2020, dua klaster ini melebar dan menyebabkan meluasnya wabah di Eropa dan Amerika Utara.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Spread across international borders](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
+# [Penularan melintasi perbatasan antarnegara](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
 
-Within each of these regions, we see widespread mixing across state lines and international borders.
-This is demonstrated here by the intermingling of samples from multiple U.S. states and Canadian provinces.
+Di dalam masing-masing wilayah ini, kita melihat percampuran yang meluas melintasi batas-batas negara.
+Pada pohon filogenetik ini, hal tersebut ditunjukkan oleh berbaurnya sampel dari berbagai negara bagian AS dan provinsi-provinsi di Kanada.
 <br><br>
-We've [previously reported](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) on a similar pattern of frequent mixing of viral lineages between European countries.
+Sebelumnya kami telah [melaporkan](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?f_region=Europe&n=5) pola yang serupa, yaitu sering bercampurnya garis keturunan virus antara negara-negara Eropa.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Introductions from North America & Europe to other parts of the globe](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
+# [Introduksi dari Amerika Utara & Eropa ke bagian dunia lainnya](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
 
-The North American and European clusters are not restricted to their respective regions. During this time period, we also see cases from South America, Oceania, and Africa against a backdrop of primarily European and North American clades. This indicates that there were frequent intercontinental introductions during this time period.
+Klaster Amerika Utara dan Eropa tidak terbatas pada wilayahnya masing-masing. Pada kurun waktu ini, kami juga melihat kasus-kasus dari Amerika Selatan, Oseania, dan Afrika dengan latar belakang terutama dari klaster Eropa dan Amerika Utara. Ini menunjukkan bahwa sering terjadi introduksi antarbenua pada kurun waktu tersebut.
 <br><br>
-Interestingly, samples from the global south span the full breadth of the tree, indicating that these regions' outbreaks are mixtures of many viral lineages.
+Menariknya, sampel-sampel dari belahan bumi selatan menjangkau seluruh pohon, yang menunjukkan bahwa perebakan di kawasan ini merupakan campuran dari banyak garis keturunan virus.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Coming full circle: reintroductions to Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
+# [Setelah satu putaran penuh: reintroduksi ke Asia](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
 
-In the last month, the pandemic has come full circle. Here, we see re-introductions from Europe and North America back to Asia.
+Satu bulan belakangan ini, pandemi ini telah kembali lagi satu putaran penuh. Di sini, kita melihat sejumlah reintroduksi dari Eropa dan Amerika Utara kembali ke Asia.
 <br><br>
-This resoundingly demonstrates that this pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
+Ini menunjukkan bahwa pandemi ini adalah pertarungan global; kita semua harus membantu mengendalikan virus ini di semua tempat jika kita berharap bisa mengalahkannya di manapun.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 12-->
-# [Takeaway](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Kesimpulan](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 
-Regional and national outbreaks are and will be deeply intertwined.
+Perebakan tingkat regional dan nasional sangatlah saling terkait, saat ini maupun pada masa yang akan datang.
 <br><br>
-This pandemic is a global fight; we all must help control this virus everywhere if we hope to defeat it anywhere.
+Pandemi ini adalah pertarungan global; kita semua harus membantu mengendalikan virus ini di semua tempat jika kita berharap bisa mengalahkannya di manapun.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# What you can do
+# Apa yang Anda dapat lakukan
 
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+#### ...sebagai pribadi
+* Lakukanlah perenggangan sosial secara ketat.
+* Meskipun Anda tidak rentan, lakukanlah perenggangan sosial untuk melindungi orang lain.
+* Cucilah tangan Anda "seolah-olah Anda baru saja merajang cabe rawit dan harus mengganti lensa kontak Anda."  
+* Sedapat mungkin janganlah keluar rumah -- terutama jika Anda sakit; bersiaplah dengan sedikit tambahan persediaan kebutuhan.  
+* Jika Anda memiliki karyawan, sebisa mungkin doronglah karyawan Anda untuk bekerja dari rumah.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...sebagai pemerintah  
+* Sediakanlah tes secara gratis dengan jangkauan seluas mungkin.  
+* Terapkanlah perenggangan sosial secara tegas.
+* Danailah dan terapkanlah usaha pelacakan kontak dan isolasi secara luas.  
+* Dukunglah secara finansial orang-orang yang terdampak oleh penerapan perenggangan sosial.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -210,20 +214,21 @@ This pandemic is a global fight; we all must help control this virus everywhere 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [Pengakuan ilmiah](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+
+Kami menyampaikan penghargaan atas kerja keras luar biasa yang telah dilakukan oleh semua ilmuwan yang terlibat dalam wabah ini, terutama mereka yang bekerja di Cina.
+Hanya melalui berbagi cepat data genomik dan metadata analisis ini dapat dilakukan.
 
 <br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+Kami juga menyampaikan penghargaan kepada [GISAID](https://gisaid.org) yang telah menyediakan platform sehingga data ini dapat dimuat dan dibagikan.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Kami berterima kasih atas sumbangan data yang dikumpulkan oleh laboratorium-laboratorium berikut:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -628,19 +633,19 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Rincian kontribusi ilmiah](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Data ini telah dibagikan melalui [GISAID](https://gisaid.org).
+Kami sangat menghargai dan berterima kasih atas kontribusi mereka.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+Di sebelah kanan kami mencantumkan sekuens spesifik yang dibagikan setiap lab.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Genom SARS-CoV-2 disumbangkan oleh para ilmuwan di laboratorium-laboratorium berikut:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
