@@ -25,7 +25,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 date: "2020 April 17"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
-abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-19）基因组数据来追踪疫情的传播。我们本周关注美国的疫情。在美国的大多数地区，我们发现了多次输入的证据，来源既有国际的，也有本土的。数据强调，每个州做出的决定都会对其他州的命运产生深远的影响。This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on the outbreak in the United States. For most areas of the U.S., we find evidence for multiple introductions -- of both international and domestic origins. This data emphasizes that the decisions made by each state profoundly impacts the fate of the others."
+abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-19）基因组数据来追踪疫情的传播。本周，我们重点关注美国的疫情。我们发现的证据表明，美国的大多数地区都经历了多起病毒输入事件，其来源既有国际的，也有本土的。这些数据突出表明了每个州的决策都会对其他州的命运产生深远的影响。"
 
 ---
 
@@ -38,11 +38,11 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 # [目录](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
 * [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
-* [关于数据About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [纽约的最新情况Updates for New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [加州的最新情况Updates for California](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [中西部的最新情况Updates for the Midwest](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [落基山脉西部地区的最新情况Updates for the Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
+* [关于数据](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
+* [纽约的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
+* [加州的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
+* [中西部的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
+* [落基山脉西部地区的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
 * [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
 * [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
 
@@ -52,12 +52,12 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 
 我们分析了 1,347 个公开共享的美国地区的 SARS-Cov-2 基因组。通过将这些病毒基因组相互比较，我们可以描述 COVID-19 是如何在世界各地迁移和在社区中传播的。在本周的更新中，我们报告：
 
-* 纽约的疫情来源于城市，但大部分的病例与欧洲的输入病例有关。The New York outbreak has cosmopolitan origins, but the majority of cases are attributable to introductions from Europe.   
-* 纽约市的疫情表明，五个行政区之间有混合病例。The outbreak in New York City shows mixing of cases across all 5 boroughs.  
-* 加州的疫情既与附近的华盛顿州有关，也与远处的纽约州有关。The outbreak in California is related to both nearby Washington State and distant New York.  
-* 中西部的疫情成分异质化，是多次独立输入的结果。The Midwest outbreak is heterogeneous and is the result of many independent introductions.
-* 犹他州和爱达荷州的疫情紧密相关。Ongoing outbreaks in Utah and Idaho are closely related.
-* 每个州的决策都对其他州产生深远的影响。如果想在任何一个州安全地放松管控，都需要协作地控制，每一个州都要协作，互相保护。The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.
+* 纽约的疫情来自世界各地，但大部分的病例可以归为来自欧洲的输入。
+* 纽约市五个行政区的疫情混杂在一起。 
+* 加州的疫情与近处的华盛顿州和远处的纽约州都有关。
+* 中西部各地疫情的来源多有不同，是多次独立输入事件的结果。
+* 犹他州和爱达荷州两地流行的病毒亲缘关系很近。
+* 每个州的决策都会对其他州的命运产生深远的影响。任何一个州想要安全地放松管控措施，都需要其他州的协作，各州需要互相保护，共同控制疫情。
 
 
 ```
@@ -97,11 +97,11 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [纽约州的主要分支与欧洲疫情相关Main New York clade linked to European outbreak](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
+# [纽约样本的主要分支与欧洲疫情相关](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
-您可能已经在[这周的新闻（英文）](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html)中读到，纽约州（有色样本）的病毒样本大部分与欧洲的样本（灰色样本）在树上聚的很近。
+您可能已经在[这周的新闻（英文）](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html)中读到，纽约的病毒样本（彩色）大部分与欧洲的样本（灰色）在树上聚的很近。
 <br><br>
-纽约的分支既有被欧洲序列分隔开的，也有和欧洲序列交错排列的，有力地表明大多数早期病例是由欧洲的输入病例所引起。
+有欧洲的序列位于纽约这一支的外部，并且纽约和欧洲的序列也出现了交错排列，这些证据有力地表明了大多数纽约的早期病例是由欧洲的输入病例所引起。
 
 <!-- There is no right side text -->
 
@@ -110,46 +110,44 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- This is left-side text 5-->
 # [病毒被多次引入纽约州](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-纽约州的大部分病例都是由欧洲的输入病例所引发。但是世界其他地区的序列提供了背景，让我们看到纽约市还有其他的输入病例。正因为纽约是个国际化大都市，纽约的病例的来源基本涵盖了世界上每个地区。The majority of the New York outbreak was seeded by European introduction(s). But the contextual sequences from other regions of the world allow us to see additional introductions into New York City. True to its cosmopolitan nature, there are cases in New York closely related to samples from every other region of the world.
+纽约的大部分病例是由欧洲的输入病例所引发。但是，通过将世界其他地区的序列作为背景数据，我们得以看到纽约市还经历过其他的输入事件。作为一个国际化大都市，纽约的病例的来源基本涵盖了世界上每个地区。
 <br><br>
-早期的纽约病例很有可能是本土传播。疫情后期，我们看到了多得多的欧洲与纽约样本的混合，就不太容易看得清后期的传播方向了。我们在[上周](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=11)的报告中说到，也有证据表明最近也有从美国反向输出到欧洲和亚洲的证据。
-The early New York cases likely represent inbound transmissions. Later on in the outbreak, we see far more mixing between European and New York samples, making the
-direction of later transmissions less clear. As we reported on [last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), there is also evidence for recent reintroductions from the U.S. to Europe and Asia.
+纽约早期的病例很有可能是输入病例传播的结果。在疫情后期，我们看到欧洲与纽约的样本混杂在一起的情况远远多于前期，传播的方向就没有那么清楚了。我们在[上周](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=11)的报告中谈到，有证据表明最近也有从美国反向输出到欧洲和亚洲的病例。
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [纽约市的五个行政区的病例混杂Intermingling of cases from all 5 NYC boroughs](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+# [纽约市五个行政区的样本混杂在一起](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
 
-在纽约市内，我们看到病例几乎没有按区分开，支持纽约市的病例频繁地混杂。Within New York City, we see little segregation of cases by borough. This is consistent with frequent mixing of cases across the city.
+我们看到纽约市内不同行政区的样本基本没有在演化树上被分开，表明纽约市内的疫情频繁地混杂在一起。
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [加州的疫情与附近和远处的州都有关California outbreak related to both nearby and distant states](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
+# [加州的疫情与近处和远处的州都有关](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
 
-我们也看到各州之间多次输出的证据。比如，来自加州的样本的遗传多样性覆盖了整棵树，加州的病例既有与较近的华盛顿州聚在一起的，也有与较远的纽约州聚在一起的。这样的证据表明，病毒在较近和较远的州和加州之间都有传播。We also see evidence of multiple introductions between states. For example, cases from California span the genetic diversity of the tree, grouping together with samples from both nearby Washington State and New York. This is evidence for transmission between California and both nearby and distant states.
+我们也看到了美国各州之间存在多次输出事件的证据。比如，加州的样本的遗传多样性的范围覆盖了整棵树：加州的病例既有与较近的华盛顿州聚在一起的，也有与较远的纽约州聚在一起的。这样的证据表明，病毒在加州和离它较远和较近的州之间都有传播。
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [中西部的疫情来自于多起输入事件Midwest outbreaks were seeded by many introductions](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
+# [中西部的疫情来自于多起输入事件](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
 
-我们在这里高亮了美国中西部地区的序列，可以看到当地的样本均匀分布在演化树的各处，而不是形成一系列紧密的簇。这告诉我们，这些州存在有多起独立的输入事件，并且有多个不同的传播链正在同时存在。Highlighting sequences from the Midwestern United States, we see that cases from this area are spread evenly across the tree, rather than forming a series of tight clusters. This tells us that there have been many independent introductions to these states, with several different transmission chains circulating simultaneously.
+我们在这张图中高亮了美国中西部地区的序列，可以看到，这些地区的样本均匀分布在演化树的各处，而没有形成一系列紧密的簇。这个现象告诉我们，这些州经历了多起独立的输入事件，现在正有多个不同的传播链在当地传播。
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [落基山脉西部州的疫情存在关联Related outbreaks across the Rocky Mountain West](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
+# [落基山脉西部州的疫情存在关联](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
 
-落基山脉西部州也经历了多次输入事件。把地图放大，我们看到一个分辨率很高的传播链，是到达爱达荷州的。值得注意的是，这部分样本被一簇来自犹他州的样本所隔开，证明这两地的疫情紧密相关。There have also been several introductions to the Rocky Mountain West. Zooming in, we see a well-resolved transmission chain making its way across Idaho. Notably, this set of cases is flanked by a cluster of cases from Utah, demonstrating a close relationship between these two outbreaks.
+落基山脉西部地区也经历了多次输入事件。把地图放大，我们可以清晰地看到一个在爱达荷州活动的传播链。值得注意的是，这些样本的外部是一簇来自犹他州的样本，证明这两地的疫情紧密相关。
 
 <!-- This is no right-side text -->
 
@@ -177,19 +175,19 @@ direction of later transmissions less clear. As we reported on [last week](https
 ```auspiceMainDisplayMarkdown
 # 总结
 
-* 欧洲的输入病例是纽约疫情的主要来源，不过世界其他地区也有病例输出到纽约。
+* 欧洲的输入病例是纽约疫情的主要来源，但是世界其他地区也有病例输出到纽约。
 <br><br>
 * 随着疫情的发展，我们也看到病毒从美国反向输出到欧洲和亚洲的证据。
 <br><br>
-* 纽约市五个行政区的The outbreak in New York City shows mixing of cases across all 5 boroughs.
+* 纽约市五个行政区的疫情混杂在一起。
 <br><br>
 * 加州的疫情与近处的华盛顿州和远处的纽约州都有关。
 <br><br>
-* 美国中西部疫情的来源复杂，存在多个传播链。
+* 美国中西部疫情的来源多有不同，存在多个传播链。
 <br><br>
-* 犹他州和爱达荷州的病毒亲缘关系很近，两地都存在社区传播。
+* 犹他州和爱达荷州的病毒亲缘关系很近，并存在社区传播。
 <br><br>
-* 每个州的决策都对其他州的命运产生深远的影响。如果要在任何一个州放松管控措施，都需要所有州协作来控制疫情，互相保护。The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.  
+* 每个州的决策都会对其他州的命运产生深远的影响。任何一个州想要安全地放松管控措施，都需要其他州的协作，各州需要互相保护，共同控制疫情。
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
