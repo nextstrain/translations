@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-17.
+title:التحليل الجينومي لانتشار كوفيد-19 . تقرير حالة. 17 نيسان 2020
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -23,7 +23,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 date: "2020 April 17"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on the outbreak in the United States. For most areas of the U.S., we find evidence for multiple introductions -- of both international and domestic origins. This data emphasizes that the decisions made by each state profoundly impacts the fate of the others."
+abstract: "يستخدم تقرير هذا الاسبوع البيانات الجينومية التي تم مشتركتها للعموم من اجل تتبع انتشار كوفيد-19. نركز في هذا الاسبوع على الانتشارات الوبائية في الولايات المتحدة. حيث نجد ادلة على ادخالات متعددة-- من مصادر محلية او عالمية في معظم مناطق الولايات المتحدة-- من مصادر محلية او عالمية. تؤكد هذه البيانات بأن القرارات المتخذة من قبل كل ولاية كان لها تأثيرات كبيرة على مصير الولايات الاخرى"
 
 ---
 
