@@ -682,10 +682,10 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [الحقوق العلمية](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+ 
+كما نثمن بقوة ونشكر [GISAID](https://gisaid.org) على تزويدهم لنا بمنصتهم والتي تم من خلالها تحميل وتحليل البيانات. نقدر جهودهم الكبيرة لصيانة واتاحة هذه المنصة لمشاركة السلاسل الحيوة للفيروس
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
 
 <br>
 
