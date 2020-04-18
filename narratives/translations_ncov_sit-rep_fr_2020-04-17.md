@@ -41,14 +41,14 @@ abstract: "Ce rapport utilise des données génomiques partagées publiquement p
 <!-- This is left-side text 1-->
 # [Résumé exécutif](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [Ressources sur COVID-19](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2). 
-* [A propos de ces informations](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [Mises à jour pour l'État de New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [Mises à jour pour la Californie](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [Mises à jour pour le Midwest](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [Mises à jour pour l'Ouest des Montagnes Rocheuses](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
-* [Mesures que vous pouvez prendre](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
-* [Crédit scientifique](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
+* [Ressources sur COVID-19](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-17?n=2). 
+* [A propos de ces informations](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-17?n=3).
+* [Mises à jour pour l'État de New York](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-17?n=4).
+* [Mises à jour pour la Californie](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-17?n=7).
+* [Mises à jour pour le Midwest](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-17?n=8).
+* [Mises à jour pour l'Ouest des Montagnes Rocheuses](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-17?n=9).
+* [Mesures que vous pouvez prendre](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-17?n=10).
+* [Crédit scientifique](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
