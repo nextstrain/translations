@@ -64,18 +64,18 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [مصادر كوفيد-19](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
+قمنا هنا بتوفير بعض المصادر والتي تمكنك من تحليل البيانات التي نعرضها في هذا التقرير بشكل اسهل
+#### مصادر Nextstrain  
+* [ابدأ هنا: كيف تقرأ شجرة التصنيف الجيني](https://nextstrain.org/narratives/trees-background/).  
+* [خلفية علمية عن فيروسات كورونا](https://nextstrain.org/help/coronavirus/human-CoV).
+* [مفاهيم خاطئة شائعة](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+#### مصادر خارجية 
+* [اسأل عالماً و اسئلة شائعة](https://covid19.fas.org/l/en).
+* [تقارير حالة من منظمة الصحة العالميي](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [مصادر مركز مكافحة الأمراض الأمريكي](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [تغطية كوفيد-19 من خلال مجلة نيويورك تايمز](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
