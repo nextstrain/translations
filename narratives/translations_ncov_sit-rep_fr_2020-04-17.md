@@ -114,7 +114,7 @@ Le clade de New York est à la fois flanqué et entrelacé avec des séquences p
 
 La majorité de l’épidémie de New York a été déclenchée par une ou des introduction(s) européenne(s). Mais les séquences contextuelles provenant d’autres régions du monde nous permettent de voir des introductions supplémentaires à New York. Fidèle à sa nature cosmopolite, il y a à New York des cas étroitement liés à des échantillons provenant de toutes les autres régions du monde.
 <br><br>
-Les premiers cas de New York représentent probablement des transmissions entrantes. Plus tard dans l’épidémie, on constate un mélange beaucoup plus important entre les échantillons européens et new-yorkais, ce qui rend la direction des transmissions ultérieures moins claire. Comme nous l’avons indiqué dans notre rapport [la semaine dernière](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), il existe également des preuves de réintroductions récentes des États-Unis vers Europe et l’Asie.
+Les premiers cas de New York représentent probablement des transmissions entrantes. Plus tard dans l’épidémie, on constate un mélange beaucoup plus important entre les échantillons européens et new-yorkais, ce qui rend la direction des transmissions ultérieures moins claire. Comme nous l’avons indiqué dans notre rapport [la semaine dernière](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-10?n=11), il existe également des preuves de réintroductions récentes des États-Unis vers Europe et l’Asie.
 
 <!-- There is no right side text -->
 
