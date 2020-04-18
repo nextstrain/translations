@@ -110,8 +110,8 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
  
 
 <br><br>
-The early New York cases likely represent inbound transmissions. Later on in the outbreak, we see far more mixing between European and New York samples, making the
-direction of later transmissions less clear. As we reported on [last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), there is also evidence for recent reintroductions from the U.S. to Europe and Asia.
+تمثل حالات نيويورك المبكرة على الاغلب انتشارات مترابطة. ولكنها بعدها اثناء الانتشار الوبائي نرى عمليات خلط اخرى اكثر ما بين العينات الاوروبية وعينات نيويورك وهءا يجعل تحديد اتجاه الانتشار فيما بعد اقل وضوحاً. وكما وثقنا في
+ [الاسبوع الماضي](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11),هناك ايضا دليل على عمليات ادخالات متكررة من الولايات المتحدة الى كل من اوروبا وآسيا.
 
 <!-- There is no right side text -->
 
