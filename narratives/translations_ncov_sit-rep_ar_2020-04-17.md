@@ -1,5 +1,5 @@
 ---
-title:التحليل الجينومي لانتشار كوفيد-19 . تقرير حالة. 17 نيسان 2020
+title: التحليل الجينومي لانتشار كوفيد-19 . تقرير حالة. 17 نيسان 2020
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -35,14 +35,14 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- This is left-side text 1-->
 # [جدول المحتويات](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [مصادر الخلفية العلمية](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
-* [عن هذه البيانات](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [تحديثات عن نيويورك](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [تحديثات عن كاليفورنيا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [تحديثات عن الغرب المتوسط](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [تحديثات عن غرب جبال الروكي](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
-* [ماذا يمكنك ان تفعل](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
-* [الحقوق العلمية](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
+* [مصادر الخلفية العلمية](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-17?n=2).     
+* [عن هذه البيانات](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-17?n=3).
+* [تحديثات عن نيويورك](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-17?n=4).
+* [تحديثات عن كاليفورنيا](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-17?n=7).
+* [تحديثات عن الغرب المتوسط](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-17?n=8).
+* [تحديثات عن غرب جبال الروكي](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-17?n=9).
+* [ماذا يمكنك ان تفعل](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-17?n=10).
+* [الحقوق العلمية](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
