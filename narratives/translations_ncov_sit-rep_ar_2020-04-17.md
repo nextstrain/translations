@@ -46,9 +46,9 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# الملخص التنفيذي
 
-We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is moving around the world and spreading locally. In this week's updates, we report:  
+قمنا هنا بتحليل جينومات 1347 من فيروسات سارس كو-في-2 والتي تم مشاركتها للعموم وجمعت من الولايات المتحدة. نستطيع من خلال مقارنة هذه الجينومات الفيروسة مع بعضها البعض تتبع انتقال فيروس سارس كو-في-2 حول العالم وانتشاره محلياً. في تقرير هذا الاسبوع نوثق ما يلي:
 
 * The New York outbreak has cosmopolitan origins, but the majority of cases are attributable to introductions from Europe.   
 * The outbreak in New York City shows mixing of cases across all 5 boroughs.  
