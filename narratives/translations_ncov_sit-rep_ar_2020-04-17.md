@@ -135,18 +135,18 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Midwest outbreaks were seeded by many introductions](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
+# [الانتشارات الوبائية في الغرب الاوسط تم بذرها من خلال عدة ادخالات](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
 
-Highlighting sequences from the Midwestern United States, we see that cases from this area are spread evenly across the tree, rather than forming a series of tight clusters. This tells us that there have been many independent introductions to these states, with several different transmission chains circulating simultaneously.
+من خلال تظليل التسلسلات من الغرب الاوسط للولايات المتحدة نستطيع رؤية حالات هذه المنطقة تنتشر بشكل منتظم على الشجرة بدلاً من من أن تكون سلسة من التجمعات المتراصة. وهذا يخبرنا بانه كان هناك العديد من حالات الادخال الى تلك الولايات، مع وجود العديد من سلاسل الانتشار المختلفة تدور هناك بشكل متزامن.
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Related outbreaks across the Rocky Mountain West](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
+# [حالات انتشار وبائي مترابطة على طول غرب جبال الروكي](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
 
-There have also been several introductions to the Rocky Mountain West. Zooming in, we see a well-resolved transmission chain making its way across Idaho. Notably, this set of cases is flanked by a cluster of cases from Utah, demonstrating a close relationship between these two outbreaks.
+كان هناك ايضا العديد من حالات الادخال الى غرب جبال الروكي. من خلال التكبير على السجرة، نستطيع ان نرى سلسلة إنتشار واضحة تأخذ طريقها على طول ايداهو. من الجدير ملاحظته بأن مجموعة الحالات هذه تتجمع مع حالات من اوتا، وهذا يشير الى علاقة وطيدة بين هذين الانتشارين الوبائيين.
 
 <!-- This is no right-side text -->
 
