@@ -96,7 +96,7 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- This is left-side text 4-->
 # [عنقود نيويورك الرئيسي مرتبط بالانتشار الوبائي في اوروبا](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
-من الممكن انك شاهدت [في الاخبار هذا الاسبوع](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), فإن معظم العينات الفيروسية التي تم جمعها من نيويورك (الملونة) تتجمع بالقرب من العينات التي جمعها من اوربا (الرمادية).
+من الممكن انك شاهدت [في الاخبار هذا الاسبوع](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), فإن معظم العينات الفيروسية التي تم جمعها من نيويورك (الملونة) تتجمع بالقرب من العينات التي جمعها من اوروبا (الرمادية).
 <br><br>
 عنقود نيويورك محاط ومخترق داخليا بتسلسلات من أوروبا وهذا يقترح بقوة الى ان معظم الحالات المبكرة نتجت من ادخالات من اوروبا. flanked by and interleaved 
 <!-- There is no right side text -->
@@ -106,7 +106,9 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- This is left-side text 5-->
 # [العديد من الادخالات الى نيويورك](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-The majority of the New York outbreak was seeded by European introduction(s). But the contextual sequences from other regions of the world allow us to see additional introductions into New York City. True to its cosmopolitan nature, there are cases in New York closely related to samples from every other region of the world.
+معظم الانتشار الوبائي في نيويورك تم بذره من ادخال او ادخالات اوروبية. ولكن تسلسلات توافقية من مناطق اخرى من العالم تجعلنا نرى ادخالات اخرى الى مدينة نيويورك. بالتوافق مع صحة طبيعته العالمية يوجد هناك حالات في نيويورك مرتبطة بالقرب من عينات من كل منطقة أخرى في العالم
+ 
+
 <br><br>
 The early New York cases likely represent inbound transmissions. Later on in the outbreak, we see far more mixing between European and New York samples, making the
 direction of later transmissions less clear. As we reported on [last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), there is also evidence for recent reintroductions from the U.S. to Europe and Asia.
