@@ -23,7 +23,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 date: "2020 April 17"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
-abstract: "يستخدم تقرير هذا الاسبوع البيانات الجينومية التي تم مشتركتها للعموم من اجل تتبع انتشار كوفيد-19. نركز في هذا الاسبوع على الانتشارات الوبائية في الولايات المتحدة. حيث نجد ادلة على ادخالات متعددة-- من مصادر محلية او عالمية في معظم مناطق الولايات المتحدة-- من مصادر محلية او عالمية. تؤكد هذه البيانات بأن القرارات المتخذة من قبل كل ولاية كان لها تأثيرات كبيرة على مصير الولايات الاخرى"
+abstract: "يستخدم تقرير هذا الاسبوع البيانات الجينومية التي تم مشاركتها للعموم من اجل تتبع انتشار كوفيد-19. نركز في هذا الاسبوع على الانتشارات الوبائية في الولايات المتحدة. حيث نجد ادلة على ادخالات متعددة-- من مصادر محلية او عالمية في معظم مناطق الولايات المتحدة. تؤكد هذه البيانات بأن القرارات المتخذة من قبل كل ولاية كان لها تأثيرات كبيرة على مصير الولايات الاخرى"
 
 ---
 
@@ -33,16 +33,16 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
+# [جدول المحتويات](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [Updates for New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [Updates for California](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [Updates for the Midwest](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [Updates for the Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
+* [مصادر الخلفية العلمية](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
+* [عن هذه البيانات](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
+* [تحديثات عن نيويورك](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
+* [تحديثات عن كاليفورنيا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
+* [تحديثات عن الغرب المتوسط](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
+* [تحديثات عن غرب جبال الروكي](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
+* [ماذا يمكنك ان تفعل](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
+* [الحقوق العلمية](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
