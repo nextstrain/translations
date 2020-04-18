@@ -88,7 +88,7 @@ Nous avons préparé quelques ressources qui faciliteront l'interprétation des 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [Une note sur l'échantillonnage](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
+# [Une remarque sur l'échantillonnage](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
 Nous disposons actuellement de séquences provenant d'échantillons prélevés dans 36 États. C'est une réalisation incroyable: le séquençage d'un virus à ARN inconnu et de grande taille en pleine pandémie est difficile, et n'est possible que grâce au travail exceptionnel et au partage en temps réel des données par les scientifiques et les médecins du monde entier.
 <br><br>
 Si ces données nous permettent de déduire de nombreuses caractéristiques utiles de l'épidémie et de suivre sa propagation en temps réel, il est important de souligner que nos conclusions sont limitées par les données disponibles.
