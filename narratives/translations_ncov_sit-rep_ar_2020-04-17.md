@@ -96,7 +96,7 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- This is left-side text 4-->
 # [عنقود نيويورك الرئيسي مرتبط بالانتشار الوبائي في اوروبا](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
-من الممكن انك شاهدت [في الاخبار هذا الاسبوع](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), فإن معظم العينات الفيروسية التي تم جمعها من نيويورك (الملونة) تتجمع بالقرب من العينات التي جمعها من اوروبا (الرمادية).
+من الممكن انك شاهدت [في الاخبار هذا الاسبوع](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), فإن معظم العينات الفيروسية التي تم جمعها من نيويورك (الملونة) تتجمع بالقرب من العينات التي تم جمعها من اوروبا (الرمادية).
 <br><br>
 عنقود نيويورك محاط ومخترق داخليا بتسلسلات من أوروبا وهذا يقترح بقوة الى ان معظم الحالات المبكرة نتجت من ادخالات من اوروبا.  
 <!-- There is no right side text -->
