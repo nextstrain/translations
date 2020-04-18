@@ -51,10 +51,10 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 قمنا هنا بتحليل جينومات 1347 من فيروسات سارس كو-في-2 والتي تم مشاركتها للعموم وجمعت من الولايات المتحدة. نستطيع من خلال مقارنة هذه الجينومات الفيروسة مع بعضها البعض من أجل تتبع انتقال فيروس سارس كو-في-2 حول العالم وانتشاره محلياً. في تقرير هذا الاسبوع نوثق ما يلي:
 
 * الانتشار الوبائي في نيويورك ذو منشأ عالمي، لكن معظم الحالات يمكن عزوها الى ادخالات من اوروبا.   
-* الانتشار الوبائي في مدينة نيويورك يشير الى عمليات خلط للحالات في البلدات الخمسة  
+* الانتشار الوبائي في مدينة نيويورك يشير الى عمليات خلط للحالات في المقاطعات الخمسة  
 *يرتبط الإنتشار الوبائي في كاليفورنيا مع كل من ولاية واشنطن المجاورة وولاية نيويورك البعيدة  
 * الانتشار الوبائي في الغرب المتوسط غير متجانس نتيجة العديد من الادخالات المستقلة.
-* الانتشارات الوبائية الجارية في كل من اوتا و ايداهو مرتبطة جدا ببعضها
+* الانتشارات الوبائية الجارية في كل من يوتا و ايداهو مرتبطة جدا ببعضها
 * القرارات المتخذة من كل ولاية كان لها تأثيرات كبيرة على مصير الولايات الاخرى. تسهيل القيود بشكل آمن في اي ولاية يحتاج الى احتواء منسق، حيث تعمل كل الولايات على حماية بعضها البعض.
 
 
@@ -96,7 +96,7 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- This is left-side text 4-->
 # [عنقود نيويورك الرئيسي مرتبط بالانتشار الوبائي في اوروبا](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
-من الممكن انك شاهدت [في الاخبار هذا الاسبوع](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), فإن معظم العينات الفيروسية التي تم جمعها من نيويورك (الملونة) تتجمع بالقرب من العينات التي تم جمعها من اوروبا (الرمادية).
+من الممكن انك شاهدت [في الاخبار هذا الاسبوع](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), فإن معظم العينات الفيروسية التي تم جمعها من نيويورك (الملونة) تتجمع بالقرب من العينات التي تم جمعها من اوروبا (الرمادية
 <br><br>
 عنقود نيويورك محاط ومخترق داخليا بتسلسلات من أوروبا وهذا يقترح بقوة الى ان معظم الحالات المبكرة نتجت من ادخالات من اوروبا.  
 <!-- There is no right side text -->
@@ -118,9 +118,9 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [تشابك الحالات في البلدات الخمس](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+# [تشابك الحالات في المقاطعات الخمس](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
 
-داخل مدينة نيويورك نرى توزيع صغير للحالات حسب البلدة. وهذا يتوافق مع عمليات الخلط المتكررة للحالات في المدينة.
+داخل مدينة نيويورك نرى توزيع صغير للحالات حسب المقاطعة. وهذا يتوافق مع عمليات الخلط المتكررة للحالات في المدينة.
 <!-- This is no right-side text -->
 
 
@@ -212,7 +212,7 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+نحن ممتنون جدا للبيانات التي تم جمعها من قبل المختبرات التالية
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -689,12 +689,12 @@ We are grateful for the data gathered by these originating labs:
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+الي اليمين نعرض التسلسلات الخاصة والتي تم مشاركتها من قبل كل مختبر
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+تسلسلات جينومات سارس كو في 2 تمت بمشاركة كريمة من قبل العلماء في المختبرات التالية
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
