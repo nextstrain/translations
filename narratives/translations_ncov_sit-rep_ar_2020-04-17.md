@@ -67,9 +67,9 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 # [مصادر كوفيد-19](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
 قمنا هنا بتوفير بعض المصادر والتي تمكنك من تحليل البيانات التي نعرضها في هذا التقرير بشكل اسهل
 #### مصادر Nextstrain  
-* [ابدأ هنا: كيف تقرأ شجرة التصنيف الجيني](https://nextstrain.org/narratives/trees-background/).  
+* [ابدأ هنا: كيف تقرأ شجرة التصنيف الجيني](https://nextstrain.org/narratives/trees-background/ar).  
 * [خلفية علمية عن فيروسات كورونا](https://nextstrain.org/help/coronavirus/human-CoV).
-* [مفاهيم خاطئة شائعة](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [مفاهيم خاطئة شائعة](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-03-13?n=11).
 
 #### مصادر خارجية 
 * [اسأل عالماً و اسئلة شائعة](https://covid19.fas.org/l/en).
@@ -111,7 +111,7 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 
 <br><br>
 تمثل حالات نيويورك المبكرة على الاغلب انتشارات مترابطة. ولكنها فيما بعد اثناء الانتشار الوبائي نرى عمليات خلط اخرى اكثر ما بين العينات الاوروبية وعينات نيويورك وهذا يجعل تحديد اتجاه الانتشار فيما بعد اقل وضوحاً. وكما وثقنا في
- [الاسبوع الماضي](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11),هناك ايضا دليل على عمليات ادخالات متكررة من الولايات المتحدة الى كل من اوروبا وآسيا.
+ [الاسبوع الماضي](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-10?n=11),هناك ايضا دليل على عمليات ادخالات متكررة من الولايات المتحدة الى كل من اوروبا وآسيا.
 
 <!-- There is no right side text -->
 
