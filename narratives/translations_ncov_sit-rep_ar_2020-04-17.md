@@ -153,40 +153,41 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [What you can do](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Wear a mask in public.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [ماذا تفعل](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+#### ...كفرد في المجتمع
+* قم بالتقيد بالحجر الصحي، تحديدا إذا كنت في مجموعة هي عرضة للوباء
+* تذكر ،  حتى لو لم تكن عرضة  للوباء،  فهناك  العديد من الأشخاص حولنا قد يكونون.  فتقيد بالحجر لحمايتهم 
+* اغسل بديك "كانك تريد تغيير عدساتك اللاصقة بعد ان قمت بتقطيع الفلفل"
+* ابق في المنزل قدر ما تستطيع -- بشكل مخصوص إذا كنت مريضا، كن مستعدا وتزود باحتياجات اضافية في حال اضطررت للحجر الذاتي.
+* إذا كنت رب عمل، شجع موظفيك على العمل من البيت ان كان ذلك ممكنا
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...كشخص في موقع مسؤولية
+* اجعل الفحوصات مجانية ومتوفرة بكثرة
+* ضع تدابير التباعد الاجتماعي وتابع تنفيذها بفعالية على ارض الواقع
+* قم بتمويل وتطبيق جهود متابعة التواصل المكثفة. 
+* ادعم ماديا أولئك المتضررين مم التباعد الاجتماعي ( العمالة الذين يعملون بنظام الوقت الساعي، اولئك الذين يعتنون بالكبار والأطفال, والمشاريع الصغيرة،...الخ).
+
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# الاستنتاجات والحقائق الحالية
 
-* Introductions from Europe seeded the majority of the New York outbreak, but there were also introductions from other areas of the world.
+* معظم ادخالات الفيروس لولاية نيويورك تمت عبر أوروبا، والجزء المتبقي عبر ادخالات من دول متعددة 
 <br><br>
-* As the outbreak has progressed, we also see evidence for re-introductions from the U.S. to Europe and Asia.
+* ومع تمدد الوباء لاحظنا أيضا اعادة ادخال للفيروس من أمريكا لأوروبا وآسيا
 <br><br>
-* The outbreak in New York City shows mixing of cases across all 5 boroughs.
+* الوباء في نيويورك يظهر خلطا في الحالات عبر المقاطعات الخمس للولاية 
 <br><br>
-* The outbreak in California is related to both nearby Washington State and distant New York.
+* الوباء في ولاية كاليفورنيا مرتبط بولاية واشنطن المجاورة ونيويورك البعيدة
 <br><br>
-* The Midwest outbreak is heterogeneous, with multiple transmission chains circulating in the region.
+* الوباء في الوسط الغربي من الولايات المتحدة يظهر خلطا كبيرا، العديد من  سلاسل الانتشار تدور في المنطقة
 <br><br>
-* Outbreaks in Utah and Idaho are closely related, with ongoing community transmission.
+* الوباء في ولايتي يوتا وايداهو متقارب مع انتشار مستمر في المجتمع 
 <br><br>
-* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.  
+* االقرار الذي تتخذه كل ولاية يؤثر على الولايات الأخرى. أي قرار يتخذ بشأن تقليص القيود على المجتمع في أي ولاية، يجب أن يتم تنسيقه مع  باقي الولايات لضمان عدم إعادة الانتشار للفيروس بين الولايات.  
+ 
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -199,14 +200,11 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
+# [الحقوق العلمية](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
-
+نود هنا ان نشكر ونقدر الاعمال الرائعة المنجزة بوقتها من قبل جميع العلماء الذي عملوا على هذا الوباء وخصوصاً أولئك العاملين في الصين. فقط من خلال المشاركة السريعة للبيانات الجينية كان بالامكان عمل هذه التحليلات
 <br>
-
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+كما نثمن بقوة ونشكر [GISAID](https://gisaid.org) على تزويدهم لنا بمنصتهم والتي تم من خلالها تحميل وتحليل البيانات.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
