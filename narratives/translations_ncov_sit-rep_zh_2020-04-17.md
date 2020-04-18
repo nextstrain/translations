@@ -52,11 +52,11 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 
 我们分析了 1,347 个公开共享的美国地区的 SARS-Cov-2 基因组。通过将这些病毒基因组相互比较，我们可以描述 COVID-19 是如何在世界各地迁移和在社区中传播的。在本周的更新中，我们报告：
 
-* 纽约的疫情来自世界各地，但大部分的病例可以归为来自欧洲的输入。
+* 纽约的疫情来自世界各地，但大部分的病例可以归为来自欧洲。
 * 纽约市五个行政区的疫情混杂在一起。 
 * 加州的疫情与近处的华盛顿州和远处的纽约州都有关。
 * 中西部各地疫情的来源多有不同，是多次独立输入事件的结果。
-* 犹他州和爱达荷州两地流行的病毒亲缘关系很近。
+* 犹他州和爱达荷州两地流行的病毒的亲缘关系很近。
 * 每个州的决策都会对其他州的命运产生深远的影响。任何一个州想要安全地放松管控措施，都需要其他州的协作，各州需要互相保护，共同控制疫情。
 
 
@@ -97,22 +97,22 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [纽约样本的主要分支与欧洲疫情相关](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
+# [由纽约样本组成的主要分支与欧洲疫情有关](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
 您可能已经在[这周的新闻（英文）](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html)中读到，纽约的病毒样本（彩色）大部分与欧洲的样本（灰色）在树上聚的很近。
 <br><br>
-有欧洲的序列位于纽约这一支的外部，并且纽约和欧洲的序列也出现了交错排列，这些证据有力地表明了大多数纽约的早期病例是由欧洲的输入病例所引起。
+欧洲的序列位于纽约这一支的外部，并且纽约和欧洲的序列也出现了交错排列，这些证据有力地表明了大多数纽约的早期病例来自于欧洲的输入病例。
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [病毒被多次引入纽约州](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
+# [病毒被多次输入纽约州](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-纽约的大部分病例是由欧洲的输入病例所引发。但是，通过将世界其他地区的序列作为背景数据，我们得以看到纽约市还经历过其他的输入事件。作为一个国际化大都市，纽约的病例的来源基本涵盖了世界上每个地区。
+纽约的大部分病例是由欧洲的输入病例所引发。但是，通过将世界其他地区的序列作为背景数据，我们得以看到纽约市还经历过其他的输入事件。作为一个国际化大都市，纽约的病例的来源基本涵盖了世界上所有地区。
 <br><br>
-纽约早期的病例很有可能是输入病例传播的结果。在疫情后期，我们看到欧洲与纽约的样本混杂在一起的情况远远多于前期，传播的方向就没有那么清楚了。我们在[上周](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=11)的报告中谈到，有证据表明最近也有从美国反向输出到欧洲和亚洲的病例。
+纽约早期的病例很有可能是被输入的结果。在疫情后期，我们看到欧洲与纽约的样本混杂在一起的情况远远多于前期，传播的方向就没有那么清楚了。我们在[上周](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=11)的报告中谈到，有证据表明最近也有从美国反向输出到欧洲和亚洲的病例。
 
 <!-- There is no right side text -->
 
@@ -129,7 +129,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- This is left-side text 7-->
 # [加州的疫情与近处和远处的州都有关](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
 
-我们也看到了美国各州之间存在多次输出事件的证据。比如，加州的样本的遗传多样性的范围覆盖了整棵树：加州的病例既有与较近的华盛顿州聚在一起的，也有与较远的纽约州聚在一起的。这样的证据表明，病毒在加州和离它较远和较近的州之间都有传播。
+我们也看到了美国各州之间多起输出事件的证据。比如，加州的样本的遗传多样性的范围覆盖了整棵树：加州的病例既有与较近的华盛顿州聚在一起的，也有与较远的纽约州聚在一起的。这样的证据表明，病毒在加州和离它较远和较近的州之间都有传播。
 
 <!-- This is no right-side text -->
 
@@ -147,7 +147,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- This is left-side text 9-->
 # [落基山脉西部州的疫情存在关联](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
 
-落基山脉西部地区也经历了多次输入事件。把地图放大，我们可以清晰地看到一个在爱达荷州活动的传播链。值得注意的是，这些样本的外部是一簇来自犹他州的样本，证明这两地的疫情紧密相关。
+落基山脉西部地区也经历了多次输入事件。把地图放大，我们可以清晰地看到一个在爱达荷州活动的传播链。值得注意的是，这组样本的外部是一簇来自犹他州的样本，证明这两地的疫情紧密相关。
 
 <!-- This is no right-side text -->
 
