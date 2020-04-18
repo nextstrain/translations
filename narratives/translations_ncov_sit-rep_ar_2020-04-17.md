@@ -128,7 +128,7 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- This is left-side text 7-->
 # [الانتشار الوبائي في كاليفورنيا مرتبط مع كل من الولايات القريبة والبعيدة](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
 
-We also see evidence of multiple introductions between states. For example, cases from California span the genetic diversity of the tree, grouping together with samples from both nearby Washington State and New York. This is evidence for transmission between California and both nearby and distant states.
+كما نشاهد هنا دليلاً على حالات ادخال متعددة بين الولايات. فعلى سبيل المثال، حالات من كاليفورنيا تغطي التنوع الجيني للشجرة وتتجمع مع عينات من كل من ولاية واشنطن القريبة وولاية نيويورك. وهذا دليل على الانتشار ما بين كاليفورنيا وكل من كلا الولايتين القريبة والبعيدة.
 
 <!-- This is no right-side text -->
 
