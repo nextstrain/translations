@@ -82,12 +82,12 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
-We currently have sequences from samples collected in 36 states. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [ملاحظة عن العينات](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
+نتملك حالياً تسلسلات جينومية من عينات تم جمعها من 36 ولاية امريكية. وهذا انجاز عظيم-- حيث ان تحديد تسلسل جينوم فيروس ار ان اي كبير وغير معروف مسبقا في وسط جائحة هو امر في غاية الصعوبة، وما كان ليكون لولا العمل المضني والمشاركة الفورية للبيانات من قبل العلماء والأطباء حول العالم.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+بينما تمكننا هذه البيانات من استنتاج خصائص مفيدة للانتشار الوبائي وتتبع انتشاره في الوقت الفعلي الا انه من المهم التأكيد على ان استنتاجاتنا تبقى محدودة بالبيانات المتوفرة
 <br><br>
-For example, the map shows relatively few sequences from the Central United States. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+فعلى سبيل المثال ، تظهر الخارطة عدد قليل نسبياً من التسلسلات من وسط الولايات المتحدة. وهذا ليس لان كوفيد-19 لا يدور في تلك المناطق، ولا لأن هذه الحالات ليست مهمة من أجل الفهم وإنما لأننا لا نمتلك بيانات متوفرة بالشكل الكافي من تلك المناطق. حجم كل دائرة على الخارطة يشير الى كمية البيانات المتوفرة حالياً من تلك المنطقة، وليس الى الحجم الحقيقي لانتشار الوباء فيها
 
 <!-- There is NO right-side text -->
 
