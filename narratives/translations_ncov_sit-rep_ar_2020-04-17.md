@@ -50,12 +50,12 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 
 قمنا هنا بتحليل جينومات 1347 من فيروسات سارس كو-في-2 والتي تم مشاركتها للعموم وجمعت من الولايات المتحدة. نستطيع من خلال مقارنة هذه الجينومات الفيروسة مع بعضها البعض تتبع انتقال فيروس سارس كو-في-2 حول العالم وانتشاره محلياً. في تقرير هذا الاسبوع نوثق ما يلي:
 
-* The New York outbreak has cosmopolitan origins, but the majority of cases are attributable to introductions from Europe.   
-* The outbreak in New York City shows mixing of cases across all 5 boroughs.  
-* The outbreak in California is related to both nearby Washington State and distant New York.  
-* The Midwest outbreak is heterogeneous and is the result of many independent introductions.
-* Ongoing outbreaks in Utah and Idaho are closely related.
-* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.
+* الانتشار الوبائي في نيويورك ذو منشأ عالمي، لكن معظم الحالات يمكن عزوها الى ادخالات من اوروبا.   
+* الانتشار الوبائي في مدينة نيويورك يشير الى عمليات خلط للحالات على امتداد المناطق الادارية الخمسة  
+*يرتبط الإنتشار الوبائي في كاليفورنيا مع كل من ولاية واشنطن المجاورة وولاية نيويورك البعيدة  
+* الانتشار الوبائي في الغرب المتوسط غير متجانس نتيجة العديد من الادخالات المستقلة.
+* الانتشارات الوبائية الجارية في كل من اوتا و ايداهو مرتبطة جدا ببعضها
+* القرارات المتخذة من كل ولاية كان لها تأثيرات كبيرة على مصير الولايات الاخرى. تسهيل القيود بشكل آمن في اي ولاية يحتاج الى احتواء منسق، حيث تعم كل الولايات على حماية بعضها البعض.
 
 
 ```
