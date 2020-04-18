@@ -94,17 +94,17 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Main New York clade linked to European outbreak](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
+# [عنقود نيويورك الرئيسي مرتبط بالانتشار الوبائي في اوروبا](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
-As you may have seen [in the news this week](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), most of the viral samples from New York (in color) group closely with samples from Europe (gray).
+من الممكن انك شاهدت [في الاخبار هذا الاسبوع](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), فإن معظم العينات الفيروسية التي تم جمعها من نيويورك (الملونة) تتجمع بالقرب من العينات التي جمعها من اوربا (الرمادية).
 <br><br>
-The New York clade is both flanked by and interleaved with sequences from Europe, which strongly suggests that most early cases resulted from introductions from Europe.
+عنقود نيويورك محاط ومخترق داخليا بتسلسلات من أوروبا وهذا يقترح بقوة الى ان معظم الحالات المبكرة نتجت من ادخالات من اوروبا. flanked by and interleaved 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Many introductions to New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
+# [العديد من الادخالات الى نيويورك](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
 The majority of the New York outbreak was seeded by European introduction(s). But the contextual sequences from other regions of the world allow us to see additional introductions into New York City. True to its cosmopolitan nature, there are cases in New York closely related to samples from every other region of the world.
 <br><br>
