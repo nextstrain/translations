@@ -121,7 +121,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- This is left-side text 6-->
 # [纽约市五个行政区的样本混杂在一起](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
 
-我们看到纽约市内不同行政区的样本基本没有在演化树上被分开，表明纽约市内的疫情频繁地混杂在一起。
+我们看到纽约市内不同行政区的样本在演化树上并不能明确地分成不同的组，这表明纽约市内不同行政区的疫情频繁地混杂在一起。
 <!-- This is no right-side text -->
 
 
