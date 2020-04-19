@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-17.
+title: Analiza genomiczna rozprzestrzeniania się COVID-19. Raport sytuacyjny 2020-04-17.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -18,12 +18,16 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Anna Fijarczyk
 translatorLinks:
+  - https://twitter.com/afijarczyk
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 date: "2020 April 17"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on the outbreak in the United States. For most areas of the U.S., we find evidence for multiple introductions -- of both international and domestic origins. This data emphasizes that the decisions made by each state profoundly impacts the fate of the others."
+abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się COVID-19. W tym tygodniu koncentrujemy się na epidemii w Stanach Zjednoczonych. Dla większości obszarów USA, znajdujemy dowody na wielokrotne introdukcje -- o międzynarodowym jak i krajowym pochodzeniu. Te dane podkreślają, że decyzje podejmowane przez każdy stan mają ogromny wpływ na losy w innych stanach." 
+
+<!-- This week, we focus on the outbreak in the United States. For most areas of the U.S., we find evidence for multiple introductions -- of both international and domestic origins. This data emphasizes that the decisions made by each state profoundly impacts the fate of the others.-->
 
 ---
 
@@ -33,20 +37,29 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
+# [Spis treści](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [Updates for New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [Updates for California](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [Updates for the Midwest](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [Updates for the Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
+* [Wstęp i materiały](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
+* [Opis próbkowania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
+* [Aktualizacja sytuacja w Nowym Jorku](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
+* [Aktualizacja sytuacji w Kaliforni](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
+* [Aktualizacja sytuacji w środkowo-zachodnich stanach](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
+* [Aktualizacja sytuacji w zachodnich stanach Gór Skalistych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
+* [Co możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
+* [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Streszczenie
+
+Przeanalizowaliśmy 1,347</tag> publicznie dostępnych genomów SARS-CoV-2 ze Stanów Zjednoczonych. Porównując je, potrafimy ocenić, w jaki sposób wirus SARS-CoV2 rozprzestrzenia się po świecie i wewnątrz społeczności. W tym tygodniu opisujemy:
+
+* Epidemia w stanie Nowym Jorku ma kosmopolityczne pochodzenie, ale większość przypadków jest związana z introdukcjami z Europy.
+* Epidemia w mieście Nowy Jork pokazuje, że przypadki z wszystkich 5 dzielnic są ze sobą wymieszane.
+* Epidemia w stanie Kalifornia jest powiązana z przypadkami w pobliskim stanie Waszyngton jak i odległym Nowym Jorku.
+* Epidemia w stanach środkowego zachodu ma heterogeniczne pochodzenie i jest wynikiem wielu niezależnych introdukcji.
+* Trwające epidemie w stanach Utah i Idoho są sciśle powiązane.
+* Decyzje podjęte przez każdy stan mają ogromny wpływ na losy w pozostałych stanach. Bezpieczne złagodzenie restrykcji w jakimkolwiek stanie wymaga skoordynowanych działań wszystkich stanów. <!--shortened a bit, I think reads better -->
 
 We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is moving around the world and spreading locally. In this week's updates, we report:  
 
@@ -64,14 +77,14 @@ We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+# [Materiały o COVID-19](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
+Przygotowaliśmy materiały online, które ułatwią interpretowanie przygotowanych danych:
+#### Materiały Nextstrain  
+* [ZACZNIJ TUTAJ: Jak interpretować drzewa filogenetyczne](https://nextstrain.org/narratives/trees-background/pl).  
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Przesądy](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-03-13?n=11).
 
-#### External Resources  
+#### Inne źródła  
 * [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
 * [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
@@ -82,12 +95,12 @@ We've prepared some resources that will make interpreting the data we present in
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
-We currently have sequences from samples collected in 36 states. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Opis próbkowania](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
+Obecnie dysponujemy sekwencjami próbek pobranych w 36</tag> stanach. To niesamowity wyczyn -- sekwencjonowanie nieznanego wirusa o sporym genomie RNA w środku pandemii jest trudne i możliwe jedynie dzięki ogromnej pracy i sprawnemu udostępnianiu danych przez naukowców i lekarzy z całego świata.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+Choć zgromadzone dane umożliwiają wyciąganie wniosków na temat wielu przydatnych aspektów epidemii oraz pozwalają śledzić jej rozprzestrzenianie w czasie rzeczywistym, należy podkreślić, że nasze wnioski są ograniczone dostępnością danych.
 <br><br>
-For example, the map shows relatively few sequences from the Central United States. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+Na przykład, mapa pokazuje bardzo niewiele sekwencji z środkowych Stanów Zjednoczonych. Powodem NIE jest to, że COVID-19 nie znajduje się w tych regionach, bądź przypadki z tych regionów są mniej istotne dla zrozumienia sytuacji; powodem jest po prostu niewielka ilość danych docierająca z tych obszarów. Wielkość każdego kółka na mapie wskazuje, jak wiele danych z tego regionu jest dostępnych w danym momencie, a nie jaka jest rzeczywista skala ogniska epidemii.
 
 <!-- There is NO right-side text -->
 
