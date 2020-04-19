@@ -19,8 +19,10 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
   - Sofia Paraskevopoulou
+  - Sotiris Salloumis
 translatorLinks:
   - https://github.com/akifoss
+  - https://github.com/codergr
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 date: "17 Aπριλίου 2020"
