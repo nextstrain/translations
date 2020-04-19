@@ -39,14 +39,14 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- This is left-side text 1-->
 # [目录](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
-* [关于数据](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [纽约的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [加州的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [中西部的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [落基山脉西部地区的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
-* [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
-* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
+* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-17?n=2).     
+* [关于数据](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-17?n=3).
+* [纽约的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-17?n=4).
+* [加州的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-17?n=7).
+* [中西部的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-17?n=8).
+* [落基山脉西部地区的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-17?n=9).
+* [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-17?n=10).
+* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
