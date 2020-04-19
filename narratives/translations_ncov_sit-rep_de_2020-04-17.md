@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-17.
+title: Genomische Analyse der Verbreitung von COVID-19. Lagebericht vom 2020-04-17.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -17,13 +17,14 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
+translators: Elisabeth Hirth
+translatorLinks: https://dittrich.ethz.ch/people/person-detail.MjM4ODcw.TGlzdC8xMjg5LC02NDM3NDE3MjY=.html
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 date: "2020 April 17"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on the outbreak in the United States. For most areas of the U.S., we find evidence for multiple introductions -- of both international and domestic origins. This data emphasizes that the decisions made by each state profoundly impacts the fate of the others."
+abstract: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von COVID-19 zu beschreiben, und wird wöchentlich aktualisiert. Diese Woche legen wir den Fokus auf die Epidemi in den Verienigten Staaten von Amerika. Fuer die meisten Gebieten in den USA haben wir Beweise fuer eine mehrfache Einschleppung - sowohl nationalen als auch internationalen Ursprungs - gefunden. Diese Daten unterstreichen, dass die Entscheidung eines einzelnen Bundesstaates tiefgreifend das Schicksal anderer Staaten beeinflusst.
+
 
 ---
 
@@ -33,30 +34,28 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
+# [Inhaltsverzeichnis](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [Updates for New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [Updates for California](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [Updates for the Midwest](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [Updates for the Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
+* [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
+* [Naehere Informationen zu diesen Daten](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
+* [Updates fuer New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
+* [Updates fuer Kalifornien](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
+* [Updates fuer den mittleren Westen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
+* [Updates fuer Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
+* [Was Sie tun koennen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
+* [Wissenschaftliche Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Kurzfassung
+Wir haben 1,347 oeffentlich zugaengliche SARS-Cov-19 Genome aus den Vereinigten Staaten von Amerika analysiert. Durch den Vergleich der Virusgenome untereinander koennen wir charakterisieren, wie sich SARS-CoV-2 (das Virus, das COVID-19 ausloest) global und lokal weiterverbreitet. In dem Update von dieser Woche berichten wir:   
 
-We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is moving around the world and spreading locally. In this week's updates, we report:  
-
-* The New York outbreak has cosmopolitan origins, but the majority of cases are attributable to introductions from Europe.   
-* The outbreak in New York City shows mixing of cases across all 5 boroughs.  
-* The outbreak in California is related to both nearby Washington State and distant New York.  
-* The Midwest outbreak is heterogeneous and is the result of many independent introductions.
-* Ongoing outbreaks in Utah and Idaho are closely related.
-* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.
-
+* Die Epidemie in New York hat kosmopolitanischen Ursprung, wobei der Grossteil der Faelle Einschleppungen aus Europa zugeschrieben werden kann.    
+* Die Epidemie in New York City weist eine Durchmischung von Faellen aus 5 Gemeinden auf.  
+* Die Epidemie in Kalifornien ist aehnlich zu deren im naheliegenden Washingotn State und im weitentfernten New York.  
+* Die Epidemie im mittleren Westen ist heterogen und ein Ergebnis aus vielen unabhaengingen Einschleppungen.
+* Die fortwaehrenden Epidemien in Utah und Idaho sind stark miteinander verbunden.
+* Entscheidungen einzelner Bundesstaaten beeinflussen das Schicksal anderer Bundesstaaten tiefgruendig. Sichere Lockerungen der Einschraenkungen in jedem Bundesstaat forderen die koordinierte Eindaemmung des Virus und die Zusammenarbeit aller Staaten, um sich gegenseitig zu schuetzen. 
 
 ```
 
@@ -64,87 +63,86 @@ We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [COVID-19 Quellen](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
+Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch bekannt als hCov-19 - haben wir einige Quellen vorbereitet, die dem Leser helfen sollen, die nachfolgenden Daten besser und leichter zu verstehen. Diese Informationen helfen Ihnen, die nachfolgenden Daten besser interpretieren zu koennen.
+#### Nextstrain Quellen  
+* [Anfang: Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/).  
+* [Hintergrundwissen zu Coronaviren](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+#### Externe Quellen 
+* [Fragen Sie einen Wissenschaftler & FAQs](https://covid19.fas.org/l/en).
+* [Lageberichte der Weltgesundheitsorganisation WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [CDC Quellen](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Berichterstattung der NYTimes zu COVID-19](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
-We currently have sequences from samples collected in 36 states. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Anmerkung zur Probennahme](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
+Bis jetzt sind Sequenzierungsdaten von Virusisolaten aus 36 Bundesstaaten. Das ist eine Meisterleistung, wenn man bedenkt, dass man ein unbekanntes, grosses RNA-Virus inmitten einer Pandemie sequenzieren muss. Dies ist nur dank dem wunderbaren Einsatz und dem zeitnahen Teilen von Daten durch Forscher und Aerzte weltweit moeglich.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+Waehrend diese Daten es uns ermoeglichen, die Pandemie naeher zu charakterisieren und die Ausbreitung zeitnah zu verfolgen, ist es wichtig zu betonen, dass die Schlussfolgerungen aufgrund der Datenverfuegbarkeit begrenzt sind.
 <br><br>
-For example, the map shows relatively few sequences from the Central United States. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+Zum Beispiel zeigt die Karte nur sehr geringe Sequenzierdaten aus der Mitte der Vereinigten Staaten von Amerika. Das bedeutet NICHT, dass COVID-19 sich dort nicht ausbreitet, oder die Fallzahlen nicht wichtig sind fuer die Analyse. Sondern es bedeutet oft nur, dass es kaum verfuegbare Daten aus diesen Gebieten gibt. Die Groesse eines Kreises sagt lediglich aus, wie viel Daten aus einem Gebiet derzeit verfuegbar sind, und stellt nicht das wirkliche Ausmass des Ausbruchs in diesem Gebiet dar.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Main New York clade linked to European outbreak](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
+# [Hauptklade (New York) ist mit der europaeischen Epidemie verbunden](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
-As you may have seen [in the news this week](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), most of the viral samples from New York (in color) group closely with samples from Europe (gray).
+Wie Sie bereits [den Nachrichten aus dieser Woche] entnommen haben (https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), koennen die meisten Virusisolate aus New York (hier farbig dargestellt) eng mit Proben aus Europe (hier grau dargestellt) gruppiert werden.
 <br><br>
-The New York clade is both flanked by and interleaved with sequences from Europe, which strongly suggests that most early cases resulted from introductions from Europe.
+Die New York - Klade ist sowohl flankiert als auch verschraenkt mit Sequenzierdaten aus Europa, was stark darauf hindeutet, dass die meisten der fruehen Faelle aus Einschleppungen aus Europa resultiert sind.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Many introductions to New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
+# [Viele Einfuehrungen des Virus nach New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-The majority of the New York outbreak was seeded by European introduction(s). But the contextual sequences from other regions of the world allow us to see additional introductions into New York City. True to its cosmopolitan nature, there are cases in New York closely related to samples from every other region of the world.
+Der Grossteil der Epidemie in New York wurde durch Einschleppung(en) aus Europa erzeugt. Aber kontextabhaengige Sequenzen aus anderen Teilen der Welt zeigt uns, dass es noch weitere Einfuehrungen des Virus nach New York City gegeben hat. Aufgrund der Internationalitaet der Stadt gibt es Faelle, die eng mit Proben aus jedem Teil der Welt verbunden ist.
 <br><br>
-The early New York cases likely represent inbound transmissions. Later on in the outbreak, we see far more mixing between European and New York samples, making the
-direction of later transmissions less clear. As we reported on [last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), there is also evidence for recent reintroductions from the U.S. to Europe and Asia.
+Die fruehen Faelle in New York repraesentieren hoechstwahrscheinlich eingehende Uebertragungen. Im spateren Verlauf der Epidemie, sehen wir vermehrte Durchmischung zwischen europaeischen und Proben aus New York, was den Verlauf spaeterer Uebertragungen nicht leicht nachvollziehen laesst. Wie wir [letzte Woche](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11) berichtet haben, gibt es Bewese fuer eine kuerzliche Wiedereinschleppung aus den Vereinigten Staaten von Amerika nach Europa und Asien.
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Intermingling of cases from all 5 NYC boroughs](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+# [Falldurchmischung aus allen 5 New York City Gemeinden](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
 
-Within New York City, we see little segregation of cases by borough. This is consistent with frequent mixing of cases across the city.
+Innerhalb New York City sehen wir nur eine schwache Abgrenzgung der Faelle zwischen den Gemeinden. Dies stimmt mit dem haeufigen Mischen an Faelle innerhalb der ganzen Stadt ueberein.
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [California outbreak related to both nearby and distant states](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
+# [Epidemie in Kalifornien ist mit sowohl naheliegenden als auch weitentfernten Bundesstaaten verbunden](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
 
-We also see evidence of multiple introductions between states. For example, cases from California span the genetic diversity of the tree, grouping together with samples from both nearby Washington State and New York. This is evidence for transmission between California and both nearby and distant states.
+Zusaetzlich sehen wir Anzeichen fuer eine vielfache Einschleppung zwischen den Bundesstaaten. Zum Beispiel ueberspannen kalifornische Proben die gesamte genetische Vielfalt des Baums und koennen mit Faellen aus dem naheliegenden Bundesstaat Washington State und dem entfernteren New York gruppiert werden. Dies ist ein Anzeichen fuer eine Uebertragung zwischen Kalifornien und sowohl naheliegenden als auch weitentfernten Bundesstaaten.
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Midwest outbreaks were seeded by many introductions](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
+# [Epidemien im mittleren Westen sind auf mehrere Einschleppungen zurueckfuehrbar](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
 
-Highlighting sequences from the Midwestern United States, we see that cases from this area are spread evenly across the tree, rather than forming a series of tight clusters. This tells us that there have been many independent introductions to these states, with several different transmission chains circulating simultaneously.
+Hebt man Sequenzierdaten aus dem mittleren Westen der USA hervor, sieht man, dass diese Faelle aus diesen Gebieten eher ebenmaessig ueber den Baum verteilt sind als enge Kluster zu formen. Das zeigt, dass es hier viele unabhaengige Einschleppungen in diese Bundesstaate gegeben hatte mit vielen verschiedenen Uebertragungsketten, die gleichzeitig zirkulieren.
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Related outbreaks across the Rocky Mountain West](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
+# [Verwandte Epidemien in Rocky Mountain West](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
 
-There have also been several introductions to the Rocky Mountain West. Zooming in, we see a well-resolved transmission chain making its way across Idaho. Notably, this set of cases is flanked by a cluster of cases from Utah, demonstrating a close relationship between these two outbreaks.
+Es hat auch mehrere Einschleppungen nach Rocky Mountain West gegeben. Zoomt man rein, sieht man eine gut aufgeloeste Uebertragungskette, die sich seinen Weg ueber Idaho macht. Erwaehnenswert sei, dass diese Fallreihe von einem Fallkluster aus Utah flankiert wird, was die enge Verbindung zwischen den beiden Epidemien zeigt.
 
 <!-- This is no right-side text -->
 
