@@ -185,7 +185,7 @@ There have also been several introductions to the Rocky Mountain West. Zooming i
 * Stosuj ścisłą izolację społeczną, zwłaszcza jeśli jesteś w grupie podwyższonego ryzyka.
 * Noś maseczkę ochronną w miejscach publicznych.
 * Pamiętaj, że nawet jeśli nie jesteś szczególnie narażona/y, wiele osób wokół ciebie jest; postępuj zgodnie z tymi praktykami, aby chronić innych.
-* Myj ręcę "jakbyś właśnie pokroił papryczkę jalapeno i musiał zmienić soczewkę kontaktową".  
+* Myj ręce "jakbyś właśnie pokroił papryczkę jalapeno i musiał zmienić soczewkę kontaktową".  
 * Zostań w domu na tyle, na ile to możliwe -- szczególnie jeśli jesteś chora/y; przygotuj trochę zapasów w razie potrzeby przebycia kwarantanny.  
 * Jeśli jesteś pracodawcą, zachęć swoich pracowników, aby pracowali z domu, gdziekolwiek jest to możliwe.
 
