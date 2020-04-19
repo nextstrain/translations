@@ -56,7 +56,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 ここでは、米国から共有されている 1,347 種の SARS-CoV-2 ゲノムを分析しました。これらのウイルスのゲノムを相互に比較することにより、SARS-CoV-2 が世界中をどのように移動しているか、地域の中でどのように拡散しているかを特徴付けることができます。今週の更新では、次の内容を報告します:
 
-* ニューヨーク州での感染拡大は、国際的な起源を持つが、症例の大部分はヨーロッパからの伝播に由来するものである。  
+* ニューヨーク州での感染拡大は、国際的な起源を持つが、症例の大部分はヨーロッパからの伝播に由来するものです。  
 * ニューヨーク市での感染拡大は、5つの行政区すべてでの症例が混在していることを示しています。 
 * カリフォルニア州での感染拡大は、近隣のワシントン州と遠く離れたニューヨーク州の両方に関連しています。 
 * 中西部での感染拡大は不均一であり、多くの独立した伝播の結果です。
@@ -115,7 +115,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 ニューヨーク州での感染拡大の大部分は、欧州の人々による伝播でした。しかし、世界の他の地域からの遺伝子配列の関係性 (translator note: What is the proper Japanese translation for "contextual sequences") により、ニューヨーク市への更なる伝播を見ることができます。その国際的な特徴を表すように、ニューヨーク州には世界中の地域からのサンプルに密接に関連している症例があります。
 <br><br>
-初期のニューヨーク州の症例は、おそらく内向きの伝播を表しています。発生の後半には、欧州とニューヨーク州のサンプルの混合がより多くなり、伝播の方向が明確ではありません。先週[報告]（https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=11）したように、米国から欧州およびアジアへの最近の再伝播の証拠もあります。
+初期のニューヨーク州の症例は、おそらく内向きの伝播を表しています。発生の後半には、欧州とニューヨーク州のサンプルの混合がより多くなり、伝播の方向が明確ではありません。先週[報告]（https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=11） したように、米国から欧州およびアジアへの最近の再伝播の証拠もあります。
 
 <!-- There is no right side text -->
 
@@ -130,18 +130,18 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [California outbreak related to both nearby and distant states](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
+# [カリフォルニア州での感染拡大は、近隣と遠く離れた州の両方に関連しています](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
 
-We also see evidence of multiple introductions between states. For example, cases from California span the genetic diversity of the tree, grouping together with samples from both nearby Washington State and New York. This is evidence for transmission between California and both nearby and distant states.
+また、州間の複数の伝播の証拠も見られます。例えば、カリフォルニア州からの事例は、近隣のワシントン州やニューヨーク州からのサンプルと一緒にグループ化されており、系統樹の遺伝的多様性に跨ります。(translator note: more natural Japanese of ... "span the genetic diversity of the tree") これは、カリフォルニア州と近隣および遠方の州との間での感染の証拠です。
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Midwest outbreaks were seeded by many introductions](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
+# [多くの伝播による中西部での感染拡大](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
 
-Highlighting sequences from the Midwestern United States, we see that cases from this area are spread evenly across the tree, rather than forming a series of tight clusters. This tells us that there have been many independent introductions to these states, with several different transmission chains circulating simultaneously.
+米国中西部の遺伝子配列を表示すると、この領域の症例は一連の密なクラスターを形成するのではなく、系統樹全体に均等に広がっています。これにより、これらの州には多くの独立した伝播があり、いくつかの異なる伝播の繋がりが同時に蔓延していることがわかります。
 
 <!-- This is no right-side text -->
 
