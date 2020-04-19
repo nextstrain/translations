@@ -138,7 +138,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- This is left-side text 8-->
 # [中西部的疫情来自于多起输入事件](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
 
-我们在这张图中高亮了美国中西部地区的序列，可以看到，这些地区的样本均匀分布在演化树的各处，而没有形成一系列紧密的簇。这个现象告诉我们，这些州经历了多起独立的输入事件，现在正有多个不同的传播链在当地传播。
+我们在这张图中高亮了美国中西部地区的序列，可以看到，这些地区的样本均匀分布在演化树的各处，而没有形成一系列紧密的簇。这个现象告诉我们，这些州经历了多起独立的输入事件，目前在当地存在着多个不同的传播链。
 
 <!-- This is no right-side text -->
 
