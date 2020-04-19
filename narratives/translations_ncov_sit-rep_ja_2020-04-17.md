@@ -132,7 +132,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 <!-- This is left-side text 7-->
 # [近隣と遠く離れた州の両方に関連するカリフォルニア州での感染拡大](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
 
-また、州間の複数の伝播の証拠も見られます。例えば、カリフォルニア州からの事例は、近隣のワシントン州やニューヨーク州からのサンプルと一緒にグループ化されており、系統樹の遺伝的多様性に跨ります。(translator note: more natural Japanese of ... "span the genetic diversity of the tree") これは、カリフォルニア州と近隣および遠方の州との間での感染の証拠です。
+また、州間の複数の伝播の証拠も見られます。例えば、カリフォルニア州からの事例は、近隣のワシントン州やニューヨーク州からのサンプルと一緒にグループ化されており、系統樹の遺伝的多様性に跨ります。これは、カリフォルニア州と近隣および遠方の州との間での感染の証拠です。
 
 <!-- This is no right-side text -->
 
