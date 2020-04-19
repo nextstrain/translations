@@ -150,7 +150,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 <!-- This is left-side text 9-->
 # [ロッキー山脈西部での感染拡大](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
 
-ロッキー山脈西部への伝播もいくつかあります。 拡大してみると、アイダホ州を横断する感染の連鎖がよく判ります。 特にこの一連の症例は、ユタ州からの症例のクラスターに隣接しており、これら2つの感染拡大の密接な関係を示しています。
+ロッキー山脈西部への伝播もいくつかあります。 拡大してみると、アイダホ州を横断する感染の連鎖の一つがよく判ります。 特にこの一連の症例は、ユタ州からの症例のクラスターに隣接しており、これら2つの感染拡大の密接な関係を示しています。
 
 <!-- This is no right-side text -->
 
