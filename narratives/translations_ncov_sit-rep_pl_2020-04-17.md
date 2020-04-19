@@ -19,8 +19,10 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
   - Anna Fijarczyk
+  - Marta Niedzicka
 translatorLinks:
   - https://twitter.com/afijarczyk
+  - https://www.researchgate.net/profile/Marta_Niedzicka
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 date: "2020 April 17"
@@ -55,8 +57,8 @@ Przeanalizowaliśmy 1,347</tag> publicznie dostępnych genomów SARS-CoV-2 ze St
 * Epidemia w stanie Nowym Jorku ma kosmopolityczne pochodzenie, ale większość przypadków jest związana z introdukcjami z Europy.
 * Epidemia w mieście Nowy Jork pokazuje, że przypadki z wszystkich 5 dzielnic są ze sobą wymieszane.
 * Epidemia w stanie Kalifornia jest powiązana z przypadkami w pobliskim stanie Waszyngton jak i odległym Nowym Jorku.
-* Epidemia w Środkowo-Zachodnich Stanach Zjednoczonych ma heterogeniczne pochodzenie i jest wynikiem wielu niezależnych introdukcji.
-* Trwające epidemie w stanach Utah i Idoho są sciśle powiązane.
+* Epidemia w środkowo-zachodnich Stanach Zjednoczonych ma heterogeniczne pochodzenie i jest wynikiem wielu niezależnych introdukcji.
+* Trwające epidemie w stanach Utah i Idaho są ściśle powiązane.
 * Decyzje podjęte przez każdy stan mają ogromny wpływ na losy w pozostałych stanach. Bezpieczne złagodzenie restrykcji w jakimkolwiek stanie wymaga skoordynowanych działań wszystkich stanów. <!--shortened a bit, I think reads better -->
 
 <!-- We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is moving around the world and spreading locally. In this week's updates, we report:  
@@ -105,10 +107,10 @@ Na przykład, mapa pokazuje bardzo niewiele sekwencji z środkowych Stanów Zjed
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Głowny klad z Nowego Jorku jest powiązany z epidemią w Europie](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
-Jak zapewne widzieliście [wiadomości z tego tygodnia](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html),  większość próbek wirusa pobranych w stanie Nowy Jork (kolorowe) grupuje się ściśle z próbkami z Europy (szare).
+# [Główny klad z Nowego Jorku jest powiązany z epidemią w Europie](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
+Jak zapewne widzieliście [w wiadomościach z tego tygodnia](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html),  większość próbek wirusa pobranych w stanie Nowy Jork (kolorowe) grupuje się ściśle z próbkami z Europy (szare).
 <br><br>
-Klad z Nowego Jorku jest zarówno otoczony jak i przemieszany z próbkami z Europy, co mocno sugeruje, że większość wczesnych przypadków wynikło w związku z introdukcją wirusa z Europy.
+Klad z Nowego Jorku jest zarówno otoczony, jak i przemieszany z próbkami z Europy, co silnie sugeruje, że większość wczesnych przypadków wynikło w związku z introdukcją wirusa z Europy.
 
 <!-- [Main New York clade linked to European outbreak], 
 As you may have seen [in the news this week](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), most of the viral samples from New York (in color) group closely with samples from Europe (gray).
@@ -120,9 +122,9 @@ The New York clade is both flanked by and interleaved with sequences from Europe
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
 # [Liczne introdukcje do Nowego Jorku](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
-Większa część epidemii w Nowym Jorku została zapoczątkowana w wyniku jednej bądź wielu introdukcji z Europy. Ale dane na temat sekwencji z innnych regionów świata pozwalają nam zaobserwować dodatkowe introdukcje do miasta Nowy Jork. Zgodnie z jego kosmopolityczną naturą, znajdujemy w mieście Nowy Jork przypadki blisko spokrewnione do próbek z każdego innego regionu świata.
+Większa część epidemii w Nowym Jorku została zapoczątkowana w wyniku jednej bądź wielu introdukcji z Europy. Ale dane na temat sekwencji z innych regionów świata pozwalają nam zaobserwować dodatkowe introdukcje do miasta Nowy Jork. Zgodnie z jego kosmopolityczną naturą, znajdujemy w mieście Nowy Jork przypadki blisko spokrewnione z próbkami z każdego innego regionu świata.
 <br><br>
-Wczesne przypadki z Nowego Jorku przedstawiają najprawdopodobniej transmisje do regionu<!-- here I'm not sure -->. Później w trakcie epidemii, obserwujemy więcej mieszania się próbek z Europy i Nowego Jorku, co utrudnia śledzenie kierunku transmisji w późniejszych etapach epidemii. Jak raportowaliśmy [w zeszłym tygodniu](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), mamy również dowody na niedawne introdukcje z USA do Europy i Azji.
+Wczesne przypadki z Nowego Jorku przedstawiają najprawdopodobniej transmisje przychodzące do regionu<!-- here I'm not sure -->. Później w trakcie epidemii, obserwujemy więcej mieszania się próbek z Europy i Nowego Jorku, co utrudnia śledzenie kierunku transmisji w późniejszych etapach epidemii. Jak raportowaliśmy [w zeszłym tygodniu](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), mamy również dowody na niedawne introdukcje z USA do Europy i Azji.
 
 <!-- [Many introductions to New York]
 The majority of the New York outbreak was seeded by European introduction(s). But the contextual sequences from other regions of the world allow us to see additional introductions into New York City. True to its cosmopolitan nature, there are cases in New York closely related to samples from every other region of the world.
@@ -136,7 +138,7 @@ direction of later transmissions less clear. As we reported on [last week](https
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
 # [Mieszanie się przypadków w obrębie 5 dzielnic Nowego Jorku](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
-W mieście Nowy Jork nie wiedzimy grupowania się przypadków względem dzielnic. Jest to zgodne z częstym przemieszczaniem się wirusa wewnątrz miasta.
+W mieście Nowy Jork nie widzimy grupowania się przypadków względem dzielnic. Jest to zgodne z częstym przemieszczaniem się wirusa wewnątrz miasta.
 
 <!-- [Intermingling of cases from all 5 NYC boroughs]
 Within New York City, we see little segregation of cases by borough. This is consistent with frequent mixing of cases across the city.-->
@@ -145,8 +147,8 @@ Within New York City, we see little segregation of cases by borough. This is con
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Ognisko epidemii w Kaliforni powiązane z bliskimi i odległymi stanami](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
-Widzimy również dowody na wielokrotne introdukcje z innych stanów. Na przykład, przypadki w Kaliforni obejmują różnorodność genetyczną całego drzewa, grupując się z próbkami zarówno z  pobliskiego stanu Waszyngton, jak i Nowego Jorku. Jest to dowód na transmisje wirusa pomiędzy Kalifornią i bliskimi jak i daleko położonymi stanami.
+# [Ognisko epidemii w Kalifornii powiązane z bliskimi i odległymi stanami](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
+Widzimy również dowody na wielokrotne introdukcje z innych stanów. Na przykład, przypadki w Kalifornii obejmują różnorodność genetyczną całego drzewa, grupując się z próbkami zarówno z  pobliskiego stanu Waszyngton, jak i Nowego Jorku. Jest to dowód na transmisje wirusa pomiędzy Kalifornią i bliskimi, jak i daleko położonymi stanami.
 
 <!-- [California outbreak related to both nearby and distant states]
 We also see evidence of multiple introductions between states. For example, cases from California span the genetic diversity of the tree, grouping together with samples from both nearby Washington State and New York. This is evidence for transmission between California and both nearby and distant states.-->
@@ -157,7 +159,7 @@ We also see evidence of multiple introductions between states. For example, case
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
 # [Epidemie w Środkowym Zachodzie wywodzą się z licznych introdukcji](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
-Zaznaczając sekwencje z Środkowo-Zachodnich Stanów Zjednoczonych na drzewie, widzimy, że przypadki z tego regionu są równomiernie rozprzestrzenione na drzewie i nie tworzą ścisłych klastrów. To mówi nam, że nastąpiły wielokrotne, niezależne introdukcje do tych stanów, z kilkoma różnymi łańcuchami transmisji będącymi w obiegu w tym samym czasie.
+Zaznaczając sekwencje z środkowo-zachodnich Stanów Zjednoczonych na drzewie, widzimy, że przypadki z tego regionu są równomiernie rozprzestrzenione na drzewie i nie tworzą ścisłych klastrów. To mówi nam, że nastąpiły wielokrotne, niezależne introdukcje do tych stanów, z kilkoma różnymi łańcuchami transmisji będącymi w obiegu w tym samym czasie.
 
 <!-- [Midwest outbreaks were seeded by many introductions]
 Highlighting sequences from the Midwestern United States, we see that cases from this area are spread evenly across the tree, rather than forming a series of tight clusters. This tells us that there have been many independent introductions to these states, with several different transmission chains circulating simultaneously.-->
@@ -198,13 +200,13 @@ There have also been several introductions to the Rocky Mountain West. Zooming i
 
 ```auspiceMainDisplayMarkdown
 # Konkluzje
-* Introdukcje z Europy przyczyniły się w największym stopniu do ogniska epidemii w Nowym Jorku, ale wystąpiły rownież introdukcje z innych części świata.
+* Introdukcje z Europy przyczyniły się w największym stopniu do ogniska epidemii w Nowym Jorku, ale wystąpiły również introdukcje z innych części świata.
 <br><br>
 * W miarę postępowania epidemii, możemy również obserwować dowody na reintrodukcje z USA do Europy i Azji. 
 <br><br>
 * Ognisko epidemii w mieście Nowy Jork pokazuje mieszanie się przypadków z wszystkich 5 dzielnic.
 <br><br>
-* Ognisko epidemii w Kaliforni jes powiązane zarówno z epidemią w pobliskim stanie Waszyngton jak i epidemią w odległym Nowym Jorku.
+* Ognisko epidemii w Kalifornii jest powiązane zarówno z epidemią w pobliskim stanie Waszyngton, jak i epidemią w odległym Nowym Jorku.
 <br><br>
 * Ognisko epidemii w Środkowym Zachodzie ma heterogeniczne pochodzenie, z licznymi łańcuchami transmisji bedącymi w obiegu w tym regionie.
 <br><br>
@@ -245,7 +247,7 @@ Analizy takie jak ta nie byłyby możliwe gdyby nie natychmiastowe publikowanie 
 
 <br>
 
-Ponadto szczególnie dziękujemy [GISAID](https://gisaid.org) a udostępnienie platformy do wymiany tego typu danych.
+Ponadto szczególnie dziękujemy [GISAID](https://gisaid.org) za udostępnienie platformy do wymiany tego typu danych.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
