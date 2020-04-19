@@ -113,7 +113,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 <!-- This is left-side text 5-->
 # [ニューヨーク州への多数の伝播](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-ニューヨーク州での感染拡大の大部分は、欧州の人々による伝播でした。しかし、世界の他の地域からの遺伝子配列の関係性 (translator note: What is the proper Japanese translation for "contextual sequences") により、ニューヨーク市への更なる伝播を見ることができます。その国際的な特徴を表すように、ニューヨーク州には世界中の地域からのサンプルに密接に関連している症例があります。
+ニューヨーク州での感染拡大の大部分は、欧州の人々による伝播でした。しかし、世界の他の地域からの遺伝子配列の関係性により、ニューヨーク市への更なる伝播を見ることができます。その国際的な特徴を表すように、ニューヨーク州には世界中の地域からのサンプルに密接に関連している症例があります。
 <br><br>
 初期のニューヨーク州の症例は、おそらく州外から州内への伝播を表しています。発生の後半には、欧州とニューヨーク州のサンプルの混合がより多くなり、伝播の方向が明確ではありません。先週[報告](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=11)したように、米国から欧州およびアジアへの最近の再伝播の証拠もあります。
 
