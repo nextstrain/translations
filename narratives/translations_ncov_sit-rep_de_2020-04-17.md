@@ -27,7 +27,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 date: "2020 April 17"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
-abstract: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von COVID-19 zu beschreiben, und wird wöchentlich aktualisiert. Diese Woche legen wir den Fokus auf die Epidemie in den Verienigten Staaten von Amerika. Fuer die meisten Gebieten in den USA haben wir Beweise fuer eine mehrfache Einschleppung gefunden - sowohl nationalen als auch internationalen Ursprungs. Diese Daten unterstreichen, dass die Entscheidung eines einzelnen Bundesstaates tiefgreifend das Schicksal anderer Staaten beeinflusst."
+abstract: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von COVID-19 zu beschreiben, und wird wöchentlich aktualisiert. Diese Woche legen wir den Schwerpunkt auf die Epidemie in den Vereinigten Staaten von Amerika. Fuer die meisten Gebieten in den USA haben wir Anzeichen fuer mehrfache Einschleppungen - sowohl nationalen als auch internationalen Ursprungs gefunden. Diese Daten unterstreichen, dass die Entscheidung eines einzelnen Bundesstaates tiefgreifend das Schicksal anderer Staaten beeinflusst."
 
 
 ---
@@ -44,21 +44,21 @@ abstract: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von 
 * [Naehere Informationen zu diesen Daten](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
 * [Updates fuer New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
 * [Updates fuer Kalifornien](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [Updates fuer den mittleren Westen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
+* [Updates fuer den Mittleren Westen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
 * [Updates fuer Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
 * [Was Sie tun koennen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
 * [Wissenschaftliche Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Kurzfassung
-Wir haben 1,347 oeffentlich zugaengliche SARS-Cov-19 Genome aus den Vereinigten Staaten von Amerika analysiert. Durch den Vergleich der Virusgenome untereinander koennen wir charakterisieren, wie sich SARS-CoV-2 (das Virus, das COVID-19 ausloest) global und lokal weiterverbreitet. In dem Update von dieser Woche berichten wir:   
+# Zusammenfassung
+Wir haben 1,347 oeffentlich zugaengliche SARS-CoV-2 Genome aus den Vereinigten Staaten von Amerika analysiert. Durch den Vergleich der Virusgenome untereinander koennen wir charakterisieren, wie sich SARS-CoV-2 (das Virus, das COVID-19 ausloest) global und lokal weiterverbreitet. In dem Update von dieser Woche berichten wir:   
 
-* Die Epidemie in New York hat kosmopolitanischen Ursprung, wobei der Grossteil der Faelle Einschleppungen aus Europa zugeschrieben werden kann.    
-* Die Epidemie in New York City weist eine Durchmischung von Faellen aus 5 Gemeinden auf.  
-* Die Epidemie in Kalifornien ist aehnlich zu deren im naheliegenden Washington State und im weitentfernten New York.  
-* Die Epidemie im mittleren Westen ist heterogen und ein Ergebnis aus vielen unabhaengingen Einschleppungen.
-* Die fortwaehrenden Epidemien in Utah und Idaho sind stark miteinander verbunden.
+* Der Ausbruch in New York hat kosmopolitischen Ursprung, wobei der Grossteil der Faelle Einschleppungen aus Europa zugeschrieben werden kann.    
+* Der Ausbruch in New York City weist eine Durchmischung von Faellen aus fuenf Bezirken auf.  
+* Der Ausbruch in Kalifornien ist vebunden mit dem im naheliegenden Washington State und dem im weitentfernten New York.  
+* Der Ausbruch im Mittleren Westen ist heterogen und ein Ergebnis aus vielen unabhaengingen Einschleppungen.
+* Die fortwaehrenden Ausbrueche in Utah und Idaho sind stark miteinander verbunden.
 * Entscheidungen einzelner Bundesstaaten beeinflussen das Schicksal anderer Bundesstaaten tiefgruendig. Um die Beschränkungen in jedem Bundesstaat sicher zu lockern, ist eine koordinierte Eindämmung erforderlich, wobei alle Staaten handeln muessen, um sich gegenseitig zu schützen.
 
 ```
@@ -70,7 +70,7 @@ Wir haben 1,347 oeffentlich zugaengliche SARS-Cov-19 Genome aus den Vereinigten 
 # [COVID-19 Quellen](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
 Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch bekannt als hCov-19 - haben wir einige Quellen vorbereitet, die dem Leser helfen sollen, die nachfolgenden Daten besser und leichter zu verstehen. Diese Informationen helfen Ihnen die nachfolgenden Daten besser interpretieren zu koennen.
 #### Nextstrain Quellen  
-* [Anfang: Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/).  
+* [Anfang: Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/de).  
 * [Hintergrundwissen zu Coronaviren](https://nextstrain.org/help/coronavirus/human-CoV).
 * [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
@@ -97,56 +97,56 @@ Zum Beispiel zeigt die Karte nur sehr geringe Sequenzierdaten aus der Mitte der 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Hauptklade (New York) ist mit der europaeischen Epidemie verbunden](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
+# [Die Hauptklade in New York mit der europaeischen Epidemie verbunden](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
 Wie Sie bereits [den Nachrichten aus dieser Woche] entnommen haben (https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), koennen die meisten Virusisolate aus New York (hier farbig dargestellt) eng mit Proben aus Europe (hier grau dargestellt) gruppiert werden.
 <br><br>
-Die New York - Klade wird sowohl von Sequenzierdaten aus Europa flankiert und ist auch mit ihnen verschraenkt, was stark darauf hindeutet, dass die meisten der fruehen Faelle aus Einschleppungen aus Europa resultiert sind.
+Die Hauptklade in New York ist von Sequenzierdaten aus Europa flankiert und auch mit diesen verschachtelt, was stark darauf hindeutet, dass die meisten der fruehen Faelle aus Einschleppungen von Europa resultierten.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Viele Einfuehrungen des Virus nach New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
+# [Mehrfache Einfuehrungen des Virus nach New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-Der Grossteil der Epidemie in New York ist durch Einschleppung(en) aus Europa erzeugt worden. Aber kontextabhaengige Sequenzen aus anderen Teilen der Welt zeigen uns, dass es noch weitere Einfuehrungen des Virus nach New York City gegeben hat. Aufgrund der Internationalitaet der Stadt gibt es Faelle, die eng mit Proben aus jedem Teil der Welt verbunden sind.
+Der Grossteil des Ausbruches in New York ist durch Einschleppung(en) aus Europa erzeugt worden. Sequenzen aus anderen Teilen der Welt zeigen uns aber, dass es noch weitere Einfuehrungen des Virus nach New York City gegeben hat. Aufgrund des kosmopolitischen Charakters der Stadt gibt es Faelle, die eng mit Proben aus jedem Teil der Welt verbunden sind.
 <br><br>
-Die fruehen Faelle in New York repraesentieren hoechstwahrscheinlich eingehende Uebertragungen. Im spaeteren Verlauf der Epidemie sehen wir vermehrte Durchmischung zwischen europaeischen und Proben aus New York, was den Verlauf spaeterer Uebertragungen nicht leicht nachvollziehen laesst. Wie wir [letzte Woche](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11) berichtet haben, gibt es Beweise fuer eine kuerzliche Wiedereinschleppung aus den Vereinigten Staaten von Amerika nach Europa und Asien.
+Die fruehen Faelle in New York repraesentieren hoechstwahrscheinlich eingehende Uebertragungen. Im spaeteren Verlauf des Ausbruches sehen wir vermehrte Durchmischung zwischen europaeischen Proben und Proben aus New York, was den Verlauf spaeterer Uebertragungen nicht leicht nachvollziehen laesst. Wie wir [letzte Woche](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11) berichtet haben, gibt es Anzeichen fuer eine kuerzliche Wiedereinschleppung aus den Vereinigten Staaten von Amerika nach Europa und Asien.
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Falldurchmischung innerhalb 5 Gemeinden in New York City](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+# [Durchmischung von Faellen aus allen fuenf Bezirken von New York City](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
 
-Innerhalb New York Citys sehen wir nur eine schwache Abgrenzgung der Faelle zwischen den Gemeinden. Dies stimmt mit dem haeufigen Mischen an Faelle innerhalb der ganzen Stadt ueberein.
+Innerhalb New York Citys sehen wir nur eine schwache Abgrenzung der Faelle zwischen den Bezirken. Dies stimmt mit dem haeufigen Mischen von Faelle innerhalb der ganzen Stadt ueberein.
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Epidemie in Kalifornien ist mit sowohl naheliegenden als auch weitentfernten Bundesstaaten verbunden](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
+# [Der Ausbruch in Kalifornien ist sowohl mit naheliegenden als auch mit weitentfernten Bundesstaaten verbunden](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
 
-Zusaetzlich sehen wir Anzeichen fuer eine vielfache Einschleppung zwischen den Bundesstaaten. Zum Beispiel ueberspannen kalifornische Proben die gesamte genetische Vielfalt des Baums und koennen mit Faellen aus dem naheliegenden Bundesstaat Washington State und dem entfernteren New York gruppiert werden. Dies ist ein Anzeichen fuer eine Uebertragung zwischen Kalifornien und sowohl naheliegenden als auch weitentfernten Bundesstaaten.
+Zusaetzlich sehen wir Anzeichen fuer mehrfache Einschleppungen zwischen den Bundesstaaten. Zum Beispiel umfassen kalifornische Proben die gesamte genetische Vielfalt des Baums und koennen mit Faellen aus dem naheliegenden Bundesstaat Washington State und dem entfernteren New York gruppiert werden. Dies ist ein Anzeichen fuer eine Uebertragung zwischen Kalifornien und sowohl naheliegenden als auch weitentfernten Bundesstaaten.
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Epidemien im mittleren Westen sind auf mehrere Einschleppungen zurueckfuehrbar](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
+# [Die Ausbrueche im Mittleren Westen sind das Resultat mehrfacher Einschleppungen](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
 
-Hebt man Sequenzierdaten aus dem mittleren Westen der USA hervor, sieht man, dass diese Faelle aus diesen Gebieten eher ebenmaessig ueber den Baum verteilt sind und keine enge Kluster formen. Das zeigt, dass es hier viele unabhaengige Einschleppungen in diese Bundesstaate gegeben hat mit vielen verschiedenen Uebertragungsketten, die gleichzeitig zirkuliert sind.
+Hebt man Sequenzierdaten aus dem Mittleren Westen der USA hervor, sieht man, dass Faelle aus diesen Gebieten gleichmaessig ueber den Baum verteilt sind und keine Serie eng verbundener Cluster formen. Das zeigt, dass es hier viele unabhaengige Einschleppungen in diese Bundesstaaten gegeben hat mit vielen verschiedenen, gleichzeitig zirkulaierenden Uebertragungsketten.
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Verwandte Epidemien in Rocky Mountain West](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
+# [Verbundene Ausbrueche innerhalb von Rocky Mountain West](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
 
-Es hat auch mehrere Einschleppungen nach Rocky Mountain West gegeben. Zoomt man rein, sieht man eine gut aufgeloeste Uebertragungskette, die sich seinen Weg ueber Idaho gemacht hat. Erwaehnenswert sei, dass diese Fallreihe von einem Fallkluster aus Utah flankiert wird, was die enge Verbindung zwischen den beiden Epidemien zeigt.
+Es hat auch mehrfache Einschleppungen nach Rocky Mountain West gegeben. Zoomt man in die Karte herein, sieht man eine gut aufgeloeste Uebertragungskette, die ihren Weg durch Idaho gemacht hat. Erwaehnenswert ist, dass diese Fallreihe von einem Fallcluster aus Utah flankiert ist, was die enge Verbindung zwischen den beiden Ausbruechen zeigt.
 
 <!-- This is no right-side text -->
 
@@ -156,11 +156,11 @@ Es hat auch mehrere Einschleppungen nach Rocky Mountain West gegeben. Zoomt man 
 # [Was Sie tun koennen](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
 #### ...als Einzelperson
 * Reduzieren Sie die Anzahl an Personen, mit denen Sie taeglich Kontakt haben, besonders wenn Sie zu einer Risikogruppe gehoeren (z.B. Senioren und Leute mit Vorerkrankungen).
-* Tragen Sie eine Maske in der Oeffentlichkeit
+* Tragen Sie eine Maske in der Oeffentlichkeit.
 * Bedenken Sie, dass selbst wenn Sie nicht zu einer Risikogruppe gehoeren, Leute in Ihrer Umgebung dies eventuell tun. Halten Sie sich an die Anweisungen, um Andere zu schuetzen.
 * Haendewaschen "like you just chopped a jalapeno and have to change a contact lens."
 * Bleiben Sie zuhause, so oft wie es geht - besonders wenn Sie krank sind; bereiten Sie sich mit Vorraeten auf eine eventuelle Quarantaene vor. 
-* Als Arbeitgeber raten Sie Ihren Angestellten von zuhause aus zu arbeiten, wenn moeglich.
+* Als Arbeitgeber raten Sie Ihren Angestellten, von zuhause aus zu arbeiten, wenn moeglich.
 
 #### ...als Amtsperson  
 * Machen Sie Tests kostenlos und weitlaeufig verfuegbar.  
@@ -173,19 +173,19 @@ Es hat auch mehrere Einschleppungen nach Rocky Mountain West gegeben. Zoomt man 
 ```auspiceMainDisplayMarkdown
 # Zusammenfassung
 
-* Einschleppungen aus Europa haben hauptsaechlich zur Epidemie in New York beigetragen, wobei es auch Einschleppungen aus anderen Teilen der Welt gegeben hat.
+* Einschleppungen aus Europa haben den Grossteil des Ausbruches in New York verursacht, wobei es auch Einschleppungen aus anderen Teilen der Welt gegeben hat.
 <br><br>
-* Waehrend die Epidemie sich weiterentwickelt, sehen wir Anzeichen fuer eine Wiedereinschleppung des Virus aus den USA nach sowohl Europa als auch Asien.
+* Waehrend der Ausbruch sich weiterentwickelt, sehen wir auch Anzeichen fuer eine Wiedereinschleppung des Virus aus den USA sowohl nach Europa als auch nach Asien.
 <br><br>
-* Die Epidemie in New York City zeigt eine Durchmischung von Faellen innerhalb 5 Gemeinden.
+* Der Ausbruch in New York City zeigt eine Durchmischung von Faellen innerhalb der fuenf Bezirke.
 <br><br>
-* Die Epidemie in Kalifornien ist mit denen im weitentfernten New York und naheliegenden Washington State verbunden.
+* Der Ausbruch in Kalifornien ist mit dem im weitentfernten New York und dem im naheliegenden Washington State verbunden.
 <br><br>
-* Die Epidemie im mittleren Westen ist heterogen, wobei mehrere Uebertragungsketten in der Region im Umlauf sind.
+* Der Ausbruch im Mittleren Westen ist heterogen, wobei mehrere Uebertragungsketten in der Region im Umlauf sind.
 <br><br>
-* Die Epidemien in Utah und Idaho sind eng miteinander verbunden, wobei es weiterhin Uebertragungen innerhalb der Gemeinden hat.
+* Die Ausbrueche in Utah und Idaho sind eng miteinander verbunden, mit fortlaufender Uebertragung innerhalb von Gemeinden.
 <br><br>
-* Die Entscheidungen eines einzelnen Bundesstaates beeinflusst tiefgruendig das Schicksal der anderen. Um die Beschränkungen in jedem Bundesstaat sicher zu lockern, ist eine koordinierte Eindämmung erforderlich, wobei alle Staaten handeln muessen, um sich gegenseitig zu schützen.
+* Die Entscheidungen einzelner Bundesstaates beeinflussen tiefgruendig das Schicksal anderer. Um die Beschränkungen in irgendeinem Bundesstaat sicher zu lockern, ist eine koordinierte Eindämmung erforderlich, wobei alle Bundesstaaten handeln muessen, um sich gegenseitig zu schützen.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -680,7 +680,7 @@ Vielen herzlichen Dank an nachfolgende Labore fuer das Zusammentragen der Daten:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailierte Danksagung](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [Detaillierte Danksagung](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
 
 Diese Daten wurden durch [GISAID](https://gisaid.org) ermoeglicht.
 Wir moechten uns hier recht herzlich fuer deren Beteiligung bedanken.
