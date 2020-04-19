@@ -59,14 +59,14 @@ Przeanalizowaliśmy 1,347</tag> publicznie dostępnych genomów SARS-CoV-2 ze St
 * Trwające epidemie w stanach Utah i Idoho są sciśle powiązane.
 * Decyzje podjęte przez każdy stan mają ogromny wpływ na losy w pozostałych stanach. Bezpieczne złagodzenie restrykcji w jakimkolwiek stanie wymaga skoordynowanych działań wszystkich stanów. <!--shortened a bit, I think reads better -->
 
-We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is moving around the world and spreading locally. In this week's updates, we report:  
+<!-- We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is moving around the world and spreading locally. In this week's updates, we report:  
 
 * The New York outbreak has cosmopolitan origins, but the majority of cases are attributable to introductions from Europe.   
 * The outbreak in New York City shows mixing of cases across all 5 boroughs.  
 * The outbreak in California is related to both nearby Washington State and distant New York.  
 * The Midwest outbreak is heterogeneous and is the result of many independent introductions.
 * Ongoing outbreaks in Utah and Idaho are closely related.
-* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.
+* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other. -->
 
 
 ```
@@ -105,22 +105,30 @@ Na przykład, mapa pokazuje bardzo niewiele sekwencji z środkowych Stanów Zjed
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Main New York clade linked to European outbreak](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
+# [Głowny klad z Nowego Jorku jest powiązany z epidemią w Europie](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
+Jak zapewne widzieliście [wiadomości z tego tygodnia](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html),  większość próbek wirusa pobranych w stanie Nowy Jork (kolorowe) grupuje się ścisle z próbkami z Europy (szare).
+<br><br>
+Klad z Nowego Jorku jest zarówno otoczony jak i przemieszany z próbkami z Europy, co mocno sugeruje, że większość wczesnych przypadków wynikło w związku z introdukcją wirusa z Europy.
 
+<!-- [Main New York clade linked to European outbreak], 
 As you may have seen [in the news this week](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), most of the viral samples from New York (in color) group closely with samples from Europe (gray).
 <br><br>
-The New York clade is both flanked by and interleaved with sequences from Europe, which strongly suggests that most early cases resulted from introductions from Europe.
+The New York clade is both flanked by and interleaved with sequences from Europe, which strongly suggests that most early cases resulted from introductions from Europe.-->
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Many introductions to New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
+# [Liczne introdukcje do Nowego Jorku](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
+Większa część epidemii w Nowym Jorku została zapoczątkowana w wyniku jednej bądź wielu introdukcji z Europy. Ale dane na temat sekwencji z innnych regionów świata pozwalają nam zaobserwować dodatkowe introdukcje do miasta Nowy Jork. Zgodnie z jego kosmopolityczną naturą, znajdujemy w mieście Nowy Jork przypadki blisko spokrewnione do próbek z każdego innego regionu świata.
+<br><br>
+Wczesne przypadki z Nowego Jorku przedstawiają najprawdopodobniej wewnętrzne transmisje<!-- here I'm not sure -->. Później w trakcie epidemii, obserwujemy więcej mieszania się próbek z Europy i Nowego Jorku, co utrudnia śledzenie kierunku transmisji w późniejszych etapach epidemii. Jak raportowaliśmy [w zeszłym tygodniu](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), mamy również dowody na niedawne introdukcje z USA do Europy i Azji.
 
+<!-- [Many introductions to New York]
 The majority of the New York outbreak was seeded by European introduction(s). But the contextual sequences from other regions of the world allow us to see additional introductions into New York City. True to its cosmopolitan nature, there are cases in New York closely related to samples from every other region of the world.
 <br><br>
 The early New York cases likely represent inbound transmissions. Later on in the outbreak, we see far more mixing between European and New York samples, making the
-direction of later transmissions less clear. As we reported on [last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), there is also evidence for recent reintroductions from the U.S. to Europe and Asia.
+direction of later transmissions less clear. As we reported on [last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), there is also evidence for recent reintroductions from the U.S. to Europe and Asia.-->
 
 <!-- There is no right side text -->
 
