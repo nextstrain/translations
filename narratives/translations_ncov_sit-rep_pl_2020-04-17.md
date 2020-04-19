@@ -27,8 +27,6 @@ date: "2020 April 17"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
 abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się COVID-19. W tym tygodniu koncentrujemy się na epidemii w Stanach Zjednoczonych. Dla większości obszarów USA, znajdujemy dowody na wielokrotne introdukcje -- o międzynarodowym jak i krajowym pochodzeniu. Te dane podkreślają, że decyzje podejmowane przez każdy stan mają ogromny wpływ na losy w innych stanach." 
 
-<!-- This week, we focus on the outbreak in the United States. For most areas of the U.S., we find evidence for multiple introductions -- of both international and domestic origins. This data emphasizes that the decisions made by each state profoundly impacts the fate of the others.-->
-
 ---
 
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
@@ -41,7 +39,7 @@ abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śl
 
 * [Wstęp i materiały](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
 * [Opis próbkowania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [Aktualizacja sytuacja w Nowym Jorku](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
+* [Aktualizacja sytuacji w Nowym Jorku](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
 * [Aktualizacja sytuacji w Kaliforni](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
 * [Aktualizacja sytuacji w środkowo-zachodnich stanach](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
 * [Aktualizacja sytuacji w zachodnich stanach Gór Skalistych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
