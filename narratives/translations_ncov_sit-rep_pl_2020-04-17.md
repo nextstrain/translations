@@ -42,7 +42,7 @@ abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śl
 * [Aktualizacja sytuacji w Nowym Jorku](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
 * [Aktualizacja sytuacji w Kaliforni](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
 * [Aktualizacja sytuacji w środkowo-zachodnich stanach](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [Aktualizacja sytuacji w zachodnich stanach Gór Skalistych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
+* [Aktualizacja sytuacji w stanach Gór Skalistych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
 * [Co możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
 * [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
 
@@ -135,63 +135,85 @@ direction of later transmissions less clear. As we reported on [last week](https
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Intermingling of cases from all 5 NYC boroughs](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+# [Mieszanie sie przypadków w obrębie 5 dzielnic Nowego Jorku](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+W mieście Nowy Jork nie wiedzimy grupowania się przypadków względem dzielnic. Jest to zgodne z częstym przemieszczaniem się wirusa wewnątrz miasta.
 
-Within New York City, we see little segregation of cases by borough. This is consistent with frequent mixing of cases across the city.
+<!-- [Intermingling of cases from all 5 NYC boroughs]
+Within New York City, we see little segregation of cases by borough. This is consistent with frequent mixing of cases across the city.-->
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [California outbreak related to both nearby and distant states](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
+# [Ognisko epidemii w Kaliforni powiązane z bliskimi i odległymi stanami](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
+Widzimy również dowody na wielokrotne introdukcje z innych stanów. Na przykład, przypadki w Kaliforni obejmują różnorodność genetyczną całego drzewa, grupując się z próbkami zarówno z  pobliskiego stanu Waszyngton, jak i Nowego Jorku. Jest to dowód na transmisje wirusa pomiędzy Kalifornią i bliskimi jak i daleko położonymi stanami.
 
-We also see evidence of multiple introductions between states. For example, cases from California span the genetic diversity of the tree, grouping together with samples from both nearby Washington State and New York. This is evidence for transmission between California and both nearby and distant states.
+<!-- [California outbreak related to both nearby and distant states]
+We also see evidence of multiple introductions between states. For example, cases from California span the genetic diversity of the tree, grouping together with samples from both nearby Washington State and New York. This is evidence for transmission between California and both nearby and distant states.-->
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Midwest outbreaks were seeded by many introductions](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
+# [Epidemie w środkowo-zachodniej części USA wywodzą się z licznych introdukcji](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
+Zaznaczając sekwencje z środkowo-zachodniej części USA na drzewie, widzimy, że przypadki z tego regionu są równomiernie rozprzestrzenione na drzewie i nie tworzą ścisłych klastrów. To mówi nam, że nastapiły wielokrotne, niezależne introdukcje do tych stanów, z kilkoma różnymi łańcuchami transmisji bedącymi w obiegu w tym samym czasie.
 
-Highlighting sequences from the Midwestern United States, we see that cases from this area are spread evenly across the tree, rather than forming a series of tight clusters. This tells us that there have been many independent introductions to these states, with several different transmission chains circulating simultaneously.
+<!-- [Midwest outbreaks were seeded by many introductions]
+Highlighting sequences from the Midwestern United States, we see that cases from this area are spread evenly across the tree, rather than forming a series of tight clusters. This tells us that there have been many independent introductions to these states, with several different transmission chains circulating simultaneously.-->
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Related outbreaks across the Rocky Mountain West](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
+# [Powiązane epidemie w stanach Gór Skalistych](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
+Kilka introdukcji nastąpiło również w stanach Gór Skalistych. Na przybliżeniu widzimy wyraźny łańcuch transmisji przebiegający przez Idaho. Co ważne, ten zestaw przypadków jest otoczony grupą przypadków z Utah, pokazując ścisły związek pomiędzy tymi dwoma ogniskami epidemii.  
 
-There have also been several introductions to the Rocky Mountain West. Zooming in, we see a well-resolved transmission chain making its way across Idaho. Notably, this set of cases is flanked by a cluster of cases from Utah, demonstrating a close relationship between these two outbreaks.
+<!-- [Related outbreaks across the Rocky Mountain West]
+There have also been several introductions to the Rocky Mountain West. Zooming in, we see a well-resolved transmission chain making its way across Idaho. Notably, this set of cases is flanked by a cluster of cases from Utah, demonstrating a close relationship between these two outbreaks.-->
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [What you can do](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Wear a mask in public.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Co możesz zrobić](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+#### ...jako jednostka
+* Stosuj ścisłą izolację społeczną, zwłaszcza jeśli jesteś w grupie podwyższonego ryzyka.
+* Noś maseczkę ochronną w miejscach publicznych.
+* Pamiętaj, że nawet jeśli nie jesteś szczególnie narażona/y, wiele osób wokół ciebie jest; postępuj zgodnie z tymi praktykami, aby chronić innych.
+* Myj ręcę "jakbyś właśnie pokroił papryczkę jalapeno i musiał zmienić soczewkę kontaktową".  
+* Zostań w domu na tyle, na ile to możliwe -- szczególnie jeśli jesteś chora/y; przygotuj trochę zapasów w razie potrzeby przebycia kwarantanny.  
+* Jeśli jesteś pracodawcą, zachęć swoich pracowników, aby pracowali z domu, gdziekolwiek jest to możliwe.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...jako urzędnik  
+* Spraw, aby testy na obecność wirusa były darmowe i szeroko dostępne.  
+* Wprowadź ścisłe regulacje ograniczające bezpośrednie kontakty.
+* Sfinansuj i wprowadź obszerne śledzenie kontaktów.  
+* Wspomóź finansowo tych, którzy najbardziej ucierpią w wyniku ograniczania kontaków.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Konkluzje
+* Introdukcje z Europy przyczyniły się w największym stopniu do ogniska epidemii w Nowym Jorku, ale wystapiły rownież introdukcje z innych części świata.
+<br><br>
+* W miarę postępowania epidemii, możemy również obserwować dowody na reintrodukcje z USA do Europy i Azji. 
+<br><br>
+* Ognisko epidemii w mieście Nowy Jork pokazuje mieszanie się przypadków z wszystkich 5 dzielnic.
+<br><br>
+* Ognisko epidemii w Kaliforni jes powiązane zarówno z epidemią w pobliskim stanie Waszyngton jak i epidemią w odległy Nowym Jorku.
+<br><br>
+* Ognisko epidemii w środkowo-zachodniej części USA ma heterogeniczne pochodzenie, z licznymi łańcuchami transmisji bedącymi w obiegu w tym regionie.
+<br><br>
+* Ogniska epidemii w Utah i Idaho są ściśle powiązane; transmisje w obrębie społeczności trwają.
+<br><br>
+* Decyzje podjęte przez każdy stan mają znaczny wpływ na losy pozostałych stanów. Aby w bezpieczny sposób złagodzić panujące restrykcje w jakimkolwiek stanie, wszystkie stany muszą działać w sposób skoordynowany.
 
-* Introductions from Europe seeded the majority of the New York outbreak, but there were also introductions from other areas of the world.
+
+<!-- * Introductions from Europe seeded the majority of the New York outbreak, but there were also introductions from other areas of the world.
 <br><br>
 * As the outbreak has progressed, we also see evidence for re-introductions from the U.S. to Europe and Asia.
 <br><br>
@@ -203,7 +225,7 @@ There have also been several introductions to the Rocky Mountain West. Zooming i
 <br><br>
 * Outbreaks in Utah and Idaho are closely related, with ongoing community transmission.
 <br><br>
-* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.  
+* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.  -->
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -216,20 +238,20 @@ There have also been several introductions to the Rocky Mountain West. Zooming i
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
+# [Podziękowania](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Wyrażamy podziękowania dla wszystkich naukowców zaangażowanych w ten wybuch pandemii za wspaniałą i śpieszną pracę. W szczególności dziękujemy tym, którzy pracują w Chinach. 
+Analizy takie jak ta nie byłyby możliwe gdyby nie natychmiastowe publikowanie zsekwencjonowanych genomów oraz metadanych z nimi związanych.
 
 <br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+Ponadto szczególnie dziękujemy [GISAID](https://gisaid.org) a udostępnienie platformy do wymiany tego typu danych.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Dziękujemy za dane zebrane w tych ośrodkach badawczych:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -699,19 +721,19 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [Szczególne podziękowania](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Te dane były udostępniane poprzez platformę [GISAID](https://gisaid.org).
+Szczególnie dziękujemy za wkład ich drużyny.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+Po prawej stronie znajduje się szczegółowy spis sekwencji opublikowanych przez poszczególne instytucje badawcze.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Genomy wirusa SARS-CoV-2 zostały udostępnione przez naukowców pracujących w niżej wymienionych instytucjach badawczych:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
