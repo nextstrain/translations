@@ -39,14 +39,14 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 <!-- This is left-side text 1-->
 # [Περιεχόμενα](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-17?n=2).     
-* [Σχετικά με τα δεδομένα που παρουσιάζουμε](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-17?n=3).
-* [Ενημερώσεις σχετικά με τη Νέα Υόρκη](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-17?n=4).
-* [Ενημερώσεις σχετικά με την Καλιφόρνια](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-17?n=7).
-* [Ενημερώσεις σχετικά με το Midwest](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-17?n=8).
-* [Ενημερώσεις σχετικά με το Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-17?n=9).
-* [Τί μπορείτε να κάνετε](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-17?n=10).
-* [Επιστημονικές ευχαριστίες](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-17?n=11).
+* [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
+* [Σχετικά με τα δεδομένα που παρουσιάζουμε](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
+* [Ενημερώσεις σχετικά με τη Νέα Υόρκη](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
+* [Ενημερώσεις σχετικά με την Καλιφόρνια](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
+* [Ενημερώσεις σχετικά με το Midwest](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
+* [Ενημερώσεις σχετικά με το Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
+* [Τί μπορείτε να κάνετε](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
+* [Επιστημονικές ευχαριστίες](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -113,7 +113,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 
 Η επιδημία στη Νέα Υόρκη έχει ως επί το πλείστον ρίζες σε εισαγωγές από την Ευρώπη. Ωστόσο, αλληλουχίες από άλλες περιοχές του κόσμου μας επιτρέπουν να δούμε επιπρόσθετες εισαγωγές στην πόλη της Νέας Υόρκης. Πιστή στην κοσμοπολίτικη φύση της, η Νέα Υόρκη παρουσιάζει κρούσματα που συγγενεύουν με δείγματα από κάθε μέρος του κόσμου.
 <br><br>
-Τα αρχικά κρούσματα της Νέας Υόρκης ενδεχομένως να αντιπροσωπεύουν εισερχόμενα γεγονότα διασποράς. Αργότερα όμως, παρατηρούμε εκτεταμένη ανάμιξη μεταξύ των ευρωπαϊκών και των νεοϋορκέζικων δειγμάτων, καθιστώντας την κατεύθυνση των διασπορών αυτών λιγότερο σαφή. Όπως αναφέραμε [την προηγούμενη εβδομάδα](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-10?n=11), υπάρχει επίσης ένδειξη για πρόσφατες επανεισαγωγές από τις ΗΠΑ στην Ευρώπη και την Ασία.
+Τα αρχικά κρούσματα της Νέας Υόρκης ενδεχομένως να αντιπροσωπεύουν εισερχόμενα γεγονότα διασποράς. Αργότερα όμως, παρατηρούμε εκτεταμένη ανάμιξη μεταξύ των ευρωπαϊκών και των νεοϋορκέζικων δειγμάτων, καθιστώντας την κατεύθυνση των διασπορών αυτών λιγότερο σαφή. Όπως αναφέραμε [την προηγούμενη εβδομάδα](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), υπάρχει επίσης ένδειξη για πρόσφατες επανεισαγωγές από τις ΗΠΑ στην Ευρώπη και την Ασία.
 
 <!-- There is no right side text -->
 
