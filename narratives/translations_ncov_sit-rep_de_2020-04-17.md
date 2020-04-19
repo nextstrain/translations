@@ -23,7 +23,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 date: "2020 April 17"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
-abstract: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von COVID-19 zu beschreiben, und wird wöchentlich aktualisiert. Diese Woche legen wir den Fokus auf die Epidemi in den Verienigten Staaten von Amerika. Fuer die meisten Gebieten in den USA haben wir Beweise fuer eine mehrfache Einschleppung - sowohl nationalen als auch internationalen Ursprungs - gefunden. Diese Daten unterstreichen, dass die Entscheidung eines einzelnen Bundesstaates tiefgreifend das Schicksal anderer Staaten beeinflusst.
+abstract: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von COVID-19 zu beschreiben, und wird wöchentlich aktualisiert. Diese Woche legen wir den Fokus auf die Epidemie in den Verienigten Staaten von Amerika. Fuer die meisten Gebieten in den USA haben wir Beweise fuer eine mehrfache Einschleppung gefunden - sowohl nationalen als auch internationalen Ursprungs. Diese Daten unterstreichen, dass die Entscheidung eines einzelnen Bundesstaates tiefgreifend das Schicksal anderer Staaten beeinflusst.
 
 
 ---
@@ -52,10 +52,10 @@ Wir haben 1,347 oeffentlich zugaengliche SARS-Cov-19 Genome aus den Vereinigten 
 
 * Die Epidemie in New York hat kosmopolitanischen Ursprung, wobei der Grossteil der Faelle Einschleppungen aus Europa zugeschrieben werden kann.    
 * Die Epidemie in New York City weist eine Durchmischung von Faellen aus 5 Gemeinden auf.  
-* Die Epidemie in Kalifornien ist aehnlich zu deren im naheliegenden Washingotn State und im weitentfernten New York.  
+* Die Epidemie in Kalifornien ist aehnlich zu deren im naheliegenden Washington State und im weitentfernten New York.  
 * Die Epidemie im mittleren Westen ist heterogen und ein Ergebnis aus vielen unabhaengingen Einschleppungen.
 * Die fortwaehrenden Epidemien in Utah und Idaho sind stark miteinander verbunden.
-* Entscheidungen einzelner Bundesstaaten beeinflussen das Schicksal anderer Bundesstaaten tiefgruendig. Sichere Lockerungen der Einschraenkungen in jedem Bundesstaat forderen die koordinierte Eindaemmung des Virus und die Zusammenarbeit aller Staaten, um sich gegenseitig zu schuetzen. 
+* Entscheidungen einzelner Bundesstaaten beeinflussen das Schicksal anderer Bundesstaaten tiefgruendig. Um die Beschränkungen in jedem Staat sicher zu lockern, ist eine koordinierte Eindämmung erforderlich, wobei alle Staaten handeln muessen, um sich gegenseitig zu schützen.
 
 ```
 
@@ -64,7 +64,7 @@ Wir haben 1,347 oeffentlich zugaengliche SARS-Cov-19 Genome aus den Vereinigten 
 
 <!-- This is left-side text 2-->
 # [COVID-19 Quellen](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
-Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch bekannt als hCov-19 - haben wir einige Quellen vorbereitet, die dem Leser helfen sollen, die nachfolgenden Daten besser und leichter zu verstehen. Diese Informationen helfen Ihnen, die nachfolgenden Daten besser interpretieren zu koennen.
+Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch bekannt als hCov-19 - haben wir einige Quellen vorbereitet, die dem Leser helfen sollen, die nachfolgenden Daten besser und leichter zu verstehen. Diese Informationen helfen Ihnen die nachfolgenden Daten besser interpretieren zu koennen.
 #### Nextstrain Quellen  
 * [Anfang: Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/).  
 * [Hintergrundwissen zu Coronaviren](https://nextstrain.org/help/coronavirus/human-CoV).
@@ -82,7 +82,7 @@ Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch 
 
 <!-- This is left-side text 3-->
 # [Anmerkung zur Probennahme](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
-Bis jetzt sind Sequenzierungsdaten von Virusisolaten aus 36 Bundesstaaten. Das ist eine Meisterleistung, wenn man bedenkt, dass man ein unbekanntes, grosses RNA-Virus inmitten einer Pandemie sequenzieren muss. Dies ist nur dank dem wunderbaren Einsatz und dem zeitnahen Teilen von Daten durch Forscher und Aerzte weltweit moeglich.
+Bis jetzt sind Sequenzierungsdaten von Virusisolaten aus 36 Bundesstaaten oeffentlich zugaenglich. Das ist eine Meisterleistung, wenn man bedenkt, dass man ein unbekanntes, grosses RNA-Virus inmitten einer Pandemie sequenzieren muss. Dies ist nur dank dem wunderbaren Einsatz und dem zeitnahen Teilen von Daten durch Forscher und Aerzte weltweit moeglich.
 <br><br>
 Waehrend diese Daten es uns ermoeglichen, die Pandemie naeher zu charakterisieren und die Ausbreitung zeitnah zu verfolgen, ist es wichtig zu betonen, dass die Schlussfolgerungen aufgrund der Datenverfuegbarkeit begrenzt sind.
 <br><br>
@@ -97,7 +97,7 @@ Zum Beispiel zeigt die Karte nur sehr geringe Sequenzierdaten aus der Mitte der 
 
 Wie Sie bereits [den Nachrichten aus dieser Woche] entnommen haben (https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), koennen die meisten Virusisolate aus New York (hier farbig dargestellt) eng mit Proben aus Europe (hier grau dargestellt) gruppiert werden.
 <br><br>
-Die New York - Klade ist sowohl flankiert als auch verschraenkt mit Sequenzierdaten aus Europa, was stark darauf hindeutet, dass die meisten der fruehen Faelle aus Einschleppungen aus Europa resultiert sind.
+Die New York - Klade wird sowohl von Sequenzierdaten aus Europa flankiert und ist auch mit ihnen verschraenkt, was stark darauf hindeutet, dass die meisten der fruehen Faelle aus Einschleppungen aus Europa resultiert sind.
 <!-- There is no right side text -->
 
 
@@ -105,16 +105,16 @@ Die New York - Klade ist sowohl flankiert als auch verschraenkt mit Sequenzierda
 <!-- This is left-side text 5-->
 # [Viele Einfuehrungen des Virus nach New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-Der Grossteil der Epidemie in New York wurde durch Einschleppung(en) aus Europa erzeugt. Aber kontextabhaengige Sequenzen aus anderen Teilen der Welt zeigt uns, dass es noch weitere Einfuehrungen des Virus nach New York City gegeben hat. Aufgrund der Internationalitaet der Stadt gibt es Faelle, die eng mit Proben aus jedem Teil der Welt verbunden ist.
+Der Grossteil der Epidemie in New York ist durch Einschleppung(en) aus Europa erzeugt worden. Aber kontextabhaengige Sequenzen aus anderen Teilen der Welt zeigt uns, dass es noch weitere Einfuehrungen des Virus nach New York City gegeben hat. Aufgrund der Internationalitaet der Stadt gibt es Faelle, die eng mit Proben aus jedem Teil der Welt verbunden sind.
 <br><br>
-Die fruehen Faelle in New York repraesentieren hoechstwahrscheinlich eingehende Uebertragungen. Im spateren Verlauf der Epidemie, sehen wir vermehrte Durchmischung zwischen europaeischen und Proben aus New York, was den Verlauf spaeterer Uebertragungen nicht leicht nachvollziehen laesst. Wie wir [letzte Woche](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11) berichtet haben, gibt es Bewese fuer eine kuerzliche Wiedereinschleppung aus den Vereinigten Staaten von Amerika nach Europa und Asien.
+Die fruehen Faelle in New York repraesentieren hoechstwahrscheinlich eingehende Uebertragungen. Im spaeteren Verlauf der Epidemie sehen wir vermehrte Durchmischung zwischen europaeischen und Proben aus New York, was den Verlauf spaeterer Uebertragungen nicht leicht nachvollziehen laesst. Wie wir [letzte Woche](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11) berichtet haben, gibt es Bewese fuer eine kuerzliche Wiedereinschleppung aus den Vereinigten Staaten von Amerika nach Europa und Asien.
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Falldurchmischung aus allen 5 New York City Gemeinden](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+# [Falldurchmischung innerhalb 5 New York City Gemeinden](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
 
 Innerhalb New York City sehen wir nur eine schwache Abgrenzgung der Faelle zwischen den Gemeinden. Dies stimmt mit dem haeufigen Mischen an Faelle innerhalb der ganzen Stadt ueberein.
 <!-- This is no right-side text -->
@@ -133,7 +133,7 @@ Zusaetzlich sehen wir Anzeichen fuer eine vielfache Einschleppung zwischen den B
 <!-- This is left-side text 8-->
 # [Epidemien im mittleren Westen sind auf mehrere Einschleppungen zurueckfuehrbar](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
 
-Hebt man Sequenzierdaten aus dem mittleren Westen der USA hervor, sieht man, dass diese Faelle aus diesen Gebieten eher ebenmaessig ueber den Baum verteilt sind als enge Kluster zu formen. Das zeigt, dass es hier viele unabhaengige Einschleppungen in diese Bundesstaate gegeben hatte mit vielen verschiedenen Uebertragungsketten, die gleichzeitig zirkulieren.
+Hebt man Sequenzierdaten aus dem mittleren Westen der USA hervor, sieht man, dass diese Faelle aus diesen Gebieten eher ebenmaessig ueber den Baum verteilt sind und keine enge Kluster formen. Das zeigt, dass es hier viele unabhaengige Einschleppungen in diese Bundesstaate gegeben hat mit vielen verschiedenen Uebertragungsketten, die gleichzeitig zirkuliert sind.
 
 <!-- This is no right-side text -->
 
@@ -142,47 +142,46 @@ Hebt man Sequenzierdaten aus dem mittleren Westen der USA hervor, sieht man, das
 <!-- This is left-side text 9-->
 # [Verwandte Epidemien in Rocky Mountain West](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
 
-Es hat auch mehrere Einschleppungen nach Rocky Mountain West gegeben. Zoomt man rein, sieht man eine gut aufgeloeste Uebertragungskette, die sich seinen Weg ueber Idaho macht. Erwaehnenswert sei, dass diese Fallreihe von einem Fallkluster aus Utah flankiert wird, was die enge Verbindung zwischen den beiden Epidemien zeigt.
+Es hat auch mehrere Einschleppungen nach Rocky Mountain West gegeben. Zoomt man rein, sieht man eine gut aufgeloeste Uebertragungskette, die sich seinen Weg ueber Idaho gemacht hat. Erwaehnenswert sei, dass diese Fallreihe von einem Fallkluster aus Utah flankiert wird, was die enge Verbindung zwischen den beiden Epidemien zeigt.
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [What you can do](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Wear a mask in public.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Was Sie tun koennen](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+#### ...als Einzelperson
+* Reduzieren Sie die Anzahl an Personen, mit denen Sie taeglich Kontakt haben, besonders wenn Sie zu einer Risikogruppe gehoeren (z.B. Senioren und Leute mit Vorerkrankungen).
+* Tragen Sie eine Maske in der Oeffentlichkeit
+* Bedenken Sie, dass selbst wenn Sie nicht zu einer Risikogruppe gehoeren, Leute in Ihrer Umgebung dies eventuell tun. Halten Sie sich an die Anweisungen, um Andere zu schuetzen.
+* Haendewaschen "like you just chopped a jalapeno and have to change a contact lens."
+* Bleiben Sie zuhause, so oft wie es geht - besonders wenn Sie krank sind; bereiten Sie sich mit Vorraeten auf eine eventuelle Quarantaene vor. 
+* Als Arbeitgeber raten Sie Ihren Angestellten von zuhause aus zu arbeiten, wenn moeglich.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
-
+#### ...als Amtsperson  
+* Machen Sie Tests kostenlos und weitlaeufig verfuegbar.  
+* Fordern Sie strikte Massnahmen zur rauemlichen Distanzierung.  
+* Unterstuetzen und implementieren Sie umfangreiche Kontaktverfolgungen.  
+* Unterstuetzen Sie all diejenigen finanziell, die aufgrund von Massnahmen zur rauemlichen Distanzierung negativ betroffen sind.
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Zusammenfassung
 
-* Introductions from Europe seeded the majority of the New York outbreak, but there were also introductions from other areas of the world.
+* Einschleppungen aus Europa haben hauptsaechlich zur Epidemie in New York beigetragen, wobei es auch Einschleppungen aus anderen Teilen der Welt gegeben hat.
 <br><br>
-* As the outbreak has progressed, we also see evidence for re-introductions from the U.S. to Europe and Asia.
+* Waehrend die Epidemie sich weiterentwickelt, sehen wir Anzeichen fuer eine Wiedereinschleppung des Virus aus den USA nach sowohl Europa als auch Asien.
 <br><br>
-* The outbreak in New York City shows mixing of cases across all 5 boroughs.
+* Die Epidemie in New York City zeigt eine Durchmischung von Faellen innerhalb aller 5 Gemeinden.
 <br><br>
-* The outbreak in California is related to both nearby Washington State and distant New York.
+* Die Epidemie in Kalifornien ist mit denen im weitentfernten New York und naheliegenden Washington State verbunden.
 <br><br>
-* The Midwest outbreak is heterogeneous, with multiple transmission chains circulating in the region.
+* Die Epidemie im mittleren Westen ist heterogen, wobei mehrere Uebertragungsketten in der Region im Umlauf sind.
 <br><br>
-* Outbreaks in Utah and Idaho are closely related, with ongoing community transmission.
+* Die Epidemien in Utah und Idaho sind eng miteinander verbunden, wobei es weiterhin Uebertragungen innerhalb der Gemeinden hat.
 <br><br>
-* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.  
+* Die Entscheidungen eines einzelnen Bundesstaates beeinflusst tiefgruendig das Schicksal der anderen. Um die Beschränkungen in jedem Staat sicher zu lockern, ist eine koordinierte Eindämmung erforderlich, wobei alle Staaten handeln muessen, um sich gegenseitig zu schützen.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -195,20 +194,19 @@ Es hat auch mehrere Einschleppungen nach Rocky Mountain West gegeben. Zoomt man 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
+# [Wissenschaftliche Danksagung](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Wir moechten uns recht herzlich bei allen Forschern fuer deren Zeit und wunderbares Engagement bedanken, die in dieser Epidemie ihren unentbehrlichen Beitrag leisten. Besonders moechten wir uns bei denen bedanken, die in China die Epidemie versuchen in den Griff zu bekommen. Nur durch das schnelle Teilen von Genom- und Metadaten sind Analysen wie diese moeglich.
 
 <br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+Zudem moechten wir uns recht herzlich bei [GISAID](https://gisaid.org) fuer die Bereitstellung der Plattform bedanken, durch die diese Daten geteilt und hochgeladen werden koennen. 
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Vielen herzlichen Dank an nachfolgende Labore fuer das Zusammentragen der Daten:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -678,19 +676,19 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [Detailierte Danksagung](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Diese Daten wurden durch [GISAID](https://gisaid.org) ermoeglicht.
+Wir moechten uns hier recht herzlich fuer deren Beteiligung bedanken.
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+Rechts geben wir spezifische Sequenzen an, die von jedem Labor gemeinsam genutzt werden.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Die SARS-CoV-2 Genome wurden grosszuegig von Wissenschaftlern an den nachfolgenden Instituten geteilt:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
