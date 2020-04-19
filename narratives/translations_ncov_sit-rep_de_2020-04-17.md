@@ -27,7 +27,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 date: "2020 April 17"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
-abstract: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von COVID-19 zu beschreiben, und wird wöchentlich aktualisiert. Diese Woche legen wir den Fokus auf die Epidemie in den Verienigten Staaten von Amerika. Fuer die meisten Gebieten in den USA haben wir Beweise fuer eine mehrfache Einschleppung gefunden - sowohl nationalen als auch internationalen Ursprungs. Diese Daten unterstreichen, dass die Entscheidung eines einzelnen Bundesstaates tiefgreifend das Schicksal anderer Staaten beeinflusst.
+abstract: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von COVID-19 zu beschreiben, und wird wöchentlich aktualisiert. Diese Woche legen wir den Fokus auf die Epidemie in den Verienigten Staaten von Amerika. Fuer die meisten Gebieten in den USA haben wir Beweise fuer eine mehrfache Einschleppung gefunden - sowohl nationalen als auch internationalen Ursprungs. Diese Daten unterstreichen, dass die Entscheidung eines einzelnen Bundesstaates tiefgreifend das Schicksal anderer Staaten beeinflusst."
 
 
 ---
