@@ -147,7 +147,7 @@ abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-
 <!-- This is left-side text 9-->
 # [落基山脉西部州的疫情存在关联](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
 
-落基山脉西部地区也经历了多次输入事件。把地图放大，我们可以清晰地看到一个在爱达荷州活动的传播链。值得注意的是，这组样本的外部是一簇来自犹他州的样本，证明这两地的疫情紧密相关。
+落基山脉西部地区也经历了多次输入事件。把鼠标放在爱达荷州的圆圈上，我们可以清晰地在演化树上看到一个在爱达荷州活动的传播链。值得注意的是，这组样本的外部是一簇来自犹他州的样本，证明这两地的疫情紧密相关。
 
 <!-- This is no right-side text -->
 
