@@ -40,14 +40,14 @@ abstract: "Dieser Bericht basiert auf genetischen Daten, um die Verbreitung von 
 <!-- This is left-side text 1-->
 # [Inhaltsverzeichnis](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
-* [Naehere Informationen zu diesen Daten](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [Updates fuer New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [Updates fuer Kalifornien](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [Updates fuer den Mittleren Westen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [Updates fuer Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
-* [Was Sie tun koennen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
-* [Wissenschaftliche Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
+* [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-17?n=2).     
+* [Naehere Informationen zu diesen Daten](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-17?n=3).
+* [Updates fuer New York](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-17?n=4).
+* [Updates fuer Kalifornien](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-17?n=7).
+* [Updates fuer den Mittleren Westen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-17?n=8).
+* [Updates fuer Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-17?n=9).
+* [Was Sie tun koennen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-17?n=10).
+* [Wissenschaftliche Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -72,7 +72,7 @@ Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch 
 #### Nextstrain Quellen  
 * [Anfang: Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/de).  
 * [Hintergrundwissen zu Coronaviren](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-03-13?n=11).
 
 #### Externe Quellen 
 * [Fragen Sie einen Wissenschaftler & FAQs](https://covid19.fas.org/l/en).
@@ -99,7 +99,7 @@ Zum Beispiel zeigt die Karte nur sehr geringe Sequenzierdaten aus der Mitte der 
 <!-- This is left-side text 4-->
 # [Die Hauptklade in New York mit der europaeischen Epidemie verbunden](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
-Wie Sie bereits [den Nachrichten aus dieser Woche] entnommen haben (https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), koennen die meisten Virusisolate aus New York (hier farbig dargestellt) eng mit Proben aus Europe (hier grau dargestellt) gruppiert werden.
+Wie Sie bereits [den Nachrichten aus dieser Woche](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html) entnommen haben , koennen die meisten Virusisolate aus New York (hier farbig dargestellt) eng mit Proben aus Europe (hier grau dargestellt) gruppiert werden.
 <br><br>
 Die Hauptklade in New York ist von Sequenzierdaten aus Europa flankiert und auch mit diesen verschachtelt, was stark darauf hindeutet, dass die meisten der fruehen Faelle aus Einschleppungen von Europa resultierten.
 <!-- There is no right side text -->
@@ -111,7 +111,7 @@ Die Hauptklade in New York ist von Sequenzierdaten aus Europa flankiert und auch
 
 Der Grossteil des Ausbruches in New York ist durch Einschleppung(en) aus Europa erzeugt worden. Sequenzen aus anderen Teilen der Welt zeigen uns aber, dass es noch weitere Einfuehrungen des Virus nach New York City gegeben hat. Aufgrund des kosmopolitischen Charakters der Stadt gibt es Faelle, die eng mit Proben aus jedem Teil der Welt verbunden sind.
 <br><br>
-Die fruehen Faelle in New York repraesentieren hoechstwahrscheinlich eingehende Uebertragungen. Im spaeteren Verlauf des Ausbruches sehen wir vermehrte Durchmischung zwischen europaeischen Proben und Proben aus New York, was den Verlauf spaeterer Uebertragungen nicht leicht nachvollziehen laesst. Wie wir [letzte Woche](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11) berichtet haben, gibt es Anzeichen fuer eine kuerzliche Wiedereinschleppung aus den Vereinigten Staaten von Amerika nach Europa und Asien.
+Die fruehen Faelle in New York repraesentieren hoechstwahrscheinlich eingehende Uebertragungen. Im spaeteren Verlauf des Ausbruches sehen wir vermehrte Durchmischung zwischen europaeischen Proben und Proben aus New York, was den Verlauf spaeterer Uebertragungen nicht leicht nachvollziehen laesst. Wie wir [letzte Woche](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-10?n=11) berichtet haben, gibt es Anzeichen fuer eine kuerzliche Wiedereinschleppung aus den Vereinigten Staaten von Amerika nach Europa und Asien.
 
 <!-- There is no right side text -->
 
