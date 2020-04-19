@@ -148,49 +148,49 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Related outbreaks across the Rocky Mountain West](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
+# [ロッキー山脈西部での感染拡大](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
 
-There have also been several introductions to the Rocky Mountain West. Zooming in, we see a well-resolved transmission chain making its way across Idaho. Notably, this set of cases is flanked by a cluster of cases from Utah, demonstrating a close relationship between these two outbreaks.
+ロッキー山脈西部への伝播もいくつかあります。 拡大してみると、アイダホ州を横断する感染の連鎖がよく判ります。 特にこの一連の症例は、ユタ州からの症例のクラスターに隣接しており、これら2つの感染拡大の密接な関係を示しています。
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [What you can do](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Wear a mask in public.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [私たちができること](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+#### ...個人ができること
+* 社会的距離を保つことを厳格に実践してください。重症化しやすいグループに属している場合には特に。
+* 外ではマスクをしましょう。
+* あなたが健康であるとしても、他の人を守るために社会的距離を保つことを実践して下さい。
+* 良く手を洗って下さい（辛いものを触ったあとにコンタクトレンズを交換する時のように）。
+* できるだけ家にいましょう（特に体調の悪い時は）。自主的な隔離に備えて、いくつかの追加の備品を用意しておきましょう。
+* あなたが雇用主である場合は、可能な限り自宅で仕事をするよう従業員に勧めてください。
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...行政機関ができること 
+* 検査を広く、無料で利用出来るようにすること。
+* 社会的な距離を保つ為の措置を強力にとること。
+* 広範囲な接触追跡作業に資金を提供し、実施すること。
+* 社会的距離に関する措置の影響を受ける人々を経済的に支援すること。
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# まとめ
 
-* Introductions from Europe seeded the majority of the New York outbreak, but there were also introductions from other areas of the world.
+* ニューヨーク州での感染拡大の大部分は欧州からの伝播が中心でしたが、世界の他の地域からの伝播もありました。
 <br><br>
-* As the outbreak has progressed, we also see evidence for re-introductions from the U.S. to Europe and Asia.
+* 感染拡大が進むにつれ、米国から欧州やアジアへの再伝播も見られます。
 <br><br>
-* The outbreak in New York City shows mixing of cases across all 5 boroughs.
+* ニューヨーク市での感染拡大は、5つの区すべてで症例が混在しています。
 <br><br>
-* The outbreak in California is related to both nearby Washington State and distant New York.
+* カリフォルニア州での感染拡大は、近くのワシントン州と遠くのニューヨーク州の両方に関連しています。
 <br><br>
-* The Midwest outbreak is heterogeneous, with multiple transmission chains circulating in the region.
+* 中西部の感染拡大は不均一で、複数の感染連鎖がこの地域で蔓延しています。
 <br><br>
-* Outbreaks in Utah and Idaho are closely related, with ongoing community transmission.
+* ユタ州とアイダホ州の感染拡大は密接に関連しており、地域社会への感染が続いています。
 <br><br>
-* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.  
+* 各州が下した決定は、他の州の運命に大きな影響を与えます。どの州でも安全に規制を緩和するには、すべての州がお互いに保護し合うように調整された抑制策が必要です。
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -203,20 +203,19 @@ There have also been several introductions to the Rocky Mountain West. Zooming i
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
+# [分析データのクレジット](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, and particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+私たちはこの感染症流行の中において、関係したすべての科学者、中国で働いている科学者による驚くべきタイムリーな研究に謝意を表します。 この分析は世界中の科学者や医師によるゲノム配列や病例に関するメタデータの共有があって可能になりました。
 
 <br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+また、これらのデータをアップロードおよび共有できるプラットフォームを提供してくれた [GISAID](https://gisaid.org) にも感謝します。
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+私たちはこれらの研修室によって集積されたデータに感謝します:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -686,19 +685,18 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [分析データの詳細](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+これらのデータは [GISAID](https://gisaid.org) を介して共有されました。彼らの貢献に感謝します。
 
 <br>
 
-To the right we give specific sequences shared by each lab.
+右側に各ラボで共有される特定の遺伝子配列を示します。
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+SARS-CoV-2 ゲノムは、これらの研究室の研究者によって共有されました:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
