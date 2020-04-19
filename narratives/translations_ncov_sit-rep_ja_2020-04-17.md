@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-17.
+title: 新型コロナウイルス拡散の遺伝的解析と状況報告 2020-04-17.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -18,12 +18,18 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Tomoyuki Nezu
+  - Takeshi Sato
+  - Fengjun Zhang
 translatorLinks:
+  - https://twitter.com/tommy_nezy
+  - https://github.com/satotake
+  - https://twitter.com/fengjun_zhang
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
-date: "2020 April 17"
+date: "2020年4月17日"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on the outbreak in the United States. For most areas of the U.S., we find evidence for multiple introductions -- of both international and domestic origins. This data emphasizes that the decisions made by each state profoundly impacts the fate of the others."
+abstract: "この週次レポートでは、公開されたゲノムデータを用いて COVID-19 の広がりを追跡しています。今週は米国での感染拡大に焦点を当てています。米国のほとんどの地域では複数の伝播の証拠が見つかりました - 国際的および国内的な起源を持つものです。このデータは、各州の決定が他の州の運命に大きな影響を与えることを強く示しています。"
 
 ---
 
@@ -33,29 +39,29 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
+# [目次](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [Updates for New York](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [Updates for California](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [Updates for the Midwest](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [Updates for the Rocky Mountain West](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
+* [資料](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17?n=2).     
+* [データについて](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17?n=3).
+* [ニューヨーク州に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17?n=4).
+* [カリフォルニア州に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17?n=7).
+* [中西部の各州に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17?n=8).
+* [ロッキー山脈より西側の州に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17?n=9).
+* [私たちのできること](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17?n=10).
+* [分析データのクレジット](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# 概要
 
-We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is moving around the world and spreading locally. In this week's updates, we report:  
+ここでは、米国から共有されている 1,347 種の SARS-CoV-2 ゲノムを分析しました。これらのウイルスのゲノムを相互に比較することにより、SARS-CoV-2 が世界中をどのように移動しているか、地域の中でどのように拡散しているかを特徴付けることができます。今週の更新では、次の内容を報告します:
 
-* The New York outbreak has cosmopolitan origins, but the majority of cases are attributable to introductions from Europe.   
-* The outbreak in New York City shows mixing of cases across all 5 boroughs.  
-* The outbreak in California is related to both nearby Washington State and distant New York.  
-* The Midwest outbreak is heterogeneous and is the result of many independent introductions.
-* Ongoing outbreaks in Utah and Idaho are closely related.
-* The decisions made by each state profoundly impacts the fate of the others. Safely easing restrictions in any state will require coordinated containment, with all states acting to protect each other.
+* ニューヨーク州での感染拡大は、国際的な起源を持つが、症例の大部分はヨーロッパからの伝播に由来するものである。  
+* ニューヨーク市での感染拡大は、5つの行政区すべてでの症例が混在していることを示しています。 
+* カリフォルニア州での感染拡大は、近隣のワシントン州と遠く離れたニューヨーク州の両方に関連しています。 
+* 中西部での感染拡大は不均一であり、多くの独立した伝播の結果です。
+* ユタ州とアイダホ州で発生している流行は密接に関連しています。
+* 各州が下した決定は、他の州の運命に大きな影響を与えます。どの州でも安全に規制を緩和するには、すべての州がお互いに保護し合うように調整された抑制策が必要です。
 
 
 ```
@@ -64,61 +70,61 @@ We analyzed 1,347 publicly shared SARS-CoV-2 genomes from the United States. By 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
+# [COVID-19 に関する資料](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
+このレポートで紹介するデータを理解するための資料を用意しています。
 #### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [最初にご覧下さい: 系統樹の読み方](https://nextstrain.org/narratives/trees-background/ja).  
+* [コロナウイルスの背景](https://nextstrain.org/help/coronavirus/human-CoV).
+* [よくある誤解](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 #### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+* [「Ask a Scientist」とよくある質問と答え](https://covid19.fas.org/l/en).
+* [WHO の状況報告](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [CDC の資料](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [The NYTimes による COVID-19 の報道](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
-We currently have sequences from samples collected in 36 states. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [データについて](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
+現在、米国36州で採取されたサンプルの遺伝子配列があります。これは信じられないほどの成果です。流行の最中に未知の大型RNAウイルスの遺伝子を解析することは難しく、世界中の科学者や医師による信じられないような作業とタイムリーなデータの共有があって初めて可能になりました。
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+このデータにより、多くの有用な特性を推測し、流行の広がりをリアルタイムで追跡することができますが、結論は利用可能なデータによって制限されることに留意して下さい。
 <br><br>
-For example, the map shows relatively few sequences from the Central United States. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+例えば、この地図には米国中部から比較的少数の遺伝子配列表示されます。
+これは COVID-19 がこれらの地域で流行していないため、またはこれらの症例を理解することが重要ではないためではありません。むしろ、これらの地域からの入手可能なデータが少ないことを意味します。 マップ上の各円のサイズは、実際の流行の広がり度合いを示すというよりも、そのエリアにおいて利用可能なデータ量を示しています。
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Main New York clade linked to European outbreak](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
+# [欧州での大流行に関連するニューヨーク州の系統群](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
-As you may have seen [in the news this week](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), most of the viral samples from New York (in color) group closely with samples from Europe (gray).
+[今週のニュース](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html) で見たかもしれませんが、ニューヨークからのウイルスサンプル（色付きのもの）のほとんどは、ヨーロッパからのサンプル（グレーのもの）と密接にグループ化されています。
 <br><br>
-The New York clade is both flanked by and interleaved with sequences from Europe, which strongly suggests that most early cases resulted from introductions from Europe.
+ニューヨーク州の系統群は欧州からの遺伝子配列に隣接し、また挟まれています。これは、ほとんどの初期の症例が欧州からの伝播によるものであることを強く示唆しています。
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Many introductions to New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
+# [ニューヨーク州への多数の伝播](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-The majority of the New York outbreak was seeded by European introduction(s). But the contextual sequences from other regions of the world allow us to see additional introductions into New York City. True to its cosmopolitan nature, there are cases in New York closely related to samples from every other region of the world.
+ニューヨーク州での感染拡大の大部分は、欧州の人々による伝播でした。しかし、世界の他の地域からの遺伝子配列の関係性 (translator note: What is the proper Japanese translation for "contextual sequences") により、ニューヨーク市への更なる伝播を見ることができます。その国際的な特徴を表すように、ニューヨーク州には世界中の地域からのサンプルに密接に関連している症例があります。
 <br><br>
-The early New York cases likely represent inbound transmissions. Later on in the outbreak, we see far more mixing between European and New York samples, making the
-direction of later transmissions less clear. As we reported on [last week](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), there is also evidence for recent reintroductions from the U.S. to Europe and Asia.
+初期のニューヨーク州の症例は、おそらく内向きの伝播を表しています。発生の後半には、欧州とニューヨーク州のサンプルの混合がより多くなり、伝播の方向が明確ではありません。先週[報告]（https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=11）したように、米国から欧州およびアジアへの最近の再伝播の証拠もあります。
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Intermingling of cases from all 5 NYC boroughs](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+# [ニューヨーク市の５区における全ての症例の混在](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
 
-Within New York City, we see little segregation of cases by borough. This is consistent with frequent mixing of cases across the city.
+ニューヨーク市では、行政区ごとに症例の分離はほとんど見られません。これは、街全域で頻繁に症例が混在することと一致しています。
 <!-- This is no right-side text -->
 
 
