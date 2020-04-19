@@ -115,7 +115,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 ニューヨーク州での感染拡大の大部分は、欧州の人々による伝播でした。しかし、世界の他の地域からの遺伝子配列の関係性 (translator note: What is the proper Japanese translation for "contextual sequences") により、ニューヨーク市への更なる伝播を見ることができます。その国際的な特徴を表すように、ニューヨーク州には世界中の地域からのサンプルに密接に関連している症例があります。
 <br><br>
-初期のニューヨーク州の症例は、おそらく内向きの伝播を表しています。発生の後半には、欧州とニューヨーク州のサンプルの混合がより多くなり、伝播の方向が明確ではありません。先週[報告](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=11)したように、米国から欧州およびアジアへの最近の再伝播の証拠もあります。
+初期のニューヨーク州の症例は、おそらく州外から州内への伝播を表しています。発生の後半には、欧州とニューヨーク州のサンプルの混合がより多くなり、伝播の方向が明確ではありません。先週[報告](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=11)したように、米国から欧州およびアジアへの最近の再伝播の証拠もあります。
 
 <!-- There is no right side text -->
 
@@ -130,7 +130,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [カリフォルニア州での感染拡大は、近隣と遠く離れた州の両方に関連しています](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
+# [近隣と遠く離れた州の両方に関連するカリフォルニア州での感染拡大](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
 
 また、州間の複数の伝播の証拠も見られます。例えば、カリフォルニア州からの事例は、近隣のワシントン州やニューヨーク州からのサンプルと一緒にグループ化されており、系統樹の遺伝的多様性に跨ります。(translator note: more natural Japanese of ... "span the genetic diversity of the tree") これは、カリフォルニア州と近隣および遠方の州との間での感染の証拠です。
 
