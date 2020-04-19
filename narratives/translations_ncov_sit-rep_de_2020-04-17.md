@@ -55,7 +55,7 @@ Wir haben 1,347 oeffentlich zugaengliche SARS-Cov-19 Genome aus den Vereinigten 
 * Die Epidemie in Kalifornien ist aehnlich zu deren im naheliegenden Washington State und im weitentfernten New York.  
 * Die Epidemie im mittleren Westen ist heterogen und ein Ergebnis aus vielen unabhaengingen Einschleppungen.
 * Die fortwaehrenden Epidemien in Utah und Idaho sind stark miteinander verbunden.
-* Entscheidungen einzelner Bundesstaaten beeinflussen das Schicksal anderer Bundesstaaten tiefgruendig. Um die Beschränkungen in jedem Staat sicher zu lockern, ist eine koordinierte Eindämmung erforderlich, wobei alle Staaten handeln muessen, um sich gegenseitig zu schützen.
+* Entscheidungen einzelner Bundesstaaten beeinflussen das Schicksal anderer Bundesstaaten tiefgruendig. Um die Beschränkungen in jedem Bundesstaat sicher zu lockern, ist eine koordinierte Eindämmung erforderlich, wobei alle Staaten handeln muessen, um sich gegenseitig zu schützen.
 
 ```
 
@@ -105,18 +105,18 @@ Die New York - Klade wird sowohl von Sequenzierdaten aus Europa flankiert und is
 <!-- This is left-side text 5-->
 # [Viele Einfuehrungen des Virus nach New York](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-Der Grossteil der Epidemie in New York ist durch Einschleppung(en) aus Europa erzeugt worden. Aber kontextabhaengige Sequenzen aus anderen Teilen der Welt zeigt uns, dass es noch weitere Einfuehrungen des Virus nach New York City gegeben hat. Aufgrund der Internationalitaet der Stadt gibt es Faelle, die eng mit Proben aus jedem Teil der Welt verbunden sind.
+Der Grossteil der Epidemie in New York ist durch Einschleppung(en) aus Europa erzeugt worden. Aber kontextabhaengige Sequenzen aus anderen Teilen der Welt zeigen uns, dass es noch weitere Einfuehrungen des Virus nach New York City gegeben hat. Aufgrund der Internationalitaet der Stadt gibt es Faelle, die eng mit Proben aus jedem Teil der Welt verbunden sind.
 <br><br>
-Die fruehen Faelle in New York repraesentieren hoechstwahrscheinlich eingehende Uebertragungen. Im spaeteren Verlauf der Epidemie sehen wir vermehrte Durchmischung zwischen europaeischen und Proben aus New York, was den Verlauf spaeterer Uebertragungen nicht leicht nachvollziehen laesst. Wie wir [letzte Woche](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11) berichtet haben, gibt es Bewese fuer eine kuerzliche Wiedereinschleppung aus den Vereinigten Staaten von Amerika nach Europa und Asien.
+Die fruehen Faelle in New York repraesentieren hoechstwahrscheinlich eingehende Uebertragungen. Im spaeteren Verlauf der Epidemie sehen wir vermehrte Durchmischung zwischen europaeischen und Proben aus New York, was den Verlauf spaeterer Uebertragungen nicht leicht nachvollziehen laesst. Wie wir [letzte Woche](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11) berichtet haben, gibt es Beweise fuer eine kuerzliche Wiedereinschleppung aus den Vereinigten Staaten von Amerika nach Europa und Asien.
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Falldurchmischung innerhalb 5 New York City Gemeinden](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+# [Falldurchmischung innerhalb 5 Gemeinden in New York City](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
 
-Innerhalb New York City sehen wir nur eine schwache Abgrenzgung der Faelle zwischen den Gemeinden. Dies stimmt mit dem haeufigen Mischen an Faelle innerhalb der ganzen Stadt ueberein.
+Innerhalb New York Citys sehen wir nur eine schwache Abgrenzgung der Faelle zwischen den Gemeinden. Dies stimmt mit dem haeufigen Mischen an Faelle innerhalb der ganzen Stadt ueberein.
 <!-- This is no right-side text -->
 
 
@@ -173,7 +173,7 @@ Es hat auch mehrere Einschleppungen nach Rocky Mountain West gegeben. Zoomt man 
 <br><br>
 * Waehrend die Epidemie sich weiterentwickelt, sehen wir Anzeichen fuer eine Wiedereinschleppung des Virus aus den USA nach sowohl Europa als auch Asien.
 <br><br>
-* Die Epidemie in New York City zeigt eine Durchmischung von Faellen innerhalb aller 5 Gemeinden.
+* Die Epidemie in New York City zeigt eine Durchmischung von Faellen innerhalb 5 Gemeinden.
 <br><br>
 * Die Epidemie in Kalifornien ist mit denen im weitentfernten New York und naheliegenden Washington State verbunden.
 <br><br>
@@ -181,7 +181,7 @@ Es hat auch mehrere Einschleppungen nach Rocky Mountain West gegeben. Zoomt man 
 <br><br>
 * Die Epidemien in Utah und Idaho sind eng miteinander verbunden, wobei es weiterhin Uebertragungen innerhalb der Gemeinden hat.
 <br><br>
-* Die Entscheidungen eines einzelnen Bundesstaates beeinflusst tiefgruendig das Schicksal der anderen. Um die Beschränkungen in jedem Staat sicher zu lockern, ist eine koordinierte Eindämmung erforderlich, wobei alle Staaten handeln muessen, um sich gegenseitig zu schützen.
+* Die Entscheidungen eines einzelnen Bundesstaates beeinflusst tiefgruendig das Schicksal der anderen. Um die Beschränkungen in jedem Bundesstaat sicher zu lockern, ist eine koordinierte Eindämmung erforderlich, wobei alle Staaten handeln muessen, um sich gegenseitig zu schützen.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
