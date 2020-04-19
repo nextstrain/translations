@@ -17,8 +17,12 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: Elisabeth Hirth
-translatorLinks: https://dittrich.ethz.ch/people/person-detail.MjM4ODcw.TGlzdC8xMjg5LC02NDM3NDE3MjY=.html
+translators:
+  - Elisabeth Hirth
+  - Astrid Gall  
+translatorLinks:
+  - https://dittrich.ethz.ch/people/person-detail.MjM4ODcw.TGlzdC8xMjg5LC02NDM3NDE3MjY=.html
+  - https://www.ebi.ac.uk/about/people/astrid-gall
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 date: "2020 April 17"
