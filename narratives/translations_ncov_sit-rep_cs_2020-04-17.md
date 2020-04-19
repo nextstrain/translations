@@ -682,7 +682,7 @@ Chtěli bychom vyjádřit svůj vděk za data shromážděná těmito zdrojovým
 <!-- This is left-side text -->
 # [Individuální poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
 
-Tyto údaje byly sdíleny prostřednictvím neziskové organizace [GISAID](https://gisaid.org)..
+Tyto údaje byly sdíleny prostřednictvím neziskové organizace [GISAID](https://gisaid.org).
 Srdečně děkujeme za její pomoc.
 
 <br>
