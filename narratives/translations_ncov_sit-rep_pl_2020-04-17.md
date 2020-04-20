@@ -39,14 +39,14 @@ abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śl
 <!-- This is left-side text 1-->
 # [Spis treści](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [Wstęp i materiały](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
-* [Opis próbkowania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [Aktualizacja sytuacji w Nowym Jorku](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [Aktualizacja sytuacji w Kalifornii](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [Aktualizacja sytuacji w Środkowym Zachodzie](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [Aktualizacja sytuacji w stanach Gór Skalistych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
-* [Co możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
-* [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
+* [Wstęp i materiały](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-17?n=2).     
+* [Opis próbkowania](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-17?n=3).
+* [Aktualizacja sytuacji w Nowym Jorku](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-17?n=4).
+* [Aktualizacja sytuacji w Kalifornii](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-17?n=7).
+* [Aktualizacja sytuacji w Środkowym Zachodzie](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-17?n=8).
+* [Aktualizacja sytuacji w stanach Gór Skalistych](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-17?n=9).
+* [Co możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-17?n=10).
+* [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -124,7 +124,7 @@ The New York clade is both flanked by and interleaved with sequences from Europe
 # [Liczne introdukcje do Nowego Jorku](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 Większa część epidemii w Nowym Jorku została zapoczątkowana w wyniku jednej bądź wielu introdukcji z Europy. Ale dane na temat sekwencji z innych regionów świata pozwalają nam zaobserwować dodatkowe introdukcje do miasta Nowy Jork. Zgodnie z jego kosmopolityczną naturą, znajdujemy w mieście Nowy Jork przypadki blisko spokrewnione z próbkami z każdego innego regionu świata.
 <br><br>
-Wczesne przypadki z Nowego Jorku przedstawiają najprawdopodobniej transmisje przychodzące do regionu<!-- here I'm not sure -->. Później w trakcie epidemii, obserwujemy więcej mieszania się próbek z Europy i Nowego Jorku, co utrudnia śledzenie kierunku transmisji w późniejszych etapach epidemii. Jak raportowaliśmy [w zeszłym tygodniu](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10?n=11), mamy również dowody na niedawne introdukcje z USA do Europy i Azji.
+Wczesne przypadki z Nowego Jorku przedstawiają najprawdopodobniej transmisje przychodzące do regionu<!-- here I'm not sure -->. Później w trakcie epidemii, obserwujemy więcej mieszania się próbek z Europy i Nowego Jorku, co utrudnia śledzenie kierunku transmisji w późniejszych etapach epidemii. Jak raportowaliśmy [w zeszłym tygodniu](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-10?n=11), mamy również dowody na niedawne introdukcje z USA do Europy i Azji.
 
 <!-- [Many introductions to New York]
 The majority of the New York outbreak was seeded by European introduction(s). But the contextual sequences from other regions of the world allow us to see additional introductions into New York City. True to its cosmopolitan nature, there are cases in New York closely related to samples from every other region of the world.
