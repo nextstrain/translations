@@ -42,7 +42,7 @@ abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śl
 * [Wstęp i materiały](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
 * [Opis próbkowania](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
 * [Aktualizacja sytuacji w Nowym Jorku](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [Aktualizacja sytuacji w Kaliforni](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
+* [Aktualizacja sytuacji w Kalifornii](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
 * [Aktualizacja sytuacji w Środkowym Zachodzie](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
 * [Aktualizacja sytuacji w stanach Gór Skalistych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
 * [Co możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
@@ -193,7 +193,7 @@ There have also been several introductions to the Rocky Mountain West. Zooming i
 * Spraw, aby testy na obecność wirusa były darmowe i szeroko dostępne.  
 * Wprowadź ścisłe regulacje ograniczające bezpośrednie kontakty.
 * Sfinansuj i wprowadź obszerne śledzenie kontaktów.  
-* Wspomóź finansowo tych, którzy najbardziej ucierpią w wyniku ograniczania kontaków.
+* Wspomóż finansowo tych, którzy najbardziej ucierpią w wyniku ograniczania kontaków.
 
 
 <!-- This is the right-side text -->
@@ -208,7 +208,7 @@ There have also been several introductions to the Rocky Mountain West. Zooming i
 <br><br>
 * Ognisko epidemii w Kalifornii jest powiązane zarówno z epidemią w pobliskim stanie Waszyngton, jak i epidemią w odległym Nowym Jorku.
 <br><br>
-* Ognisko epidemii w Środkowym Zachodzie ma heterogeniczne pochodzenie, z licznymi łańcuchami transmisji bedącymi w obiegu w tym regionie.
+* Ognisko epidemii w Środkowym Zachodzie ma heterogeniczne pochodzenie, z licznymi łańcuchami transmisji będącymi w obiegu w tym regionie.
 <br><br>
 * Ogniska epidemii w Utah i Idaho są ściśle powiązane; transmisje w obrębie społeczności trwają.
 <br><br>
