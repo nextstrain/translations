@@ -106,7 +106,7 @@ O agrupamento de Nova Iorque é cercado e intercalado com seqüências da Europa
 <!-- This is left-side text 5-->
 # [Muitas introduções em Nova Iorque](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-A maioria do surto de Nova York foi semeada por introdução(ões) européia (s). Mas as seqüências contextuais de outras regiões do mundo nos permitem ver introduções adicionais na cidade de Nova Iorque. Fiel à sua natureza cosmopolita, há casos em Nova York intimamente relacionados a amostras de todas as outras regiões do mundo.
+Boa parte do surto de Nova Iorque foi resultado de introdução(ões) européia(s). Mas as seqüências contextuais de outras regiões do mundo nos permitem ver introduções adicionais na cidade. Fiel à sua natureza cosmopolita, há casos em Nova Iorque intimamente relacionados a amostras de todas as outras regiões do mundo além da Europa.
 <br><br>
 Os primeiros casos de Nova Iorque provavelmente representam transmissões de entrada. Mais tarde, no surto, vemos muito mais mistura entre amostras européias e de Nova Iorque, tornando menos clara a direção das transmissões posteriores. Conforme relatamos na [semana passada](https://nextstrain.org/community/narratives/nextstrain/translations@sit-rep_pt/ncov/sit-rep/pt/2020-04-10?f_region=Asia&n=11), também há evidências de reintroduções recentes dos EUA para a Europa e Ásia.
 
