@@ -83,7 +83,7 @@ Připravili jsme materiály dostupné online, které usnadňují interpretaci zd
 
 <!-- This is left-side text 3-->
 # [Poznámka k odběru vzorků](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
-V současnosti máme k dispozici sekvence ze vzorků odebraných v 36 státech. To je neuvěřitelný úspěch – sekvenování neznámého, velkého RNA viru uprostřed pandemie je obtížné a lze jej provést pouze díky neskutečné práci a včasnému sdílení dat vědci a lékaři z celého světa.
+V současnosti máme k dispozici sekvence ze vzorků odebraných ve 36 státech. To je neuvěřitelný úspěch – sekvenování neznámého, velkého RNA viru uprostřed pandemie je obtížné a lze jej provést pouze díky neskutečné práci a včasnému sdílení dat vědci a lékaři z celého světa.
 <br><br>
 I když nám tato data umožňují vyvodit mnoho užitečných charakteristik propuknutí nákazy a sledovat její šíření v reálném čase, je důležité zdůraznit, že naše závěry jsou limitovány dostupnými údaji.
 <br><br>
@@ -106,7 +106,7 @@ Newyorský klad (neboli všechny dceřiné větve se společným předkem) je ol
 <!-- This is left-side text 5-->
 # [Mnoho případů přenosu do New Yorku](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-Většinová část ohniska nákazy v New Yorku má původ v přenosu z Evropy).. Kontextuální sekvence z jiných oblastí světa nám však umožňují pozorovat další případy zanesení nákazy do města New York. V souladu s kosmopolitní povahou města se v New Yorku vyskytují případy úzce související se vzorky z každého jiného světového regionu.
+Většinová část ohniska nákazy v New Yorku má původ v přenosu z Evropy). Kontextuální sekvence z jiných oblastí světa nám však umožňují pozorovat další případy zanesení nákazy do města New York. V souladu s kosmopolitní povahou města se v New Yorku vyskytují případy úzce související se vzorky ze všech světových regionů.
 <br><br>
 Rané newyorské případy pravděpodobně představují případy přenosu nákazy z vnějšího prostředí. Později v průběhu šíření nákazy vidíme daleko vyšší míru mísení mezi evropskými a newyorskými vzorky, na základě čehož je
 směr pozdějších případů přenosu méně zřejmý. Jak jsme referovali [minulý týden](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-10?n=11), existují rovněž důkazy o nedávném zpětném přenosu z USA do Evropy a Asie.
@@ -126,7 +126,7 @@ V rámci města New York vidíme jen malé rozdíly mezi jednotlivými případy
 <!-- This is left-side text 7-->
 # [Propuknutí nákazy v Kalifornii souvisí se nedalekými i vzdálenými státy](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
 
-Pozorujeme také důkazy o opakovaných přenosech mezi státy. Například případy z Kalifornie se vyskytují po celé šířce genetické diverzity stromu a seskupují se s vzorky z nedalekého státu Washington i z New Yorku. To je důkazem přenosu mezi Kalifornií a blízkými i vzdálenými státy.
+Pozorujeme také důkazy o opakovaných přenosech mezi státy. Například případy z Kalifornie pokrývají genetickou diverzitu celého stromu a seskupují se se vzorky z nedalekého státu Washington i z New Yorku. To je důkazem přenosu mezi Kalifornií a blízkými i vzdálenými státy.
 
 <!-- This is no right-side text -->
 
