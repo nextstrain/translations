@@ -1,6 +1,6 @@
 ---
 title: Genomová analýza šíření nemoci COVID-19. Situační zpráva ze dne 17. 4. 2020.
-authors:nedalekým státem
+authors:
   - Sidney M. Bell
   - Emma Hodcroft
   - Cassia Wagner
