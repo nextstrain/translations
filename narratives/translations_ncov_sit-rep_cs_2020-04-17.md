@@ -1,61 +1,62 @@
 ---
-title: COVID-19 확산에 대한 유전체 분석. 2020년 4월 10일 상황 보고서
+title: Genomová analýza šíření nemoci COVID-19. Situační zpráva ze dne 17. 4. 2020.
 authors:
   - Sidney M. Bell
-  - Nicola Müller
-  - Cassia Wagner
   - Emma Hodcroft
+  - Cassia Wagner
+  - Nicola Müller
   - James Hadfield
   - Richard Neher
   - Trevor Bedford
 authorLinks:
   - https://twitter.com/sidneymbell
-  - https://bedford.io/team/nicola-mueller/
-  - https://bedford.io/team/cassia-wagner/
   - https://neherlab.org/emma-hodcroft.html
+  - https://bedford.io/team/cassia-wagner/
+  - https://bedford.io/team/nicola-mueller/
   - https://bedford.io/team/james-hadfield/
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-  - Taehoon Ha
-  - Minkyu Kim
-translatorLinks:
-  - https://taehoonh.github.io
-  - https://twitter.com/minkyuxyz
-date: "2020 April 10"
-dataset: "https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&p=full&legend=closed"
-abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19의 전파를 추적합니다. 이 보고서는 매주 업데이트 됩니다."
+translators: "Provided by Google"
+translatorLinks: "https://www.google.com/"
+license: "CC-BY"  
+licenseLink: "https://creativecommons.org/licenses/by/4.0/"
+date: "17. dubna 2020"
+dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
+abstract: "Předkládaná týdenní zpráva využívá k sledování šíření nemoci COVID-19 veřejně dostupné genomové údaje. Tento týden se zaměříme na propuknutí nákazy ve Spojených státech. Ve většině oblastí USA nacházíme důkazy více případů zanesení nákazy, a to zahraničního i domácího původu. Tato data zřetelně ukazují, že rozhodnutí přijímaná jednotlivými státy USA mají hluboký dopad na osud ostatních států."
+
 ---
+
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
 <!-- Ensure that links always end in a 'letter' (. counts) If some kind of text doesn't follow them, it breaks the slide. -->
-<!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
+<!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [개요](https://nextstrain.org/ncov/global/2020-04-09?d=map&p=full&legend=closed)
+# [Obsah](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-이번 주, 저희는 한 걸음 뒤로 물러나 유행이 어떻게 전개되어 왔는지를 월별로 추적해 보았습니다.
-세계의 지역 _간_ 전파가 어떻게 이루어져 왔는지에 집중했습니다. 이번 보고서에서는 다음과 같은 내용을 다룹니다:
-<br>
-* [배경지식](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=2).
-* [데이터 수집 관련 사항](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=3).
-* [초기 아시아 내에서의 전파](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=4).
-* [초기 아시아에서 북아메리카, 유럽, 오세아니아로의 유입](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=5).  
-* [북아메리카와 유럽의 유행 확산](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=8).  
-* [추후 몇몇 지역에서 국경을 넘어 확산이 이루어짐](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=9).
-* [유럽과 북아메리카에서 남반구로 전파](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=10).  
-* [돌고 돌아 다시 원점으로: 아시아로의 재유입](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=11).
-* [우리가 할 수 있는 것들](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=12).
-* [과학적 기여](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-10?n=13).
+* [Výchozí zdroje](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-17?n=2).     
+* [O těchto údajích](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-17?n=3).
+* [Aktuální vývoj v New Yorku](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-17?n=4).
+* [Aktuální vývoj v Kalifornii](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-17?n=7).
+* [Aktuální vývoj na středozápadě USA](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-17?n=8).
+* [Aktuální vývoj v horských státech na západě USA](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-17?n=9).
+* [Co můžete udělat vy](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-17?n=10).
+* [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# 개요
+# Úvodní přehled
 
-저희는 3,160개의 공개된 코로나19의 유전체 염기서열을 분석하였습니다. 바이러스들을 비교 분석하여 코로나19가 어떻게 진화하고 세계 곳곳으로 퍼지고 지역에서 확산되고 있는지 분석할 수 있습니다.
+Provedli jsme analýzu 1 347 veřejně dostupných genomů viru SARS-CoV-2 ze Spojených států. Vzájemným porovnáním těchto virových genomů můžeme popsat, jak virus SARS-CoV-2 postupuje světem a šíří se v rámci různých lokalit. Novinky tohoto týdne:  
 
-저희는 보다 구체적이고 지역 중심적인 분석으로 옮겨가는 과정 속에 있습니다. 이 변화와 관련된 보다 자세한 정보는 [여기](https://twitter.com/nextstrain/status/1247851469392564224) 에서 찾으실 수 있습니다. 도움을 주시고 싶으신 분들은 [여기](https://twitter.com/sidneymbell/status/1247933122064207872) 를 확인해주세요. 이 변화가 진행되는 동안 기다려주셔서 감사합니다.
+* Ohnisko nákazy ve státě New York má sice kosmopolitní původ, většinu případů však lze připsat přenosu z Evropy.   
+* Ohnisko ve městě New York vykazuje příznaky mísení případů napříč všemi pěti městskými obvody.  
+* Ohnisko v Kalifornii souvisí s nedalekým státem Washington i vzdáleným New Yorkem.  
+* Ohnisko na středozápadě USA je heterogenní a je výsledkem řady nezávislých případů zanesení nákazy.
+* Probíhající šíření nákazy ve státech Utah a Idaho je úzce provázané.
+* Rozhodnutí přijímaná jednotlivými státy USA mají hluboký dopad na osud ostatních států. Bezpečné uvolňování omezení v libovolném státě bude vyžadovat koordinovanou kontrolu tak, aby všechny státy jednaly v zájmu vzájemné ochrany.
+
 
 ```
 
@@ -63,145 +64,127 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [코로나바이러스감염증-19 관련자료](https://nextstrain.org/ncov/global/2020-04-09?d=tree&p=full&legend=closed)
-코로나바이러스감염증-19와 이를 유발하는 SARS-CoV-2 바이러스(또는 hCov-19로 알려진)에 대한 몇 가지 자료를 준비했습니다. 이 정보들은 저희가 이 보고서에서 제시한 내용을 이해하는데 도움을 줄 것입니다.
-#### Nextstrain 관련자료
-* [여기부터 시작하세요: 계통수를 읽는 법](https://nextstrain.org/narratives/trees-background/ko).  
-* [코로나바이러스 관련 배경지식](https://nextstrain.org/help/coronavirus/human-CoV).
-* [흔한 오해들](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-13?n=11).
+# [Informační zdroje o nemoci COVID-19](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
+Připravili jsme materiály dostupné online, které usnadňují interpretaci zde uváděných dat.
+#### Zdroje na webu Nextstrain  
+* [ZAČNĚTE ZDE: Jak číst fylogenetický strom](https://nextstrain.org/narratives/trees-background/).  
+* [Základní informace o koronavirech](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Běžné omyly a mýty](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### 외부 자료
-* [WHO 상황 보고서](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [미국 질병통제예방센터 자료](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [뉴욕타임즈 코로나19 커버리지](https://www.nytimes.com/news-event/coronavirus).
-* [과학자에게 물어보세요 & 자주 묻는 질문](https://covid19.fas.org/l/en).
+#### Externí zdroje  
+* [Zeptejte se odborníka a časté dotazy](https://covid19.fas.org/l/en).
+* [Situační zprávy Světové zdravotnické organizace (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Zdroje publikované Centrem pro kontrolu a prevenci nemocí (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Informace o nemoci COVID-19 v deníku The New York Times](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [데이터 수집 관련 사항](https://nextstrain.org/ncov/global/2020-04-10?c=country&r=country&d=map&p=grid&legend=closed)
-현재 저희는 6개 대륙, 57개국에서 얻은 분리된 바이러스의 RNA 염기서열 정보를 해독했습니다. 이는 엄청난 성과입니다. 큰 RNA 유전체를 가진 미지의 바이러스의 염기서열 정보를 유행 와중에 얻는 것은 굉장히 어렵습니다. 이는 전 세계의 과학자와 의료인들의 신속한 정보공유와 헌신이 아니었다면 불가능했을 것입니다.
+# [Poznámka k odběru vzorků](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
+V současnosti máme k dispozici sekvence ze vzorků odebraných ve 36 státech. To je neuvěřitelný úspěch – sekvenování neznámého, velkého RNA viru uprostřed pandemie je obtížné a lze jej provést pouze díky neskutečné práci a včasnému sdílení dat vědci a lékaři z celého světa.
 <br><br>
-이 데이터를 활용하면 유행의 여러 특성을 실시간으로 유추할 수 있지만 저희의 결론은 현재 활용가능한 데이터에만 국한됩니다.
+I když nám tato data umožňují vyvodit mnoho užitečných charakteristik propuknutí nákazy a sledovat její šíření v reálném čase, je důležité zdůraznit, že naše závěry jsou limitovány dostupnými údaji.
 <br><br>
-예를 들어, 아래의 지도는 남반구에서 채취된 바이러스가 매우 적음을 보여줍니다. 이는 그 지역에 코로나19 유행이 없어서도, 다른 지역보다 덜 중요해서도 아닙니다. 단지 그 지역에서 수집된 데이터가 부족하다는 것을 의미합니다. 지도 상의 원의 크기는 그 지역에서 얻은 데이터의 양을 의미할 뿐 실제 유행의 규모와는 무관합니다.
+Mapa například ukazuje relativně málo sekvencí z střední části Spojených států. Důvodem rozhodně není to, že by se nemoc COVID-19 snad v těchto oblastech nevyskytovala nebo že by zjištěné případy nebyly natolik zásadní, abychom se jim snažili porozumět. Z těchto oblastí především nemáme k dispozici dostatečné množství údajů. Velikost jednotlivých kruhů na mapě tedy neoznačuje skutečný rozsah nákazy, ale spíše kolik dat je aktuálně z dané oblasti k dispozici.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [초기 아시아 내에서의 확산](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-01-15&p=full)
+# [Provázání hlavního newyorského kladu s evropským ohniskem](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
-이 슬라이드에는 유행 첫 달인 2019년 12월 중순부터 2020년 1월 중순까지의 사례들을 표시했습니다.
-계통수 끝 부분은 감염된 개개인들의 사례들을 의미합니다.
-각 내부 노드(또는 분기점)는 수집되지 않은 사례들을 나타내며, 이는 하위 분기군 내 모든 표본들의 조상입니다.
+Jak jste mohli zahlédnout [tento týden ve zprávách](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html), většina vzorků viru z New Yorku (barevné) je těsně seskupena se vzorky z Evropy (šedé).
 <br><br>
-계통수 끝부분은 표본 수집이 이루어진 위치에 따라 색을 다르게 표시했습니다. 노드(분기점)는 조상이 되는 사례의 위치에 근거하여 유추된 (가장 확률이 높은) 지역의 색깔로 표시했습니다.
-<br><br>
-한 표본이 어디에서 지리적으로 고립되었는지를 이 표본의 조상들이 어느 지역에서 순환했는지와 비교해보면, 어느 지역에서 감염이 일어나고 있는지를 알 수 있을뿐만 아니라 어디에서 전염이 되었는지를 파악하는 데에도 도움이 됩니다.
-<br><br>
-순환 중인 바이러스의 공통 조상은 2019년 11월 말 또는 12월 초에 중국 우한에서 나타난 것으로 보입니다.
-따라서, 이 기간 동안 수집되고 유추된 대부분의 초기 사례들은 아시아에 자리잡고 있었습니다.
-이는 주로 중국 내에서 유통되었으며, 일부는 유행 첫 달 동안 다른 아시아 국가로 전파된 사례들과 일치합니다.
-
+Newyorský klad (neboli všechny dceřiné větve se společným předkem) je olemován i proložen sekvencemi z Evropy, což jasně naznačuje, že většina raných případů je výsledkem zanesení nákazy z Evropy.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [초기 다른 지역으로의 확산](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-02-15&dmin=2020-01-15&p=full&d=map,tree)
+# [Mnoho případů přenosu do New Yorku](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-유행이 시작된 지 2개월 차에 접어든 동안 (2020년 1월 중순에서 2월 중순까지), 유럽 및 오세아니아에서 개별적인 사례들이 발생하기 시작했던 것을 확인할 수 있습니다.
-이런 초기 사례들은 여전히 아시아의 사례들과 한데 묶였으며, 일반적으로 지역사회 전파의 특징을 보이지 않았습니다.
+Většinová část ohniska nákazy v New Yorku má původ v přenosu z Evropy). Kontextuální sekvence z jiných oblastí světa nám však umožňují pozorovat další případy zanesení nákazy do města New York. V souladu s kosmopolitní povahou města se v New Yorku vyskytují případy úzce související se vzorky z každého jiného světového regionu.
 <br><br>
-이는 아시아에서의 주된 유행으로부터 전세계의 다른 지역들로 던져진 초기 불씨가 되었다는 해석과 일맥상통합니다. 대부분의 이런 불씨들이 각 지역에서의 유행으로 이어지지는 않았지만, 이 유입들 중 적어도 3건이 지역사회 유행을 촉발시켰습니다. 이로 인해 오세아니아에서의 제한적인 확산뿐만 아니라 유럽 및 북아메리카 내에서 대유행이 발생하게 되었습니다.
+Rané newyorské případy pravděpodobně představují případy přenosu nákazy z vnějšího prostředí. Později v průběhu šíření nákazy vidíme daleko vyšší míru mísení mezi evropskými a newyorskými vzorky, na základě čehož je
+směr pozdějších případů přenosu méně zřejmý. Jak jsme referovali [minulý týden](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-10?n=11), existují rovněž důkazy o nedávném zpětném přenosu z USA do Evropy a Asie.
+
 <!-- There is no right side text -->
+
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [파악이 힘든 유럽의 초기 전파](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:A2&p=full)
+# [Vzájemné mísení případů ze všech 5 městských obvodů New Yorku](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
 
-같은 기간 동안의 계통수 상단을 확대해 보면, 나중에 유럽 대유행의 시초가 되는 유럽의 조상 바이러스(내부 노드)를 확인할 수 있습니다.
-<br><br>
-이 시점에 저희는 이 분기군에서 단 1개의 염기서열 자료도 가지고 있지 않았지만, 1월 말 또는 2월 초까지 유럽 유행의 시초는 발견되지 못한 채 순환하고 있었다는 것을 보여줍니다.
-<!-- There is no right side text -->
+V rámci města New York vidíme jen malé rozdíly mezi jednotlivými případy podle městského obvodu. Toto zjištění je v souladu s častým mísením případů v rámci města.
+<!-- This is no right-side text -->
+
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [파악이 힘든 북아메리카의 초기 전파](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmax=2020-02-14&label=clade:B1&p=full)
+# [Propuknutí nákazy v Kalifornii souvisí s nedalekými i vzdálenými státy](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
 
-이와 유사하게, 계통수의 하단을 확대해서 보면, 나중에 북아메리카 대유행의 시발점이 된 북아메리카의 조상 바이러스(내부 노드)를 확인할 수 있습니다.
-<br><br>
-이 시점에서 저희는 이 사례군에서 1개의 염기서열 자료만을 가지고 있었지만, 1월 말 또는 2월 초까지 북아메리카 내에서 바이러스가 발견되지 못한 채 순환하고 있었다는 것을 보여줍니다.
-<!-- There is no right side text -->
+Pozorujeme také důkazy o opakovaných přenosech mezi státy. Například případy z Kalifornie pokrývají genetickou diverzitu celého stromu a seskupují se se vzorky z nedalekého státu Washington i z New Yorku. To je důkazem přenosu mezi Kalifornií a blízkými i vzdálenými státy.
+
+<!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [북아메리카와 유럽에서의 유행 확산](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&p=full&d=tree,map)
+# [Ohniska na středozápadě USA vyvolalo mnoho případů zanesení nákazy](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
 
-2020년 2월 중순에서 3월 중순까지 3개월 동안 이 두 사례군이 퍼져서 각각 유럽과 북아메리카 내에서 크게 유행했습니다.
-<!-- There is no right side text -->
+Pokud zvýrazníme sekvence ze středozápadu USA, vidíme, že případy z této oblasti netvoří řadu těsných klastrů, ale jsou v rámci stromu rozmístěny spíše rovnoměrně. Tato skutečnost ukazuje, že došlo k řadě nezávislých případů zanesení nákazy do těchto států a že se zde souběžně vyskytuje několik různých linii přenosu.
+
+<!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [국경을 넘어 확산이 일어남](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=North%20America&p=full&r=division&d=tree,map&c=division)
+# [Související ohniska v horských státech na západě USA](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
 
-이 각각의 지역들에서, 주 경계와 국경을 넘어 광범위하게 뒤섞인 것을 확인할 수 있습니다.
-미국의 여러 주와 캐나다의 여러 주의 사례들을 통해 이 뒤섞임을 보여주고 있습니다.
-<br><br>
-저희는 이와 비슷한 패턴으로 유럽 국가들 사이에서 바이러스 계통들이 빈번히 뒤섞이는 것을 [이전에 보고](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-27?n=5) 했던 적이 있습니다.
-<!-- There is no right side text -->
+Také do horských států na západě USA byla nákaza zanesena několika způsoby. Po přiblížení vidíme jasně zřetelnou linii přenosu procházející napříč státem Idaho. Za povšimnutí stojí, že je tento soubor případů lemován klastrem případů z Utahu, což ukazuje úzký vztah mezi těmito dvěma ohnisky nákazy.
+
+<!-- This is no right-side text -->
+
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [북아메리카와 유럽에서 세계의 다른 지역으로의 유입](https://nextstrain.org/ncov/global/2020-04-09?dmax=2020-03-15&dmin=2020-02-15&f_region=Africa,South%20America,Oceania&p=full&d=tree,map)
+# [Co můžete udělat vy](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+#### ... jako běžný občan
+* Důsledně omezovat společenský kontakt, zejména pokud spadáte do ohrožené skupiny.
+* Na veřejnosti nosit roušku.
+* Nezapomínejte, že i když vy sami do silně ohrožené skupiny nepatříte, řada lidí kolem vás ano. Dodržováním těchto opatření chráníte ostatní.
+* Myjte si ruce, „jako byste právě nakrájeli silně pálivou papriku a chystali se vyměnit si kontaktní čočky“.  
+* Co nejvíce se zdržujte doma – zejména pokud jste nemocní. Pořiďte si zásoby pro případ, že budete muset zůstat v domácí karanténě.  
+* Jste-li zaměstnavatel, nabídněte všem zaměstnancům, u kterých je to možné, práci z domova.
 
-북아메리카 및 유럽의 사례군들은 각각의 지역들에 국한되지 않습니다. 이 기간 동안, 저희는 남아메리카, 오세아니아 및 아프리카 사례들이 주로 유럽 및 북아메리카 지역의 분기군으로부터 온 것을 확인했습니다. 이를 통해, 해당 기간 동안 대륙 간 유입이 빈번하게 발생했음을 알 수 있었습니다.
-<br><br>
-흥미로운 점은, 남반구에서 수집한 표본은 계통수 전체에 걸쳐 고루 분포해 있으며, 이 지역에서의 유행은 여러 바이러스 계통들끼리 뒤섞여 나타나게 된 산물이라는 것입니다.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text 11-->
-# [돌고 돌아 다시 원점으로: 아시아로의 재유입](https://nextstrain.org/ncov/global/2020-04-09?d=tree,map&dmin=2020-03-14&f_region=Asia&p=full&r=division)
-
-지난 달, 이 팬데믹은 세계를 한 바퀴 돌고 다시 원점으로 돌아왔습니다. 이 슬라이드를 통해 우리는 유럽과 북아메리카에서 아시아로 재유입된 것을 확인할 수 있습니다.
-<br><br>
-이는 이 팬데믹이 세계적인 싸움이라는 것을 분명하게 알려줍니다. 전세계에서 이 바이러스가 퇴치되는 것을 원한다면, 모두 함께 이 바이러스가 퍼지지 않도록 협조해야 할 것입니다.
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text 12-->
-# [기억할 점들](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-
-지역적인 유행과 국가적인 유행은 서로 깊게 얽혀있을 것입니다.
-<br><br>
-이 팬데믹은 세계적인 싸움입니다. 전세계에서 이 바이러스가 퇴치되는 것을 원한다면, 모두 함께 이 바이러스가 퍼지지 않도록 협조해야 할 것입니다.
+#### ... jako představitel veřejné moci  
+* Zpřístupněte bezplatné a široce dostupné testování.  
+* Zaveďte přísná pravidla omezení společenského kontaktu (tzv. social distancing).  
+* Financujte a zavádějte rozsáhlé projekty trasování kontaktů.  
+* Podpořte finančně osoby postižené pravidly omezení společenského kontaktu.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# 우리가 할 수 있는 것들
+# Klíčové závěry
 
-#### 개인이 할 수 있는 것들
-
-* 엄격한 사회적 거리두기를 하십시오. 특히, 당신이 취약 계층일수록 중요합니다.
-* 당신이 취약계층이 아니더라도 사회적 거리두기를 하십시오. 그래야 다른 사람들을 보호할 수 있습니다.
-* "당신이 방금 할라피뇨 고추를 썰고난 뒤 콘택트 렌즈를 교체해야만 하는 것처럼" 손을 자주 씻으십시오.
-* 아프면 집에 머무르세요. 자가격리를 대비해 필요한 물자를 미리 비축하십시오.
-* 당신이 고용주라면 직원들이 아플 때 집에 있을 수 있도록 해주세요.
-
-#### 지도자와 관료들이 할 일
-
-* 검사가 무료로 광범위하게 이뤄질 수 있도록 하십시오.
-* 사회적 거리두기가 이뤄질 수 있도록 하십시오.
-* 광범위한 접촉 경로 추적과 격리에 재정을 지원하고 실행하십시오.
-* 사회적 거리두기로 인해 피해를 입은 사람들을 위해 경제적 지원을 해주십시오.
+* Hlavním zdrojem nákazy v New Yorku byly případy zanesení viru z Evropy, současně ale docházelo k přenosu i z jiných oblastí světa.
+<br><br>
+* Během postupného šíření nákazy pozorujeme rovněž důkazy o zpětném přenosu z USA do Evropy a Asie.
+<br><br>
+* Ohnisko nákazy ve městě New York vykazuje příznaky mísení případů napříč všemi pěti městskými obvody.
+<br><br>
+* Ohnisko v Kalifornii souvisí s nedalekým státem Washington i vzdáleným New Yorkem.
+<br><br>
+* Ohnisko ve středozápadních státech je heterogenní a v této oblasti se vyskytuje několik linií přenosu.
+<br><br>
+* Ohniska nákazy ve státech Utah a Idaho spolu úzce souvisí a trvá zde komunitní přenos.
+<br><br>
+* Rozhodnutí přijímaná jednotlivými státy USA mají hluboký dopad na osud ostatních států. Bezpečné uvolňování omezení v libovolném státě bude vyžadovat koordinová omezení tak, aby všechny státy jednaly v zájmu vzájemné ochrany.  
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -214,27 +197,30 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [과학적 기여](https://nextstrain.org/ncov/2020-04-10?d=map&c=author)
+# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
-이번 유행에 관련된 모든 과학자들, 특히 중국의 과학자들의 대단하고 신속한 작업에 감사를 표합니다. 유전체 정보 및 메타정보의 빠른 공유가 아니었다면 이 분석들은 불가능했을 것입니다.
+Chtěli bychom ocenit úžasnou a rychlou práci všech vědců bojujících s touto nákazou, zejména těch, kteří pracují v Číně.
+Analýzy tohoto typu jsou možné pouze na základě rychlého sdílení genomových dat a metadat.
 
 <br>
 
-이 데이터는 [GISAID](https://gisaid.org) 를 통해 공유되었습니다. 그들에게 감사의 뜻을 전합니다.
+Dále děkujeme organizaci [GISAID](https://gisaid.org) za poskytnutí platformy, přes kterou lze tyto údaje nahrávat a sdílet.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Chtěli bychom vyjádřit svůj vděk za data shromážděná těmito zdrojovými laboratořemi:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
 * AZ Department of Health Services
+* AZ SPHL, Arizona Department of Health Services
 * Akershus University Hospital, Department for Microbiology and Infectious Disease Control
-* Alaska State Public Health Virology Laboratory
+* Alaska State Virology Laboratory
 * Andersen Lab, The Scripps Research Institute
 * Arizona Department of Health Services
+* Arizona State University Health Services
 * Auckland Hospital
 * BCCDC Public Health Laboratory
 * Bamrasnaradura Hospital
@@ -254,6 +240,7 @@ We are grateful for the data gathered by these originating labs:
 * CHU Coimbra
 * CHU Coimbra - Pediatrico
 * CHU Gabriel Montpied
+* CHU Purpan - Laboratoire de Virologie - Institut Federatif de Biologie
 * CHUA - Faro
 * CHULC - H Curry Cabral
 * CHULC - H D Estefania
@@ -261,6 +248,7 @@ We are grateful for the data gathered by these originating labs:
 * CNR Virus des Infections Respiratoires - France SUD
 * COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS
 * CR&WISCO GENERAL HOSPITAL
+* CT-Dr. Katherine A. Kelley State Public Health Lab
 * Cabinet medical
 * Cadham Provincial Laboratory
 * California Department of Health
@@ -296,6 +284,7 @@ We are grateful for the data gathered by these originating labs:
 * Clinical Microbiology Lab
 * Clinique AVERAY LA BROUSTE, Med. Polyvalente
 * Connecticut State Department of Public Health
+* DC Public Health Lab/ Dept. of Forensic Sciences
 * Dasman Diabetes Institute
 * Dasman Diabetes Institute and Virology Laboratory Ministry of Health
 * Department for Virology, Molecular Biology and Genome Research, R. G. Lugar Center for Public Health Research,  National Center for Disease Control and Public Health (NCDC) of Georgia.
@@ -315,6 +304,7 @@ We are grateful for the data gathered by these originating labs:
 * Department of Pathology, Princess Margaret Hospital
 * Department of Pathology, Toshima Hospital
 * Department of Pathology, United Christian Hospital
+* Department of Pathology, University of Cambridge
 * Department of Virology III, National Institute of Infectious Diseases
 * Department of Virology and Immunology, University of Helsinki and Helsinki University Hospital, Huslab Finland
 * Department of Virus and Microbiological Special diagnostics, Statens Serum Institut, Copenhagen, Denmark.
@@ -334,7 +324,9 @@ We are grateful for the data gathered by these originating labs:
 * E. Gulbja Laboratorija
 * EHPAD - Residences les Cedres
 * ErasmusMC
+* FL Bur. of Public Health Laboratories-Jacksonville
 * FL Bureau of Health Laboratories Tampa
+* FL Bureau of Public Health Laboratories-Miami
 * FL Bureau of Public Health Laboratories-Tampa
 * FUNDACION JIMENEZ DIAZ
 * Forde Hospital  Department of Microbiology
@@ -363,6 +355,7 @@ We are grateful for the data gathered by these originating labs:
 * H Garcia de Orta
 * H Guimaraes
 * H Santarem
+* HI Dept. of Health, State Laboratories Division
 * HOSPITAL CLINIC
 * HOSPITAL DE CRUCES.
 * HOSPITAL GENERAL DE SEGOVIA
@@ -384,6 +377,7 @@ We are grateful for the data gathered by these originating labs:
 * Hopital franco britannique - Laboratoire
 * Hopital franco britannique - Service des Urgences
 * Hopitaux universitaires de Geneve Laboratoire de Virologie
+* Hospital General Regional No.66, Ciudad Juarez, Chihuahua.
 * Hospital General y Universitario de Guadalajara
 * Hospital Israelita Albert Einstein
 * Hospital Prof. Doutor Fernando Fonseca, EPE
@@ -398,7 +392,9 @@ We are grateful for the data gathered by these originating labs:
 * Hospital Universitario de Canarias
 * Hospital de Talca, Chile
 * Hospital of Southern Norway - Kristiansand, Department of Medical Microbiology
+* IA State Hygienic Laboratory
 * IL Department of Public Health Chicago Laboratory
+* IN State Department of Health Laboratory Services
 * INMI Lazzaro Spallanzani IRCCS
 * Illinois Department of Public Health Chicago Laboratory
 * Indian Council of Medical Research - National Institute of Virology
@@ -411,25 +407,34 @@ We are grateful for the data gathered by these originating labs:
 * Institut des Agents Infectieux (IAI), Hospices Civils de Lyon
 * Institut pasteur Dakar
 * Institute information  KU Leuven, Clinical and Epidemiological Virology
+* Institute of Microbiology Universidad San Francisco de Quito
 * Institute of Microbiology and Immunology, Faculty of Medicine, University of Ljubljana
 * Institute of Microbiology, Universidad San Francisco de Quito
 * Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College
 * Institute of Viral Disease Control and Prevention, China CDC
 * Institute of Virology, Biomedical Research Center of the Slovak Academy of Sciences, Bratislava; Public Health Authority of the Slovak Republic, Bratislava
+* Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran
 * Instituto Nacional de Enfermedades Respiratorias
 * Instituto Nacional de Salud
 * Instituto Nacional de Saude (INSA)
+* Instituto Sabin
+* Instituto de Diagnostico y Referencia Epidemiologicos
 * Ishikawa Prefectural Institute of Public Health and Environmental Science
+* JABER AL AHMAD AL SABAH HOSPITAL  KUWAIT CITY
+* Jaber Al Ahmad Al Sabah Hospital
 * Japanese Quarantine Stations
 * Jiangxi Province Center for Disease Control and Prevention
 * Jiangxi province Center for Disease Control and Prevention
 * Jingzhou Center for Disease Control and Prevention
+* KS Health and Environmental Laboratories
 * KU Leuven, Clincal and Epidemiological Virology
 * KU Leuven, Clinical and Epidemiological Virology
 * Klinik Hirslanden Zurich
+* Klinisk mikrobiologi, Region Vasterbotten
 * Kochi Prefectural Institute of Public Health
 * Korea Centers for Disease Control & Prevention (KCDC) Center for Laboratory Control of Infectious Diseases Division of Viral Diseases
 * L'Air du Temps
+* LA Office of Public Health Laboratories
 * LABM GH nord Essonne
 * LACEN RJ - Laboratorio Central de Saude Publica Noel Nutels
 * LACEN/ES - Laboratorio Central de Saude Publica do Espirito Santo
@@ -442,6 +447,9 @@ We are grateful for the data gathered by these originating labs:
 * Laboratoire de Virologie Institut de Virologie - INSERM U 1109 Hopitaux Universitaires de Strasbourg
 * Laboratoire de Virologie, HUG
 * Laboratorio Central de Saude Publica Professor Goncalo Moniz  LACEN/BA
+* Laboratorio Estatal de Salud Publica del Estado de Mexico
+* Laboratorio Estatal de Salud Publica del Estado de Puebla
+* Laboratorio Estatal de Salud Publica del Estado de Queretaro
 * Laboratorio Hermes Pardini
 * Laboratorio Simili
 * Laboratorio de Ecologia de Doencas Transmissiveis na Amazonia, Instituto Leonidas e Maria Deane - Fiocruz Amazonia
@@ -451,11 +459,14 @@ We are grateful for the data gathered by these originating labs:
 * Laboratory Medicine
 * Laboratory of Infectious Diseases, Department of Biomedical and Clinical Sciences L. Sacco, University of Milan
 * Laboratory of Microbiology, Department of Medicine, National and Kapodistrian University of Athens, Greece
+* Laboratory of Molecular Genetics, 2nd Faculty of Medicine, Charles University in Prague, Prague, Czech Republic
 * Laboratory of Molecular Virology International Center for Genetic Engineering and Biotechnology (ICGEB)
 * Laboratory of Molecular Virology International Center fro Genetic Engineering and Biotechnology (ICGEB)
 * Laboratory of Molecular Virology, Pontificia Universidad Catolica de Chile
 * Lapland Central Hospital
 * Le Chateau de Seine-Port
+* MA State Public Health Laboratory
+* MD DOH Laboratories Administration
 * MHC Brabant Zuidoost
 * MHC Drente
 * MHC Flevoland
@@ -466,20 +477,34 @@ We are grateful for the data gathered by these originating labs:
 * MHC Rotterdam-Rijnmond
 * MHC Utrecht
 * MHC West-Brabant
+* MN PHL Division, Minnesota Department of Health
+* MO State Public Health Laboratory
 * MSHS Clinical Microbiology Laboratories
 * Massachusetts Department of Public Health
 * Mater Pathology
 * Max von Pettenkofer Institute, Virology, National Reference Center for Retroviruses, LMU Munich
+* Microbial Genomics Laboratory, Institut Pasteur Monteivdeo
+* Microbial Genomics Laboratory, Institut Pasteur Montevideo
+* Microbial Genomics Laboratory, Institut Pasteur Montevideo, Uruguay
 * Microbiological Diagnostic Unit Public Health Laboratory
 * Ministry of Health Turkey
 * Minnesota Department of Health, Public Health Laboratory
 * Molecular Biology and Biotechnology Lab II
 * Molecular Diagnostic Services
+* Molecular Diagnostic Services and FLowpath
 * Monash Medical Centre
+* Motol University Hospital
+* NC State Laboratory of Public Health
+* NE Public Health Laboratory
 * NH Department of Health and Human Services Public Health Labs
+* NH Dept. of Health and Human Services Public Health Labs
 * NHC Key laboratory of Enteric Pathogenic Microbiology, Institute of Pathogenic Microbiology
 * NIC Viral Respiratory Unit - Institut Pasteur of Algeria
+* NJ Public Health and Environmental Laboratories
+* NMIMR, Department of Virology
 * NRL for Influenza, Centrum Epidemiology and Microbiology of National Institute of Public Health, Czech Republic
+* NV State Public Health Laboratory
+* NV-Southern Nevada Public Health Laboratory
 * NYC Department of Health and Mental Hygiene
 * NYU Langone Health
 * National Centre for Infectious Diseases
@@ -494,7 +519,9 @@ We are grateful for the data gathered by these originating labs:
 * National Public Health Laboratory, National Centre for Infectious Diseases
 * National Public Health Surveillance Laboratory, Vilnius, Lithuania
 * Nordland Hospital - Bodo,  Laboratory Department, Molecular Biology Unit
+* OH Department of Health Laboratory
 * OR State PHL-Virology/Immunology Section
+* Ochsner Health
 * Oregon State Public Health- Virology section
 * Oslo University Hospital, Department of Medical Microbiology
 * Ospedale Civile Castel Di Sangro
@@ -503,6 +530,7 @@ We are grateful for the data gathered by these originating labs:
 * Ospedale Regionale San Salvatore
 * Ospedale San Liberatore di Atri
 * Ostfold Hospital Trust -Kalnes Centre for Laboratory Medicine Section for gene technology and infection serology
+* PA Department of Health, Bureau of Laboratories
 * Parc des Dames
 * PathWest Laboratory Medicine WA
 * Pathology North
@@ -513,13 +541,16 @@ We are grateful for the data gathered by these originating labs:
 * Providence Regional Medical Center
 * Public Health Laboratory
 * Public Health Laboratory, Saudi CDC
+* Public Health Ontario
 * Public Health Ontario Laboratories
 * Public Health Ontario Laboratory
 * Queen Elizabeth II Health Science Centre
+* Queens Medical Centre, Clinical Microbiology Department / DeepSeq Nottingham
 * R. G. Lugar Center for Public Health Research,  National Center for Disease Control and Public Health (NCDC) of Georgia.
 * RI State Health Laboratories
 * RI State Health Laboratory
 * RIVM
+* Ramathibodi Hospital
 * Regional Virus Laboratory, Belfast
 * Residence Eleusis
 * Residence Villa Caroline
@@ -529,7 +560,9 @@ We are grateful for the data gathered by these originating labs:
 * Rockhampton Base Hospital
 * Roy Romanow Provincial Laboratory
 * Royal Darwin Hospital
+* Royal Darwin Hospital Pathology
 * Russian State Collection of Viruses
+* SC Dept of Health and Env. Control-Bureau of Laboratories
 * SYNLAB Eesti OU
 * Saitama Medical University
 * Saitama Medical University Hospital
@@ -554,14 +587,19 @@ We are grateful for the data gathered by these originating labs:
 * Shenzhen Third People's Hospital
 * Singapore General Hospital
 * Singapore General Hospital, Molecular Laboratory, Division of Pathology
+* Sir M P Shah Government Medical College
+* Sir M P Shah Government Medical College, Jamnagar
 * Sorbonne Universite, Inserm et Assistance Publique-Hopitaux de Paris (Pitie Salpetriere)
 * South China Agricultural University
 * State Health Office Baden-Wuerttemberg
 * State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China 310003
 * State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China. 310003
+* State Key Laboratory for Emerging Infectious Diseases Department of Microbiology Li Ka Shing Faculty of Medicine The University of Hong Kong
 * State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University
 * Stavanger University Hospital, Department of Medical Microbiology
 * Sullivan Nicolaides Pathology
+* TGen North
+* TSGH-CP molecular lab
 * Tai Lung Veterinary Laboratory, Agriculture, Fisheries and Conservation Department
 * Taiwan Centers for Disease Control
 * Texas DSHS Lab Services
@@ -570,11 +608,16 @@ We are grateful for the data gathered by these originating labs:
 * The Central Hospital Of Wuhan
 * The Chaim Sheba Medical Center
 * The National Institute of Public Health Center for Epidemiology and Microbiology
+* The National Laboratory of Health, Environment and Food, Maribor, Slovenia
 * The National University Hospital of Iceland
+* The Ohio State University
+* The Ohio State University Wexner Medical Center
 * The Republican Research and Practical Center for Epidemiology and Microbiology
 * The University of Hong Kong - Shenzhen Hospital
 * Tianmen Center for Disease Control and Prevention
 * UCD National Virus Reference Laboratory
+* ULSS9 Distretto di Bussolengo
+* UT-Unified State Labs: Public Health Utah DOH
 * UW Virology Lab
 * Unilabs Laboratory Medicine
 * Union Hospital of Tongji Medical College, Huazhong University of Science and Technology
@@ -590,6 +633,8 @@ We are grateful for the data gathered by these originating labs:
 * Unknown
 * Utah Public Health Laboratory
 * VA DCLS
+* VA-Division of Consolidated Laboratory Services
+* Vaccine Research, Development and Application Center, Erciyes University
 * Valley Medical Center
 * Vestfold Hospital, Tonsberg  Department of Microbiology
 * Victorian Infectious Diseases Reference Laboratory (VIDRL)
@@ -600,18 +645,22 @@ We are grateful for the data gathered by these originating labs:
 * Virological Research Group, Szentagothai Research Centre
 * Virological Research Group, Szentagothai Research Centre, University of Pecs
 * Virology Department, Royal Infirmary of Edinburgh, NHS Lothian
+* Virology Department, Royal Infirmary of Edinburgh, NHS Lothian / School of Biological Sciences, University of Edinburgh / Institute of Genetics and Molecular Medicine, University of Edinburgh
 * Virology Department, Sheffield Teaching Hospitals NHS Foundation Trust
 * Virology Laboratory, Department of Biomedical Sciences and Public Health, University Politecnica delle Marche
 * Virology Unit, Institut Pasteur du Cambodge.
 * Virology laboratory Ministry of Health Kuwait sequenced at Dasman Diabetes Institute
 * WA State Department of Health
 * WHO National Influenza Centre Russian Federation
+* Wadsworth Center, New York State Department of Health
+* Wadsworth Center, New York State Department.of Health
 * Wales Specialist Virology Centre
 * Washington State Department of Health
 * Washington State Public Health Lab
 * Weifang Center for Disease Control and Prevention
 * Wellington Hospital
 * West of Scotland Specialist Virology Centre, NHSGGC
+* West of Scotland Specialist Virology Centre, NHSGGC / MRC-University of Glasgow Centre for Virus Research
 * Wisconsin Department of Health Services
 * Wuhan Fourth Hospital
 * Wuhan Institute of Virology, Chinese Academy of Sciences
@@ -631,18 +680,19 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [과학적 기여: 상세 내역](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Individuální poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
 
-이 데이터는 [GISAID](https://gisaid.org)를 통해 공유되었습니다. 그들에게 감사의 뜻을 전합니다.
+Tyto údaje byly sdíleny prostřednictvím neziskové organizace [GISAID](https://gisaid.org).
+Srdečně děkujeme za její pomoc.
 
 <br>
 
-우측에 각 연구실이 기여한 구체적인 서열 정보가 있습니다.
+Vpravo uvádíme konkrétní sekvence poskytnuté jednotlivými laboratořemi.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Genomy viru SARS-CoV-2 laskavě sdíleli vědci z těchto přispívajících laboratoří:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
@@ -658,6 +708,56 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 * AZ Department of Health Services
 	* USA/AZ_4811/2020
 
+* AZ SPHL, Arizona Department of Health Services
+	* USA/AZ-TGEN-TG268893/2020
+	* USA/AZ-TGEN-TG268903/2020
+	* USA/AZ-TGEN-TG268905/2020
+	* USA/AZ-TGEN-TG268909/2020
+	* USA/AZ-TGEN-TG268911/2020
+	* USA/AZ-TGEN-TG268913/2020
+	* USA/AZ-TGEN-TG268915/2020
+	* USA/AZ-TGEN-TG268917/2020
+	* USA/AZ-TGEN-TG269848/2020
+	* USA/AZ-TGEN-TG269856/2020
+	* USA/AZ-TGEN-TG269863/2020
+	* USA/AZ-TGEN-TG269875/2020
+	* USA/AZ-TGEN-TG269883/2020
+	* USA/AZ-TGEN-TG271854/2020
+	* USA/AZ-TGEN-TG271856/2020
+	* USA/AZ-TGEN-TG271860/2020
+	* USA/AZ-TGEN-TG271862/2020
+	* USA/AZ-TGEN-TG271864/2020
+	* USA/AZ-TGEN-TG271870/2020
+	* USA/AZ-TGEN-TG271872/2020
+	* USA/AZ-TGEN-TG271878/2020
+	* USA/AZ-TGEN-TG271880/2020
+	* USA/AZ-TGEN-TG271882/2020
+	* USA/AZ-TGEN-TG271884/2020
+	* USA/AZ-TGEN-TG271886/2020
+	* USA/AZ-TGEN-TG271888/2020
+	* USA/AZ-TGEN-TG271890/2020
+	* USA/AZ-TGEN-TG271892/2020
+	* USA/AZ-TGEN-TG271894/2020
+	* USA/AZ-TGEN-TG271896/2020
+	* USA/AZ-TGEN-TG271898/2020
+	* USA/AZ-TGEN-TG271900/2020
+	* USA/AZ-TGEN-TG271902/2020
+	* USA/AZ-TGEN-TG271922/2020
+	* USA/AZ-TGEN-TG273280/2020
+	* USA/AZ-TGEN-TG273282/2020
+	* USA/AZ-TGEN-TG273286/2020
+	* USA/AZ-TGEN-TG273294/2020
+	* USA/AZ-TGEN-TG273300/2020
+	* USA/AZ-TGEN-TG273302/2020
+	* USA/AZ-TGEN-TG273304/2020
+	* USA/AZ-TGEN-TG273308/2020
+	* USA/AZ-TGEN-TG273310/2020
+	* USA/AZ-TGEN-TG273314/2020
+	* USA/AZ-TGEN-TG273316/2020
+	* USA/AZ-TGEN-TG273318/2020
+	* USA/AZ_8132/2020
+	* USA/AZ_8135/2020
+
 * Akershus University Hospital, Department for Microbiology and Infectious Disease Control
 	* Norway/1495/2020
 	* Norway/1694/2020
@@ -665,11 +765,13 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Norway/2113/2020
 	* Norway/2114/2020
 
-* Alaska State Public Health Virology Laboratory
-	* USA/AK-PHL02/2020
-	* USA/AK-PHL03/2020
-	* USA/AK-PHL06/2020
-	* USA/AK-PHL15/2020
+* Alaska State Virology Laboratory
+	* USA/AK-PHL002/2020
+	* USA/AK-PHL003/2020
+	* USA/AK-PHL006/2020
+	* USA/AK-PHL015/2020
+	* USA/AK-PHL037/2020
+	* USA/AK-PHL077/2020
 
 * Andersen Lab, The Scripps Research Institute
 	* USA/CA-MG0987/2020
@@ -677,6 +779,11 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 
 * Arizona Department of Health Services
 	* USA/AZ1/2020
+
+* Arizona State University Health Services
+	* USA/AZ-ASU2922/2020
+	* USA/AZ-ASU2923/2020
+	* USA/AZ-ASU2936/2020
 
 * Auckland Hospital
 	* NewZealand/01/2020
@@ -837,6 +944,9 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* France/Clermont-Ferrand_650/2020
 	* France/Clermont-Ferrand_651/2020
 
+* CHU Purpan - Laboratoire de Virologie - Institut Federatif de Biologie
+	* France/KRA-ROB/2020
+
 * CHUA - Faro
 	* Portugal/PT0039/2020
 
@@ -875,6 +985,9 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 
 * CR&WISCO GENERAL HOSPITAL
 	* Wuhan/HBCDC-HB-05/2020
+
+* CT-Dr. Katherine A. Kelley State Public Health Lab
+	* USA/CT_9849/2020
 
 * Cabinet medical
 	* France/IDF2561/2020
@@ -975,13 +1088,37 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Germany/NRW-33/2020
 	* Germany/NRW-34/2020
 	* Germany/NRW-35/2020
+	* Germany/NRW-36/2020
+	* Germany/NRW-37/2020
+	* Germany/NRW-38/2020
+	* Germany/NRW-39/2020
+	* Germany/NRW-40/2020
+	* Germany/NRW-41/2020
+	* Germany/NRW-42.2/2020
+	* Germany/NRW-42.3/2020
+	* Germany/NRW-42/2020
+	* Germany/NRW-43/2020
+	* Germany/NRW-44/2020
+	* Germany/NRW-45/2020
+	* Germany/NRW-46/2020
+	* Germany/NRW-47/2020
+	* Germany/NRW-48/2020
+	* Germany/NRW-49/2020
+	* Germany/NRW-50/2020
+	* Germany/NRW-51/2020
+	* Germany/NRW-52/2020
+	* Germany/NRW-53/2020
+	* Germany/NRW-54/2020
+	* Germany/NRW-55/2020
 
 * Centers for Disease Control, R.O.C. (Taiwan)
 	* Taiwan/107/2020
 	* Taiwan/125/2020
 	* Taiwan/128/2020
+	* Taiwan/144/2020
 	* Taiwan/170/2020
 	* Taiwan/2/2020
+	* Taiwan/225/2020
 
 * Central Virology Laboratory
 	* Israel/ISR_JP0320/2020
@@ -1177,7 +1314,11 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/CT-Yale-003/2020
 	* USA/CT-Yale-005/2020
 
+* DC Public Health Lab/ Dept. of Forensic Sciences
+	* USA/DC_0004/2020
+
 * Dasman Diabetes Institute
+	* Kuwait/KU001/2020
 	* Kuwait/KU17/2020
 	* Kuwait/KU18/2020
 
@@ -1223,6 +1364,43 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Belgium/ULG-10045/2020
 	* Belgium/ULG-10046/2020
 	* Belgium/ULG-10047/2020
+	* Belgium/ULG-10049/2020
+	* Belgium/ULG-10050/2020
+	* Belgium/ULG-10051/2020
+	* Belgium/ULG-10052/2020
+	* Belgium/ULG-10053/2020
+	* Belgium/ULG-10054/2020
+	* Belgium/ULG-10055/2020
+	* Belgium/ULG-10056/2020
+	* Belgium/ULG-10057/2020
+	* Belgium/ULG-10058/2020
+	* Belgium/ULG-10060/2020
+	* Belgium/ULG-10061/2020
+	* Belgium/ULG-10062/2020
+	* Belgium/ULG-10063/2020
+	* Belgium/ULG-10065/2020
+	* Belgium/ULG-10066/2020
+	* Belgium/ULG-10067/2020
+	* Belgium/ULG-10068/2020
+	* Belgium/ULG-10069/2020
+	* Belgium/ULG-10071/2020
+	* Belgium/ULG-10072/2020
+	* Belgium/ULG-10074/2020
+	* Belgium/ULG-10077/2020
+	* Belgium/ULG-10078/2020
+	* Belgium/ULG-10079/2020
+	* Belgium/ULG-10080/2020
+	* Belgium/ULG-10081/2020
+	* Belgium/ULG-10082/2020
+	* Belgium/ULG-10084/2020
+	* Belgium/ULG-10085/2020
+	* Belgium/ULG-10086/2020
+	* Belgium/ULG-10088/2020
+	* Belgium/ULG-10089/2020
+	* Belgium/ULG-10092/2020
+	* Belgium/ULG-10093/2020
+	* Belgium/ULG-10094/2020
+	* Belgium/ULG-10095/2020
 	* Belgium/ULG-2971/2020
 	* Belgium/ULG-3000/2020
 	* Belgium/ULG-3162/2020
@@ -1254,6 +1432,7 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Belgium/ULG-7626/2020
 	* Belgium/ULG-7729/2020
 	* Belgium/ULG-7773/2020
+	* Belgium/ULG-7821/2020
 	* Belgium/ULG-8532/2020
 	* Belgium/ULG-8541/2020
 	* Belgium/ULG-8543/2020
@@ -1355,6 +1534,22 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Taiwan/NTU01/2020
 	* Taiwan/NTU02/2020
 	* Taiwan/NTU03/2020
+	* Taiwan/NTU04/2020
+	* Taiwan/NTU05/2020
+	* Taiwan/NTU06/2020
+	* Taiwan/NTU07/2020
+	* Taiwan/NTU08/2020
+	* Taiwan/NTU09/2020
+	* Taiwan/NTU11/2020
+	* Taiwan/NTU12/2020
+	* Taiwan/NTU13/2020
+	* Taiwan/NTU14/2020
+	* Taiwan/NTU15/2020
+	* Taiwan/NTU16/2020
+	* Taiwan/NTU17/2020
+	* Taiwan/NTU19/2020
+	* Taiwan/NTU20/2020
+	* Taiwan/NTU21/2020
 
 * Department of Medical Microbiology, University Malaya Medical Centre
 	* Malaysia/186197/2020
@@ -1401,6 +1596,238 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* HongKong/HKPU28_3001/2020
 	* HongKong/HKPU45-0502/2020
 	* HongKong/HKPU92-1302/2020
+
+* Department of Pathology, University of Cambridge
+	* England/CAMB-7374F/2020
+	* England/CAMB-7375E/2020
+	* England/CAMB-7376D/2020
+	* England/CAMB-7377C/2020
+	* England/CAMB-7378B/2020
+	* England/CAMB-7379A/2020
+	* England/CAMB-737A9/2020
+	* England/CAMB-737B8/2020
+	* England/CAMB-737C7/2020
+	* England/CAMB-737D6/2020
+	* England/CAMB-737E5/2020
+	* England/CAMB-737F4/2020
+	* England/CAMB-73800/2020
+	* England/CAMB-7381F/2020
+	* England/CAMB-7382E/2020
+	* England/CAMB-7386A/2020
+	* England/CAMB-73879/2020
+	* England/CAMB-73888/2020
+	* England/CAMB-738A6/2020
+	* England/CAMB-738B5/2020
+	* England/CAMB-738C4/2020
+	* England/CAMB-738D3/2020
+	* England/CAMB-738E2/2020
+	* England/CAMB-738F1/2020
+	* England/CAMB-7391C/2020
+	* England/CAMB-7393A/2020
+	* England/CAMB-73949/2020
+	* England/CAMB-73976/2020
+	* England/CAMB-73985/2020
+	* England/CAMB-73994/2020
+	* England/CAMB-739A3/2020
+	* England/CAMB-739B2/2020
+	* England/CAMB-739D0/2020
+	* England/CAMB-739EF/2020
+	* England/CAMB-739FE/2020
+	* England/CAMB-73A0A/2020
+	* England/CAMB-73A19/2020
+	* England/CAMB-73A28/2020
+	* England/CAMB-73A37/2020
+	* England/CAMB-73A46/2020
+	* England/CAMB-73A64/2020
+	* England/CAMB-73A73/2020
+	* England/CAMB-73A82/2020
+	* England/CAMB-73AA0/2020
+	* England/CAMB-73ABF/2020
+	* England/CAMB-73ACE/2020
+	* England/CAMB-73ADD/2020
+	* England/CAMB-73AEC/2020
+	* England/CAMB-73AFB/2020
+	* England/CAMB-74359/2020
+	* England/CAMB-74368/2020
+	* England/CAMB-74377/2020
+	* England/CAMB-74386/2020
+	* England/CAMB-74395/2020
+	* England/CAMB-743D1/2020
+	* England/CAMB-743E0/2020
+	* England/CAMB-743FF/2020
+	* England/CAMB-7440B/2020
+	* England/CAMB-7441A/2020
+	* England/CAMB-74438/2020
+	* England/CAMB-74456/2020
+	* England/CAMB-74465/2020
+	* England/CAMB-74474/2020
+	* England/CAMB-74483/2020
+	* England/CAMB-74492/2020
+	* England/CAMB-744A1/2020
+	* England/CAMB-744B0/2020
+	* England/CAMB-744CF/2020
+	* England/CAMB-744DE/2020
+	* England/CAMB-74508/2020
+	* England/CAMB-74517/2020
+	* England/CAMB-74526/2020
+	* England/CAMB-74535/2020
+	* England/CAMB-74544/2020
+	* England/CAMB-74553/2020
+	* England/CAMB-74562/2020
+	* England/CAMB-74571/2020
+	* England/CAMB-74580/2020
+	* England/CAMB-7459F/2020
+	* England/CAMB-745AE/2020
+	* England/CAMB-745BD/2020
+	* England/CAMB-745CC/2020
+	* England/CAMB-745DB/2020
+	* England/CAMB-745EA/2020
+	* England/CAMB-74605/2020
+	* England/CAMB-74614/2020
+	* England/CAMB-74623/2020
+	* England/CAMB-74641/2020
+	* England/CAMB-74650/2020
+	* England/CAMB-7467E/2020
+	* England/CAMB-7468D/2020
+	* England/CAMB-7469C/2020
+	* England/CAMB-746AB/2020
+	* England/CAMB-746BA/2020
+	* England/CAMB-746D8/2020
+	* England/CAMB-74702/2020
+	* England/CAMB-74711/2020
+	* England/CAMB-74720/2020
+	* England/CAMB-7473F/2020
+	* England/CAMB-7474E/2020
+	* England/CAMB-7475D/2020
+	* England/CAMB-7476C/2020
+	* England/CAMB-7477B/2020
+	* England/CAMB-748D2/2020
+	* England/CAMB-748E1/2020
+	* England/CAMB-748F0/2020
+	* England/CAMB-7490C/2020
+	* England/CAMB-7491B/2020
+	* England/CAMB-7492A/2020
+	* England/CAMB-74984/2020
+	* England/CAMB-749A2/2020
+	* England/CAMB-74A09/2020
+	* England/CAMB-74A18/2020
+	* England/CAMB-74A72/2020
+	* England/CAMB-74ABE/2020
+	* England/CAMB-74B24/2020
+	* England/CAMB-74B33/2020
+	* England/CAMB-74B42/2020
+	* England/CAMB-74B51/2020
+	* England/CAMB-74B60/2020
+	* England/CAMB-74B9D/2020
+	* England/CAMB-74BAC/2020
+	* England/CAMB-74BBB/2020
+	* England/CAMB-74BCA/2020
+	* England/CAMB-74BF7/2020
+	* England/CAMB-74C03/2020
+	* England/CAMB-74C12/2020
+	* England/CAMB-74C21/2020
+	* England/CAMB-74C30/2020
+	* England/CAMB-74C4F/2020
+	* England/CAMB-74C5E/2020
+	* England/CAMB-74C8B/2020
+	* England/CAMB-74CA9/2020
+	* England/CAMB-74CC7/2020
+	* England/CAMB-74CD6/2020
+	* England/CAMB-74CF4/2020
+	* England/CAMB-74D00/2020
+	* England/CAMB-74D1F/2020
+	* England/CAMB-74D2E/2020
+	* England/CAMB-74D3D/2020
+	* England/CAMB-74D4C/2020
+	* England/CAMB-74D5B/2020
+	* England/CAMB-74D6A/2020
+	* England/CAMB-74DE2/2020
+	* England/CAMB-74DF1/2020
+	* England/CAMB-74E0D/2020
+	* England/CAMB-74E49/2020
+	* England/CAMB-74E58/2020
+	* England/CAMB-74E67/2020
+	* England/CAMB-74E76/2020
+	* England/CAMB-74E85/2020
+	* England/CAMB-74EA3/2020
+	* England/CAMB-74EB2/2020
+	* England/CAMB-74EC1/2020
+	* England/CAMB-7537E/2020
+	* England/CAMB-75419/2020
+	* England/CAMB-75437/2020
+	* England/CAMB-75455/2020
+	* England/CAMB-75464/2020
+	* England/CAMB-75473/2020
+	* England/CAMB-75482/2020
+	* England/CAMB-75491/2020
+	* England/CAMB-754A0/2020
+	* England/CAMB-754B7/2020
+	* England/CAMB-754CE/2020
+	* England/CAMB-754DD/2020
+	* England/CAMB-754EC/2020
+	* England/CAMB-754FB/2020
+	* England/CAMB-75507/2020
+	* England/CAMB-75516/2020
+	* England/CAMB-75525/2020
+	* England/CAMB-75534/2020
+	* England/CAMB-75543/2020
+	* England/CAMB-75552/2020
+	* England/CAMB-75570/2020
+	* England/CAMB-7559E/2020
+	* England/CAMB-755BC/2020
+	* England/CAMB-755CB/2020
+	* England/CAMB-755DA/2020
+	* England/CAMB-755E9/2020
+	* England/CAMB-755F8/2020
+	* England/CAMB-75604/2020
+	* England/CAMB-75613/2020
+	* England/CAMB-75622/2020
+	* England/CAMB-75631/2020
+	* England/CAMB-75640/2020
+	* England/CAMB-7565F/2020
+	* England/CAMB-7566E/2020
+	* England/CAMB-7567D/2020
+	* England/CAMB-7569B/2020
+	* England/CAMB-756AA/2020
+	* England/CAMB-76D1D/2020
+	* England/CAMB-76D3B/2020
+	* England/CAMB-76D59/2020
+	* England/CAMB-76D77/2020
+	* England/CAMB-76D95/2020
+	* England/CAMB-76DB3/2020
+	* England/CAMB-76DD1/2020
+	* England/CAMB-76DFF/2020
+	* England/CAMB-76E1A/2020
+	* England/CAMB-76E38/2020
+	* England/CAMB-76E56/2020
+	* England/CAMB-76E74/2020
+	* England/CAMB-76E92/2020
+	* England/CAMB-76EB0/2020
+	* England/CAMB-76EDE/2020
+	* England/CAMB-76EFC/2020
+	* England/CAMB-76F17/2020
+	* England/CAMB-76F35/2020
+	* England/CAMB-76F62/2020
+	* England/CAMB-76F71/2020
+	* England/CAMB-76F9F/2020
+	* England/CAMB-76FAE/2020
+	* England/CAMB-76FBD/2020
+	* England/CAMB-76FCC/2020
+	* England/CAMB-76FDB/2020
+	* England/CAMB-76FEA/2020
+	* England/CAMB-76FF9/2020
+	* England/CAMB-77004/2020
+	* England/CAMB-77013/2020
+	* England/CAMB-77022/2020
+	* England/CAMB-77031/2020
+	* England/CAMB-77040/2020
+	* England/CAMB-7705F/2020
+	* England/CAMB-7706E/2020
+	* England/CAMB-7707D/2020
+	* England/CAMB-7708C/2020
+	* England/CAMB-7709B/2020
+	* England/CAMB-770B9/2020
+	* England/CAMB-770C8/2020
 
 * Department of Virology III, National Institute of Infectious Diseases
 	* Japan/AI-I-004/2020
@@ -1476,8 +1903,30 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/VA-DCLS-0019/2020
 	* USA/VA-DCLS-0033/2020
 	* USA/VA-DCLS-0040/2020
+	* USA/VA-DCLS-0041/2020
 	* USA/VA-DCLS-0045/2020
 	* USA/VA-DCLS-0046/2020
+	* USA/VA-DCLS-0047/2020
+	* USA/VA-DCLS-0048/2020
+	* USA/VA-DCLS-0049/2020
+	* USA/VA-DCLS-0050/2020
+	* USA/VA-DCLS-0051/2020
+	* USA/VA-DCLS-0052/2020
+	* USA/VA-DCLS-0053/2020
+	* USA/VA-DCLS-0054/2020
+	* USA/VA-DCLS-0055/2020
+	* USA/VA-DCLS-0056/2020
+	* USA/VA-DCLS-0057/2020
+	* USA/VA-DCLS-0058/2020
+	* USA/VA-DCLS-0059/2020
+	* USA/VA-DCLS-0060/2020
+	* USA/VA-DCLS-0061/2020
+	* USA/VA-DCLS-0063/2020
+	* USA/VA-DCLS-0064/2020
+	* USA/VA-DCLS-0065/2020
+	* USA/VA-DCLS-0066/2020
+	* USA/VA-DCLS-0067/2020
+	* USA/VA-DCLS-0068/2020
 
 * Division of Consolidated Laboratories Services
 	* USA/VA-DCLS-0018/2020
@@ -1516,6 +1965,20 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Switzerland/1000477806/2020
 
 * Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention
+	* Korea/KCDC2001/2020
+	* Korea/KCDC2002/2020
+	* Korea/KCDC2003/2020
+	* Korea/KCDC2004/2020
+	* Korea/KCDC2005/2020
+	* Korea/KCDC2006/2020
+	* Korea/KCDC2007/2020
+	* Korea/KCDC2008/2020
+	* Korea/KCDC2009/2020
+	* Korea/KCDC2010/2020
+	* Korea/KCDC2011/2020
+	* Korea/KCDC2012/2020
+	* Korea/KCDC2013/2020
+	* Korea/KCDC2014/2020
 	* SouthKorea/KCDC05/2020
 	* SouthKorea/KCDC06/2020
 	* SouthKorea/KCDC07/2020
@@ -1530,52 +1993,343 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* NewZealand/CoV002/2020
 
 * Dutch COVID-19 response team
+	* Netherlands/Drente_1/2020
 	* Netherlands/Flevoland_1/2020
+	* Netherlands/Flevoland_2/2020
+	* Netherlands/Friesland_10/2020
+	* Netherlands/Friesland_2/2020
+	* Netherlands/Friesland_3/2020
+	* Netherlands/Friesland_4/2020
+	* Netherlands/Friesland_5/2020
+	* Netherlands/Friesland_6/2020
+	* Netherlands/Friesland_7/2020
+	* Netherlands/Friesland_9/2020
 	* Netherlands/Gelderland_1/2020
+	* Netherlands/Gelderland_10/2020
+	* Netherlands/Gelderland_11/2020
+	* Netherlands/Gelderland_12/2020
 	* Netherlands/Gelderland_2/2020
 	* Netherlands/Gelderland_3/2020
+	* Netherlands/Gelderland_5/2020
+	* Netherlands/Gelderland_6/2020
+	* Netherlands/Gelderland_7/2020
+	* Netherlands/Gelderland_8/2020
+	* Netherlands/Gelderland_9/2020
+	* Netherlands/Limburg_10/2020
 	* Netherlands/Limburg_2/2020
 	* Netherlands/Limburg_3/2020
 	* Netherlands/Limburg_4/2020
 	* Netherlands/Limburg_5/2020
 	* Netherlands/Limburg_6/2020
 	* Netherlands/Limburg_7/2020
+	* Netherlands/Limburg_8/2020
+	* Netherlands/Limburg_9/2020
 	* Netherlands/NA_1/2020
 	* Netherlands/NA_10/2020
+	* Netherlands/NA_100/2020
+	* Netherlands/NA_101/2020
+	* Netherlands/NA_102/2020
+	* Netherlands/NA_103/2020
+	* Netherlands/NA_104/2020
+	* Netherlands/NA_105/2020
+	* Netherlands/NA_106/2020
+	* Netherlands/NA_107/2020
+	* Netherlands/NA_109/2020
 	* Netherlands/NA_11/2020
+	* Netherlands/NA_110/2020
+	* Netherlands/NA_111/2020
+	* Netherlands/NA_112/2020
+	* Netherlands/NA_113/2020
+	* Netherlands/NA_114/2020
+	* Netherlands/NA_115/2020
+	* Netherlands/NA_117/2020
+	* Netherlands/NA_118/2020
+	* Netherlands/NA_119/2020
 	* Netherlands/NA_12/2020
+	* Netherlands/NA_120/2020
+	* Netherlands/NA_121/2020
+	* Netherlands/NA_122/2020
+	* Netherlands/NA_126/2020
+	* Netherlands/NA_127/2020
+	* Netherlands/NA_128/2020
+	* Netherlands/NA_129/2020
 	* Netherlands/NA_13/2020
+	* Netherlands/NA_130/2020
+	* Netherlands/NA_131/2020
+	* Netherlands/NA_132/2020
+	* Netherlands/NA_133/2020
+	* Netherlands/NA_134/2020
+	* Netherlands/NA_135/2020
+	* Netherlands/NA_136/2020
+	* Netherlands/NA_137/2020
+	* Netherlands/NA_138/2020
 	* Netherlands/NA_14/2020
+	* Netherlands/NA_141/2020
+	* Netherlands/NA_144/2020
+	* Netherlands/NA_145/2020
 	* Netherlands/NA_15/2020
+	* Netherlands/NA_150/2020
+	* Netherlands/NA_152/2020
+	* Netherlands/NA_153/2020
+	* Netherlands/NA_154/2020
+	* Netherlands/NA_155/2020
+	* Netherlands/NA_156/2020
+	* Netherlands/NA_157/2020
+	* Netherlands/NA_158/2020
+	* Netherlands/NA_159/2020
 	* Netherlands/NA_16/2020
+	* Netherlands/NA_160/2020
+	* Netherlands/NA_161/2020
+	* Netherlands/NA_162/2020
+	* Netherlands/NA_163/2020
+	* Netherlands/NA_164/2020
+	* Netherlands/NA_165/2020
+	* Netherlands/NA_166/2020
+	* Netherlands/NA_167/2020
+	* Netherlands/NA_168/2020
+	* Netherlands/NA_169/2020
 	* Netherlands/NA_17/2020
+	* Netherlands/NA_170/2020
+	* Netherlands/NA_171/2020
+	* Netherlands/NA_172/2020
+	* Netherlands/NA_173/2020
+	* Netherlands/NA_174/2020
+	* Netherlands/NA_175/2020
+	* Netherlands/NA_176/2020
+	* Netherlands/NA_177/2020
+	* Netherlands/NA_178/2020
+	* Netherlands/NA_179/2020
 	* Netherlands/NA_18/2020
+	* Netherlands/NA_180/2020
+	* Netherlands/NA_181/2020
+	* Netherlands/NA_182/2020
+	* Netherlands/NA_183/2020
+	* Netherlands/NA_184/2020
+	* Netherlands/NA_185/2020
+	* Netherlands/NA_186/2020
+	* Netherlands/NA_187/2020
+	* Netherlands/NA_188/2020
+	* Netherlands/NA_189/2020
 	* Netherlands/NA_19/2020
+	* Netherlands/NA_190/2020
+	* Netherlands/NA_191/2020
+	* Netherlands/NA_192/2020
+	* Netherlands/NA_193/2020
+	* Netherlands/NA_194/2020
+	* Netherlands/NA_195/2020
+	* Netherlands/NA_196/2020
+	* Netherlands/NA_197/2020
+	* Netherlands/NA_198/2020
+	* Netherlands/NA_199/2020
 	* Netherlands/NA_2/2020
 	* Netherlands/NA_20/2020
+	* Netherlands/NA_200/2020
+	* Netherlands/NA_201/2020
+	* Netherlands/NA_202/2020
+	* Netherlands/NA_203/2020
+	* Netherlands/NA_204/2020
+	* Netherlands/NA_205/2020
+	* Netherlands/NA_206/2020
+	* Netherlands/NA_207/2020
+	* Netherlands/NA_208/2020
+	* Netherlands/NA_209/2020
 	* Netherlands/NA_21/2020
+	* Netherlands/NA_210/2020
+	* Netherlands/NA_211/2020
+	* Netherlands/NA_212/2020
+	* Netherlands/NA_213/2020
+	* Netherlands/NA_214/2020
+	* Netherlands/NA_215/2020
+	* Netherlands/NA_216/2020
+	* Netherlands/NA_217/2020
+	* Netherlands/NA_218/2020
+	* Netherlands/NA_219/2020
 	* Netherlands/NA_22/2020
+	* Netherlands/NA_220/2020
+	* Netherlands/NA_221/2020
+	* Netherlands/NA_222/2020
+	* Netherlands/NA_223/2020
+	* Netherlands/NA_224/2020
+	* Netherlands/NA_225/2020
+	* Netherlands/NA_226/2020
+	* Netherlands/NA_227/2020
+	* Netherlands/NA_228/2020
+	* Netherlands/NA_229/2020
 	* Netherlands/NA_23/2020
+	* Netherlands/NA_230/2020
+	* Netherlands/NA_231/2020
+	* Netherlands/NA_233/2020
+	* Netherlands/NA_234/2020
+	* Netherlands/NA_235/2020
+	* Netherlands/NA_236/2020
+	* Netherlands/NA_237/2020
+	* Netherlands/NA_238/2020
+	* Netherlands/NA_239/2020
 	* Netherlands/NA_24/2020
+	* Netherlands/NA_240/2020
+	* Netherlands/NA_241/2020
+	* Netherlands/NA_242/2020
+	* Netherlands/NA_243/2020
+	* Netherlands/NA_244/2020
+	* Netherlands/NA_245/2020
+	* Netherlands/NA_246/2020
+	* Netherlands/NA_247/2020
+	* Netherlands/NA_248/2020
+	* Netherlands/NA_249/2020
 	* Netherlands/NA_25/2020
+	* Netherlands/NA_250/2020
+	* Netherlands/NA_251/2020
+	* Netherlands/NA_252/2020
+	* Netherlands/NA_253/2020
+	* Netherlands/NA_254/2020
+	* Netherlands/NA_255/2020
+	* Netherlands/NA_256/2020
+	* Netherlands/NA_257/2020
+	* Netherlands/NA_258/2020
+	* Netherlands/NA_259/2020
 	* Netherlands/NA_26/2020
+	* Netherlands/NA_260/2020
+	* Netherlands/NA_261/2020
+	* Netherlands/NA_262/2020
+	* Netherlands/NA_263/2020
+	* Netherlands/NA_264/2020
+	* Netherlands/NA_265/2020
+	* Netherlands/NA_266/2020
+	* Netherlands/NA_267/2020
+	* Netherlands/NA_268/2020
+	* Netherlands/NA_269/2020
 	* Netherlands/NA_27/2020
+	* Netherlands/NA_270/2020
+	* Netherlands/NA_271/2020
+	* Netherlands/NA_272/2020
+	* Netherlands/NA_273/2020
+	* Netherlands/NA_274/2020
+	* Netherlands/NA_275/2020
+	* Netherlands/NA_276/2020
+	* Netherlands/NA_277/2020
+	* Netherlands/NA_279/2020
 	* Netherlands/NA_28/2020
+	* Netherlands/NA_281/2020
+	* Netherlands/NA_282/2020
+	* Netherlands/NA_283/2020
+	* Netherlands/NA_284/2020
+	* Netherlands/NA_285/2020
+	* Netherlands/NA_286/2020
+	* Netherlands/NA_287/2020
+	* Netherlands/NA_288/2020
+	* Netherlands/NA_289/2020
 	* Netherlands/NA_29/2020
+	* Netherlands/NA_290/2020
+	* Netherlands/NA_291/2020
+	* Netherlands/NA_292/2020
+	* Netherlands/NA_293/2020
+	* Netherlands/NA_294/2020
+	* Netherlands/NA_295/2020
+	* Netherlands/NA_296/2020
+	* Netherlands/NA_297/2020
+	* Netherlands/NA_298/2020
+	* Netherlands/NA_299/2020
 	* Netherlands/NA_30/2020
+	* Netherlands/NA_300/2020
+	* Netherlands/NA_301/2020
+	* Netherlands/NA_302/2020
+	* Netherlands/NA_303/2020
+	* Netherlands/NA_304/2020
+	* Netherlands/NA_305/2020
+	* Netherlands/NA_306/2020
+	* Netherlands/NA_307/2020
+	* Netherlands/NA_308/2020
+	* Netherlands/NA_309/2020
 	* Netherlands/NA_31/2020
+	* Netherlands/NA_310/2020
+	* Netherlands/NA_311/2020
+	* Netherlands/NA_312/2020
+	* Netherlands/NA_313/2020
+	* Netherlands/NA_314/2020
+	* Netherlands/NA_315/2020
+	* Netherlands/NA_316/2020
+	* Netherlands/NA_317/2020
+	* Netherlands/NA_318/2020
 	* Netherlands/NA_32/2020
 	* Netherlands/NA_33/2020
 	* Netherlands/NA_34/2020
 	* Netherlands/NA_35/2020
+	* Netherlands/NA_36/2020
+	* Netherlands/NA_37/2020
+	* Netherlands/NA_38/2020
+	* Netherlands/NA_39/2020
 	* Netherlands/NA_4/2020
+	* Netherlands/NA_40/2020
+	* Netherlands/NA_41/2020
+	* Netherlands/NA_42/2020
+	* Netherlands/NA_43/2020
+	* Netherlands/NA_44/2020
+	* Netherlands/NA_45/2020
+	* Netherlands/NA_46/2020
+	* Netherlands/NA_47/2020
+	* Netherlands/NA_48/2020
+	* Netherlands/NA_49/2020
 	* Netherlands/NA_5/2020
+	* Netherlands/NA_50/2020
+	* Netherlands/NA_51/2020
+	* Netherlands/NA_52/2020
+	* Netherlands/NA_53/2020
+	* Netherlands/NA_54/2020
+	* Netherlands/NA_55/2020
+	* Netherlands/NA_56/2020
+	* Netherlands/NA_57/2020
+	* Netherlands/NA_58/2020
+	* Netherlands/NA_59/2020
 	* Netherlands/NA_6/2020
+	* Netherlands/NA_60/2020
+	* Netherlands/NA_61/2020
+	* Netherlands/NA_62/2020
+	* Netherlands/NA_63/2020
+	* Netherlands/NA_64/2020
+	* Netherlands/NA_65/2020
+	* Netherlands/NA_67/2020
+	* Netherlands/NA_68/2020
+	* Netherlands/NA_69/2020
 	* Netherlands/NA_7/2020
+	* Netherlands/NA_70/2020
+	* Netherlands/NA_71/2020
+	* Netherlands/NA_72/2020
+	* Netherlands/NA_73/2020
+	* Netherlands/NA_74/2020
+	* Netherlands/NA_75/2020
+	* Netherlands/NA_76/2020
+	* Netherlands/NA_77/2020
+	* Netherlands/NA_78/2020
+	* Netherlands/NA_79/2020
 	* Netherlands/NA_8/2020
+	* Netherlands/NA_80/2020
+	* Netherlands/NA_81/2020
+	* Netherlands/NA_82/2020
+	* Netherlands/NA_83/2020
+	* Netherlands/NA_84/2020
+	* Netherlands/NA_85/2020
+	* Netherlands/NA_86/2020
+	* Netherlands/NA_87/2020
+	* Netherlands/NA_88/2020
+	* Netherlands/NA_89/2020
 	* Netherlands/NA_9/2020
+	* Netherlands/NA_90/2020
+	* Netherlands/NA_91/2020
+	* Netherlands/NA_92/2020
+	* Netherlands/NA_93/2020
+	* Netherlands/NA_94/2020
+	* Netherlands/NA_95/2020
+	* Netherlands/NA_96/2020
+	* Netherlands/NA_97/2020
+	* Netherlands/NA_99/2020
 	* Netherlands/NoordBrabant_1/2020
 	* Netherlands/NoordBrabant_10/2020
+	* Netherlands/NoordBrabant_100/2020
+	* Netherlands/NoordBrabant_101/2020
+	* Netherlands/NoordBrabant_102/2020
+	* Netherlands/NoordBrabant_103/2020
+	* Netherlands/NoordBrabant_104/2020
+	* Netherlands/NoordBrabant_105/2020
 	* Netherlands/NoordBrabant_11/2020
 	* Netherlands/NoordBrabant_12/2020
 	* Netherlands/NoordBrabant_13/2020
@@ -1636,9 +2390,41 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Netherlands/NoordBrabant_66/2020
 	* Netherlands/NoordBrabant_67/2020
 	* Netherlands/NoordBrabant_68/2020
+	* Netherlands/NoordBrabant_69/2020
+	* Netherlands/NoordBrabant_70/2020
+	* Netherlands/NoordBrabant_71/2020
+	* Netherlands/NoordBrabant_72/2020
+	* Netherlands/NoordBrabant_73/2020
+	* Netherlands/NoordBrabant_74/2020
+	* Netherlands/NoordBrabant_75/2020
+	* Netherlands/NoordBrabant_76/2020
+	* Netherlands/NoordBrabant_77/2020
+	* Netherlands/NoordBrabant_79/2020
+	* Netherlands/NoordBrabant_80/2020
+	* Netherlands/NoordBrabant_81/2020
+	* Netherlands/NoordBrabant_82/2020
+	* Netherlands/NoordBrabant_83/2020
+	* Netherlands/NoordBrabant_85/2020
+	* Netherlands/NoordBrabant_86/2020
+	* Netherlands/NoordBrabant_87/2020
+	* Netherlands/NoordBrabant_88/2020
+	* Netherlands/NoordBrabant_89/2020
+	* Netherlands/NoordBrabant_90/2020
+	* Netherlands/NoordBrabant_91/2020
+	* Netherlands/NoordBrabant_92/2020
+	* Netherlands/NoordBrabant_93/2020
+	* Netherlands/NoordBrabant_94/2020
+	* Netherlands/NoordBrabant_95/2020
+	* Netherlands/NoordBrabant_96/2020
+	* Netherlands/NoordBrabant_97/2020
+	* Netherlands/NoordBrabant_98/2020
+	* Netherlands/NoordBrabant_99/2020
 	* Netherlands/NoordHolland_1/2020
 	* Netherlands/NoordHolland_2/2020
 	* Netherlands/NoordHolland_3/2020
+	* Netherlands/NoordHolland_31/2020
+	* Netherlands/NoordHolland_4/2020
+	* Netherlands/NoordHolland_5/2020
 	* Netherlands/Overijssel_1/2020
 	* Netherlands/Overijssel_2/2020
 	* Netherlands/Utrecht_1/2020
@@ -1653,6 +2439,10 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Netherlands/Utrecht_18/2020
 	* Netherlands/Utrecht_19/2020
 	* Netherlands/Utrecht_2/2020
+	* Netherlands/Utrecht_20/2020
+	* Netherlands/Utrecht_21/2020
+	* Netherlands/Utrecht_22/2020
+	* Netherlands/Utrecht_23/2020
 	* Netherlands/Utrecht_3/2020
 	* Netherlands/Utrecht_4/2020
 	* Netherlands/Utrecht_5/2020
@@ -1661,6 +2451,11 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Netherlands/Utrecht_8/2020
 	* Netherlands/ZuidHolland_1/2020
 	* Netherlands/ZuidHolland_10/2020
+	* Netherlands/ZuidHolland_100/2020
+	* Netherlands/ZuidHolland_101/2020
+	* Netherlands/ZuidHolland_102/2020
+	* Netherlands/ZuidHolland_103/2020
+	* Netherlands/ZuidHolland_104/2020
 	* Netherlands/ZuidHolland_11/2020
 	* Netherlands/ZuidHolland_13/2020
 	* Netherlands/ZuidHolland_14/2020
@@ -1682,13 +2477,85 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Netherlands/ZuidHolland_29/2020
 	* Netherlands/ZuidHolland_30/2020
 	* Netherlands/ZuidHolland_31/2020
+	* Netherlands/ZuidHolland_32/2020
+	* Netherlands/ZuidHolland_33/2020
+	* Netherlands/ZuidHolland_34/2020
+	* Netherlands/ZuidHolland_35/2020
+	* Netherlands/ZuidHolland_36/2020
+	* Netherlands/ZuidHolland_37/2020
+	* Netherlands/ZuidHolland_38/2020
+	* Netherlands/ZuidHolland_39/2020
+	* Netherlands/ZuidHolland_40/2020
+	* Netherlands/ZuidHolland_41/2020
+	* Netherlands/ZuidHolland_42/2020
+	* Netherlands/ZuidHolland_43/2020
+	* Netherlands/ZuidHolland_44/2020
+	* Netherlands/ZuidHolland_45/2020
+	* Netherlands/ZuidHolland_47/2020
+	* Netherlands/ZuidHolland_48/2020
 	* Netherlands/ZuidHolland_5/2020
+	* Netherlands/ZuidHolland_52/2020
+	* Netherlands/ZuidHolland_53/2020
+	* Netherlands/ZuidHolland_54/2020
+	* Netherlands/ZuidHolland_55/2020
+	* Netherlands/ZuidHolland_56/2020
+	* Netherlands/ZuidHolland_57/2020
+	* Netherlands/ZuidHolland_58/2020
+	* Netherlands/ZuidHolland_59/2020
 	* Netherlands/ZuidHolland_6/2020
+	* Netherlands/ZuidHolland_60/2020
+	* Netherlands/ZuidHolland_61/2020
+	* Netherlands/ZuidHolland_62/2020
+	* Netherlands/ZuidHolland_63/2020
+	* Netherlands/ZuidHolland_64/2020
+	* Netherlands/ZuidHolland_65/2020
+	* Netherlands/ZuidHolland_66/2020
+	* Netherlands/ZuidHolland_67/2020
+	* Netherlands/ZuidHolland_68/2020
+	* Netherlands/ZuidHolland_69/2020
 	* Netherlands/ZuidHolland_7/2020
+	* Netherlands/ZuidHolland_70/2020
+	* Netherlands/ZuidHolland_71/2020
+	* Netherlands/ZuidHolland_72/2020
+	* Netherlands/ZuidHolland_73/2020
+	* Netherlands/ZuidHolland_74/2020
+	* Netherlands/ZuidHolland_75/2020
+	* Netherlands/ZuidHolland_76/2020
+	* Netherlands/ZuidHolland_77/2020
+	* Netherlands/ZuidHolland_78/2020
+	* Netherlands/ZuidHolland_79/2020
 	* Netherlands/ZuidHolland_8/2020
+	* Netherlands/ZuidHolland_80/2020
+	* Netherlands/ZuidHolland_81/2020
+	* Netherlands/ZuidHolland_82/2020
+	* Netherlands/ZuidHolland_83/2020
+	* Netherlands/ZuidHolland_84/2020
+	* Netherlands/ZuidHolland_85/2020
+	* Netherlands/ZuidHolland_86/2020
+	* Netherlands/ZuidHolland_88/2020
+	* Netherlands/ZuidHolland_89/2020
 	* Netherlands/ZuidHolland_9/2020
+	* Netherlands/ZuidHolland_90/2020
+	* Netherlands/ZuidHolland_91/2020
+	* Netherlands/ZuidHolland_92/2020
+	* Netherlands/ZuidHolland_93/2020
+	* Netherlands/ZuidHolland_94/2020
+	* Netherlands/ZuidHolland_95/2020
+	* Netherlands/ZuidHolland_96/2020
+	* Netherlands/ZuidHolland_97/2020
+	* Netherlands/ZuidHolland_98/2020
+	* Netherlands/ZuidHolland_99/2020
 
 * E. Gulbja Laboratorija
+	* Latvia/0001/2020
+	* Latvia/0002/2020
+	* Latvia/0003/2020
+	* Latvia/0004/2020
+	* Latvia/0005/2020
+	* Latvia/0006/2020
+	* Latvia/0007/2020
+	* Latvia/0008/2020
+	* Latvia/0009/2020
 	* Latvia/ChVir2025/2020
 
 * EHPAD - Residences les Cedres
@@ -1698,12 +2565,21 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Netherlands/Nieuwendijk_1363582/2020
 	* Netherlands/Rotterdam_1363790/2020
 
+* FL Bur. of Public Health Laboratories-Jacksonville
+	* USA/FL_1177/2020
+	* USA/FL_9656/2020
+
 * FL Bureau of Health Laboratories Tampa
 	* USA/FL_6318/2020
+
+* FL Bureau of Public Health Laboratories-Miami
+	* USA/FL_9590/2020
+	* USA/FL_9655/2020
 
 * FL Bureau of Public Health Laboratories-Tampa
 	* USA/FL_5091/2020
 	* USA/FL_5125/2020
+	* USA/FL_7169/2020
 
 * FUNDACION JIMENEZ DIAZ
 	* Spain/Madrid201442/2020
@@ -1739,6 +2615,16 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/GA_1445/2020
 
 * GA Department of Public Health Laboratory
+	* USA/GA_1621/2020
+	* USA/GA_1847/2020
+	* USA/GA_2055/2020
+	* USA/GA_2070/2020
+	* USA/GA_2118/2020
+	* USA/GA_2120/2020
+	* USA/GA_2147/2020
+	* USA/GA_2185/2020
+	* USA/GA_2275/2020
+	* USA/GA_2343/2020
 	* USA/GA_2741/2020
 	* USA/GA_2742/2020
 
@@ -1841,9 +2727,18 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/WI-GMF-00018/2020
 	* USA/WI-GMF-00232/2020
 	* USA/WI-GMF-00237/2020
-	* USA/WI-GMF00281/2020
-	* USA/WI-GMF00441/2020
-	* USA/WI-GMF00466/2020
+	* USA/WI-GMF-00281/2020
+	* USA/WI-GMF-00384/2020
+	* USA/WI-GMF-00441/2020
+	* USA/WI-GMF-00466/2020
+	* USA/WI-GMF-00498/2020
+	* USA/WI-GMF-00557/2020
+	* USA/WI-GMF-00588/2020
+	* USA/WI-GMF-00707/2020
+	* USA/WI-GMF-00744/2020
+	* USA/WI-GMF-00921/2020
+	* USA/WI-GMF-00928/2020
+	* USA/WI-GMF-00986/2020
 
 * H Beatriz Angelo
 	* Portugal/PT0051/2020
@@ -1895,6 +2790,10 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Portugal/PT0087/2020
 	* Portugal/PT0089/2020
 	* Portugal/PT0092/2020
+
+* HI Dept. of Health, State Laboratories Division
+	* USA/HI_4970/2020
+	* USA/HI_7881/2020
 
 * HOSPITAL CLINIC
 	* Spain/Cataluna201396/2020
@@ -2026,6 +2925,9 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Switzerland/TI2045/2020
 	* Switzerland/VD0503/2020
 
+* Hospital General Regional No.66, Ciudad Juarez, Chihuahua.
+	* Mexico/Chihuahua-IMSS_01/2020
+
 * Hospital General y Universitario de Guadalajara
 	* Spain/CastillaLaMancha201328/2020
 	* Spain/CastillaLaMancha201329/2020
@@ -2102,18 +3004,38 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Norway/1539/2020
 	* Norway/1989/2020
 
+* IA State Hygienic Laboratory
+	* USA/IA_6390/2020
+	* USA/IA_6391/2020
+	* USA/IA_6394/2020
+	* USA/IA_6395/2020
+	* USA/IA_6396/2020
+	* USA/IA_6399/2020
+	* USA/IA_6401/2020
+
 * IL Department of Public Health Chicago Laboratory
 	* USA/IL1/2020
 	* USA/IL2/2020
+	* USA/IL_0087/2020
+	* USA/IL_0089/2020
+
+* IN State Department of Health Laboratory Services
+	* USA/IN_2001/2020
+	* USA/IN_72003/2020
+	* USA/IN_82003/2020
+	* USA/IN_92003/2020
 
 * INMI Lazzaro Spallanzani IRCCS
 	* Italy/INMI1-cs/2020
 	* Italy/INMI1-isl/2020
+	* Italy/INMI10/2020
 	* Italy/INMI3/2020
 	* Italy/INMI4/2020
 	* Italy/INMI5/2020
 	* Italy/INMI6/2020
 	* Italy/INMI7/2020
+	* Italy/INMI8/2020
+	* Italy/INMI9/2020
 
 * Illinois Department of Public Health Chicago Laboratory
 	* USA/IL_1293/2020
@@ -2225,6 +3147,11 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 * Institute information  KU Leuven, Clinical and Epidemiological Virology
 	* Belgium/JRH-030459/2020
 
+* Institute of Microbiology Universidad San Francisco de Quito
+	* Ecuador/HGSQ-USFQ-007/2020
+	* Ecuador/HGSQ-USFQ-010/2020
+	* Ecuador/HGSQ-USFQ-018/2020
+
 * Institute of Microbiology and Immunology, Faculty of Medicine, University of Ljubljana
 	* Slovenia/12304/2020
 	* Slovenia/4584/2020
@@ -2252,7 +3179,19 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Slovakia/SK-BMC5/2020
 	* Slovakia/SK-BMC6/2020
 
+* Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran
+	* Mexico/CDMX-INCMNSZ_01/2020
+	* Mexico/CDMX-INCMNSZ_02/2020
+	* Mexico/CDMX-INCMNSZ_03/2020
+	* Mexico/CDMX-INCMNSZ_04/2020
+	* Mexico/CDMX-INCMNSZ_05/2020
+
 * Instituto Nacional de Enfermedades Respiratorias
+	* Mexico/CDMX-INER_01/2020
+	* Mexico/CDMX-INER_02/2020
+	* Mexico/CDMX-INER_03/2020
+	* Mexico/CDMX-INER_04/2020
+	* Mexico/CDMX-INER_05/2020
 	* Mexico/CDMX-InDRE_01/2020
 
 * Instituto Nacional de Salud
@@ -2275,9 +3214,23 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Portugal/PT0095/2020
 	* Portugal/PT0096/2020
 
+* Instituto Sabin
+	* Brazil/DFBR-0001/2020
+
+* Instituto de Diagnostico y Referencia Epidemiologicos
+	* Mexico/CDMX-InDRE_06/2020
+	* Mexico/Chiapas-InDRE_02/2020
+
 * Ishikawa Prefectural Institute of Public Health and Environmental Science
 	* Japan/P3-1/2020
 	* Japan/P3-2/2020
+
+* JABER AL AHMAD AL SABAH HOSPITAL  KUWAIT CITY
+	* Kuwait/KU005/2020
+	* Kuwait/KU008/2020
+
+* Jaber Al Ahmad Al Sabah Hospital
+	* Kuwait/KU006/2020
 
 * Japanese Quarantine Stations
 	* Japan/DP0005/2020
@@ -2383,6 +3336,9 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 
 * Jingzhou Center for Disease Control and Prevention
 	* Jingzhou/HBCDC-HB-01/2020
+
+* KS Health and Environmental Laboratories
+	* USA/KS_4126/2020
 
 * KU Leuven, Clincal and Epidemiological Virology
 	* Belgium/BM-03012/2020
@@ -2575,6 +3531,9 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 * Klinik Hirslanden Zurich
 	* Switzerland/1000477757/2020
 
+* Klinisk mikrobiologi, Region Vasterbotten
+	* Sweden/RV-FOI-1/2020
+
 * Kochi Prefectural Institute of Public Health
 	* Japan/P1/2020
 
@@ -2584,6 +3543,9 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 * L'Air du Temps
 	* France/GE2720/2020
 	* France/GE2722/2020
+
+* LA Office of Public Health Laboratories
+	* USA/LA_0842/2020
 
 * LABM GH nord Essonne
 	* France/IDF2278/2020
@@ -2598,10 +3560,26 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Brazil/ES-225/2020
 
 * Lab voor klinische biologie
+	* Belgium/UGent-1/2020
+	* Belgium/UGent-10/2020
 	* Belgium/UGent-11/2020
 	* Belgium/UGent-12/2020
+	* Belgium/UGent-13/2020
+	* Belgium/UGent-15/2020
+	* Belgium/UGent-17/2020
+	* Belgium/UGent-18/2020
+	* Belgium/UGent-19/2020
+	* Belgium/UGent-2/2020
+	* Belgium/UGent-20/2020
+	* Belgium/UGent-21/2020
+	* Belgium/UGent-22/2020
+	* Belgium/UGent-24/2020
+	* Belgium/UGent-25/2020
+	* Belgium/UGent-3/2020
 	* Belgium/UGent-4/2020
 	* Belgium/UGent-6/2020
+	* Belgium/UGent-8/2020
+	* Belgium/UGent-9/2020
 
 * Labo BM - Site de Juvisy - Hopital General
 	* France/IDF3230/2020
@@ -2614,46 +3592,76 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 
 * Laboratoire National de Sante, Microbiology, Virology
 	* Luxembourg/LNS0000001/2020
+	* Luxembourg/LNS0074148/2020
 	* Luxembourg/LNS0156959/2020
+	* Luxembourg/LNS0272441/2020
 	* Luxembourg/LNS0366116/2020
 	* Luxembourg/LNS0591129/2020
 	* Luxembourg/LNS0641910/2020
 	* Luxembourg/LNS0716877/2020
 	* Luxembourg/LNS0756270/2020
+	* Luxembourg/LNS0814536/2020
+	* Luxembourg/LNS0819394/2020
+	* Luxembourg/LNS0877496/2020
 	* Luxembourg/LNS0945359/2020
 	* Luxembourg/LNS1234709/2020
+	* Luxembourg/LNS1586597/2020
 	* Luxembourg/LNS1612000/2020
+	* Luxembourg/LNS1644489/2020
 	* Luxembourg/LNS1870254/2020
 	* Luxembourg/LNS1874423/2020
 	* Luxembourg/LNS1909273/2020
 	* Luxembourg/LNS1918658/2020
 	* Luxembourg/LNS2151006/2020
 	* Luxembourg/LNS2247193/2020
+	* Luxembourg/LNS2299410/2020
+	* Luxembourg/LNS2334563/2020
+	* Luxembourg/LNS2458673/2020
 	* Luxembourg/LNS2614631/2020
 	* Luxembourg/LNS2886370/2020
 	* Luxembourg/LNS2907333/2020
+	* Luxembourg/LNS3035957/2020
+	* Luxembourg/LNS3052946/2020
 	* Luxembourg/LNS3089015/2020
 	* Luxembourg/LNS3156434/2020
+	* Luxembourg/LNS3307371/2020
+	* Luxembourg/LNS3404815/2020
 	* Luxembourg/LNS3588186/2020
 	* Luxembourg/LNS3711853/2020
+	* Luxembourg/LNS3770609/2020
 	* Luxembourg/LNS3879580/2020
 	* Luxembourg/LNS4134806/2020
+	* Luxembourg/LNS4235576/2020
+	* Luxembourg/LNS4569788/2020
 	* Luxembourg/LNS4691488/2020
 	* Luxembourg/LNS4836560/2020
 	* Luxembourg/LNS4845603/2020
 	* Luxembourg/LNS5032431/2020
 	* Luxembourg/LNS5228153/2020
 	* Luxembourg/LNS5440244/2020
+	* Luxembourg/LNS6500589/2020
 	* Luxembourg/LNS6603085/2020
+	* Luxembourg/LNS6689955/2020
+	* Luxembourg/LNS6897699/2020
+	* Luxembourg/LNS7007050/2020
+	* Luxembourg/LNS7074589/2020
 	* Luxembourg/LNS7537751/2020
+	* Luxembourg/LNS7687858/2020
 	* Luxembourg/LNS7753431/2020
 	* Luxembourg/LNS7866283/2020
+	* Luxembourg/LNS7914820/2020
 	* Luxembourg/LNS7928872/2020
+	* Luxembourg/LNS7970956/2020
+	* Luxembourg/LNS7991123/2020
+	* Luxembourg/LNS8124566/2020
 	* Luxembourg/LNS8188502/2020
+	* Luxembourg/LNS8602041/2020
 	* Luxembourg/LNS8639502/2020
+	* Luxembourg/LNS8746229/2020
 	* Luxembourg/LNS9080444/2020
 	* Luxembourg/LNS9086704/2020
 	* Luxembourg/LNS9324837/2020
+	* Luxembourg/LNS9510711/2020
 	* Luxembourg/LNS9512434/2020
 	* Luxembourg/LNS9627078/2020
 	* Luxembourg/LNS9652104/2020
@@ -2686,6 +3694,15 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 
 * Laboratorio Central de Saude Publica Professor Goncalo Moniz  LACEN/BA
 	* Brazil/BA-312/2020
+
+* Laboratorio Estatal de Salud Publica del Estado de Mexico
+	* Mexico/EdoMex-InDRE_03/2020
+
+* Laboratorio Estatal de Salud Publica del Estado de Puebla
+	* Mexico/Puebla-InDRE_05/2020
+
+* Laboratorio Estatal de Salud Publica del Estado de Queretaro
+	* Mexico/Queretaro-InDRE_04/2020
 
 * Laboratorio Hermes Pardini
 	* Brazil/GO0106/2020
@@ -2727,6 +3744,14 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Taiwan/CGMH-CGU-10/2020
 	* Taiwan/CGMH-CGU-11/2020
 	* Taiwan/CGMH-CGU-12/2020
+	* Taiwan/CGMH-CGU-13/2020
+	* Taiwan/CGMH-CGU-14/2020
+	* Taiwan/CGMH-CGU-15/2020
+	* Taiwan/CGMH-CGU-16/2020
+	* Taiwan/CGMH-CGU-17/2020
+	* Taiwan/CGMH-CGU-18/2020
+	* Taiwan/CGMH-CGU-19/2020
+	* Taiwan/CGMH-CGU-20/2020
 
 * Laboratory of Infectious Diseases, Department of Biomedical and Clinical Sciences L. Sacco, University of Milan
 	* Italy/UniMI01/2020
@@ -2737,6 +3762,16 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Greece/10/2020
 	* Greece/12/2020
 	* Greece/16/2020
+
+* Laboratory of Molecular Genetics, 2nd Faculty of Medicine, Charles University in Prague, Prague, Czech Republic
+	* CzechRepublic/2122/2020
+	* CzechRepublic/2282/2020
+	* CzechRepublic/2556/2020
+	* CzechRepublic/Seq3/2020
+	* CzechRepublic/Seq4/2020
+	* CzechRepublic/Seq5/2020
+	* CzechRepublic/Seq6/2020
+	* CzechRepublic/Seq7/2020
 
 * Laboratory of Molecular Virology International Center for Genetic Engineering and Biotechnology (ICGEB)
 	* Italy/FVG-ICGEB_S5/2020
@@ -2757,6 +3792,30 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 * Le Chateau de Seine-Port
 	* France/IDF3274/2020
 	* France/IDF3276/2020
+
+* MA State Public Health Laboratory
+	* USA/MA_0020/2020
+	* USA/MA_1355/2020
+	* USA/MA_2652/2020
+	* USA/MA_3614/2020
+	* USA/MA_3616/2020
+	* USA/MA_3623/2020
+	* USA/MA_3626/2020
+	* USA/MA_3642/2020
+	* USA/MA_3653/2020
+	* USA/MA_3672/2020
+	* USA/MA_3699/2020
+	* USA/MA_3878/2020
+	* USA/MA_4811/2020
+	* USA/MA_8932/2020
+	* USA/MA_8933/2020
+	* USA/MA_9703/2020
+	* USA/MA_9704/2020
+	* USA/MA_9889/2020
+
+* MD DOH Laboratories Administration
+	* USA/MD_0026/2020
+	* USA/MD_0027/2020
 
 * MHC Brabant Zuidoost
 	* Netherlands/Eindhoven_1363782/2020
@@ -2791,6 +3850,13 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 * MHC West-Brabant
 	* Netherlands/Andel_1365066/2020
 	* Netherlands/Helmond_1363548/2020
+
+* MN PHL Division, Minnesota Department of Health
+	* USA/MN_0100/2020
+	* USA/MN_0101/2020
+
+* MO State Public Health Laboratory
+	* USA/MO_4470/2020
 
 * MSHS Clinical Microbiology Laboratories
 	* USA/NJ-PV09072/2020
@@ -2897,16 +3963,19 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/NY-PV09041/2020
 	* USA/NY-PV09043/2020
 	* USA/NY-PV09044/2020
+	* USA/NY-PV09045/2020
 	* USA/NY-PV09046/2020
 	* USA/NY-PV09047/2020
 	* USA/NY-PV09050/2020
 	* USA/NY-PV09056/2020
+	* USA/NY-PV09057/2020
 	* USA/NY-PV09060/2020
 	* USA/NY-PV09061/2020
 	* USA/NY-PV09063/2020
 	* USA/NY-PV09064/2020
 	* USA/NY-PV09067/2020
 	* USA/NY-PV09068/2020
+	* USA/NY-PV09069/2020
 	* USA/NY-PV09071/2020
 	* USA/NY-PV09073/2020
 	* USA/NY-PV09075/2020
@@ -2924,6 +3993,78 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/NY-PV09099/2020
 	* USA/NY-PV09102/2020
 	* USA/NY-PV09103/2020
+	* USA/NY-PV09115/2020
+	* USA/NY-PV09116/2020
+	* USA/NY-PV09118/2020
+	* USA/NY-PV09119/2020
+	* USA/NY-PV09120/2020
+	* USA/NY-PV09121/2020
+	* USA/NY-PV09122/2020
+	* USA/NY-PV09123/2020
+	* USA/NY-PV09125/2020
+	* USA/NY-PV09126/2020
+	* USA/NY-PV09127/2020
+	* USA/NY-PV09128/2020
+	* USA/NY-PV09129/2020
+	* USA/NY-PV09130/2020
+	* USA/NY-PV09132/2020
+	* USA/NY-PV09134/2020
+	* USA/NY-PV09135/2020
+	* USA/NY-PV09137/2020
+	* USA/NY-PV09138/2020
+	* USA/NY-PV09139/2020
+	* USA/NY-PV09140/2020
+	* USA/NY-PV09141/2020
+	* USA/NY-PV09142/2020
+	* USA/NY-PV09143/2020
+	* USA/NY-PV09144/2020
+	* USA/NY-PV09145/2020
+	* USA/NY-PV09147/2020
+	* USA/NY-PV09149/2020
+	* USA/NY-PV09151/2020
+	* USA/NY-PV09152/2020
+	* USA/NY-PV09153/2020
+	* USA/NY-PV09154/2020
+	* USA/NY-PV09156/2020
+	* USA/NY-PV09157/2020
+	* USA/NY-PV09158/2020
+	* USA/NY-PV09161/2020
+	* USA/NY-PV09163/2020
+	* USA/NY-PV09164/2020
+	* USA/NY-PV09165/2020
+	* USA/NY-PV09168/2020
+	* USA/NY-PV09169/2020
+	* USA/NY-PV09170/2020
+	* USA/NY-PV09171/2020
+	* USA/NY-PV09172/2020
+	* USA/NY-PV09176/2020
+	* USA/NY-PV09177/2020
+	* USA/NY-PV09178/2020
+	* USA/NY-PV09179/2020
+	* USA/NY-PV09180/2020
+	* USA/NY-PV09181/2020
+	* USA/NY-PV09182/2020
+	* USA/NY-PV09183/2020
+	* USA/NY-PV09186/2020
+	* USA/NY-PV09187/2020
+	* USA/NY-PV09188/2020
+	* USA/NY-PV09189/2020
+	* USA/NY-PV09190/2020
+	* USA/NY-PV09192/2020
+	* USA/NY-PV09193/2020
+	* USA/NY-PV09194/2020
+	* USA/NY-PV09195/2020
+	* USA/NY-PV09197/2020
+	* USA/NY-PV09198/2020
+	* USA/NY-PV09199/2020
+	* USA/NY-PV09200/2020
+	* USA/NY-PV09301/2020
+	* USA/NY-PV09303/2020
+	* USA/NY-PV09304/2020
+	* USA/NY-PV09305/2020
+	* USA/NY-PV09307/2020
+	* USA/NY-PV09308/2020
+	* USA/NY-PV09309/2020
 	* USA/NY1-PV08001/2020
 	* USA/NY2-PV08100/2020
 
@@ -2951,6 +4092,21 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Germany/BAV-V2012620/2020
 	* Germany/BAV-V2012622/2020
 	* Germany/BAV-V2012856/2020
+
+* Microbial Genomics Laboratory, Institut Pasteur Monteivdeo
+	* Uruguay/UY-8/2020
+
+* Microbial Genomics Laboratory, Institut Pasteur Montevideo
+	* Uruguay/UY-1/2020
+	* Uruguay/UY-2/2020
+	* Uruguay/UY-3/2020
+	* Uruguay/UY-4/2020
+	* Uruguay/UY-5/2020
+
+* Microbial Genomics Laboratory, Institut Pasteur Montevideo, Uruguay
+	* Uruguay/UY-6-2/2020
+	* Uruguay/UY-6/2020
+	* Uruguay/UY-9/2020
 
 * Microbiological Diagnostic Unit Public Health Laboratory
 	* Australia/VIC107/2020
@@ -2998,12 +4154,66 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Australia/VIC324/2020
 	* Australia/VIC325/2020
 	* Australia/VIC326/2020
+	* Australia/VIC390/2020
+	* Australia/VIC473/2020
+	* Australia/VIC475/2020
+	* Australia/VIC476/2020
+	* Australia/VIC477/2020
+	* Australia/VIC478/2020
+	* Australia/VIC479/2020
+	* Australia/VIC481/2020
+	* Australia/VIC482/2020
+	* Australia/VIC483/2020
+	* Australia/VIC484/2020
+	* Australia/VIC485/2020
+	* Australia/VIC486/2020
+	* Australia/VIC487/2020
+	* Australia/VIC488/2020
+	* Australia/VIC489/2020
+	* Australia/VIC490/2020
+	* Australia/VIC491/2020
+	* Australia/VIC779/2020
+	* Australia/VIC780/2020
+	* Australia/VIC781/2020
+	* Australia/VIC782/2020
+	* Australia/VIC783/2020
+	* Australia/VIC784/2020
+	* Australia/VIC785/2020
+	* Australia/VIC786/2020
+	* Australia/VIC787/2020
+	* Australia/VIC788/2020
+	* Australia/VIC789/2020
+	* Australia/VIC790/2020
+	* Australia/VIC791/2020
+	* Australia/VIC792/2020
+	* Australia/VIC793/2020
+	* Australia/VIC794/2020
+	* Australia/VIC796/2020
+	* Australia/VIC797/2020
+	* Australia/VIC798/2020
+	* Australia/VIC799/2020
+	* Australia/VIC800/2020
+	* Australia/VIC801/2020
+	* Australia/VIC802/2020
+	* Australia/VIC803/2020
+	* Australia/VIC804/2020
+	* Australia/VIC878/2020
 
 * Ministry of Health Turkey
 	* Turkey/6224-Ankara1034/2020
 
 * Minnesota Department of Health, Public Health Laboratory
 	* USA/MN1-MDH1/2020
+	* USA/MN124-MDH124/2020
+	* USA/MN128-MDH128/2020
+	* USA/MN129-MDH129/2020
+	* USA/MN130-MDH130/2020
+	* USA/MN131-MDH131/2020
+	* USA/MN132-MDH132/2020
+	* USA/MN133-MDH133/2020
+	* USA/MN134-MDH134/2020
+	* USA/MN135-MDH135/2020
+	* USA/MN136-MDH136/2020
 	* USA/MN2-MDH2/2020
 	* USA/MN25-MDH25/2020
 	* USA/MN26-MDH26/2020
@@ -3055,12 +4265,47 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* SouthAfrica/KRISP_0011/2020
 	* SouthAfrica/KRISP_0012/2020
 
+* Molecular Diagnostic Services and FLowpath
+	* SouthAfrica/KRISP_0002/2020
+
 * Monash Medical Centre
 	* Australia/VIC01/2020
+
+* Motol University Hospital
+	* CzechRepublic/IAB20-006-16/2020
+	* CzechRepublic/IAB_1/2020
+	* CzechRepublic/IAB_10/2020
+	* CzechRepublic/IAB_12/2020
+	* CzechRepublic/IAB_14/2020
+	* CzechRepublic/IAB_15/2020
+	* CzechRepublic/IAB_16/2020
+	* CzechRepublic/IAB_17/2020
+	* CzechRepublic/IAB_18/2020
+	* CzechRepublic/IAB_20/2020
+	* CzechRepublic/IAB_21/2020
+	* CzechRepublic/IAB_22/2020
+	* CzechRepublic/IAB_23/2020
+	* CzechRepublic/IAB_4/2020
+	* CzechRepublic/IAB_8/2020
+	* CzechRepublic/IAB_9/2020
+
+* NC State Laboratory of Public Health
+	* USA/NC_0024/2020
+	* USA/NC_0025/2020
+	* USA/NC_0031/2020
+	* USA/NC_6999/2020
+
+* NE Public Health Laboratory
+	* USA/NE_6605/2020
+	* USA/NE_7025/2020
 
 * NH Department of Health and Human Services Public Health Labs
 	* USA/NH_0004/2020
 	* USA/NH_0008/2020
+
+* NH Dept. of Health and Human Services Public Health Labs
+	* USA/NH_0029/2020
+	* USA/NH_0033/2020
 
 * NHC Key laboratory of Enteric Pathogenic Microbiology, Institute of Pathogenic Microbiology
 	* Jiangsu/JS01/2020
@@ -3072,25 +4317,125 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Algeria/G0640_2265/2020
 	* Algeria/G0860_2262/2020
 
+* NJ Public Health and Environmental Laboratories
+	* USA/NJ_3201/2020
+	* USA/NJ_3592/2020
+
+* NMIMR, Department of Virology
+	* Ghana/1513_S1/2020
+	* Ghana/1565_S13/2020
+	* Ghana/1622_S2/2020
+	* Ghana/1651_S3/2020
+	* Ghana/1659_S14/2020
+	* Ghana/2230_S4/2020
+	* Ghana/2333_S5/2020
+	* Ghana/2828_S6/2020
+	* Ghana/2850_S15/2020
+	* Ghana/2853_S7/2020
+	* Ghana/2914_S8/2020
+	* Ghana/2944_S9/2020
+	* Ghana/2986_S10/2020
+	* Ghana/3176_S11/2020
+	* Ghana/3177_S12/2020
+
 * NRL for Influenza, Centrum Epidemiology and Microbiology of National Institute of Public Health, Czech Republic
 	* CzechRepublic/ChVir1630/2020
 	* CzechRepublic/ChVir1912/2020
 
+* NV State Public Health Laboratory
+	* USA/NV_0016/2020
+
+* NV-Southern Nevada Public Health Laboratory
+	* USA/NV_0052/2020
+
 * NYC Department of Health and Mental Hygiene
+	* USA/NY_1922/2020
 	* USA/NY_2929/2020
 
 * NYU Langone Health
+	* USA/NJ-NYUMC106/2020
+	* USA/NJ-NYUMC111/2020
 	* USA/NJ-NYUMC83/2020
 	* USA/NJ-NYUMC84/2020
 	* USA/NY-NYUMC1/2020
 	* USA/NY-NYUMC10/2020
+	* USA/NY-NYUMC100/2020
+	* USA/NY-NYUMC101/2020
+	* USA/NY-NYUMC102/2020
+	* USA/NY-NYUMC103/2020
+	* USA/NY-NYUMC104/2020
+	* USA/NY-NYUMC105/2020
+	* USA/NY-NYUMC107/2020
+	* USA/NY-NYUMC108/2020
+	* USA/NY-NYUMC109/2020
 	* USA/NY-NYUMC11/2020
+	* USA/NY-NYUMC110/2020
+	* USA/NY-NYUMC112/2020
+	* USA/NY-NYUMC113/2020
+	* USA/NY-NYUMC114/2020
+	* USA/NY-NYUMC115/2020
+	* USA/NY-NYUMC116/2020
+	* USA/NY-NYUMC117/2020
+	* USA/NY-NYUMC118/2020
+	* USA/NY-NYUMC119/2020
 	* USA/NY-NYUMC12/2020
+	* USA/NY-NYUMC120/2020
+	* USA/NY-NYUMC121/2020
+	* USA/NY-NYUMC122/2020
+	* USA/NY-NYUMC123/2020
+	* USA/NY-NYUMC124/2020
+	* USA/NY-NYUMC125/2020
+	* USA/NY-NYUMC126/2020
+	* USA/NY-NYUMC127/2020
+	* USA/NY-NYUMC128/2020
+	* USA/NY-NYUMC129/2020
 	* USA/NY-NYUMC13/2020
+	* USA/NY-NYUMC130/2020
+	* USA/NY-NYUMC131/2020
+	* USA/NY-NYUMC132/2020
+	* USA/NY-NYUMC133/2020
+	* USA/NY-NYUMC134/2020
+	* USA/NY-NYUMC135/2020
+	* USA/NY-NYUMC136/2020
+	* USA/NY-NYUMC137/2020
+	* USA/NY-NYUMC138/2020
+	* USA/NY-NYUMC139/2020
 	* USA/NY-NYUMC14/2020
+	* USA/NY-NYUMC140/2020
+	* USA/NY-NYUMC141/2020
+	* USA/NY-NYUMC142/2020
+	* USA/NY-NYUMC143/2020
+	* USA/NY-NYUMC144/2020
+	* USA/NY-NYUMC145/2020
+	* USA/NY-NYUMC146/2020
+	* USA/NY-NYUMC147/2020
+	* USA/NY-NYUMC148/2020
+	* USA/NY-NYUMC149/2020
 	* USA/NY-NYUMC15/2020
+	* USA/NY-NYUMC150/2020
+	* USA/NY-NYUMC151/2020
+	* USA/NY-NYUMC152/2020
+	* USA/NY-NYUMC153/2020
+	* USA/NY-NYUMC154/2020
+	* USA/NY-NYUMC155/2020
+	* USA/NY-NYUMC156/2020
+	* USA/NY-NYUMC157/2020
+	* USA/NY-NYUMC158/2020
+	* USA/NY-NYUMC159/2020
 	* USA/NY-NYUMC16/2020
+	* USA/NY-NYUMC160/2020
+	* USA/NY-NYUMC161/2020
+	* USA/NY-NYUMC162/2020
+	* USA/NY-NYUMC163/2020
+	* USA/NY-NYUMC164/2020
+	* USA/NY-NYUMC165/2020
+	* USA/NY-NYUMC166/2020
+	* USA/NY-NYUMC167/2020
+	* USA/NY-NYUMC168/2020
+	* USA/NY-NYUMC169/2020
 	* USA/NY-NYUMC17/2020
+	* USA/NY-NYUMC170/2020
+	* USA/NY-NYUMC171/2020
 	* USA/NY-NYUMC18/2020
 	* USA/NY-NYUMC19/2020
 	* USA/NY-NYUMC2/2020
@@ -3171,6 +4516,14 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/NY-NYUMC9/2020
 	* USA/NY-NYUMC90/2020
 	* USA/NY-NYUMC91/2020
+	* USA/NY-NYUMC92/2020
+	* USA/NY-NYUMC93/2020
+	* USA/NY-NYUMC94/2020
+	* USA/NY-NYUMC95/2020
+	* USA/NY-NYUMC96/2020
+	* USA/NY-NYUMC97/2020
+	* USA/NY-NYUMC98/2020
+	* USA/NY-NYUMC99/2020
 
 * National Centre for Infectious Diseases
 	* Singapore/12/2020
@@ -3203,12 +4556,29 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Vietnam/VR03-38142/2020
 
 * National Influenza Center, Indian Council of Medical Research - National Institute of Virology
+	* India/1063/2020
+	* India/1073/2020
+	* India/1093/2020
+	* India/1100/2020
+	* India/1104/2020
+	* India/1111/2020
+	* India/1115/2020
+	* India/1125/2020
+	* India/1135/2020
+	* India/1616/2020
+	* India/1617/2020
+	* India/1621/2020
+	* India/1644/2020
+	* India/1652/2020
+	* India/3118/2020
+	* India/3239/2020
 	* India/763/2020
 	* India/770/2020
 	* India/772/2020
 	* India/773/2020
 	* India/777/2020
 	* India/781/2020
+	* India/c31/2020
 	* India/c32/2020
 
 * National Influenza Center, National Institute of Hygiene and Epidemiology (NIHE)
@@ -3258,7 +4628,15 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Singapore/19/2020
 	* Singapore/20/2020
 	* Singapore/21/2020
+	* Singapore/35/2020
+	* Singapore/36/2020
+	* Singapore/37/2020
+	* Singapore/38/2020
+	* Singapore/39/2020
 	* Singapore/3Clin/2020
+	* Singapore/40/2020
+	* Singapore/41/2020
+	* Singapore/42/2020
 	* Singapore/7/2020
 	* Singapore/8/2020
 	* Singapore/9/2020
@@ -3269,8 +4647,17 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 * Nordland Hospital - Bodo,  Laboratory Department, Molecular Biology Unit
 	* Norway/2087/2020
 
+* OH Department of Health Laboratory
+	* USA/OH_0019/2020
+	* USA/OH_0020/2020
+	* USA/OH_0023/2020
+
 * OR State PHL-Virology/Immunology Section
 	* USA/OR_2656/2020
+
+* Ochsner Health
+	* USA/LA-096/2020
+	* USA/LA-097/2020
 
 * Oregon State Public Health- Virology section
 	* USA/OR_5430/2020
@@ -3309,6 +4696,17 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 
 * Ostfold Hospital Trust -Kalnes Centre for Laboratory Medicine Section for gene technology and infection serology
 	* Norway/2052/2020
+
+* PA Department of Health, Bureau of Laboratories
+	* USA/PA_1802/2020
+	* USA/PA_1881/2020
+	* USA/PA_2317/2020
+	* USA/PA_2734/2020
+	* USA/PA_2735/2020
+	* USA/PA_2887/2020
+	* USA/PA_2937/2020
+	* USA/PA_4395/2020
+	* USA/PA_4405/2020
 
 * Parc des Dames
 	* France/IDF2412/2020
@@ -3351,6 +4749,9 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 
 * Public Health Laboratory, Saudi CDC
 	* SaudiArabia/SCDC-3324/2020
+
+* Public Health Ontario
+	* Canada/ON-VIDO-01/2020
 
 * Public Health Ontario Laboratories
 	* Canada/ON_PHL0052/2020
@@ -3419,10 +4820,195 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 
 * Public Health Ontario Laboratory
 	* Canada/ON-PHL2445/2020
-	* Canada/ON-VIDO-01/2020
 
 * Queen Elizabeth II Health Science Centre
 	* Canada/NS_13/2020
+
+* Queens Medical Centre, Clinical Microbiology Department / DeepSeq Nottingham
+	* England/NOTT-10DEAE/2020
+	* England/NOTT-10DEBD/2020
+	* England/NOTT-10DECC/2020
+	* England/NOTT-10DEDB/2020
+	* England/NOTT-10DEEA/2020
+	* England/NOTT-10DEF9/2020
+	* England/NOTT-10DF05/2020
+	* England/NOTT-10DF14/2020
+	* England/NOTT-10DF23/2020
+	* England/NOTT-10DF32/2020
+	* England/NOTT-10DF41/2020
+	* England/NOTT-10DF50/2020
+	* England/NOTT-10DF6F/2020
+	* England/NOTT-10DF7E/2020
+	* England/NOTT-10DF9C/2020
+	* England/NOTT-10DFAB/2020
+	* England/NOTT-10DFBA/2020
+	* England/NOTT-10DFC9/2020
+	* England/NOTT-10DFD8/2020
+	* England/NOTT-10DFE7/2020
+	* England/NOTT-10DFF6/2020
+	* England/NOTT-10E001/2020
+	* England/NOTT-10E010/2020
+	* England/NOTT-10E02F/2020
+	* England/NOTT-10E03E/2020
+	* England/NOTT-10E04D/2020
+	* England/NOTT-10E05C/2020
+	* England/NOTT-10E06B/2020
+	* England/NOTT-10E07A/2020
+	* England/NOTT-10E089/2020
+	* England/NOTT-10E098/2020
+	* England/NOTT-10E0A7/2020
+	* England/NOTT-10E0B6/2020
+	* England/NOTT-10E0C5/2020
+	* England/NOTT-10E0D4/2020
+	* England/NOTT-10E0E3/2020
+	* England/NOTT-10E0F2/2020
+	* England/NOTT-10E10E/2020
+	* England/NOTT-10E11D/2020
+	* England/NOTT-10E12C/2020
+	* England/NOTT-10E14A/2020
+	* England/NOTT-10E159/2020
+	* England/NOTT-10E186/2020
+	* England/NOTT-10E195/2020
+	* England/NOTT-10E1A4/2020
+	* England/NOTT-10E1B3/2020
+	* England/NOTT-10E1C2/2020
+	* England/NOTT-10E1D1/2020
+	* England/NOTT-10E1E0/2020
+	* England/NOTT-10E1FF/2020
+	* England/NOTT-10E20B/2020
+	* England/NOTT-10E21A/2020
+	* England/NOTT-10E229/2020
+	* England/NOTT-10E238/2020
+	* England/NOTT-10E247/2020
+	* England/NOTT-10E256/2020
+	* England/NOTT-10E265/2020
+	* England/NOTT-10E283/2020
+	* England/NOTT-10E292/2020
+	* England/NOTT-10E2A1/2020
+	* England/NOTT-10E2B0/2020
+	* England/NOTT-10E2CF/2020
+	* England/NOTT-10E2DE/2020
+	* England/NOTT-10E2ED/2020
+	* England/NOTT-10E2FC/2020
+	* England/NOTT-10E308/2020
+	* England/NOTT-10E317/2020
+	* England/NOTT-10E326/2020
+	* England/NOTT-10E335/2020
+	* England/NOTT-10E344/2020
+	* England/NOTT-10E362/2020
+	* England/NOTT-10E371/2020
+	* England/NOTT-10E380/2020
+	* England/NOTT-10E39F/2020
+	* England/NOTT-10E3AE/2020
+	* England/NOTT-10E3BD/2020
+	* England/NOTT-10E3CC/2020
+	* England/NOTT-10E3DB/2020
+	* England/NOTT-10E3EA/2020
+	* England/NOTT-10E3F9/2020
+	* England/NOTT-10E405/2020
+	* England/NOTT-10E414/2020
+	* England/NOTT-10E423/2020
+	* England/NOTT-10E432/2020
+	* England/NOTT-10E441/2020
+	* England/NOTT-10E450/2020
+	* England/NOTT-10E46F/2020
+	* England/NOTT-10E47E/2020
+	* England/NOTT-10E48D/2020
+	* England/NOTT-10E49C/2020
+	* England/NOTT-10E4AB/2020
+	* England/NOTT-10E4BA/2020
+	* England/NOTT-10E4C9/2020
+	* England/NOTT-10E4D8/2020
+	* England/NOTT-10E4F6/2020
+	* England/NOTT-10E502/2020
+	* England/NOTT-10E511/2020
+	* England/NOTT-10E520/2020
+	* England/NOTT-10E54E/2020
+	* England/NOTT-10E55D/2020
+	* England/NOTT-10E57B/2020
+	* England/NOTT-10E58A/2020
+	* England/NOTT-10E599/2020
+	* England/NOTT-10E5A8/2020
+	* England/NOTT-10E5B7/2020
+	* England/NOTT-10E5C6/2020
+	* England/NOTT-10E5D5/2020
+	* England/NOTT-10E5E4/2020
+	* England/NOTT-10E5F3/2020
+	* England/NOTT-10E61E/2020
+	* England/NOTT-10E63C/2020
+	* England/NOTT-10E64B/2020
+	* England/NOTT-10E65A/2020
+	* England/NOTT-10E669/2020
+	* England/NOTT-10E678/2020
+	* England/NOTT-10E696/2020
+	* England/NOTT-10E6A5/2020
+	* England/NOTT-10E6B4/2020
+	* England/NOTT-10E6C3/2020
+	* England/NOTT-10E6D2/2020
+	* England/NOTT-10E70C/2020
+	* England/NOTT-10E71B/2020
+	* England/NOTT-10E72A/2020
+	* England/NOTT-10E739/2020
+	* England/NOTT-10E748/2020
+	* England/NOTT-10E757/2020
+	* England/NOTT-10E766/2020
+	* England/NOTT-10E775/2020
+	* England/NOTT-10E784/2020
+	* England/NOTT-10E793/2020
+	* England/NOTT-10E7A2/2020
+	* England/NOTT-10E7DF/2020
+	* England/NOTT-10E7EE/2020
+	* England/NOTT-10E7FD/2020
+	* England/NOTT-10E809/2020
+	* England/NOTT-10E818/2020
+	* England/NOTT-10E827/2020
+	* England/NOTT-10E836/2020
+	* England/NOTT-10E845/2020
+	* England/NOTT-10E854/2020
+	* England/NOTT-10E872/2020
+	* England/NOTT-10E881/2020
+	* England/NOTT-10E890/2020
+	* England/NOTT-10E8AF/2020
+	* England/NOTT-10E8BE/2020
+	* England/NOTT-10E8CD/2020
+	* England/NOTT-10E8DC/2020
+	* England/NOTT-10E8EB/2020
+	* England/NOTT-10E8FA/2020
+	* England/NOTT-10E915/2020
+	* England/NOTT-10E924/2020
+	* England/NOTT-10E933/2020
+	* England/NOTT-10E942/2020
+	* England/NOTT-10E951/2020
+	* England/NOTT-10E960/2020
+	* England/NOTT-10E97F/2020
+	* England/NOTT-10E99D/2020
+	* England/NOTT-10E9AC/2020
+	* England/NOTT-10E9BB/2020
+	* England/NOTT-10E9CA/2020
+	* England/NOTT-10E9D9/2020
+	* England/NOTT-10E9E8/2020
+	* England/NOTT-10E9F7/2020
+	* England/NOTT-10EA03/2020
+	* England/NOTT-10EA21/2020
+	* England/NOTT-10EA30/2020
+	* England/NOTT-10EA4F/2020
+	* England/NOTT-10EA5E/2020
+	* England/NOTT-10EA6D/2020
+	* England/NOTT-10EA7C/2020
+	* England/NOTT-10EA8B/2020
+	* England/NOTT-10EA9A/2020
+	* England/NOTT-10EAA9/2020
+	* England/NOTT-10EAB8/2020
+	* England/NOTT-10EAC7/2020
+	* England/NOTT-10EAD6/2020
+	* England/NOTT-10EAE5/2020
+	* England/NOTT-10EAF4/2020
+	* England/NOTT-10EB1F/2020
+	* England/NOTT-10EB2E/2020
+	* England/NOTT-10EB3D/2020
+	* England/NOTT-10EB6A/2020
+	* England/NOTT-10EB79/2020
+	* England/NOTT-10EB88/2020
 
 * R. G. Lugar Center for Public Health Research,  National Center for Disease Control and Public Health (NCDC) of Georgia.
 	* Georgia/Tb-273/2020
@@ -3438,6 +5024,8 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 
 * RI State Health Laboratories
 	* USA/RI_0520/2020
+	* USA/RI_0702/2020
+	* USA/RI_0882/2020
 
 * RI State Health Laboratory
 	* USA/RI_0556/2020
@@ -3448,6 +5036,13 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Netherlands/Loon_op_zand_1363512/2020
 	* Netherlands/Oss_1363500/2020
 	* NetherlandsL/Houten_1363498/2020
+
+* Ramathibodi Hospital
+	* Thailand/Bangkok-CONI-0017/2020
+	* Thailand/Bangkok-CONI-0019/2020
+	* Thailand/Bangkok-CONI-0020/2020
+	* Thailand/Bangkok-CONI-0021/2020
+	* Thailand/Bangkok-CONI-0022/2020
 
 * Regional Virus Laboratory, Belfast
 	* NorthernIreland/HSCNI01/2020
@@ -3592,6 +5187,7 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* England/20109094206/2020
 	* England/20109094506/2020
 	* England/20109097506/2020
+	* England/20109097703/2020
 	* England/20109097906/2020
 	* England/20109098806/2020
 	* England/20109098906/2020
@@ -3659,8 +5255,11 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* England/20124020402/2020
 	* England/20124020802/2020
 	* England/20124021002/2020
+	* England/20124021106/2020
 	* England/20124021402/2020
 	* England/20124022802/2020
+	* England/20124028706/2020
+	* England/20124029006/2020
 	* England/20124029802/2020
 	* England/20124030003/2020
 	* England/20124030802/2020
@@ -3673,6 +5272,7 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* England/20124035802/2020
 	* England/20124036002/2020
 	* England/20124036202/2020
+	* England/20124036306/2020
 	* England/20124036902/2020
 	* England/20124037102/2020
 	* England/20124037302/2020
@@ -3680,6 +5280,7 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* England/20124048202/2020
 	* England/20124049402/2020
 	* England/20124086902/2020
+	* England/20124094506/2020
 	* England/20124094702/2020
 	* England/20124094902/2020
 	* England/20124095002/2020
@@ -3697,10 +5298,31 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* England/20124101102/2020
 	* England/20124101202/2020
 	* England/20124101302/2020
+	* England/20126000104/2020
+	* England/20126000304/2020
+	* England/20126000404/2020
+	* England/20126000604/2020
+	* England/20126001204/2020
+	* England/20126001404/2020
+	* England/20126001604/2020
+	* England/20126001704/2020
+	* England/20126001904/2020
+	* England/20126002004/2020
+	* England/20126002104/2020
+	* England/20126002304/2020
+	* England/20126002404/2020
+	* England/20126002504/2020
+	* England/20126002604/2020
+	* England/20126002704/2020
+	* England/20126002904/2020
+	* England/20126003006/2020
 	* England/20126003302/2020
+	* England/20126003406/2020
+	* England/20126003706/2020
 	* England/20126003802/2020
 	* England/20126003902/2020
 	* England/20126004502/2020
+	* England/20126006006/2020
 	* England/20126006402/2020
 	* England/20126006502/2020
 	* England/20126006702/2020
@@ -3708,26 +5330,97 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* England/20126007002/2020
 	* England/20126007102/2020
 	* England/20126007202/2020
+	* England/20126008004/2020
+	* England/20126008506/2020
+	* England/20126008606/2020
 	* England/20126008702/2020
+	* England/20126009204/2020
+	* England/20126009304/2020
+	* England/20126009404/2020
+	* England/20126009504/2020
+	* England/20126009804/2020
+	* England/20126010004/2020
 	* England/20126011202/2020
+	* England/20126011506/2020
+	* England/20126012206/2020
 	* England/20126012302/2020
+	* England/20126012506/2020
+	* England/20126012604/2020
 	* England/20126012702/2020
 	* England/20126025202/2020
+	* England/20126025304/2020
 	* England/20126025902/2020
 	* England/20126026202/2020
+	* England/20126026506/2020
+	* England/20126027006/2020
+	* England/20126027106/2020
+	* England/20126028406/2020
 	* England/20126032802/2020
 	* England/20126033202/2020
+	* England/20126033404/2020
 	* England/20126034302/2020
 	* England/20126034602/2020
+	* England/20126035106/2020
 	* England/20126035502/2020
+	* England/20126035604/2020
+	* England/20126035904/2020
 	* England/20126036002/2020
 	* England/20126036102/2020
+	* England/20126036204/2020
 	* England/20126045602/2020
 	* England/20126046602/2020
 	* England/20126063003/2020
+	* England/20126063104/2020
 	* England/20126063203/2020
+	* England/20126095704/2020
 	* England/20126096502/2020
 	* England/20126096602/2020
+	* England/20126097204/2020
+	* England/20126097804/2020
+	* England/20126100404/2020
+	* England/20126101104/2020
+	* England/20126102104/2020
+	* England/20126102404/2020
+	* England/20126103304/2020
+	* England/20126103404/2020
+	* England/20126103604/2020
+	* England/20126104304/2020
+	* England/20126104404/2020
+	* England/20126104604/2020
+	* England/20128000204/2020
+	* England/20128000604/2020
+	* England/20128001206/2020
+	* England/20128001604/2020
+	* England/20128001806/2020
+	* England/20128002004/2020
+	* England/20128002204/2020
+	* England/20128003004/2020
+	* England/20128003104/2020
+	* England/20128003506/2020
+	* England/20128003904/2020
+	* England/20128009404/2020
+	* England/20128010006/2020
+	* England/20128010104/2020
+	* England/20128011006/2020
+	* England/20128011204/2020
+	* England/20128011804/2020
+	* England/20128012404/2020
+	* England/20128012704/2020
+	* England/20128013406/2020
+	* England/20128014204/2020
+	* England/20128014404/2020
+	* England/20128014506/2020
+	* England/20128014806/2020
+	* England/20128015004/2020
+	* England/20128015104/2020
+	* England/20128015604/2020
+	* England/20128015704/2020
+	* England/20128015906/2020
+	* England/20128017504/2020
+	* England/20128018704/2020
+	* England/20128018804/2020
+	* England/20128031204/2020
+	* England/20128031604/2020
 	* England/20128031902/2020
 	* England/20128032802/2020
 	* England/20128033202/2020
@@ -3738,18 +5431,233 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* England/20128034302/2020
 	* England/20128034402/2020
 	* England/20128035202/2020
+	* England/20128035406/2020
+	* England/20128036004/2020
+	* England/20128036304/2020
+	* England/20128036904/2020
+	* England/20128037306/2020
+	* England/20128037406/2020
+	* England/20128037504/2020
+	* England/20128037804/2020
+	* England/20128038304/2020
+	* England/20128039104/2020
+	* England/20128040804/2020
+	* England/20128041504/2020
+	* England/20128041604/2020
 	* England/20128046202/2020
 	* England/20128046302/2020
 	* England/20128065802/2020
 	* England/20128084702/2020
 	* England/20128085102/2020
+	* England/20128085204/2020
+	* England/20128090404/2020
+	* England/20128090604/2020
 	* England/20128090902/2020
+	* England/20128094604/2020
+	* England/20128094804/2020
+	* England/20128094904/2020
+	* England/20128095504/2020
+	* England/20129000104/2020
+	* England/20129000304/2020
+	* England/20129000404/2020
+	* England/20129001304/2020
+	* England/20129001404/2020
+	* England/20129002004/2020
+	* England/20129002304/2020
+	* England/201290032/2020
 	* England/20129006802/2020
 	* England/20129008002/2020
+	* England/20129009304/2020
+	* England/20129010104/2020
+	* England/20129010204/2020
+	* England/20129010402/2020
+	* England/20129010504/2020
+	* England/20129010604/2020
+	* England/20129010704/2020
+	* England/20129010804/2020
+	* England/20129010902/2020
+	* England/20129011104/2020
+	* England/20129011204/2020
+	* England/20129012304/2020
+	* England/20129012704/2020
+	* England/20129013104/2020
 	* England/20129013302/2020
+	* England/20129014104/2020
+	* England/20129014204/2020
+	* England/20129014802/2020
+	* England/20129015004/2020
+	* England/20129015102/2020
+	* England/20129015404/2020
+	* England/20129015704/2020
+	* England/20129016004/2020
+	* England/20129016104/2020
+	* England/20129016404/2020
+	* England/20129017104/2020
+	* England/20129017304/2020
+	* England/20129017804/2020
+	* England/20129018604/2020
+	* England/20129018904/2020
+	* England/20129019604/2020
+	* England/20129020004/2020
+	* England/20129020304/2020
+	* England/20129020504/2020
+	* England/20129020604/2020
+	* England/20129021604/2020
+	* England/20129022804/2020
+	* England/20129023104/2020
+	* England/20129023904/2020
+	* England/20129025404/2020
+	* England/20129025506/2020
+	* England/20129031804/2020
+	* England/20129032104/2020
+	* England/20129032404/2020
+	* England/20129032804/2020
+	* England/20129033504/2020
+	* England/20129033804/2020
+	* England/20129033904/2020
+	* England/20129034504/2020
+	* England/20129034704/2020
+	* England/20129035304/2020
+	* England/20129035404/2020
+	* England/20129035504/2020
+	* England/20129035804/2020
+	* England/20129036004/2020
+	* England/20129036204/2020
+	* England/20129036404/2020
+	* England/20129036504/2020
+	* England/20129036804/2020
+	* England/20129037204/2020
+	* England/20129037304/2020
+	* England/20129037802/2020
+	* England/20129038304/2020
+	* England/20129038404/2020
+	* England/20129038804/2020
 	* England/20129039902/2020
 	* England/20129040102/2020
 	* England/20129040602/2020
+	* England/20129042204/2020
+	* England/20129042504/2020
+	* England/20129042806/2020
+	* England/20129042904/2020
+	* England/20129044404/2020
+	* England/20129044506/2020
+	* England/20129047706/2020
+	* England/20129050802/2020
+	* England/20129054906/2020
+	* England/20129056804/2020
+	* England/20129057604/2020
+	* England/20129059204/2020
+	* England/20129059304/2020
+	* England/20129061004/2020
+	* England/20129061704/2020
+	* England/20129062104/2020
+	* England/20129062604/2020
+	* England/20129063504/2020
+	* England/20129063604/2020
+	* England/20129063804/2020
+	* England/20129064904/2020
+	* England/20129066504/2020
+	* England/20129071104/2020
+	* England/20129071204/2020
+	* England/20129077404/2020
+	* England/20129078704/2020
+	* England/20129079904/2020
+	* England/20129080204/2020
+	* England/20129080804/2020
+	* England/20129080904/2020
+	* England/20129081504/2020
+	* England/20129082504/2020
+	* England/20129083204/2020
+	* England/20129085704/2020
+	* England/20129088704/2020
+	* England/20129089504/2020
+	* England/20129089602/2020
+	* England/20129091804/2020
+	* England/20129096504/2020
+	* England/20129096604/2020
+	* England/20129096704/2020
+	* England/20129096804/2020
+	* England/20129099504/2020
+	* England/20129099704/2020
+	* England/20129099904/2020
+	* England/20129100204/2020
+	* England/20129105304/2020
+	* England/20129105404/2020
+	* England/20129106504/2020
+	* England/20129108104/2020
+	* England/20129109104/2020
+	* England/20129109504/2020
+	* England/20129111704/2020
+	* England/20129111904/2020
+	* England/20129114604/2020
+	* England/20129114704/2020
+	* England/20129122404/2020
+	* England/20129125504/2020
+	* England/20129126204/2020
+	* England/20129127704/2020
+	* England/20129128904/2020
+	* England/20129133804/2020
+	* England/20129133904/2020
+	* England/20129141702/2020
+	* England/20129142004/2020
+	* England/20129142604/2020
+	* England/20129143004/2020
+	* England/20129143204/2020
+	* England/20129145002/2020
+	* England/20129145202/2020
+	* England/20129146302/2020
+	* England/20129147002/2020
+	* England/20129147504/2020
+	* England/20129147804/2020
+	* England/20129148904/2020
+	* England/20129154104/2020
+	* England/20129158804/2020
+	* England/20129159604/2020
+	* England/20129160704/2020
+	* England/20129161104/2020
+	* England/20129161204/2020
+	* England/20129163104/2020
+	* England/20129163304/2020
+	* England/20129163604/2020
+	* England/20129164904/2020
+	* England/20129166204/2020
+	* England/20129167204/2020
+	* England/20129167302/2020
+	* England/20129168902/2020
+	* England/20129169904/2020
+	* England/20129170204/2020
+	* England/20129170304/2020
+	* England/20129171204/2020
+	* England/20129171304/2020
+	* England/20129171402/2020
+	* England/20129171404/2020
+	* England/20129171504/2020
+	* England/20129171604/2020
+	* England/20129171804/2020
+	* England/20129171904/2020
+	* England/20129172402/2020
+	* England/20129173004/2020
+	* England/20129173704/2020
+	* England/20129173804/2020
+	* England/20129174204/2020
+	* England/20129174304/2020
+	* England/20129174404/2020
+	* England/20129174604/2020
+	* England/20129174704/2020
+	* England/20129174804/2020
+	* England/20129175104/2020
+	* England/20129176002/2020
+	* England/20129176004/2020
+	* England/20129176104/2020
+	* England/20129176204/2020
+	* England/20129176304/2020
+	* England/20129176804/2020
+	* England/20129177304/2020
+	* England/20129177404/2020
+	* England/20129177504/2020
+	* England/20129177604/2020
+	* England/20129177704/2020
+	* England/20129178204/2020
 	* England/20130000102/2020
 	* England/20130023803/2020
 	* England/20130024003/2020
@@ -3757,11 +5665,201 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* England/20130027103/2020
 	* England/20130028102/2020
 	* England/20130028203/2020
+	* England/20130028904/2020
+	* England/20130031804/2020
+	* England/20130031904/2020
+	* England/20130032204/2020
+	* England/20130032604/2020
+	* England/20130033104/2020
+	* England/20130033304/2020
+	* England/20130033404/2020
+	* England/20130033604/2020
+	* England/20130033704/2020
+	* England/20130034004/2020
+	* England/20130034204/2020
+	* England/20130034304/2020
+	* England/20130034404/2020
+	* England/20130034604/2020
+	* England/20130034804/2020
+	* England/20130034904/2020
+	* England/20130035104/2020
+	* England/20130035204/2020
+	* England/20130035804/2020
+	* England/20130036004/2020
+	* England/20130036304/2020
+	* England/20130036404/2020
+	* England/20130036504/2020
+	* England/20130036704/2020
+	* England/20130049604/2020
+	* England/20130049704/2020
+	* England/20130049804/2020
+	* England/20130050804/2020
+	* England/20130050904/2020
+	* England/20130051004/2020
+	* England/20130051104/2020
+	* England/20130051604/2020
+	* England/20130051704/2020
+	* England/20130052004/2020
+	* England/20130052204/2020
+	* England/20130052604/2020
+	* England/20130052704/2020
+	* England/20130052804/2020
+	* England/20130052904/2020
+	* England/20130053004/2020
+	* England/20130053404/2020
+	* England/20130054504/2020
+	* England/20130054704/2020
 	* England/20130054802/2020
 	* England/20130055502/2020
 	* England/20130055602/2020
 	* England/20130056303/2020
+	* England/20130061304/2020
+	* England/20130061404/2020
+	* England/20130061504/2020
+	* England/20130061604/2020
+	* England/20130062404/2020
+	* England/20130062504/2020
+	* England/20130062904/2020
+	* England/20130063204/2020
+	* England/20130063304/2020
+	* England/20130063604/2020
+	* England/20130063804/2020
+	* England/20130064004/2020
+	* England/20130064104/2020
+	* England/20130064304/2020
+	* England/20130064704/2020
+	* England/20130064804/2020
+	* England/20130065304/2020
+	* England/20130065604/2020
+	* England/20130069504/2020
+	* England/20130069704/2020
+	* England/20130070904/2020
+	* England/20130071404/2020
+	* England/20130071504/2020
+	* England/20130071704/2020
+	* England/20130071804/2020
+	* England/20130071904/2020
+	* England/20130072104/2020
+	* England/20130072204/2020
+	* England/20130072404/2020
+	* England/20130073304/2020
+	* England/20130073404/2020
+	* England/20130073704/2020
+	* England/201300860/2020
+	* England/20130086204/2020
+	* England/20130086304/2020
+	* England/20130087004/2020
+	* England/20130087204/2020
+	* England/20130087904/2020
+	* England/20130088804/2020
+	* England/20130090204/2020
+	* England/20130092004/2020
+	* England/20130092104/2020
+	* England/20130092204/2020
+	* England/20130092304/2020
+	* England/20130092404/2020
+	* England/20130092504/2020
+	* England/201300935/2020
+	* England/20130093704/2020
+	* England/20131101204/2020
+	* England/20131102704/2020
+	* England/20131102804/2020
+	* England/20131102904/2020
+	* England/20131103004/2020
+	* England/20131103104/2020
+	* England/20131103204/2020
+	* England/20131103304/2020
+	* England/20131103404/2020
+	* England/20131103904/2020
+	* England/20131104204/2020
+	* England/20131104304/2020
+	* England/20131104704/2020
+	* England/20131104804/2020
+	* England/20132000204/2020
+	* England/20132000304/2020
+	* England/20132000804/2020
+	* England/20132000904/2020
+	* England/20132001104/2020
+	* England/20132001704/2020
+	* England/20132001904/2020
+	* England/20132002004/2020
+	* England/20132002204/2020
+	* England/20132002304/2020
+	* England/20132002604/2020
+	* England/20132003004/2020
+	* England/20132003204/2020
+	* England/20132003304/2020
+	* England/20132004204/2020
+	* England/20132004504/2020
+	* England/20132004704/2020
+	* England/20132004804/2020
+	* England/20132004904/2020
+	* England/20132005104/2020
+	* England/20132005204/2020
+	* England/20132005304/2020
+	* England/20132005404/2020
+	* England/20132005704/2020
+	* England/20132005804/2020
+	* England/20132005904/2020
+	* England/20132017104/2020
+	* England/20132017604/2020
+	* England/20132017704/2020
+	* England/20132017804/2020
+	* England/20132017904/2020
+	* England/20132018004/2020
+	* England/20132018604/2020
+	* England/20132018704/2020
+	* England/20132018804/2020
+	* England/20132018904/2020
+	* England/20132019404/2020
+	* England/20132020004/2020
 	* England/20132020106/2020
+	* England/20132020204/2020
+	* England/20132020404/2020
+	* England/20132020804/2020
+	* England/20132021004/2020
+	* England/20132021104/2020
+	* England/20132021204/2020
+	* England/20132022204/2020
+	* England/20132022304/2020
+	* England/20132022404/2020
+	* England/20132023004/2020
+	* England/20132023104/2020
+	* England/20132023204/2020
+	* England/20132023304/2020
+	* England/20132023604/2020
+	* England/20132023704/2020
+	* England/20132023904/2020
+	* England/20132024004/2020
+	* England/20132024104/2020
+	* England/20132024204/2020
+	* England/20132024504/2020
+	* England/20132024604/2020
+	* England/20132024904/2020
+	* England/20132025004/2020
+	* England/20132026904/2020
+	* England/20132027004/2020
+	* England/20132027204/2020
+	* England/20132027404/2020
+	* England/20132027504/2020
+	* England/20132027704/2020
+	* England/20132031104/2020
+	* England/20132031304/2020
+	* England/20132031404/2020
+	* England/201320316/2020
+	* England/20132032504/2020
+	* England/20132032604/2020
+	* England/20132032704/2020
+	* England/20132032804/2020
+	* England/20132032904/2020
+	* England/20132035304/2020
+	* England/20132035604/2020
+	* England/20132035704/2020
+	* England/20132035904/2020
+	* England/20132036004/2020
+	* England/20132047204/2020
+	* England/20132047304/2020
+	* England/20132047404/2020
 	* England/20132048102/2020
 	* England/20132048802/2020
 	* England/20132049202/2020
@@ -3771,21 +5869,331 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* England/20132052902/2020
 	* England/20132053202/2020
 	* England/20132053902/2020
+	* England/20132054404/2020
+	* England/20132054504/2020
+	* England/20132054604/2020
+	* England/20132054704/2020
+	* England/20132066204/2020
+	* England/20132066304/2020
+	* England/20132066404/2020
+	* England/20132066804/2020
+	* England/20132066904/2020
+	* England/20132067304/2020
+	* England/20132067404/2020
+	* England/20132067704/2020
+	* England/20132068204/2020
+	* England/20132068304/2020
+	* England/20132069004/2020
+	* England/20132069104/2020
 	* England/20132072203/2020
 	* England/20132072602/2020
 	* England/20132072802/2020
 	* England/20132073702/2020
 	* England/20132074102/2020
 	* England/20132074202/2020
+	* England/20132079104/2020
+	* England/20132079204/2020
+	* England/20132079304/2020
+	* England/20132080004/2020
+	* England/20132080104/2020
+	* England/20132080404/2020
+	* England/20132080504/2020
+	* England/20132080604/2020
+	* England/20132080804/2020
+	* England/20132081104/2020
+	* England/20132081304/2020
+	* England/20132081404/2020
+	* England/20132081804/2020
+	* England/20132082004/2020
+	* England/20132082104/2020
+	* England/20132082204/2020
+	* England/20132082404/2020
+	* England/20132082504/2020
 	* England/20132087602/2020
+	* England/20132090404/2020
+	* England/20132090504/2020
+	* England/20132090604/2020
+	* England/20132091404/2020
+	* England/20132091504/2020
+	* England/20132091704/2020
+	* England/20132091804/2020
+	* England/20132091904/2020
+	* England/20132092004/2020
+	* England/20132092204/2020
+	* England/20132095704/2020
+	* England/20132096004/2020
+	* England/20132096304/2020
+	* England/20132098804/2020
+	* England/20132099304/2020
+	* England/20132100204/2020
+	* England/20132100404/2020
+	* England/20132100704/2020
+	* England/20132103604/2020
+	* England/20132104104/2020
+	* England/20132104404/2020
+	* England/20132105704/2020
+	* England/20132106004/2020
+	* England/20132106104/2020
+	* England/20132106704/2020
+	* England/20132106804/2020
+	* England/20132107304/2020
+	* England/20132107704/2020
+	* England/20132107904/2020
+	* England/20132108004/2020
+	* England/20132108104/2020
+	* England/20132108204/2020
+	* England/20132108404/2020
+	* England/20132108504/2020
+	* England/20132108704/2020
+	* England/20134000704/2020
+	* England/20134000804/2020
+	* England/20134000904/2020
+	* England/20134001104/2020
+	* England/20134001304/2020
+	* England/20134001504/2020
+	* England/20134001704/2020
+	* England/20134001804/2020
+	* England/20134001904/2020
+	* England/20134002104/2020
+	* England/20134002904/2020
+	* England/20134003004/2020
+	* England/20134003104/2020
+	* England/20134003204/2020
+	* England/20134003304/2020
+	* England/20134003404/2020
+	* England/20134004104/2020
+	* England/20134004204/2020
+	* England/20134004304/2020
+	* England/20134004704/2020
+	* England/20134004804/2020
+	* England/20134004904/2020
+	* England/20134005004/2020
+	* England/20134005104/2020
+	* England/20134005304/2020
+	* England/20134006404/2020
+	* England/20134006504/2020
+	* England/20134006604/2020
+	* England/20134006704/2020
+	* England/20134007004/2020
+	* England/20134007104/2020
+	* England/20134007204/2020
+	* England/20134009504/2020
+	* England/20134009604/2020
 	* England/20134010002/2020
+	* England/20134010904/2020
+	* England/20134011704/2020
+	* England/201340119/2020
+	* England/201340120/2020
+	* England/20134012404/2020
+	* England/20134012504/2020
+	* England/201340127/2020
+	* England/20134015504/2020
+	* England/20134015704/2020
+	* England/20134015902/2020
 	* England/20134016002/2020
+	* England/20134016404/2020
+	* England/20134016504/2020
+	* England/20134016604/2020
+	* England/20134016802/2020
+	* England/20134016902/2020
+	* England/20134017104/2020
+	* England/20134017404/2020
+	* England/20134017504/2020
+	* England/20134017904/2020
+	* England/20134018004/2020
+	* England/20134018402/2020
+	* England/20134018602/2020
+	* England/20134018902/2020
+	* England/20134019102/2020
+	* England/20134019202/2020
+	* England/20134019304/2020
+	* England/20134019402/2020
+	* England/20134019502/2020
+	* England/20134019804/2020
+	* England/20134019904/2020
+	* England/20134020004/2020
+	* England/20134020104/2020
+	* England/20134020504/2020
+	* England/20134020904/2020
+	* England/20134021004/2020
+	* England/20134021104/2020
+	* England/20134021504/2020
+	* England/20134021604/2020
+	* England/20134021704/2020
+	* England/20134021804/2020
+	* England/20134021904/2020
+	* England/20134022104/2020
+	* England/20134022204/2020
+	* England/20134023004/2020
+	* England/20134023104/2020
+	* England/20134023204/2020
+	* England/20134023704/2020
+	* England/20134024004/2020
+	* England/20134024104/2020
+	* England/20134024204/2020
+	* England/20134024504/2020
+	* England/20134025204/2020
+	* England/20134025504/2020
+	* England/20134025704/2020
+	* England/20134025904/2020
+	* England/20134026804/2020
+	* England/20134026904/2020
+	* England/20134027304/2020
+	* England/20134027504/2020
+	* England/20134027604/2020
+	* England/20134027904/2020
+	* England/20134028004/2020
+	* England/20134028104/2020
+	* England/20134028204/2020
 	* England/20134040703/2020
 	* England/20134040803/2020
+	* England/20134047404/2020
+	* England/20134047504/2020
 	* England/20134058202/2020
+	* England/20134059604/2020
+	* England/20134059704/2020
+	* England/20134060304/2020
+	* England/20134060504/2020
+	* England/20134060804/2020
+	* England/20134060904/2020
+	* England/20134064004/2020
+	* England/20134064204/2020
+	* England/20134064904/2020
+	* England/20134065804/2020
+	* England/20134067304/2020
+	* England/20134067604/2020
+	* England/20134067904/2020
+	* England/20134068504/2020
+	* England/20134068604/2020
+	* England/20134068704/2020
+	* England/20134068904/2020
+	* England/20134069004/2020
+	* England/20134071504/2020
+	* England/20134071804/2020
+	* England/20134072104/2020
+	* England/20134072204/2020
+	* England/20134072604/2020
+	* England/20134072704/2020
+	* England/20134073904/2020
+	* England/20134077404/2020
+	* England/20134077504/2020
+	* England/20134077904/2020
+	* England/20134078004/2020
+	* England/20134078204/2020
+	* England/20134078404/2020
+	* England/20134078604/2020
+	* England/20134078804/2020
+	* England/20134078904/2020
+	* England/20134079504/2020
+	* England/20134079704/2020
+	* England/20134079804/2020
 	* England/20134081702/2020
+	* England/20134081904/2020
+	* England/20134082004/2020
+	* England/20134082104/2020
+	* England/20134082204/2020
+	* England/20134082304/2020
+	* England/20134082504/2020
+	* England/20134083104/2020
+	* England/201340854/2020
+	* England/201340855/2020
+	* England/201340856/2020
+	* England/201340857/2020
+	* England/201340860/2020
+	* England/201340875/2020
+	* England/201360001/2020
+	* England/201360003/2020
+	* England/201360015/2020
+	* England/201360016/2020
+	* England/201360017/2020
+	* England/201360018/2020
+	* England/201360037/2020
+	* England/201360047/2020
+	* England/201360049/2020
+	* England/201360051/2020
+	* England/201360052/2020
+	* England/201360053/2020
+	* England/201360055/2020
+	* England/201360057/2020
 	* England/20136006402/2020
+	* England/201360066/2020
+	* England/201360067/2020
+	* England/201360069/2020
+	* England/201360071/2020
+	* England/201360075/2020
+	* England/20136008004/2020
+	* England/201360111/2020
+	* England/201360117/2020
+	* England/201360119/2020
+	* England/20136012004/2020
+	* England/201360121/2020
+	* England/201360122/2020
+	* England/201360126/2020
+	* England/201360127/2020
+	* England/201360129/2020
+	* England/201360130/2020
+	* England/201360131/2020
+	* England/201360134/2020
+	* England/201360136/2020
+	* England/201360137/2020
+	* England/201360139/2020
+	* England/20136014104/2020
+	* England/201360143/2020
 	* England/20136015502/2020
+	* England/201360170/2020
+	* England/201360171/2020
+	* England/201360175/2020
+	* England/201360176/2020
+	* England/201360178/2020
+	* England/201360181/2020
+	* England/201360184/2020
+	* England/201360185/2020
+	* England/201360187/2020
+	* England/201360188/2020
+	* England/201360190/2020
+	* England/201360191/2020
+	* England/201360198/2020
+	* England/201360200/2020
+	* England/201360201/2020
+	* England/201360202/2020
+	* England/201360203/2020
+	* England/201360206/2020
+	* England/201360210/2020
+	* England/201360211/2020
+	* England/201360213/2020
+	* England/201360214/2020
+	* England/201360215/2020
+	* England/201360216/2020
+	* England/201360217/2020
+	* England/201360218/2020
+	* England/201360220/2020
+	* England/201360221/2020
+	* England/201360222/2020
+	* England/201360223/2020
+	* England/201360224/2020
+	* England/201360229/2020
+	* England/201360236/2020
+	* England/201360246/2020
+	* England/201360249/2020
+	* England/201360251/2020
+	* England/201360275/2020
+	* England/201360276/2020
+	* England/201360277/2020
+	* England/201360281/2020
+	* England/201360289/2020
+	* England/201360295/2020
+	* England/201360296/2020
+	* England/201360297/2020
+	* England/201360298/2020
+	* England/201360299/2020
+	* England/201360300/2020
+	* England/201360317/2020
+	* England/201360318/2020
+	* England/201360492/2020
+	* England/201360499/2020
+	* England/201360506/2020
+	* England/201360508/2020
+	* England/201360538/2020
 	* England/20136085404/2020
 	* England/20136087004/2020
 	* England/20136087304/2020
@@ -3809,23 +6217,247 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* England/20136097704/2020
 	* England/20136097804/2020
 	* England/20136097904/2020
+	* England/20136100204/2020
+	* England/201361007/2020
+	* England/201361008/2020
+	* England/201361009/2020
+	* England/201361012/2020
+	* England/201361013/2020
+	* England/201361021/2020
+	* England/201361022/2020
+	* England/201361040/2020
+	* England/201361041/2020
+	* England/201380001/2020
+	* England/201380024/2020
+	* England/201380025/2020
+	* England/201380028/2020
+	* England/201380030/2020
+	* England/201380034/2020
+	* England/201380035/2020
+	* England/201380036/2020
+	* England/201380037/2020
+	* England/201380040/2020
+	* England/201380041/2020
+	* England/201380042/2020
+	* England/201380044/2020
+	* England/20138004804/2020
+	* England/201380049/2020
+	* England/201380050/2020
+	* England/201380051/2020
+	* England/201380054/2020
+	* England/201380055/2020
+	* England/201380056/2020
+	* England/201380057/2020
+	* England/201380061/2020
+	* England/201380062/2020
+	* England/201380063/2020
+	* England/201380064/2020
+	* England/201380069/2020
+	* England/201380070/2020
+	* England/20138007104/2020
+	* England/20138007404/2020
+	* England/20138007704/2020
+	* England/20138008004/2020
+	* England/20138008804/2020
+	* England/20138008904/2020
+	* England/20138009704/2020
+	* England/20138010804/2020
+	* England/20138010904/2020
+	* England/20138012104/2020
+	* England/20138012204/2020
 	* England/20138012802/2020
 	* England/20138014402/2020
+	* England/20138015604/2020
+	* England/20138015704/2020
+	* England/20138016104/2020
+	* England/20138016404/2020
+	* England/20138016804/2020
+	* England/20138016904/2020
+	* England/20138017004/2020
+	* England/20138017204/2020
+	* England/20138017304/2020
+	* England/20138017804/2020
+	* England/20138018204/2020
+	* England/20138018504/2020
+	* England/20138018804/2020
+	* England/20138019104/2020
+	* England/20138019404/2020
+	* England/20138019504/2020
+	* England/20138019604/2020
+	* England/20138019704/2020
+	* England/20138019804/2020
+	* England/20138020004/2020
+	* England/20138020504/2020
+	* England/20138020604/2020
+	* England/20138020704/2020
+	* England/20138020804/2020
+	* England/20138021104/2020
+	* England/201380215/2020
+	* England/201380217/2020
+	* England/201380221/2020
+	* England/201380228/2020
+	* England/201380229/2020
+	* England/20138024004/2020
+	* England/20138024104/2020
+	* England/20138024204/2020
+	* England/20138024604/2020
+	* England/20138024704/2020
+	* England/20138024804/2020
+	* England/20138025704/2020
+	* England/20138025904/2020
+	* England/20138026104/2020
+	* England/20138026204/2020
+	* England/20138026404/2020
+	* England/20138026604/2020
+	* England/20138026704/2020
+	* England/20138026904/2020
+	* England/20138027404/2020
+	* England/201380276/2020
+	* England/201380277/2020
+	* England/201380280/2020
+	* England/201380281/2020
+	* England/201380282/2020
+	* England/201380283/2020
+	* England/201380284/2020
+	* England/20138063104/2020
+	* England/20138063204/2020
+	* England/20138063404/2020
+	* England/20138063804/2020
+	* England/20138064204/2020
+	* England/20138077804/2020
+	* England/20138078204/2020
+	* England/20138080104/2020
+	* England/20138081004/2020
+	* England/20138082004/2020
+	* England/20138082104/2020
+	* England/20138082704/2020
+	* England/20138082804/2020
+	* England/20138083004/2020
+	* England/20138083204/2020
+	* England/20138083604/2020
+	* England/20138083904/2020
+	* England/20138084904/2020
+	* England/20138086004/2020
+	* England/20138086604/2020
+	* England/20138086904/2020
+	* England/20138087204/2020
+	* England/20138087304/2020
+	* England/20138088004/2020
+	* England/20138088104/2020
+	* England/20138088204/2020
+	* England/20139000504/2020
+	* England/20139000804/2020
+	* England/20139000904/2020
+	* England/20139001404/2020
+	* England/20139001604/2020
+	* England/20139001704/2020
+	* England/20139001804/2020
+	* England/20139002004/2020
+	* England/20139002204/2020
+	* England/20139002404/2020
+	* England/20139002504/2020
+	* England/20139003004/2020
+	* England/20139003204/2020
+	* England/20139003404/2020
+	* England/20139003604/2020
+	* England/20139003904/2020
+	* England/20139004004/2020
+	* England/20139004204/2020
+	* England/20139004304/2020
+	* England/20139005304/2020
+	* England/20139006604/2020
+	* England/20139007004/2020
 	* England/20139007104/2020
+	* England/20139007204/2020
 	* England/20139007404/2020
+	* England/20139007504/2020
+	* England/20139007604/2020
+	* England/20139008204/2020
+	* England/20139008304/2020
+	* England/20139008404/2020
+	* England/20139008704/2020
+	* England/20139009004/2020
+	* England/20139009204/2020
+	* England/20139009504/2020
+	* England/20139009604/2020
+	* England/20139009704/2020
+	* England/20139010404/2020
+	* England/20139010504/2020
+	* England/20139010604/2020
+	* England/20139010804/2020
 	* England/20139010904/2020
+	* England/20139011304/2020
+	* England/20139013004/2020
 	* England/20139013406/2020
 	* England/20139013706/2020
+	* England/20139014404/2020
+	* England/20139014504/2020
+	* England/20139015304/2020
+	* England/20139015604/2020
+	* England/20139015704/2020
+	* England/20139015804/2020
+	* England/20139016104/2020
+	* England/20139016604/2020
+	* England/20139016704/2020
+	* England/20139016804/2020
+	* England/20139017004/2020
+	* England/20139017304/2020
 	* England/20139018202/2020
 	* England/20139018302/2020
 	* England/20139019902/2020
 	* England/20139020106/2020
+	* England/20139020204/2020
 	* England/20139020506/2020
+	* England/20139021104/2020
+	* England/20139021304/2020
+	* England/20139021604/2020
+	* England/20139022004/2020
+	* England/20139022204/2020
+	* England/20139022504/2020
+	* England/20139022704/2020
+	* England/20139023504/2020
+	* England/20139023604/2020
+	* England/20139023804/2020
+	* England/20139024004/2020
+	* England/20139024204/2020
+	* England/20139024304/2020
+	* England/20139024404/2020
+	* England/20139024604/2020
+	* England/20139024804/2020
+	* England/20139024904/2020
+	* England/20139025404/2020
+	* England/20139025504/2020
+	* England/20139026304/2020
+	* England/20139026904/2020
+	* England/20139027004/2020
+	* England/20139027104/2020
+	* England/20139027204/2020
+	* England/20139027304/2020
+	* England/20139027404/2020
+	* England/20139027604/2020
+	* England/20139027704/2020
+	* England/20139027904/2020
+	* England/20139028904/2020
+	* England/20139029104/2020
+	* England/20139029304/2020
+	* England/20139029404/2020
 	* England/20139029904/2020
 	* England/20139030004/2020
 	* England/20139030304/2020
+	* England/20139030404/2020
+	* England/20139030704/2020
+	* England/20139031404/2020
+	* England/20139031504/2020
+	* England/20139031804/2020
+	* England/20139032004/2020
+	* England/20139032404/2020
+	* England/20139033004/2020
+	* England/20139033304/2020
+	* England/20139033404/2020
 	* England/20139035104/2020
 	* England/20139035504/2020
+	* England/20139036104/2020
+	* England/20139036504/2020
 	* England/20139037504/2020
 	* England/20139038004/2020
 	* England/20139038104/2020
@@ -3895,6 +6527,7 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* England/20139060004/2020
 	* England/20139060404/2020
 	* England/20139060504/2020
+	* England/20139060704/2020
 	* England/20139060804/2020
 	* England/20139061104/2020
 	* England/20139061704/2020
@@ -3910,6 +6543,50 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* England/20139063604/2020
 	* England/20139063704/2020
 	* England/20139063804/2020
+	* England/20139064404/2020
+	* England/20139064904/2020
+	* England/20139065204/2020
+	* England/20139065404/2020
+	* England/20139065604/2020
+	* England/20139067504/2020
+	* England/20139068504/2020
+	* England/20139068804/2020
+	* England/20139069104/2020
+	* England/20139069404/2020
+	* England/20139070204/2020
+	* England/20139070504/2020
+	* England/20139070704/2020
+	* England/20139071704/2020
+	* England/20139072204/2020
+	* England/20140000304/2020
+	* England/20140000404/2020
+	* England/20140000604/2020
+	* England/20140000904/2020
+	* England/20140001704/2020
+	* England/20140002204/2020
+	* England/20140002604/2020
+	* England/20140002804/2020
+	* England/20140002904/2020
+	* England/20140003402/2020
+	* England/20140003404/2020
+	* England/20140003802/2020
+	* England/20140003804/2020
+	* England/20140004004/2020
+	* England/20140005304/2020
+	* England/20140006204/2020
+	* England/20140007004/2020
+	* England/20140007202/2020
+	* England/20140007302/2020
+	* England/20140007602/2020
+	* England/20140007604/2020
+	* England/20140007702/2020
+	* England/20140007802/2020
+	* England/20140008102/2020
+	* England/20140008402/2020
+	* England/20140009204/2020
+	* England/20140009304/2020
+	* England/20140009404/2020
+	* England/20140009802/2020
 	* England/20140037504/2020
 	* England/20140038604/2020
 	* England/20140038704/2020
@@ -3926,7 +6603,77 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* England/20140048804/2020
 	* England/20140048904/2020
 	* England/20140050604/2020
+	* England/20140060304/2020
+	* England/20140063604/2020
+	* England/20140063704/2020
+	* England/20140063904/2020
+	* England/20140064004/2020
+	* England/20140064504/2020
+	* England/20140064704/2020
+	* England/20140064804/2020
+	* England/20140065104/2020
+	* England/20140066004/2020
+	* England/20140066204/2020
+	* England/20140068404/2020
+	* England/20140068904/2020
+	* England/20140069004/2020
+	* England/20140069104/2020
+	* England/20140069404/2020
+	* England/20140070004/2020
+	* England/20140070304/2020
+	* England/20140070404/2020
+	* England/20140070504/2020
+	* England/20140070604/2020
+	* England/20140070804/2020
+	* England/20140071104/2020
+	* England/20140071404/2020
+	* England/20140071504/2020
+	* England/20140071604/2020
+	* England/20140071704/2020
+	* England/20140072004/2020
+	* England/20140072304/2020
+	* England/20140072504/2020
+	* England/20140073904/2020
+	* England/20140074104/2020
+	* England/20142002004/2020
+	* England/20142002104/2020
+	* England/20142002204/2020
+	* England/20142002704/2020
+	* England/20142002904/2020
+	* England/20142003904/2020
+	* England/20142006204/2020
+	* England/20142012304/2020
+	* England/20142012804/2020
+	* England/20142014504/2020
+	* England/20142014604/2020
+	* England/20142015104/2020
+	* England/20142015504/2020
+	* England/20142015904/2020
+	* England/20142016204/2020
+	* England/20142016504/2020
+	* England/20142016704/2020
+	* England/20142018004/2020
+	* England/20142018204/2020
+	* England/20142018604/2020
+	* England/20142018804/2020
+	* England/20142019004/2020
+	* England/20142019504/2020
+	* England/20142019704/2020
+	* England/20142019804/2020
+	* England/20142021604/2020
+	* England/20142022104/2020
 	* England/20142022504/2020
+	* England/20142023704/2020
+	* England/20142023804/2020
+	* England/20142023904/2020
+	* England/20142024404/2020
+	* England/20142024704/2020
+	* England/20142026304/2020
+	* England/20142026502/2020
+	* England/20142026804/2020
+	* England/20142053004/2020
+	* England/20142053204/2020
+	* England/20142053804/2020
 	* England/20142060404/2020
 	* England/20142060804/2020
 	* England/20142060904/2020
@@ -3939,6 +6686,223 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* England/20142062904/2020
 	* England/20142063004/2020
 	* England/20142063404/2020
+	* England/20142078304/2020
+	* England/20142079504/2020
+	* England/20142079804/2020
+	* England/20142082204/2020
+	* England/20142082704/2020
+	* England/20142083004/2020
+	* England/20142083604/2020
+	* England/20142083804/2020
+	* England/20142130404/2020
+	* England/20142130504/2020
+	* England/20142131504/2020
+	* England/20142131604/2020
+	* England/20142131704/2020
+	* England/20144000204/2020
+	* England/20144000404/2020
+	* England/20144000804/2020
+	* England/20144000904/2020
+	* England/20144001204/2020
+	* England/20144001404/2020
+	* England/20144001904/2020
+	* England/20144002904/2020
+	* England/20144003404/2020
+	* England/20144003604/2020
+	* England/20144003704/2020
+	* England/20144003804/2020
+	* England/20144004304/2020
+	* England/20144004404/2020
+	* England/20144004504/2020
+	* England/20144004704/2020
+	* England/20144004804/2020
+	* England/20144004904/2020
+	* England/20144005404/2020
+	* England/20144005904/2020
+	* England/20144006004/2020
+	* England/20144006304/2020
+	* England/20144006404/2020
+	* England/20144006704/2020
+	* England/20144006904/2020
+	* England/20144007604/2020
+	* England/20144008004/2020
+	* England/20144008204/2020
+	* England/20144008304/2020
+	* England/20144008504/2020
+	* England/20144008904/2020
+	* England/20144009004/2020
+	* England/20144009104/2020
+	* England/20144010904/2020
+	* England/20144011504/2020
+	* England/20144012204/2020
+	* England/20144012404/2020
+	* England/20144012904/2020
+	* England/20144013504/2020
+	* England/20144013704/2020
+	* England/20144013904/2020
+	* England/20144014004/2020
+	* England/20144014504/2020
+	* England/20144014604/2020
+	* England/20144014704/2020
+	* England/20144016004/2020
+	* England/20144016604/2020
+	* England/20144017704/2020
+	* England/20144018204/2020
+	* England/20144018704/2020
+	* England/20144018904/2020
+	* England/20144019304/2020
+	* England/20144019904/2020
+	* England/20144020004/2020
+	* England/20144021304/2020
+	* England/20144021404/2020
+	* England/20144021504/2020
+	* England/20144021604/2020
+	* England/20144022104/2020
+	* England/20144022304/2020
+	* England/20144022404/2020
+	* England/20144022504/2020
+	* England/20144022704/2020
+	* England/20144022804/2020
+	* England/20144022904/2020
+	* England/20144023104/2020
+	* England/20144023204/2020
+	* England/20144023404/2020
+	* England/20144023704/2020
+	* England/20144023804/2020
+	* England/20144023904/2020
+	* England/20144024104/2020
+	* England/20144024204/2020
+	* England/20144024304/2020
+	* England/20144024404/2020
+	* England/20144035104/2020
+	* England/20144035204/2020
+	* England/20144035304/2020
+	* England/20144035904/2020
+	* England/20144036004/2020
+	* England/20144036504/2020
+	* England/20144036904/2020
+	* England/20144037304/2020
+	* England/20144037404/2020
+	* England/20144037604/2020
+	* England/20144037704/2020
+	* England/20144038004/2020
+	* England/20144038204/2020
+	* England/20144047604/2020
+	* England/20144048404/2020
+	* England/20144049004/2020
+	* England/20144049404/2020
+	* England/20144049604/2020
+	* England/20144049704/2020
+	* England/20144049804/2020
+	* England/20144051704/2020
+	* England/20144052004/2020
+	* England/20144052104/2020
+	* England/20144057504/2020
+	* England/20144060204/2020
+	* England/20144060804/2020
+	* England/20144061104/2020
+	* England/20144061604/2020
+	* England/20144061704/2020
+	* England/20144063504/2020
+	* England/20144063604/2020
+	* England/20144064004/2020
+	* England/20144064402/2020
+	* England/20144065604/2020
+	* England/20144066304/2020
+	* England/20144067104/2020
+	* England/20144067504/2020
+	* England/20144070104/2020
+	* England/20144071004/2020
+	* England/20144071104/2020
+	* England/20144071404/2020
+	* England/20144071504/2020
+	* England/20144071604/2020
+	* England/20144071804/2020
+	* England/20144072604/2020
+	* England/20144072804/2020
+	* England/20144073804/2020
+	* England/20144074404/2020
+	* England/20144074504/2020
+	* England/20144074604/2020
+	* England/20144074704/2020
+	* England/20144074804/2020
+	* England/20144074904/2020
+	* England/20144075204/2020
+	* England/20144075504/2020
+	* England/20144075604/2020
+	* England/20144076204/2020
+	* England/20144076304/2020
+	* England/20146001004/2020
+	* England/20146001704/2020
+	* England/20146004504/2020
+	* England/20146004804/2020
+	* England/20146004904/2020
+	* England/20146005204/2020
+	* England/20146005304/2020
+	* England/20146005704/2020
+	* England/20146005804/2020
+	* England/20146006604/2020
+	* England/20146006704/2020
+	* England/20146006904/2020
+	* England/20146007004/2020
+	* England/20146007404/2020
+	* England/20146008104/2020
+	* England/20146008204/2020
+	* England/20146008504/2020
+	* England/20146009204/2020
+	* England/20146011604/2020
+	* England/20146011804/2020
+	* England/20146011904/2020
+	* England/20146012604/2020
+	* England/20146014004/2020
+	* England/20146015504/2020
+	* England/20146017204/2020
+	* England/20146017604/2020
+	* England/20146018404/2020
+	* England/20146019004/2020
+	* England/20146019704/2020
+	* England/20146021404/2020
+	* England/20146025304/2020
+	* England/20146025504/2020
+	* England/20146049204/2020
+	* England/20146060504/2020
+	* England/20146061504/2020
+	* England/20146061904/2020
+	* England/20146062104/2020
+	* England/20146062504/2020
+	* England/20146062604/2020
+	* England/20146062804/2020
+	* England/20146063404/2020
+	* England/20146064104/2020
+	* England/20146064304/2020
+	* England/20146064504/2020
+	* England/20146064604/2020
+	* England/20146069604/2020
+	* England/20146069704/2020
+	* England/20148002104/2020
+	* England/20148002404/2020
+	* England/20148002504/2020
+	* England/20148003404/2020
+	* England/20148003904/2020
+	* England/20148004704/2020
+	* England/20148004904/2020
+	* England/20148006104/2020
+	* England/20148006304/2020
+	* England/20148006504/2020
+	* England/20148006604/2020
+	* England/20148006704/2020
+	* England/20148006804/2020
+	* England/20148006904/2020
+	* England/20148007004/2020
+	* England/20148026504/2020
+	* England/20148039404/2020
+	* England/20148041104/2020
+	* England/20148041604/2020
+	* England/20148043704/2020
+	* England/20148044604/2020
+	* England/20148046704/2020
+	* England/20148048004/2020
+	* England/20148065004/2020
 
 * Rockhampton Base Hospital
 	* Australia/QLDID920/2020
@@ -3952,8 +6916,30 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Australia/NT04/2020
 	* Australia/NT05/2020
 
+* Royal Darwin Hospital Pathology
+	* Australia/NT06/2020
+	* Australia/NT08/2020
+	* Australia/NT10/2020
+	* Australia/NT11/2020
+	* Australia/NT12/2020
+	* Australia/NT13/2020
+	* Australia/NT14/2020
+	* Australia/NT16/2020
+	* Australia/NT17/2020
+	* Australia/NT18/2020
+	* Australia/NT19/2020
+
 * Russian State Collection of Viruses
 	* Russia/Moscow_PMVL-1/2020
+
+* SC Dept of Health and Env. Control-Bureau of Laboratories
+	* USA/SC_3520/2020
+	* USA/SC_3569/2020
+	* USA/SC_3570/2020
+	* USA/SC_3571/2020
+	* USA/SC_3572/2020
+	* USA/SC_3575/2020
+	* USA/SC_6370/2020
 
 * SYNLAB Eesti OU
 	* Estonia/ChVir2148/2020
@@ -4000,7 +6986,7 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Hefei/2/2020
 
 * Secretaria de Salud Medellin
-	* Colombia/79256/2020
+	* Colombia/Antioquia79256/2020
 
 * Sentinelles network
 	* France/BFC2709/2020
@@ -4077,10 +7063,43 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Spain/Valencia39/2020
 	* Spain/Valencia4/2020
 	* Spain/Valencia5/2020
+	* Spain/Valencia54/2020
+	* Spain/Valencia55/2020
+	* Spain/Valencia56/2020
+	* Spain/Valencia57/2020
+	* Spain/Valencia58/2020
+	* Spain/Valencia59/2020
 	* Spain/Valencia6/2020
+	* Spain/Valencia60/2020
+	* Spain/Valencia61/2020
+	* Spain/Valencia62/2020
+	* Spain/Valencia63/2020
+	* Spain/Valencia64/2020
+	* Spain/Valencia65/2020
+	* Spain/Valencia66/2020
+	* Spain/Valencia67/2020
+	* Spain/Valencia68/2020
+	* Spain/Valencia69/2020
 	* Spain/Valencia7/2020
+	* Spain/Valencia70/2020
+	* Spain/Valencia71/2020
+	* Spain/Valencia72/2020
+	* Spain/Valencia73/2020
+	* Spain/Valencia74/2020
 	* Spain/Valencia8/2020
+	* Spain/Valencia88/2020
+	* Spain/Valencia89/2020
 	* Spain/Valencia9/2020
+	* Spain/Valencia90/2020
+	* Spain/Valencia91/2020
+	* Spain/Valencia92/2020
+	* Spain/Valencia93/2020
+	* Spain/Valencia94/2020
+	* Spain/Valencia95/2020
+	* Spain/Valencia96/2020
+	* Spain/Valencia97/2020
+	* Spain/Valencia98/2020
+	* Spain/Valencia99/2020
 
 * Servicio de Microbiologia. Hospital Clinico Universitario de Valencia
 	* Spain/Valencia40/2020
@@ -4097,6 +7116,19 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Spain/Valencia51/2020
 	* Spain/Valencia52/2020
 	* Spain/Valencia53/2020
+	* Spain/Valencia75/2020
+	* Spain/Valencia76/2020
+	* Spain/Valencia77/2020
+	* Spain/Valencia78/2020
+	* Spain/Valencia79/2020
+	* Spain/Valencia80/2020
+	* Spain/Valencia81/2020
+	* Spain/Valencia82/2020
+	* Spain/Valencia83/2020
+	* Spain/Valencia84/2020
+	* Spain/Valencia85/2020
+	* Spain/Valencia86/2020
+	* Spain/Valencia87/2020
 
 * Shandong Provincial Center for Disease Control and Prevention
 	* Shandong/LY001/2020
@@ -4220,6 +7252,12 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Singapore/5/2020
 	* Singapore/6/2020
 
+* Sir M P Shah Government Medical College
+	* India/GBRC1/2020
+
+* Sir M P Shah Government Medical College, Jamnagar
+	* India/GBRC1s/2020
+
 * Sorbonne Universite, Inserm et Assistance Publique-Hopitaux de Paris (Pitie Salpetriere)
 	* France/IDF0626/2020
 
@@ -4244,6 +7282,9 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Hangzhou/ZJU-02/2020
 	* Hangzhou/ZJU-05/2020
 
+* State Key Laboratory for Emerging Infectious Diseases Department of Microbiology Li Ka Shing Faculty of Medicine The University of Hong Kong
+	* HongKong/XM-PII-S4/2020
+
 * State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University
 	* Guangzhou/GZMU0014/2020
 	* Guangzhou/GZMU0016/2020
@@ -4259,6 +7300,41 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 
 * Sullivan Nicolaides Pathology
 	* Australia/QLDID921/2020
+
+* TGen North
+	* USA/AZ-TGEN-TG268002/2020
+	* USA/AZ-TGEN-TG268099/2020
+	* USA/AZ-TGEN-TG268183/2020
+	* USA/AZ-TGEN-TG268188/2020
+	* USA/AZ-TGEN-TG268281/2020
+	* USA/AZ-TGEN-TG268282/2020
+	* USA/AZ-TGEN-TG268289/2020
+	* USA/AZ-TGEN-TG268350/2020
+	* USA/AZ-TGEN-TG268360/2020
+	* USA/AZ-TGEN-TG268417/2020
+	* USA/AZ-TGEN-TG268629/2020
+	* USA/AZ-TGEN-TG268657/2020
+	* USA/AZ-TGEN-TG268770/2020
+	* USA/AZ-TGEN-TG269027/2020
+	* USA/AZ-TGEN-TG269238/2020
+	* USA/AZ-TGEN-TG269290/2020
+	* USA/AZ-TGEN-TG269358/2020
+	* USA/AZ-TGEN-TG269439/2020
+	* USA/AZ-TGEN-TG269440/2020
+	* USA/AZ-TGEN-TG269824/2020
+	* USA/AZ-TGEN-TG270152/2020
+	* USA/AZ-TGEN-TG270200/2020
+	* USA/AZ-TGEN-TG271435/2020
+	* USA/AZ-TGEN-TG271578/2020
+	* USA/AZ-TGEN-TG271591/2020
+	* USA/AZ-TGEN-TG272213/2020
+	* USA/AZ-TGEN-TG272215/2020
+
+* TSGH-CP molecular lab
+	* Taiwan/TSGH-01/2020
+	* Taiwan/TSGH-02/2020
+	* Taiwan/TSGH-03/2020
+	* Taiwan/TSGH-04/2020
 
 * Tai Lung Veterinary Laboratory, Agriculture, Fisheries and Conservation Department
 	* canine/HongKong/20-02756/2020
@@ -4285,7 +7361,11 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Israel/ISR_IT0320/2020
 
 * The National Institute of Public Health Center for Epidemiology and Microbiology
+	* CzechRepublic/2741/2020
 	* CzechRepublic/951/2020
+
+* The National Laboratory of Health, Environment and Food, Maribor, Slovenia
+	* Slovenia/MB0329/2020
 
 * The National University Hospital of Iceland
 	* Iceland/101/2020
@@ -4524,34 +7604,259 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Iceland/325/2020
 	* Iceland/33/2020
 	* Iceland/34/2020
+	* Iceland/343/2020
+	* Iceland/344/2020
+	* Iceland/345/2020
+	* Iceland/346/2020
+	* Iceland/347/2020
+	* Iceland/348/2020
+	* Iceland/349/2020
 	* Iceland/35/2020
+	* Iceland/350/2020
+	* Iceland/351/2020
+	* Iceland/352/2020
+	* Iceland/355/2020
+	* Iceland/356/2020
+	* Iceland/357/2020
+	* Iceland/358/2020
+	* Iceland/359/2020
 	* Iceland/36/2020
+	* Iceland/360/2020
+	* Iceland/361/2020
+	* Iceland/362/2020
+	* Iceland/363/2020
+	* Iceland/364/2020
+	* Iceland/365/2020
+	* Iceland/366/2020
+	* Iceland/367/2020
+	* Iceland/368/2020
+	* Iceland/369/2020
 	* Iceland/37/2020
+	* Iceland/370/2020
+	* Iceland/371/2020
+	* Iceland/372/2020
+	* Iceland/373/2020
+	* Iceland/374/2020
+	* Iceland/375/2020
+	* Iceland/376/2020
+	* Iceland/377/2020
+	* Iceland/378/2020
+	* Iceland/379/2020
+	* Iceland/380/2020
+	* Iceland/381/2020
+	* Iceland/382/2020
+	* Iceland/383/2020
+	* Iceland/384/2020
+	* Iceland/385/2020
+	* Iceland/386/2020
+	* Iceland/387/2020
+	* Iceland/388/2020
+	* Iceland/389/2020
 	* Iceland/39/2020
+	* Iceland/390/2020
+	* Iceland/391/2020
+	* Iceland/392/2020
+	* Iceland/393/2020
+	* Iceland/394/2020
+	* Iceland/395/2020
+	* Iceland/396/2020
+	* Iceland/397/2020
+	* Iceland/398/2020
+	* Iceland/399/2020
 	* Iceland/4/2020
 	* Iceland/40/2020
+	* Iceland/400/2020
+	* Iceland/401/2020
+	* Iceland/402/2020
+	* Iceland/403/2020
+	* Iceland/404/2020
+	* Iceland/405/2020
+	* Iceland/406/2020
+	* Iceland/407/2020
+	* Iceland/408/2020
+	* Iceland/409/2020
 	* Iceland/41/2020
+	* Iceland/410/2020
+	* Iceland/411/2020
+	* Iceland/412/2020
+	* Iceland/413/2020
+	* Iceland/414/2020
+	* Iceland/415/2020
+	* Iceland/416/2020
+	* Iceland/417/2020
+	* Iceland/418/2020
+	* Iceland/419/2020
 	* Iceland/42/2020
+	* Iceland/420/2020
+	* Iceland/421/2020
+	* Iceland/422/2020
+	* Iceland/423/2020
+	* Iceland/424/2020
+	* Iceland/425/2020
+	* Iceland/426/2020
+	* Iceland/427/2020
+	* Iceland/428/2020
+	* Iceland/429/2020
 	* Iceland/43/2020
+	* Iceland/430/2020
+	* Iceland/431/2020
+	* Iceland/432/2020
+	* Iceland/433/2020
+	* Iceland/434/2020
+	* Iceland/435/2020
+	* Iceland/436/2020
+	* Iceland/437/2020
+	* Iceland/438/2020
+	* Iceland/439/2020
 	* Iceland/44/2020
+	* Iceland/440/2020
+	* Iceland/441/2020
+	* Iceland/442/2020
+	* Iceland/443/2020
+	* Iceland/444/2020
+	* Iceland/445/2020
+	* Iceland/446/2020
+	* Iceland/447/2020
+	* Iceland/448/2020
+	* Iceland/449/2020
 	* Iceland/45/2020
+	* Iceland/450/2020
+	* Iceland/451/2020
+	* Iceland/452/2020
+	* Iceland/454/2020
+	* Iceland/455/2020
+	* Iceland/456/2020
+	* Iceland/457/2020
+	* Iceland/458/2020
+	* Iceland/459/2020
 	* Iceland/46/2020
+	* Iceland/460/2020
+	* Iceland/461/2020
+	* Iceland/462/2020
+	* Iceland/463/2020
+	* Iceland/464/2020
+	* Iceland/465/2020
+	* Iceland/466/2020
+	* Iceland/467/2020
+	* Iceland/468/2020
+	* Iceland/469/2020
 	* Iceland/47/2020
+	* Iceland/470/2020
+	* Iceland/471/2020
+	* Iceland/472/2020
+	* Iceland/473/2020
+	* Iceland/474/2020
+	* Iceland/475/2020
+	* Iceland/476/2020
+	* Iceland/477/2020
+	* Iceland/478/2020
+	* Iceland/479/2020
 	* Iceland/48/2020
+	* Iceland/480/2020
+	* Iceland/481/2020
+	* Iceland/482/2020
+	* Iceland/483/2020
+	* Iceland/484/2020
+	* Iceland/485/2020
+	* Iceland/487/2020
+	* Iceland/488/2020
+	* Iceland/489/2020
 	* Iceland/49/2020
+	* Iceland/490/2020
+	* Iceland/491/2020
+	* Iceland/492/2020
+	* Iceland/493/2020
+	* Iceland/494/2020
+	* Iceland/495/2020
+	* Iceland/496/2020
+	* Iceland/497/2020
+	* Iceland/498/2020
+	* Iceland/499/2020
 	* Iceland/5/2020
 	* Iceland/50/2020
+	* Iceland/500/2020
+	* Iceland/501/2020
+	* Iceland/502/2020
+	* Iceland/503/2020
+	* Iceland/504/2020
+	* Iceland/505/2020
+	* Iceland/506/2020
+	* Iceland/507/2020
+	* Iceland/508/2020
+	* Iceland/509/2020
 	* Iceland/51/2020
+	* Iceland/510/2020
 	* Iceland/52/2020
 	* Iceland/53/2020
+	* Iceland/532/2020
+	* Iceland/534/2020
+	* Iceland/535/2020
+	* Iceland/536/2020
+	* Iceland/537/2020
+	* Iceland/538/2020
+	* Iceland/539/2020
 	* Iceland/54/2020
+	* Iceland/543/2020
+	* Iceland/544/2020
 	* Iceland/55/2020
+	* Iceland/551/2020
+	* Iceland/552/2020
+	* Iceland/553/2020
+	* Iceland/554/2020
+	* Iceland/555/2020
+	* Iceland/556/2020
+	* Iceland/557/2020
+	* Iceland/558/2020
+	* Iceland/559/2020
 	* Iceland/56/2020
+	* Iceland/560/2020
+	* Iceland/561/2020
+	* Iceland/562/2020
+	* Iceland/563/2020
+	* Iceland/564/2020
+	* Iceland/565/2020
+	* Iceland/566/2020
+	* Iceland/567/2020
+	* Iceland/568/2020
+	* Iceland/569/2020
 	* Iceland/57/2020
+	* Iceland/570/2020
+	* Iceland/571/2020
+	* Iceland/572/2020
+	* Iceland/573/2020
+	* Iceland/574/2020
+	* Iceland/575/2020
+	* Iceland/576/2020
+	* Iceland/577/2020
+	* Iceland/578/2020
+	* Iceland/579/2020
 	* Iceland/58/2020
+	* Iceland/580/2020
+	* Iceland/581/2020
+	* Iceland/582/2020
+	* Iceland/583/2020
+	* Iceland/584/2020
+	* Iceland/585/2020
+	* Iceland/586/2020
+	* Iceland/587/2020
 	* Iceland/59/2020
+	* Iceland/590/2020
+	* Iceland/591/2020
+	* Iceland/592/2020
+	* Iceland/593/2020
+	* Iceland/594/2020
+	* Iceland/595/2020
+	* Iceland/596/2020
+	* Iceland/597/2020
+	* Iceland/598/2020
+	* Iceland/599/2020
 	* Iceland/6/2020
 	* Iceland/60/2020
+	* Iceland/600/2020
+	* Iceland/601/2020
+	* Iceland/602/2020
+	* Iceland/603/2020
+	* Iceland/604/2020
 	* Iceland/61/2020
 	* Iceland/62/2020
 	* Iceland/63/2020
@@ -4594,6 +7899,12 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Iceland/97/2020
 	* Iceland/99/2020
 
+* The Ohio State University
+	* USA/OSUP0109/2020
+
+* The Ohio State University Wexner Medical Center
+	* USA/OSUP0112/2020
+
 * The Republican Research and Practical Center for Epidemiology and Microbiology
 	* Belarus/ChVir2072/2020
 	* Belarus/ChVir2073/2020
@@ -4620,40 +7931,390 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Ireland/Limerick-19934/2020
 	* Ireland/Limerick-19935/2020
 
+* ULSS9 Distretto di Bussolengo
+	* Italy/VR_20COV21-26/2020
+	* Italy/VR_20COV21-37/2020
+
+* UT-Unified State Labs: Public Health Utah DOH
+	* USA/UT_8199/2020
+	* USA/UT_8906/2020
+
 * UW Virology Lab
+	* USA/CT-UW-1365/2020
+	* USA/CT-UW-4344/2020
+	* USA/CT-UW-4346/2020
+	* USA/CT-UW-4347/2020
+	* USA/CT-UW-4366/2020
+	* USA/CT-UW-4372/2020
+	* USA/CT-UW158/2020
+	* USA/CT-UW159/2020
 	* USA/CT-UW213/2020
 	* USA/CT-UW223/2020
 	* USA/CT-UW224/2020
+	* USA/CT-UW238/2020
+	* USA/CT-UW250/2020
+	* USA/CT-UW254/2020
+	* USA/CT-UW256/2020
 	* USA/CT-UW258/2020
 	* USA/CT-UW259/2020
 	* USA/CT-UW260/2020
 	* USA/CT-UW271/2020
 	* USA/CT-UW272/2020
 	* USA/CT-UW273/2020
+	* USA/CT-UW303/2020
+	* USA/CT-UW327/2020
 	* USA/CT-UW328/2020
 	* USA/CT-UW329/2020
-	* USA/ID-UW226/2020
-	* USA/ID-UW228/2020
-	* USA/ID-UW232/2020
-	* USA/ID-UW233/2020
-	* USA/ID-UW235/2020
-	* USA/ID-UW236/2020
-	* USA/ID-UW239/2020
-	* USA/ID-UW241/2020
-	* USA/ID-UW254/2020
+	* USA/CT-UW331/2020
+	* USA/ID-UW-1925/2020
+	* USA/ID-UW-1934/2020
+	* USA/ID-UW-1935/2020
+	* USA/ID-UW-1938/2020
+	* USA/ID-UW-1939/2020
+	* USA/ID-UW-1957/2020
+	* USA/ID-UW-2127/2020
+	* USA/ID-UW-2134/2020
+	* USA/ID-UW-2159/2020
+	* USA/ID-UW-2160/2020
+	* USA/ID-UW-2174/2020
+	* USA/ID-UW-2198/2020
+	* USA/ID-UW-2255/2020
+	* USA/ID-UW-4355/2020
+	* USA/ID-UW-4357/2020
+	* USA/ID-UW-4375/2020
+	* USA/ID-UW-4378/2020
+	* USA/ID-UW-4380/2020
+	* USA/ID-UW-4396/2020
+	* USA/ID-UW-4400/2020
+	* USA/ID-UW-4424/2020
+	* USA/ID-UW-4427/2020
+	* USA/ID-UW-4433/2020
+	* USA/ID-UW-4448/2020
+	* USA/ID-UW-4461/2020
+	* USA/IL-UW-1265/2020
+	* USA/IL-UW-1311/2020
+	* USA/IL-UW348/2020
+	* USA/IL-UW349/2020
 	* USA/IL-UW350/2020
 	* USA/IL-UW351/2020
 	* USA/IL-UW352/2020
+	* USA/IL-UW353/2020
 	* USA/IL-UW381/2020
 	* USA/MN-UW243/2020
+	* USA/MN-UW251/2020
 	* USA/MN-UW257/2020
 	* USA/MN-UW264/2020
+	* USA/MN-UW266/2020
+	* USA/MN-UW326/2020
 	* USA/MN-UW334/2020
-	* USA/OR-UW54/2020
-	* USA/UNKNOWN-UW219/2020
-	* USA/UNKNOWN-UW276/2020
-	* USA/UNKNOWN-UW354/2020
-	* USA/UNKNOWN-UW382/2020
+	* USA/MN-UW335/2020
+	* USA/OR-UW-1849/2020
+	* USA/OR-UW-1851/2020
+	* USA/OR-UW-1885/2020
+	* USA/OR-UW-1887/2020
+	* USA/OR-UW-1937/2020
+	* USA/OR-UW-4388/2020
+	* USA/OR-UW135/2020
+	* USA/UN-UW-1291/2020
+	* USA/UN-UW-1292/2020
+	* USA/UN-UW-1307/2020
+	* USA/UN-UW-1312/2020
+	* USA/UN-UW-1331/2020
+	* USA/UN-UW-1402/2020
+	* USA/UN-UW-1403/2020
+	* USA/UN-UW-1407/2020
+	* USA/UN-UW-1449/2020
+	* USA/UN-UW-1486/2020
+	* USA/UN-UW-1773/2020
+	* USA/UN-UW-1791/2020
+	* USA/UN-UW-1816/2020
+	* USA/UN-UW-1817/2020
+	* USA/UN-UW-1818/2020
+	* USA/UN-UW-1832/2020
+	* USA/UN-UW-1834/2020
+	* USA/UN-UW-2069/2020
+	* USA/UN-UW-2139/2020
+	* USA/UN-UW-Notfound/2020
+	* USA/UN-UW219/2020
+	* USA/UN-UW276/2020
+	* USA/UN-UW354/2020
+	* USA/UN-UW382/2020
+	* USA/WA-UW-1268/2020
+	* USA/WA-UW-1269/2020
+	* USA/WA-UW-1271/2020
+	* USA/WA-UW-1279/2020
+	* USA/WA-UW-1287/2020
+	* USA/WA-UW-1294/2020
+	* USA/WA-UW-1295/2020
+	* USA/WA-UW-1296/2020
+	* USA/WA-UW-1297/2020
+	* USA/WA-UW-1300/2020
+	* USA/WA-UW-1302/2020
+	* USA/WA-UW-1304/2020
+	* USA/WA-UW-1306/2020
+	* USA/WA-UW-1308/2020
+	* USA/WA-UW-1309/2020
+	* USA/WA-UW-1314/2020
+	* USA/WA-UW-1315/2020
+	* USA/WA-UW-1319/2020
+	* USA/WA-UW-1320/2020
+	* USA/WA-UW-1321/2020
+	* USA/WA-UW-1322/2020
+	* USA/WA-UW-1327/2020
+	* USA/WA-UW-1329/2020
+	* USA/WA-UW-1334/2020
+	* USA/WA-UW-1338/2020
+	* USA/WA-UW-1341/2020
+	* USA/WA-UW-1342/2020
+	* USA/WA-UW-1346/2020
+	* USA/WA-UW-1347/2020
+	* USA/WA-UW-1349/2020
+	* USA/WA-UW-1351/2020
+	* USA/WA-UW-1353/2020
+	* USA/WA-UW-1362/2020
+	* USA/WA-UW-1415/2020
+	* USA/WA-UW-1417/2020
+	* USA/WA-UW-1420/2020
+	* USA/WA-UW-1422/2020
+	* USA/WA-UW-1425/2020
+	* USA/WA-UW-1426/2020
+	* USA/WA-UW-1427/2020
+	* USA/WA-UW-1433/2020
+	* USA/WA-UW-1435/2020
+	* USA/WA-UW-1436/2020
+	* USA/WA-UW-1440/2020
+	* USA/WA-UW-1441/2020
+	* USA/WA-UW-1446/2020
+	* USA/WA-UW-1448/2020
+	* USA/WA-UW-1465/2020
+	* USA/WA-UW-1470/2020
+	* USA/WA-UW-1471/2020
+	* USA/WA-UW-1472/2020
+	* USA/WA-UW-1473/2020
+	* USA/WA-UW-1478/2020
+	* USA/WA-UW-1538/2020
+	* USA/WA-UW-1552/2020
+	* USA/WA-UW-1561/2020
+	* USA/WA-UW-1562/2020
+	* USA/WA-UW-1567/2020
+	* USA/WA-UW-1569/2020
+	* USA/WA-UW-1570/2020
+	* USA/WA-UW-1572/2020
+	* USA/WA-UW-1574/2020
+	* USA/WA-UW-1575/2020
+	* USA/WA-UW-1576/2020
+	* USA/WA-UW-1578/2020
+	* USA/WA-UW-1581/2020
+	* USA/WA-UW-1583/2020
+	* USA/WA-UW-1586/2020
+	* USA/WA-UW-1587/2020
+	* USA/WA-UW-1588/2020
+	* USA/WA-UW-1591/2020
+	* USA/WA-UW-1593/2020
+	* USA/WA-UW-1595/2020
+	* USA/WA-UW-1599/2020
+	* USA/WA-UW-1603/2020
+	* USA/WA-UW-1608/2020
+	* USA/WA-UW-1611/2020
+	* USA/WA-UW-1616/2020
+	* USA/WA-UW-1620/2020
+	* USA/WA-UW-1638/2020
+	* USA/WA-UW-1640/2020
+	* USA/WA-UW-1644/2020
+	* USA/WA-UW-1645/2020
+	* USA/WA-UW-1646/2020
+	* USA/WA-UW-1651/2020
+	* USA/WA-UW-1652/2020
+	* USA/WA-UW-1656/2020
+	* USA/WA-UW-1659/2020
+	* USA/WA-UW-1661/2020
+	* USA/WA-UW-1666/2020
+	* USA/WA-UW-1670/2020
+	* USA/WA-UW-1672/2020
+	* USA/WA-UW-1673/2020
+	* USA/WA-UW-1675/2020
+	* USA/WA-UW-1677/2020
+	* USA/WA-UW-1680/2020
+	* USA/WA-UW-1682/2020
+	* USA/WA-UW-1683/2020
+	* USA/WA-UW-1684/2020
+	* USA/WA-UW-1688/2020
+	* USA/WA-UW-1689/2020
+	* USA/WA-UW-1690/2020
+	* USA/WA-UW-1695/2020
+	* USA/WA-UW-1697/2020
+	* USA/WA-UW-1698/2020
+	* USA/WA-UW-1700/2020
+	* USA/WA-UW-1702/2020
+	* USA/WA-UW-1705/2020
+	* USA/WA-UW-1706/2020
+	* USA/WA-UW-1707/2020
+	* USA/WA-UW-1708/2020
+	* USA/WA-UW-1709/2020
+	* USA/WA-UW-1712/2020
+	* USA/WA-UW-1715/2020
+	* USA/WA-UW-1716/2020
+	* USA/WA-UW-1718/2020
+	* USA/WA-UW-1722/2020
+	* USA/WA-UW-1723/2020
+	* USA/WA-UW-1724/2020
+	* USA/WA-UW-1726/2020
+	* USA/WA-UW-1728/2020
+	* USA/WA-UW-1729/2020
+	* USA/WA-UW-1730/2020
+	* USA/WA-UW-1731/2020
+	* USA/WA-UW-1732/2020
+	* USA/WA-UW-1733/2020
+	* USA/WA-UW-1735/2020
+	* USA/WA-UW-1739/2020
+	* USA/WA-UW-1741/2020
+	* USA/WA-UW-1744/2020
+	* USA/WA-UW-1745/2020
+	* USA/WA-UW-1748/2020
+	* USA/WA-UW-1750/2020
+	* USA/WA-UW-1753/2020
+	* USA/WA-UW-1756/2020
+	* USA/WA-UW-1758/2020
+	* USA/WA-UW-1760/2020
+	* USA/WA-UW-1762/2020
+	* USA/WA-UW-1765/2020
+	* USA/WA-UW-1770/2020
+	* USA/WA-UW-1772/2020
+	* USA/WA-UW-1774/2020
+	* USA/WA-UW-1775/2020
+	* USA/WA-UW-1778/2020
+	* USA/WA-UW-1779/2020
+	* USA/WA-UW-1782/2020
+	* USA/WA-UW-1784/2020
+	* USA/WA-UW-1785/2020
+	* USA/WA-UW-1792/2020
+	* USA/WA-UW-1796/2020
+	* USA/WA-UW-1797/2020
+	* USA/WA-UW-1799/2020
+	* USA/WA-UW-1801/2020
+	* USA/WA-UW-1805/2020
+	* USA/WA-UW-1821/2020
+	* USA/WA-UW-1822/2020
+	* USA/WA-UW-1824/2020
+	* USA/WA-UW-1825/2020
+	* USA/WA-UW-1826/2020
+	* USA/WA-UW-1827/2020
+	* USA/WA-UW-1828/2020
+	* USA/WA-UW-1831/2020
+	* USA/WA-UW-1835/2020
+	* USA/WA-UW-1840/2020
+	* USA/WA-UW-1843/2020
+	* USA/WA-UW-1846/2020
+	* USA/WA-UW-1850/2020
+	* USA/WA-UW-1853/2020
+	* USA/WA-UW-1854/2020
+	* USA/WA-UW-1855/2020
+	* USA/WA-UW-1858/2020
+	* USA/WA-UW-1860/2020
+	* USA/WA-UW-1863/2020
+	* USA/WA-UW-1864/2020
+	* USA/WA-UW-1865/2020
+	* USA/WA-UW-1866/2020
+	* USA/WA-UW-1868/2020
+	* USA/WA-UW-1870/2020
+	* USA/WA-UW-1872/2020
+	* USA/WA-UW-1874/2020
+	* USA/WA-UW-1877/2020
+	* USA/WA-UW-1878/2020
+	* USA/WA-UW-1879/2020
+	* USA/WA-UW-1880/2020
+	* USA/WA-UW-1881/2020
+	* USA/WA-UW-1888/2020
+	* USA/WA-UW-1890/2020
+	* USA/WA-UW-1904/2020
+	* USA/WA-UW-1905/2020
+	* USA/WA-UW-1907/2020
+	* USA/WA-UW-1913/2020
+	* USA/WA-UW-1917/2020
+	* USA/WA-UW-1919/2020
+	* USA/WA-UW-1920/2020
+	* USA/WA-UW-1921/2020
+	* USA/WA-UW-1928/2020
+	* USA/WA-UW-1930/2020
+	* USA/WA-UW-1944/2020
+	* USA/WA-UW-1946/2020
+	* USA/WA-UW-1947/2020
+	* USA/WA-UW-1948/2020
+	* USA/WA-UW-1954/2020
+	* USA/WA-UW-1955/2020
+	* USA/WA-UW-1956/2020
+	* USA/WA-UW-1963/2020
+	* USA/WA-UW-1965/2020
+	* USA/WA-UW-1968/2020
+	* USA/WA-UW-1977/2020
+	* USA/WA-UW-1984/2020
+	* USA/WA-UW-1986/2020
+	* USA/WA-UW-1988/2020
+	* USA/WA-UW-1994/2020
+	* USA/WA-UW-1998/2020
+	* USA/WA-UW-2006/2020
+	* USA/WA-UW-2008/2020
+	* USA/WA-UW-2009/2020
+	* USA/WA-UW-2016/2020
+	* USA/WA-UW-2072/2020
+	* USA/WA-UW-2074/2020
+	* USA/WA-UW-2078/2020
+	* USA/WA-UW-2082/2020
+	* USA/WA-UW-2087/2020
+	* USA/WA-UW-2091/2020
+	* USA/WA-UW-2094/2020
+	* USA/WA-UW-2100/2020
+	* USA/WA-UW-2104/2020
+	* USA/WA-UW-2105/2020
+	* USA/WA-UW-2108/2020
+	* USA/WA-UW-2112/2020
+	* USA/WA-UW-2119/2020
+	* USA/WA-UW-2131/2020
+	* USA/WA-UW-2132/2020
+	* USA/WA-UW-2137/2020
+	* USA/WA-UW-2140/2020
+	* USA/WA-UW-2141/2020
+	* USA/WA-UW-2142/2020
+	* USA/WA-UW-2144/2020
+	* USA/WA-UW-2145/2020
+	* USA/WA-UW-2146/2020
+	* USA/WA-UW-2149/2020
+	* USA/WA-UW-2164/2020
+	* USA/WA-UW-2169/2020
+	* USA/WA-UW-2177/2020
+	* USA/WA-UW-2179/2020
+	* USA/WA-UW-2180/2020
+	* USA/WA-UW-2181/2020
+	* USA/WA-UW-2186/2020
+	* USA/WA-UW-2192/2020
+	* USA/WA-UW-2193/2020
+	* USA/WA-UW-2203/2020
+	* USA/WA-UW-2208/2020
+	* USA/WA-UW-2212/2020
+	* USA/WA-UW-2213/2020
+	* USA/WA-UW-2214/2020
+	* USA/WA-UW-2215/2020
+	* USA/WA-UW-2218/2020
+	* USA/WA-UW-2219/2020
+	* USA/WA-UW-2228/2020
+	* USA/WA-UW-2230/2020
+	* USA/WA-UW-2232/2020
+	* USA/WA-UW-2234/2020
+	* USA/WA-UW-2235/2020
+	* USA/WA-UW-2236/2020
+	* USA/WA-UW-2238/2020
+	* USA/WA-UW-2240/2020
+	* USA/WA-UW-2244/2020
+	* USA/WA-UW-2245/2020
+	* USA/WA-UW-2247/2020
+	* USA/WA-UW-2249/2020
+	* USA/WA-UW-2250/2020
+	* USA/WA-UW-2253/2020
+	* USA/WA-UW-2258/2020
+	* USA/WA-UW-4370/2020
+	* USA/WA-UW-4404/2020
+	* USA/WA-UW-4406/2020
+	* USA/WA-UW-4407/2020
 	* USA/WA-UW100/2020
 	* USA/WA-UW101/2020
 	* USA/WA-UW102/2020
@@ -4689,7 +8350,6 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/WA-UW132/2020
 	* USA/WA-UW133/2020
 	* USA/WA-UW134/2020
-	* USA/WA-UW135/2020
 	* USA/WA-UW136/2020
 	* USA/WA-UW137/2020
 	* USA/WA-UW138/2020
@@ -4706,14 +8366,13 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/WA-UW149/2020
 	* USA/WA-UW15/2020
 	* USA/WA-UW150/2020
+	* USA/WA-UW151/2020
 	* USA/WA-UW152/2020
 	* USA/WA-UW153/2020
 	* USA/WA-UW154/2020
 	* USA/WA-UW155/2020
 	* USA/WA-UW156/2020
 	* USA/WA-UW157/2020
-	* USA/WA-UW158/2020
-	* USA/WA-UW159/2020
 	* USA/WA-UW16/2020
 	* USA/WA-UW160/2020
 	* USA/WA-UW161/2020
@@ -4746,12 +8405,14 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/WA-UW186/2020
 	* USA/WA-UW187/2020
 	* USA/WA-UW188/2020
+	* USA/WA-UW189/2020
 	* USA/WA-UW19/2020
 	* USA/WA-UW190/2020
 	* USA/WA-UW191/2020
 	* USA/WA-UW192/2020
 	* USA/WA-UW193/2020
 	* USA/WA-UW194/2020
+	* USA/WA-UW195/2020
 	* USA/WA-UW196/2020
 	* USA/WA-UW197/2020
 	* USA/WA-UW198/2020
@@ -4777,31 +8438,42 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/WA-UW218/2020
 	* USA/WA-UW22/2020
 	* USA/WA-UW220/2020
+	* USA/WA-UW221/2020
 	* USA/WA-UW222/2020
+	* USA/WA-UW225/2020
+	* USA/WA-UW226/2020
 	* USA/WA-UW227/2020
+	* USA/WA-UW228/2020
 	* USA/WA-UW229/2020
 	* USA/WA-UW23/2020
 	* USA/WA-UW230/2020
 	* USA/WA-UW231/2020
+	* USA/WA-UW232/2020
+	* USA/WA-UW233/2020
 	* USA/WA-UW234/2020
+	* USA/WA-UW235/2020
+	* USA/WA-UW236/2020
 	* USA/WA-UW237/2020
-	* USA/WA-UW238/2020
+	* USA/WA-UW239/2020
 	* USA/WA-UW24/2020
 	* USA/WA-UW240/2020
+	* USA/WA-UW241/2020
 	* USA/WA-UW242/2020
 	* USA/WA-UW244/2020
 	* USA/WA-UW245/2020
 	* USA/WA-UW246/2020
+	* USA/WA-UW247/2020
+	* USA/WA-UW248/2020
+	* USA/WA-UW249/2020
 	* USA/WA-UW25/2020
-	* USA/WA-UW250/2020
+	* USA/WA-UW252/2020
+	* USA/WA-UW253/2020
 	* USA/WA-UW255/2020
-	* USA/WA-UW256/2020
 	* USA/WA-UW26/2020
 	* USA/WA-UW261/2020
 	* USA/WA-UW262/2020
 	* USA/WA-UW263/2020
 	* USA/WA-UW265/2020
-	* USA/WA-UW266/2020
 	* USA/WA-UW267/2020
 	* USA/WA-UW268/2020
 	* USA/WA-UW269/2020
@@ -4838,7 +8510,6 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/WA-UW300/2020
 	* USA/WA-UW301/2020
 	* USA/WA-UW302/2020
-	* USA/WA-UW303/2020
 	* USA/WA-UW304/2020
 	* USA/WA-UW305/2020
 	* USA/WA-UW306/2020
@@ -4862,14 +8533,10 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/WA-UW323/2020
 	* USA/WA-UW324/2020
 	* USA/WA-UW325/2020
-	* USA/WA-UW326/2020
-	* USA/WA-UW327/2020
 	* USA/WA-UW33/2020
 	* USA/WA-UW330/2020
-	* USA/WA-UW331/2020
 	* USA/WA-UW332/2020
 	* USA/WA-UW333/2020
-	* USA/WA-UW335/2020
 	* USA/WA-UW336/2020
 	* USA/WA-UW337/2020
 	* USA/WA-UW338/2020
@@ -4883,14 +8550,12 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/WA-UW345/2020
 	* USA/WA-UW346/2020
 	* USA/WA-UW347/2020
-	* USA/WA-UW348/2020
-	* USA/WA-UW349/2020
 	* USA/WA-UW35/2020
-	* USA/WA-UW353/2020
 	* USA/WA-UW355/2020
 	* USA/WA-UW356/2020
 	* USA/WA-UW357/2020
 	* USA/WA-UW359/2020
+	* USA/WA-UW36/2020
 	* USA/WA-UW360/2020
 	* USA/WA-UW361/2020
 	* USA/WA-UW362/2020
@@ -4901,6 +8566,7 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/WA-UW367/2020
 	* USA/WA-UW368/2020
 	* USA/WA-UW369/2020
+	* USA/WA-UW37/2020
 	* USA/WA-UW370/2020
 	* USA/WA-UW371/2020
 	* USA/WA-UW372/2020
@@ -4909,6 +8575,7 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/WA-UW376/2020
 	* USA/WA-UW378/2020
 	* USA/WA-UW379/2020
+	* USA/WA-UW38/2020
 	* USA/WA-UW383/2020
 	* USA/WA-UW384/2020
 	* USA/WA-UW385/2020
@@ -4916,8 +8583,10 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/WA-UW387/2020
 	* USA/WA-UW388/2020
 	* USA/WA-UW389/2020
+	* USA/WA-UW39/2020
 	* USA/WA-UW390/2020
 	* USA/WA-UW40/2020
+	* USA/WA-UW41/2020
 	* USA/WA-UW43/2020
 	* USA/WA-UW44/2020
 	* USA/WA-UW45/2020
@@ -4928,12 +8597,15 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/WA-UW51/2020
 	* USA/WA-UW52/2020
 	* USA/WA-UW53/2020
+	* USA/WA-UW54/2020
 	* USA/WA-UW55/2020
 	* USA/WA-UW56/2020
 	* USA/WA-UW57/2020
+	* USA/WA-UW58/2020
 	* USA/WA-UW59/2020
 	* USA/WA-UW60/2020
 	* USA/WA-UW61/2020
+	* USA/WA-UW62/2020
 	* USA/WA-UW63/2020
 	* USA/WA-UW64/2020
 	* USA/WA-UW65/2020
@@ -5043,7 +8715,27 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/WI-08/2020
 	* USA/WI-09/2020
 	* USA/WI-10/2020
+	* USA/WI-100/2020
+	* USA/WI-101/2020
+	* USA/WI-102/2020
+	* USA/WI-103/2020
+	* USA/WI-104/2020
+	* USA/WI-105/2020
+	* USA/WI-106/2020
+	* USA/WI-107/2020
+	* USA/WI-108/2020
+	* USA/WI-109/2020
 	* USA/WI-11/2020
+	* USA/WI-110/2020
+	* USA/WI-111/2020
+	* USA/WI-112/2020
+	* USA/WI-113/2020
+	* USA/WI-114/2020
+	* USA/WI-115/2020
+	* USA/WI-116/2020
+	* USA/WI-117/2020
+	* USA/WI-118/2020
+	* USA/WI-119/2020
 	* USA/WI-12/2020
 	* USA/WI-13/2020
 	* USA/WI-14/2020
@@ -5110,6 +8802,21 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/WI-82/2020
 	* USA/WI-83/2020
 	* USA/WI-84/2020
+	* USA/WI-85/2020
+	* USA/WI-86/2020
+	* USA/WI-87/2020
+	* USA/WI-88/2020
+	* USA/WI-89/2020
+	* USA/WI-90/2020
+	* USA/WI-91/2020
+	* USA/WI-92/2020
+	* USA/WI-93/2020
+	* USA/WI-94/2020
+	* USA/WI-95/2020
+	* USA/WI-96/2020
+	* USA/WI-97/2020
+	* USA/WI-98/2020
+	* USA/WI-99/2020
 
 * University of Wisconsin-Madison AIDS Vaccine Research Laboratory
 	* USA/WI-02/2020
@@ -5178,6 +8885,16 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 
 * VA DCLS
 	* USA/VA-DCLS-0001/2020
+
+* VA-Division of Consolidated Laboratory Services
+	* USA/VA_6171/2020
+	* USA/VA_6352/2020
+	* USA/VA_6377/2020
+	* USA/VA_6382/2020
+	* USA/VA_6389/2020
+
+* Vaccine Research, Development and Application Center, Erciyes University
+	* Turkey/ERAGEM-001/2020
 
 * Valley Medical Center
 	* USA/WA8-UW5/2020
@@ -5390,61 +9107,500 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Australia/VIC313/2020
 	* Australia/VIC314/2020
 	* Australia/VIC32/2020
+	* Australia/VIC327/2020
+	* Australia/VIC328/2020
+	* Australia/VIC329/2020
 	* Australia/VIC33/2020
+	* Australia/VIC330/2020
+	* Australia/VIC332/2020
+	* Australia/VIC333/2020
+	* Australia/VIC334/2020
+	* Australia/VIC335/2020
+	* Australia/VIC336/2020
+	* Australia/VIC337/2020
+	* Australia/VIC338/2020
+	* Australia/VIC339/2020
 	* Australia/VIC34/2020
+	* Australia/VIC340/2020
+	* Australia/VIC341/2020
+	* Australia/VIC342/2020
+	* Australia/VIC343/2020
+	* Australia/VIC344/2020
+	* Australia/VIC345/2020
+	* Australia/VIC346/2020
+	* Australia/VIC347/2020
+	* Australia/VIC348/2020
 	* Australia/VIC35/2020
+	* Australia/VIC350/2020
+	* Australia/VIC351/2020
+	* Australia/VIC352/2020
+	* Australia/VIC353/2020
+	* Australia/VIC354/2020
+	* Australia/VIC355/2020
+	* Australia/VIC356/2020
+	* Australia/VIC357/2020
+	* Australia/VIC358/2020
+	* Australia/VIC359/2020
 	* Australia/VIC36/2020
+	* Australia/VIC360/2020
+	* Australia/VIC361/2020
+	* Australia/VIC362/2020
+	* Australia/VIC363/2020
+	* Australia/VIC364/2020
+	* Australia/VIC365/2020
+	* Australia/VIC366/2020
+	* Australia/VIC367/2020
+	* Australia/VIC368/2020
+	* Australia/VIC369/2020
 	* Australia/VIC37/2020
+	* Australia/VIC370/2020
+	* Australia/VIC372/2020
+	* Australia/VIC373/2020
+	* Australia/VIC374/2020
+	* Australia/VIC375/2020
+	* Australia/VIC376/2020
+	* Australia/VIC377/2020
+	* Australia/VIC378/2020
+	* Australia/VIC379/2020
 	* Australia/VIC38/2020
+	* Australia/VIC380/2020
+	* Australia/VIC381/2020
+	* Australia/VIC382/2020
+	* Australia/VIC383/2020
+	* Australia/VIC384/2020
+	* Australia/VIC385/2020
+	* Australia/VIC386/2020
+	* Australia/VIC387/2020
+	* Australia/VIC388/2020
+	* Australia/VIC389/2020
 	* Australia/VIC39/2020
+	* Australia/VIC394/2020
+	* Australia/VIC395/2020
+	* Australia/VIC396/2020
+	* Australia/VIC397/2020
+	* Australia/VIC398/2020
+	* Australia/VIC399/2020
 	* Australia/VIC40/2020
+	* Australia/VIC400/2020
+	* Australia/VIC401/2020
+	* Australia/VIC402/2020
+	* Australia/VIC403/2020
+	* Australia/VIC404/2020
+	* Australia/VIC406/2020
+	* Australia/VIC407/2020
+	* Australia/VIC408/2020
+	* Australia/VIC409/2020
 	* Australia/VIC41/2020
+	* Australia/VIC410/2020
+	* Australia/VIC413/2020
+	* Australia/VIC414/2020
+	* Australia/VIC415/2020
+	* Australia/VIC416/2020
+	* Australia/VIC417/2020
+	* Australia/VIC418/2020
+	* Australia/VIC419/2020
 	* Australia/VIC42/2020
+	* Australia/VIC420/2020
+	* Australia/VIC421/2020
+	* Australia/VIC422/2020
+	* Australia/VIC423/2020
+	* Australia/VIC424/2020
+	* Australia/VIC425/2020
+	* Australia/VIC426/2020
+	* Australia/VIC427/2020
+	* Australia/VIC428/2020
+	* Australia/VIC429/2020
 	* Australia/VIC43/2020
+	* Australia/VIC430/2020
+	* Australia/VIC431/2020
+	* Australia/VIC433/2020
+	* Australia/VIC434/2020
+	* Australia/VIC437/2020
+	* Australia/VIC438/2020
+	* Australia/VIC439/2020
 	* Australia/VIC44/2020
+	* Australia/VIC440/2020
+	* Australia/VIC441/2020
+	* Australia/VIC442/2020
+	* Australia/VIC443/2020
+	* Australia/VIC444/2020
+	* Australia/VIC446/2020
+	* Australia/VIC447/2020
+	* Australia/VIC448/2020
+	* Australia/VIC449/2020
 	* Australia/VIC45/2020
+	* Australia/VIC450/2020
+	* Australia/VIC451/2020
+	* Australia/VIC452/2020
+	* Australia/VIC453/2020
+	* Australia/VIC454/2020
+	* Australia/VIC456/2020
+	* Australia/VIC458/2020
 	* Australia/VIC46/2020
+	* Australia/VIC460/2020
+	* Australia/VIC461/2020
+	* Australia/VIC462/2020
+	* Australia/VIC463/2020
+	* Australia/VIC464/2020
+	* Australia/VIC465/2020
+	* Australia/VIC466/2020
+	* Australia/VIC467/2020
+	* Australia/VIC468/2020
 	* Australia/VIC47/2020
+	* Australia/VIC470/2020
+	* Australia/VIC471/2020
+	* Australia/VIC472/2020
 	* Australia/VIC48/2020
 	* Australia/VIC49/2020
+	* Australia/VIC492/2020
+	* Australia/VIC493/2020
+	* Australia/VIC494/2020
+	* Australia/VIC495/2020
+	* Australia/VIC496/2020
+	* Australia/VIC497/2020
+	* Australia/VIC498/2020
 	* Australia/VIC50/2020
+	* Australia/VIC500/2020
+	* Australia/VIC502/2020
+	* Australia/VIC503/2020
+	* Australia/VIC504/2020
+	* Australia/VIC505/2020
+	* Australia/VIC506/2020
+	* Australia/VIC508/2020
+	* Australia/VIC509/2020
 	* Australia/VIC51/2020
+	* Australia/VIC510/2020
+	* Australia/VIC511/2020
+	* Australia/VIC512/2020
+	* Australia/VIC513/2020
+	* Australia/VIC514/2020
+	* Australia/VIC515/2020
+	* Australia/VIC516/2020
+	* Australia/VIC517/2020
+	* Australia/VIC518/2020
 	* Australia/VIC52/2020
+	* Australia/VIC520/2020
+	* Australia/VIC522/2020
+	* Australia/VIC523/2020
+	* Australia/VIC525/2020
+	* Australia/VIC527/2020
+	* Australia/VIC528/2020
+	* Australia/VIC529/2020
 	* Australia/VIC53/2020
+	* Australia/VIC530/2020
+	* Australia/VIC531/2020
+	* Australia/VIC532/2020
+	* Australia/VIC533/2020
+	* Australia/VIC534/2020
+	* Australia/VIC535/2020
+	* Australia/VIC536/2020
+	* Australia/VIC537/2020
+	* Australia/VIC538/2020
 	* Australia/VIC54/2020
+	* Australia/VIC540/2020
+	* Australia/VIC541/2020
+	* Australia/VIC544/2020
+	* Australia/VIC545/2020
+	* Australia/VIC546/2020
+	* Australia/VIC547/2020
+	* Australia/VIC548/2020
+	* Australia/VIC549/2020
 	* Australia/VIC55/2020
+	* Australia/VIC551/2020
+	* Australia/VIC553/2020
+	* Australia/VIC554/2020
+	* Australia/VIC555/2020
+	* Australia/VIC556/2020
+	* Australia/VIC557/2020
+	* Australia/VIC558/2020
+	* Australia/VIC559/2020
 	* Australia/VIC56/2020
+	* Australia/VIC560/2020
+	* Australia/VIC561/2020
+	* Australia/VIC562/2020
+	* Australia/VIC563/2020
+	* Australia/VIC565/2020
+	* Australia/VIC566/2020
+	* Australia/VIC567/2020
+	* Australia/VIC568/2020
+	* Australia/VIC569/2020
 	* Australia/VIC57/2020
+	* Australia/VIC570/2020
+	* Australia/VIC571/2020
+	* Australia/VIC572/2020
+	* Australia/VIC574/2020
+	* Australia/VIC575/2020
+	* Australia/VIC576/2020
+	* Australia/VIC578/2020
 	* Australia/VIC58/2020
+	* Australia/VIC580/2020
+	* Australia/VIC581/2020
+	* Australia/VIC582/2020
+	* Australia/VIC583/2020
+	* Australia/VIC584/2020
+	* Australia/VIC585/2020
+	* Australia/VIC586/2020
+	* Australia/VIC587/2020
+	* Australia/VIC588/2020
+	* Australia/VIC589/2020
 	* Australia/VIC59/2020
+	* Australia/VIC590/2020
+	* Australia/VIC591/2020
+	* Australia/VIC592/2020
+	* Australia/VIC593/2020
+	* Australia/VIC594/2020
+	* Australia/VIC595/2020
+	* Australia/VIC596/2020
+	* Australia/VIC597/2020
+	* Australia/VIC598/2020
+	* Australia/VIC599/2020
 	* Australia/VIC60/2020
+	* Australia/VIC601/2020
+	* Australia/VIC603/2020
+	* Australia/VIC604/2020
+	* Australia/VIC605/2020
+	* Australia/VIC606/2020
+	* Australia/VIC607/2020
+	* Australia/VIC609/2020
 	* Australia/VIC61/2020
+	* Australia/VIC610/2020
+	* Australia/VIC611/2020
+	* Australia/VIC612/2020
+	* Australia/VIC613/2020
+	* Australia/VIC614/2020
+	* Australia/VIC615/2020
+	* Australia/VIC616/2020
+	* Australia/VIC617/2020
+	* Australia/VIC619/2020
 	* Australia/VIC62/2020
+	* Australia/VIC620/2020
+	* Australia/VIC621/2020
+	* Australia/VIC622/2020
+	* Australia/VIC623/2020
+	* Australia/VIC624/2020
+	* Australia/VIC625/2020
+	* Australia/VIC626/2020
+	* Australia/VIC627/2020
+	* Australia/VIC628/2020
+	* Australia/VIC629/2020
 	* Australia/VIC63/2020
+	* Australia/VIC630/2020
+	* Australia/VIC633/2020
+	* Australia/VIC635/2020
+	* Australia/VIC636/2020
+	* Australia/VIC637/2020
+	* Australia/VIC638/2020
+	* Australia/VIC639/2020
 	* Australia/VIC64/2020
+	* Australia/VIC640/2020
+	* Australia/VIC641/2020
+	* Australia/VIC642/2020
+	* Australia/VIC643/2020
+	* Australia/VIC644/2020
+	* Australia/VIC645/2020
+	* Australia/VIC646/2020
+	* Australia/VIC647/2020
+	* Australia/VIC648/2020
+	* Australia/VIC649/2020
+	* Australia/VIC650/2020
+	* Australia/VIC651/2020
+	* Australia/VIC652/2020
+	* Australia/VIC653/2020
+	* Australia/VIC654/2020
+	* Australia/VIC655/2020
+	* Australia/VIC656/2020
+	* Australia/VIC657/2020
+	* Australia/VIC658/2020
+	* Australia/VIC659/2020
 	* Australia/VIC66/2020
+	* Australia/VIC660/2020
+	* Australia/VIC661/2020
+	* Australia/VIC662/2020
+	* Australia/VIC663/2020
+	* Australia/VIC664/2020
+	* Australia/VIC665/2020
+	* Australia/VIC666/2020
+	* Australia/VIC667/2020
+	* Australia/VIC668/2020
+	* Australia/VIC669/2020
 	* Australia/VIC67/2020
+	* Australia/VIC670/2020
+	* Australia/VIC671/2020
+	* Australia/VIC672/2020
+	* Australia/VIC673/2020
+	* Australia/VIC674/2020
+	* Australia/VIC676/2020
+	* Australia/VIC677/2020
+	* Australia/VIC678/2020
+	* Australia/VIC679/2020
 	* Australia/VIC68/2020
+	* Australia/VIC680/2020
+	* Australia/VIC681/2020
+	* Australia/VIC682/2020
+	* Australia/VIC683/2020
+	* Australia/VIC684/2020
+	* Australia/VIC685/2020
+	* Australia/VIC687/2020
+	* Australia/VIC689/2020
 	* Australia/VIC69/2020
+	* Australia/VIC691/2020
+	* Australia/VIC692/2020
+	* Australia/VIC693/2020
+	* Australia/VIC694/2020
+	* Australia/VIC695/2020
+	* Australia/VIC696/2020
+	* Australia/VIC697/2020
 	* Australia/VIC70/2020
+	* Australia/VIC700/2020
+	* Australia/VIC701/2020
+	* Australia/VIC704/2020
+	* Australia/VIC705/2020
+	* Australia/VIC706/2020
+	* Australia/VIC707/2020
+	* Australia/VIC708/2020
+	* Australia/VIC709/2020
+	* Australia/VIC710/2020
+	* Australia/VIC711/2020
+	* Australia/VIC712/2020
+	* Australia/VIC713/2020
+	* Australia/VIC716/2020
+	* Australia/VIC718/2020
+	* Australia/VIC720/2020
+	* Australia/VIC721/2020
+	* Australia/VIC722/2020
+	* Australia/VIC725/2020
+	* Australia/VIC727/2020
+	* Australia/VIC729/2020
 	* Australia/VIC73/2020
+	* Australia/VIC730/2020
+	* Australia/VIC731/2020
+	* Australia/VIC732/2020
+	* Australia/VIC733/2020
+	* Australia/VIC734/2020
+	* Australia/VIC735/2020
+	* Australia/VIC736/2020
+	* Australia/VIC737/2020
+	* Australia/VIC738/2020
+	* Australia/VIC739/2020
+	* Australia/VIC741/2020
+	* Australia/VIC742/2020
+	* Australia/VIC743/2020
+	* Australia/VIC744/2020
+	* Australia/VIC745/2020
+	* Australia/VIC746/2020
+	* Australia/VIC747/2020
+	* Australia/VIC748/2020
+	* Australia/VIC749/2020
 	* Australia/VIC75/2020
+	* Australia/VIC751/2020
+	* Australia/VIC752/2020
+	* Australia/VIC753/2020
+	* Australia/VIC754/2020
+	* Australia/VIC755/2020
+	* Australia/VIC756/2020
+	* Australia/VIC757/2020
+	* Australia/VIC759/2020
 	* Australia/VIC76/2020
+	* Australia/VIC760/2020
+	* Australia/VIC761/2020
+	* Australia/VIC762/2020
+	* Australia/VIC763/2020
+	* Australia/VIC764/2020
+	* Australia/VIC765/2020
+	* Australia/VIC766/2020
+	* Australia/VIC767/2020
+	* Australia/VIC768/2020
+	* Australia/VIC769/2020
 	* Australia/VIC77/2020
+	* Australia/VIC771/2020
+	* Australia/VIC772/2020
+	* Australia/VIC773/2020
+	* Australia/VIC774/2020
+	* Australia/VIC776/2020
+	* Australia/VIC777/2020
+	* Australia/VIC778/2020
 	* Australia/VIC78/2020
 	* Australia/VIC79/2020
 	* Australia/VIC80/2020
+	* Australia/VIC805/2020
+	* Australia/VIC806/2020
+	* Australia/VIC807/2020
+	* Australia/VIC808/2020
+	* Australia/VIC809/2020
 	* Australia/VIC81/2020
+	* Australia/VIC810/2020
+	* Australia/VIC812/2020
+	* Australia/VIC813/2020
+	* Australia/VIC814/2020
+	* Australia/VIC815/2020
+	* Australia/VIC816/2020
+	* Australia/VIC818/2020
+	* Australia/VIC819/2020
 	* Australia/VIC82/2020
+	* Australia/VIC820/2020
+	* Australia/VIC821/2020
+	* Australia/VIC823/2020
+	* Australia/VIC824/2020
+	* Australia/VIC828/2020
+	* Australia/VIC829/2020
 	* Australia/VIC83/2020
+	* Australia/VIC831/2020
+	* Australia/VIC834/2020
+	* Australia/VIC836/2020
+	* Australia/VIC837/2020
 	* Australia/VIC84/2020
+	* Australia/VIC842/2020
+	* Australia/VIC843/2020
+	* Australia/VIC844/2020
+	* Australia/VIC845/2020
+	* Australia/VIC846/2020
+	* Australia/VIC847/2020
+	* Australia/VIC848/2020
+	* Australia/VIC849/2020
 	* Australia/VIC85/2020
+	* Australia/VIC850/2020
+	* Australia/VIC851/2020
+	* Australia/VIC852/2020
+	* Australia/VIC853/2020
+	* Australia/VIC854/2020
+	* Australia/VIC856/2020
+	* Australia/VIC857/2020
+	* Australia/VIC858/2020
 	* Australia/VIC86/2020
+	* Australia/VIC860/2020
+	* Australia/VIC862/2020
+	* Australia/VIC863/2020
+	* Australia/VIC864/2020
+	* Australia/VIC867/2020
+	* Australia/VIC868/2020
+	* Australia/VIC869/2020
 	* Australia/VIC87/2020
+	* Australia/VIC870/2020
+	* Australia/VIC871/2020
+	* Australia/VIC872/2020
+	* Australia/VIC873/2020
+	* Australia/VIC874/2020
+	* Australia/VIC875/2020
+	* Australia/VIC876/2020
+	* Australia/VIC877/2020
+	* Australia/VIC879/2020
 	* Australia/VIC88/2020
+	* Australia/VIC881/2020
+	* Australia/VIC883/2020
+	* Australia/VIC884/2020
+	* Australia/VIC885/2020
+	* Australia/VIC886/2020
+	* Australia/VIC887/2020
+	* Australia/VIC888/2020
 	* Australia/VIC89/2020
+	* Australia/VIC890/2020
+	* Australia/VIC891/2020
 	* Australia/VIC90/2020
+	* Australia/VIC908/2020
+	* Australia/VIC909/2020
 	* Australia/VIC91/2020
+	* Australia/VIC912/2020
+	* Australia/VIC913/2020
 	* Australia/VIC92/2020
 	* Australia/VIC93/2020
 	* Australia/VIC94/2020
@@ -5455,48 +9611,48 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Australia/VIC99/2020
 
 * Viral Respiratory Lab, National Institute for Biomedical Research (INRB)
-	* Congo/108/2020
-	* Congo/158/2020
-	* Congo/191/2020
-	* Congo/214/2020
-	* Congo/215/2020
-	* Congo/236/2020
-	* Congo/241/2020
-	* Congo/243/2020
-	* Congo/248/2020
-	* Congo/253/2020
-	* Congo/254/2020
-	* Congo/299/2020
-	* Congo/300/2020
-	* Congo/307/2020
-	* Congo/352/2020
-	* Congo/353/2020
-	* Congo/355/2020
-	* Congo/376/2020
-	* Congo/396/2020
-	* Congo/397/2020
-	* Congo/400/2020
-	* Congo/402/2020
-	* Congo/431/2020
-	* Congo/445/2020
-	* Congo/521/2020
-	* Congo/523/2020
-	* Congo/73/2020
-	* Congo/80/2020
-	* Congo/81/2020
-	* Congo/82/2020
-	* Congo/94/2020
-	* Congo/KN-0017/2020
-	* Congo/KN-0038/2020
-	* Congo/KN-0043/2020
-	* Congo/KN-0051/2020
-	* Congo/KN-0054/2020
-	* Congo/KN-0058/2020
-	* Congo/KN-0059/2020
-	* Congo/KN-0060/2020
-	* Congo/KN-0070/2020
-	* Congo/KN-0072/2020
-	* Congo/KN-13/2020
+	* DRC/108/2020
+	* DRC/158/2020
+	* DRC/191/2020
+	* DRC/214/2020
+	* DRC/215/2020
+	* DRC/236/2020
+	* DRC/241/2020
+	* DRC/243/2020
+	* DRC/248/2020
+	* DRC/253/2020
+	* DRC/254/2020
+	* DRC/299/2020
+	* DRC/300/2020
+	* DRC/307/2020
+	* DRC/352/2020
+	* DRC/353/2020
+	* DRC/355/2020
+	* DRC/376/2020
+	* DRC/396/2020
+	* DRC/397/2020
+	* DRC/400/2020
+	* DRC/402/2020
+	* DRC/431/2020
+	* DRC/445/2020
+	* DRC/521/2020
+	* DRC/523/2020
+	* DRC/73/2020
+	* DRC/80/2020
+	* DRC/81/2020
+	* DRC/82/2020
+	* DRC/94/2020
+	* DRC/KN-0017/2020
+	* DRC/KN-0038/2020
+	* DRC/KN-0043/2020
+	* DRC/KN-0051/2020
+	* DRC/KN-0054/2020
+	* DRC/KN-0058/2020
+	* DRC/KN-0059/2020
+	* DRC/KN-0060/2020
+	* DRC/KN-0070/2020
+	* DRC/KN-0072/2020
+	* DRC/KN-13/2020
 
 * Virginia Division of Consolidated Laboratories
 	* USA/VA-DCLS-0003/2020
@@ -5526,6 +9682,214 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Scotland/EDB011/2020
 	* Scotland/EDB012/2020
 	* Scotland/EDB013/2020
+
+* Virology Department, Royal Infirmary of Edinburgh, NHS Lothian / School of Biological Sciences, University of Edinburgh / Institute of Genetics and Molecular Medicine, University of Edinburgh
+	* Scotland/EDB002/2020
+	* Scotland/EDB014/2020
+	* Scotland/EDB015/2020
+	* Scotland/EDB016/2020
+	* Scotland/EDB017/2020
+	* Scotland/EDB018/2020
+	* Scotland/EDB019/2020
+	* Scotland/EDB020/2020
+	* Scotland/EDB021/2020
+	* Scotland/EDB022/2020
+	* Scotland/EDB023/2020
+	* Scotland/EDB024/2020
+	* Scotland/EDB025/2020
+	* Scotland/EDB026/2020
+	* Scotland/EDB027/2020
+	* Scotland/EDB028/2020
+	* Scotland/EDB029/2020
+	* Scotland/EDB030/2020
+	* Scotland/EDB031/2020
+	* Scotland/EDB032/2020
+	* Scotland/EDB033/2020
+	* Scotland/EDB034/2020
+	* Scotland/EDB035/2020
+	* Scotland/EDB036/2020
+	* Scotland/EDB037/2020
+	* Scotland/EDB038/2020
+	* Scotland/EDB039/2020
+	* Scotland/EDB041/2020
+	* Scotland/EDB042/2020
+	* Scotland/EDB044/2020
+	* Scotland/EDB045/2020
+	* Scotland/EDB046/2020
+	* Scotland/EDB047/2020
+	* Scotland/EDB048/2020
+	* Scotland/EDB049/2020
+	* Scotland/EDB050/2020
+	* Scotland/EDB051/2020
+	* Scotland/EDB052/2020
+	* Scotland/EDB053/2020
+	* Scotland/EDB054/2020
+	* Scotland/EDB055/2020
+	* Scotland/EDB056/2020
+	* Scotland/EDB057/2020
+	* Scotland/EDB058/2020
+	* Scotland/EDB063/2020
+	* Scotland/EDB065/2020
+	* Scotland/EDB066/2020
+	* Scotland/EDB067/2020
+	* Scotland/EDB068/2020
+	* Scotland/EDB070/2020
+	* Scotland/EDB071/2020
+	* Scotland/EDB073/2020
+	* Scotland/EDB074/2020
+	* Scotland/EDB075/2020
+	* Scotland/EDB081/2020
+	* Scotland/EDB082/2020
+	* Scotland/EDB083/2020
+	* Scotland/EDB084/2020
+	* Scotland/EDB085/2020
+	* Scotland/EDB086/2020
+	* Scotland/EDB087/2020
+	* Scotland/EDB089/2020
+	* Scotland/EDB090/2020
+	* Scotland/EDB091/2020
+	* Scotland/EDB092/2020
+	* Scotland/EDB093/2020
+	* Scotland/EDB095/2020
+	* Scotland/EDB096/2020
+	* Scotland/EDB097/2020
+	* Scotland/EDB098/2020
+	* Scotland/EDB099/2020
+	* Scotland/EDB100/2020
+	* Scotland/EDB101/2020
+	* Scotland/EDB102/2020
+	* Scotland/EDB103/2020
+	* Scotland/EDB106/2020
+	* Scotland/EDB107/2020
+	* Scotland/EDB108/2020
+	* Scotland/EDB109/2020
+	* Scotland/EDB110/2020
+	* Scotland/EDB111/2020
+	* Scotland/EDB113/2020
+	* Scotland/EDB114/2020
+	* Scotland/EDB118/2020
+	* Scotland/EDB119/2020
+	* Scotland/EDB120/2020
+	* Scotland/EDB122/2020
+	* Scotland/EDB124/2020
+	* Scotland/EDB125/2020
+	* Scotland/EDB128/2020
+	* Scotland/EDB130/2020
+	* Scotland/EDB131/2020
+	* Scotland/EDB132/2020
+	* Scotland/EDB142/2020
+	* Scotland/EDB144/2020
+	* Scotland/EDB145/2020
+	* Scotland/EDB146/2020
+	* Scotland/EDB148/2020
+	* Scotland/EDB149/2020
+	* Scotland/EDB150/2020
+	* Scotland/EDB151/2020
+	* Scotland/EDB155/2020
+	* Scotland/EDB156/2020
+	* Scotland/EDB157/2020
+	* Scotland/EDB161/2020
+	* Scotland/EDB162/2020
+	* Scotland/EDB168/2020
+	* Scotland/EDB171/2020
+	* Scotland/EDB181/2020
+	* Scotland/EDB182/2020
+	* Scotland/EDB183/2020
+	* Scotland/EDB185/2020
+	* Scotland/EDB186/2020
+	* Scotland/EDB188/2020
+	* Scotland/EDB189/2020
+	* Scotland/EDB191/2020
+	* Scotland/EDB192/2020
+	* Scotland/EDB193/2020
+	* Scotland/EDB194/2020
+	* Scotland/EDB197/2020
+	* Scotland/EDB198/2020
+	* Scotland/EDB199/2020
+	* Scotland/EDB202/2020
+	* Scotland/EDB204/2020
+	* Scotland/EDB212/2020
+	* Scotland/EDB214/2020
+	* Scotland/EDB216/2020
+	* Scotland/EDB218/2020
+	* Scotland/EDB219/2020
+	* Scotland/EDB222/2020
+	* Scotland/EDB226/2020
+	* Scotland/EDB227/2020
+	* Scotland/EDB232/2020
+	* Scotland/EDB234/2020
+	* Scotland/EDB245/2020
+	* Scotland/EDB248/2020
+	* Scotland/EDB252/2020
+	* Scotland/EDB254/2020
+	* Scotland/EDB266/2020
+	* Scotland/EDB270/2020
+	* Scotland/EDB273/2020
+	* Scotland/EDB274/2020
+	* Scotland/EDB275/2020
+	* Scotland/EDB278/2020
+	* Scotland/EDB283/2020
+	* Scotland/EDB287/2020
+	* Scotland/EDB288/2020
+	* Scotland/EDB297/2020
+	* Scotland/EDB300/2020
+	* Scotland/EDB314/2020
+	* Scotland/EDB318/2020
+	* Scotland/EDB319/2020
+	* Scotland/EDB325/2020
+	* Scotland/EDB326/2020
+	* Scotland/EDB327/2020
+	* Scotland/EDB335/2020
+	* Scotland/EDB336/2020
+	* Scotland/EDB342/2020
+	* Scotland/EDB348/2020
+	* Scotland/EDB354/2020
+	* Scotland/EDB355/2020
+	* Scotland/EDB356/2020
+	* Scotland/EDB362/2020
+	* Scotland/EDB363/2020
+	* Scotland/EDB365/2020
+	* Scotland/EDB367/2020
+	* Scotland/EDB373/2020
+	* Scotland/EDB374/2020
+	* Scotland/EDB378/2020
+	* Scotland/EDB379/2020
+	* Scotland/EDB382/2020
+	* Scotland/EDB383/2020
+	* Scotland/EDB386/2020
+	* Scotland/EDB389/2020
+	* Scotland/EDB390/2020
+	* Scotland/EDB391/2020
+	* Scotland/EDB392/2020
+	* Scotland/EDB396/2020
+	* Scotland/EDB397/2020
+	* Scotland/EDB399/2020
+	* Scotland/EDB401/2020
+	* Scotland/EDB407/2020
+	* Scotland/EDB409/2020
+	* Scotland/EDB410/2020
+	* Scotland/EDB412/2020
+	* Scotland/EDB413/2020
+	* Scotland/EDB420/2020
+	* Scotland/EDB421/2020
+	* Scotland/EDB442/2020
+	* Scotland/EDB501/2020
+	* Scotland/EDB502/2020
+	* Scotland/EDB508/2020
+	* Scotland/EDB513/2020
+	* Scotland/EDB517/2020
+	* Scotland/EDB530/2020
+	* Scotland/EDB533/2020
+	* Scotland/EDB551/2020
+	* Scotland/EDB555/2020
+	* Scotland/EDB557/2020
+	* Scotland/EDB559/2020
+	* Scotland/EDB560/2020
+	* Scotland/EDB561/2020
+	* Scotland/EDB562/2020
+	* Scotland/EDB563/2020
+	* Scotland/EDB565/2020
+	* Scotland/EDB566/2020
 
 * Virology Department, Sheffield Teaching Hospitals NHS Foundation Trust
 	* England/SHEF-BFCB1/2020
@@ -5749,12 +10113,100 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* USA/WA-NH8/2020
 	* USA/WA-NH9/2020
 	* USA/WA1-A12/2020
+	* USA/WA_0418/2020
+	* USA/WA_0422/2020
+	* USA/WA_0427/2020
+	* USA/WA_0428/2020
+	* USA/WA_0429/2020
+	* USA/WA_0432/2020
+	* USA/WA_0434/2020
+	* USA/WA_0440/2020
+	* USA/WA_0441/2020
+	* USA/WA_0442/2020
+	* USA/WA_0447/2020
+	* USA/WA_0448/2020
+	* USA/WA_0457/2020
+	* USA/WA_0478/2020
+	* USA/WA_0480/2020
+	* USA/WA_0484/2020
+	* USA/WA_0711/2020
+	* USA/WA_0797/2020
 	* USA/WA_5030/2020
 
 * WHO National Influenza Centre Russian Federation
 	* Russia/StPetersburg-3524/2020
 	* Russia/StPetersburg-RII3992/2020
 	* Russia/StPetersburg-RII3997/2020
+
+* Wadsworth Center, New York State Department of Health
+	* USA/NY-Wadsworth-10495-01/2020
+	* USA/NY-Wadsworth-11735-01/2020
+
+* Wadsworth Center, New York State Department.of Health
+	* USA/NY-Wadsworth-10496-01/2020
+	* USA/NY-Wadsworth-10528-01/2020
+	* USA/NY-Wadsworth-10683-01/2020
+	* USA/NY-Wadsworth-10690-01/2020
+	* USA/NY-Wadsworth-10695-01/2020
+	* USA/NY-Wadsworth-10703-01/2020
+	* USA/NY-Wadsworth-10704-01/2020
+	* USA/NY-Wadsworth-10707-01/2020
+	* USA/NY-Wadsworth-10935-01/2020
+	* USA/NY-Wadsworth-10955-01/2020
+	* USA/NY-Wadsworth-10957-02/2020
+	* USA/NY-Wadsworth-10958-01/2020
+	* USA/NY-Wadsworth-10999-01/2020
+	* USA/NY-Wadsworth-11000-01/2020
+	* USA/NY-Wadsworth-11003-01/2020
+	* USA/NY-Wadsworth-11017-01/2020
+	* USA/NY-Wadsworth-11180-01/2020
+	* USA/NY-Wadsworth-11190-01/2020
+	* USA/NY-Wadsworth-11191-01/2020
+	* USA/NY-Wadsworth-11202-01/2020
+	* USA/NY-Wadsworth-11207-01/2020
+	* USA/NY-Wadsworth-11245-01/2020
+	* USA/NY-Wadsworth-11249-01/2020
+	* USA/NY-Wadsworth-11284-01/2020
+	* USA/NY-Wadsworth-11291-01/2020
+	* USA/NY-Wadsworth-11330-01/2020
+	* USA/NY-Wadsworth-11344-01/2020
+	* USA/NY-Wadsworth-11353-01/2020
+	* USA/NY-Wadsworth-11354-01/2020
+	* USA/NY-Wadsworth-11379-01/2020
+	* USA/NY-Wadsworth-11380-01/2020
+	* USA/NY-Wadsworth-11666-01/2020
+	* USA/NY-Wadsworth-11717-01/2020
+	* USA/NY-Wadsworth-11736-02/2020
+	* USA/NY-Wadsworth-12883-02/2020
+	* USA/NY-Wadsworth-13468-02/2020
+	* USA/NY-Wadsworth-14726-02/2020
+	* USA/NY-Wadsworth-15616-01/2020
+	* USA/NY-Wadsworth-16004-01/2020
+	* USA/NY-Wadsworth-16080-01/2020
+	* USA/NY-Wadsworth-16166-01/2020
+	* USA/NY-Wadsworth-16480-01/2020
+	* USA/NY-Wadsworth-16766-01/2020
+	* USA/NY-Wadsworth-16833-01/2020
+	* USA/NY-Wadsworth-22503-01/2020
+	* USA/NY-Wadsworth-22874-01/2020
+	* USA/NY-Wadsworth-25860-01/2020
+	* USA/NY-Wadsworth-26088-01/2020
+	* USA/NY-Wadsworth-26551-01/2020
+	* USA/NY-Wadsworth-26856-01/2020
+	* USA/NY-Wadsworth-27073-01/2020
+	* USA/NY-Wadsworth-27162-01/2020
+	* USA/NY-Wadsworth-27804-01/2020
+	* USA/NY-Wadsworth-29275-01/2020
+	* USA/NY-Wadsworth-30164-01/2020
+	* USA/NY-Wadsworth-30246-01/2020
+	* USA/NY-Wadsworth-30878-01/2020
+	* USA/NY-Wadsworth-31302-01/2020
+	* USA/NY-Wadsworth-31364-01/2020
+	* USA/NY-Wadsworth-31488-01/2020
+	* USA/NY-Wadsworth-31617-01/2020
+	* USA/NY-Wadsworth-31930-01/2020
+	* USA/NY-Wadsworth-32104-01/2020
+	* USA/NY-Wadsworth-32851-01/2020
 
 * Wales Specialist Virology Centre
 	* Wales/PHW03/2020
@@ -6077,6 +10529,366 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Wales/PHWC-255D9/2020
 	* Wales/PHWC-255E8/2020
 	* Wales/PHWC-255F7/2020
+	* Wales/PHWC-25612/2020
+	* Wales/PHWC-25621/2020
+	* Wales/PHWC-2565E/2020
+	* Wales/PHWC-2566D/2020
+	* Wales/PHWC-2568B/2020
+	* Wales/PHWC-2569A/2020
+	* Wales/PHWC-256D6/2020
+	* Wales/PHWC-256E5/2020
+	* Wales/PHWC-256F4/2020
+	* Wales/PHWC-25700/2020
+	* Wales/PHWC-2571F/2020
+	* Wales/PHWC-2573D/2020
+	* Wales/PHWC-2574C/2020
+	* Wales/PHWC-2575B/2020
+	* Wales/PHWC-2576A/2020
+	* Wales/PHWC-25779/2020
+	* Wales/PHWC-25788/2020
+	* Wales/PHWC-25797/2020
+	* Wales/PHWC-257A6/2020
+	* Wales/PHWC-257B5/2020
+	* Wales/PHWC-257C4/2020
+	* Wales/PHWC-257F1/2020
+	* Wales/PHWC-2581C/2020
+	* Wales/PHWC-25849/2020
+	* Wales/PHWC-25858/2020
+	* Wales/PHWC-25867/2020
+	* Wales/PHWC-258EF/2020
+	* Wales/PHWC-258FE/2020
+	* Wales/PHWC-2590A/2020
+	* Wales/PHWC-25919/2020
+	* Wales/PHWC-25928/2020
+	* Wales/PHWC-25937/2020
+	* Wales/PHWC-25946/2020
+	* Wales/PHWC-25955/2020
+	* Wales/PHWC-25964/2020
+	* Wales/PHWC-25973/2020
+	* Wales/PHWC-259A0/2020
+	* Wales/PHWC-25A25/2020
+	* Wales/PHWC-25A34/2020
+	* Wales/PHWC-25A52/2020
+	* Wales/PHWC-25A61/2020
+	* Wales/PHWC-25A70/2020
+	* Wales/PHWC-25A8F/2020
+	* Wales/PHWC-25A9E/2020
+	* Wales/PHWC-25AAD/2020
+	* Wales/PHWC-25ABC/2020
+	* Wales/PHWC-25ACB/2020
+	* Wales/PHWC-25AF8/2020
+	* Wales/PHWC-25B04/2020
+	* Wales/PHWC-25B13/2020
+	* Wales/PHWC-25B22/2020
+	* Wales/PHWC-25B31/2020
+	* Wales/PHWC-25B40/2020
+	* Wales/PHWC-25B5F/2020
+	* Wales/PHWC-25B6E/2020
+	* Wales/PHWC-25B7D/2020
+	* Wales/PHWC-25BB9/2020
+	* Wales/PHWC-25BC8/2020
+	* Wales/PHWC-25BD7/2020
+	* Wales/PHWC-25BE6/2020
+	* Wales/PHWC-25BF5/2020
+	* Wales/PHWC-25C01/2020
+	* Wales/PHWC-25C10/2020
+	* Wales/PHWC-25C2F/2020
+	* Wales/PHWC-25C3E/2020
+	* Wales/PHWC-25C4D/2020
+	* Wales/PHWC-25C98/2020
+	* Wales/PHWC-25DA4/2020
+	* Wales/PHWC-25DB3/2020
+	* Wales/PHWC-25DC2/2020
+	* Wales/PHWC-25DD1/2020
+	* Wales/PHWC-25DE0/2020
+	* Wales/PHWC-25E0B/2020
+	* Wales/PHWC-25E1A/2020
+	* Wales/PHWC-25E29/2020
+	* Wales/PHWC-25E38/2020
+	* Wales/PHWC-25E47/2020
+	* Wales/PHWC-25E56/2020
+	* Wales/PHWC-25E65/2020
+	* Wales/PHWC-25E74/2020
+	* Wales/PHWC-25E83/2020
+	* Wales/PHWC-25E92/2020
+	* Wales/PHWC-25EA1/2020
+	* Wales/PHWC-25EB0/2020
+	* Wales/PHWC-25EDE/2020
+	* Wales/PHWC-25EFC/2020
+	* Wales/PHWC-25F08/2020
+	* Wales/PHWC-25F17/2020
+	* Wales/PHWC-25F26/2020
+	* Wales/PHWC-25F35/2020
+	* Wales/PHWC-25F44/2020
+	* Wales/PHWC-25F53/2020
+	* Wales/PHWC-25F62/2020
+	* Wales/PHWC-25F71/2020
+	* Wales/PHWC-25F80/2020
+	* Wales/PHWC-25F9F/2020
+	* Wales/PHWC-25FAE/2020
+	* Wales/PHWC-25FBD/2020
+	* Wales/PHWC-25FCC/2020
+	* Wales/PHWC-25FDB/2020
+	* Wales/PHWC-25FEA/2020
+	* Wales/PHWC-25FF9/2020
+	* Wales/PHWC-26004/2020
+	* Wales/PHWC-26013/2020
+	* Wales/PHWC-26022/2020
+	* Wales/PHWC-26031/2020
+	* Wales/PHWC-26040/2020
+	* Wales/PHWC-2605F/2020
+	* Wales/PHWC-2606E/2020
+	* Wales/PHWC-2607D/2020
+	* Wales/PHWC-2608C/2020
+	* Wales/PHWC-2609B/2020
+	* Wales/PHWC-260AA/2020
+	* Wales/PHWC-260B9/2020
+	* Wales/PHWC-260C8/2020
+	* Wales/PHWC-260D7/2020
+	* Wales/PHWC-260E6/2020
+	* Wales/PHWC-260F5/2020
+	* Wales/PHWC-26101/2020
+	* Wales/PHWC-26110/2020
+	* Wales/PHWC-2612F/2020
+	* Wales/PHWC-2613E/2020
+	* Wales/PHWC-2614D/2020
+	* Wales/PHWC-2617A/2020
+	* Wales/PHWC-26198/2020
+	* Wales/PHWC-261D4/2020
+	* Wales/PHWC-261E3/2020
+	* Wales/PHWC-261F2/2020
+	* Wales/PHWC-2620E/2020
+	* Wales/PHWC-2621D/2020
+	* Wales/PHWC-2622C/2020
+	* Wales/PHWC-2623B/2020
+	* Wales/PHWC-2624A/2020
+	* Wales/PHWC-26259/2020
+	* Wales/PHWC-26295/2020
+	* Wales/PHWC-262A4/2020
+	* Wales/PHWC-262B3/2020
+	* Wales/PHWC-262C2/2020
+	* Wales/PHWC-262D1/2020
+	* Wales/PHWC-262E0/2020
+	* Wales/PHWC-262FF/2020
+	* Wales/PHWC-2630B/2020
+	* Wales/PHWC-2631A/2020
+	* Wales/PHWC-26329/2020
+	* Wales/PHWC-26338/2020
+	* Wales/PHWC-26347/2020
+	* Wales/PHWC-26356/2020
+	* Wales/PHWC-26365/2020
+	* Wales/PHWC-26383/2020
+	* Wales/PHWC-26392/2020
+	* Wales/PHWC-263A1/2020
+	* Wales/PHWC-263B0/2020
+	* Wales/PHWC-263CF/2020
+	* Wales/PHWC-263DE/2020
+	* Wales/PHWC-263ED/2020
+	* Wales/PHWC-263FC/2020
+	* Wales/PHWC-26408/2020
+	* Wales/PHWC-26417/2020
+	* Wales/PHWC-26426/2020
+	* Wales/PHWC-26435/2020
+	* Wales/PHWC-26444/2020
+	* Wales/PHWC-26453/2020
+	* Wales/PHWC-26462/2020
+	* Wales/PHWC-26471/2020
+	* Wales/PHWC-26480/2020
+	* Wales/PHWC-2649F/2020
+	* Wales/PHWC-264AE/2020
+	* Wales/PHWC-264BD/2020
+	* Wales/PHWC-264CC/2020
+	* Wales/PHWC-264DB/2020
+	* Wales/PHWC-264EA/2020
+	* Wales/PHWC-264F9/2020
+	* Wales/PHWC-26505/2020
+	* Wales/PHWC-26514/2020
+	* Wales/PHWC-26523/2020
+	* Wales/PHWC-26532/2020
+	* Wales/PHWC-26541/2020
+	* Wales/PHWC-26550/2020
+	* Wales/PHWC-2656F/2020
+	* Wales/PHWC-2658D/2020
+	* Wales/PHWC-2659C/2020
+	* Wales/PHWC-265AB/2020
+	* Wales/PHWC-265BA/2020
+	* Wales/PHWC-265C9/2020
+	* Wales/PHWC-265D8/2020
+	* Wales/PHWC-265E7/2020
+	* Wales/PHWC-265F6/2020
+	* Wales/PHWC-26602/2020
+	* Wales/PHWC-26611/2020
+	* Wales/PHWC-26620/2020
+	* Wales/PHWC-2663F/2020
+	* Wales/PHWC-2664E/2020
+	* Wales/PHWC-2665D/2020
+	* Wales/PHWC-2666C/2020
+	* Wales/PHWC-2667B/2020
+	* Wales/PHWC-2668A/2020
+	* Wales/PHWC-26699/2020
+	* Wales/PHWC-266A8/2020
+	* Wales/PHWC-266B7/2020
+	* Wales/PHWC-266C6/2020
+	* Wales/PHWC-266D5/2020
+	* Wales/PHWC-266E4/2020
+	* Wales/PHWC-266F3/2020
+	* Wales/PHWC-2670F/2020
+	* Wales/PHWC-2671E/2020
+	* Wales/PHWC-2672D/2020
+	* Wales/PHWC-2673C/2020
+	* Wales/PHWC-2674B/2020
+	* Wales/PHWC-2675A/2020
+	* Wales/PHWC-26769/2020
+	* Wales/PHWC-26787/2020
+	* Wales/PHWC-26796/2020
+	* Wales/PHWC-267A5/2020
+	* Wales/PHWC-267B4/2020
+	* Wales/PHWC-267C3/2020
+	* Wales/PHWC-267D2/2020
+	* Wales/PHWC-267E1/2020
+	* Wales/PHWC-2680C/2020
+	* Wales/PHWC-2681B/2020
+	* Wales/PHWC-2682A/2020
+	* Wales/PHWC-26839/2020
+	* Wales/PHWC-26848/2020
+	* Wales/PHWC-26857/2020
+	* Wales/PHWC-26866/2020
+	* Wales/PHWC-26875/2020
+	* Wales/PHWC-26884/2020
+	* Wales/PHWC-26893/2020
+	* Wales/PHWC-268A2/2020
+	* Wales/PHWC-268B1/2020
+	* Wales/PHWC-268C0/2020
+	* Wales/PHWC-268DF/2020
+	* Wales/PHWC-268FD/2020
+	* Wales/PHWC-26909/2020
+	* Wales/PHWC-26918/2020
+	* Wales/PHWC-26927/2020
+	* Wales/PHWC-26936/2020
+	* Wales/PHWC-26945/2020
+	* Wales/PHWC-26954/2020
+	* Wales/PHWC-26963/2020
+	* Wales/PHWC-26972/2020
+	* Wales/PHWC-26981/2020
+	* Wales/PHWC-26990/2020
+	* Wales/PHWC-269AF/2020
+	* Wales/PHWC-269BE/2020
+	* Wales/PHWC-269CD/2020
+	* Wales/PHWC-269DC/2020
+	* Wales/PHWC-269EB/2020
+	* Wales/PHWC-269FA/2020
+	* Wales/PHWC-26A06/2020
+	* Wales/PHWC-26A15/2020
+	* Wales/PHWC-26A24/2020
+	* Wales/PHWC-26A33/2020
+	* Wales/PHWC-26A42/2020
+	* Wales/PHWC-26A51/2020
+	* Wales/PHWC-26A60/2020
+	* Wales/PHWC-26A7F/2020
+	* Wales/PHWC-26A8E/2020
+	* Wales/PHWC-26A9D/2020
+	* Wales/PHWC-26AAC/2020
+	* Wales/PHWC-26ABB/2020
+	* Wales/PHWC-26ACA/2020
+	* Wales/PHWC-26AD9/2020
+	* Wales/PHWC-26AE8/2020
+	* Wales/PHWC-26AF7/2020
+	* Wales/PHWC-26B03/2020
+	* Wales/PHWC-26B12/2020
+	* Wales/PHWC-26B21/2020
+	* Wales/PHWC-26B4F/2020
+	* Wales/PHWC-26B7C/2020
+	* Wales/PHWC-26B8B/2020
+	* Wales/PHWC-26B9A/2020
+	* Wales/PHWC-26BA9/2020
+	* Wales/PHWC-26BC7/2020
+	* Wales/PHWC-26BD6/2020
+	* Wales/PHWC-26BF4/2020
+	* Wales/PHWC-26C00/2020
+	* Wales/PHWC-26C1F/2020
+	* Wales/PHWC-26C2E/2020
+	* Wales/PHWC-26C3D/2020
+	* Wales/PHWC-26C4C/2020
+	* Wales/PHWC-26C5B/2020
+	* Wales/PHWC-26C6A/2020
+	* Wales/PHWC-26C79/2020
+	* Wales/PHWC-26C88/2020
+	* Wales/PHWC-26C97/2020
+	* Wales/PHWC-26CA6/2020
+	* Wales/PHWC-26CB5/2020
+	* Wales/PHWC-26CC4/2020
+	* Wales/PHWC-26CD3/2020
+	* Wales/PHWC-26CE2/2020
+	* Wales/PHWC-26CF1/2020
+	* Wales/PHWC-26D0D/2020
+	* Wales/PHWC-26D1C/2020
+	* Wales/PHWC-26D2B/2020
+	* Wales/PHWC-26D3A/2020
+	* Wales/PHWC-26D49/2020
+	* Wales/PHWC-26D58/2020
+	* Wales/PHWC-26D67/2020
+	* Wales/PHWC-26D76/2020
+	* Wales/PHWC-26D85/2020
+	* Wales/PHWC-26D94/2020
+	* Wales/PHWC-26DA3/2020
+	* Wales/PHWC-26DB2/2020
+	* Wales/PHWC-26DC1/2020
+	* Wales/PHWC-26DD0/2020
+	* Wales/PHWC-26DEF/2020
+	* Wales/PHWC-26E0A/2020
+	* Wales/PHWC-26E19/2020
+	* Wales/PHWC-26E28/2020
+	* Wales/PHWC-26E37/2020
+	* Wales/PHWC-26E46/2020
+	* Wales/PHWC-26E55/2020
+	* Wales/PHWC-26E64/2020
+	* Wales/PHWC-26E73/2020
+	* Wales/PHWC-26E82/2020
+	* Wales/PHWC-26E91/2020
+	* Wales/PHWC-26EA0/2020
+	* Wales/PHWC-26EBF/2020
+	* Wales/PHWC-26ECE/2020
+	* Wales/PHWC-26EDD/2020
+	* Wales/PHWC-26EEC/2020
+	* Wales/PHWC-26EFB/2020
+	* Wales/PHWC-26F07/2020
+	* Wales/PHWC-26F16/2020
+	* Wales/PHWC-26F25/2020
+	* Wales/PHWC-26F34/2020
+	* Wales/PHWC-26F43/2020
+	* Wales/PHWC-26F52/2020
+	* Wales/PHWC-26F61/2020
+	* Wales/PHWC-26F70/2020
+	* Wales/PHWC-26F8F/2020
+	* Wales/PHWC-26F9E/2020
+	* Wales/PHWC-26FAD/2020
+	* Wales/PHWC-26FBC/2020
+	* Wales/PHWC-26FCB/2020
+	* Wales/PHWC-26FDA/2020
+	* Wales/PHWC-26FE9/2020
+	* Wales/PHWC-26FF8/2020
+	* Wales/PHWC-27003/2020
+	* Wales/PHWC-27012/2020
+	* Wales/PHWC-27021/2020
+	* Wales/PHWC-27030/2020
+	* Wales/PHWC-2704F/2020
+	* Wales/PHWC-2705E/2020
+	* Wales/PHWC-2706D/2020
+	* Wales/PHWC-2707C/2020
+	* Wales/PHWC-2708B/2020
+	* Wales/PHWC-2709A/2020
+	* Wales/PHWC-270A9/2020
+	* Wales/PHWC-270B8/2020
+	* Wales/PHWC-270C7/2020
+	* Wales/PHWC-270D6/2020
+	* Wales/PHWC-270E5/2020
+	* Wales/PHWC-27100/2020
+	* Wales/PHWC-2711F/2020
+	* Wales/PHWC-2712E/2020
+	* Wales/PHWC-2713D/2020
+	* Wales/PHWC-2714C/2020
+	* Wales/PHWC-2715B/2020
+	* Wales/PHWC-2716A/2020
 
 * Washington State Department of Health
 	* USA/WA-S100/2020
@@ -6231,6 +11043,180 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Scotland/CVR07/2020
 	* Scotland/CVR10/2020
 
+* West of Scotland Specialist Virology Centre, NHSGGC / MRC-University of Glasgow Centre for Virus Research
+	* Scotland/CVR100/2020
+	* Scotland/CVR101/2020
+	* Scotland/CVR102/2020
+	* Scotland/CVR103/2020
+	* Scotland/CVR104/2020
+	* Scotland/CVR106/2020
+	* Scotland/CVR107/2020
+	* Scotland/CVR108/2020
+	* Scotland/CVR11/2020
+	* Scotland/CVR110/2020
+	* Scotland/CVR112/2020
+	* Scotland/CVR113/2020
+	* Scotland/CVR114/2020
+	* Scotland/CVR115/2020
+	* Scotland/CVR117/2020
+	* Scotland/CVR118/2020
+	* Scotland/CVR12/2020
+	* Scotland/CVR120/2020
+	* Scotland/CVR122/2020
+	* Scotland/CVR123/2020
+	* Scotland/CVR124/2020
+	* Scotland/CVR125/2020
+	* Scotland/CVR126/2020
+	* Scotland/CVR128/2020
+	* Scotland/CVR129/2020
+	* Scotland/CVR13/2020
+	* Scotland/CVR130/2020
+	* Scotland/CVR131/2020
+	* Scotland/CVR132/2020
+	* Scotland/CVR133/2020
+	* Scotland/CVR134/2020
+	* Scotland/CVR135/2020
+	* Scotland/CVR136/2020
+	* Scotland/CVR137/2020
+	* Scotland/CVR138/2020
+	* Scotland/CVR139/2020
+	* Scotland/CVR14/2020
+	* Scotland/CVR140/2020
+	* Scotland/CVR141/2020
+	* Scotland/CVR142/2020
+	* Scotland/CVR143/2020
+	* Scotland/CVR144/2020
+	* Scotland/CVR146/2020
+	* Scotland/CVR147/2020
+	* Scotland/CVR149/2020
+	* Scotland/CVR15/2020
+	* Scotland/CVR150/2020
+	* Scotland/CVR151/2020
+	* Scotland/CVR152/2020
+	* Scotland/CVR153/2020
+	* Scotland/CVR155/2020
+	* Scotland/CVR159/2020
+	* Scotland/CVR16/2020
+	* Scotland/CVR161/2020
+	* Scotland/CVR162/2020
+	* Scotland/CVR163/2020
+	* Scotland/CVR164/2020
+	* Scotland/CVR165/2020
+	* Scotland/CVR166/2020
+	* Scotland/CVR167/2020
+	* Scotland/CVR168/2020
+	* Scotland/CVR169/2020
+	* Scotland/CVR17/2020
+	* Scotland/CVR170/2020
+	* Scotland/CVR171/2020
+	* Scotland/CVR172/2020
+	* Scotland/CVR173/2020
+	* Scotland/CVR174/2020
+	* Scotland/CVR175/2020
+	* Scotland/CVR176/2020
+	* Scotland/CVR177/2020
+	* Scotland/CVR178/2020
+	* Scotland/CVR179/2020
+	* Scotland/CVR18/2020
+	* Scotland/CVR180/2020
+	* Scotland/CVR183/2020
+	* Scotland/CVR185/2020
+	* Scotland/CVR19/2020
+	* Scotland/CVR190/2020
+	* Scotland/CVR191/2020
+	* Scotland/CVR195/2020
+	* Scotland/CVR196/2020
+	* Scotland/CVR199/2020
+	* Scotland/CVR20/2020
+	* Scotland/CVR200/2020
+	* Scotland/CVR201/2020
+	* Scotland/CVR202/2020
+	* Scotland/CVR203/2020
+	* Scotland/CVR205/2020
+	* Scotland/CVR206/2020
+	* Scotland/CVR207/2020
+	* Scotland/CVR208/2020
+	* Scotland/CVR21/2020
+	* Scotland/CVR211/2020
+	* Scotland/CVR212/2020
+	* Scotland/CVR213/2020
+	* Scotland/CVR215/2020
+	* Scotland/CVR216/2020
+	* Scotland/CVR218/2020
+	* Scotland/CVR219/2020
+	* Scotland/CVR220/2020
+	* Scotland/CVR222/2020
+	* Scotland/CVR23/2020
+	* Scotland/CVR235/2020
+	* Scotland/CVR236/2020
+	* Scotland/CVR24/2020
+	* Scotland/CVR25/2020
+	* Scotland/CVR264/2020
+	* Scotland/CVR268/2020
+	* Scotland/CVR27/2020
+	* Scotland/CVR28/2020
+	* Scotland/CVR29/2020
+	* Scotland/CVR30/2020
+	* Scotland/CVR31/2020
+	* Scotland/CVR32/2020
+	* Scotland/CVR33/2020
+	* Scotland/CVR34/2020
+	* Scotland/CVR35/2020
+	* Scotland/CVR36/2020
+	* Scotland/CVR37/2020
+	* Scotland/CVR38/2020
+	* Scotland/CVR40/2020
+	* Scotland/CVR41/2020
+	* Scotland/CVR42/2020
+	* Scotland/CVR43/2020
+	* Scotland/CVR44/2020
+	* Scotland/CVR45/2020
+	* Scotland/CVR46/2020
+	* Scotland/CVR462/2020
+	* Scotland/CVR47/2020
+	* Scotland/CVR49/2020
+	* Scotland/CVR50/2020
+	* Scotland/CVR51/2020
+	* Scotland/CVR52/2020
+	* Scotland/CVR526/2020
+	* Scotland/CVR53/2020
+	* Scotland/CVR54/2020
+	* Scotland/CVR55/2020
+	* Scotland/CVR56/2020
+	* Scotland/CVR562/2020
+	* Scotland/CVR57/2020
+	* Scotland/CVR58/2020
+	* Scotland/CVR60/2020
+	* Scotland/CVR62/2020
+	* Scotland/CVR63/2020
+	* Scotland/CVR632/2020
+	* Scotland/CVR634/2020
+	* Scotland/CVR635/2020
+	* Scotland/CVR64/2020
+	* Scotland/CVR65/2020
+	* Scotland/CVR66/2020
+	* Scotland/CVR67/2020
+	* Scotland/CVR68/2020
+	* Scotland/CVR69/2020
+	* Scotland/CVR70/2020
+	* Scotland/CVR71/2020
+	* Scotland/CVR72/2020
+	* Scotland/CVR74/2020
+	* Scotland/CVR75/2020
+	* Scotland/CVR76/2020
+	* Scotland/CVR77/2020
+	* Scotland/CVR78/2020
+	* Scotland/CVR79/2020
+	* Scotland/CVR80/2020
+	* Scotland/CVR83/2020
+	* Scotland/CVR85/2020
+	* Scotland/CVR89/2020
+	* Scotland/CVR90/2020
+	* Scotland/CVR91/2020
+	* Scotland/CVR96/2020
+	* Scotland/CVR97/2020
+	* Scotland/CVR99/2020
+
 * Wisconsin Department of Health Services
 	* USA/WI1/2020
 
@@ -6315,6 +11301,7 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Chongqing/YC01/2020
 
 * Zhejiang Provincial Center for Disease Control and Prevention
+	* Zhejiang/HZ103/2020
 	* Zhejiang/WZ-01/2020
 	* Zhejiang/WZ-02/2020
 
@@ -6357,9 +11344,47 @@ The SARS-CoV-2 genomes were generously shared by scientists at these submitting 
 	* Iceland/340/2020
 	* Iceland/341/2020
 	* Iceland/342/2020
+	* Iceland/353/2020
+	* Iceland/354/2020
 	* Iceland/38/2020
+	* Iceland/511/2020
+	* Iceland/512/2020
+	* Iceland/513/2020
+	* Iceland/514/2020
+	* Iceland/515/2020
+	* Iceland/516/2020
+	* Iceland/517/2020
+	* Iceland/519/2020
+	* Iceland/520/2020
+	* Iceland/521/2020
+	* Iceland/522/2020
+	* Iceland/523/2020
+	* Iceland/524/2020
+	* Iceland/525/2020
+	* Iceland/526/2020
+	* Iceland/527/2020
+	* Iceland/528/2020
+	* Iceland/529/2020
+	* Iceland/530/2020
+	* Iceland/533/2020
+	* Iceland/540/2020
+	* Iceland/541/2020
+	* Iceland/542/2020
+	* Iceland/545/2020
+	* Iceland/546/2020
+	* Iceland/547/2020
+	* Iceland/548/2020
+	* Iceland/549/2020
+	* Iceland/550/2020
+	* Iceland/588/2020
+	* Iceland/589/2020
 	* Iceland/98/2020
 	* Iceland/LUH-01/2020
+
+* n/a
+	* USA/AZ-WL171/2020
+
+
 
 
 ```
