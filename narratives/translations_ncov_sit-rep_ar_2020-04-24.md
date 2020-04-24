@@ -98,14 +98,14 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Many separate introductions have seeded diverse local transmission chains in Africa](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
-  At the time of writing, the [Africa CDC](https://africacdc.org/covid-19/) reports 26,144 confirmed COVID-19 cases and 1,247 deaths across the African Union.
-  We have viral genomes from 83 of these cases from 7 African nations, shown here (in color) against a backdrop of contextual sequences from around the world (in gray). We applaud the local public health departments for their rapid response and open data sharing.
+# [عدة حالات ادخال منفصلة بذرت سلاسل انتشار محلية متنوعة في أفريقيا](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
+  مع كتابة هذا التقرير، فان [مركز مكافحة الامراض الافريقي](https://africacdc.org/covid-19/)  قام بتوثيق 26144 حالة اصابة بكوفيد-19 و 1247 حالة وفاة على امتداد الاتحاد الأفريقي.
+  لدينا 83 تسلسل جينومي لفيروسات من هذه الحالات من 7 أمم افريقية موضحة هنا )باللون) وعلى خلفية من التسلسلات الضمنية من حول العالم (بالرمادي). نحن ممتنون لدوائر الصحة العامة المحلية على استجاباتهم السريعة ونشرهم المفتوح للبيانات.
   <br><br>
-  These samples span the full diversity of the tree, indicating that there have been many independent introductions to the African continent.
-  Many of these introductions appear to be from Europe, although this may be skewed by the fact that we have more sequences from Europe than from most other places in the world. We can't rule out the possibility of unsampled, intermediate transmissions elsewhere.
+  تمتد هذه العينات على مدى التنوع الكامل للشجرة، مشيرة الى وجود العديد من حالات الادخال المستقلة الى القارة الأفريقية.
+  العديد من هذه الادخالات تظهر بأنها من اوروبا، على الرغم من ان ذلك يمكن ان يكون ضعيفا بسبب امتلاكنا لتسلسلات من اوروبا اكثر من اماكن اخرى من العالم. فلا يمكننا ان نستثني امكانية وجود انتشارات وسطية في اماكن اخرى لم يتم جمع عينات منها
   <br><br>
-  We don't seen evidence that all of these introductions have led to community transmission, but we see clear clusters in some locations.
+ لا نرى دليلاً بان هذه الادخالات ادت الى انتشارات مجتمعية ولكن نرى تجمعات واضحة في بعض المواقع
 
 <!-- There is no right side text -->
 
