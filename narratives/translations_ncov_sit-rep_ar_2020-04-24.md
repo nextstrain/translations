@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-24.
+title: التحليل الجينومي لانتشار كوفيد-19. تقرير حالة . 24 نيسان 2020.
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -25,7 +25,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Africa. We report many separate introductions to the Democratic Republic of the Congo, Senegal, Ghana, Nigeria, Gambia, Algeria, and South Africa. We find evidence of local transmission in Kinshasa, DRC; Dakar and Touba, Senegal; and Greater Accra, Ghana."
+abstract: "يستخدم تقرير هذا الاسبوع البيانات الجينومية والتي تم مشاركتها للعموم من اجل تتبع انتشار كوفيد-19. نركز في هذا الاسبوع على على قارة افريقيا. نوثق في هذا التقرير عدة حالات ادخال منفصلة الى جمهورية الكونغو الديمقراطية، السنغال، غانا، نيجيريا، جامبيا، الجزائر، وجنوب افريقيا. نجد دليلاً على انتشارات محلية في كل من كينشاسا في جمهورية الكونغو الديمقراطية، داكار وطوبا في السنغال، واكرا الكبرى في غانا"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
