@@ -47,11 +47,11 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# الملخص التنفيذي
 
-We analyzed 1,338 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. This week we focus on Africa and report:
+قمنا في هذا التقرير بتحليل جينومات 1338 من فيروسات كوفيد-19 التي تم مشاركتها للعموم. من خلال مقارنة هذه الجينومات الفيروسية مع بعضها البعض نستطيع تحديد كيف يتنقل كوفيد-19 حول العالم وكيف ينتشر محليا. نركز في هذا الاسبوع على افريقيا ونوثق ما يلي
 <br><br>
-* Many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference)
+* العديد من حالات الادخال المنفصلة لفيروس سارس كو في 2 الى قارة افريقيا من اوروبا بشكل اساسي )على الرغم من ان التحيز في جمع العينات يمكن ان يؤثر على هذا الاستنتاج)
 <br><br>
 * At least 7 introductions to the DRC  
 <br><br>
