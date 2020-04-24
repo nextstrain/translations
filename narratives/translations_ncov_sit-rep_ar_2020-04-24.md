@@ -25,7 +25,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
 
-abstract: "يستخدم تقرير هذا الاسبوع البيانات الجينومية والتي تم مشاركتها للعموم من اجل تتبع انتشار كوفيد-19. نركز في هذا الاسبوع على على قارة افريقيا. نوثق في هذا التقرير عدة حالات ادخال منفصلة الى جمهورية الكونغو الديمقراطية، السنغال، غانا، نيجيريا، جامبيا، الجزائر، وجنوب افريقيا. نجد دليلاً على انتشارات محلية في كل من كينشاسا في جمهورية الكونغو الديمقراطية، داكار وطوبا في السنغال، واكرا الكبرى في غانا"
+abstract: "يستخدم تقرير هذا الاسبوع البيانات الجينومية والتي تم مشاركتها للعموم من اجل تتبع انتشار كوفيد-19. نركز في هذا الاسبوع على قارة افريقيا. نوثق في هذا التقرير عدة حالات ادخال منفصلة الى جمهورية الكونغو الديمقراطية، السنغال، غانا، نيجيريا، جامبيا، الجزائر، وجنوب افريقيا. نجد دليلاً على انتشارات محلية في كل من كينشاسا في جمهورية الكونغو الديمقراطية، داكار وطوبا في السنغال، واكرا الكبرى في غانا"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -33,17 +33,17 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
+# [جدول المحتويات](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
-* [The genetic diversity of SARS-CoV-2 in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
-* [Updates for the DRC](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
-* [Updates for Senegal](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
-* [Updates for Ghana](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=8).
-* [Updates for Algeria, Gambia, Nigeria, and South Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=10).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=11).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=12).
+* [مصادر الخلفية العلمية](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
+* [عن البيانات](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
+* [التنوع الجيني لفيروسات سارس كو في 2 في افريقيا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
+* [تحديثات لجمهورية الكونغو الديمقراطية](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
+* [تحديثات للسنغال](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
+* [تحديثات لغانا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=8).
+* [تحديثات لكل من الجزائر، جامبيا، نيجيريا، وحنوب افريقيا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=10).
+* [ماذا يمكنك ان تفعل](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=11).
+* [الحقوق العلمية](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
