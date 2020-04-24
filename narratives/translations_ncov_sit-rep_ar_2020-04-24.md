@@ -112,13 +112,13 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [At least 7 introductions to the DRC](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
+# [هناك 7 حالات ادخال على الاقل الى جمهورية الكونغو الديمقراطية](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
 
-There are [359 confirmed cases of COVID-19 in the DRC with 25 deaths](https://africacdc.org/covid-19/). On Nextstrain, we have 40 sequences from the DRC.
+يوجد هناك [359 حالات مؤكدة لكوفيد-19 في جمهورية الكونغو الديمقراطية مع 25 حالة وفاة](https://africacdc.org/covid-19/).لدينا على Nextstrain 40 تسلسل من جمهورية الكونغو الديموقراطية
 <br><br>
-These sequences fall across the tree, with evidence for at least 7 separate introductions. As shown here, introductions look like a color change between a virus sample (tips of the tree) and its ancestors (the internal nodes or branch points that lead to it).
+تتوزع هذه التساسلات على كل الشجرة، مع دليل عل  وجود 7 حالات ادخال منفصلة على الاقل. كما هو موضح هنا، الادخالات تظهر كتغير في اللون بين عينة الفيروس (نهايات فروع الشجرة) وأسلافها (العقد الداخلية او نقاط التفرع التي تؤدي اليها). ا
 <br><br>
-Here, we can see 7 places where the colors have changed from grey to orange, representing an introduction. From these 7 introductions, we see evidence for at least 2 local transmission chains.
+نستطيع هنا ان نرى 7 مواقع حيث تتغير الألوان من الرمادي الى البرتقالي ممثلة حالات ادخال. من بين حالات الادخال السبعة نستطيع ان نرى دليلاً على سلسلتي انتشار محليتين على الاقل.
 
 <!-- There is no right side text -->
 
