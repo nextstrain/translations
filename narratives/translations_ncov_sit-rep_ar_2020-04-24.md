@@ -124,18 +124,18 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Two local transmission chains in Kinshasa, seeded in early March](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
+# [سلسلتي انتشار محليتين في كينشاسا بذرتا في اوائل مارس](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
 
-In this zoomed-in divergence view, we can see two clusters representing likely local transmission.
-Local transmission looks like a tight cluster of cases from the same location, sampled over time, with accumulating genetic diversity (longer branch lengths, representing more mutations).
+في هذا العرض المكبر للتنوع، نستطيع ان نرى تجمعين يمثلان على الاغلب انتشارا محلياً. 
+يظهر الانتشار المحلي كتجمع مضغوط من الحالات من نفس المنطقة، تم جمع عيناتها مع الزمن، مع تراكم في التنوع الجيني ( الافرع الاكثر طولا تمثل طفرات اكثر)
 <br><br>
-Toward the top of this view, we see a cluster of cases from Kinshasa, all sampled between March 9 and March 22.
+نحو قمة هذا العرض، نستطيع ان نرى تجمع للحالات من كينشاسا، حيث جمعت كلها ما بين 9-22 مارس
 <br><br>
-Toward the middle, we see another cluster of cases from Kinshasa, sampled between March 15 and April 6th.
+نحو الوسط، نرى تجمعا آخر للحالات من كينشاسا، جمعت عيناتها ما بين 15 مارس و 6 أبريل.
 <br><br>
-From this, we can conclude that at least 2 separate transmission chains were circulating in Kinshasa in between early March and early April 2020.
+من ذلك يمكننا الاستنتاج بان هناك سلسلتي انتشار منفصلتين على الاقل كانتا تدوران في كينشاسا ما بين بدايات شهر مارس وبدايات شهر ابريل 2020.
 <br><br>
-The DRC reported its first cases of COVID-19 [to the WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) on March 10. The first sample on Nextstrain was collected on March 9, and was reported in our [Situation Report for March 27](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+قامت جمهورية الكونغو الديمقراطية بتسجيل اول حالة كوفيد19  [الى منظمة الصحة العالمية](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) في 10 مارس. اول عينة على Nextstrain  تم جمعها في 9 مارس وتم توثيقها في تقريرنا [تقرير حالة 27 مارس](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
 <!-- There is no right-side text -->
 
 
