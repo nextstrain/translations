@@ -86,12 +86,12 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/africa/2020-04-24?d=map&f_region=Africa&p=full)
-We currently have sequences from samples taken in 6 continents. In Africa, we have samples from 7 countries. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [ملاحظة عن العينات](https://nextstrain.org/ncov/africa/2020-04-24?d=map&f_region=Africa&p=full)
+نمتلك حالياً تسلسلات جينومية لعينات تم الحصول عليها من 6  قارات. نمتلك عينات من 7 دول افريقية. وهذا انجاز كبير-- حيث ان تحديد تسلسل جينوم فيروس ار ان اي كبير وغير معروف مسبقا في وسط جائحة  صعب جداً وما كان ليكوم ممكنا لولا العمل المضني والمشاركة الفورية للبيانات من قبل العلماء والاطباء حول العالم
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+في حين ان هذه البيانات تمكننا من استنتاج العديد من الخصائص المفيدة عن انتشار الوباء وتتبع انتشاره الا انه من المهم التأكيد على ان استنتاجاتنا تبقى محدودة بسبب وفرة البيانات
 <br><br>
-For example, the map shows very few sequences from East Africa. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+فعلي سبيل المثال، تظهر الخريطة تسلسلات قليلة جدا من شرق افريقيا. وهذا ليس لا كوفيد19 لا يدور في تلك المناطق ولا لان هذه الحالات غير مهمة للفهم وانما لاننا لا نمتلك بيانات متوفرة كفاية عن تلك المناطق. حجم كل دائرة على الخريطة يشير الى كمية البيانات المتوفرة من تلك المنطقة وليس الحجم الحقيقي لانتشار الوباء فيها.
 
 <!-- There is NO right-side text -->
 
