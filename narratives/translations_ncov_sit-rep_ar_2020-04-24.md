@@ -53,15 +53,15 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <br><br>
 * العديد من حالات الادخال المنفصلة لفيروس سارس كو في 2 الى قارة افريقيا من اوروبا بشكل اساسي )على الرغم من ان التحيز في جمع العينات يمكن ان يؤثر على هذا الاستنتاج)
 <br><br>
-* At least 7 introductions to the DRC  
+* هناك على الاقل 7 ادخالات الى جمهورية الكونغو الديمقراطية  
 <br><br>
-* 2 separate transmission chains circulating in Kinshasa, DRC  
+* هناك سلسلتي انتشار محليتين تدوران في كينشاسا، جمهورية الكونغو الديمقراطية 
 <br><br>
-* Of 8 introductions to Senegal, at least 2 seeded local transmission chains in Dakar and Touba
+* من 8 حالات ادخال الى السنغال، هناك على الاقل ابذار لسلسلتي انتشار في داكار وطوبا
 <br><br>
-* Local transmission in Greater Accra, Ghana, after 7 introductions to this region
+* انتشار محلي في اكرا العظمى، غانا بعد 7 حالات ادخال الى هذه المنطقة
 <br><br>
-* Scattered introductions to Algeria, Gambia, Nigeria, and South Africa
+* ادخالات متفرقة الى الحزائر، جامبيا، نيجيريا، وجنوب افريقيا
 ```
 
 
