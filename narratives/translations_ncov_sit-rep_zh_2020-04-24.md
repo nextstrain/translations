@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-24.
+title: 新型冠状病毒（COVID-19）传播情况的基因组学分析：状况报告 2020-04-24.
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -20,12 +20,14 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - 李雪莹
 translatorLinks:
+  - https://xueyingcli.weebly.com/
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Africa. We report many separate introductions to the Democratic Republic of the Congo, Senegal, Ghana, Nigeria, Gambia, Algeria, and South Africa. We find evidence of local transmission in Kinshasa, DRC; Dakar and Touba, Senegal; and Greater Accra, Ghana."
+abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）基因组数据来追踪疫情的传播。本周我们关注非洲疫情。我们报告病毒已多次独立地输入了刚果民主共和国、塞内加尔、加纳、尼日利亚、冈比亚、阿尔及利亚和南非等地。我们发现了民主刚果的金沙萨市、塞内加尔的达喀尔市和图巴市、加纳的大阿克拉地区存在本地传播的证据。This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Africa. We report many separate introductions to the Democratic Republic of the Congo, Senegal, Ghana, Nigeria, Gambia, Algeria, and South Africa. We find evidence of local transmission in Kinshasa, DRC; Dakar and Touba, Senegal; and Greater Accra, Ghana."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -33,65 +35,66 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
+# [目录](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
-* [The genetic diversity of SARS-CoV-2 in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
-* [Updates for the DRC](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
-* [Updates for Senegal](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
-* [Updates for Ghana](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=8).
-* [Updates for Algeria, Gambia, Nigeria, and South Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=10).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=11).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=12).
+* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
+* [关于数据](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
+* [新冠病毒在非洲的遗传多样性](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
+* [民主刚果的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
+* [塞内加尔的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
+* [加纳的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=8).
+* [阿尔及利亚、冈比亚、尼日利亚和南非的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=10).
+* [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=11).
+* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
-
-We analyzed 1,338 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. This week we focus on Africa and report:
+# 摘要
+我们分析了 1,338 个公开共享的 COVID-19 基因组。通过将这些病毒基因组相互比较，我们可以描述 COVID-19 是如何在世界各地迁移和在社区中传播的。本周，我们关注非洲疫情，我们报告：
+ 
 <br><br>
-* Many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference)
+* 新冠病毒SARS-CoV-2被多次独立地引入非洲大陆，主要来自欧洲（虽然取样偏差可能会影响这个推断）。Many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference)
 <br><br>
-* At least 7 introductions to the DRC  
+* 病毒至少被引入民主刚果7次。At least 7 introductions to the DRC  
 <br><br>
-* 2 separate transmission chains circulating in Kinshasa, DRC  
+* 民主刚果的金沙萨市存在两个独立的传播链。2 separate transmission chains circulating in Kinshasa, DRC  
 <br><br>
-* Of 8 introductions to Senegal, at least 2 seeded local transmission chains in Dakar and Touba
+* 塞内加尔的8次输入事件中，至少有两次引发了达喀尔和图巴的本地传播链。Of 8 introductions to Senegal, at least 2 seeded local transmission chains in Dakar and Touba
 <br><br>
-* Local transmission in Greater Accra, Ghana, after 7 introductions to this region
+* 病毒被输入加纳的大阿克拉地区7次，现已存在本地传播。Local transmission in Greater Accra, Ghana, after 7 introductions to this region
 <br><br>
-* Scattered introductions to Algeria, Gambia, Nigeria, and South Africa
+* 阿尔及利亚、冈比亚、尼日利亚和南非存在分散的输入病例。bScattered introductions to Algeria, Gambia, Nigeria, and South Africa
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&p=full&legend=closed&f_region=Africa)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [COVID-19背景资料](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&p=full&legend=closed&f_region=Africa)
+我们准备了一些资料，将使您更容易理解我们在本报告中提供的数据。
+#### Nextstrain的资料  
+* [入门篇：如何解读系统发生树](https://nextstrain.org/narratives/trees-background/zh).  
+* [冠状病毒的背景知识（英文）](https://nextstrain.org/help/coronavirus/human-CoV).
+* [常见误区](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-13?n=11).
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+#### 外部资料  
+* [向科学家提问 & 常见问题解答（英文）](https://covid19.fas.org/).
+* [WHO的状况报告（英文）](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [美国CDC的资料（英文）](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [纽约时报对新冠疫情的报道](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/africa/2020-04-24?d=map&f_region=Africa&p=full)
-We currently have sequences from samples taken in 6 continents. In Africa, we have samples from 7 countries. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [关于抽样](https://nextstrain.org/ncov/africa/2020-04-24?d=map&f_region=Africa&p=full)
+我们目前有来自6个大陆的病毒样本序列。在非洲，我们有来自7个国家的样本。这是一项令人难以置信的壮举--在病毒大流行期间对一种未知的大型 RNA 病毒进行测序是很困难的，只有通过世界各地的科学家和医生令人难以置信的工作和及时共享数据才有可能。
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+虽然这些数据使我们能够推断出这场疫情的许多有用的特征并实时跟踪其传播，但需要强调的是，我们的结论受到现有数据的限制。
 <br><br>
-For example, the map shows very few sequences from East Africa. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+比如，地图上显示我们几乎没有来自东非的序列。这既不是因为 COVID-19 没有在这些地区传播，也不是因为理解这些病例不重要，而仅仅是因为我们没有从这些地区获得足够的数据。地图上每个圆圈的大小表示的是该区域当前有多少数据可用，而不是当地疫情的真实严重程度。
+
 
 <!-- There is NO right-side text -->
 
