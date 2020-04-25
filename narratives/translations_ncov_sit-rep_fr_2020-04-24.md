@@ -30,7 +30,6 @@ translatorLinks:
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
-
 Abstract: "Ce rapport hebdomadaire utilise des données génomiques partagées publiquement pour suivre la propagation de COVID-19.  Cette semaine, nous nous concentrons sur l'Afrique. Nous faisons état de nombreuses introductions distinctes en République Démocratique du Congo, au Sénégal, au Ghana, au Nigeria, en Gambie, en Algérie et en Afrique du Sud. Nous trouvons des preuves de transmission locale à Kinshasa, en RDC, à Dakar et à Touba, au Sénégal, et dans le Grand Accra, au Ghana."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
@@ -78,12 +77,11 @@ Nous avons préparé quelques ressources qui faciliteront l'interprétation des 
 * [COMMENCEZ ICI: Comment lire les phylogénies](https://nextstrain.org/narratives/trees-background/fr).
 * [Informations sur les coronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
 * [Idées Reçues](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-03-13?n=11).
-
 #### Ressources externes
 * [Rapports de situation de l'OMS](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [Ressources du CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 * [Couverture COVID-19 du NYTimes](https://www.nytimes.com/news-event/coronavirus).
-* [Posez vos questions à un scientifique et FAQ](https://covid19.fas.org/l/en).
+* [Posez vos questions à un scientifique et FAQ](https://covid19.fas.org/).
 <!-- There is no right-side text -->
 
 
@@ -139,7 +137,7 @@ Vers le milieu, nous voyons un autre groupe de cas provenant de Kinshasa, échan
 <br><br>
 On peut en conclure qu'au moins deux chaînes de transmission distinctes circulaient à Kinshasa entre début mars et début avril 2020.
 <br><br>
-La RDC a signalé ses premiers cas de COVID-19 [à l'OMS].(https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) le 10 mars. Le premier échantillon sur Nextstrain a été collecté le 9 mars, et a été rapporté dans notre [Rapport de situation pour le 27 mars](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-03-27?n=16).
+La RDC a signalé ses premiers cas de COVID-19 [à l'OMS](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) le 10 mars. Le premier échantillon sur Nextstrain a été collecté le 9 mars, et a été rapporté dans notre [Rapport de situation pour le 27 mars](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-03-27?n=16).
 <!-- There is no right-side text -->
 
 
@@ -149,7 +147,7 @@ La RDC a signalé ses premiers cas de COVID-19 [à l'OMS].(https://apps.who.int/
 
 Comme en RDC, nous voyons ici des échantillons du Sénégal couvrant toute la diversité génétique de l'arbre. Le placement phylogénétique de ces échantillons indique qu'il y a eu au moins 8 introductions distinctes au Sénégal entre fin février et fin mars. Le Sénégal a signalé ses premiers cas de COVID-19 à l'OMS le 28 février, le jour même où le premier échantillon viral a été collecté pour le séquençage.
 <br><br>
-Comme nous l'avons indiqué dans notre [rapport de situation du 3 avril],(https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-03?n=5), au moins deux de ces introductions fin février ou début mars ont conduit à la création de clusters de transmission locale à Dakar et Touba, respectivement.
+Comme nous l'avons indiqué dans notre [rapport de situation du 3 avril](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-04-03?n=5), au moins deux de ces introductions fin février ou début mars ont conduit à la création de clusters de transmission locale à Dakar et Touba, respectivement.
 <br><br>
 Bien que la séquence la plus récente sur Nextstrain du Sénégal date du 20 mars, il y a [actuellement 215 cas connus et actifs](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) de COVID-19 au Sénégal.
 
@@ -160,7 +158,7 @@ Bien que la séquence la plus récente sur Nextstrain du Sénégal date du 20 ma
 <!-- This is left-side text 8-->
 # [Au moins 7 introductions au Ghana](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
 
-Il y a [1 154 cas confirmés de COVID-19 au Ghana avec 9 décès connus].(https://africacdc.org/covid-19/). Sur Nextstrain, il y a 14 séquences provenant du Ghana qui sont réparties dans l'arbre phylogénétique, représentant au moins 7 introductions distinctes.
+Il y a [1 154 cas confirmés de COVID-19 au Ghana avec 9 décès connus](https://africacdc.org/covid-19/). Sur Nextstrain, il y a 14 séquences provenant du Ghana qui sont réparties dans l'arbre phylogénétique, représentant au moins 7 introductions distinctes.
 <br><br>
 Le premier cas au Ghana a été signalé à l'OMS le 11 mars, et le premier génome viral sur Nextstrain a été recueilli le 24 mars.
 
