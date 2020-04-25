@@ -144,44 +144,46 @@ The DRC reported its first cases of Η ΛΔΚ ανέφερε τις πρώτες
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [At least 8 introductions to Senegal, with 2 local transmission chains](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
+# [At least 8 introductions to Senegal, with 2 local transmission chainsΤουλάχιστον 8 εισαγωγές στη Σενεγάλη, με 2 τοπικές αλυσίδες μετάδοσης](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
 
-Similar to the patterns found in the DRC, here we see samples from Senegal spanning the full genetic diversity of the tree. The phylogenetic placement of these samples indicates that there were at least 8 separate introductions to Senegal between late February and late March. Senegal reported its first  COVID-19 cases to the WHO on February 28, the same day that the first viral sample was collected for sequencing.
+Similar to the patterns found in the DRC, here we see samples from Senegal spanning the full genetic diversity of the tree. The phylogenetic placement of these samples indicates that there were at least 8 separate introductions to Senegal between late February and late March. Senegal reported its first  COVID-19 cases to the WHO on February 28, the same day that the first viral sample was collected for sequencing.Παρόμοια με τα μοτίβα που βρέθηκαν στη ΛΔΚ, εδώ βλέπουμε δείγματα από τη Σενεγάλη που καλύπτουν την πλήρη γενετική ποικιλομορφία του δέντρου. Η φυλογενετική τοποθέτηση αυτών των δειγμάτων δείχνει ότι υπήρξαν τουλάχιστον 8 ξεχωριστές εισαγωγές στη Σενεγάλη μεταξύ τέλη Φεβρουαρίου και τέλους Μαρτίου. Η Σενεγάλη ανέφερε τα πρώτα κρούσματα COVID-19 στον ΠΟΥ στις 28 Φεβρουαρίου, την ίδια ημέρα που το πρώτο ιικό δείγμα συλλέχθηκε για προσδιορισμό αλληλουχίας.
 <br><br>
-As we reported in our [April 3 Situation Report](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=5), at least 2 of these introductions in late February or early March have led to ongoing local transmission clusters in Dakar and Tabou, respectively.
+As we reported in our [April 3 Situation Report](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=5), at least 2 of these introductions in late February or early March have led to ongoing local transmission clusters in Dakar and Tabou, respectively.Όπωε έχουμε ασναφέρει στην [Αναφορά κατάστασης στις 3 Απριλίου](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-03?n=5), τουλάχιστον 2 από τις εισαγωγές στα τέλη Φεβρουσρίου στις αρχές Μαρτίου έχουν οδηγήσει σε τοπικές μεταδόσεις στο Ντακάρ και το Ταμπού αντίστοιχα.
 <br><br>
-Although the most recent sequence on Nextstrain from Senegal is from March 20, there are [currently 215 known, active cases](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) of COVID-19 in Senegal.
+Although the most recent sequence on Nextstrain from Senegal is from March 20, there are [currently 215 known, active cases](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) of COVID-19 in Senegal.Αν και η πιο πρόσφατη ακολουθία στο Nextstrain από τη Σενεγάλη είναι από τις 20 Μαρτίου, υπάρχουν [σήμερα 215 γνωστά ενεργά κρούσματα](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) COVID-19 στη Σενεγάλη.
 
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [At least 7 introductions to Ghana](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
+# [At least 7 introductions to Ghana Τουλάχιστον 7 εισαγωγές στη Γκάνα](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
 
-There are [1,154 confirmed cases of COVID-19 in Ghana with 9 known deaths](https://africacdc.org/covid-19/). On Nextstrain, there are 14 sequences from Ghana which are spread across the phylogenetic tree, representing at least 7 separate introductions.
+There are [1,154 confirmed cases of COVID-19 in Ghana with 9 known deaths](https://africacdc.org/covid-19/). On Nextstrain, there are 14 sequences from Ghana which are spread across the phylogenetic tree, representing at least 7 separate introductions.Υπάρχουν [1.154 επιβεβαιωμένα κρούσματα COVID-19 στη Γκάνα με 9 γνωστούς θανάτους](https://africacdc.org/covid-19/). Στο Nextstrain, υπάρχουν 14 αλληλουχίες από τη Γκάνα διασκορπισμένα σε ολόκληρο το φυλογενετικό δέντρο, αντιπροσωπεύοντας τουλάχιστον 7 ξεχωριστές εισαγωγές.
 <br><br>
-The first case in Ghana was reported to the WHO on March 11, and the first viral genome on Nextstrain was collected on March 24.
+The first case in Ghana was reported to the WHO on March 11, and the first viral genome on Nextstrain was collected on March 24.Η πρώτη περίπτωση στη Γκάνα αναφέρθηκε στον ΠΟΥ στις 11 Μαρτίου και το πρώτο ιικό γονιδίωμα στο Nextstrain συλλέχθηκε στις 24 Μαρτίου.
 
 <!-- There is no right-side text --><!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Local transmission in Greater Accra, Ghana](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
+# [Local transmission in Greater Accra, Ghana Τοπικές μεταδόσεις στη Ευρύτερη Άκρα τής Γκάνας](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
 
 Here, we see a cluster of closely related cases from the Greater Accra region of Ghana, sampled between March 25 and March 30.
 The common ancestor of these cases dates to mid-February or early March, and was most likely imported from Asia.
+Εδώ, βλέπουμε ένα σύμπλεγμα περιπτώσεων που σχετίζονται στενά από την ευρύτερη περιοχή της Άκρα της Γκάνας, δείγματα μεταξύ 25 Μαρτίου και 30 Μαρτίου.
+Ο κοινός πρόγονος αυτών των περιπτώσεων χρονολογείται στα μέσα Φεβρουαρίου ή στις αρχές Μαρτίου και πιθανότατα εισήχθη από την Ασία.
 <br><br>
-Interestingly, there is a sample from Senegal that groups tightly with this cluster, suggesting the possibility of a transmission between Senegal and Ghana.
+Interestingly, there is a sample from Senegal that groups tightly with this cluster, suggesting the possibility of a transmission between Senegal and Ghana.Είναι ενδιαφέρον ότι υπάρχει ένα δείγμα από τη Σενεγάλη που ομαδοποιείται στενά με αυτό το σύμπλεγμα, υποδηλώνοντας τη δυνατότητα μετάδοσης μεταξύ Σενεγάλης και Γκάνας.
 
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Scattered introductions to Algeria, Gambia, Nigeria, and South Africa](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
+# [Scattered introductions to Algeria, Gambia, Nigeria, and South AfricaΔιασκορπισμένες εισαγωγές στην Αλγερία, τη Γκάμπια, τη Νιγηρία και τη Νότια Αφρική](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
 
-Here, we see samples isolated from Algeria, Gambia, Nigeria and South Africa. These samples are scattered across the full tree and are largely isolated from one another.
+Here, we see samples isolated from Algeria, Gambia, Nigeria and South Africa. These samples are scattered across the full tree and are largely isolated from one another.Εδώ, βλέπουμε δείγματα απομονωμένα από την Αλγερία, τη Γκάμπια, τη Νιγηρία και τη Νότια Αφρική. Αυτά τα δείγματα είναι διάσπαρτα σε ολόκληρο το δέντρο και είναι σε μεγάλο βαθμό απομονωμένα το ένα από το άλλο.
 <br><br>
-This is evidence for many separate introductions, largely from Europe, to many nations in Africa. Without more data, we can't yet say which -- if any -- of these sparks resulted into local outbreaks. The [WHO reports](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) outbreaks of over 3400, 2800, and 500 cases in South Africa, Algeria, and Nigeria respectively.
+This is evidence for many separate introductions, largely from Europe, to many nations in Africa. Without more data, we can't yet say which -- if any -- of these sparks resulted into local outbreaks.Αυτό αποτελεί απόδειξη για πολλές ξεχωριστές εισαγωγές, κυρίως από την Ευρώπη, σε πολλά έθνη στην Αφρική. Χωρίς περισσότερα δεδομένα, δεν μπορούμε ακόμη να πούμε ποια - αν υπάρχουν - οδήγησαν σε τοπικές εστίες. The [WHO reports](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) outbreaks of over 3400, 2800, and 500 cases in South Africa, Algeria, and Nigeria respectively.Οι [ΠΟΥ σναφέρει](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) επιδημίες με πάνω από 3400, 2800 και 500 περιπτώσεις στη Νότια Αφρική, την Αλγερία, και τη Νιγηρία αντίστοιχα.
 
 
 <!-- ############ SLIDE BREAK ############# -->
