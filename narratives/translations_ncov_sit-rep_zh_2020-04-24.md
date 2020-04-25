@@ -158,18 +158,17 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [At least 7 introductions to Ghana](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
+# [加纳至少经历了7次输入事件](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
 
-There are [1,154 confirmed cases of COVID-19 in Ghana with 9 known deaths](https://africacdc.org/covid-19/). On Nextstrain, there are 14 sequences from Ghana which are spread across the phylogenetic tree, representing at least 7 separate introductions.
-<br><br>
-The first case in Ghana was reported to the WHO on March 11, and the first viral genome on Nextstrain was collected on March 24.
+[加纳现有 1,154 例新冠病毒的确诊病例，9例已知死亡病例](https://africacdc.org/covid-19/)。Nextstrain收录了14条来自加纳的病毒序列，它们分布在系统发生树的各处，代表着至少7次独立的输入事件。
+加纳的首个病例是在3月11日向WHO报告的，而Nextstrain的第一条当地的病毒基因组序列是在3月24日采集的。
 
 <!-- There is no right-side text --><!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Local transmission in Greater Accra, Ghana](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
+# [加纳的大阿克拉地区的本地传播链](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
 
-Here, we see a cluster of closely related cases from the Greater Accra region of Ghana, sampled between March 25 and March 30.
-The common ancestor of these cases dates to mid-February or early March, and was most likely imported from Asia.
+在这幅图中，我们看到加纳大阿克拉地区的一簇紧密相关的样本，采集于3月25日至3月30日之间。Here, we see a cluster of closely related cases from the Greater Accra region of Ghana, sampled between March 25 and March 30.
+这些样本的共同祖先可以追溯到二月中旬或三月上旬，最有可能是从亚洲输入的。The common ancestor of these cases dates to mid-February or early March, and was most likely imported from Asia.
 <br><br>
 Interestingly, there is a sample from Senegal that groups tightly with this cluster, suggesting the possibility of a transmission between Senegal and Ghana.
 
