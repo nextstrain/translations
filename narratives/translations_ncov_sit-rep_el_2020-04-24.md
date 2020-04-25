@@ -75,15 +75,15 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 # [COVID-19 Πηγές](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&p=full&legend=closed&f_region=Africa)
 Έχουμε ετοιμάσει ορισμένες πηγές πληροφόρησης που θα σας διευκολύνουν στην ερμηνεία των δεδοδμένων που παρουσιάζονται σε αυτή την αναφορά.
 #### Πηγές του Nextstrain 
-* [ΞΕΚΙΝΗΣΤΕ ΕΔΩ: Πώς να ερμηνεύσετε ένα φυλογενετικό δέντρο.](https://nextstrain.org/narratives/trees-background/el). 
-* [Βασικές γνώσεις σχετικά με τους κορωνοϊούς.](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Συχνές παρερμηνείες.](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-03-13?n=11).
+* [ΞΕΚΙΝΗΣΤΕ ΕΔΩ: Πώς να ερμηνεύσετε ένα φυλογενετικό δέντρο](https://nextstrain.org/narratives/trees-background/el). 
+* [Βασικές γνώσεις σχετικά με τους κορωνοϊούς](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Συχνές παρερμηνείες](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-03-13?n=11).
 
 #### Εξωτερικοί Σύνδεσμοι
-* [Ρωτήστε έναν επιστήμονα & Συχνές ερωτήσεις.](https://covid19.fas.org/).
-* [Αναφορές κατάστασης του ΠΟΥ.](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [Πηγές του CDC.](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [Κάλυψη των NYTimes σχετικά με τον COVID-19.](https://www.nytimes.com/news-event/coronavirus).
+* [Ρωτήστε έναν επιστήμονα & Συχνές ερωτήσεις](https://covid19.fas.org/).
+* [Αναφορές κατάστασης του ΠΟΥ](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Πηγές του CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Κάλυψη των NYTimes σχετικά με τον COVID-19](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
