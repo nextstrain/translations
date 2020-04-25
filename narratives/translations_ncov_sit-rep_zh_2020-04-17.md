@@ -1,5 +1,5 @@
 ---
-title: 新型コロナウイルス拡散の遺伝的解析と状況報告 2020-04-17.
+title: 新型冠状病毒（COVID-19）传播情况的基因组学分析：状况报告 2020-04-17.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -18,18 +18,16 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
-  - Tomoyuki Nezu
-  - Takeshi Sato
+  - 李雪莹
   - Fengjun Zhang
 translatorLinks:
-  - https://twitter.com/tommy_nezy
-  - https://github.com/satotake
+  - https://xueyingcli.weebly.com/
   - https://twitter.com/fengjun_zhang
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
-date: "2020年4月17日"
+date: "2020 April 17"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
-abstract: "この週次レポートでは、公開されたゲノムデータを用いて COVID-19 の広がりを追跡しています。今週は米国での感染拡大に焦点を当てています。米国のほとんどの地域では複数の伝播の証拠が見つかりました - 国際的および国内的な起源を持つものです。このデータは、各州の決定が他の州の運命に大きな影響を与えることを強く示しています。"
+abstract: "这份报告使用了公开共享的 2019 新型冠状病毒（COVID-19）基因组数据来追踪疫情的传播。本周，我们重点关注美国的疫情。我们发现的证据表明，美国的大多数地区都经历了多起病毒输入事件，其来源既有国际的，也有本土的。这些数据突出表明了每个州的决策都会对其他州的命运产生深远的影响。"
 
 ---
 
@@ -39,29 +37,29 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 <!-- numbers can be tagged like this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [目次](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
+# [目录](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [資料](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17?n=2).     
-* [データについて](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17?n=3).
-* [ニューヨーク州に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17?n=4).
-* [カリフォルニア州に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17?n=7).
-* [中西部の各州に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17?n=8).
-* [ロッキー山脈より西側の州に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17?n=9).
-* [私たちのできること](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17?n=10).
-* [分析データのクレジット](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-17?n=11).
+* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-17?n=2).     
+* [关于数据](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-17?n=3).
+* [纽约的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-17?n=4).
+* [加州的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-17?n=7).
+* [中西部的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-17?n=8).
+* [落基山脉西部地区的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-17?n=9).
+* [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-17?n=10).
+* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# 概要
+# 报告摘要
 
-ここでは、米国から共有されている 1,347 種の SARS-CoV-2 ゲノムを分析しました。これらのウイルスのゲノムを相互に比較することにより、SARS-CoV-2 が世界中をどのように移動しているか、地域の中でどのように拡散しているかを特徴付けることができます。今週の更新では、次の内容を報告します:
+我们分析了 1,347 个公开共享的美国地区的 SARS-Cov-2 基因组。通过将这些病毒基因组相互比较，我们可以描述 COVID-19 是如何在世界各地迁移和在社区中传播的。在本周的更新中，我们报告：
 
-* ニューヨーク州での感染拡大は、国際的な起源を持つが、症例の大部分はヨーロッパからの伝播に由来するものです。  
-* ニューヨーク市での感染拡大は、5つの行政区すべてでの症例が混在していることを示しています。 
-* カリフォルニア州での感染拡大は、近隣のワシントン州と遠く離れたニューヨーク州の両方に関連しています。 
-* 中西部での感染拡大は不均一であり、多くの独立した伝播の結果です。
-* ユタ州とアイダホ州で発生している流行は密接に関連しています。
-* 各州が下した決定は、他の州の運命に大きな影響を与えます。どの州でも安全に規制を緩和するには、すべての州がお互いに保護し合うように調整された抑制策が必要です。
+* 纽约的疫情来自世界各地，但大部分的病例可以归为来自欧洲。
+* 纽约市五个行政区的疫情混杂在一起。 
+* 加州的疫情与近处的华盛顿州和远处的纽约州都有关。
+* 中西部各地疫情的来源多有不同，是多次独立输入事件的结果。
+* 犹他州和爱达荷州两地流行的病毒的亲缘关系很近。
+* 每个州的决策都会对其他州的命运产生深远的影响。任何一个州想要安全地放松管控措施，都需要其他州的协作，各州需要互相保护，共同控制疫情。
 
 
 ```
@@ -70,127 +68,128 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 に関する資料](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
-このレポートで紹介するデータを理解するための資料を用意しています。
-#### Nextstrain Resources  
-* [最初にご覧下さい: 系統樹の読み方](https://nextstrain.org/narratives/trees-background/ja).  
-* [コロナウイルスの背景](https://nextstrain.org/help/coronavirus/human-CoV).
-* [よくある誤解](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [COVID-19背景资料](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_country=USA&p=full&r=division)
+我们准备了一些资料，将使您更容易理解我们在本报告中提供的数据。
+#### Nextstrain的资料  
+* [入门篇：如何解读系统发生树](https://nextstrain.org/narratives/trees-background/zh).  
+* [冠状病毒的背景知识（英文）](https://nextstrain.org/help/coronavirus/human-CoV).
+* [常见误区](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-13?n=11).
 
-#### External Resources  
-* [「Ask a Scientist」とよくある質問と答え](https://covid19.fas.org/l/en).
-* [WHO の状況報告](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC の資料](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes による COVID-19 の報道](https://www.nytimes.com/news-event/coronavirus).
+#### 外部资料
+* [向科学家提问 & 常见问题解答（英文）](https://covid19.fas.org/l/en).
+* [WHO的状况报告（英文）](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [美国CDC的资料（英文）](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [纽约时报对COVID-19的报道（英文）](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [データについて](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
-現在、米国36州で採取されたサンプルの遺伝子配列があります。これは信じられないほどの成果です。流行の最中に未知の大型RNAウイルスの遺伝子を解析することは難しく、世界中の科学者や医師による信じられないような作業とタイムリーなデータの共有があって初めて可能になりました。
+# [关于抽样](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
+我们目前有来自美国 36 个州的病毒样本序列。这是一项令人难以置信的壮举--在病毒大流行期间对一种未知的大型 RNA 病毒进行测序是很困难的，只有通过世界各地的科学家和医生令人难以置信的工作和及时共享数据才有可能。
 <br><br>
-このデータにより、多くの有用な特性を推測し、流行の広がりをリアルタイムで追跡することができますが、結論は利用可能なデータによって制限されることに留意して下さい。
+虽然这些数据使我们能够推断出这场疫情的许多有用的特征并实时跟踪其传播，但需要强调的是，我们的结论受到现有数据的限制。
 <br><br>
-例えば、この地図には米国中部から比較的少数の遺伝子配列表示されます。
-これは COVID-19 がこれらの地域で流行していないため、またはこれらの症例を理解することが重要ではないためではありません。むしろ、これらの地域からの入手可能なデータが少ないことを意味します。 マップ上の各円のサイズは、実際の流行の広がり度合いを示すというよりも、そのエリアにおいて利用可能なデータ量を示しています。
+比如，地图上显示来自美国中部的序列相对较少。这既不是因为 COVID-19 没有在这些地区传播，也不是因为理解这些病例不重要，而仅仅是因为我们没有从这些地区获得足够的数据。地图上每个圆圈的大小表示的是该区域当前有多少数据可用，而不是当地疫情的真实严重程度。
+
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [欧州での大流行に関連するニューヨーク州の系統群](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
+# [由纽约样本组成的主要分支与欧洲疫情有关](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_division=Europe,New%20York&label=clade:A2&p=full&r=country)
 
-[今週のニュース](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html) で見たかもしれませんが、ニューヨークからのウイルスサンプル（色付きのもの）のほとんどは、ヨーロッパからのサンプル（グレーのもの）と密接にグループ化されています。
+您可能已经在[这周的新闻（英文）](https://www.nytimes.com/2020/04/08/science/new-york-coronavirus-cases-europe-genomes.html)中读到，纽约的病毒样本（彩色）大部分与欧洲的样本（灰色）在树上聚的很近。
 <br><br>
-ニューヨーク州の系統群は欧州からの遺伝子配列に隣接し、また挟まれています。これは、ほとんどの初期の症例が欧州からの伝播によるものであることを強く示唆しています。
+欧洲的序列位于纽约这一支的外部，并且纽约和欧洲的序列也出现了交错排列，这些证据有力地表明了大多数纽约的早期病例来自于欧洲的输入病例。
+
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [ニューヨーク州への多数の伝播](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
+# [病毒被多次输入纽约州](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree&f_division=Europe,New%20York,Asia&label=clade:A2&p=grid&r=location)
 
-ニューヨーク州での感染拡大の大部分は、欧州の人々による伝播でした。しかし、世界の他の地域からの遺伝子配列の関係性により、ニューヨーク市への更なる伝播を見ることができます。その国際的な特徴を表すように、ニューヨーク州には世界中の地域からのサンプルに密接に関連している症例があります。
+纽约的大部分病例是由欧洲的输入病例所引发。但是，通过将世界其他地区的序列作为背景数据，我们得以看到纽约市还经历过其他的输入事件。作为一个国际化大都市，纽约的病例的来源基本涵盖了世界上所有地区。
 <br><br>
-初期のニューヨーク州の症例は、おそらく州外から州内への伝播を表しています。発生の後半には、欧州とニューヨーク州のサンプルの混合がより多くなり、伝播の方向が明確ではありません。先週[報告](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-10?n=11)したように、米国から欧州およびアジアへの最近の再伝播の証拠もあります。
+纽约早期的病例很有可能是被输入的结果。而在疫情后期，我们看到欧洲与纽约的样本混杂在一起的情况远远多于前期，传播的方向就没有那么清楚了。我们在[上周](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-10?n=11)的报告中谈到，有证据表明最近也有从美国反向输出到欧洲和亚洲的病例。
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [ニューヨーク市の５区における全ての症例の混在](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
+# [纽约市五个行政区的样本混杂在一起](https://nextstrain.org/ncov/north-america/2020-04-17?c=location&d=tree,map&f_division=New%20York&f_location=Bronx,Brooklyn,Queens,Staten%20Island,Manhattan&label=clade:A2&p=full&r=location)
 
-ニューヨーク市では、行政区ごとに症例の分離はほとんど見られません。これは、街全域で頻繁に症例が混在することと一致しています。
+我们看到纽约市内不同行政区的样本在演化树上并不能明确地分成不同的组，这表明纽约市内不同行政区的疫情频繁地混杂在一起。
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [近隣と遠く離れた州の両方に関連するカリフォルニア州での感染拡大](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
+# [加州的疫情与近处和远处的州都有关](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
 
-また、州間の複数の伝播の証拠も見られます。例えば、カリフォルニア州からの事例は、近隣のワシントン州やニューヨーク州からのサンプルと一緒にグループ化されており、系統樹の遺伝的多様性に跨ります。これは、カリフォルニア州と近隣および遠方の州との間での感染の証拠です。
+我们也看到了美国各州之间多起输出事件的证据。比如，加州的样本的遗传多样性的范围覆盖了整棵树：加州的病例既有与较近的华盛顿州聚在一起的，也有与较远的纽约州聚在一起的。这样的证据表明，病毒在加州和离它较远和较近的州之间都有传播。
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [多くの伝播による中西部での感染拡大](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
+# [中西部的疫情来自于多起输入事件](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Illinois,Indiana,Iowa,Kansas,Michigan,Minnesota,Nebraska,Ohio,Wisconsin&p=full&r=division)
 
-米国中西部の遺伝子配列を表示すると、この領域の症例は一連の密なクラスターを形成するのではなく、系統樹全体に均等に広がっています。これにより、これらの州には多くの独立した伝播があり、いくつかの異なる伝播の繋がりが同時に蔓延していることがわかります。
+我们在这张图中高亮了美国中西部地区的序列，可以看到，这些地区的样本均匀分布在演化树的各处，而没有形成一系列紧密的簇。这个现象告诉我们，这些州经历了多起独立的输入事件，目前在当地存在着多个不同的传播链。
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [ロッキー山脈西部での感染拡大](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
+# [落基山脉西部州的疫情](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&f_division=Idaho,Utah&label=clade:A2&m=div&p=full&r=division)
 
-ロッキー山脈西部への伝播もいくつかあります。 拡大してみると、アイダホ州を横断する感染の連鎖がよく判ります。 特にこの一連の症例は、ユタ州からの症例のクラスターに隣接しており、これら2つの感染拡大の密接な関係を示しています。
+落基山脉西部地区也经历了多次输入事件。把鼠标放在爱达荷州的圆圈上，我们可以清晰地在演化树上看到一个在爱达荷州活动的传播链。值得注意的是，这组样本的外部是一簇来自犹他州的样本，证明这两地的疫情紧密相关。
 
 <!-- This is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [私たちができること](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
-#### ...個人ができること
-* 社会的距離を保つことを厳格に実践してください。重症化しやすいグループに属している場合には特に。
-* 外ではマスクをしましょう。
-* あなたが健康であるとしても、他の人を守るために社会的距離を保つことを実践して下さい。
-* 良く手を洗って下さい（辛いものを触ったあとにコンタクトレンズを交換する時のように）。
-* できるだけ家にいましょう（特に体調の悪い時は）。自主的な隔離に備えて、いくつかの追加の備品を用意しておきましょう。
-* あなたが雇用主である場合は、可能な限り自宅で仕事をするよう従業員に勧めてください。
+# [你能做些什么](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
+#### ...个人可以采取的行动
+* 保持严格的社交距离，尤其是高风险人群。
+* 在公共场所戴口罩。
+* 请记住，即使你不属于高风险人群，你周围的许多人也可能属于高危人群；遵循以上做法可以保护他人。
+* 仔细洗手，要像“刚切完辣椒但是要换隐形眼镜”时一样洗手。
+* 尽可能地留在家里，尤其是生病时；准备一些额外的补给，以备自我隔离。 
+* 雇主请鼓励员工尽可能地在家办公。
 
-#### ...行政機関ができること 
-* 検査を広く、無料で利用出来るようにすること。
-* 社会的な距離を保つ為の措置を強力にとること。
-* 広範囲な接触追跡作業に資金を提供し、実施すること。
-* 社会的距離に関する措置の影響を受ける人々を経済的に支援すること。
+#### ...政府可以采取的行动
+* 推广免费检测。
+* 推行能够有力减少社交接触的措施。
+* 资助和建立全面的病例追踪体系。
+* 在经济上支持受到社交隔离措施影响的人。
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# まとめ
+# 总结
 
-* ニューヨーク州での感染拡大の大部分は欧州からの伝播が中心でしたが、世界の他の地域からの伝播もありました。
+* 欧洲的输入病例是纽约疫情的主要来源，但是世界其他地区也有病例输出到纽约。
 <br><br>
-* 感染拡大が進むにつれ、米国から欧州やアジアへの再伝播も見られます。
+* 随着疫情的发展，我们也看到病毒从美国反向输出到欧洲和亚洲的证据。
 <br><br>
-* ニューヨーク市での感染拡大は、5つの区すべてで症例が混在しています。
+* 纽约市五个行政区的疫情混杂在一起。
 <br><br>
-* カリフォルニア州での感染拡大は、近くのワシントン州と遠くのニューヨーク州の両方に関連しています。
+* 加州的疫情与近处的华盛顿州和远处的纽约州都有关。
 <br><br>
-* 中西部の感染拡大は不均一で、複数の感染連鎖がこの地域で蔓延しています。
+* 美国中西部疫情的来源有很多，目前也存在多个传播链。
 <br><br>
-* ユタ州とアイダホ州の感染拡大は密接に関連しており、地域社会への感染が続いています。
+* 犹他州和爱达荷州的病毒亲缘关系很近，并存在社区传播。
 <br><br>
-* 各州が下した決定は、他の州の運命に大きな影響を与えます。どの州でも安全に規制を緩和するには、すべての州がお互いに保護し合うように調整された抑制策が必要です。
+* 每个州的决策都会对其他州的命运产生深远的影响。任何一个州想要安全地放松管控措施，都需要其他州的协作，各州需要互相保护，共同控制疫情。
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -203,19 +202,18 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [分析データのクレジット](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
+# [科学贡献人员](https://nextstrain.org/ncov/north-america/2020-04-17?d=map&c=author)
 
-私たちはこの感染症流行の中において、関係したすべての科学者、中国で働いている科学者による驚くべきタイムリーな研究に謝意を表します。 この分析は世界中の科学者や医師によるゲノム配列や病例に関するメタデータの共有があって可能になりました。
+我们要感谢参与此次疫情研究的所有科学家所做的令人惊叹和及时的工作，特别是那些在中国工作的科学家。只有通过基因组数据和元数据的快速共享，才有可能进行这样的分析。
 
-<br>
-
-また、これらのデータをアップロードおよび共有できるプラットフォームを提供してくれた [GISAID](https://gisaid.org) にも感謝します。
+<br><br>
+我们也感谢[GISAID](https://gisaid.org)提供了上传和共享这些数据的平台。
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-私たちはこれらの研修室によって集積されたデータに感謝します:
+非常感谢以下机构和实验室慷慨分享：
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
@@ -685,18 +683,19 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [分析データの詳細](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
+# [科学贡献详情](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
 
-これらのデータは [GISAID](https://gisaid.org) を介して共有されました。彼らの貢献に感謝します。
 
-<br>
+所有数据已被共享至[GISAID](https://gisaid.org)数据库。 我们感谢各位科学家的慷慨分享。
 
-右側に各ラボで共有される特定の遺伝子配列を示します。
+
+
+<br><br>
+在右边，我们列出了每个实验室共享的序列。
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-
-SARS-CoV-2 ゲノムは、これらの研究室の研究者によって共有されました:
+感谢下列实验室的科学家们慷慨分享SARS-CoV-2的基因组:
 
 * AIDS Vaccine Research Laboratories
 	* USA/WI-17/2020
