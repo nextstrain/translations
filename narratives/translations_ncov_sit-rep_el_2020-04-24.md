@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-24.
+title: Γονιδιωματική ανάλυση της εξάπλωσης του COVID-19. Αναφορά κατάστασης 24-04-2020.
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -20,12 +20,14 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+Sotiris Salloumis
 translatorLinks:
+https://github.com/codergr
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Africa. We report many separate introductions to the Democratic Republic of the Congo, Senegal, Ghana, Nigeria, Gambia, Algeria, and South Africa. We find evidence of local transmission in Kinshasa, DRC; Dakar and Touba, Senegal; and Greater Accra, Ghana."
+abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Africa. We report many separate introductions to the Democratic Republic of the Congo, Senegal, Ghana, Nigeria, Gambia, Algeria, and South Africa. We find evidence of local transmission in Kinshasa, DRC; Dakar and Touba, Senegal; and Greater Accra, Ghana.Aυτή η εβδομαδιαία αναφορά χρησιμοποιεί δεδομένα που είναι δημοσίως διαθέσιμα για την ιχνηλάτηση της εξάπλωσης της ασθένειας COVID-19. Αυτή την εβομάδα εστιάζουμε στην Αφρική.Αναφέρουμε πολλές ξεχωριστές εισσγωγές στη Λαϊκή Δημοκρατία του Κονγκό, τη Σενεγάλη, τη Γκάνα, τη Γκάμπια, την Αλγερία και τη Νότια Αφρική. Βρίσκουμε ενδείξεις τοπικής μετάδοσης στην Κινσάσα, στήν Λαϊκή Δημοκρατία του Κονγκό, στο Ντακάρ και τη Τούμπα, στην Σενεγάλη καθώς στην Greater Accra και Γκάνα."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -33,35 +35,35 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
+# [Περιεχόμενα](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
 
 * [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
+* [Σχετικά με τα δεδομένα που παρουσιάζουμε](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
 * [The genetic diversity of SARS-CoV-2 in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
-* [Updates for the DRC](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
-* [Updates for Senegal](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
-* [Updates for Ghana](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=8).
-* [Updates for Algeria, Gambia, Nigeria, and South Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=10).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=11).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=12).
+* [Ενημερώσεις για τη ΛΔΚ](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=5).
+* [Ενημερώσεις για τη Σενεγάλη](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=7).
+* [Ενημερώσεις για την Γκάνα](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=8).
+* [Ενημερώσεις γισ την Αλγερία, τη Γκάμπια, τη Νιγηρία, και τη Νότια Αφρική](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=10).
+* [Τι μπορείτε να κάνετε](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=11).
+* [Επιστημονικές ευχαριστίες](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Γενική περίληψη
 
-We analyzed 1,338 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. This week we focus on Africa and report:
+Έχουμε αναλύσει 1,338 δημοσίως διαθέσιμα γονιδιώματα COVID-19. Συγκρίνοντας αυτά τα ιικά γονιδιώματα μεταξύ τους, μπορούμε να κατανοήσουμε πώς ο COVID-19 μετακινείται στην υφήλιο και πώς διασπείρεται τοπικά. Στην αναφορά συτής της εβδομάδας εστιάζουμε στην Αφρική και αναφέρουμε:
 <br><br>
-* Many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference)
+* Many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference) Πολλές ξεχωριστέε εισαγωγές του SARS-CoV-2 στην αφρικανική ήπειρο, κυρίως απο την Ευρώπη ( αν και η δειγματοληψίας μπορείε να συμβάλει σε συτο το συμπέρασμα )
 <br><br>
-* At least 7 introductions to the DRC  
+* Τουλάχιστον 7 εισαγωγές στη Λαϊκή Δημοκρατία του Κονγκό (ΛΔΚ)  
 <br><br>
-* 2 separate transmission chains circulating in Kinshasa, DRC  
+* 2 ξεχωριστές αλυσίδες μετάδοσης που κυκλοφορούν στην Κινσάσα, ΛΔΚ  
 <br><br>
-* Of 8 introductions to Senegal, at least 2 seeded local transmission chains in Dakar and Touba
+* Of 8 introductions to Senegal, at least 2 seeded local transmission chains in Dakar and Touba. Από 8 εισαγωγές στη Σενεγάλη, τουλάχιστον 2 τοπικές προελεύσεις στο Ντακάρ και την Τούμπα.
 <br><br>
-* Local transmission in Greater Accra, Ghana, after 7 introductions to this region
+* Local transmission in Greater Accra, Ghana, after 7 introductions to this region. Τοπικές προελεύσεις στην Greater Accra, Γκάνα, μετά απο 7 εισαγωγές σε αυτή την περιοχή.
 <br><br>
-* Scattered introductions to Algeria, Gambia, Nigeria, and South Africa
+* Scattered introductions to Algeria, Gambia, Nigeria, and South Africa. Διασκορπισμένες εισαγωγές στην Αλγερία, τη Γκάμπια, τη Νιγηρίσ και τη Νότια Αφρική
 ```
 
 
