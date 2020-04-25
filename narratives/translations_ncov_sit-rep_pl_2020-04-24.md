@@ -176,7 +176,7 @@ The DRC reported its first cases of COVID-19 [to the WHO](https://apps.who.int/i
 # [Przynajmniej 8 introdukcji do Senegalu, z 2 lokalnymi łańcuchami transmisji](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
 Podobnie do wzoru zaobserwowanego w DRC, widzimy tutaj próbki z Senegalu rozmieszczone na całej długości drzewa filogenetycznego. Filogenetyczna lokalizacja tych próbek wskazuje, że było co najmniej 8 odrębnych introdukcji do Senegalu pomiędzy końcem lutego i końcem marca. Senegal zgłosił pierwsze przypadki COVID-19 do WHO 28 lutego, tego samego dnia, kiedy pierwsza próbka wirusa została zebrana do sekwencjonowania.
 <br><br>
-Jak opublikowaliśmy w naszym [raporcie sytuacyjnym z 3 kwietnia](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-03?n=5), co najmniej 2 z tych introdukcji pod koniec lutego lub na początku marca spowodowało klastry transmisji lokalnej, odpowiednio w Dakarze i Toubie.
+Jak opublikowaliśmy w naszym [raporcie sytuacyjnym z 3 kwietnia](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-03?n=5), co najmniej 2 z tych introdukcji pod koniec lutego lub na początku marca wywołało łańcuchy lokalnej transmisji, odpowiednio w Dakarze i Toubie.
 <br><br>
 Choć najnowsza sekwencja z Senegalu w Nextstrain jest z 20 marca, jest tam [obecnie 215 znanych, aktywnych przypadków](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) COVID-19.
 
