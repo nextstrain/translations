@@ -117,40 +117,41 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 <!-- This is left-side text 5-->
 # [病毒至少被输入民主刚果7次](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
 
-[民主刚果现有359例确诊病例和25例死亡病例](https://africacdc.org/covid-19/)。在Nextstrain，我们有民主刚果的49条序列。
+[民主刚果现有359例确诊病例和25例死亡病例](https://africacdc.org/covid-19/)。在Nextstrain中，我们有来自民主刚果的49条序列。
 <br><br>
-这些序列排布在树的各处，其分布位置表明了至少7次独立输入事件。在图中，输入事件被表示为一个病毒样本（树枝末端的圆点）的颜色与其祖先（内部节点，也就是样本所处分支的分支点）相比发生了变化。
+这些序列排布在树的各处，其分布位置表明至少有7次独立输入事件。在图中，输入事件被表示为一个病毒样本（树枝末端的圆点）的颜色与其祖先（内部节点，也就是样本所属分支的分支点）相比发生了变化。
 <br><br>
-在图上，我们可以看到有7处，树枝的颜色从灰色变成了橙色，表明输入事件的发生。在这7起输入事件中，我们看到至少有两起引发本地传播链的证据。Here, we can see 7 places where the colors have changed from grey to orange, representing an introduction. From these 7 introductions, we see evidence for at least 2 local transmission chains.
-
+我们可以看到图中有7处树枝的颜色从灰色变成了橙色，标志着输入事件的发生。在这7起输入事件中，我们看到的证据表明至少有两起引发了本地传播链。
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Two local transmission chains in Kinshasa, seeded in early March](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
+# [金沙萨市有两个始于三月上旬的本地传播链](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
 
-In this zoomed-in divergence view, we can see two clusters representing likely local transmission.
-Local transmission looks like a tight cluster of cases from the same location, sampled over time, with accumulating genetic diversity (longer branch lengths, representing more mutations).
+我们把树的局部放大，并转到横轴为差异程度的视图中，可以看到两个可能代表了本地传播链的样本簇。
+本地传播链在树上显示为一簇紧密聚集的样本，这些样本应为来自同一地点，在一段时间之内所采集，并且遗传多样性逐步增加（也就是有更长的枝，代表有更多的突变）。
 <br><br>
-Toward the top of this view, we see a cluster of cases from Kinshasa, all sampled between March 9 and March 22.
+在图的上部，我们看到一簇来自金沙萨市的样本，都是在3月9日至3月22日之间取样到的。
 <br><br>
-Toward the middle, we see another cluster of cases from Kinshasa, sampled between March 15 and April 6th.
+在图的中部，我们看到另一簇金沙萨市的样本，在3月15日至4月6日之间采集得到。
 <br><br>
-From this, we can conclude that at least 2 separate transmission chains were circulating in Kinshasa in between early March and early April 2020.
+由此我们可以得出结论，在2020年3月上旬和4月上旬之间，金沙萨市内至少存在两个独立的传播链。
 <br><br>
-The DRC reported its first cases of COVID-19 [to the WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) on March 10. The first sample on Nextstrain was collected on March 9, and was reported in our [Situation Report for March 27](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+民主刚果在3月10日向[WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) 报告了其第一例病例。Nexstrain的第一个样本是在3月9日采集的，我们在[3月27日的状况报告](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-27?n=16)中曾对其进行报道。
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [At least 8 introductions to Senegal, with 2 local transmission chains](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
+# [塞内加尔至少经历了8起输入事件，有至少两个本地传播链](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
 
-Similar to the patterns found in the DRC, here we see samples from Senegal spanning the full genetic diversity of the tree. The phylogenetic placement of these samples indicates that there were at least 8 separate introductions to Senegal between late February and late March. Senegal reported its first  COVID-19 cases to the WHO on February 28, the same day that the first viral sample was collected for sequencing.
+与民主刚果的情况相似，我们在这张图中看到，塞内加尔的样本的遗传多样性也覆盖了整棵树。这些样本在系统发生树上的位置表明，塞内加尔在二月下旬和三月下旬之间至少经历了8次独立的输入事件。塞内加尔在2月28日向WHO报告了首例新冠病毒感染病例，也是在同一天，这个病毒样本被采集并测序。
 <br><br>
-As we reported in our [April 3 Situation Report](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=5), at least 2 of these introductions in late February or early March have led to ongoing local transmission clusters in Dakar and Tabou, respectively.
+
+我们在[4月3日的状况报告](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-03?n=5)中已经谈到，这之中至少有两起发生在二月下旬或三月上旬的输入事件分别引发了当前存在于达喀尔和巴图的本地传播链。
+
 <br><br>
-Although the most recent sequence on Nextstrain from Senegal is from March 20, there are [currently 215 known, active cases](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) of COVID-19 in Senegal.
+虽然Nextstrain中来自塞内加尔的最新序列是3月20日的，但现在当地已有[215 例COVID-19的已知现存病例](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) 。
 
 <!-- There is no right-side text -->
 
