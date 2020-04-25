@@ -37,9 +37,9 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- This is left-side text 1-->
 # [Περιεχόμενα](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
-* [Σχετικά με τα δεδομένα που παρουσιάζουμε](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
-* [The genetic diversity of SARS-CoV-2 in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
+* [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=2).     
+* [Σχετικά με τα δεδομένα που παρουσιάζουμε](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=3).
+* [The genetic diversity of SARS-CoV-2 in Africa](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=4).
 * [Ενημερώσεις για τη ΛΔΚ](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=5).
 * [Ενημερώσεις για τη Σενεγάλη](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=7).
 * [Ενημερώσεις για την Γκάνα](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=8).
@@ -70,18 +70,18 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&p=full&legend=closed&f_region=Africa)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [COVID-19 Πηγές](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&p=full&legend=closed&f_region=Africa)
+Έχουμε ετοιμάσει ορισμένες πηγές πληροφόρησης που θα σας διευκολύνουν στην ερμηνεία των δεδοδμένων που παρουσιάζονται σε αυτή την αναφορά.
+#### Πηγές του Nextstrain  
+* [ΞΕΚΙΝΗΣΤΕ ΕΔΩ: Πώς να ερμηνεύσετε ένα φυλογενετικό δέντρο.](https://nextstrain.org/narratives/trees-background/el).  
+* [Βασικές γνώσεις σχετικά με τους κορωνοϊούς.](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Συχνές παρερμηνείες.](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+#### Εξωτερικοί Σύνδεσμοι
+* [Ρωτήστε έναν επιστήμονα & Συχνές ερωτήσεις.](https://covid19.fas.org/).
+* [Αναφορές κατάστασης του ΠΟΥ.](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Πηγές του CDC.](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Κάλυψη των NYTimes σχετικά με τον COVID-19.](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
