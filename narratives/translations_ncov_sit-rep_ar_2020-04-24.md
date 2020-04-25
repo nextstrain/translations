@@ -20,7 +20,11 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Ahmad Saleh
+  - Fadi Alnaji
 translatorLinks:
+  - https://twitter.com/DrSalehAhmad
+  - https://twitter.com/biofadialnaji
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
@@ -35,15 +39,15 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- This is left-side text 1-->
 # [جدول المحتويات](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
 
-* [مصادر الخلفية العلمية](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
-* [عن البيانات](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
-* [التنوع الجيني لفيروسات سارس كو في 2 في افريقيا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
-* [تحديثات لجمهورية الكونغو الديمقراطية](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
-* [تحديثات للسنغال](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
-* [تحديثات لغانا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=8).
-* [تحديثات لكل من الجزائر، جامبيا، نيجيريا، وحنوب افريقيا](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=10).
-* [ماذا يمكنك ان تفعل](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=11).
-* [الحقوق العلمية](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=12).
+* [مصادر الخلفية العلمية](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-24?n=2).     
+* [عن البيانات](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-24?n=3).
+* [التنوع الجيني لفيروسات سارس كو في 2 في افريقيا](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-24?n=4).
+* [تحديثات لجمهورية الكونغو الديمقراطية](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-24?n=5).
+* [تحديثات للسنغال](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-24?n=7).
+* [تحديثات لغانا](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-24?n=8).
+* [تحديثات لكل من الجزائر، جامبيا، نيجيريا، وحنوب افريقيا](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-24?n=10).
+* [ماذا يمكنك ان تفعل](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-24?n=11).
+* [الحقوق العلمية](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-24?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -55,7 +59,7 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <br><br>
 * هناك على الاقل 7 ادخالات الى جمهورية الكونغو الديمقراطية  
 <br><br>
-* هناك سلسلتي انتشار محليتين تدوران في كينشاسا، جمهورية الكونغو الديمقراطية 
+* هناك سلسلتي انتشار محليتين تدوران في كينشاسا، جمهورية الكونغو الديمقراطية
 <br><br>
 *   من 8 حالات ادخال الى السنغال، هناك ابذار على الاقل لسلسلتي إنتشار في داكار وطوبا
 <br><br>
@@ -71,11 +75,11 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 # [مصادر كوفيد -19](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&p=full&legend=closed&f_region=Africa)
 قمنا هنا بتوفير بعض المصادر التي تمكنك من فهم الاستنتاجات التي نعرضها في هذا التقرير بشكل أسهل.
 #### مصادر Nextstrain  
-* [ابدأ هنا: كيف تقرأ شجرة التصنيف الجيني](https://nextstrain.org/narratives/trees-background/).  
+* [ابدأ هنا: كيف تقرأ شجرة التصنيف الجيني](https://nextstrain.org/narratives/trees-background/ar).  
 * [معلومات عن فيروسات كورونا](https://nextstrain.org/help/coronavirus/human-CoV).
-* [مفاهيم خاطئة شائعة](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [مفاهيم خاطئة شائعة](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-03-13?n=11).
 
-#### مصادر خارجية 
+#### مصادر خارجية
 * [اسأل عالما و الاسئلة الشائعة](https://covid19.fas.org/).
 * [تقارير منظمة الصحة العالمية](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [مصادر مركز مكافحة الأمراض الأمريكي](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
@@ -127,7 +131,7 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- This is left-side text 6-->
 # [سلسلتي انتشار محليتين في كينشاسا بذرتا في أوائل مارس](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
 
-في هذا العرض المكبر للتنوع، نستطيع ان نرى تجمعين يمثلان على الاغلب انتشارا محلياً. 
+في هذا العرض المكبر للتنوع، نستطيع ان نرى تجمعين يمثلان على الاغلب انتشارا محلياً.
 يظهر الانتشار المحلي كتجمع مضغوط من الحالات من نفس المنطقة، تم جمع عيناتها مع الزمن، مع تراكم في التنوع الجيني( الافرع الاكثر طولا تمثل طفرات اكثر)
 <br><br>
 نحو قمة هذا العرض، نستطيع ان نرى تجمع للحالات من كينشاسا، حيث جمعت كلها ما بين 9-22 مارس
@@ -137,7 +141,7 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 من ذلك يمكننا الاستنتاج بان هناك سلسلتي انتشار منفصلتين على الاقل كانتا تدوران في كينشاسا ما بين بدايات شهر مارس وبدايات شهر ابريل 2020.
 <br><br>
 قامت جمهورية الكونغو الديمقراطية بتسجيل اول حالة كوفيد19  [الى منظمة الصحة العالمي](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) في 10 مارس.
-اول عينة على موقع نيكست سترين تم جمعها في 9 مارس وتم توثيقها في تقريرنا [تقرير حالة 27 مارس](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+اول عينة على موقع نيكست سترين تم جمعها في 9 مارس وتم توثيقها في تقريرنا [تقرير حالة 27 مارس](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-03-27?n=16).
 <!-- There is no right-side text -->
 
 
@@ -147,10 +151,10 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 
 كما  في جمهورية الكونغو، نرى هنا ايضا عينات من السنغال تمتد عل طول الشجرة (اشارة على تعددية جينات هذه الفيروسات). توزع هذه العينات على الشجرة يشير لحصول ٨ ادخالات على الأقل للسنغال  بين أواخر فبراير وأواخر مارس. سجلت السنغال أول حالات اصابة بالفيروس لمنظمة الصحة العالمية في فبراير ٢٨، نفس اليوم الذي اخذت فيه اول عينة لتحديد التسلسل الجيني
 <br><br>
-وكما نشرنا في [تقرير حالة نيسان ٣](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=5)، هناك على الأقل إدخالان مستقلان للفيروس في أواخر فبراير، أو بدايات آذار، أدت لحدوث انتشارات محلية مستمره في داكار وتوبا على التوالي.
+وكما نشرنا في [تقرير حالة نيسان ٣](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-04-03?n=5)، هناك على الأقل إدخالان مستقلان للفيروس في أواخر فبراير، أو بدايات آذار، أدت لحدوث انتشارات محلية مستمره في داكار وتوبا على التوالي.
 <br><br>
 
-على الرغم من أن آخر تسلسل على Nextstrain من السنغال هو من ٢٠ مارس ، هناك [٢١٥ حالة نشطه ومعرفة](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) لكوفيد ١٩ في السنغال 
+على الرغم من أن آخر تسلسل على Nextstrain من السنغال هو من ٢٠ مارس ، هناك [٢١٥ حالة نشطه ومعرفة](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) لكوفيد ١٩ في السنغال
 
 
 <!-- There is no right-side text -->
@@ -191,7 +195,7 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 # [ماذا تفعل](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 #### ...كفرد في المجتمع
 * قم بالتقيد بالحجر الصحي، تحديدا إذا كنت في مجموعة هي عرضة للوباء
-* تذكر ،  حتى لو لم تكن عرضة  للوباء،  فهناك  العديد من الأشخاص حولنا قد يكونون.  فتقيد بالحجر لحمايتهم 
+* تذكر ،  حتى لو لم تكن عرضة  للوباء،  فهناك  العديد من الأشخاص حولنا قد يكونون.  فتقيد بالحجر لحمايتهم
 * اغسل بديك "كانك تريد تغيير عدساتك اللاصقة بعد ان قمت بتقطيع الفلفل"
 * ابق في المنزل قدر ما تستطيع -- بشكل مخصوص إذا كنت مريضا، كن مستعدا وتزود باحتياجات اضافية في حال اضطررت للحجر الذاتي.
 * إذا كنت رب عمل، شجع موظفيك على العمل من البيت ان كان ذلك ممكنا
@@ -199,7 +203,7 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 #### ...كشخص في موقع مسؤولية
 * اجعل الفحوصات مجانية ومتوفرة بكثرة
 * ضع تدابير التباعد الاجتماعي وتابع تنفيذها بفعالية على ارض الواقع
-* قم بتمويل وتطبيق جهود متابعة التواصل المكثفة. 
+* قم بتمويل وتطبيق جهود متابعة التواصل المكثفة.
 * ادعم ماديا أولئك المتضررين مم التباعد الاجتماعي ( العمالة الذين يعملون بنظام الوقت الساعي، اولئك الذين يعتنون بالكبار والأطفال, والمشاريع الصغيرة،...الخ).
 
 
@@ -233,9 +237,9 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- This is left-side text 12-->
 # [الحقوق العلمية](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
 
-نود أن نشيد بالعمل الرائع وفي الوقت المناسب الذي قام به جميع العلماء المشاركين.لا يمكن إجراء تحليلات مثل هذه التحليلات، الا من خلال التقاسم السريع للبيانات الجينية والبيانات الوصفية. 
+نود أن نشيد بالعمل الرائع وفي الوقت المناسب الذي قام به جميع العلماء المشاركين.لا يمكن إجراء تحليلات مثل هذه التحليلات، الا من خلال التقاسم السريع للبيانات الجينية والبيانات الوصفية.
 <br><br>
-المختبرات التي قامت بتحديد التسلسلات الجينية للفيروس [مدرجة هنا](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md) 
+المختبرات التي قامت بتحديد التسلسلات الجينية للفيروس [مدرجة هنا](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md)
 <br><br>
 كما نشكر بامتنان GISAID لتوفير النظام الأساسي الذي يمكن من خلاله تحميل هذه البيانات ومشاركتها.
 
