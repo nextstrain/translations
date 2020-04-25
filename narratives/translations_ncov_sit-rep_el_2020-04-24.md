@@ -1,5 +1,5 @@
 ---
-title: Γονιδιωματική ανάλυση της εξάπλωσης του COVID-19. Αναφορά κατάστασης 24-04-2020.
+title: Γονιδιωματική ανάλυση της εξάπλωσης του COVID-19. Αναφορά κατάστασης 24/04/2020.
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -29,7 +29,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Africa. We report many separate introductions to the Democratic Republic of the Congo, Senegal, Ghana, Nigeria, Gambia, Algeria, and South Africa. We find evidence of local transmission in Kinshasa, DRC; Dakar and Touba, Senegal; and Greater Accra, Ghana.Aυτή η εβδομαδιαία αναφορά χρησιμοποιεί δεδομένα που είναι δημοσίως διαθέσιμα για την ιχνηλάτηση της εξάπλωσης της ασθένειας COVID-19. Αυτή την εβομάδα εστιάζουμε στην Αφρική.Αναφέρουμε πολλές ξεχωριστές εισσγωγές στη Λαϊκή Δημοκρατία του Κονγκό, τη Σενεγάλη, τη Γκάνα, τη Γκάμπια, την Αλγερία και τη Νότια Αφρική. Βρίσκουμε ενδείξεις τοπικής μετάδοσης στην Κινσάσα, στήν Λαϊκή Δημοκρατία του Κονγκό, στο Ντακάρ και τη Τούμπα, στην Σενεγάλη καθώς στην Greater Accra και Γκάνα."
+abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποιεί δεδομένα που είναι δημοσίως διαθέσιμα για την ιχνηλάτηση της εξάπλωσης της ασθένειας COVID-19. Αυτή την εβομάδα εστιάζουμε στην Αφρική. Αναφέρουμε πολλές ξεχωριστές εισαγωγές στη Λαϊκή Δημοκρατία του Κονγκό, τη Σενεγάλη, την Γκάνα, την Γκάμπια, την Αλγερία και τη Νότια Αφρική. Βρίσκουμε ενδείξεις τοπικής διασποράς στην Κινσάσα, στήν Λαϊκή Δημοκρατία του Κονγκό, στο Ντακάρ και την Τούμπα, στη Σενεγάλη καθώς στην περιοχή Greater Accra της Γκάνα."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -39,13 +39,13 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- This is left-side text 1-->
 # [Περιεχόμενα](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
 
-* [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=2).     
+* [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=2).
 * [Σχετικά με τα δεδομένα που παρουσιάζουμε](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=3).
-* [The genetic diversity of SARS-CoV-2 in AfricaΗ γενετική ποικιλομορφία του SARS-CoV-2 στην Αφρική](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=4).
+* [Η γενετική ποικιλομορφία του SARS-CoV-2 στην Αφρική](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=4).
 * [Ενημερώσεις για τη ΛΔΚ](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=5).
 * [Ενημερώσεις για τη Σενεγάλη](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=7).
 * [Ενημερώσεις για την Γκάνα](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=8).
-* [Ενημερώσεις γισ την Αλγερία, τη Γκάμπια, τη Νιγηρία, και τη Νότια Αφρική](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=10).
+* [Ενημερώσεις για την Αλγερία, την Γκάμπια, τη Νιγηρία, και τη Νότια Αφρική](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=10).
 * [Τι μπορείτε να κάνετε](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=11).
 * [Επιστημονικές ευχαριστίες](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=12).
 
@@ -53,19 +53,19 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 ```auspiceMainDisplayMarkdown
 # Γενική περίληψη
 
-Έχουμε αναλύσει 1,338 δημοσίως διαθέσιμα γονιδιώματα COVID-19. Συγκρίνοντας αυτά τα ιικά γονιδιώματα μεταξύ τους, μπορούμε να κατανοήσουμε πώς ο COVID-19 μετακινείται στην υφήλιο και πώς διασπείρεται τοπικά. Στην αναφορά συτής της εβδομάδας εστιάζουμε στην Αφρική και αναφέρουμε:
+Έχουμε αναλύσει 1,338 δημοσίως διαθέσιμα γονιδιώματα COVID-19. Συγκρίνοντας αυτά τα ιικά γονιδιώματα μεταξύ τους μπορούμε να κατανοήσουμε πώς ο COVID-19 μετακινείται στην υφήλιο και πώς διασπείρεται τοπικά. Στην αναφορά αυτής της εβδομάδας εστιάζουμε στην Αφρική και αναφέρουμε:
 <br><br>
-* Many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference) Πολλές ξεχωριστέε εισαγωγές του SARS-CoV-2 στην αφρικανική ήπειρο, κυρίως απο την Ευρώπη ( αν και η δειγματοληψίας μπορείε να συμβάλει σε συτο το συμπέρασμα )
+* Πολλές ξεχωριστές εισαγωγές του SARS-CoV-2 στην αφρικανική ήπειρο κυρίως απο την Ευρώπη (αν και η ανομοιόμορφη δειγματοληψία μπορεί να συμβάλει σε αυτό το συμπέρασμα).
 <br><br>
-* Τουλάχιστον 7 εισαγωγές στη Λαϊκή Δημοκρατία του Κονγκό (ΛΔΚ)  
+* Τουλάχιστον 7 εισαγωγές στη Λαϊκή Δημοκρατία του Κονγκό (ΛΔΚ).  
 <br><br>
-* 2 ξεχωριστές αλυσίδες μετάδοσης που κυκλοφορούν στην Κινσάσα, ΛΔΚ  
+* Δύο ξεχωριστές αλυσίδες διασποράς που κυκλοφορούν στην Κινσάσα, ΛΔΚ.  
 <br><br>
-* Of 8 introductions to Senegal, at least 2 seeded local transmission chains in Dakar and Touba. Από 8 εισαγωγές στη Σενεγάλη, τουλάχιστον 2 τοπικές προελεύσεις στο Ντακάρ και την Τούμπα.
+* Από τις 8 εισαγωγές στη Σενεγάλη, τουλάχιστον 2 από αυτές έγιναν πηγή τοπικών αλυσίδων διασποράς στο Ντακάρ και την Τούμπα.
 <br><br>
-* Local transmission in Greater Accra, Ghana, after 7 introductions to this region. Τοπικές προελεύσεις στην Greater Accra, Γκάνα, μετά απο 7 εισαγωγές σε αυτή την περιοχή.
+* Τοπική διασπορά του ιού στην περιοχή Greater Accra της Γκάνα μετά από 7 εισαγωγές σε αυτή την περιοχή.
 <br><br>
-* Scattered introductions to Algeria, Gambia, Nigeria, and South Africa. Διασκορπισμένες εισαγωγές στην Αλγερία, τη Γκάμπια, τη Νιγηρίσ και τη Νότια Αφρική
+* Διασκορπισμένες εισαγωγές στην Αλγερία, την Γκάμπια, τη Νιγηρία και τη Νότια Αφρική.
 ```
 
 
@@ -74,10 +74,10 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- This is left-side text 2-->
 # [COVID-19 Πηγές](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&p=full&legend=closed&f_region=Africa)
 Έχουμε ετοιμάσει ορισμένες πηγές πληροφόρησης που θα σας διευκολύνουν στην ερμηνεία των δεδοδμένων που παρουσιάζονται σε αυτή την αναφορά.
-#### Πηγές του Nextstrain  
-* [ΞΕΚΙΝΗΣΤΕ ΕΔΩ: Πώς να ερμηνεύσετε ένα φυλογενετικό δέντρο.](https://nextstrain.org/narratives/trees-background/el).  
+#### Πηγές του Nextstrain 
+* [ΞΕΚΙΝΗΣΤΕ ΕΔΩ: Πώς να ερμηνεύσετε ένα φυλογενετικό δέντρο.](https://nextstrain.org/narratives/trees-background/el). 
 * [Βασικές γνώσεις σχετικά με τους κορωνοϊούς.](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Συχνές παρερμηνείες.](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Συχνές παρερμηνείες.](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-03-13?n=11).
 
 #### Εξωτερικοί Σύνδεσμοι
 * [Ρωτήστε έναν επιστήμονα & Συχνές ερωτήσεις.](https://covid19.fas.org/).
@@ -91,116 +91,112 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 
 <!-- This is left-side text 3-->
 # [Μια σημείωση σχετικά με τις δειγματοληψίες](https://nextstrain.org/ncov/africa/2020-04-24?d=map&f_region=Africa&p=full)
-We currently have sequences from samples taken in 6 continents. In Africa, we have samples from 7 countries. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.Αυτή τη στιγμή έχουμε αλληλουχίες από δείγματα που έχουν ληφθεί από 6 ηπείρους. Στην Αφρική, έχουμε δείγματα από 7 χώρες. Αυτό είναι ένα αξιόλογο κατόρθωμα -- η αλληλούχηση ενός αγνώστου ιού με μεγάλο RNA γονιδίωμα εν μέσω πανδημίας είναι δύσκολη και είναι η εξαιρετική δουλειά και ο συνεχής διαμοιρασμός δεδομένων από επιστήμονες και γιατρούς σε όλο τον κόσμο που την καθιστούν δυνατή.
+Αυτή τη στιγμή έχουμε αλληλουχίες από δείγματα που έχουν ληφθεί από 6 ηπείρους. Στην Αφρική, έχουμε δείγματα από 7 χώρες. Αυτό είναι ένα αξιόλογο κατόρθωμα -- η αλληλούχηση ενός αγνώστου ιού με μεγάλο RNA γονιδίωμα εν μέσω πανδημίας είναι δύσκολη και είναι η εξαιρετική δουλειά και ο συνεχής διαμοιρασμός δεδομένων από επιστήμονες και γιατρούς σε όλο τον κόσμο που την καθιστούν δυνατή.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.Ενώ τα δεδομένα μας επιτρέπουν να εξάγουμε αρκετά χρήσιμα χαρακτηριστικά για την επιδήμια και να παρακολουθήσουμε την εξάπλωσή της σε πραγματικό χρόνο, είναι σημαντικό να επισημάνουμε ότι τα συμπερασματά μας περιορίζονται απο τη διαθεσιμότητα των δεδομένων. 
+Ενώ τα δεδομένα αυτά μας επιτρέπουν να αντιληφθούμε πολλά και χρήσιμα χαρακτηριστικά για την επιδήμια και να παρακολουθήσουμε την εξάπλωσή της σε πραγματικό χρόνο, είναι σημαντικό να επισημάνουμε ότι τα συμπερασματά μας περιορίζονται απο τη διαθεσιμότητα των δεδομένων. 
 <br><br>
-For example, the map shows very few sequences from East Africa. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.Για παράδειγμα ο χάρτης περιλαμβάνει πολύ λίγες αλληλουχίες απο την Ανατολική Αφρική.Αυτό ΔΕ συμβαίνει επειδή δεν υπάρχει διάδοση COVID-19 σε αυτές τις περιοχές ή επειδή τα κρούσματα σε εκείνες τις περιοχές είναι λίγοτερο σημαντικά για να τα κατανοήσουμε. Αντιθέτως, απλά δεν έχουμε αρκετά δεδομένα διαθέσιμα απο αυτές τις περιοχές. Το μέγεθος κάθε κύκλου στο χάρτη υποδηλώνει πόσα δεδομένα είναι διαθέσιμα αυτή τη στιγμή απο τις αντίστοιχες περιοχές και όχι το πραγματικό μέγεθος της επιδημίας στις περιοχές αυτές.
+Για παράδειγμα ο χάρτης περιλαμβάνει πολύ λίγες αλληλουχίες απο την Ανατολική Αφρική. Αυτό ΔΕ συμβαίνει επειδή δεν υπάρχει διάδοση COVID-19 σε αυτές τις περιοχές ή επειδή τα κρούσματα σε εκείνες τις περιοχές είναι λίγοτερο σημαντικά για να τα κατανοήσουμε. Αντιθέτως, απλά δεν έχουμε αρκετά δεδομένα διαθέσιμα απο αυτές τις περιοχές. Το μέγεθος κάθε κύκλου στο χάρτη υποδηλώνει πόσα δεδομένα είναι διαθέσιμα αυτή τη στιγμή απο τις αντίστοιχες περιοχές και όχι το πραγματικό μέγεθος της επιδημίας στις περιοχές αυτές.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Many separate introductions have seeded diverse local transmission chains in Africa. Πολλές ξεχωριστές εισαγωγές έχουν δημιουργήσει διαφορετικές τοπικές αλυσίδες μετάδοσης στην Αφρική](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
-  At the time of writing, the [Africa CDC](https://africacdc.org/covid-19/) reports 26,144 confirmed COVID-19 cases and 1,247 deaths across the African Union.Τη στιγμή της γραφής, ο [Αφρικανικός CDC](https://africacdc.org/covid-19/) αναφέρει 26.144 επιβεβαιωμένες περιπτώσεις COVID-19 και 1.247 θανάτους σε ολόκληρη την Αφρικανική Ένωση.
-  We have viral genomes from 83 of these cases from 7 African nations, shown here (in color) against a backdrop of contextual sequences from around the world (in gray). We applaud the local public health departments for their rapid response and open data sharing.Έχουμε ιογενή γονιδιώματα από 83 από αυτές τις περιπτώσεις από 7 αφρικανικά έθνη, που εμφανίζονται εδώ (σε χρώμα) έναντι αλληλουχιών με βάση αλληλουχιών από όλο τον κόσμο (σε γκρι χρώμα). Επικροτούμε τις τοπικές υπηρεσίες δημόσιας υγείας για την ταχεία ανταπόκρισή τους και την ανοιχτή ανταλλαγή δεδομένων.
+# [Πολλές ξεχωριστές εισαγωγές έχουν δημιουργήσει διαφορετικές τοπικές αλυσίδες διασποράς στην Αφρική](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
+  Τη στιγμή που συντάσσουμε αυτή την αναφορά, ο [φαρικανικός CDC](https://africacdc.org/covid-19/) αναφέρει 26.144 επιβεβαιωμένα κρούσματα COVID-19 και 1.247 θανάτους σε ολόκληρη την Αφρικανική Ένωση.
+  Έχουμε διαθέσιμα ιικά γονιδιώματα από 83 κρούσματα από 7 αφρικανικά έθνη, που εμφανίζονται εδώ (χρωματισμένα) έναντι αλληλουχιών από τον υπόλοιπο κόσμο (χρώμα γκρι). Είμαστε ευγνώμωνες στις τοπικές υπηρεσίες δημόσιας υγείας για την ταχεία ανταπόκρισή τους και τον ανοιχτό διαμοιρασμό δεδομένων.
   <br><br>
-  These samples span the full diversity of the tree, indicating that there have been many independent introductions to the African continent.Αυτά τα δείγματα καλύπτουν την πλήρη ποικιλομορφία του δέντρου, υποδεικνύοντας ότι υπήρξαν πολλές ανεξάρτητες εισαγωγές στην αφρικανική ήπειρο.
-  Many of these introductions appear to be from Europe, although this may be skewed by the fact that we have more sequences from Europe than from most other places in the world. We can't rule out the possibility of unsampled, intermediate transmissions elsewhere.Πολλές από αυτές τις εισαγωγές φαίνεται να προέρχονται από την Ευρώπη, αν και αυτό μπορεί να οφείλεται από το γεγονός ότι έχουμε περισσότερες ακολουθίες από την Ευρώπη από ό, τι από τα περισσότερα άλλα μέρη του κόσμου. Δεν μπορούμε να αποκλείσουμε την πιθανότητα ενδιάμεσων μεταδόσεων που δεν έχουν δειγματολφθεί αλλού.
+  Αυτά τα δείγματα καλύπτουν την πλήρη ποικιλομορφία του δέντρου, υποδεικνύοντας ότι υπήρξαν πολλές ανεξάρτητες εισαγωγές στην αφρικανική ήπειρο.
+  Πολλές από αυτές τις εισαγωγές φαίνεται να προέρχονται από την Ευρώπη, αν και αυτό μπορεί να οφείλεται από το γεγονός ότι έχουμε περισσότερες αλληλουχίες από την Ευρώπη από ότι από τα περισσότερα άλλα μέρη του κόσμου. Δεν μπορούμε να αποκλείσουμε την πιθανότητα ενδιάμεσων μεταδόσεων που δεν έχουν δειγματολφθεί αλλού.
   <br><br>
-  We don't seen evidence that all of these introductions have led to community transmission, but we see clear clusters in some locations.Δεν έχουμε αποδείξεις ότι όλες αυτές οι εισαγωγές έχουν οδηγήσει σε τοπική μετάδοση, αλλά βλέπουμε σαφείς συστοιχίες σε ορισμένες τοποθεσίες.
+  Δεν έχουμε ενδείξεις ότι όλες αυτές οι εισαγωγές έχουν οδηγήσει σε τοπική διασπορά, αλλά βλέπουμε σαφείς ομαδοποιήσεις σε ορισμένες τοποθεσίες.
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [At least 7 introductions to the DRC Τουλάχιστον 7 εισαγωγές στη ΛΔΚ](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
+# [Τουλάχιστον 7 εισαγωγές στη ΛΔΚ](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
 
-There are [359 confirmed cases of COVID-19 in the DRC with 25 deaths](https://africacdc.org/covid-19/). On Nextstrain, we have 40 sequences from the DRC.Υπάρχουν [359 επιβεβαιωμένα κρούσματα COVID-19 στη ΛΔΚ με 25 θανάτους](https://africacdc.org/covid-19/). Στο Nextstrain, έχουμε 40 ακολουθίες από τη ΛΔΚ.
+Υπάρχουν [359 επιβεβαιωμένα κρούσματα COVID-19 στη ΛΔΚ με 25 θανάτους](https://africacdc.org/covid-19/). Στο Nextstrain έχουμε 40 αλληλουχίες από τη ΛΔΚ.
 <br><br>
-These sequences fall across the tree, with evidence for at least 7 separate introductions. As shown here, introductions look like a color change between a virus sample (tips of the tree) and its ancestors (the internal nodes or branch points that lead to it).Αυτές οι ακολουθίες πέφτουν στο δέντρο, με αποδείξεις για τουλάχιστον 7 ξεχωριστές εισαγωγές. Όπως παρουσιάζονται εδώ, οι εισαγωγές χαρακτηρίζονται με αλλαγή χρώματος μεταξύ ενός δείγματος ιού (άκρες του δέντρου) και των προγόνων του (οι εσωτερικοί κόμβοι ή τα σημεία κλάδου που οδηγούν σε αυτό).
+Αυτές οι αλληλουχίες βρίσκονται διάσπαρτες στο δέντρο, με ενδείξεις για τουλάχιστον 7 ξεχωριστές εισαγωγές του ιού. Όπως παρουσιάζονται εδώ, οι εισαγωγές χαρακτηρίζονται με αλλαγή χρώματος μεταξύ ενός δείγματος ιού (άκρες του δέντρου) και των προγόνων του (εσωτερικοί κόμβοι ή σημεία διακλάδωσης που οδηγούν σε αυτό).
 <br><br>
-Here, we can see 7 places where the colors have changed from grey to orange, representing an introduction. From these 7 introductions, we see evidence for at least 2 local transmission chains.Εδώ, μπορούμε να δούμε 7 μέρη όπου τα χρώματα έχουν αλλάξει από γκρι σε πορτοκαλί, αντιπροσωπεύοντας μια εισαγωγή. Από αυτές τις 7 εισαγωγές, βλέπουμε στοιχεία για τουλάχιστον 2 τοπικές αλυσίδες μετάδοσης.
+Εδώ βλέπουμε 7 μέρη όπου τα χρώματα έχουν αλλάξει από γκρι σε πορτοκαλί, αντιπροσωπεύοντας το καθένα μια εισαγωγή. Από αυτές τις 7 εισαγωγές, έχουμε ενδείξεις για τουλάχιστον 2 τοπικές αλυσίδες διασποράς.
 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Two local transmission chains in Kinshasa, seeded in early March Δύο τοπικές μεταδόσης στην Κινσάσα, ξεκίνησσν αρχές Μαρτίου](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
+# [Δύο τοπικές αλυσίδες διασποράς στην Κινσάσα ξεκίνησαν στις αρχές Μαρτίου](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
 
-In this zoomed-in divergence view, we can see two clusters representing likely local transmission.
-Local transmission looks like a tight cluster of cases from the same location, sampled over time, with accumulating genetic diversity (longer branch lengths, representing more mutations).
-Σε αυτήν την προβολή απόκλισης μεγέθυνσης, μπορούμε να δούμε δύο συστοιχίες που αντιπροσωπεύουν πιθανή τοπική μετάδοση. Η τοπική μετάδοση μοιάζει με ένα μικρό σύμπλεγμα περιπτώσεων από την ίδια τοποθεσία, η δείγματοληψία έγινε με την πάροδο του χρόνου, με συσσωρευμένη γενετική ποικιλομορφία (μεγαλύτερα μήκη διακλάδωσης, που αντιπροσωπεύουν περισσότερες μεταλλάξεις).
+Με μεγέθυνση μπορούμε να δούμε δύο ομάδες που πιθανόν να αντιπροσωπεύουν τοπικές διασπορές. Η τοπική διασπορά μοιάζει με ένα μικρό σύμπλεγμα κρουσμάτων που προέρχονται από την ίδια τοποθεσία, από τα οποία έχουν ληφθεί δείγματα σε ένα ορισμένο χρονικό διάστημα και που συσσωρεύουν γενετική ποικιλομορφία (τα μαρκύτερα κλαδιά αντιπροσωπεύουν μεγαλύτερο αρθιμό μεταλλάξεων).
 <br><br>
-Toward the top of this view, we see a cluster of cases from Kinshasa, all sampled between March 9 and March 22.Προς την κορυφή αυτής της προβολής, βλέπουμε ένα σύμπλεγμα περιπτώσεων από την Κινσάσα, η δειγματοληψία έγινε μεταξύ 9 και 22 Μαρτίου.
+Προς την κορυφή αυτής της μεγέθυνσης βλέπουμε ένα σύμπλεγμα κρουσμάτων από την Κινσάσα, από τα οποία ελήφθησαν δείγματα μεταξύ 9 και 22 Μαρτίου.
 <br><br>
-Toward the middle, we see another cluster of cases from Kinshasa, sampled between March 15 and April 6th.Προς τη μέση, βλέπουμε ένα άλλο σύμπλεγμα περιπτώσεων από την Κινσάσα, η δειγματοληψία έγινε μεταξύ 15 Μαρτίου και 6 Απριλίου.
+Στο κέντρο βλέπουμε ένα άλλο σύμπλεγμα κρουσμάτων από την Κινσάσα, από τα οποία ελήφθησαν δείγματα μεταξύ 15 Μαρτίου και 6 Απριλίου.
 <br><br>
-From this, we can conclude that at least 2 separate transmission chains were circulating in Kinshasa in between early March and early April 2020.Από αυτό, μπορούμε να συμπεράνουμε ότι τουλάχιστον 2 ξεχωριστές τοπικές επιδημίες κυκλοφόρησαν στην Κινσάσα από τις αρχές Μαρτίου έως και τις αρχές Απριλίου 2020.
+Από τα παραπάνω μπορούμε να συμπεράνουμε ότι υπήρξαν τουλάχιστον 2 ξεχωριστές τοπικές αλυσίδες διασποράς στην Κινσάσα από τις αρχές Μαρτίου έως και τις αρχές Απριλίου 2020.
 <br><br>
-The DRC reported its first cases of Η ΛΔΚ ανέφερε τις πρώτες περιπτώσεις COVID-19 [στον ΠΟΥ](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) on March 10 στις 10 Μαρτίου. The first sample on Nextstrain was collected on March 9, and was reported in our [Situation Report for March 27](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).Το πρώτο δείγμα στο Nextstrsain συλλέχθηκε στις 9 Μαρτίου και αναφέρθηκε στη [Κατάσταση αναφοράς της 27ης Μαρτίου](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-03-27?n=16)
+Η ΛΔΚ ανέφερε τα πρώτα κρούσματα COVID-19 [στον ΠΟΥ](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) στις 10 Μαρτίου. Το πρώτο δείγμα στο Nextstrain συλλέχθηκε στις 9 Μαρτίου και αναφέρθηκε στη [αναφορά κατάστασης της 27ης Μαρτίου](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-03-27?n=16)
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [At least 8 introductions to Senegal, with 2 local transmission chainsΤουλάχιστον 8 εισαγωγές στη Σενεγάλη, με 2 τοπικές αλυσίδες μετάδοσης](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
+# [Τουλάχιστον 8 εισαγωγές στη Σενεγάλη με 2 τοπικές αλυσίδες διασποράς](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
 
-Similar to the patterns found in the DRC, here we see samples from Senegal spanning the full genetic diversity of the tree. The phylogenetic placement of these samples indicates that there were at least 8 separate introductions to Senegal between late February and late March. Senegal reported its first  COVID-19 cases to the WHO on February 28, the same day that the first viral sample was collected for sequencing.Παρόμοια με τα μοτίβα που βρέθηκαν στη ΛΔΚ, εδώ βλέπουμε δείγματα από τη Σενεγάλη που καλύπτουν την πλήρη γενετική ποικιλομορφία του δέντρου. Η φυλογενετική τοποθέτηση αυτών των δειγμάτων δείχνει ότι υπήρξαν τουλάχιστον 8 ξεχωριστές εισαγωγές στη Σενεγάλη μεταξύ τέλη Φεβρουαρίου και τέλους Μαρτίου. Η Σενεγάλη ανέφερε τα πρώτα κρούσματα COVID-19 στον ΠΟΥ στις 28 Φεβρουαρίου, την ίδια ημέρα που το πρώτο ιικό δείγμα συλλέχθηκε για προσδιορισμό αλληλουχίας.
+Aντίστοιχα με το μοτίβο που παρατηρούμε στη ΛΔΚ, εδώ βλέπουμε δείγματα από τη Σενεγάλη που απλώνονται σε όλη τη γενετική ποικιλομορφία του δέντρου. Η φυλογενετική τοποθέτηση αυτών των δειγμάτων δείχνει ότι υπήρξαν τουλάχιστον 8 ξεχωριστές εισαγωγές στη Σενεγάλη ανάμεσα στα τέλη Φεβρουαρίου και τέλη Μαρτίου. Η Σενεγάλη ανέφερε τα πρώτα κρούσματα COVID-19 στον ΠΟΥ στις 28 Φεβρουαρίου, την ίδια ημέρα που το πρώτο ιικό δείγμα συλλέχθηκε για αλληλούχηση.
 <br><br>
-As we reported in our [April 3 Situation Report](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=5), at least 2 of these introductions in late February or early March have led to ongoing local transmission clusters in Dakar and Tabou, respectively.Όπωε έχουμε ασναφέρει στην [Αναφορά κατάστασης στις 3 Απριλίου](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-03?n=5), τουλάχιστον 2 από τις εισαγωγές στα τέλη Φεβρουσρίου στις αρχές Μαρτίου έχουν οδηγήσει σε τοπικές μεταδόσεις στο Ντακάρ και το Ταμπού αντίστοιχα.
+Όπως αναφέραμε στην [αναφορά κατάστασης στις 3 Απριλίου](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-03?n=5), τουλάχιστον 2 από τις εισαγωγές στα τέλη Φεβρουαρίου ή στις αρχές Μαρτίου έχουν οδηγήσει σε τοπικές διασπορές στο Ντακάρ και το Ταμπού αντίστοιχα.
 <br><br>
-Although the most recent sequence on Nextstrain from Senegal is from March 20, there are [currently 215 known, active cases](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) of COVID-19 in Senegal.Αν και η πιο πρόσφατη ακολουθία στο Nextstrain από τη Σενεγάλη είναι από τις 20 Μαρτίου, υπάρχουν [σήμερα 215 γνωστά ενεργά κρούσματα](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) COVID-19 στη Σενεγάλη.
+Αν και η πιο πρόσφατη αλληλουχία στο Nextstrain από τη Σενεγάλη είναι από τις 20 Μαρτίου, υπάρχουν [σήμερα γνωστοποιημένα 215 ενεργά κρούσματα](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) COVID-19 στη Σενεγάλη.
 
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [At least 7 introductions to Ghana Τουλάχιστον 7 εισαγωγές στη Γκάνα](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
+# [Τουλάχιστον 7 εισαγωγές στη Γκάνα](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
 
-There are [1,154 confirmed cases of COVID-19 in Ghana with 9 known deaths](https://africacdc.org/covid-19/). On Nextstrain, there are 14 sequences from Ghana which are spread across the phylogenetic tree, representing at least 7 separate introductions.Υπάρχουν [1.154 επιβεβαιωμένα κρούσματα COVID-19 στη Γκάνα με 9 γνωστούς θανάτους](https://africacdc.org/covid-19/). Στο Nextstrain, υπάρχουν 14 αλληλουχίες από τη Γκάνα διασκορπισμένα σε ολόκληρο το φυλογενετικό δέντρο, αντιπροσωπεύοντας τουλάχιστον 7 ξεχωριστές εισαγωγές.
+Υπάρχουν [1.154 επιβεβαιωμένα κρούσματα COVID-19 στη Γκάνα με 9 γνωστοποιημένους θανάτους](https://africacdc.org/covid-19/). Στο Nextstrain υπάρχουν 14 αλληλουχίες από τη Γκάνα διασκορπισμένες σε ολόκληρο το φυλογενετικό δέντρο, αντιπροσωπεύοντας τουλάχιστον 7 ξεχωριστές εισαγωγές.
 <br><br>
-The first case in Ghana was reported to the WHO on March 11, and the first viral genome on Nextstrain was collected on March 24.Η πρώτη περίπτωση στη Γκάνα αναφέρθηκε στον ΠΟΥ στις 11 Μαρτίου και το πρώτο ιικό γονιδίωμα στο Nextstrain συλλέχθηκε στις 24 Μαρτίου.
+Το πρώτο κρούσμα στη Γκάνα αναφέρθηκε στον ΠΟΥ στις 11 Μαρτίου και το πρώτο ιικό γονιδίωμα στο Nextstrain συλλέχθηκε στις 24 Μαρτίου.
 
 <!-- There is no right-side text --><!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Local transmission in Greater Accra, Ghana Τοπικές μεταδόσεις στη Ευρύτερη Άκρα τής Γκάνας](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
+# [Τοπικές αλυσίδες διασποράς στην περιοχή Greater Accra της Γκάνα](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
 
-Here, we see a cluster of closely related cases from the Greater Accra region of Ghana, sampled between March 25 and March 30.
-The common ancestor of these cases dates to mid-February or early March, and was most likely imported from Asia.
-Εδώ, βλέπουμε ένα σύμπλεγμα περιπτώσεων που σχετίζονται στενά από την ευρύτερη περιοχή της Άκρα της Γκάνας, δείγματα μεταξύ 25 Μαρτίου και 30 Μαρτίου.
-Ο κοινός πρόγονος αυτών των περιπτώσεων χρονολογείται στα μέσα Φεβρουαρίου ή στις αρχές Μαρτίου και πιθανότατα εισήχθη από την Ασία.
+Εδώ βλέπουμε μια ομαδοποίηση κρουσμάτων που σχετίζονται στενά από την ευρύτερη περιοχή της Greater Accra της Γκάνα, δείγματα που ελήφθησαν μεταξύ 25 και 30 Μαρτίου.
+Ο κοινός πρόγονος αυτών των κρουσμάτων χρονολογείται στα μέσα Φεβρουαρίου ή στις αρχές Μαρτίου και πιθανότατα εισήχθη από την Ασία.
 <br><br>
-Interestingly, there is a sample from Senegal that groups tightly with this cluster, suggesting the possibility of a transmission between Senegal and Ghana.Είναι ενδιαφέρον ότι υπάρχει ένα δείγμα από τη Σενεγάλη που ομαδοποιείται στενά με αυτό το σύμπλεγμα, υποδηλώνοντας τη δυνατότητα μετάδοσης μεταξύ Σενεγάλης και Γκάνας.
+Είναι ενδιαφέρον ότι ένα δείγμα από τη Σενεγάλη που ομαδοποιείται στενά με αυτό το σύμπλεγμα από τη Γκάνα, υποδηλώνοντας τη δυνατότητα διασποράς του ιού μεταξύ Σενεγάλης και Γκάνας.
 
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Scattered introductions to Algeria, Gambia, Nigeria, and South AfricaΔιασκορπισμένες εισαγωγές στην Αλγερία, τη Γκάμπια, τη Νιγηρία και τη Νότια Αφρική](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
+# [Διασκορπισμένες εισαγωγές στην Αλγερία, την Γκάμπια, τη Νιγηρία και τη Νότια Αφρική](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
 
-Here, we see samples isolated from Algeria, Gambia, Nigeria and South Africa. These samples are scattered across the full tree and are largely isolated from one another.Εδώ, βλέπουμε δείγματα απομονωμένα από την Αλγερία, τη Γκάμπια, τη Νιγηρία και τη Νότια Αφρική. Αυτά τα δείγματα είναι διάσπαρτα σε ολόκληρο το δέντρο και είναι σε μεγάλο βαθμό απομονωμένα το ένα από το άλλο.
+Εδώ βλέπουμε δείγματα που συλλέχθηκαν από την Αλγερία, την Γκάμπια, τη Νιγηρία και τη Νότια Αφρική. Αυτά τα δείγματα είναι διάσπαρτα σε ολόκληρο το δέντρο και είναι σε μεγάλο βαθμό απομακρυσμένα το ένα από το άλλο.
 <br><br>
-This is evidence for many separate introductions, largely from Europe, to many nations in Africa. Without more data, we can't yet say which -- if any -- of these sparks resulted into local outbreaks.Αυτό αποτελεί απόδειξη για πολλές ξεχωριστές εισαγωγές, κυρίως από την Ευρώπη, σε πολλά έθνη στην Αφρική. Χωρίς περισσότερα δεδομένα, δεν μπορούμε ακόμη να πούμε ποια - αν υπάρχουν - οδήγησαν σε τοπικές εστίες. The [WHO reports](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) outbreaks of over 3400, 2800, and 500 cases in South Africa, Algeria, and Nigeria respectively.Οι [ΠΟΥ σναφέρει](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) επιδημίες με πάνω από 3400, 2800 και 500 περιπτώσεις στη Νότια Αφρική, την Αλγερία, και τη Νιγηρία αντίστοιχα.
+Αυτό αποδεικνύει την ύπαρξη πολλών ξεχωριστών εισαγωγών κυρίως από την Ευρώπη σε πολλά έθνη στην Αφρική. Χωρίς περισσότερα δεδομένα δεν μπορούμε ακόμη να πούμε ποιες από τις εισαγωγές αυτές οδήγησαν σε τοπικές εστίες - αν υπάρχουν. Ο [ΠΟΥ αναφέρει](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) την ύπαρξη επιδημιών με πάνω από 3400, 2800 και 500 κρούσματα στη Νότια Αφρική, την Αλγερία, και τη Νιγηρία αντίστοιχα.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [Τι μπορείτε να κάνετε](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [Τί μπορείτε να κάνετε](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 #### ...ο καθένας ξεχωριστά
 * Τηρείτε τα μέτρα κοινωνικής απόστασης, ειδικά εάν ανήκετε σε ευπαθή ομάδα.
 * Να θυμάστε πως ακόμα κι αν δεν ανήκετε σε ευπαθή ομάδα, πολλοί άνθρωποι γύρω σας ανήκουν σε κάποια ευπαθή ομάδα. Ακολουθήστε τις πρακτικές αυτές ώστε να τους προστατέψετε.
-* Φορέστε μάσκα ( φτιαγμένη στο σπίτι λειτουργεί καλά ) στους δημόσιους χώρους.
+* Φορέστε μάσκα (ακόμα και χειροποίητη) στους δημόσιους χώρους.
 * Πλένετε τα χέρια σας "σα να έχετε κόψει μια καυτερή πιπεριά και πρέπει να αλλάξετε φακούς επαφής".
 * Μείνετε στο σπίτι όσο γίνεται περισσότερο -- ειδικά εάν είστε άρρωστοι. Προμηθευτείτε επιπλέον ποσότητες τροφίμων σε περίπτωση που χρειαστεί να μπείτε σε καραντίνα.
 * Εάν είστε εργοδότης, ενθαρρύνετε τους εργαζομένους σας να δουλεύουν από το σπίτι όσο αυτό είναι δυνατό.
 
 #### ...η πολιτεία
-* Κάνετε εκτεταμένους και δωρεάν ελέγχους για τον εντοπισμό του ιού.  
+* Κάνετε εκτεταμένους και δωρεάν ελέγχους για τον εντοπισμό του ιού. 
 * Εφαρμόστε ισχυρά μέτρα κοινωνικής απόστασης.
 * Χρηματοδοτείστε και υλοποιήστε προσπάθειες ιχνηλάτησης.
 * Υποστηρίξτε οικονομικά αυτούς που πλήγονται από τα μέτρα αποκλεισμού.
@@ -211,21 +207,18 @@ This is evidence for many separate introductions, largely from Europe, to many n
 ```auspiceMainDisplayMarkdown
 # Συμπεράσματα
 
-#### There have been many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference).Υπήρξαν πολλές ξεχωριστές εισαγωγές του SARS-CoV-2 στην αφρικανική ήπειρο, κυρίως από την Ευρώπη (αν και ο τρόπος δειγματοληψίας μπορεί να συμβάλει σε αυτό το συμπέρασμα).
+#### Υπήρξαν πολλές ξεχωριστές εισαγωγές του SARS-CoV-2 στην αφρικανική ήπειρο κυρίως από την Ευρώπη (αν και η ανομοιόμορφη δειγματοληψία μπορεί να συμβάλει σε αυτό το συμπέρασμα).
 <br><br>
-#### 7 introductions to the DRC have led to at least 2 separate transmission chains circulating in Kinshasa.7 εισαγωγές στη ΛΔΚ οδήγησαν σε κυκλοφορία τουλάχιστον 2 ξεχωριστών αλυσίδων μετάδοσης στην Κινσάσα.  
+#### 7 εισαγωγές στη ΛΔΚ είχαν ως αποτέλεσμα τουλάχιστον 2 ξεχωριστές αλυσίδες διασποράς στην Κινσάσα.  
 <br><br>
-#### Similarly, 8 introductions to Senegal seeded local transmission chains in Dakar and Touba.Ομοίως, 8 εισαγωγές στη Σενεγάλη έφεραν τοπικές αλυσίδες μετάδοσης στο Ντακάρ και στην Τούμπα.  
+#### Παρομοίως, 8 εισαγωγές στη Σενεγάλη αποτέλεσαν πηγή τοπικών αλυσίδων διασποράς στο Ντακάρ και στην Τούμπα.  
 <br><br>
-#### SARS-CoV-2 has been introduced to Ghana at least 7 times, with local transmission in Greater Accra.Το SARS-CoV-2 έχει εισαχθεί στη Γκάνα τουλάχιστον 7 φορές, με τοπική μετάδοση στη Greater Accra.
+#### Ο SARS-CoV-2 έχει εισαχθεί στη Γκάνα τουλάχιστον 7 φορές, με τοπική διασπορά στην περιοχή Greater Accra.
 <br><br>
-#### There have been scattered introductions to Algeria, Gambia, Nigeria, and South Africa. We don't yet have enough samples to infer local transmission from the sequence data.Έχουν γίνει διάσπαρτες εισαγωγές στην Αλγερία, τη Γκάμπια, τη Νιγηρία και τη Νότια Αφρική. Δεν έχουμε ακόμη αρκετά δείγματα για να συμπεράνουμε τοπική μετάδοση από τα δεδομένα αλληλουχιών.
+#### Έχουν γίνει διάσπαρτες εισαγωγές του ιού στην Αλγερία, την Γκάμπια, τη Νιγηρία και τη Νότια Αφρική. Δεν έχουμε ακόμη αρκετά δείγματα ώστε να συμπεράνουμε γεγονότα τοπικής διασποράς από τα δεδομένα των αλληλουχιών.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
-
-
-
 
 
 
@@ -234,18 +227,17 @@ This is evidence for many separate introductions, largely from Europe, to many n
 <!-- This is left-side text 12-->
 # [Επιστημονικές ευχαριστίες](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.Θα θέλαμε να ευχαριστήσουμε αυτήν την υπέροχη και συνεχή προσπάθεια όλων των επιστημόνων που έχουν εργαστεί σε αυτήν την πανδημία.Μόνο μέσα από τον άμεσο διαμοιρασμό γενομικών δεδομένων και μεταδεδομένων, αναλύσεις σαν και αυτή είναι δυνατό να πραγματοποιηθούν.
+Θα θέλαμε να ευχαριστήσουμε την υπέροχη και συνεχή προσπάθεια όλων των επιστημόνων που έχουν εργαστεί σε αυτήν την πανδημία. Μόνο μέσα από τον άμεσο διαμοιρασμό γενομικών δεδομένων και μεταδεδομένων είναι δυνατό να πραγματοποιηθούν αναλύσεις σαν κι αυτήν.
 <br><br>
-The specific sequences provided by each lab are Οι συγκεκριμένες αλληλουχίες που παρέχονται από κάθε εργαστήριο [listed here παρατίθενται εδώ](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md).
+Οι συγκεκριμένες αλληλουχίες που παρέχονται από κάθε εργαστήριο [παρατίθενται εδώ](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md).
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.Επίσης ευχαριστούμε θερμά την GISAID που παρέχει τη διαδικτυακή πλατφόρμα διαμοιρασμού των δεδομένων.
+Επίσης ευχαριστούμε θερμά την GISAID που παρέχει τη διαδικτυακή πλατφόρμα διαμοιρασμού των δεδομένων.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-Είμαστε ευγνώμονες για τα δεδομένα που συλλέχθηκαν από αυτά τα εργαστήρια:
+Είμαστε ευγνώμονες για τα δεδομένα που συλλέχθηκαν από τα παρακάτω εργαστήρια:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
