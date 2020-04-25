@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-24.
+title: Analiza genomiczna rozprzestrzeniania się COVID-19. Raport sytuacyjny 2020-04-24.
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -19,13 +19,15 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
+translators: 
+  - Marta Niedzicka
 translatorLinks:
+  - https://www.researchgate.net/profile/Marta_Niedzicka
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Africa. We report many separate introductions to the Democratic Republic of the Congo, Senegal, Ghana, Nigeria, Gambia, Algeria, and South Africa. We find evidence of local transmission in Kinshasa, DRC; Dakar and Touba, Senegal; and Greater Accra, Ghana."
+abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się COVID-19. W tym tygodniu koncentrujemy się na sytuacji w Afryce. Opisujemy wiele osobnych introdukcji do Demokratycznej Republiki Konga, Senegalu, Ghany, Nigerii, Gambii, Algierii i Republiki Południowej Afryki. Obserwujemy dowodu na lokalną transmisję w Kinszasie (DRC), Dakarze i Toubie (Senegal) oraz Wielkiej Akrze (Ghana)."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -33,49 +35,49 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
+# [Spis treści](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
-* [The genetic diversity of SARS-CoV-2 in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
-* [Updates for the DRC](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
-* [Updates for Senegal](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
-* [Updates for Ghana](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=8).
-* [Updates for Algeria, Gambia, Nigeria, and South Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=10).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=11).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=12).
+* [Wstęp i materiały.](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
+* [O danych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
+* [Różnorodność genetyczna SARS-CoV-2 w Afryce](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
+* [Aktualizacja sytuacji w Demokratycznej Republice Konga](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
+* [Aktualizacja sytuacji w Senegalu](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
+* [Aktualizacja sytuacji w Ghanie](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=8).
+* [Aktualizacja sytuacji w Algierii, Gambii, Nigerii, i RPA](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=10).
+* [Co możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=11).
+* [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Streszczenie
 
-We analyzed 1,338 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. This week we focus on Africa and report:
+Przeanalizowaliśmy 1 338 publicznie dostępnych genomów SARS-CoV-2. Porównując je, potrafimy ocenić, w jaki sposób wirus COVID-19 rozprzestrzenia się po świecie i wewnątrz społeczności. W tym tygodniu koncentrujemy się na Afryce i opisujemy:
 <br><br>
-* Many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference)
+* Wiele odrębnych introdukcji SARS-CoV-2 na kontynent afrykański, głównie z Europy (aczkolwiek nierównomierność próbkowania mogła się  przyczynić się do tego wniosku) 
 <br><br>
-* At least 7 introductions to the DRC  
+* Przynajmniej 7 introdukcji do Demokratycznej Republiki Konga  
 <br><br>
-* 2 separate transmission chains circulating in Kinshasa, DRC  
+* 2 oddzielne łańcuchy transmisji krążące w Kinszasie, DRC 
 <br><br>
-* Of 8 introductions to Senegal, at least 2 seeded local transmission chains in Dakar and Touba
+* 8 introdukcji do Senegalu, i przynajmniej 2 łańcuchy transmisji w Dakarze i Toubie
 <br><br>
-* Local transmission in Greater Accra, Ghana, after 7 introductions to this region
+* Lokalną transmisję w Wielkiej Akrze (Ghana) po 7 introdukcjach do tego regionu 
 <br><br>
-* Scattered introductions to Algeria, Gambia, Nigeria, and South Africa
+* Porozrzucane introdukcje do Algierii, Gambii, Nigerii i RPA
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&p=full&legend=closed&f_region=Africa)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+# [Materiały o COVID-19](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&p=full&legend=closed&f_region=Africa)
+Przygotowaliśmy materiały online, które ułatwią interpretowanie przygotowanych danych:
+#### Materiały Nextstrain
+* [ZACZNIJ TUTAJ: Jak interpretować drzewa filogenetyczne](https://nextstrain.org/narratives/trees-background/pl).  
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Przesądy](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
+#### Inne źródła  
 * [Ask a Scientist & FAQs](https://covid19.fas.org/).
 * [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
@@ -86,47 +88,75 @@ We've prepared some resources that will make interpreting the data we present in
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/africa/2020-04-24?d=map&f_region=Africa&p=full)
-We currently have sequences from samples taken in 6 continents. In Africa, we have samples from 7 countries. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Opis próbkowania](https://nextstrain.org/ncov/africa/2020-04-24?d=map&f_region=Africa&p=full)
+Obecnie dysponujemy sekwencjami próbek pobranych na 6 kontynentach. W Afryce mamy próbki z 7 krajów. To niesamowity wyczyn -- sekwencjonowanie nieznanego wirusa o sporym genomie RNA w środku pandemii jest trudne i możliwe jedynie dzięki ogromnej pracy i sprawnemu udostępnianiu danych przez naukowców i lekarzy z całego świata.
+<br><br>
+Choć zgromadzone dane umożliwiają wyciąganie wniosków na temat wielu przydatnych aspektów epidemii oraz pozwalają śledzić jej rozprzestrzenianie w czasie rzeczywistym, należy podkreślić, że nasze wnioski są ograniczone dostępnością danych.
+<br><br>
+Na przykład, mapa pokazuje bardzo niewiele sekwencji ze wschodniej Afryki. Powodem NIE jest to, że COVID-19 nie znajduje się w tych regionach, bądź przypadki z tych regionów są mniej istotne dla zrozumienia sytuacji; powodem jest po prostu niewielka ilość danych docierająca z tych obszarów. Wielkość każdego kółka na mapie wskazuje, jak wiele danych z tego regionu jest dostępnych w danym momencie, a nie jaka jest rzeczywista skala ogniska epidemii.
+<!-- We currently have sequences from samples taken in 6 continents. In Africa, we have samples from 7 countries. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
 <br><br>
 While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
 <br><br>
-For example, the map shows very few sequences from East Africa. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+For example, the map shows very few sequences from East Africa. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.-->
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Many separate introductions have seeded diverse local transmission chains in Africa](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
-  At the time of writing, the [Africa CDC](https://africacdc.org/covid-19/) reports 26,144 confirmed COVID-19 cases and 1,247 deaths across the African Union.
+# [Wiele osobnych introdukcji zapoczątkowało różnorodne lokalne łańcuchy transmisji w Afryce](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
+  W trakcie pisania tego raportu, [Africa CDC - Centrum Kontroli i Prewencji Chorób Afryka](https://africacdc.org/covid-19/) raportowało 26,144 potwierdzonych przypadków COVID-19 i 1,247 zgonów w całej Unii Afrykańskiej (African Union)
+  Mamy genomy wirusów z 83 z tych przypadków, z 7 krajów afrykańskich, pokazanych tutaj (w kolorze) w kontekście sekwencji z całego świata (przedstawionych na szaro). Podziwiamy lokalne wydziały zdrowia publicznego za szybką reakcję i publiczne udostępnianie danych.
+  <br><br>
+  Te próbki siegają przez pełną różnorodność drzewa, wskazując na wiele niezależnych introdukcji wirusa na kontynent afrykański.
+  Wiele z tych introdukcji wydaje się pochodzić z Europy, ale może to wynikać z faktu, że mamy więcej sekwencji z Europy niż z większości innych miejsc na świecie. Nie możemy wykluczyć możliwości niepróbkowanych, pośrednich transmisji z innych lokacji. 
+  <br><br>
+  Nie obserwujemy dowodów na to, że wszystkie introdukcje doprowadziły do transmisji w społecznościach, ale widzimy wyraźne klastry w niektórych lokacjach.
+
+<!--At the time of writing, the [Africa CDC](https://africacdc.org/covid-19/) reports 26,144 confirmed COVID-19 cases and 1,247 deaths across the African Union.
   We have viral genomes from 83 of these cases from 7 African nations, shown here (in color) against a backdrop of contextual sequences from around the world (in gray). We applaud the local public health departments for their rapid response and open data sharing.
   <br><br>
   These samples span the full diversity of the tree, indicating that there have been many independent introductions to the African continent.
   Many of these introductions appear to be from Europe, although this may be skewed by the fact that we have more sequences from Europe than from most other places in the world. We can't rule out the possibility of unsampled, intermediate transmissions elsewhere.
   <br><br>
-  We don't seen evidence that all of these introductions have led to community transmission, but we see clear clusters in some locations.
+  We don't seen evidence that all of these introductions have led to community transmission, but we see clear clusters in some locations.-->
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [At least 7 introductions to the DRC](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
+# [Co najmniej 7 introdukcji do Demokratycznej Republiki Konga (DRC)](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
+W DRC jest [359 potwierdzonych przypadków COVID-19 i 25 zgonów](https://africacdc.org/covid-19/). Nexstrain dysponuje 40 sekwencjami ze DRC.
+<br><br>
+Te sekwencje są rozmieszczone w poprzek drzewa, dowodząc przynajmniej 7 odrębnych introdukcji. Jak przedstawiono na wykresie, introdukcje są pokazane jako zmiana koloru pomiędzy próbką wirusa (końce gałęzi) a jego przodkami (wewnętrzne węzły lub rozgałęzienia które do nich prowadzą). 
+<br><br>
+Widzimy 7 miejsc na drzewie, w których kolory zmieniły się z szarego na pomarańczowy, reprezentując introdukcję. Z tych 7 introdukcji, widzimy dowody na przynajmniej 2 lokalne łańcuchy transmisji.
 
-There are [359 confirmed cases of COVID-19 in the DRC with 25 deaths](https://africacdc.org/covid-19/). On Nextstrain, we have 40 sequences from the DRC.
+<!-- There are [359 confirmed cases of COVID-19 in the DRC with 25 deaths](https://africacdc.org/covid-19/). On Nextstrain, we have 40 sequences from the DRC.
 <br><br>
 These sequences fall across the tree, with evidence for at least 7 separate introductions. As shown here, introductions look like a color change between a virus sample (tips of the tree) and its ancestors (the internal nodes or branch points that lead to it).
 <br><br>
-Here, we can see 7 places where the colors have changed from grey to orange, representing an introduction. From these 7 introductions, we see evidence for at least 2 local transmission chains.
+Here, we can see 7 places where the colors have changed from grey to orange, representing an introduction. From these 7 introductions, we see evidence for at least 2 local transmission chains.-->
 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Two local transmission chains in Kinshasa, seeded in early March](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
+# [Dwa lokalne łańcuchy transmisji w Kinszasie, zapoczątkowane we wczesnym marcu](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
+W tym powiększonym widoku, widzimy dwa klastry reprezentujące prawdopodobne transmisje lokalne.
+Transmisja lokalna wygląda jak ciasno zbity klaster przypadków z tej samej lokacji, próbkowanych w różnym czasie, ze wzrastającą różnorodnością genetyczną (wydłużające się gałęzie, wskazujące na więcej mutacji). 
+<br><br>
+W kierunku górnej części tego drzewa widzimy klaster z przypadkami z Kinszasy, wszystkie próbkowane pomiędzy 9 a 22 marca.
+<br><br>
+W stronę środka widzimy kolejny klaster przypadków z Kinszasy, próbkowany pomiędzy 15 marca a 6 kwietnia.
+<br><br>
+Na tej podstawie możemy wnioskować, że co najmniej 2 odrębne łańcuchy transmisji krążyły po Kinszasie pomiędzy początkiem marca a początkiem kwietnia 2020.
+<br><br>
+Demokratyczna Republika Konga zgłosiła pierwsze przypadki COVID-19 [do WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) 10 marca. Pierwsze próbki Nexstrain były zebrane 9 marca i były opublikowane w naszym [raporcie sytuacyjnym z 27 marca](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-03-27?n=16).
 
-In this zoomed-in divergence view, we can see two clusters representing likely local transmission.
+<!--In this zoomed-in divergence view, we can see two clusters representing likely local transmission.
 Local transmission looks like a tight cluster of cases from the same location, sampled over time, with accumulating genetic diversity (longer branch lengths, representing more mutations).
 <br><br>
 Toward the top of this view, we see a cluster of cases from Kinshasa, all sampled between March 9 and March 22.
@@ -135,84 +165,98 @@ Toward the middle, we see another cluster of cases from Kinshasa, sampled betwee
 <br><br>
 From this, we can conclude that at least 2 separate transmission chains were circulating in Kinshasa in between early March and early April 2020.
 <br><br>
-The DRC reported its first cases of COVID-19 [to the WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) on March 10. The first sample on Nextstrain was collected on March 9, and was reported in our [Situation Report for March 27](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+The DRC reported its first cases of COVID-19 [to the WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) on March 10. The first sample on Nextstrain was collected on March 9, and was reported in our [Situation Report for March 27](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).-->
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [At least 8 introductions to Senegal, with 2 local transmission chains](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
+# [Przynajmniej 8 introdukcji do Senegalu, z 2 lokalnymi łańcuchami transmisji](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
+Podobnie do wzoru zaobserwowanego DRC, tutaj widzimy próbki z Senegalu rozmieszczone wzdłuż pełnej różnorodności genetycznej drzewa. Filogenetyczna lokalizacja tych próbek wskazuje, że było co najmniej 8 odrębnych introdukcji do Senegalu pomiędzy końcem lutego i końcem marca. Senegal zgłosił pierwsze przypadki COVID-19 do WHO 28 lutego, tego samego dnia, kiedy pierwsza próbka wirusa została zebrana do sekwencjonowania.
+<br><br>
+Jak opublikowaliśmy w naszym [raporcie sytuacyjnym z 3 kwietnia](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-03?n=5), co najmniej 2 z tych introdukcji pod koniec lutego lub na początku marca spowodowało klastry transmisji lokalnej, odpowiednio w Dakarze i Toubie.
+<br><br>
+Choć najnowsza sekwencja z Senegalu w Nextstrain jest z 20 marca, jest tam [obecnie 215 znanych, aktywnych przypadków](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) COVID-19.
 
-Similar to the patterns found in the DRC, here we see samples from Senegal spanning the full genetic diversity of the tree. The phylogenetic placement of these samples indicates that there were at least 8 separate introductions to Senegal between late February and late March. Senegal reported its first  COVID-19 cases to the WHO on February 28, the same day that the first viral sample was collected for sequencing.
+<!-- Similar to the patterns found in the DRC, here we see samples from Senegal spanning the full genetic diversity of the tree. The phylogenetic placement of these samples indicates that there were at least 8 separate introductions to Senegal between late February and late March. Senegal reported its first  COVID-19 cases to the WHO on February 28, the same day that the first viral sample was collected for sequencing.
 <br><br>
 As we reported in our [April 3 Situation Report](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=5), at least 2 of these introductions in late February or early March have led to ongoing local transmission clusters in Dakar and Tabou, respectively.
 <br><br>
-Although the most recent sequence on Nextstrain from Senegal is from March 20, there are [currently 215 known, active cases](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) of COVID-19 in Senegal.
-
+Although the most recent sequence on Nextstrain from Senegal is from March 20, there are [currently 215 known, active cases](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) of COVID-19 in Senegal.-->
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [At least 7 introductions to Ghana](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
+# [Co najmniej 7 introdukcji do Ghany](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
 
-There are [1,154 confirmed cases of COVID-19 in Ghana with 9 known deaths](https://africacdc.org/covid-19/). On Nextstrain, there are 14 sequences from Ghana which are spread across the phylogenetic tree, representing at least 7 separate introductions.
+Jest co najmniej [1,154 potwierdzonych przypadków COVID-19 w Ghanie i 9 zgonów](https://africacdc.org/covid-19/). W Nextstrain dysponujemy 14 sekwencjami z Ghany, które są rozrzucone po drzewie filogenetycznym, reprezentując co najmniej 7 odrębnych introdukcji.
 <br><br>
-The first case in Ghana was reported to the WHO on March 11, and the first viral genome on Nextstrain was collected on March 24.
+Pierwszy przypadek w Ghanie był zgłoszony 11 marca, a pierwszy genom dostępny w Nextstrain został zebrany 24 marca.
 
+
+<!-- There are [1,154 confirmed cases of COVID-19 in Ghana with 9 known deaths](https://africacdc.org/covid-19/). On Nextstrain, there are 14 sequences from Ghana which are spread across the phylogenetic tree, representing at least 7 separate introductions.
+<br><br>
+The first case in Ghana was reported to the WHO on March 11, and the first viral genome on Nextstrain was collected on March 24.-->
 <!-- There is no right-side text --><!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Local transmission in Greater Accra, Ghana](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
+# [Lokalna transmisja w Wielkiej Akrze w Ghaniea](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
 
-Here, we see a cluster of closely related cases from the Greater Accra region of Ghana, sampled between March 25 and March 30.
+Tutaj widzimy klaster blisko spokrewnionych przypadków z regionu Wielkiej Akry w Ghanie, pobranych pomiędzy 25 a 30 marca.
+Wspólny przodek tych próbek datuje się do połowy lutego lub początku marca, i był prawdopodobnie przywieziony z Azji.
+<br><br>
+Co ciekawe, mamy próbkę z Senegalu, która grupuje się ciasno z tym klastrem, sugerując możliwą transmisję między Senegalem a Ghaną. 
+
+<!-- Here, we see a cluster of closely related cases from the Greater Accra region of Ghana, sampled between March 25 and March 30.
 The common ancestor of these cases dates to mid-February or early March, and was most likely imported from Asia.
 <br><br>
-Interestingly, there is a sample from Senegal that groups tightly with this cluster, suggesting the possibility of a transmission between Senegal and Ghana.
-
+Interestingly, there is a sample from Senegal that groups tightly with this cluster, suggesting the possibility of a transmission between Senegal and Ghana.-->
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Scattered introductions to Algeria, Gambia, Nigeria, and South Africa](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
+# [Porozrzucane introdukcje do Algierii, Gambii, Nigerii i RPA](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
 
-Here, we see samples isolated from Algeria, Gambia, Nigeria and South Africa. These samples are scattered across the full tree and are largely isolated from one another.
+Tutaj widzimy odizolowane próbki z Algierii, Gambii, Nigerii i Republiki Południowej Afryki. Te próbki są porozrzucane po całym drzewie i w głównej mierze odizolowane jedna od drugiej.
 <br><br>
-This is evidence for many separate introductions, largely from Europe, to many nations in Africa. Without more data, we can't yet say which -- if any -- of these sparks resulted into local outbreaks. The [WHO reports](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) outbreaks of over 3400, 2800, and 500 cases in South Africa, Algeria, and Nigeria respectively.
-
+Jest to dowód na wiele oddzielnych introdukcji, głównie z Europy, do wielu krajów Afryki. Bez większej liczby danych nie możemy jeszcze powiedzieć które z nich -- i czy w ogóle któreś z nich -- spowodowały lokalne ogniska epidemii. [WHO ogłosiło](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) ogniska epidemii z odpowiednio 3400, 2800 i 500 przypadkami w Republice Południowej Afryki, Algierii i Nigerii.
+<!--Here, we see samples isolated from Algeria, Gambia, Nigeria and South Africa. These samples are scattered across the full tree and are largely isolated from one another.
+<br><br>
+This is evidence for many separate introductions, largely from Europe, to many nations in Africa. Without more data, we can't yet say which -- if any -- of these sparks resulted into local outbreaks. The [WHO reports](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) outbreaks of over 3400, 2800, and 500 cases in South Africa, Algeria, and Nigeria respectively.-->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wear a mask (homemade works well) when in public.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Co ty możesz zrobić](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...jako jednostka
+* Stosuj ścisłą izolację społeczną, zwłaszcza, jeśli jesteś w grupie podwyższonego ryzyka.
+* Pamiętaj, że nawet jeśli nie jesteś szczególnie narażona/y, wiele osób wokół ciebie jest; postępuj zgodnie z tymi praktykami, aby chronić innych.
+* Noś maskę (mogą być domowej roboty), kiedy jesteś w przestrzeni publicznej.
+* Myj ręcę "jakbyś właśnie pokroił papryczkę jalapeno i musiał zmienić soczewkę kontaktową"
+* Zostań w domu na tyle, na ile to możliwe -- szczególnie jeśli jesteś chora/y; przygotuj trochę zapasów w razie potrzeby przebycia kwarantanny.  
+* Jeśli jesteś pracodawcą, zachęć swoich pracowników, aby pracowali z domu, gdziekolwiek jest to możliwe.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...jako urzędnik 
+* Spraw, aby testy na obecność wirusa były darmowe i szeroko dostępne.
+* Wprowadź regulacje ograniczające bezpośrednie kontakty.  
+* Sfinansuj i wprowadź badania kontaktów na dużą skalę.
+* Wspomóź finansowo tych, którzy najbardziej ucierpią w wyniku dystansowania społecznego.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Konkluzje
 
-#### There have been many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference).
+#### Było wiele odrębnych introdukcji SARS-CoV-2 na kontynent afrykański, głównie z Europy (aczkolwiek nierównomierne próbkowanie mogło wpłynąć na ten wniosek).
 <br><br>
-#### 7 introductions to the DRC have led to at least 2 separate transmission chains circulating in Kinshasa.  
+#### 7 introdukcji do DRC doprowadziło do przynajmniej 2 odrębnych transmisji lokalnych krążących po Kinszasie.  
 <br><br>
-#### Similarly, 8 introductions to Senegal seeded local transmission chains in Dakar and Touba.  
+#### Podobnie, 8 introdukcji do Senegalu zapoczątkowało łańcuchy transmisji w Dakarze i Toubie. 
 <br><br>
-#### SARS-CoV-2 has been introduced to Ghana at least 7 times, with local transmission in Greater Accra.
+#### SARS-CoV-2 został wprowadzony do Ghany co najmniej 7 razy, z lokalną transmisją w regionie Wielkiej Akry.
 <br><br>
-#### There have been scattered introductions to Algeria, Gambia, Nigeria, and South Africa. We don't yet have enough samples to infer local transmission from the sequence data.
+#### Zaobserwowaliśmy porozrzucane introdukcje do Algierii, Gambii, Nigerii i Republiki Południowej Afryki. Nie mamy wystarczająco próbek by wnioskować o transmisji lokalnej na podstawie zebranych danych z sekwencjonowania.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -225,20 +269,19 @@ This is evidence for many separate introductions, largely from Europe, to many n
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [Podziękowania](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Wyrażamy podziękowania dla wszystkich naukowców zaangażowanych w ten wybuch pandemii za wspaniałą i śpieszną pracę. Analizy takie jak ta nie byłyby możliwe gdyby nie natychmiastowe publikowanie zsekwencjonowanych genomów oraz metadanych z nimi związanych.
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md).
+Określone sekwencje udostępnione przez każde z laboratoriów są [wyszczególnione tutaj](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md).
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Ponadto szczególnie dziękujemy GISAID za udostępnienie platformy do wymiany tego typu danych.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs.
+Dziękujemy za dane zebrane w tych ośrodkach:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
