@@ -143,78 +143,82 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [At least 8 introductions to Senegal, with 2 local transmission chains](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
+# [٨ ادخالات - على الأقل - للفيروس إلى السنغال، وسلستان انتشار](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
 
-Similar to the patterns found in the DRC, here we see samples from Senegal spanning the full genetic diversity of the tree. The phylogenetic placement of these samples indicates that there were at least 8 separate introductions to Senegal between late February and late March. Senegal reported its first  COVID-19 cases to the WHO on February 28, the same day that the first viral sample was collected for sequencing.
+كما  في جمهورية الكونغو، نرى هنا ايضا عينات من السنغال تمتد عل طول الشجرة (اشارة على تعددية جينات هذه الفيروسات). توزع هذه العينات على الشجرة يشير لحصول ٨ ادخالات على الأقل للسنغال  بين أواخر فبراير وأواخر مارس. سجلت السنغال أول حالات اصابة بالفيروس لمنظمة الصحة العالمية في فبراير ٢٨، نفس اليوم الذي اخذت فيه اول عينة لتحديد التسلسل الجيني
 <br><br>
-As we reported in our [April 3 Situation Report](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=5), at least 2 of these introductions in late February or early March have led to ongoing local transmission clusters in Dakar and Tabou, respectively.
+وكما نشرنا في [تقرير حالة نيسان ٣](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=5)، هناك على الأقل إدخالان مستقلان للفيروس في أواخر فبراير، أو بدايات آذار، أدت لحدوث انتشارات محلية مستمره في داكار وتوبا على التوالي.
 <br><br>
-Although the most recent sequence on Nextstrain from Senegal is from March 20, there are [currently 215 known, active cases](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) of COVID-19 in Senegal.
+
+على الرغم من أن آخر تسلسل على Nextstrain من السنغال هو من ٢٠ مارس ، هناك [٢١٥ حالة نشطه ومعرفة](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) لكوفيد ١٩ في السنغال 
+
 
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [At least 7 introductions to Ghana](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
+# [٧ ادخالات - على الأقل - للفيروس في غانا](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
 
-There are [1,154 confirmed cases of COVID-19 in Ghana with 9 known deaths](https://africacdc.org/covid-19/). On Nextstrain, there are 14 sequences from Ghana which are spread across the phylogenetic tree, representing at least 7 separate introductions.
+هناك [١١٥٤ حالة اصابة مؤكدة في غانا و٩ حالات وفاة](https://africacdc.org/covid-19/). على Nextstrain ، هناك 14 تسلسلًا من غانا تنتشر عبر شجرة التطور الجيني ، تمثل ٧ ادخالات منفصلة على الأقل.
 <br><br>
-The first case in Ghana was reported to the WHO on March 11, and the first viral genome on Nextstrain was collected on March 24.
+تم الإبلاغ عن أول حالة في غانا إلى منظمة الصحة العالمية في ١١ مارس ، وتم جمع عينة أول جينوم فيروسي على  Nextstrain في ٢٤ مارس.
+
 
 <!-- There is no right-side text --><!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Local transmission in Greater Accra, Ghana](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
+# [انتشار محلي في أكرا الكبرى في غانا](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
 
-Here, we see a cluster of closely related cases from the Greater Accra region of Ghana, sampled between March 25 and March 30.
-The common ancestor of these cases dates to mid-February or early March, and was most likely imported from Asia.
+هنا ، نرى مجموعة من الحالات وثيقة الصلة فيما بينها،  من منطقة أكرا الكبرى بغانا ، تم أخذ العينات بين ٢٥ مارس و ٣٠ مارس. يرجع تاريخ السلف المشترك لهذه الحالات إلى منتصف فبراير أو أوائل مارس ، وعلى الأرجح تم استيراده من آسيا.
 <br><br>
-Interestingly, there is a sample from Senegal that groups tightly with this cluster, suggesting the possibility of a transmission between Senegal and Ghana.
+ومن المثير للاهتمام أن هناك عينة من السنغال مصنفة مع عيانات غانا ، مما يشير إلى إمكانية انتشار للفيروس بين السنغال وغانا.
+
 
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Scattered introductions to Algeria, Gambia, Nigeria, and South Africa](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
+# [إدخالات متفرقة للجزائر وغامبيا ونيجيريا وجنوب أفريقيا](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
 
-Here, we see samples isolated from Algeria, Gambia, Nigeria and South Africa. These samples are scattered across the full tree and are largely isolated from one another.
+هنا نرى عينات تم جمعها من الجزائر وغامبيا ونيجيريا وجنوب إفريقيا. هذه العينات متناثرة عبر الشجرة ومتباعدة إلى حد كبير عن بعضها البعض.
 <br><br>
-This is evidence for many separate introductions, largely from Europe, to many nations in Africa. Without more data, we can't yet say which -- if any -- of these sparks resulted into local outbreaks. The [WHO reports](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) outbreaks of over 3400, 2800, and 500 cases in South Africa, Algeria, and Nigeria respectively.
+هذا دليل على وجود العديد من الادخالات المنفصلة ، إلى حد كبير من أوروبا ، إلى العديد من الدول في أفريقيا. بدون المزيد من البيانات ، لا يمكننا حتى الآن تحديد - إن وجد - حدوث انتشارت محلية بسبب هذه الادخالات. أبلغت[ منظمة الصحة العالمية](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) عن وجود أكثر من ٣٤٠٠ و ٢٨٠٠ و ٥٠٠ حالة في جنوب إفريقيا والجزائر ونيجيريا على التوالي
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wear a mask (homemade works well) when in public.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [ماذا تفعل](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...كفرد في المجتمع
+* قم بالتقيد بالحجر الصحي، تحديدا إذا كنت في مجموعة هي عرضة للوباء
+* تذكر ،  حتى لو لم تكن عرضة  للوباء،  فهناك  العديد من الأشخاص حولنا قد يكونون.  فتقيد بالحجر لحمايتهم 
+* اغسل بديك "كانك تريد تغيير عدساتك اللاصقة بعد ان قمت بتقطيع الفلفل"
+* ابق في المنزل قدر ما تستطيع -- بشكل مخصوص إذا كنت مريضا، كن مستعدا وتزود باحتياجات اضافية في حال اضطررت للحجر الذاتي.
+* إذا كنت رب عمل، شجع موظفيك على العمل من البيت ان كان ذلك ممكنا
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...كشخص في موقع مسؤولية
+* اجعل الفحوصات مجانية ومتوفرة بكثرة
+* ضع تدابير التباعد الاجتماعي وتابع تنفيذها بفعالية على ارض الواقع
+* قم بتمويل وتطبيق جهود متابعة التواصل المكثفة. 
+* ادعم ماديا أولئك المتضررين مم التباعد الاجتماعي ( العمالة الذين يعملون بنظام الوقت الساعي، اولئك الذين يعتنون بالكبار والأطفال, والمشاريع الصغيرة،...الخ).
+
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# الاستنتاجات والحقائق الحالية
 
-#### There have been many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference).
+#### هناك العديد من الادخالات المنفصلة لـ SARS-CoV-2 إلى القارة الأفريقية ، في المقام الأول من أوروبا (على الرغم من أن التحيز في أخذ العينات قد يساهم في هذا الاستدلال - بمعنى ان جمع العينات وتحديد سلاسلها الجينية متوفر في أوروبا أكثر من مناطق اخرى).
 <br><br>
-#### 7 introductions to the DRC have led to at least 2 separate transmission chains circulating in Kinshasa.  
+#### أدت ٧ ادخالات  إلى جمهورية الكونغو الديمقراطية إلى حدوث سلسلتي انتشار منفصلتين على الأقل في كينشاسا.
 <br><br>
-#### Similarly, 8 introductions to Senegal seeded local transmission chains in Dakar and Touba.  
+#### وبالمثل ، فإن ٨ ادخالات للسنغال، أدت لحدوث سلاسل انتشار محلية في داكار وتوبا.
 <br><br>
-#### SARS-CoV-2 has been introduced to Ghana at least 7 times, with local transmission in Greater Accra.
+#### تم إدخال SARS-CoV-2 إلى غانا ٧ مرات على الأقل ، مع انتقال محلي في أكرا الكبرى.
 <br><br>
-#### There have been scattered introductions to Algeria, Gambia, Nigeria, and South Africa. We don't yet have enough samples to infer local transmission from the sequence data.
+#### هناك ادخالات متفرقة للفيروس الى لجزائر وغامبيا ونيجيريا وجنوب أفريقيا. ليس لدينا حتى الآن عينات كافية لاستنتاج حدوث انتشارات محلية.
+
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -227,7 +231,7 @@ This is evidence for many separate introductions, largely from Europe, to many n
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [الحقوق العلمية](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
 
 We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
