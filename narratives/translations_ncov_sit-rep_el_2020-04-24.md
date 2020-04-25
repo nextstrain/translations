@@ -100,14 +100,14 @@ For example, the map shows very few sequences from East Africa. This is NOT beca
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Many separate introductions have seeded diverse local transmission chains in Africa](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
-  At the time of writing, the [Africa CDC](https://africacdc.org/covid-19/) reports 26,144 confirmed COVID-19 cases and 1,247 deaths across the African Union.
-  We have viral genomes from 83 of these cases from 7 African nations, shown here (in color) against a backdrop of contextual sequences from around the world (in gray). We applaud the local public health departments for their rapid response and open data sharing.
+# [Many separate introductions have seeded diverse local transmission chains in Africa. Πολλές ξεχωριστές εισαγωγές έχουν δημιουργήσει διαφορετικές τοπικές αλυσίδες μετάδοσης στην Αφρική](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
+  At the time of writing, the [Africa CDC](https://africacdc.org/covid-19/) reports 26,144 confirmed COVID-19 cases and 1,247 deaths across the African Union.Τη στιγμή της γραφής, ο [Αφρικανικός CDC](https://africacdc.org/covid-19/) αναφέρει 26.144 επιβεβαιωμένες περιπτώσεις COVID-19 και 1.247 θανάτους σε ολόκληρη την Αφρικανική Ένωση.
+  We have viral genomes from 83 of these cases from 7 African nations, shown here (in color) against a backdrop of contextual sequences from around the world (in gray). We applaud the local public health departments for their rapid response and open data sharing.Έχουμε ιογενή γονιδιώματα από 83 από αυτές τις περιπτώσεις από 7 αφρικανικά έθνη, που εμφανίζονται εδώ (σε χρώμα) έναντι αλληλουχιών με βάση αλληλουχιών από όλο τον κόσμο (σε γκρι χρώμα). Επικροτούμε τις τοπικές υπηρεσίες δημόσιας υγείας για την ταχεία ανταπόκρισή τους και την ανοιχτή ανταλλαγή δεδομένων.
   <br><br>
-  These samples span the full diversity of the tree, indicating that there have been many independent introductions to the African continent.
-  Many of these introductions appear to be from Europe, although this may be skewed by the fact that we have more sequences from Europe than from most other places in the world. We can't rule out the possibility of unsampled, intermediate transmissions elsewhere.
+  These samples span the full diversity of the tree, indicating that there have been many independent introductions to the African continent.Αυτά τα δείγματα καλύπτουν την πλήρη ποικιλομορφία του δέντρου, υποδεικνύοντας ότι υπήρξαν πολλές ανεξάρτητες εισαγωγές στην αφρικανική ήπειρο.
+  Many of these introductions appear to be from Europe, although this may be skewed by the fact that we have more sequences from Europe than from most other places in the world. We can't rule out the possibility of unsampled, intermediate transmissions elsewhere.Πολλές από αυτές τις εισαγωγές φαίνεται να προέρχονται από την Ευρώπη, αν και αυτό μπορεί να οφείλεται από το γεγονός ότι έχουμε περισσότερες ακολουθίες από την Ευρώπη από ό, τι από τα περισσότερα άλλα μέρη του κόσμου. Δεν μπορούμε να αποκλείσουμε την πιθανότητα ενδιάμεσων μεταδόσεων που δεν έχουν δειγματολφθεί αλλού.
   <br><br>
-  We don't seen evidence that all of these introductions have led to community transmission, but we see clear clusters in some locations.
+  We don't seen evidence that all of these introductions have led to community transmission, but we see clear clusters in some locations.Δεν έχουμε αποδείξεις ότι όλες αυτές οι εισαγωγές έχουν οδηγήσει σε τοπική μετάδοση, αλλά βλέπουμε σαφείς συστοιχίες σε ορισμένες τοποθεσίες.
 
 <!-- There is no right side text -->
 
