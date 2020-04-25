@@ -30,7 +30,7 @@ translatorLinks:
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
-Abstract: "Ce rapport hebdomadaire utilise des données génomiques partagées publiquement pour suivre la propagation de COVID-19.  Cette semaine, nous nous concentrons sur l'Afrique. Nous faisons état de nombreuses introductions distinctes en République Démocratique du Congo, au Sénégal, au Ghana, au Nigeria, en Gambie, en Algérie et en Afrique du Sud. Nous trouvons des preuves de transmission locale à Kinshasa, en RDC, à Dakar et à Touba, au Sénégal, et dans le Grand Accra, au Ghana."
+abstract: "Ce rapport hebdomadaire utilise des données génomiques partagées publiquement pour suivre la propagation de COVID-19.  Cette semaine, nous nous concentrons sur l'Afrique. Nous faisons état de nombreuses introductions distinctes en République Démocratique du Congo, au Sénégal, au Ghana, au Nigeria, en Gambie, en Algérie et en Afrique du Sud. Nous trouvons des preuves de transmission locale à Kinshasa, en RDC, à Dakar et à Touba, au Sénégal, et dans le Grand Accra, au Ghana."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
