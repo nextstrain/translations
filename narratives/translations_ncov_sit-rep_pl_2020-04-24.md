@@ -28,7 +28,6 @@ translatorLinks:
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
-
 abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się COVID-19. W tym tygodniu koncentrujemy się na sytuacji w Afryce. Opisujemy wiele osobnych introdukcji do Demokratycznej Republiki Konga, Senegalu, Ghany, Nigerii, Gambii, Algierii i Republiki Południowej Afryki. Obserwujemy dowodu na lokalną transmisję w Kinszasie (DRC), Dakarze i Toubie (Senegal) oraz Wielkiej Akrze (Ghana)."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
