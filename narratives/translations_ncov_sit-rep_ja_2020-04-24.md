@@ -27,7 +27,7 @@ translatorLinks:
   - https://twitter.com/tommy_nezy
   - https://github.com/satotake
   - https://twitter.com/fengjun_zhang
-license: "CC-BY"  
+license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
 
@@ -172,10 +172,10 @@ Nextstrain上には、ガーナからの14の遺伝子配列があり、系統�
 
 <!-- There is no right-side text --><!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [ガーナ、グレーター・アクラ(Greater Accra)での地域感染](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
+# [ガーナ、グレーター・アクラ州(Greater Accra)での地域感染](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
 
 Here, we see a cluster of closely related cases from the Greater Accra region of Ghana, sampled between March 25 and March 30.
-ガーナのグレーター・アクラ(the Greater Accra)の密接に関連した症例のクラスターがあることがわかります。3月25から3月30日の間に収集されました。
+ガーナのグレーター・アクラ州(the Greater Accra)の密接に関連した症例のクラスターがあることがわかります。3月25から3月30日の間に収集されました。
 <br><br>
 興味深いことに、このクラスターと緊密にグループ化されるセネガル由来の一症例があり、セネガル・ガーナ間の伝搬の可能性を示唆しています。
 
@@ -184,13 +184,13 @@ Here, we see a cluster of closely related cases from the Greater Accra region of
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [アルジェリア、ガンビア、ナイジェリア、南アフリカへの散発的な伝搬](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
+# [アルジェリア、ガンビア、ナイジェリア、南アフリカ共和国への散発的な伝搬](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
 
 Here, we see samples isolated from Algeria, Gambia, Nigeria and South Africa. These samples are scattered across the full tree and are largely isolated from one another.
-アルジェリア、ガンビア、ナイジェリア、南アフリカから単離されたサンプルが表示されています。
+アルジェリア、ガンビア、ナイジェリア、南アフリカ共和国から単離されたサンプルが表示されています。
 <br><br>
 これは主にヨーロッパからアフリカでの多くの国へ多数の独立した伝搬があったことの証拠です。更に多くのデータがなければ、もしそれがあったとしてですが、これらのうちどの伝搬が地域感染を拡大したかを言及することはできません。
-[WHO の報告](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf)によると、 南アフリカ、アルジェリア、ナイジェリアでそれぞれ、3400, 2800, 500 以上の症例があり、感染が拡大しているとのことです。
+[WHO の報告](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf)によると、 南アフリカ共和国、アルジェリア、ナイジェリアでそれぞれ、3400, 2800, 500 以上の症例があり、感染が拡大しているとのことです。
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -222,9 +222,9 @@ Here, we see samples isolated from Algeria, Gambia, Nigeria and South Africa. Th
 <br><br>
 #### 同様にセネガルへ8回の伝搬があり、DakarとToubaでの地域の感染連鎖が生じました。
 <br><br>
-#### SARS-CoV-2 はガーナに少なくとも7回伝搬され、グレーター・アクラで地域感染が発生しています。
+#### SARS-CoV-2 はガーナに少なくとも7回伝搬され、グレーター・アクラ州で地域感染が発生しています。
 <br><br>
-#### アルジェリア、ガンビア、ナイジェリア、南アフリカで散発的な伝搬がありましたが、遺伝子配列データから地域感染について推定するにはサンプルが不足しています。
+#### アルジェリア、ガンビア、ナイジェリア、南アフリカ共和国で散発的な伝搬がありましたが、遺伝子配列データから地域感染について推定するにはサンプルが不足しています。
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
