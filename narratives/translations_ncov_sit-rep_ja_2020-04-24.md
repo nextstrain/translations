@@ -131,18 +131,17 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Two local transmission chains in Kinshasa, seeded in early March](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
+# [キンシャサにおける３月上旬からの地域感染](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
 
-In this zoomed-in divergence view, we can see two clusters representing likely local transmission.
-Local transmission looks like a tight cluster of cases from the same location, sampled over time, with accumulating genetic diversity (longer branch lengths, representing more mutations).
+この拡大した系統樹では、地域感染の可能性を表す2つのクラスターを確認できます。地域感染は、同じ場所からの症例が密集したクラスターのように見え、時間をかけてサンプリングされるため、遺伝的多様性が累積されます（より長い枝や、より多くの変異を示します）
 <br><br>
-Toward the top of this view, we see a cluster of cases from Kinshasa, all sampled between March 9 and March 22.
+この系統樹の上部に向かって、3月9日から22日の間にサンプリングされたキンシャサの症例クラスターが表示されます。
 <br><br>
-Toward the middle, we see another cluster of cases from Kinshasa, sampled between March 15 and April 6th.
+中央に向かって、3月15日から4月6日の間にサンプリングされた、キンシャサからの別の症例群が見られます。
 <br><br>
-From this, we can conclude that at least 2 separate transmission chains were circulating in Kinshasa in between early March and early April 2020.
+このことから、2020年3月上旬から4月上旬の間に、キンシャサでは少なくとも2つの個別の伝播の連鎖が広がっていたと結論付けることができます。
 <br><br>
-The DRC reported its first cases of COVID-19 [to the WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) on March 10. The first sample on Nextstrain was collected on March 9, and was reported in our [Situation Report for March 27](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+コンゴ民主共和国 COVID-19 の最初の症例を3月10日に [WHO へ報告]（https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) しました。Nextstrainのサンプルは3月9日に採取され、[3月27日の状況レポート]（https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16） で報告されました。
 <!-- There is no right-side text -->
 
 
