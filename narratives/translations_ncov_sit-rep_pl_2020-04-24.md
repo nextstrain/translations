@@ -21,13 +21,16 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators: 
   - Marta Niedzicka
+  - Anna Fijarczyk
 translatorLinks:
   - https://www.researchgate.net/profile/Marta_Niedzicka
+  - https://twitter.com/afijarczyk
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
 
 abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się COVID-19. W tym tygodniu koncentrujemy się na sytuacji w Afryce. Opisujemy wiele osobnych introdukcji do Demokratycznej Republiki Konga, Senegalu, Ghany, Nigerii, Gambii, Algierii i Republiki Południowej Afryki. Obserwujemy dowodu na lokalną transmisję w Kinszasie (DRC), Dakarze i Toubie (Senegal) oraz Wielkiej Akrze (Ghana)."
+
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -37,7 +40,7 @@ abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śl
 <!-- This is left-side text 1-->
 # [Spis treści](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
 
-* [Wstęp i materiały.](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
+* [Wstęp i materiały](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
 * [O danych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
 * [Różnorodność genetyczna SARS-CoV-2 w Afryce](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
 * [Aktualizacja sytuacji w Demokratycznej Republice Konga](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
