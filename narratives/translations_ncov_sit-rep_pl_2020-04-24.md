@@ -202,7 +202,7 @@ The first case in Ghana was reported to the WHO on March 11, and the first viral
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Lokalna transmisja w Wielkiej Akrze w Ghaniea](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
+# [Lokalna transmisja w Wielkiej Akrze w Ghanie](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
 
 Tutaj widzimy klaster blisko spokrewnionych przypadków z regionu Wielkiej Akry w Ghanie, pobranych pomiędzy 25 a 30 marca.
 Wspólny przodek tych próbek datuje się do połowy lutego lub początku marca i był prawdopodobnie przywieziony z Azji.
@@ -222,7 +222,7 @@ Interestingly, there is a sample from Senegal that groups tightly with this clus
 
 Tutaj widzimy odizolowane próbki z Algierii, Gambii, Nigerii i Republiki Południowej Afryki. Te próbki są porozrzucane po całym drzewie i w głównej mierze odizolowane jedna od drugiej.
 <br><br>
-Jest to dowód na wiele oddzielnych introdukcji, głównie z Europy, do wielu krajów Afryki. Bez większej liczby danych nie możemy jeszcze powiedzieć które z nich -- i czy w ogóle któreś z nich -- spowodowały lokalne ogniska epidemii. [WHO ogłosiło](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) ogniska epidemii z odpowiednio 3400, 2800 i 500 przypadkami w Republice Południowej Afryki, Algierii i Nigerii.
+Jest to dowód na wiele oddzielnych introdukcji, głównie z Europy, do wielu krajów Afryki. Bez większej ilości danych nie możemy jeszcze powiedzieć które z nich -- i czy w ogóle któreś z nich -- spowodowały lokalne ogniska epidemii. [WHO ogłosiło](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) ogniska epidemii z odpowiednio 3400, 2800 i 500 przypadkami w Republice Południowej Afryki, Algierii i Nigerii.
 <!--Here, we see samples isolated from Algeria, Gambia, Nigeria and South Africa. These samples are scattered across the full tree and are largely isolated from one another.
 <br><br>
 This is evidence for many separate introductions, largely from Europe, to many nations in Africa. Without more data, we can't yet say which -- if any -- of these sparks resulted into local outbreaks. The [WHO reports](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) outbreaks of over 3400, 2800, and 500 cases in South Africa, Algeria, and Nigeria respectively.-->
@@ -233,7 +233,7 @@ This is evidence for many separate introductions, largely from Europe, to many n
 #### ...jako jednostka
 * Stosuj ścisłą izolację społeczną, zwłaszcza, jeśli jesteś w grupie podwyższonego ryzyka.
 * Pamiętaj, że nawet jeśli nie jesteś szczególnie narażona/y, wiele osób wokół ciebie jest; postępuj zgodnie z tymi praktykami, aby chronić innych.
-* Noś maskę (mogą być domowej roboty), kiedy jesteś w przestrzeni publicznej.
+* Noś maskę (może być domowej roboty), kiedy jesteś w przestrzeni publicznej.
 * Myj ręcę "jakbyś właśnie pokroił papryczkę jalapeno i musiał zmienić soczewkę kontaktową"
 * Zostań w domu na tyle, na ile to możliwe -- szczególnie jeśli jesteś chora/y; przygotuj trochę zapasów w razie potrzeby przebycia kwarantanny.  
 * Jeśli jesteś pracodawcą, zachęć swoich pracowników, aby pracowali z domu, gdziekolwiek jest to możliwe.
