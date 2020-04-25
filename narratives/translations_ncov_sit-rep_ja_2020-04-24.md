@@ -31,7 +31,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
 
-abstract: "この週次レポートでは、公開されたゲノムデータを用いて COVID-19 の広がりを追跡しています。今週はアフリカに焦点を充てています。コンゴ民主共和国 (Democratic Republic of the Congo)、セネガル (Senegal)、ガーナ (Ghana)、ナイジェリア (Nigeria)、ガンビア (Gambia)、アルジェリア (Algeria) と、南アフリカ共和国 (South Africa) への多くの個別伝播を報告します。私たちはコンゴ民主共和国のキンシャサ (Kinshasa)、セネガルのダカール (Dakar) とトゥーバ (Touba)、ガーナのグレーター・アクラ州 (Greater Accra) で地域感染の証拠を見つけました。"
+abstract: "この週次レポートでは、公開されたゲノムデータを用いて COVID-19 の広がりを追跡しています。今週はアフリカに焦点を充てています。コンゴ民主共和国 (Democratic Republic of the Congo)、セネガル (Senegal)、ガーナ (Ghana)、ナイジェリア (Nigeria)、ガンビア (Gambia)、アルジェリア (Algeria) と、南アフリカ共和国 (South Africa) への多くの個別の伝播を報告します。私たちはコンゴ民主共和国のキンシャサ (Kinshasa)、セネガルのダカール (Dakar) とトゥーバ (Touba)、ガーナのグレーター・アクラ州 (Greater Accra) で地域感染の証拠を見つけました。"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -55,17 +55,17 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 ```auspiceMainDisplayMarkdown
 # 概要
 
-ここでは、公に共有されている 1,338 種の SARS-CoV-2 ゲノムを分析しました。これらのウイルスのゲノムを相互に比較することにより、SARS-CoV-2 が世界中をどのように移動しているか、地域の中でどのように拡散しているかを特徴付けることができます。今週の更新ではアフリカに焦点を充てて報告します:
+ここでは、公に共有されている1,338種の SARS-CoV-2 ゲノムを分析しました。これらのウイルスのゲノムを相互に比較することにより、SARS-CoV-2 が世界中をどのように移動しているか、地域の中でどのように拡散しているかを特徴付けることができます。今週の更新ではアフリカに焦点を充てて報告します:
 <br><br>
-* SARS-CoV-2 の、主にヨーロッパからアフリカ大陸への多くの個別伝播（ただし、サンプリングの偏りがこの推論に影響している可能性があります）
+* SARS-CoV-2 の、主にヨーロッパからアフリカ大陸への多くの個別の伝播（ただし、サンプリングの偏りがこの推論に影響している可能性があります）
 <br><br>
-* 少なくとも７つのコンゴ民主共和国への伝播 
+* 少なくとも7つのコンゴ民主共和国への伝播 
 <br><br>
-* コンゴ民主共和国のキンシャサで蔓延する２つの地域感染
+* コンゴ民主共和国のキンシャサで蔓延する2つの地域感染
 <br><br>
-* セネガルへの８つの伝播のうち、少なくとも２つはダカールとトゥーバでの地域感染の原因 (translator note: Translated seeded to 原因. Is 元 more appropriate?)
+* セネガルへの7つの伝播のうち、少なくとも2つはダカールとトゥーバでの地域感染の原因 (translator note: Translated seeded to 原因. Is 元 more appropriate?)
 <br><br>
-* ガーナのグレーター・アクラ州への７つの伝播の後、地域感染が発生
+* ガーナのグレーター・アクラ州への7つの伝播の後、地域感染が発生
 <br><br>
 * アルジェリア、ガンビア、ナイジェリア、南アフリカ共和国への散発的な伝播
 ```
@@ -93,7 +93,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- This is left-side text 3-->
 # [データについて](https://nextstrain.org/ncov/africa/2020-04-24?d=map&f_region=Africa&p=full)
-現在、６大陸で採取されたサンプルの遺伝子配列があり、アフリカにおいては７カ国からのサンプルがあります。これは信じられないほどの成果です。流行の最中に未知の大型RNAウイルスの遺伝子を解析することは難しく、世界中の科学者や医師による信じられないような作業とタイムリーなデータの共有があって初めて可能になりました。
+現在、7大陸で採取されたサンプルの遺伝子配列があり、アフリカにおいては7カ国からのサンプルがあります。これは信じられないほどの成果です。流行の最中に未知の大型RNAウイルスの遺伝子を解析することは難しく、世界中の科学者や医師による信じられないような作業とタイムリーなデータの共有があって初めて可能になりました。
 <br><br>
 このデータにより、多くの有用な特性を推測し、流行の広がりをリアルタイムで追跡することができますが、結論は利用可能なデータによって制限されることに留意して下さい。
 <br><br>
@@ -104,27 +104,28 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Many separate introductions have seeded diverse local transmission chains in Africa](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
-  At the time of writing, the [Africa CDC](https://africacdc.org/covid-19/) reports 26,144 confirmed COVID-19 cases and 1,247 deaths across the African Union.
-  We have viral genomes from 83 of these cases from 7 African nations, shown here (in color) against a backdrop of contextual sequences from around the world (in gray). We applaud the local public health departments for their rapid response and open data sharing.
-  <br><br>
-  These samples span the full diversity of the tree, indicating that there have been many independent introductions to the African continent.
-  Many of these introductions appear to be from Europe, although this may be skewed by the fact that we have more sequences from Europe than from most other places in the world. We can't rule out the possibility of unsampled, intermediate transmissions elsewhere.
-  <br><br>
-  We don't seen evidence that all of these introductions have led to community transmission, but we see clear clusters in some locations.
+# [多くの個別の伝播により、アフリカに様々な地域感染が蔓延しました](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
+執筆時点で、[アフリカ CDC](https://africacdc.org/covid-19/)は、アフリカ連合全体で26,144人の確認済み COVID-19 感染と 1,247人の死亡者を報告しています。ここでは、世界中から集まった遺伝子配列（灰色）の中から、アフリカ7か国からの83例のウイルスゲノム（色付き）を表示しています。私たちはそれぞれの地域の公衆衛生部門の迅速な対応とオープンなデータ共有を称賛します。
+<br><br>
+これらのサンプルは系統樹全体に分布しており、アフリカ大陸への多くの独立した伝播があったことを示しています。これらの伝播の多くはヨーロッパからのものであるように見えますが、世界の他のほとんどの場所よりもヨーロッパからのシーケンスが多いという事実により、これは歪んでいる可能性があります。
+
+
+木の完全な多様性に及んでおり、アフリカ大陸への多くの独立した紹介があったことを示しています。 これらの紹介の多くはヨーロッパからのものであるように見えますが、一方で世界の他のほとんどの場所よりもヨーロッパからのシーケンスが多いという事から、これは実態と異なる可能性があります。 他の場所でのサンプリングされていない途中の伝播の可能性を排除することはできません。(translator note: skewed means 歪む. We use it as "事実を歪める" in Japanese, but I think it is too strong in this context. So I translated it to "実態と異なる".)
+<br><br>
+これらすべての伝播がコミュニティ内での感染につながったという証拠は見られませんが、一部の場所では明確なクラスターが見られます。
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [At least 7 introductions to the DRC](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
+# [少なくとも7つのコンゴ民主共和国への伝播 ](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
 
-There are [359 confirmed cases of COVID-19 in the DRC with 25 deaths](https://africacdc.org/covid-19/). On Nextstrain, we have 40 sequences from the DRC.
+コンゴ民主共和国では[359件の症例と25人の死亡者]（https://africacdc.org/covid-19/) が確認されています。Nextstrain には、コンゴ民主共和国からの40の遺伝子配列があります。
 <br><br>
-These sequences fall across the tree, with evidence for at least 7 separate introductions. As shown here, introductions look like a color change between a virus sample (tips of the tree) and its ancestors (the internal nodes or branch points that lead to it).
+これらの遺伝子配列は系統樹全体に分布しており、少なくとも7つの個別の伝播の証拠があります。 ここに示すように、伝播はウイルスのサンプル（枝の先端）とその祖先（内側の枝、またはそれにつながる分岐点）の間の色の変化のように見えます。
 <br><br>
-Here, we can see 7 places where the colors have changed from grey to orange, representing an introduction. From these 7 introductions, we see evidence for at least 2 local transmission chains.
+ここでは、色が灰色からオレンジに変わった7つの場所が伝播として示されています。 これらの7つの伝播から、少なくとも2つの地域感染の証拠が見られます。
 
 <!-- There is no right side text -->
 
