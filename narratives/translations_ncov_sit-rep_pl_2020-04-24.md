@@ -156,7 +156,7 @@ Na tej podstawie możemy wnioskować, że co najmniej 2 odrębne łańcuchy tran
 <br><br>
 Demokratyczna Republika Konga zgłosiła pierwsze przypadki COVID-19 [do WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) 10 marca. Pierwsze próbki Nexstrain były zebrane 9 marca i były opublikowane w naszym [raporcie sytuacyjnym z 27 marca](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-03-27?n=16).
 
-<!--In this zoomed-in divergence view, we can see two clusters representing likely local transmission.
+<!-- In this zoomed-in divergence view, we can see two clusters representing likely local transmission.
 Local transmission looks like a tight cluster of cases from the same location, sampled over time, with accumulating genetic diversity (longer branch lengths, representing more mutations).
 <br><br>
 Toward the top of this view, we see a cluster of cases from Kinshasa, all sampled between March 9 and March 22.
@@ -165,7 +165,7 @@ Toward the middle, we see another cluster of cases from Kinshasa, sampled betwee
 <br><br>
 From this, we can conclude that at least 2 separate transmission chains were circulating in Kinshasa in between early March and early April 2020.
 <br><br>
-The DRC reported its first cases of COVID-19 [to the WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) on March 10. The first sample on Nextstrain was collected on March 9, and was reported in our [Situation Report for March 27](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).-->
+The DRC reported its first cases of COVID-19 [to the WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) on March 10. The first sample on Nextstrain was collected on March 9, and was reported in our [Situation Report for March 27](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16). -->
 <!-- There is no right-side text -->
 
 
