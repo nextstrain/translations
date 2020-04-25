@@ -126,18 +126,19 @@ Here, we can see 7 places where the colors have changed from grey to orange, rep
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Two local transmission chains in Kinshasa, seeded in early March](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
+# [Two local transmission chains in Kinshasa, seeded in early March Δύο τοπικές μεταδόσης στην Κινσάσα, ξεκίνησσν αρχές Μαρτίου](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
 
 In this zoomed-in divergence view, we can see two clusters representing likely local transmission.
 Local transmission looks like a tight cluster of cases from the same location, sampled over time, with accumulating genetic diversity (longer branch lengths, representing more mutations).
+Σε αυτήν την προβολή απόκλισης μεγέθυνσης, μπορούμε να δούμε δύο συστοιχίες που αντιπροσωπεύουν πιθανή τοπική μετάδοση. Η τοπική μετάδοση μοιάζει με ένα μικρό σύμπλεγμα περιπτώσεων από την ίδια τοποθεσία, η δείγματοληψία έγινε με την πάροδο του χρόνου, με συσσωρευμένη γενετική ποικιλομορφία (μεγαλύτερα μήκη διακλάδωσης, που αντιπροσωπεύουν περισσότερες μεταλλάξεις).
 <br><br>
-Toward the top of this view, we see a cluster of cases from Kinshasa, all sampled between March 9 and March 22.
+Toward the top of this view, we see a cluster of cases from Kinshasa, all sampled between March 9 and March 22.Προς την κορυφή αυτής της προβολής, βλέπουμε ένα σύμπλεγμα περιπτώσεων από την Κινσάσα, η δειγματοληψία έγινε μεταξύ 9 και 22 Μαρτίου.
 <br><br>
-Toward the middle, we see another cluster of cases from Kinshasa, sampled between March 15 and April 6th.
+Toward the middle, we see another cluster of cases from Kinshasa, sampled between March 15 and April 6th.Προς τη μέση, βλέπουμε ένα άλλο σύμπλεγμα περιπτώσεων από την Κινσάσα, η δειγματοληψία έγινε μεταξύ 15 Μαρτίου και 6 Απριλίου.
 <br><br>
-From this, we can conclude that at least 2 separate transmission chains were circulating in Kinshasa in between early March and early April 2020.
+From this, we can conclude that at least 2 separate transmission chains were circulating in Kinshasa in between early March and early April 2020.Από αυτό, μπορούμε να συμπεράνουμε ότι τουλάχιστον 2 ξεχωριστές τοπικές επιδημίες κυκλοφόρησαν στην Κινσάσα από τις αρχές Μαρτίου έως και τις αρχές Απριλίου 2020.
 <br><br>
-The DRC reported its first cases of COVID-19 [to the WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) on March 10. The first sample on Nextstrain was collected on March 9, and was reported in our [Situation Report for March 27](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+The DRC reported its first cases of Η ΛΔΚ ανέφερε τις πρώτες περιπτώσεις COVID-19 [στον ΠΟΥ](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) on March 10 στις 10 Μαρτίου. The first sample on Nextstrain was collected on March 9, and was reported in our [Situation Report for March 27](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).Το πρώτο δείγμα στο Nextstrsain συλλέχθηκε στις 9 Μαρτίου και αναφέρθηκε στη [Κατάσταση αναφοράς της 27ης Μαρτίου](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-03-27?n=16)
 <!-- There is no right-side text -->
 
 
