@@ -144,7 +144,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [2度の地域感染の連鎖を伴う、ガーナへの最低8回の伝搬](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
+# [2度の地域感染の連鎖を伴う、セネガルへの最低8回の伝搬](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
 
 コンゴ民主共和国で見つけられるパターンと同様に、セネガルからのサンプルも系統樹の遺伝的多様性全体に広がっていることがわかります。
 これらのサンプルの遺伝系統的位置から、2月後半から3月後半にかけてセネガルへ少なくとも8度の伝搬があったことを示唆しています。
