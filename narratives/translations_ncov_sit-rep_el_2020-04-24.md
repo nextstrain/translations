@@ -185,36 +185,36 @@ This is evidence for many separate introductions, largely from Europe, to many n
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wear a mask (homemade works well) when in public.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Τι μπορείτε να κάνετε](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...ο καθένας ξεχωριστά
+* Τηρείτε τα μέτρα κοινωνικής απόστασης, ειδικά εάν ανήκετε σε ευπαθή ομάδα.
+* Να θυμάστε πως ακόμα κι αν δεν ανήκετε σε ευπαθή ομάδα, πολλοί άνθρωποι γύρω σας ανήκουν σε κάποια ευπαθή ομάδα. Ακολουθήστε τις πρακτικές αυτές ώστε να τους προστατέψετε.
+* Φορέστε μάσκα ( φτιαγμένη στο σπίτι λειτουργεί καλά ) στους δημόσιους χώρους.
+* Πλένετε τα χέρια σας "σα να έχετε κόψει μια καυτερή πιπεριά και πρέπει να αλλάξετε φακούς επαφής".
+* Μείνετε στο σπίτι όσο γίνεται περισσότερο -- ειδικά εάν είστε άρρωστοι. Προμηθευτείτε επιπλέον ποσότητες τροφίμων σε περίπτωση που χρειαστεί να μπείτε σε καραντίνα.
+* Εάν είστε εργοδότης, ενθαρρύνετε τους εργαζομένους σας να δουλεύουν από το σπίτι όσο αυτό είναι δυνατό.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...η πολιτεία
+* Κάνετε εκτεταμένους και δωρεάν ελέγχους για τον εντοπισμό του ιού.  
+* Εφαρμόστε ισχυρά μέτρα κοινωνικής απόστασης.
+* Χρηματοδοτείστε και υλοποιήστε προσπάθειες ιχνηλάτησης.
+* Υποστηρίξτε οικονομικά αυτούς που πλήγονται από τα μέτρα αποκλεισμού.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Συμπεράσματα
 
-#### There have been many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference).
+#### There have been many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference).Υπήρξαν πολλές ξεχωριστές εισαγωγές του SARS-CoV-2 στην αφρικανική ήπειρο, κυρίως από την Ευρώπη (αν και ο τρόπος δειγματοληψίας μπορεί να συμβάλει σε αυτό το συμπέρασμα).
 <br><br>
-#### 7 introductions to the DRC have led to at least 2 separate transmission chains circulating in Kinshasa.  
+#### 7 introductions to the DRC have led to at least 2 separate transmission chains circulating in Kinshasa.7 εισαγωγές στη ΛΔΚ οδήγησαν σε κυκλοφορία τουλάχιστον 2 ξεχωριστών αλυσίδων μετάδοσης στην Κινσάσα.  
 <br><br>
-#### Similarly, 8 introductions to Senegal seeded local transmission chains in Dakar and Touba.  
+#### Similarly, 8 introductions to Senegal seeded local transmission chains in Dakar and Touba.Ομοίως, 8 εισαγωγές στη Σενεγάλη έφεραν τοπικές αλυσίδες μετάδοσης στο Ντακάρ και στην Τούμπα.  
 <br><br>
-#### SARS-CoV-2 has been introduced to Ghana at least 7 times, with local transmission in Greater Accra.
+#### SARS-CoV-2 has been introduced to Ghana at least 7 times, with local transmission in Greater Accra.Το SARS-CoV-2 έχει εισαχθεί στη Γκάνα τουλάχιστον 7 φορές, με τοπική μετάδοση στη Greater Accra.
 <br><br>
-#### There have been scattered introductions to Algeria, Gambia, Nigeria, and South Africa. We don't yet have enough samples to infer local transmission from the sequence data.
+#### There have been scattered introductions to Algeria, Gambia, Nigeria, and South Africa. We don't yet have enough samples to infer local transmission from the sequence data.Έχουν γίνει διάσπαρτες εισαγωγές στην Αλγερία, τη Γκάμπια, τη Νιγηρία και τη Νότια Αφρική. Δεν έχουμε ακόμη αρκετά δείγματα για να συμπεράνουμε τοπική μετάδοση από τα δεδομένα αλληλουχιών.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -227,20 +227,20 @@ This is evidence for many separate introductions, largely from Europe, to many n
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [Επιστημονικές ευχαριστίες](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
 
 We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Only through the rapid sharing of genomic data and metadata are analyses such as these possible.Θα θέλαμε να ευχαριστήσουμε αυτήν την υπέροχη και συνεχή προσπάθεια όλων των επιστημόνων που έχουν εργαστεί σε αυτήν την πανδημία.Μόνο μέσα από τον άμεσο διαμοιρασμό γενομικών δεδομένων και μεταδεδομένων, αναλύσεις σαν και αυτή είναι δυνατό να πραγματοποιηθούν.
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md).
+The specific sequences provided by each lab are Οι συγκεκριμένες αλληλουχίες που παρέχονται από κάθε εργαστήριο [listed here παρατίθενται εδώ](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md).
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.Επίσης ευχαριστούμε θερμά την GISAID που παρέχει τη διαδικτυακή πλατφόρμα διαμοιρασμού των δεδομένων.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs.
+Είμαστε ευγνώμονες για τα δεδομένα που συλλέχθηκαν από αυτά τα εργαστήρια:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
