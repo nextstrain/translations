@@ -114,13 +114,13 @@ For example, the map shows very few sequences from East Africa. This is NOT beca
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [At least 7 introductions to the DRC](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
+# [At least 7 introductions to the DRC Τουλάχιστον 7 εισαγωγές στη ΛΔΚ](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
 
-There are [359 confirmed cases of COVID-19 in the DRC with 25 deaths](https://africacdc.org/covid-19/). On Nextstrain, we have 40 sequences from the DRC.
+There are [359 confirmed cases of COVID-19 in the DRC with 25 deaths](https://africacdc.org/covid-19/). On Nextstrain, we have 40 sequences from the DRC.Υπάρχουν [359 επιβεβαιωμένα κρούσματα COVID-19 στη ΛΔΚ με 25 θανάτους](https://africacdc.org/covid-19/). Στο Nextstrain, έχουμε 40 ακολουθίες από τη ΛΔΚ.
 <br><br>
-These sequences fall across the tree, with evidence for at least 7 separate introductions. As shown here, introductions look like a color change between a virus sample (tips of the tree) and its ancestors (the internal nodes or branch points that lead to it).
+These sequences fall across the tree, with evidence for at least 7 separate introductions. As shown here, introductions look like a color change between a virus sample (tips of the tree) and its ancestors (the internal nodes or branch points that lead to it).Αυτές οι ακολουθίες πέφτουν στο δέντρο, με αποδείξεις για τουλάχιστον 7 ξεχωριστές εισαγωγές. Όπως παρουσιάζονται εδώ, οι εισαγωγές χαρακτηρίζονται με αλλαγή χρώματος μεταξύ ενός δείγματος ιού (άκρες του δέντρου) και των προγόνων του (οι εσωτερικοί κόμβοι ή τα σημεία κλάδου που οδηγούν σε αυτό).
 <br><br>
-Here, we can see 7 places where the colors have changed from grey to orange, representing an introduction. From these 7 introductions, we see evidence for at least 2 local transmission chains.
+Here, we can see 7 places where the colors have changed from grey to orange, representing an introduction. From these 7 introductions, we see evidence for at least 2 local transmission chains.Εδώ, μπορούμε να δούμε 7 μέρη όπου τα χρώματα έχουν αλλάξει από γκρι σε πορτοκαλί, αντιπροσωπεύοντας μια εισαγωγή. Από αυτές τις 7 εισαγωγές, βλέπουμε στοιχεία για τουλάχιστον 2 τοπικές αλυσίδες μετάδοσης.
 
 <!-- There is no right side text -->
 
