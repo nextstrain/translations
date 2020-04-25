@@ -77,7 +77,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 #### Πηγές του Nextstrain 
 * [ΞΕΚΙΝΗΣΤΕ ΕΔΩ: Πώς να ερμηνεύσετε ένα φυλογενετικό δέντρο](https://nextstrain.org/narratives/trees-background/el). 
 * [Βασικές γνώσεις σχετικά με τους κορωνοϊούς](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Συχνές παρερμηνείες](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-03-13?n=11).
+* [Συχνές παρερμηνείες](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 #### Εξωτερικοί Σύνδεσμοι
 * [Ρωτήστε έναν επιστήμονα & Συχνές ερωτήσεις](https://covid19.fas.org/).
