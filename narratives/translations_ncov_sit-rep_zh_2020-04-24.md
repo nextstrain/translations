@@ -27,7 +27,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
 
-abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）基因组数据来追踪疫情的传播。本周我们关注非洲疫情。我们报告病毒已多次独立地输入了刚果民主共和国、塞内加尔、加纳、尼日利亚、冈比亚、阿尔及利亚和南非等地。我们发现了民主刚果的金沙萨市、塞内加尔的达喀尔市和图巴市、加纳的大阿克拉地区存在本地传播的证据。This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Africa. We report many separate introductions to the Democratic Republic of the Congo, Senegal, Ghana, Nigeria, Gambia, Algeria, and South Africa. We find evidence of local transmission in Kinshasa, DRC; Dakar and Touba, Senegal; and Greater Accra, Ghana."
+abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）基因组数据来追踪疫情的传播。本周我们关注非洲疫情。我们报告，病毒已多次独立地输入了刚果民主共和国、塞内加尔、加纳、尼日利亚、冈比亚、阿尔及利亚和南非等地。在民主刚果的金沙萨市、塞内加尔的达喀尔市和图巴市、加纳的大阿克拉地区，我们发现了本地传播的证据。"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -50,18 +50,18 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # 摘要
-我们分析了 1,338 个公开共享的 COVID-19 基因组。通过将这些病毒基因组相互比较，我们可以描述 COVID-19 是如何在世界各地迁移和在社区中传播的。本周，我们关注非洲疫情，我们报告：
+我们分析了 1,338 个公开共享的 COVID-19 基因组。通过将这些病毒基因组相互比较，我们可以描述 COVID-19 是如何在世界各地迁移和在社区中传播的。本周，我们关注非洲疫情。我们报告：
  
 <br><br>
-* 新冠病毒SARS-CoV-2被多次独立地引入非洲大陆，主要来自欧洲（虽然取样偏差可能会影响这个推断）。Many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference)
+* 新冠病毒SARS-CoV-2被多次独立地引入非洲大陆，其来源主要是欧洲（不过取样偏差可能会影响此推断）。
 <br><br>
-* 病毒至少被引入民主刚果7次。At least 7 introductions to the DRC  
+* 病毒至少被输入民主刚果7次。
 <br><br>
 * 民主刚果的金沙萨市存在两个独立的传播链。2 separate transmission chains circulating in Kinshasa, DRC  
 <br><br>
 * 塞内加尔的8次输入事件中，至少有两次引发了达喀尔和图巴的本地传播链。Of 8 introductions to Senegal, at least 2 seeded local transmission chains in Dakar and Touba
 <br><br>
-* 病毒被输入加纳的大阿克拉地区7次，现已存在本地传播。Local transmission in Greater Accra, Ghana, after 7 introductions to this region
+* 病毒被输入加纳的大阿克拉地区7次，当地现已存在本地传播。Local transmission in Greater Accra, Ghana, after 7 introductions to this region
 <br><br>
 * 阿尔及利亚、冈比亚、尼日利亚和南非存在分散的输入病例。bScattered introductions to Algeria, Gambia, Nigeria, and South Africa
 ```
@@ -101,27 +101,27 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Many separate introductions have seeded diverse local transmission chains in Africa](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
-  At the time of writing, the [Africa CDC](https://africacdc.org/covid-19/) reports 26,144 confirmed COVID-19 cases and 1,247 deaths across the African Union.
-  We have viral genomes from 83 of these cases from 7 African nations, shown here (in color) against a backdrop of contextual sequences from around the world (in gray). We applaud the local public health departments for their rapid response and open data sharing.
+# [很多独立的输入事件引发了非洲多样化的本地传播链](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
+  在报告成文之时，[非洲CDC](https://africacdc.org/covid-19/)报道非洲联盟地区已有 26,144 例确诊病例和 1,247 例死亡病例。
+  我们获得了其中83个病例的病毒基因组，分属于7个非洲国家。在图中，我们用彩色圆点显示这些非洲的样本，并与作为背景数据的全球样本序列（灰色）加以对照。感谢当地的公共卫生部门如此迅速地作出反应，并公开共享他们的数据。
   <br><br>
-  These samples span the full diversity of the tree, indicating that there have been many independent introductions to the African continent.
-  Many of these introductions appear to be from Europe, although this may be skewed by the fact that we have more sequences from Europe than from most other places in the world. We can't rule out the possibility of unsampled, intermediate transmissions elsewhere.
+  这些样本的遗传多样性的范围覆盖了整棵演化树，表明病毒曾被多次独立地输入非洲大陆。
+  其中很多输入事件看起来是来自欧洲，但因为欧洲的序列数据比世界上大多数地方都多，这个推论也可能有所偏差。我们不能排除病毒经由其他未被抽样地区传播的可能性。
   <br><br>
-  We don't seen evidence that all of these introductions have led to community transmission, but we see clear clusters in some locations.
+  根据现有证据，并不是所有的输入病例都引发了社区传播，但在一些地区，我们可以清楚地看到样本序列的聚集。
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [At least 7 introductions to the DRC](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
+# [病毒至少被输入民主刚果7次](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
 
-There are [359 confirmed cases of COVID-19 in the DRC with 25 deaths](https://africacdc.org/covid-19/). On Nextstrain, we have 40 sequences from the DRC.
+[民主刚果现有359例确诊病例和25例死亡病例](https://africacdc.org/covid-19/)。在Nextstrain，我们有民主刚果的49条序列。
 <br><br>
-These sequences fall across the tree, with evidence for at least 7 separate introductions. As shown here, introductions look like a color change between a virus sample (tips of the tree) and its ancestors (the internal nodes or branch points that lead to it).
+这些序列排布在树的各处，其分布位置表明了至少7次独立输入事件。在图中，输入事件被表示为一个病毒样本（树枝末端的圆点）的颜色与其祖先（内部节点，也就是样本所处分支的分支点）相比发生了变化。
 <br><br>
-Here, we can see 7 places where the colors have changed from grey to orange, representing an introduction. From these 7 introductions, we see evidence for at least 2 local transmission chains.
+在图上，我们可以看到有7处，树枝的颜色从灰色变成了橙色，表明输入事件的发生。在这7起输入事件中，我们看到至少有两起引发本地传播链的证据。Here, we can see 7 places where the colors have changed from grey to orange, representing an introduction. From these 7 introductions, we see evidence for at least 2 local transmission chains.
 
 <!-- There is no right side text -->
 
