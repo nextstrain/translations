@@ -144,78 +144,87 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [At least 8 introductions to Senegal, with 2 local transmission chains](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
+# [2度の地域感染の連鎖を伴う、ガーナへの最低8回の伝搬](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
 
-Similar to the patterns found in the DRC, here we see samples from Senegal spanning the full genetic diversity of the tree. The phylogenetic placement of these samples indicates that there were at least 8 separate introductions to Senegal between late February and late March. Senegal reported its first  COVID-19 cases to the WHO on February 28, the same day that the first viral sample was collected for sequencing.
+コンゴ民主共和国で見つけられるパターンと同様に、セネガルからのサンプルも系統樹の遺伝的多様性全体に広がっていることがわかります。
+これらのサンプルの遺伝系統的位置から、2月後半から3月後半にかけてセネガルへ少なくとも8度の伝搬があったことを示唆しています。
+セネガルは最初のCOVID-19の症例を2月28日にWHOに報告しており、遺伝子配列解析のために収集された最初のウイルスサンプルのも同じ日です。
 <br><br>
-As we reported in our [April 3 Situation Report](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=5), at least 2 of these introductions in late February or early March have led to ongoing local transmission clusters in Dakar and Tabou, respectively.
+
+[4月3日の状況報告](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=5)で報告したように、2月後半か3月前半の少なくとも2度の伝搬によって現在も続いているDakarとTabouそれぞれでの地域感染のクラスターが形成されました。
 <br><br>
-Although the most recent sequence on Nextstrain from Senegal is from March 20, there are [currently 215 known, active cases](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) of COVID-19 in Senegal.
+Nextstrain 上のセネガルからの最新の遺伝子配列は3月20日ですが、セネガルではCOVID-19の現在[215の既知の積極的症例](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf)があります。
 
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [At least 7 introductions to Ghana](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
+# [ガーナへの少なくとも7度の伝搬](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
 
-There are [1,154 confirmed cases of COVID-19 in Ghana with 9 known deaths](https://africacdc.org/covid-19/). On Nextstrain, there are 14 sequences from Ghana which are spread across the phylogenetic tree, representing at least 7 separate introductions.
+[ガーナでは 1,154 件の症例が確定されており、既知の死亡者数は 9 件です](https://africacdc.org/covid-19/)。
+
+
+On Nextstrain, there are 14 sequences from Ghana which are spread across the phylogenetic tree, representing at least 7 separate introductions.
+Nextstrain上には、ガーナからの14の遺伝子配列があり、系統樹中に散在しており、少なくとも7回伝搬があったことを表しています。
 <br><br>
-The first case in Ghana was reported to the WHO on March 11, and the first viral genome on Nextstrain was collected on March 24.
+ガーナの最初の症例は3月11日にWHOへ報告され、 Nextstrain上の最初のウイルスゲノムは3月24日に収集されました。
 
 <!-- There is no right-side text --><!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Local transmission in Greater Accra, Ghana](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
+# [ガーナ、グレーター・アクラ(Greater Accra)での地域感染](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
 
 Here, we see a cluster of closely related cases from the Greater Accra region of Ghana, sampled between March 25 and March 30.
-The common ancestor of these cases dates to mid-February or early March, and was most likely imported from Asia.
+ガーナのグレーター・アクラ(the Greater Accra)の密接に関連した症例のクラスターがあることがわかります。3月25から3月30日の間に収集されました。
 <br><br>
-Interestingly, there is a sample from Senegal that groups tightly with this cluster, suggesting the possibility of a transmission between Senegal and Ghana.
+興味深いことに、このクラスターと緊密にグループ化されるセネガル由来の一症例があり、セネガル・ガーナ間の伝搬の可能性を示唆しています。
 
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Scattered introductions to Algeria, Gambia, Nigeria, and South Africa](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
+# [アルジェリア、ガンビア、ナイジェリア、南アフリカへの散発的な伝搬](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
 
 Here, we see samples isolated from Algeria, Gambia, Nigeria and South Africa. These samples are scattered across the full tree and are largely isolated from one another.
+アルジェリア、ガンビア、ナイジェリア、南アフリカから単離されたサンプルが表示されています。
 <br><br>
-This is evidence for many separate introductions, largely from Europe, to many nations in Africa. Without more data, we can't yet say which -- if any -- of these sparks resulted into local outbreaks. The [WHO reports](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) outbreaks of over 3400, 2800, and 500 cases in South Africa, Algeria, and Nigeria respectively.
+これは主にヨーロッパからアフリカでの多くの国へ多数の独立した伝搬があったことの証拠です。更に多くのデータがなければ、もしそれがあったとしてですが、これらのうちどの伝搬が地域感染を拡大したかを言及することはできません。
+[WHO の報告](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf)によると、 南アフリカ、アルジェリア、ナイジェリアでそれぞれ、3400, 2800, 500 以上の症例があり、感染が拡大しているとのことです。
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wear a mask (homemade works well) when in public.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [私たちができること](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...個人ができること
+* 社会的距離を保つことを厳格に実践してください。重症化しやすいグループに属している場合には特に。
+* 外ではマスクをしましょう。
+* あなたが健康であるとしても、他の人を守るために社会的距離を保つことを実践して下さい。
+* 良く手を洗って下さい（辛いものを触ったあとにコンタクトレンズを交換する時のように）。
+* できるだけ家にいましょう（特に体調の悪い時は）。自主的な隔離に備えて、いくつかの追加の備品を用意しておきましょう。
+* あなたが雇用主である場合は、可能な限り自宅で仕事をするよう従業員に勧めてください。
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...行政機関ができること 
+* 検査を広く、無料で利用出来るようにすること。
+* 社会的な距離を保つ為の措置を強力にとること。
+* 広範囲な接触追跡作業に資金を提供し、実施すること。
+* 社会的距離に関する措置の影響を受ける人々を経済的に支援すること。
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# まとめ
 
-#### There have been many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference).
+#### アフリカ大陸へ多数の独立した伝搬があり、主にヨーロッパ由来です (サンプリングバイアスがこの推定に寄与しているかもしれませんが)
 <br><br>
-#### 7 introductions to the DRC have led to at least 2 separate transmission chains circulating in Kinshasa.  
+#### コンゴ民主共和国への7度の伝搬によって、少なくとも独立して2度キンシャサで感染の連鎖が生じ、流行しています。
 <br><br>
-#### Similarly, 8 introductions to Senegal seeded local transmission chains in Dakar and Touba.  
+#### 同様にセネガルへ8回の伝搬があり、DakarとToubaでの地域の感染連鎖が生じました。
 <br><br>
-#### SARS-CoV-2 has been introduced to Ghana at least 7 times, with local transmission in Greater Accra.
+#### SARS-CoV-2 はガーナに少なくとも7回伝搬され、グレーター・アクラで地域感染が発生しています。
 <br><br>
-#### There have been scattered introductions to Algeria, Gambia, Nigeria, and South Africa. We don't yet have enough samples to infer local transmission from the sequence data.
+#### アルジェリア、ガンビア、ナイジェリア、南アフリカで散発的な伝搬がありましたが、遺伝子配列データから地域感染について推定するにはサンプルが不足しています。
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -228,20 +237,23 @@ This is evidence for many separate introductions, largely from Europe, to many n
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [分析データのクレジット](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+
+私たちはこの感染症流行の中において、関係したすべての科学者、中国で働いている科学者による驚くべきタイムリーな研究に謝意を表します。 この分析は世界中の科学者や医師によるゲノム配列や病例に関するメタデータの共有があって可能になりました。
+
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md).
+各研究室から提供された特定の遺伝子配列は[こちらに一覧になっています](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md)。
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+
+また、これらのデータをアップロードおよび共有できるプラットフォームを提供してくれた [GISAID](https://gisaid.org) にも感謝します。
+
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs.
+私たちはこれらの研修室によって集積されたデータに感謝します:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
