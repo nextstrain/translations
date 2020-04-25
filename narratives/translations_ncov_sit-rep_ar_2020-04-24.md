@@ -233,12 +233,12 @@ abstract: "يستخدم تقرير هذا الاسبوع البيانات الج
 <!-- This is left-side text 12-->
 # [الحقوق العلمية](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+نود أن نشيد بالعمل الرائع وفي الوقت المناسب الذي قام به جميع العلماء المشاركين.لا يمكن إجراء تحليلات مثل هذه التحليلات، الا من خلال التقاسم السريع للبيانات الجينية والبيانات الوصفية. 
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md).
+المختبرات التي قامت بتحديد التسلسلات الجينية للفيروس [مدرجة هنا](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md) 
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+كما نشكر بامتنان GISAID لتوفير النظام الأساسي الذي يمكن من خلاله تحميل هذه البيانات ومشاركتها.
+
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
