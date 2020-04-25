@@ -39,7 +39,7 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 
 * [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=2).     
 * [Σχετικά με τα δεδομένα που παρουσιάζουμε](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=3).
-* [The genetic diversity of SARS-CoV-2 in Africa](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=4).
+* [The genetic diversity of SARS-CoV-2 in AfricaΗ γενετική ποικιλομορφία του SARS-CoV-2 στην Αφρική](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=4).
 * [Ενημερώσεις για τη ΛΔΚ](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=5).
 * [Ενημερώσεις για τη Σενεγάλη](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=7).
 * [Ενημερώσεις για την Γκάνα](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-04-24?n=8).
