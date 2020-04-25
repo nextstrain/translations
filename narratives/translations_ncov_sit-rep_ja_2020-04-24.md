@@ -31,7 +31,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
 
-abstract: "この週次レポートでは、公開されたゲノムデータを用いて COVID-19 の広がりを追跡しています。今週はアフリカに焦点を当てています。コンゴ民主共和国 (Democratic Republic of the Congo)、セネガル (Senegal)、ガーナ (Ghana)、ナイジェリア (Nigeria)、ガンビア (Gambia)、アルジェリア (Algeria) と、南アフリカ共和国 (South Africa) への多くの個別伝播を報告します。私たちはコンゴ民主共和国のキンシャサ (Kinshasa)、セネガルのダカール (Dakar) とトゥーバ (Touba)、ガーナのグレーター・アクラ州 (Greater Accra) で地域感染の証拠を見つけました。"
+abstract: "この週次レポートでは、公開されたゲノムデータを用いて COVID-19 の広がりを追跡しています。今週はアフリカに焦点を充てています。コンゴ民主共和国 (Democratic Republic of the Congo)、セネガル (Senegal)、ガーナ (Ghana)、ナイジェリア (Nigeria)、ガンビア (Gambia)、アルジェリア (Algeria) と、南アフリカ共和国 (South Africa) への多くの個別伝播を報告します。私たちはコンゴ民主共和国のキンシャサ (Kinshasa)、セネガルのダカール (Dakar) とトゥーバ (Touba)、ガーナのグレーター・アクラ州 (Greater Accra) で地域感染の証拠を見つけました。"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -53,21 +53,21 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# 概要
 
-We analyzed 1,338 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. This week we focus on Africa and report:
+ここでは、公に共有されている 1,338 種の SARS-CoV-2 ゲノムを分析しました。これらのウイルスのゲノムを相互に比較することにより、SARS-CoV-2 が世界中をどのように移動しているか、地域の中でどのように拡散しているかを特徴付けることができます。今週の更新ではアフリカに焦点を充てて報告します:
 <br><br>
-* Many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference)
+* SARS-CoV-2 の、主にヨーロッパからアフリカ大陸への多くの個別伝播（ただし、サンプリングの偏りがこの推論に影響している可能性があります）
 <br><br>
-* At least 7 introductions to the DRC  
+* 少なくとも７つのコンゴ民主共和国への伝播 
 <br><br>
-* 2 separate transmission chains circulating in Kinshasa, DRC  
+* コンゴ民主共和国のキンシャサで蔓延する２つの地域感染
 <br><br>
-* Of 8 introductions to Senegal, at least 2 seeded local transmission chains in Dakar and Touba
+* セネガルへの８つの伝播のうち、少なくとも２つはダカールとトゥーバでの地域感染の原因 (translator note: Translated seeded to 原因. Is 元 more appropriate?)
 <br><br>
-* Local transmission in Greater Accra, Ghana, after 7 introductions to this region
+* ガーナのグレーター・アクラ州への７つの伝播の後、地域感染が発生
 <br><br>
-* Scattered introductions to Algeria, Gambia, Nigeria, and South Africa
+* アルジェリア、ガンビア、ナイジェリア、南アフリカ共和国への散発的な伝播
 ```
 
 
