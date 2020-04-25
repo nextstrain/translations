@@ -20,9 +20,11 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
-Sotiris Salloumis
+- Sofia Paraskevopoulou
+- Sotiris Salloumis
 translatorLinks:
-https://github.com/codergr
+- http://github.com/akifoss
+- https://github.com/codergr
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
