@@ -53,17 +53,17 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 我们分析了 1,338 个公开共享的 COVID-19 基因组。通过将这些病毒基因组相互比较，我们可以描述 COVID-19 是如何在世界各地迁移和在社区中传播的。本周，我们关注非洲疫情。我们报告：
  
 <br><br>
-* 新冠病毒SARS-CoV-2被多次独立地引入非洲大陆，其来源主要是欧洲（不过取样偏差可能会影响此推断）。
+* 新冠病毒SARS-CoV-2被多次独立地输入非洲大陆，其来源主要是欧洲（不过取样偏差可能会影响此推断）。
 <br><br>
 * 病毒至少被输入民主刚果7次。
 <br><br>
-* 民主刚果的金沙萨市存在两个独立的传播链。2 separate transmission chains circulating in Kinshasa, DRC  
+* 民主刚果的金沙萨市存在两个独立的传播链。
 <br><br>
-* 塞内加尔的8次输入事件中，至少有两次引发了达喀尔和图巴的本地传播链。Of 8 introductions to Senegal, at least 2 seeded local transmission chains in Dakar and Touba
+* 塞内加尔的8次输入事件中，至少有两次引发了达喀尔和图巴的本地传播链。
 <br><br>
-* 病毒被输入加纳的大阿克拉地区7次，当地现已存在本地传播。Local transmission in Greater Accra, Ghana, after 7 introductions to this region
+* 病毒被输入加纳的大阿克拉地区7次，当地现已存在本地传播。
 <br><br>
-* 阿尔及利亚、冈比亚、尼日利亚和南非存在分散的输入病例。bScattered introductions to Algeria, Gambia, Nigeria, and South Africa
+* 阿尔及利亚、冈比亚、尼日利亚和南非存在分散的输入事件。
 ```
 
 
@@ -167,55 +167,53 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 <!-- This is left-side text 9-->
 # [加纳的大阿克拉地区的本地传播链](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
 
-在这幅图中，我们看到加纳大阿克拉地区的一簇紧密相关的样本，采集于3月25日至3月30日之间。Here, we see a cluster of closely related cases from the Greater Accra region of Ghana, sampled between March 25 and March 30.
-这些样本的共同祖先可以追溯到二月中旬或三月上旬，最有可能是从亚洲输入的。The common ancestor of these cases dates to mid-February or early March, and was most likely imported from Asia.
+在这幅图中，我们看到加纳大阿克拉地区的一簇采集于3月25日至3月30日之间的紧密相关的样本。
+这簇样本的共同祖先的存在时间可以追溯到二月中旬或三月上旬，并且最有可能是从亚洲输入的。
 <br><br>
-Interestingly, there is a sample from Senegal that groups tightly with this cluster, suggesting the possibility of a transmission between Senegal and Ghana.
+有意思的是，有一个来自塞内加尔的样本与这一簇样本紧密地聚在一起，表明存在病毒在塞内加尔和加纳之间传播的可能性。
 
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Scattered introductions to Algeria, Gambia, Nigeria, and South Africa](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
-
-Here, we see samples isolated from Algeria, Gambia, Nigeria and South Africa. These samples are scattered across the full tree and are largely isolated from one another.
+# [阿尔及利亚、冈比亚、尼日利亚和南非等地的散在输入事件](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
+在这张图中，我们看到在阿尔及利亚、冈比亚、尼日利亚和南非等地采集的样本。这些样本分散在树上各处，彼此基本是分离的。
 <br><br>
-This is evidence for many separate introductions, largely from Europe, to many nations in Africa. Without more data, we can't yet say which -- if any -- of these sparks resulted into local outbreaks. The [WHO reports](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) outbreaks of over 3400, 2800, and 500 cases in South Africa, Algeria, and Nigeria respectively.
+这样的证据表明，病毒曾被很多次地、独立地输入到非洲的很多国家，这些输入事件大多数是来源于欧洲。在没有更多数据的情况下，我们还不能说这幅图中的“火星”是否引发了当地疫情，或者哪个“火星”引发了疫情。[WHO已报告](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf)在南非、阿尔及利亚和尼日利亚分别有超过3400、2800和500例的新冠病毒病例。
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wear a mask (homemade works well) when in public.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [你能做些什么](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...个人可以采取的行动
+* 保持严格的社交距离，尤其是高风险人群。
+* 请记住，即使你不属于高风险人群，你周围的许多人也可能属于高危人群；遵循这些做法可以保护他人。
+* 在公共场所戴口罩（自制的也可以）。
+* 仔细洗手，要像“刚切完辣椒但是要换隐形眼镜”时一样洗手。
+* 尽可能地留在家里，尤其是生病时；准备一些额外的补给，以备自我隔离。
+* 雇主请鼓励员工尽可能地在家办公。
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
-
+#### ...政府可以采取的行动
+* 推广免费检测。
+* 推行能够有力减少社交接触的措施。
+* 资助和建立全面的病例追踪体系。
+* 在经济上支持受到社交隔离措施影响的人。
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# 总结
 
-#### There have been many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference).
+#### 新冠病毒SARS-CoV-2被多次独立地输入非洲大陆，其来源主要是欧洲（不过取样偏差可能会影响此推断）。
 <br><br>
-#### 7 introductions to the DRC have led to at least 2 separate transmission chains circulating in Kinshasa.  
+#### 民主刚果的7次输入事件在金沙萨市引发了至少两个独立的传播链。
 <br><br>
-#### Similarly, 8 introductions to Senegal seeded local transmission chains in Dakar and Touba.  
+#### 类似地，塞内加尔的8次输入事件在达喀尔和图巴引发了本地传播链。
 <br><br>
-#### SARS-CoV-2 has been introduced to Ghana at least 7 times, with local transmission in Greater Accra.
+#### 新冠病毒SARS-CoV-2已被输入加纳至少7次，大阿卡拉地区已存在本地传播。
 <br><br>
-#### There have been scattered introductions to Algeria, Gambia, Nigeria, and South Africa. We don't yet have enough samples to infer local transmission from the sequence data.
+#### 阿尔及利亚、冈比亚、尼日利亚和南非有散在的输入事件。我们目前还没有足够的样本来从序列数据推断这些地区的本地传播情况。
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -228,20 +226,19 @@ This is evidence for many separate introductions, largely from Europe, to many n
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [科学贡献人员](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+我们要感谢参与此次疫情研究的所有科学家所做的令人惊叹和及时的工作。只有通过基因组数据和元数据的快速共享，才有可能进行这样的分析。
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md).
+[点击此处](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md)查看每个实验室所提供的序列详情。
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+我们也感谢GISAID提供了上传和共享这些数据的平台。
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
+非常感谢以下机构和实验室慷慨分享：
 
-We are grateful for the data gathered by these originating labs.
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
