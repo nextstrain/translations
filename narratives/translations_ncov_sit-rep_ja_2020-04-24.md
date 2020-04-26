@@ -79,7 +79,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 #### Nextstrain Resources  
 * [最初にご覧下さい: 系統樹の読み方](https://nextstrain.org/narratives/trees-background/ja/).  
 * [コロナウイルスの背景](https://nextstrain.org/help/coronavirus/human-CoV).
-* [よくある誤解](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [よくある誤解](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-13?n=11).
 
 #### External Resources  
 * [「Ask a Scientist」とよくある質問と答え](https://covid19.fas.org/).
@@ -138,7 +138,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 <br><br>
 このことから、２０２０年３月上旬から４月上旬の間に、キンシャサでは少なくとも２つの個別の伝播の連鎖が広がっていたと結論付けることができます。
 <br><br>
-コンゴ民主共和国 COVID-19 の最初の症例を３月１０日に [WHO へ報告](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) しました。Nextstrain でのサンプルは３月９日に採取され、[３月２７日の状況レポート](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16) で報告されました。
+コンゴ民主共和国 COVID-19 の最初の症例を３月１０日に [WHO へ報告](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) しました。Nextstrain でのサンプルは３月９日に採取され、[３月２７日の状況レポート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-27?n=16) で報告されました。
 <!-- There is no right-side text -->
 
 
