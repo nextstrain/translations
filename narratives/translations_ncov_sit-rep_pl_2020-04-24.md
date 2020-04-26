@@ -38,15 +38,15 @@ abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śl
 <!-- This is left-side text 1-->
 # [Spis treści](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
 
-* [Wstęp i materiały](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
-* [O danych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
-* [Różnorodność genetyczna SARS-CoV-2 w Afryce](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
-* [Aktualizacja sytuacji w Demokratycznej Republice Konga](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
-* [Aktualizacja sytuacji w Senegalu](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
-* [Aktualizacja sytuacji w Ghanie](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=8).
-* [Aktualizacja sytuacji w Algierii, Gambii, Nigerii i RPA](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=10).
-* [Co możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=11).
-* [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=12).
+* [Wstęp i materiały](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-24?n=2).     
+* [O danych](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-24?n=3).
+* [Różnorodność genetyczna SARS-CoV-2 w Afryce](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-24?n=4).
+* [Aktualizacja sytuacji w Demokratycznej Republice Konga](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-24?n=5).
+* [Aktualizacja sytuacji w Senegalu](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-24?n=7).
+* [Aktualizacja sytuacji w Ghanie](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-24?n=8).
+* [Aktualizacja sytuacji w Algierii, Gambii, Nigerii i RPA](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-24?n=10).
+* [Co możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-24?n=11).
+* [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-24?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
