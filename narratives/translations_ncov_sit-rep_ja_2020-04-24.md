@@ -144,16 +144,16 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [2度の地域感染の連鎖を伴う、セネガルへの最低8回の伝搬](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
+# [２度の地域感染の連鎖を伴う、セネガルへの最低８回の伝搬](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
 
 コンゴ民主共和国で見つけられるパターンと同様に、セネガルからのサンプルも系統樹の遺伝的多様性全体に広がっていることがわかります。
-これらのサンプルの遺伝系統的位置から、2月後半から3月後半にかけてセネガルへ少なくとも8度の伝搬があったことを示唆しています。
-セネガルは最初のCOVID-19の症例を2月28日にWHOに報告しており、遺伝子配列解析のために収集された最初のウイルスサンプルのも同じ日です。
+これらのサンプルの遺伝系統的位置から、２月後半から３月後半にかけてセネガルへ少なくとも８度の伝搬があったことを示唆しています。
+セネガルは最初の COVID-19 の症例を２月２８日に WHO に報告しており、遺伝子配列解析のために収集された最初のウイルスサンプルのも同じ日です。
 <br><br>
 
-[4月3日の状況報告](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=5)で報告したように、2月後半か3月前半の少なくとも2度の伝搬によって現在も続いているDakarとTabouそれぞれでの地域感染のクラスターが形成されました。
+[４月３日の状況報告](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03?n=5) で報告したように、２月後半か３月前半の少なくとも２度の伝搬によって現在も続いているダカールとトゥーバそれぞれでの地域感染のクラスターが形成されました。
 <br><br>
-Nextstrain 上のセネガルからの最新の遺伝子配列は3月20日ですが、セネガルではCOVID-19の現在[215の既知の積極的症例](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf)があります。
+Nextstrain 上のセネガルからの最新の遺伝子配列は３月２０日ですが、セネガルでは COVID-19 の現在[ 215 の既知の積極的症例](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) があります。
 
 <!-- There is no right-side text -->
 
