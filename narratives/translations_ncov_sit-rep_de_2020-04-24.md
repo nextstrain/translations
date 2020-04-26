@@ -19,13 +19,17 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: Elisabeth Hirth
-translatorLinks: https://bsse.ethz.ch/department/people/detail-person.MjM4ODcw.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html
+translators:
+  - Astrid Gall
+  - Elisabeth Hirth
+translatorLinks:
+  - https://www.ebi.ac.uk/about/people/astrid-gall
+  - https://bsse.ethz.ch/department/people/detail-person.MjM4ODcw.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
 
-abstract: " Dieser woechentliche Bericht nutzt oeffentlich zugaengige genetische Daten, um die Ausbreitung von COVID-19 zu verfolgen. Diese Woche liegt der Fokus auf Afrika. Wir berichten ueber seperate Einschleppungen in die Demokratische Reupblik Kongo, Senegal, Ghana, Nigeria, Gambia, Algerien und Suedafrika. Wir finden Anzeichen zu lokalen Verbreitungen in Kinshasa, Demokratische Republik Kongo; Dakar und Touba, Senegal; und Greater Accra, Ghana."
+abstract: " Dieser woechentliche Bericht verwendet oeffentlich zugaengige genetische Daten, um die Ausbreitung von COVID-19 zu verfolgen. Diese Woche liegt der Fokus auf Afrika. Wir berichten ueber separate Einschleppungen in die Demokratische Republik Kongo, Senegal, Ghana, Nigeria, Gambia, Algerien und Suedafrika. Wir finden Anzeichen fuer lokalen Verbreitungen in Kinshasa, Demokratische Republik Kongo; Dakar und Touba, Senegal; und Greater Accra, Ghana."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -39,7 +43,7 @@ abstract: " Dieser woechentliche Bericht nutzt oeffentlich zugaengige genetische
 * [Ueber diese Daten](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
 * [Die genetische Vielfalt von SARS-CoV-2 in Afrika](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
 * [Updates fuer die Demokratische Republik Kongo](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
-* [Updates fuer den Senegal](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
+* [Updates fuer Senegal](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
 * [Updates fuer Ghana](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=8).
 * [Updates fuer Algerien, Gambia, Nigeria, und Suedafrika](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=10).
 * [Was Sie tun koennen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=11).
@@ -51,15 +55,15 @@ abstract: " Dieser woechentliche Bericht nutzt oeffentlich zugaengige genetische
 
 Wir haben 1.338 oeffentlich zugaengliche SARS-CoV-2 Genome analysiert. Durch den Vergleich der Virusgenome untereinander koennen wir charakterisieren, wie sich SARS-CoV-2 (das Virus, das COVID-19 ausloest) global und lokal weiterverbreitet. In dem Update von dieser Woche legen wir unseren Fokus auf Afrika und berichten: 
 <br><br>
-* es hat hoechstwahrscheinlich mehrere separate Einschleppungen von SARS-CoV-2 nach Afrika gegeben, hauptsaechlich aus Europa (wobei Stichprobenverzerrung hierzu beigetragen haben koennte).
+* es hat hoechstwahrscheinlich mehrere separate Einschleppungen von SARS-CoV-2 nach Afrika gegeben, hauptsaechlich aus Europa (wobei Stichprobenverzerrung hierzu beigetragen haben kann).
 <br><br>
-* es hat mindestens 7 Einfuehrungen des Virus in die Demokratische Republik Kongos gegeben.   
+* es hat mindestens sieben Einfuehrungen des Virus in die Demokratische Republik Kongo gegeben.   
 <br><br>
-* 2 unabhaengige Uebertragungsketten zirkulieren derzeit in Kinshasa, Demokratische Republik Kongo.  
+* zwei unabhaengige Uebertragungsketten zirkulieren derzeit in Kinshasa, Demokratische Republik Kongo.  
 <br><br>
-* es hat 8 Einschleppungen in den Senegal gegeben und mindestens 2 lokale Uebertragungsketten in Dakar und Touba
+* von acht Einschleppungen in den Senegal resultierten mindestens zwei in lokalen Uebertragungsketten in Dakar und Touba
 <br><br>
-* derzeit gibt es regionale Uebertragungen in Greater Accra, Ghana nach 7 Einschleppungen in dieses Gebiet
+* es gibt regionale Uebertragungen in Greater Accra, Ghana, nach sieben Einschleppungen in dieses Gebiet
 <br><br>
 * es hat verstreute Einschleppungen nach Algerien, Gambia, Nigeria und Suedafrika gegeben.
 ```
@@ -69,9 +73,9 @@ Wir haben 1.338 oeffentlich zugaengliche SARS-CoV-2 Genome analysiert. Durch den
 
 <!-- This is left-side text 2-->
 # [COVID-19 Quellen](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&p=full&legend=closed&f_region=Africa)
-Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch bekannt als hCov-19 - haben wir einige Quellen vorbereitet, die dem Leser helfen sollen, die nachfolgenden Daten besser und leichter zu verstehen. Diese Informationen helfen Ihnen die nachfolgenden Daten besser interpretieren zu koennen.
+Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch bekannt als hCov-19 - haben wir einige Quellen vorbereitet, die dem Leser helfen sollen, die nachfolgenden Daten besser und leichter zu verstehen. Diese Informationen helfen Ihnen, die nachfolgenden Daten besser interpretieren zu koennen.
 #### Nextstrain Quellen  
-* [Anfang: Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/).  
+* [Anfang: Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/de).  
 * [Hintergrundwissen zu Coronaviren](https://nextstrain.org/help/coronavirus/human-CoV).
 * [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
@@ -87,87 +91,87 @@ Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch 
 
 <!-- This is left-side text 3-->
 # [Anmerkung zur Probennahme](https://nextstrain.org/ncov/africa/2020-04-24?d=map&f_region=Africa&p=full)
-Bis jetzt sind Sequenzierungsdaten von Virusisolaten aus 6 Kontinenten oeffentlich zugaenglich. In Afrika, haben wir Proben aus 7 Laendern. Das ist eine Meisterleistung, wenn man bedenkt, dass man ein unbekanntes, grosses RNA-Virus inmitten einer Pandemie sequenzieren muss. Dies ist nur dank dem wunderbaren Einsatz und dem zeitnahen Teilen von Daten durch Forscher und Aerzte weltweit moeglich. 
+Bis jetzt sind Sequenzierungsdaten von Virusisolaten aus sechs Kontinenten oeffentlich zugaenglich. Fuer Afrika haben wir Proben aus sieben Laendern. Das ist eine Meisterleistung, wenn man bedenkt, dass man ein unbekanntes, grosses RNA-Virus inmitten einer Pandemie sequenzieren muss. Dies ist nur dank dem wunderbaren Einsatz und dem zeitnahen Teilen von Daten durch Forscher und Aerzte weltweit moeglich. 
 <br><br>
 Waehrend diese Daten es uns ermoeglichen, die Pandemie naeher zu charakterisieren und die Ausbreitung zeitnah zu verfolgen, ist es wichtig zu betonen, dass die Schlussfolgerungen aufgrund der Datenverfuegbarkeit begrenzt sind. 
 <br><br>
-Zum Beispiel zeigt die Karte nur sehr geringe Sequenzierdaten aus der Mitte der Vereinigten Staaten von Amerika. Das bedeutet NICHT, dass COVID-19 sich dort nicht ausbreitet, oder die Fallzahlen nicht wichtig sind fuer die Analyse. Sondern es bedeutet oft nur, dass es kaum verfuegbare Daten aus diesen Gebieten gibt. Die Groesse eines Kreises sagt lediglich aus, wie viel Daten aus einem Gebiet derzeit verfuegbar sind, und stellt nicht das wirkliche Ausmass des Ausbruchs in diesem Gebiet dar.
+Zum Beispiel zeigt die Karte nur sehr geringe Sequenzierdaten aus Ost-Afrika. Das bedeutet NICHT, dass COVID-19 sich dort nicht ausbreitet, oder die Fallzahlen nicht wichtig sind fuer die Analyse. Sondern es bedeutet oft nur, dass es kaum verfuegbare Daten aus diesen Gebieten gibt. Die Groesse eines Kreises sagt lediglich aus, wie viel Daten aus einem Gebiet derzeit verfuegbar sind, und stellt nicht das wirkliche Ausmass des Ausbruchs in diesem Gebiet dar.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Viele unabhaengige Einschleppungen des Virus haben zu verschiedenen regionalen Uebetragungesketten in Afrika gefuehrt](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
-  Zum Zeitpunkt der Berichterstattung berichtet die [Afrikanische CDC](https://africacdc.org/covid-19/) 26.144 bestaetigte COVID-19 Faelle und 1.247 Tode innerhalb der Afrikanischen Union.
-  Wir haben 83 virale Genome aus 7 afrikanischen Nationen, hier farbig dargestellt mit kontextbezogenen Sequenzen aus der ganzen Welt grau im Hintergrund. Wir moechten uns sehr herzlich bei den Gesundheitsministerien fuer ihre schnelle Kooperation und die offene Datenweitergabe bedanken.
+# [Mehrfache unabhaengige Einschleppungen fuehrten zu verschiedenen lokalen Uebetragungesketten in Afrika](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
+  Zum Zeitpunkt der Berichterstattung berichtet die [Afrikanische CDC](https://africacdc.org/covid-19/) 26.144 bestaetigte COVID-19 Faelle und 1.247 Todesfaelle innerhalb der Afrikanischen Union.
+  Wir haben 83 virale Genome aus sieben afrikanischen Nationen, die hier farbig dargestellt sind, mit kontextbezogenen Sequenzen aus der ganzen Welt grau im Hintergrund. Wir moechten uns sehr herzlich bei den Gesundheitsministerien fuer ihre schnelle Kooperation und die offene Datenweitergabe bedanken.
   <br><br>
-  Diese Proben ueberspannen die komplette Diversitaet des Baumes, was darauf hindeutet, dass es viele unabhaengige Einschleppungen auf den afrikanischen Kontinent gegeben haben muss.
-  Viele dieser Einfuehrungen des Virus scheinen aus Europa zu stammen, wobei das daran liegen kann, dass aus Europa mehr Sequenzierdaten vorhanden sind als von irgendeinem anderen Teil der Welt. Wir koennen nicht die Moeglichkeit von unbeprobten Zwischenuebertragungen irgendwoanders ausschliessen. 
+  Diese Proben umfassen die komplette Diversitaet des Baumes, was darauf hindeutet, dass es viele unabhaengige Einschleppungen in den afrikanischen Kontinent gegeben hat.
+  Viele dieser Einfuehrungen des Virus scheinen aus Europa zu stammen, wobei das dadurch beeinflusst werden kann, dass aus Europa mehr Sequenzierdaten vorhanden als aus den meistan anderen Teilen der Welt. Wir koennen die Moeglichkeit von unbeprobten Zwischenuebertragungen in anderen Teilen der Welt nicht ausschliessen. 
   <br><br>
-  Wir sehen keinen Beweis, dass all diese Einschleppungen zu kommunalen Uebertragungen gefuehrt haben, aber man sieht deutliche Kluster in einigen Gebieten.
+  Wir sehen keine Anzeichen, dass alle diese Einschleppungen zu kommunalen Uebertragungen gefuehrt haben, aber wir finden deutliche Cluster in einigen Gebieten.
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Mindestens 7 Einschleppungen in die Demokratische Republik Kongo](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
+# [Mindestens sieben Einschleppungen in die Demokratische Republik Kongo](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
 
-Es gibt [359 Bestaetigte Faelle von COVID-19 in der Demokratischen Republik Kongos mit 25 Todesfaellen](https://africacdc.org/covid-19/). Hier, auf Nextstrain, haben wir 40 Sequenzen aus der Demokratischen Republik Kongo.
+Es gibt [359 Bestaetigte Faelle von COVID-19 in der Demokratischen Republik Kongo mit 25 Todesfaellen](https://africacdc.org/covid-19/). Hier, in Nextstrain, haben wir 40 Sequenzen aus der Demokratischen Republik Kongo.
 <br><br>
-Diese Sequenzen sind ueber den ganzen Baum verteilt, mit Anzeichen auf mindestens 7 Einschleppungen des Virus. Wie im Nachfolgenden gezeigt wird, scheint es eine Farbveraenderung zwischen einem Virusisolaten (Baumspitze) und seiner Vorgaengerprobe (Zwischenknoten oder Abzweigung, die zum Isolat gefuehrt hat) zu geben.
+Diese Sequenzen sind ueber den ganzen Baum verteilt, mit Anzeichen auf mindestens sieben Einschleppungen des Virus. Wie hier gezeigt, stellen sich die Einfuehrungen wie eine Farbaenderung zwischen einer Probe (Spitze am Baum) und dem Vorfahren (interner Verzweigungspunkte, der zu der Probe fuehrt) dar.
 <br><br>
-Hier sieht man 7 Gebiete, in denen Einschleppungsfarben von grau nach orange gewechselt sind. Ausgehenden von diesen 7 Einfuehrungen des Virus sieht man mindestens 2 regionale Uebertragungsketten abgehen. 
+Hier sieht man sieben Gebiete, in denen die Farbe von grau nach orange gewechselt sind. Ausgehend von diesen sieben Einfuehrungen des Virus sieht man mindestens zwei regionale Uebertragungsketten abgehen. 
 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [2 lokale Uebertragungsketten in Kinshasa haben Anfang Maerz angefangen](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
+# [Zwei lokale Uebertragungsketten in Kinshasa haben Anfang Maerz angefangen](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
 
-In dieser vergroesserten Divergenzansicht kann man 2 Kluster sehen, die moeglicherweise regionale Uebertragungen repraesentieren.
-Die regionalen Uebertragungen erscheinen wie ein enges Kluster an Faelle aus derselben Region, die ueber die Zeit genommen worden sind und zunhemende Diversitaet aufweisen (lange Zweiglaengen, was mehr Mutationen bedeutet).
+In dieser vergroesserten Divergenzansicht kann man zwei Cluster sehen, die moeglicherweise lokale Uebertragungen repraesentieren.
+Lokale Uebertragung erscheint wie ein enger Cluster von Faellen aus derselben Region, die ueber einen Zeitraum genommen worden sind und zunehmende Diversitaet aufweisen (lange Zweige am Baum, die mehr Mutationen repraesentieren).
 <br><br>
-In der oberen Bildhaelfte sehen wir ein Fallkluster aus Kinshasa, in welchem alle Faelle aus dem Zeitraum zwischen dem 9. und 22.Maerz stammen.
+In der oberen Bildhaelfte sehen wir einen Cluster von Faellen aus Kinshasa, in dem alle Faelle aus dem Zeitraum zwischen dem 9. und 22. Maerz stammen.
 <br><br>
-In dem mittleren Bereich gibt es ein weiteres Fallkluster aus Kinshasa, in welchem alle Faelle aus dem Zeitraum zwischen dem 15.Maerz und 6.April stammen.
+In dem mittleren Bereich gibt es einen weiteren Cluster von Faellen aus Kinshasa, in dem alle Faelle aus dem Zeitraum zwischen dem 15. Maerz und 6. April stammen.
 <br><br>
-Daraus kann geschlossen werden, dass mindestens 2 unabhaengige Uebertratungsketten in Kinshasa zwischen Anfang Maerz und Anfang April 2020 zirkuliert sind.
+Daraus kann geschlossen werden, dass mindestens zwei unabhaengige Uebertratungsketten in Kinshasa zwischen Anfang Maerz und Anfang April 2020 zirkulierten.
 <br><br>
-Die Demokratische Republik Kongo berichtet ihre ersten COVID-19 Faelle [an die Weltgesundheitsorganisation WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) am 10. Maerz. Die erste Probe auf Nextstrain wurde am 9. Maerz genommen und im [Lagebericht vom 27. Maerz](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16) das erstemal erwaehnt.
+Die Demokratische Republik Kongo berichtete ihre ersten COVID-19 Faelle [an die Weltgesundheitsorganisation WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) am 10. Maerz. Die erste Probe in Nextstrain wurde am 9. Maerz genommen und im [Lagebericht vom 27. Maerz](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16) das erstemal erwaehnt.
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Mindestens 8 Einschleppungen in den Senegal mit 2 regionalen Uebertragungesketten](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
+# [Mindestens acht Einschleppungen in den Senegal mit zwei regionalen Uebertragungsketten](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
 
-Aehnlich zu den Mustern, die wir in der Demokratischen Republik Kongo gefunden haben, verhalten sich die Proben aus dem Senegal, die sich ueber die volle genetische Diversitaet des Baums spannen. Die phylogenetische Platzierung dieser Proben zeigt, dass es mindestens 8 unaebhaengige Einfuehrungen des Virus in den Senegal zwischen Ende Februar und Ende Maerz gegeben hat. Senegal hat seine ersten COVID-19 Faelle an die Weltgesundheitsorganisation am 28.Februar berichtet, was derselbe Tag ist, an dem das erste Virusisolat sequenziert worden ist. 
+Aehnlich den Mustern, die wir in der Demokratischen Republik Kongo gefunden haben, verhalten sich die Proben aus dem Senegal, die die komplette genetische Diversitaet des Baums umfassen. Die phylogenetische Platzierung dieser Proben zeigt, dass es mindestens acht unaebhaengige Einfuehrungen des Virus in den Senegal zwischen Ende Februar und Ende Maerz gegeben hat. Senegal hat seine ersten COVID-19 Faelle an die Weltgesundheitsorganisation am 28. Februar berichtet, was derselbe Tag ist, an dem das erste Virusisolat sequenziert worden ist. 
 <br><br>
-Wie wir im [Lagebericht vom 3.April](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=5) berichtet haben, haben 2 dieser Einschleppungen Ende Februar oder Anfang Maerz zu weiterfuehrenden regionalen Uebertragungsklustern in jeweils Dakar und Tabou gefuehrt.
+Wie wir im [Lagebericht vom 3. April](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=5) berichtet haben, haben zwei dieser Einschleppungen Ende Februar oder Anfang Maerz zu weiterfuehrenden regionalen Uebertragungsclustern in Dakar und Tabou gefuehrt.
 <br><br>
-Obwohl die neuste Sequenz aus dem Senegal auf Nextstrain vom 20.Maerz stammt, gibt es derzeit [215 bekannte, aktive COVID-19 Faelle](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) im Senegal.
+Obwohl die neueste Sequenz aus dem Senegal in Nextstrain vom 20. Maerz stammt, gibt es derzeit [215 bekannte, aktive COVID-19 Faelle](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) im Senegal.
 
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Mindestens 7 Einschleppungen nach Ghana](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
+# [Mindestens sieben Einschleppungen nach Ghana](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
 
-Es gibt [1.154 bestaetigte COVID-19 Faelle in Ghana mit 9 bekannten Todesfaellen](https://africacdc.org/covid-19/). Auf Nextstrain findet man 14 Sequenzen aus Ghana, welche ueber den gesamten phylogenetischen Baum verteilt sind, was mindestens 7 unabhaengige Einschleppungen repraesentiert.
+Es gibt [1.154 bestaetigte COVID-19 Faelle in Ghana mit neun bekannten Todesfaellen](https://africacdc.org/covid-19/). In Nextstrain findet man 14 Sequenzen aus Ghana, die ueber den gesamten phylogenetischen Baum verteilt sind und mindestens sieben unabhaengige Einschleppungen repraesentiert.
 <br><br>
-Der erste Fall in Ghana wurde am 11.Maerz an die Weltgesundheitsorganisation berichtet und das erste virale Genom auf Nextstrain wurde am 24.Maerz aufgenommen.
+Der erste Fall in Ghana wurde am 11. Maerz an die Weltgesundheitsorganisation berichtet und das erste virale Genom in Nextstrain wurde am 24. Maerz beprobt.
 
 <!-- There is no right-side text --><!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
 # [Regionale Uebertragung in Greater Accra, Ghana](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
 
-Im Nachfolgenden sehen wir ein Kluster, bestehenden aus eng verwandten Faellen aus der Greater Accra Region in Ghana, welche zwischen dem 25. und 30. Maerz genommen worden sind. 
-Die gemeinsame Vorgaengerprobe dieser Faelle kann auf Mitte Februar oder Anfang Maerz datiert werden und stammte hoechstwahrscheinlich aus Asien. 
+Hier sehen wir einen Cluster aus eng verwandten Faellen aus der Greater Accra Region in Ghana, welche zwischen dem 25. und 30. Maerz beprobt worden sind. 
+Der gemeinsame Vorfahre dieser Faelle kann auf Mitte Februar oder Anfang Maerz datiert werden und stammt hoechstwahrscheinlich aus Asien. 
 <br><br>
-Interessanterweise kann eine Probe aus dem Senegal eng mit diesem Kluster gruppiert werden, was auf eine Uebertragung zwischen dem Senegal und Ghana hindeutet.
+Interessanterweise ist eine Probe aus dem Senegal eng mit disem Cluster gruppiert, was auf die Moeglichkeit einer  Uebertragung zwischen dem Senegal und Ghana hindeutet.
 
 <!-- There is no right-side text -->
 
@@ -176,9 +180,9 @@ Interessanterweise kann eine Probe aus dem Senegal eng mit diesem Kluster gruppi
 <!-- This is left-side text 10-->
 # [Verstreute Einschleppungen nach Algerien, Gambia, Nigeria und Suedafrika](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
 
-Hier zeigen wir Virusisolate aus Algerien, Gambia, Nigeria und Suedafrika. Diese Proben sind ueber den gesamten Baum verstreut und sind weitgehend isoliert voneinander.
+Hier sehen wir Virusisolate aus Algerien, Gambia, Nigeria und Suedafrika. Diese Proben sind ueber den gesamten Baum verstreut und sind weitgehend isoliert voneinander.
 <br><br>
-Das ist ein Beweis fuer mehrere unabhaengige Einschleppungen - hauptsaechlich aus Europa - in viele Nationen in Arika. Ohne weitere Daten koennen wir noch nicht sagen, welche - ob ueberhaupt - dieser Initialzuender zu einem lokalen Ausbruch fuehren wird. Die [Weltgesundheitsorganisation berichtet](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) ueber 3400, 2800 und 500 Faelle in jeweils Suedafrika, Algerien und Nigeria.
+Das ist ein Anzeichen fuer mehrere unabhaengige Einschleppungen, hauptsaechlich aus Europa, in viele Nationen von Arika. Ohne weitere Daten koennen wir noch nicht sagen, welche dieser Initialzuender zu lokalen Ausbruchen gefuehrt haben - und ob ueberhaupt. Die [Weltgesundheitsorganisation berichtet](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) ueber 3.400, 2800 und 500 Faelle in jeweils Suedafrika, Algerien und Nigeria.
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -205,15 +209,15 @@ Das ist ein Beweis fuer mehrere unabhaengige Einschleppungen - hauptsaechlich au
 ```auspiceMainDisplayMarkdown
 # Zusammenfassung
 
-#### Es gab mehrere unabhaengige Einfuehrungen von SARS-CoV-2 auf den afrikanischen Kontinent, hauptsaechlich aus Europa stammend (wobei Stichprobenverzerrung dazu beigetragen hat).
+#### Es gab mehrere unabhaengige Einfuehrungen von SARS-CoV-2 in den afrikanischen Kontinent, hauptsaechlich aus Europa stammend (wobei Stichprobenverzerrung dazu beigetragen haben kann).
 <br><br>
-#### 7 Einschleppungen in die Demokratische Republik Kongo hat zu 2 unabhaengige Uebertragungsketten in Kinshasa gefuehrt.  
+#### Sieben Einschleppungen in die Demokratische Republik Kongo haben zu mindestens zwei unabhaengigen Uebertragungsketten, die in Kinshasa zirkulieren, gefuehrt.
 <br><br>
-#### Aehnlich haben 8 Einschleppungen in den Senegal regionale Uebertragungsketten in Dakar und Touba iniziiert.  
+#### Aehnlich resultierten acht Einschleppungen in den Senegal in regionalen Uebertragungsketten in Dakar und Touba.  
 <br><br>
-#### SARS-CoV-2 wurde mindestens 7 Mal nach Ghana gebracht mit regionaler Ausbreitung in Greater Accra.
+#### SARS-CoV-2 wurde mindestens sieben Mal nach Ghana eingefuehrt, mit regionaler Ausbreitung in Greater Accra.
 <br><br>
-#### Es hat verstreute Einschleppung nach Algerien, Gambia, Nigeria und Suedafrika gegeben. Wir haben noch nicht genuegend Proben, um naehere Aussagen zu regionalen Uebertragungen machen zu koennen.
+#### Es hat verstreute Einfuehrungen nach Algerien, Gambia, Nigeria und Suedafrika gegeben. Wir haben noch nicht genuegend Proben, um lokale Uebertragungen aus den Sequenzierdaten ableiten zu koennen.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -230,7 +234,7 @@ Das ist ein Beweis fuer mehrere unabhaengige Einschleppungen - hauptsaechlich au
 
 Wir moechten uns recht herzlich bei allen Forschern fuer deren Zeit und wunderbares Engagement bedanken, die in dieser Epidemie ihren unentbehrlichen Beitrag leisten. Nur durch das schnelle Teilen von Genom- und Metadaten sind Analysen wie diese moeglich.
 <br><br>
-Die bestimmten Sequenzierdaten aus den einzelnen Laboren sind [hier aufgelistet](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md).
+Die spezifischen Sequenzierdaten aus den einzelnen Laboren sind [hier aufgelistet](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md).
 <br><br>
 Zudem moechten wir uns recht herzlich bei GISAID fuer die Bereitstellung der Plattform bedanken, durch die diese Daten geteilt und hochgeladen werden koennen. 
 
