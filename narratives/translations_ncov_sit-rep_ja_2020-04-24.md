@@ -182,11 +182,9 @@ Nextstrain 上には、ガーナからの１４の遺伝子配列があり、系
 <!-- This is left-side text 10-->
 # [アルジェリア、ガンビア、ナイジェリア、南アフリカ共和国への散発的な伝搬](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
 
-Here, we see samples isolated from Algeria, Gambia, Nigeria and South Africa. These samples are scattered across the full tree and are largely isolated from one another.
-アルジェリア、ガンビア、ナイジェリア、南アフリカ共和国から単離されたサンプルが表示されています。
+右にアルジェリア、ガンビア、ナイジェリア、南アフリカ共和国から単離されたサンプルが表示されています。これらのサンプルも同じように系統樹中に散在してます。
 <br><br>
-これは主にヨーロッパからアフリカでの多くの国へ多数の独立した伝搬があったことの証拠です。更に多くのデータがなければ、もしそれがあったとしてですが、これらのうちどの伝搬が地域感染を拡大したかを言及することはできません。
-[WHO の報告](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf)によると、 南アフリカ共和国、アルジェリア、ナイジェリアでそれぞれ、3400, 2800, 500 以上の症例があり、感染が拡大しているとのことです。
+これは主にヨーロッパからアフリカでの多くの国へ多数の独立した伝搬があったことの証拠です。更に多くのデータがなければ、もしそれがあったとしてですが、これらのうちどの伝搬が地域感染を拡大したかを言及することはできません。 [WHO の報告](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) によると、南アフリカ共和国、アルジェリア、ナイジェリアでそれぞれ、３４００、２８００、５００以上の症例があり、感染が拡大しているとのことです。
 
 
 <!-- ############ SLIDE BREAK ############# -->
