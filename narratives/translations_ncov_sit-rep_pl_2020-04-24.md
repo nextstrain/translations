@@ -64,7 +64,7 @@ Przeanalizowaliśmy 1 338 publicznie dostępnych genomów SARS-CoV-2. Porównuj�
 <br><br>
 * Lokalną transmisję w Wielkiej Akrze (Ghana) po 7 introdukcjach do tego regionu 
 <br><br>
-* Porozrzucane introdukcje do Algierii, Gambii, Nigerii i RPA
+* Liczne introdukcje do Algierii, Gambii, Nigerii i RPA
 ```
 
 
@@ -107,7 +107,7 @@ For example, the map shows very few sequences from East Africa. This is NOT beca
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
 # [Wiele osobnych introdukcji zapoczątkowało odrębne lokalne łańcuchy transmisji w Afryce](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
-  W trakcie pisania tego raportu, [Africa CDC - Centrum Kontroli i Prewencji Chorób Afryka](https://africacdc.org/covid-19/) raportowało 26,144</tag> potwierdzonych przypadków COVID-19 i 1,247</tag> zgonów w całej Unii Afrykańskiej (African Union).
+  W trakcie pisania tego raportu, [Africa CDC - Afrykańskie Centra Kontroli i Prewencji Chorób](https://africacdc.org/covid-19/) raportowały 26,144</tag> potwierdzonych przypadków COVID-19 i 1,247</tag> zgonów w całej Unii Afrykańskiej (African Union).
   Mamy genomy wirusów z 83</tag> z tych przypadków, z 7</tag> krajów afrykańskich, pokazanych tutaj (w kolorze) w kontekście sekwencji z całego świata (przedstawionych na szaro). Podziwiamy lokalne wydziały zdrowia publicznego za szybką reakcję i publiczne udostępnianie danych.
   <br><br>
   Te próbki obejmują pełną różnorodność drzewa, wskazując na wiele niezależnych introdukcji wirusa na kontynent afrykański.
@@ -218,7 +218,7 @@ Interestingly, there is a sample from Senegal that groups tightly with this clus
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Porozrzucane introdukcje do Algierii, Gambii, Nigerii i RPA](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
+# [Liczne introdukcje do Algierii, Gambii, Nigerii i RPA](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
 
 Tutaj widzimy odizolowane próbki z Algierii, Gambii, Nigerii i Republiki Południowej Afryki. Te próbki są porozrzucane po całym drzewie i w głównej mierze odizolowane jedna od drugiej.
 <br><br>
@@ -258,7 +258,7 @@ This is evidence for many separate introductions, largely from Europe, to many n
 <br><br>
 #### SARS-CoV-2 został wprowadzony do Ghany co najmniej 7 razy, z lokalną transmisją w regionie Wielkiej Akry.
 <br><br>
-#### Zaobserwowaliśmy porozrzucane introdukcje do Algierii, Gambii, Nigerii i Republiki Południowej Afryki. Nie mamy wystarczającej ilości próbek by wnioskować o transmisji lokalnej na podstawie zebranych danych z sekwencjonowania.
+#### Zaobserwowaliśmy liczne introdukcje do Algierii, Gambii, Nigerii i Republiki Południowej Afryki. Nie mamy wystarczającej ilości próbek by wnioskować o transmisji lokalnej na podstawie zebranych danych z sekwencjonowania.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
