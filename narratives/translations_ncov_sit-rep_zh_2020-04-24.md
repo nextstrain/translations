@@ -21,8 +21,10 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
   - 李雪莹
+  - Fengjun Zhang
 translatorLinks:
   - https://xueyingcli.weebly.com/
+  - https://twitter.com/fengjun_zhang
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
@@ -37,21 +39,21 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 <!-- This is left-side text 1-->
 # [目录](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
 
-* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
-* [关于数据](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
-* [新冠病毒在非洲的遗传多样性](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
-* [民主刚果的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
-* [塞内加尔的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
-* [加纳的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=8).
-* [阿尔及利亚、冈比亚、尼日利亚和南非的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=10).
-* [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=11).
-* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=12).
+* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-24?n=2).     
+* [关于数据](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-24?n=3).
+* [新冠病毒在非洲的遗传多样性](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-24?n=4).
+* [民主刚果的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-24?n=5).
+* [塞内加尔的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-24?n=7).
+* [加纳的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-24?n=8).
+* [阿尔及利亚、冈比亚、尼日利亚和南非的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-24?n=10).
+* [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-24?n=11).
+* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-24?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # 摘要
 我们分析了 1,338 个公开共享的 COVID-19 基因组。通过将这些病毒基因组相互比较，我们可以描述 COVID-19 是如何在世界各地迁移和在社区中传播的。本周，我们关注非洲疫情。我们报告：
- 
+
 <br><br>
 * 新冠病毒 SARS-CoV-2 被多次独立地输入非洲大陆，其来源主要是欧洲（不过取样偏差可能会影响此推断）。
 <br><br>
