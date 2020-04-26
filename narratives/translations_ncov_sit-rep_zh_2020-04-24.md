@@ -117,7 +117,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 <!-- This is left-side text 5-->
 # [病毒至少被输入民主刚果7次](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
 
-[民主刚果现有359例确诊病例和25例死亡病例](https://africacdc.org/covid-19/)。在Nextstrain中，我们有来自民主刚果的49条序列。
+[民主刚果现有359例确诊病例和25例死亡病例](https://africacdc.org/covid-19/)。在Nextstrain中，我们有来自民主刚果的40条序列。
 <br><br>
 这些序列排布在树的各处，显示至少有7次独立输入事件。在图中，输入事件被表示为一个病毒样本（树枝末端的圆点）的颜色与其祖先（内部节点，也就是样本所属分支的分支点）相比发生了变化。
 <br><br>
