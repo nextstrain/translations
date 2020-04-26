@@ -165,14 +165,13 @@ Nextstrain 上のセネガルからの最新の遺伝子配列は３月２０日
 [ガーナでは 1,154 件の症例が確定されており、既知の死亡者数は９件です](https://africacdc.org/covid-19/)。
 Nextstrain 上には、ガーナからの１４の遺伝子配列があり、系統樹中に散在しており、少なくとも７回伝搬があったことを表しています。
 <br><br>
-ガーナの最初の症例は３月１１日にWHOへ報告され、 Nextstrain 上の最初のウイルスゲノムは３月２４日に収集されました。
+ガーナの最初の症例は３月１１日に WHO へ報告され、 Nextstrain 上の最初のウイルスゲノムは３月２４日に収集されました。
 
 <!-- There is no right-side text --><!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [ガーナ、グレーター・アクラ州(Greater Accra)での地域感染](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
+# [ガーナ、グレーター・アクラ州での地域感染](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
 
-Here, we see a cluster of closely related cases from the Greater Accra region of Ghana, sampled between March 25 and March 30.
-ガーナのグレーター・アクラ州(the Greater Accra)の密接に関連した症例のクラスターがあることがわかります。3月25から3月30日の間に収集されました。
+ガーナのグレーター・アクラ州の密接に関連した症例のクラスターがあることがわかります。全ての病例は３月２５から３月３０日の間に収集されたものです。
 <br><br>
 興味深いことに、このクラスターと緊密にグループ化されるセネガル由来の一症例があり、セネガル・ガーナ間の伝搬の可能性を示唆しています。
 
