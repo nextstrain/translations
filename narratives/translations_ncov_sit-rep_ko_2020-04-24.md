@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-04-24.
+title: COVID-19 확산에 대한 유전체 분석. 2020년 4월 24일 상황 보고서
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -20,12 +20,14 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Taehoon Ha
 translatorLinks:
+  - https://taehoonh.github.io
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Africa. We report many separate introductions to the Democratic Republic of the Congo, Senegal, Ghana, Nigeria, Gambia, Algeria, and South Africa. We find evidence of local transmission in Kinshasa, DRC; Dakar and Touba, Senegal; and Greater Accra, Ghana."
+abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19의 전파를 추적합니다. 이번 주, 저희는 아프리카에 초점을 맞추어 보았습니다. 지금까지 저희는 콩고민주공화국, 세네갈, 가나, 나이지리아, 감비아, 알제리, 남아프리카공화국의 다양한 유입 사례들을 보고해왔습니다. 콩고민주공화국 내 킨사샤, 세네갈의 다카르와 투바, 가나의 아크라 지역 등에서도 지역사회 전파의 증거를 발견하였습니다."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -33,186 +35,189 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
+# [목차](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
-* [The genetic diversity of SARS-CoV-2 in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
-* [Updates for the DRC](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
-* [Updates for Senegal](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
-* [Updates for Ghana](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=8).
-* [Updates for Algeria, Gambia, Nigeria, and South Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=10).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=11).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=12).
+* [배경지식](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
+* [데이터 수집 관련 사항](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
+* [아프리카 코로나19 바이러스의 유전적 다양성](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
+* [콩고민주공화국의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
+* [세네갈의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
+* [가나의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=8).
+* [알제리, 감비아, 나이지리아, 남아프리카공화국의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=10).
+* [우리가 할 수 있는 것들](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=11).
+* [과학적 기여](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# 개요
 
-We analyzed 1,338 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. This week we focus on Africa and report:
+저희는 1,338개의 공개된 코로나19의 유전체 염기서열을 분석하였습니다. 바이러스들을 비교 분석하여 코로나19가 어떻게 진화하고 세계 곳곳으로 퍼지고 있는지 분석할 수 있습니다. 
+
+이번 주 보고서에서 새로 추가된 것들:
 <br><br>
-* Many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference)
+* 다수의 개별적인 코로나19 바이러스 유입 (이 추정에는 표집 편향이 있긴 하지만, 대부분 유럽으로부터 온) 사례가 있었음 
 <br><br>
-* At least 7 introductions to the DRC  
+* 콩고민주공화국으로 최소 7번의 유입이 있었음
 <br><br>
-* 2 separate transmission chains circulating in Kinshasa, DRC  
+* 2번의 개별적인 전파 연쇄가 콩고민주공화국의 킨사샤 지역 내에서 순환 중
 <br><br>
-* Of 8 introductions to Senegal, at least 2 seeded local transmission chains in Dakar and Touba
+* 세네갈의 8번 유입 중, 적어도 2개의 전파 연쇄가 각각 다카르와 투바에 지역에 존재함
 <br><br>
-* Local transmission in Greater Accra, Ghana, after 7 introductions to this region
+* 가나 아크라 지역으로 7건의 유입 발생 이후, 지역사회 전파가 이루어짐
 <br><br>
-* Scattered introductions to Algeria, Gambia, Nigeria, and South Africa
+* 알제리, 감비아, 나이지리아, 남아프리카공화국에 산발적인 유입이 확인됨
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&p=full&legend=closed&f_region=Africa)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [코로나바이러스감염증-19 관련자료](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&p=full&legend=closed&f_region=Africa)
+코로나바이러스감염증-19와 이를 유발하는 SARS-CoV-2 바이러스(또는 hCov-19로 알려진)에 대한 몇 가지 자료를 준비했습니다. 이 정보들은 저희가 이 보고서에서 제시한 내용을 이해하는데 도움을 줄 것입니다.
+#### Nextstrain 관련자료  
+* [계통수를 읽는 법](https://nextstrain.org/narratives/trees-background/ko).  
+* [코로나바이러스 관련 배경지식](https://nextstrain.org/help/coronavirus/human-CoV).
+* [흔한 오해들](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+#### 외부 자료  
+* [과학자에게 물어보세요 & 자주 묻는 질문](https://covid19.fas.org/).
+* [WHO 상황 보고서](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [미국 질병통제예방센터에서 제공하는 자료](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [뉴욕타임즈 코로나19 커버리지](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/africa/2020-04-24?d=map&f_region=Africa&p=full)
-We currently have sequences from samples taken in 6 continents. In Africa, we have samples from 7 countries. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [데이터 수집 관련 사항](https://nextstrain.org/ncov/africa/2020-04-24?d=map&f_region=Africa&p=full)
+현재 저희는 6개 대륙에서 얻은 분리된 바이러스의 RNA 염기서열 정보를 해독했습니다. 아프리카에서는 총 7개 국가의 데이터를 가지고있습니다. 이는 엄청난 성과입니다.큰 RNA 유전체를 가진 미지의 바이러스의 염기서열 정보를 유행 와중에 얻는 것은 굉장히 어렵습니다. 이는 전 세계의 과학자와 의료인들의 신속한 정보공유와 헌신이 아니었다면 불가능했을 것입니다. 
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+이 데이터를 활용하면 유행의 여러 특성을 실시간으로 유추할 수 있지만 저희의 결론은 현재 활용가능한 데이터에만 국한됩니다.
 <br><br>
-For example, the map shows very few sequences from East Africa. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+예를 들어, 아래의 지도는 아프리카 동부에서 채취된 바이러스가 매우 적음을 보여줍니다. 이는 그 지역에 코로나19 유행이 없어서도, 다른 지역보다 덜 중요해서도 아닙니다. 단지 그 지역에서 수집된 데이터가 부족하다는 것을 의미합니다. 지도 상의 원의 크기는 그 지역에서 얻은 데이터의 양을 의미할 뿐 실제 유행의 규모와는 무관합니다.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Many separate introductions have seeded diverse local transmission chains in Africa](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
-  At the time of writing, the [Africa CDC](https://africacdc.org/covid-19/) reports 26,144 confirmed COVID-19 cases and 1,247 deaths across the African Union.
-  We have viral genomes from 83 of these cases from 7 African nations, shown here (in color) against a backdrop of contextual sequences from around the world (in gray). We applaud the local public health departments for their rapid response and open data sharing.
+# [다수의 개별적인 유입이 아프리카의 다양한 지역 전파 연쇄의 원인이 됨](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
+  작성하는 이 시점에, [아프리카 질병관리본부](https://africacdc.org/covid-19/) 는 아프리카 연합에 총 26,144명의 코로나19 확진자와 1,247명의 사망자를 보고했습니다.
+  우리는 전 세계의 맥락을 고려한 염기서열자료(회색 계열로 표시된) 의 배경과 구분하여, 아프리카 7개국 83 건의 바이러스 염기서열 자료(밝은 색들로 표시된) 를 가지고 있습니다. 우리는 관련 보건 당국들의 신속한 대응과 데이터 공개에 감사를 드립니다.
   <br><br>
-  These samples span the full diversity of the tree, indicating that there have been many independent introductions to the African continent.
-  Many of these introductions appear to be from Europe, although this may be skewed by the fact that we have more sequences from Europe than from most other places in the world. We can't rule out the possibility of unsampled, intermediate transmissions elsewhere.
+  이 표본들은 계통수의 전반에 걸쳐 고루 분포해 있으며, 이는 아프리카 대륙 내에 다수의 개별적인 유입이 있었음을 시사합니다.
+  이 유입사례들 중 상당 부분이 유럽에서 온 것처럼 보이지만, 이는 유럽 이외의 지역보다 유럽에서 온 염기서열 자료가 더 많기 때문에 비롯되는 왜곡일 수 있습니다. 따라서, 샘플링되지 않았거나, 중간에 다른 지역으로의 전파가 일어났을 가능성을 배제할 수 없습니다.
   <br><br>
-  We don't seen evidence that all of these introductions have led to community transmission, but we see clear clusters in some locations.
+  발생한 모든 유입 사례들이 지역사회 전파의 원인이 되었다는 증거를 확인할 순 없었지만, 일부 지역에서는 확실하게 사례군들을 관찰할 수 있었습니다.
 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [At least 7 introductions to the DRC](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
+# [최소 7번의 유입이 발생한 콩고민주공화국](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
 
-There are [359 confirmed cases of COVID-19 in the DRC with 25 deaths](https://africacdc.org/covid-19/). On Nextstrain, we have 40 sequences from the DRC.
+콩고민주공화국에서 확인된 [코로나19 확진 사례는 359건이고, 25명이 사망](https://africacdc.org/covid-19/) 했습니다. Nextstrain에서는 40건의 콩고민주공확국 염기서열 자료 표본을 가지고 있습니다.
 <br><br>
-These sequences fall across the tree, with evidence for at least 7 separate introductions. As shown here, introductions look like a color change between a virus sample (tips of the tree) and its ancestors (the internal nodes or branch points that lead to it).
+이 사례들은 계통수 곳곳에 퍼져 있으며, 최소 7번의 개별적인 유입이 있었다는 것을 보여줍니다. 이 슬라이드에서는 유입을 바이러스 표본(계통수 끝 부분)과 조상(내부 노드 또는 이를 초래하는 가지 분기점) 사이의 색상 차이를 통해 표시했습니다.
 <br><br>
-Here, we can see 7 places where the colors have changed from grey to orange, representing an introduction. From these 7 introductions, we see evidence for at least 2 local transmission chains.
+여기선 색상이 회색에서 주황색으로 바뀌는 7개 영역을 볼 수 있는데, 이것이 유입을 의미합니다. 이 7건의 유입 중 최소 2건의 전파 연쇄가 해당 지역 내에서 순환했다는 증거를 볼 수 있었습니다.
 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Two local transmission chains in Kinshasa, seeded in early March](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
+# [킨사샤 지역에서 2건의 전파 연쇄 해당 지역 내에서 발생하였으며, 이는 3월 초에 유입된 것으로 보임](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
 
-In this zoomed-in divergence view, we can see two clusters representing likely local transmission.
-Local transmission looks like a tight cluster of cases from the same location, sampled over time, with accumulating genetic diversity (longer branch lengths, representing more mutations).
+분기군들을 확대해서 보면, 지역사회 전파를 초래했을 것으로 보이는 2개의 사례군을 확인할 수 있습니다.
+이 지역사회 전파는 동일한 지역의 사례군처럼 보이는데, 이 사례군은 시간이 지남에 따라 표본 수집이 이루어졌으며, 이 기간 동안 유전적 다양성(더 긴 계통수 가지의 길이, 더 많은 돌연변이를 의미하는)을 축적한 것으로 보입니다.
 <br><br>
-Toward the top of this view, we see a cluster of cases from Kinshasa, all sampled between March 9 and March 22.
+계통수 상단을 보면, 킨사샤 사례군을 확인할 수 있는데, 모두 3월 9일에서 3월 22일 사이에 수집된 표본들입니다. 
 <br><br>
-Toward the middle, we see another cluster of cases from Kinshasa, sampled between March 15 and April 6th.
+또한 계통수 중앙에는 3월 15일에서 4월 6일 사이에 수집된 또 다른 킨사샤 사례군을 확인할 수 있습니다.
 <br><br>
-From this, we can conclude that at least 2 separate transmission chains were circulating in Kinshasa in between early March and early April 2020.
+이를 통해, 2020년 3월 초에서 4월 초 사이에 킨사샤 지역 내에서 최소 2개의 개별적인 전파 연쇄가 순환했다는 결론을 내릴 수 있었습니다.
 <br><br>
-The DRC reported its first cases of COVID-19 [to the WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) on March 10. The first sample on Nextstrain was collected on March 9, and was reported in our [Situation Report for March 27](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16).
+콩고민주공화국은 3월 10일에 첫 코로나19 사례를 (WHO)[https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf] 에 보고했습니다.
+Nextstrain에서의 첫 번째 표본은 3월 9일에 수집되었으며, [3월 27일 상황 보고서](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-27?n=16) 에 보고되었습니다.
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [At least 8 introductions to Senegal, with 2 local transmission chains](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
+# [최소 8번의 유입과 2개의 전파 연쇄가 발견된 세네갈](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
 
-Similar to the patterns found in the DRC, here we see samples from Senegal spanning the full genetic diversity of the tree. The phylogenetic placement of these samples indicates that there were at least 8 separate introductions to Senegal between late February and late March. Senegal reported its first  COVID-19 cases to the WHO on February 28, the same day that the first viral sample was collected for sequencing.
+콩고민주공화국에서 발견된 패턴과 유사하게, 세네갈에서 온 표본 역시 계통수 전반에 퍼져 분포하는 유전적 다양성을 가지고 있습니다. 이 표본들의 계통수 내 분포 위치를 통해, 2월 말에서 3월 초 사이에 세네갈로 최소 8건의 유입이 있었음을 알 수 있습니다. 세네갈은 2월 28일에 첫 번째 코로나19 확진 사례를 WHO에 보고하였으며, 같은 날 첫 번째 바이러스 표본이 염기서열 분석을 위하여 수집되었습니다.
 <br><br>
-As we reported in our [April 3 Situation Report](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=5), at least 2 of these introductions in late February or early March have led to ongoing local transmission clusters in Dakar and Tabou, respectively.
+[4월 3일 상황 보고서](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-03?n=5) 에서 보고한 바와 같이, 2월 말에서 3월 초 사이에 위에서 언급한 유입들 중 최소 2건의 유입으로 인해 지역사회 전파 사례군이 각각 다카르와 투바 지역에서 형성되었으며, 이는 현재 진행 중입니다.
 <br><br>
-Although the most recent sequence on Nextstrain from Senegal is from March 20, there are [currently 215 known, active cases](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) of COVID-19 in Senegal.
+Nextstrain의 자료 중 가장 이른 것은 3월 20일이지만, 현재 [세네갈에서 확인된 코로나19 확진 사례는 215건](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) 입니다.
 
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [At least 7 introductions to Ghana](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
+# [최소 7건의 유입이 있었던 가나](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
 
-There are [1,154 confirmed cases of COVID-19 in Ghana with 9 known deaths](https://africacdc.org/covid-19/). On Nextstrain, there are 14 sequences from Ghana which are spread across the phylogenetic tree, representing at least 7 separate introductions.
+가나에서 확인된 [코로나19 확진 사례는 1,154건이고, 9명이 사망](https://africacdc.org/covid-19/) 했습니다. Nextstrain에는 가나의 14개 표본이 계통수에 퍼져 있으며 적어도 7건의 개별적인 유입이 있었음을 보여줍니다.
 <br><br>
-The first case in Ghana was reported to the WHO on March 11, and the first viral genome on Nextstrain was collected on March 24.
+가나는 3월 11일 첫 번째 코로나19 확진 사례를 WHO에 보고했으며, Nextstrain의 첫 번째 바이러스 염기서열 자료는 3월 24일에 수집되었습니다. 
 
 <!-- There is no right-side text --><!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
-# [Local transmission in Greater Accra, Ghana](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
+# [지역사회 전파가 발생한 가나 아크라](https://nextstrain.org/ncov/africa/2020-04-24?label=clade:B4&c=division&d=tree,map&f_country=Ghana,Senegal&f_region=Africa&p=full&r=location&legend=closed)
 
-Here, we see a cluster of closely related cases from the Greater Accra region of Ghana, sampled between March 25 and March 30.
-The common ancestor of these cases dates to mid-February or early March, and was most likely imported from Asia.
+이 슬라이드에서 3월 25일에서 3월 30일 사이에 가나의 아크라 지역에서 수집된 사례들이 서로 높은 연관성을 보이며 한데 묶이는 것을 확인할 수 있습니다.
+이 사례들의 공통 조상은 2월 중순 또는 3월 초에 아시아로부터 유입된 것으로 보입니다.
 <br><br>
-Interestingly, there is a sample from Senegal that groups tightly with this cluster, suggesting the possibility of a transmission between Senegal and Ghana.
+흥미롭게도, 세네갈에서 온 표본 하나가 이 사례군과 묶이는 것으로 보아, 세네갈과 가나 간의 전파 가능성을 유추해 볼 수 있습니다.
 
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Scattered introductions to Algeria, Gambia, Nigeria, and South Africa](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
+# [계통수 곳곳에 흩어진 유입이 확인된 알제리, 감비아, 나이지리아 및 남아프리카공화국](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
 
-Here, we see samples isolated from Algeria, Gambia, Nigeria and South Africa. These samples are scattered across the full tree and are largely isolated from one another.
+여기서는 알제리, 감비아, 나이지리아 및 남아프리카공화국의 표본들이 서로 묶이지 않는 것을 볼 수 있습니다. 이 표본들은 계통수 전반에 걸쳐 흩어져 있으며 서로 떨어져 있습니다.
 <br><br>
-This is evidence for many separate introductions, largely from Europe, to many nations in Africa. Without more data, we can't yet say which -- if any -- of these sparks resulted into local outbreaks. The [WHO reports](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) outbreaks of over 3400, 2800, and 500 cases in South Africa, Algeria, and Nigeria respectively.
+이는 유럽에서 아프리카의 많은 국가들로 개별적인 유입이 있었음을 시사합니다. 현재 가진 데이터만으로는 어떤 유입이 지역 내 유행을 초래했는지 설명하기 어렵습니다. (WHO)[https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf] 는 남아프리카공화국, 알제리, 나이지리아에서 각각 3,400건, 2,800건, 500건의 확진 사례가 나왔다고 밝혔습니다.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wear a mask (homemade works well) when in public.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [우리가 할 수 있는 것들](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### 개인이 할 수 있는 것들
+* 엄격한 사회적 거리두기를 하십시오. 특히, 당신이 취약 계층일수록 중요합니다.
+* 당신이 취약계층이 아니더라도 여러분 주변의 많은 사람들이 그렇다는 것을 기억 하십시오. 이 원칙들을 지켜야 다른 사람들을 보호할 수 있습니다.
+* 공공장소에서 마스크(집에서 만든 것도 좋습니다) 를 착용하십시오.
+* "당신이 방금 할라피뇨 고추를 썰고난 뒤 콘택트 렌즈를 교체해야만 하는 것처럼" 손을 자주 씻으십시오. 
+* 아프면 집에 머무르세요. 자가격리를 대비해 필요한 물자를 미리 비축하십시오.
+* 당신이 고용주라면 직원들이 집에서 일할 수 있도록 해주세요.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### 지도자와 관료들이 할 일
+* 검사가 무료로 광범위하게 이뤄질 수 있도록 하십시오.
+* 엄격한 사회적 거리두기가 이뤄질 수 있도록 하십시오.
+* 광범위한 접촉 경로 추적과 격리에 재정을 지원하고 실행하십시오.  
+* 사회적 거리두기로 인해 피해를 입은 사람들을 위해 경제적 지원을 해주십시오.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# 기억할 점들
 
-#### There have been many separate introductions of SARS-CoV-2 to the African continent, primarily from Europe (although sampling bias may contribute to this inference).
+#### 다수의 개별적인 코로나19 바이러스 유입(이 추정에는 표집 편향이 있긴 하지만, 대부분 유럽으로부터 온)이 있었습니다.
 <br><br>
-#### 7 introductions to the DRC have led to at least 2 separate transmission chains circulating in Kinshasa.  
+#### 콩고민주공화국으로의 7번에 걸친 유입이 최소 2개의 킨사샤 지역을 순환하는 전파 연쇄를 만들어냈습니다.
 <br><br>
-#### Similarly, 8 introductions to Senegal seeded local transmission chains in Dakar and Touba.  
+#### 이와 유사하게, 세네갈로의 8번에 걸친 유입이 다카르와 투바 지역 내에서의 전파 연쇄의 원인이 되었습니다. 
 <br><br>
-#### SARS-CoV-2 has been introduced to Ghana at least 7 times, with local transmission in Greater Accra.
+#### 가나로 최소 7번의 코로나19 바이러스 유입이 있었으며, 아크라 지역에서는 지역사회 전파가 발생했습니다.
 <br><br>
-#### There have been scattered introductions to Algeria, Gambia, Nigeria, and South Africa. We don't yet have enough samples to infer local transmission from the sequence data.
+#### 알제리, 감비아, 나이지리아 및 남아프리카공화국으로 산발적인 유입이 있었습니다. 하지만, 아직 지역사회 전파를 유추할만한 충분한 양의 염기서열 자료를 가지고 있지 않습니다.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -225,14 +230,13 @@ This is evidence for many separate introductions, largely from Europe, to many n
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
+# [과학적 기여](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+이번 유행에 관련된 모든 과학자들의 대단하고 신속한 작업에 감사를 표합니다. 유전체 정보 및 메타정보의 빠른 공유가 아니었다면 이 분석들은 불가능했을 것입니다.
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md).
+각 연구실에서 제공하는 보다 구체적인 염기서열자료 정보는 [여기](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md) 에서 확인하실 수 있습니다.
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+이 데이터는 [GISAID](https://gisaid.org) 를 통해 공유되었습니다. 그들에게 감사의 뜻을 전합니다.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
