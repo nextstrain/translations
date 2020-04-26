@@ -39,15 +39,15 @@ abstract: " Dieser woechentliche Bericht verwendet oeffentlich zugaengige geneti
 <!-- This is left-side text 1-->
 # [Inhaltsverzeichnis](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
 
-* [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
-* [Ueber diese Daten](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
-* [Die genetische Vielfalt von SARS-CoV-2 in Afrika](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
-* [Updates fuer die Demokratische Republik Kongo](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
-* [Updates fuer Senegal](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
-* [Updates fuer Ghana](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=8).
-* [Updates fuer Algerien, Gambia, Nigeria, und Suedafrika](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=10).
-* [Was Sie tun koennen](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=11).
-* [Wissenschaftliche Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=12).
+* [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-24?n=2).     
+* [Ueber diese Daten](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-24?n=3).
+* [Die genetische Vielfalt von SARS-CoV-2 in Afrika](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-24?n=4).
+* [Updates fuer die Demokratische Republik Kongo](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-24?n=5).
+* [Updates fuer Senegal](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-24?n=7).
+* [Updates fuer Ghana](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-24?n=8).
+* [Updates fuer Algerien, Gambia, Nigeria, und Suedafrika](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-24?n=10).
+* [Was Sie tun koennen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-24?n=11).
+* [Wissenschaftliche Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-24?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -77,7 +77,7 @@ Fuer naehere Informationen zu COVID-19 und dem Ursprungsvirus SARS-CoV-2 - auch 
 #### Nextstrain Quellen  
 * [Anfang: Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/de).  
 * [Hintergrundwissen zu Coronaviren](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-03-13?n=11).
 
 #### Externe Quellen 
 * [Fragen Sie einen Wissenschaftler & FAQs](https://covid19.fas.org/).
@@ -139,7 +139,7 @@ In dem mittleren Bereich gibt es einen weiteren Cluster von Faellen aus Kinshasa
 <br><br>
 Daraus kann geschlossen werden, dass mindestens zwei unabhaengige Uebertratungsketten in Kinshasa zwischen Anfang Maerz und Anfang April 2020 zirkulierten.
 <br><br>
-Die Demokratische Republik Kongo berichtete ihre ersten COVID-19 Faelle [an die Weltgesundheitsorganisation WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) am 10. Maerz. Die erste Probe in Nextstrain wurde am 9. Maerz genommen und im [Lagebericht vom 27. Maerz](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-27?n=16) das erstemal erwaehnt.
+Die Demokratische Republik Kongo berichtete ihre ersten COVID-19 Faelle [an die Weltgesundheitsorganisation WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) am 10. Maerz. Die erste Probe in Nextstrain wurde am 9. Maerz genommen und im [Lagebericht vom 27. Maerz](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-03-27?n=16) das erstemal erwaehnt.
 <!-- There is no right-side text -->
 
 
@@ -149,7 +149,7 @@ Die Demokratische Republik Kongo berichtete ihre ersten COVID-19 Faelle [an die 
 
 Aehnlich den Mustern, die wir in der Demokratischen Republik Kongo gefunden haben, verhalten sich die Proben aus dem Senegal, die die komplette genetische Diversitaet des Baums umfassen. Die phylogenetische Platzierung dieser Proben zeigt, dass es mindestens acht unaebhaengige Einfuehrungen des Virus in den Senegal zwischen Ende Februar und Ende Maerz gegeben hat. Senegal hat seine ersten COVID-19 Faelle an die Weltgesundheitsorganisation am 28. Februar berichtet, was derselbe Tag ist, an dem das erste Virusisolat sequenziert worden ist. 
 <br><br>
-Wie wir im [Lagebericht vom 3. April](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=5) berichtet haben, haben zwei dieser Einschleppungen Ende Februar oder Anfang Maerz zu weiterfuehrenden regionalen Uebertragungsclustern in Dakar und Tabou gefuehrt.
+Wie wir im [Lagebericht vom 3. April](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-04-03?n=5) berichtet haben, haben zwei dieser Einschleppungen Ende Februar oder Anfang Maerz zu weiterfuehrenden regionalen Uebertragungsclustern in Dakar und Tabou gefuehrt.
 <br><br>
 Obwohl die neueste Sequenz aus dem Senegal in Nextstrain vom 20. Maerz stammt, gibt es derzeit [215 bekannte, aktive COVID-19 Faelle](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) im Senegal.
 
