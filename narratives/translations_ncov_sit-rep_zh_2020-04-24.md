@@ -53,15 +53,15 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 我们分析了 1,338 个公开共享的 COVID-19 基因组。通过将这些病毒基因组相互比较，我们可以描述 COVID-19 是如何在世界各地迁移和在社区中传播的。本周，我们关注非洲疫情。我们报告：
  
 <br><br>
-* 新冠病毒SARS-CoV-2被多次独立地输入非洲大陆，其来源主要是欧洲（不过取样偏差可能会影响此推断）。
+* 新冠病毒 SARS-CoV-2 被多次独立地输入非洲大陆，其来源主要是欧洲（不过取样偏差可能会影响此推断）。
 <br><br>
 * 病毒至少被输入民主刚果7次。
 <br><br>
 * 民主刚果的金沙萨市存在两个独立的传播链。
 <br><br>
-* 塞内加尔的8次输入事件中，至少有两次引发了达喀尔和图巴的本地传播链。
+* 塞内加尔的 8 次输入事件中，至少有两次引发了达喀尔和图巴的本地传播链。
 <br><br>
-* 病毒被输入加纳的大阿克拉地区7次，当地现已存在本地传播。
+* 病毒被输入加纳的大阿克拉地区 7 次，当地现已存在本地传播。
 <br><br>
 * 阿尔及利亚、冈比亚、尼日利亚和南非有散在的输入事件。
 ```
@@ -70,7 +70,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19背景资料](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&p=full&legend=closed&f_region=Africa)
+# [COVID-19 背景资料](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&p=full&legend=closed&f_region=Africa)
 我们准备了一些资料，将使您更容易理解我们在本报告中提供的数据。
 #### Nextstrain的资料  
 * [入门篇：如何解读系统发生树](https://nextstrain.org/narratives/trees-background/zh).  
@@ -79,8 +79,8 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 
 #### 外部资料  
 * [向科学家提问 & 常见问题解答（英文）](https://covid19.fas.org/).
-* [WHO的状况报告（英文）](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [美国CDC的资料（英文）](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [WHO 的状况报告（英文）](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [美国 CDC 的资料（英文）](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 * [纽约时报对新冠疫情的报道](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
@@ -89,7 +89,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 
 <!-- This is left-side text 3-->
 # [关于抽样](https://nextstrain.org/ncov/africa/2020-04-24?d=map&f_region=Africa&p=full)
-我们目前有来自6个大陆的病毒样本序列。在非洲，我们有来自7个国家的样本。这是一项令人难以置信的壮举--在病毒大流行期间对一种未知的大型 RNA 病毒进行测序是很困难的，只有通过世界各地的科学家和医生令人难以置信的工作和及时共享数据才有可能。
+我们目前有来自 6 个大陆的病毒样本序列。在非洲，我们有来自 7 个国家的样本。这是一项令人难以置信的壮举--在病毒大流行期间对一种未知的大型 RNA 病毒进行测序是很困难的，只有通过世界各地的科学家和医生令人难以置信的工作和及时共享数据才有可能。
 <br><br>
 虽然这些数据使我们能够推断出这场疫情的许多有用的特征并实时跟踪其传播，但需要强调的是，我们的结论受到现有数据的限制。
 <br><br>
@@ -102,8 +102,8 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
 # [多次独立的输入事件引发了非洲多个不同的本地传播链](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
-  在报告成文之时，[非洲CDC](https://africacdc.org/covid-19/)报道非洲联盟地区已有 26,144 例确诊病例和 1,247 例死亡病例。
-  我们获得了其中 83 个病例的病毒基因组，分属于7个非洲国家。在图中，我们用彩色圆点显示这些非洲的样本，并与作为背景数据的全球样本序列（灰色）加以对照。感谢当地的公共卫生部门如此迅速地作出反应，并公开共享他们的数据。
+  在报告成文之时，[非洲 CDC](https://africacdc.org/covid-19/) 报道非洲联盟地区已有 26,144 例确诊病例和 1,247 例死亡病例。
+  我们获得了其中 83 个病例的病毒基因组，分属于 7 个非洲国家。在图中，我们用彩色圆点显示这些非洲的样本，并与作为背景数据的全球样本序列（灰色）加以对照。感谢当地的公共卫生部门如此迅速地作出反应，并公开共享他们的数据。
   <br><br>
   这些样本的遗传多样性的范围覆盖了整棵演化树，表明病毒曾被多次独立地输入非洲大陆。
   其中很多输入事件看起来是来自欧洲，但因为欧洲的序列数据比世界上大多数地方都多，这个推论也可能有所偏差。我们不能排除病毒经由其他未被抽样地区传播的可能性。
@@ -115,13 +115,13 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [病毒至少被输入民主刚果7次](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
+# [病毒至少被输入民主刚果 7 次](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
 
-[民主刚果现有359例确诊病例和25例死亡病例](https://africacdc.org/covid-19/)。在Nextstrain中，我们有来自民主刚果的40条序列。
+[民主刚果现有 359 例确诊病例和 25 例死亡病例](https://africacdc.org/covid-19/)。在 Nextstrain 中，我们有来自民主刚果的 40 条序列。
 <br><br>
 这些序列排布在树的各处，显示至少有7次独立输入事件。在图中，输入事件被表示为一个病毒样本（树枝末端的圆点）的颜色与其祖先（内部节点，也就是样本所属分支的分支点）相比发生了变化。
 <br><br>
-我们可以看到图中有7处树枝的颜色从灰色变成了橙色，标志着输入事件的发生。在这7起输入事件中，我们看到的证据表明至少有两起引发了本地传播链。
+我们可以看到图中有 7 处树枝的颜色从灰色变成了橙色，标志着输入事件的发生。在这 7 起输入事件中，我们看到的证据表明至少有两起引发了本地传播链。
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -137,31 +137,31 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 <br><br>
 由此我们可以得出结论，在2020年3月上旬和4月上旬之间，金沙萨市内至少存在两个独立的传播链。
 <br><br>
-民主刚果在3月10日向[WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) 报告了其第一例病例。Nextstrain的第一个样本是在3月9日采集的，我们在[3月27日的状况报告](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-27?n=16)中曾对其进行报道。
+民主刚果在3月10日向 [WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) 报告了其第一例病例。Nextstrain 的第一个样本是在3月9日采集的，我们在[3月27日的状况报告](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-27?n=16)中曾对其进行报道。
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [塞内加尔至少经历了8起输入事件，有至少两个本地传播链](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
+# [塞内加尔至少经历了 8 起输入事件，有至少两个本地传播链](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Senegal&f_region=Africa&m=div&p=full)
 
-与民主刚果的情况相似，我们在这张图中看到，塞内加尔的样本的遗传多样性也覆盖了整棵树。这些样本在系统发生树上的位置表明，塞内加尔在二月下旬和三月下旬之间至少经历了8次独立的输入事件。塞内加尔在2月28日向WHO报告了首例新冠病毒感染病例，也是在同一天，这个病毒样本被采集并测序。
+与民主刚果的情况相似，我们在这张图中看到，塞内加尔的样本的遗传多样性也覆盖了整棵树。这些样本在系统发生树上的位置表明，塞内加尔在二月下旬和三月下旬之间至少经历了 8 次独立的输入事件。塞内加尔在2月28日向WHO报告了首例新冠病毒感染病例，也是在同一天，这个病毒样本被采集并测序。
 <br><br>
 
 我们在[4月3日的状况报告](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-04-03?n=5)中已经谈到，这之中至少有两起发生在二月下旬或三月上旬的输入事件分别引发了当前存在于达喀尔和巴图的本地传播链。
 
 <br><br>
-虽然Nextstrain中来自塞内加尔的最新序列是3月20日的，但现在当地已有[215 例COVID-19的已知现存病例](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) 。
+虽然 Nextstrain 中来自塞内加尔的最新序列是3月20日的，但现在当地已有 [215 例COVID-19的已知现存病例](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) 。
 
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [加纳至少经历了7次输入事件](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
+# [加纳至少经历了 7 次输入事件](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
 
-[加纳现有 1,154 例新冠病毒的确诊病例，9例已知死亡病例](https://africacdc.org/covid-19/)。Nextstrain收录了14条来自加纳的病毒序列，它们分布在系统发生树的各处，代表着至少7次独立的输入事件。
-加纳的首个病例是在3月11日向WHO报告的，而Nextstrain的第一条当地的病毒基因组序列是在3月24日采集的。
+[加纳现有 1,154 例新冠病毒的确诊病例，9 例已知死亡病例](https://africacdc.org/covid-19/)。Nextstrain 收录了 14 条来自加纳的病毒序列，它们分布在系统发生树的各处，代表着至少 7 次独立的输入事件。
+加纳的首个病例是在3月11日向 WHO 报告的，而 Nextstrain 的第一条当地的病毒基因组序列是在3月24日采集的。
 
 <!-- There is no right-side text --><!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
@@ -180,7 +180,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 # [阿尔及利亚、冈比亚、尼日利亚和南非等地的散在输入事件](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
 在这张图中，我们看到在阿尔及利亚、冈比亚、尼日利亚和南非等地采集的样本。这些样本分散在树上各处，彼此基本是分离的。
 <br><br>
-这样的证据表明，病毒曾被很多次地、独立地输入到非洲的很多国家，这些输入事件大多数是来源于欧洲。在没有更多数据的情况下，我们还不能说这幅图中的“火星”是否引发了当地疫情，或者哪个“火星”引发了疫情。[WHO已报告](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf)在南非、阿尔及利亚和尼日利亚分别有超过3400、2800和500例的新冠病毒病例。
+这样的证据表明，病毒曾被很多次地、独立地输入到非洲的很多国家，这些输入事件大多数是来源于欧洲。在没有更多数据的情况下，我们还不能说这幅图中的个别感染事件是否已经成为引发当地疫情的导火索，也不能说那些感染事件成为了导火索。目前 [WHO 已报告](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf)在南非、阿尔及利亚和尼日利亚，分别有超过3400、2800和500例的新冠病毒病例。
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -205,13 +205,13 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 ```auspiceMainDisplayMarkdown
 # 总结
 
-#### 新冠病毒SARS-CoV-2被多次独立地输入非洲大陆，其来源主要是欧洲（不过取样偏差可能会影响此推断）。
+#### 新冠病毒 SARS-CoV-2 被多次独立地输入非洲大陆，其来源主要是欧洲（不过取样偏差可能会影响此推断）。
 <br><br>
-#### 民主刚果的7次输入事件在金沙萨市引发了至少两个独立的传播链。
+#### 民主刚果的 7 次输入事件在金沙萨市引发了至少两个独立的传播链。
 <br><br>
-#### 类似地，塞内加尔的8次输入事件在达喀尔和图巴引发了本地传播链。
+#### 类似地，塞内加尔的 8 次输入事件在达喀尔和图巴引发了本地传播链。
 <br><br>
-#### 新冠病毒SARS-CoV-2已被输入加纳至少7次，大阿卡拉地区已存在本地传播。
+#### 新冠病毒 SARS-CoV-2 已被输入加纳至少 7 次，大阿卡拉地区已存在本地传播。
 <br><br>
 #### 阿尔及利亚、冈比亚、尼日利亚和南非有散在的输入事件。我们目前还没有足够的样本来从序列数据推断这些地区的本地传播情况。
 ```
@@ -232,7 +232,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 <br><br>
 [点击此处](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md)查看每个实验室所提供的序列详情。
 <br><br>
-我们也感谢GISAID提供了上传和共享这些数据的平台。
+我们也感谢 GISAID 提供了上传和共享这些数据的平台。
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
