@@ -160,15 +160,12 @@ Nextstrain 上のセネガルからの最新の遺伝子配列は３月２０日
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [ガーナへの少なくとも7度の伝搬](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
+# [ガーナへの少なくとも７度の伝搬](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
 
-[ガーナでは 1,154 件の症例が確定されており、既知の死亡者数は 9 件です](https://africacdc.org/covid-19/)。
-
-
-On Nextstrain, there are 14 sequences from Ghana which are spread across the phylogenetic tree, representing at least 7 separate introductions.
-Nextstrain上には、ガーナからの14の遺伝子配列があり、系統樹中に散在しており、少なくとも7回伝搬があったことを表しています。
+[ガーナでは 1,154 件の症例が確定されており、既知の死亡者数は９件です](https://africacdc.org/covid-19/)。
+Nextstrain 上には、ガーナからの１４の遺伝子配列があり、系統樹中に散在しており、少なくとも７回伝搬があったことを表しています。
 <br><br>
-ガーナの最初の症例は3月11日にWHOへ報告され、 Nextstrain上の最初のウイルスゲノムは3月24日に収集されました。
+ガーナの最初の症例は３月１１日にWHOへ報告され、 Nextstrain 上の最初のウイルスゲノムは３月２４日に収集されました。
 
 <!-- There is no right-side text --><!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
