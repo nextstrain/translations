@@ -25,7 +25,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
 
-abstract: "Esse relatório utiliza dados genômicos compartilhados publicamente para rastrear o espalhamento de COVID-19. Essa semana, focamos na África. Reportamos muitas introduções separadas na República Democrática do Congo, Senegal, Gana, Nigéria, Gâmbia, Argélia e África do Sul. Encontramos evidências de transmissão local em Kinshasa (RD Congo); Dacar e Touba (Senegal); e Região Metropolitana de Acra (Gana)."
+abstract: "Este relatório utiliza dados genômicos compartilhados publicamente para rastrear o espalhamento da COVID-19. Nesta semana, focamos na África. Reportamos muitas introduções virais independentes na República Democrática do Congo, Senegal, Gana, Nigéria, Gâmbia, Argélia e África do Sul. Encontramos evidências de transmissão local em Kinshasa (RD Congo); Dacar e Touba (Senegal); e Região Metropolitana de Acra (Gana)."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -49,13 +49,13 @@ abstract: "Esse relatório utiliza dados genômicos compartilhados publicamente 
 ```auspiceMainDisplayMarkdown
 # Resumo
 
-Analisamos 1338 genomas do COVID-19 que foram compartilhados publicamente. Ao comparar esses genomas virais uns com os outros, podemos caracterizar como o COVID-19 está se movendo ao redor do mundo e se espalhando localmente. No relatório dessa semana focamos na África, e reportamos que:
+Analisamos 1338 genomas do vírus da COVID-19 que foram compartilhados publicamente. Ao comparar esses genomas virais uns com os outros, podemos caracterizar como a COVID-19 está se movendo ao redor do mundo e se espalhando localmente. No relatório dessa semana focamos na África, e reportamos que:
 <br><br>
-* Muitas introduções separadas do SARS-CoV-2 no continente africano, principalmente da Europa (embora a considerável amostragem desse continente possa enviesar essa inferência)
+* Muitas introduções independentes do vírus SARS-CoV-2 no continente africano, principalmente vindos da Europa (embora a ampla amostragem nesse continente possa enviesar essa inferência)
 <br><br>
 * Ao menos 7 introduções na República Democrática do Congo 
 <br><br>
-* 2 cadeias de transmissão separadas circulando em Kinshasa (RD Congo)
+* 2 cadeias de transmissão independentes circulando em Kinshasa (RD Congo)
 <br><br>
 * Das 8 introduções no Senegal, pelo menos 2 desencadearam cadeias de transmissão locais em Dacar e Touba
 <br><br>
@@ -68,7 +68,7 @@ Analisamos 1338 genomas do COVID-19 que foram compartilhados publicamente. Ao co
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [Fontes sobre COVID-19](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&p=full&legend=closed&f_region=Africa)
+# [Fontes sobre a COVID-19](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&p=full&legend=closed&f_region=Africa)
 Preparamos alguns materiais que tornarão mais fácil a interpretação dos dados apresentados nessa narrativa.
 #### Materiais da Nextstrain  
 * [COMECE AQUI: Como interpretar árvores filogenéticas](https://nextstrain.org/narratives/trees-background/pt).  
@@ -91,7 +91,7 @@ Atualmente temos amostras coletadas e sequenciadas em 6 continentes. Na África,
 <br><br>
 Embora esses dados nos permitam inferir muitas características úteis do surto e rastrear seu espalhamento em tempo real, é importante enfatizar que nossas conclusões são limitadas pela quantidade de dados disponíveis no momento.
 <br><br>
-Por exemplo, o mapa mostra muitas poucas sequências na África Oriental. Isso NÃO É porque o COVID-19 não está circulando nessas áreas, ou que esses casos não sejam importantes para entender a epidemia; pelo contrário, apenas não temos muitos dados disponíveis dessas áreas. O tamanho de cada círculo no mapa indica a quantidade de dados atualmente disponíveis sobre essa área, e não o tamanho real do surto.
+Por exemplo, o mapa mostra muitas poucas sequências na África Oriental. Isso NÃO É porque o COVID-19 não está circulando nessas áreas, ou que esses casos não sejam importantes para entender a epidemia; pelo contrário, apenas não temos muitos dados disponíveis dessas áreas. O tamanho de cada círculo no mapa indica a quantidade de dados atualmente disponíveis sobre essa área, e NÃO o tamanho real do surto.
 
 <!-- There is NO right-side text -->
 
@@ -99,11 +99,11 @@ Por exemplo, o mapa mostra muitas poucas sequências na África Oriental. Isso N
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
 # [Várias introduções separadas geraram diversas cadeias de transmissão locais na África](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
-  No momento da redação deste relatório, o [Centro de Controle de Doenças da África](https://africacdc.org/covid-19/) registra 26.144 casos confirmados de COVID-19 e 1.247 mortes em toda a União Africana. Temos genomas virais de 83 desses casos de 7 nações africanas, mostrados aqui (em cores) em contraste com um cenário de sequências contextuais de todo o mundo (em cinza). Aplaudimos os departamentos locais de saúde pública locais por sua rápida resposta e pelo compartilhamento público de dados.
-  <br><br>
-  Essas amostras abrangem toda a diversidade da árvore, indicando que houve muitas introduções independentes no continente africano. Muitas dessas introduções parecem ser da Europa, embora isso possa ser distorcido pelo fato de termos mais seqüências da Europa do que da maioria dos outros lugares do mundo. Não podemos descartar a possibilidade de transmissões intermediárias não amostradas em outros lugares.
-  <br><br>
-  Não vimos evidências de que todas essas introduções levaram à transmissão comunitária, mas vemos agrupamentos claros em alguns locais.
+No momento da redação deste relatório, o [Centro de Controle de Doenças da África](https://africacdc.org/covid-19/) registra 26.144 casos confirmados de COVID-19 e 1.247 mortes em toda a União Africana. Temos genomas virais de 83 desses casos de 7 nações africanas, mostrados aqui (em cores) em contraste com um cenário de sequências contextuais de todo o mundo (em cinza). Aplaudimos os departamentos locais de saúde pública locais por sua rápida resposta e pelo compartilhamento público de dados.
+<br><br>
+Essas amostras abrangem toda a diversidade da árvore, indicando que houve muitas introduções independentes no continente africano. Muitas dessas introduções parecem ser da Europa, embora isso possa ser uma distorção vinda do fato de termos mais seqüências da Europa do que da maioria dos outros lugares do mundo. Não podemos descartar a possibilidade de transmissões intermediárias não amostradas em outros lugares.
+<br><br>
+Não vimos evidências de que todas essas introduções levaram à transmissão comunitária, mas vemos agrupamentos claros em alguns locais.
 
 <!-- There is no right side text -->
 
@@ -112,11 +112,11 @@ Por exemplo, o mapa mostra muitas poucas sequências na África Oriental. Isso N
 <!-- This is left-side text 5-->
 # [Ao menos 7 introduções na RD Congo](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=closed&f_country=Democratic%20Republic%20of%20the%20Congo)
 
-Há [359 casos confirmados de COVID-19 na RD Congo, com 25 mortes](https://africacdc.org/covid-19/). Aqui no Nextstrain, temos 40 sequenciamentos da RD Congo.
+Há [359 casos confirmados de COVID-19 na RD Congo, com 25 mortes](https://africacdc.org/covid-19/). Aqui no Nextstrain, temos 40 sequências da RD Congo.
 <br><br>
-Essas seqüências aparecem pela árvore, com evidências de pelo menos 7 introduções separadas. Como mostrado aqui, as introduções aparecem como mudança de cor entre uma amostra de vírus (pontos na árvore) e seus ancestrais (os pontos internos, ou pontos de ramificação que levam a ela).
+Essas sequências estão agrupadas em diferentes pontos pela árvore, com evidências de pelo menos 7 introduções independentes. Como mostrado aqui, as introduções são identificadas pela mudança de cor entre uma amostra de vírus (um dos círculos nas pontas da árvore) e seus ancestrais (os nós internos, pontos de ramificação que levam até a amostra na ponta).
 <br><br>
-Aqui, podemos ver 7 lugares onde as cores mudaram de cinza para laranja, representando uma introdução. Destas 7 introduções, vemos evidências de pelo menos 2 cadeias de transmissão locais.
+Aqui, podemos ver 7 lugares onde as cores mudaram de cinza para laranja, representando introduções. Destas 7 introduções, vemos evidências de pelo menos 2 cadeias de transmissão locais.
 
 <!-- There is no right side text -->
 
