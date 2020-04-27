@@ -21,12 +21,13 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
   - Taehoon Ha
+  - Kyo Bin Kang
 translatorLinks:
   - https://taehoonh.github.io
+  - https://twitter.com/kyobinkang
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
-
 abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19의 전파를 추적합니다. 이번 주, 저희는 아프리카에 초점을 맞추어 보았습니다. 지금까지 저희는 콩고민주공화국, 세네갈, 가나, 나이지리아, 감비아, 알제리, 남아프리카공화국의 다양한 유입 사례들을 보고해왔습니다. 콩고민주공화국 내 킨사샤, 세네갈의 다카르와 투바, 가나의 아크라 지역 등에서도 지역사회 전파의 증거를 발견하였습니다."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
@@ -37,25 +38,25 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 <!-- This is left-side text 1-->
 # [목차](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
 
-* [배경지식](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
-* [데이터 수집 관련 사항](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
-* [아프리카 코로나19 바이러스의 유전적 다양성](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
-* [콩고민주공화국의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
-* [세네갈의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
-* [가나의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=8).
-* [알제리, 감비아, 나이지리아, 남아프리카공화국의 현황](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=10).
-* [우리가 할 수 있는 것들](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=11).
-* [과학적 기여](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=12).
+* [배경지식](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-24?n=2).     
+* [데이터 수집 관련 사항](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-24?n=3).
+* [아프리카 코로나19 바이러스의 유전적 다양성](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-24?n=4).
+* [콩고민주공화국의 현황](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-24?n=5).
+* [세네갈의 현황](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-24?n=7).
+* [가나의 현황](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-24?n=8).
+* [알제리, 감비아, 나이지리아, 남아프리카공화국의 현황](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-24?n=10).
+* [우리가 할 수 있는 것들](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-24?n=11).
+* [과학적 기여](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-04-24?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 # 개요
 
-저희는 1,338개의 공개된 코로나19의 유전체 염기서열을 분석하였습니다. 바이러스들을 비교 분석하여 코로나19가 어떻게 진화하고 세계 곳곳으로 퍼지고 있는지 분석할 수 있습니다. 
+저희는 1,338개의 공개된 코로나19의 유전체 염기서열을 분석하였습니다. 바이러스들을 비교 분석하여 코로나19가 어떻게 진화하고 세계 곳곳으로 퍼지고 있는지 분석할 수 있습니다.
 
 이번 주 보고서에서 새로 추가된 것들:
 <br><br>
-* 다수의 개별적인 코로나19 바이러스 유입 (이 추정에는 표집 편향이 있긴 하지만, 대부분 유럽으로부터 온) 사례가 있었음 
+* 다수의 개별적인 코로나19 바이러스 유입 (이 추정에는 표집 편향이 있긴 하지만, 대부분 유럽으로부터 온) 사례가 있었음
 <br><br>
 * 콩고민주공화국으로 최소 7번의 유입이 있었음
 <br><br>
@@ -77,7 +78,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 #### Nextstrain 관련자료  
 * [계통수를 읽는 법](https://nextstrain.org/narratives/trees-background/ko).  
 * [코로나바이러스 관련 배경지식](https://nextstrain.org/help/coronavirus/human-CoV).
-* [흔한 오해들](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [흔한 오해들](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-13?n=11).
 
 #### 외부 자료  
 * [과학자에게 물어보세요 & 자주 묻는 질문](https://covid19.fas.org/).
@@ -133,7 +134,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 분기군들을 확대해서 보면, 지역사회 전파를 초래했을 것으로 보이는 2개의 사례군을 확인할 수 있습니다.
 이 지역사회 전파는 동일한 지역의 사례군처럼 보이는데, 이 사례군은 시간이 지남에 따라 표본 수집이 이루어졌으며, 이 기간 동안 유전적 다양성(더 많은 돌연변이를 의미하며 더 긴 계통수 가지의 길이로 표현됨)을 축적한 것으로 보입니다.
 <br><br>
-계통수 상단을 보면, 킨사샤 사례군을 확인할 수 있는데, 모두 3월 9일에서 3월 22일 사이에 수집된 표본들입니다. 
+계통수 상단을 보면, 킨사샤 사례군을 확인할 수 있는데, 모두 3월 9일에서 3월 22일 사이에 수집된 표본들입니다.
 <br><br>
 또한 계통수 중앙에는 3월 15일에서 4월 6일 사이에 수집된 또 다른 킨사샤 사례군을 확인할 수 있습니다.
 <br><br>
@@ -163,7 +164,7 @@ Nextstrain의 자료 중 가장 이른 것은 3월 20일이지만, 현재 [세�
 
 가나에서 확인된 [코로나19 확진 사례는 1,154건이고, 9명이 사망](https://africacdc.org/covid-19/) 했습니다. Nextstrain에는 가나의 14개 표본이 계통수에 퍼져 있으며 적어도 7건의 개별적인 유입이 있었음을 보여줍니다.
 <br><br>
-가나는 3월 11일 첫 번째 코로나19 확진 사례를 WHO에 보고했으며, Nextstrain의 첫 번째 바이러스 염기서열 자료는 3월 24일에 수집되었습니다. 
+가나는 3월 11일 첫 번째 코로나19 확진 사례를 WHO에 보고했으며, Nextstrain의 첫 번째 바이러스 염기서열 자료는 3월 24일에 수집되었습니다.
 
 <!-- There is no right-side text --><!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 9-->
@@ -183,7 +184,7 @@ Nextstrain의 자료 중 가장 이른 것은 3월 20일이지만, 현재 [세�
 
 여기서는 알제리, 감비아, 나이지리아 및 남아프리카공화국의 표본들이 서로 묶이지 않는 것을 볼 수 있습니다. 이 표본들은 계통수 전반에 걸쳐 흩어져 있으며 서로 떨어져 있습니다.
 <br><br>
-이는 유럽에서 아프리카의 많은 국가들로 개별적인 유입이 있었음을 시사합니다. 현재 가진 데이터만으로는 어떤 유입이 지역 내 유행을 초래했는지 설명하기 어렵습니다. (WHO)[https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf] 는 남아프리카공화국, 알제리, 나이지리아에서 각각 3,400건, 2,800건, 500건의 확진 사례가 나왔다고 밝혔습니다.
+이는 유럽에서 아프리카의 많은 국가들로 개별적인 유입이 있었음을 시사합니다. 현재 가진 데이터만으로는 어떤 유입이 지역 내 유행을 초래했는지 설명하기 어렵습니다. [WHO](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) 는 남아프리카공화국, 알제리, 나이지리아에서 각각 3,400건, 2,800건, 500건의 확진 사례가 나왔다고 밝혔습니다.
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -193,7 +194,7 @@ Nextstrain의 자료 중 가장 이른 것은 3월 20일이지만, 현재 [세�
 * 엄격한 사회적 거리두기를 하십시오. 특히, 당신이 취약 계층일수록 중요합니다.
 * 당신이 취약계층이 아니더라도 여러분 주변의 많은 사람들이 그렇다는 것을 기억 하십시오. 이 원칙들을 지켜야 다른 사람들을 보호할 수 있습니다.
 * 공공장소에서 마스크(집에서 만든 것도 좋습니다) 를 착용하십시오.
-* "당신이 방금 할라피뇨 고추를 썰고난 뒤 콘택트 렌즈를 교체해야만 하는 것처럼" 손을 자주 씻으십시오. 
+* "당신이 방금 할라피뇨 고추를 썰고난 뒤 콘택트 렌즈를 교체해야만 하는 것처럼" 손을 자주 씻으십시오.
 * 아프면 집에 머무르세요. 자가격리를 대비해 필요한 물자를 미리 비축하십시오.
 * 당신이 고용주라면 직원들이 집에서 일할 수 있도록 해주세요.
 
@@ -213,7 +214,7 @@ Nextstrain의 자료 중 가장 이른 것은 3월 20일이지만, 현재 [세�
 <br><br>
 #### 콩고민주공화국으로의 7번에 걸친 유입이 최소 2개의 킨사샤 지역을 순환하는 전파 연쇄를 만들어냈습니다.
 <br><br>
-#### 이와 유사하게, 세네갈로의 8번에 걸친 유입이 다카르와 투바 지역 내에서의 전파 연쇄의 원인이 되었습니다. 
+#### 이와 유사하게, 세네갈로의 8번에 걸친 유입이 다카르와 투바 지역 내에서의 전파 연쇄의 원인이 되었습니다.
 <br><br>
 #### 가나로 최소 7번의 코로나19 바이러스 유입이 있었으며, 아크라 지역에서는 지역사회 전파가 발생했습니다.
 <br><br>
