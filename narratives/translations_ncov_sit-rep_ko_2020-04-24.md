@@ -140,7 +140,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 <br><br>
 이를 통해, 2020년 3월 초에서 4월 초 사이에 킨사샤 지역 내에서 최소 2개의 개별적인 전파 연쇄가 순환했다는 결론을 내릴 수 있었습니다.
 <br><br>
-콩고민주공화국은 3월 10일에 첫 코로나19 사례를 (WHO)[https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf] 에 보고했습니다.
+콩고민주공화국은 3월 10일에 첫 코로나19 사례를 [WHO](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf) 에 보고했습니다.
 Nextstrain에서의 첫 번째 표본은 3월 9일에 수집되었으며, [3월 27일 상황 보고서](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-27?n=16) 에 보고되었습니다.
 <!-- There is no right-side text -->
 
@@ -184,7 +184,7 @@ Nextstrain의 자료 중 가장 이른 것은 3월 20일이지만, 현재 [세�
 
 여기서는 알제리, 감비아, 나이지리아 및 남아프리카공화국의 표본들이 서로 묶이지 않는 것을 볼 수 있습니다. 이 표본들은 계통수 전반에 걸쳐 흩어져 있으며 서로 떨어져 있습니다.
 <br><br>
-이는 유럽에서 아프리카의 많은 국가들로 개별적인 유입이 있었음을 시사합니다. 현재 가진 데이터만으로는 어떤 유입이 지역 내 유행을 초래했는지 설명하기 어렵습니다. (WHO)[https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf] 는 남아프리카공화국, 알제리, 나이지리아에서 각각 3,400건, 2,800건, 500건의 확진 사례가 나왔다고 밝혔습니다.
+이는 유럽에서 아프리카의 많은 국가들로 개별적인 유입이 있었음을 시사합니다. 현재 가진 데이터만으로는 어떤 유입이 지역 내 유행을 초래했는지 설명하기 어렵습니다. [WHO](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) 는 남아프리카공화국, 알제리, 나이지리아에서 각각 3,400건, 2,800건, 500건의 확진 사례가 나왔다고 밝혔습니다.
 
 
 <!-- ############ SLIDE BREAK ############# -->
