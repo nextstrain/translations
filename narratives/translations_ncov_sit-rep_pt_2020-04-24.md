@@ -19,8 +19,8 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: Glaucio Oliveira
-translatorLinks: https://www.linkedin.com/in/glauciosantos/
+translators: Glaucio Oliveira; Anderson Brito
+translatorLinks: https://www.linkedin.com/in/glauciosantos/; https://twitter.com/AndersonBrito_
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
@@ -101,7 +101,7 @@ Por exemplo, o mapa mostra muitas poucas sequências na África Oriental. Isso N
 # [Várias introduções separadas geraram diversas cadeias de transmissão locais na África](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_region=Africa&p=full&r=country&legend=open)
 No momento da redação deste relatório, o [Centro de Controle de Doenças da África](https://africacdc.org/covid-19/) registra 26.144 casos confirmados de COVID-19 e 1.247 mortes em toda a União Africana. Temos genomas virais de 83 desses casos de 7 nações africanas, mostrados aqui (em cores) em contraste com um cenário de sequências contextuais de todo o mundo (em cinza). Aplaudimos os departamentos locais de saúde pública locais por sua rápida resposta e pelo compartilhamento público de dados.
 <br><br>
-Essas amostras abrangem toda a diversidade da árvore, indicando que houve muitas introduções independentes no continente africano. Muitas dessas introduções parecem ser da Europa, embora isso possa ser uma distorção vinda do fato de termos mais seqüências da Europa do que da maioria dos outros lugares do mundo. Não podemos descartar a possibilidade de transmissões intermediárias não amostradas em outros lugares.
+Essas amostras abrangem toda a diversidade da árvore, indicando que houve muitas introduções independentes no continente africano. Muitas dessas introduções parecem ser da Europa, embora isso possa ser uma distorção vinda do fato de termos mais sequências da Europa do que da maioria dos outros lugares do mundo. Não podemos descartar a possibilidade de transmissões intermediárias não amostradas em outros lugares.
 <br><br>
 Não vimos evidências de que todas essas introduções levaram à transmissão comunitária, mas vemos agrupamentos claros em alguns locais.
 
@@ -124,7 +124,7 @@ Aqui, podemos ver 7 lugares onde as cores mudaram de cinza para laranja, represe
 <!-- This is left-side text 6-->
 # [Duas cadeias de transmissão locais em Kinshasa, semeadas no início de Março](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
 
-Nesta versão ampliada da árvore em seu modo de visualização de divergências (mutações), podemos ver dois agrupamentos que representam provável transmissão local. Uma transmissão local é identificada como um grupo muito próximo de amostras de um mesmo local, coletaddas ao longo do tempo, com acumulação de diversidade genética (comprimentos de ramos mais longos, representando mais mutações).
+Nesta versão ampliada da árvore em seu modo de visualização de divergências (mutações), podemos ver dois agrupamentos que representam provável transmissão local. Uma transmissão local é identificada como um grupo muito próximo de amostras de um mesmo local, coletadas ao longo do tempo, com acumulação de diversidade genética (comprimentos de ramos mais longos, representando mais mutações).
 <br><br>
 No topo dessa versão, vemos um conjunto de casos de Kinshasa, todos amostrados entre 9 e 22 de Março.
 <br><br>
@@ -153,7 +153,7 @@ Embora a sequência mais recente de Senegal no Nextstrain seja de 20 de Março, 
 <!-- This is left-side text 8-->
 # [Pelo menos 7 introduções em Gana](https://nextstrain.org/ncov/africa/2020-04-24?d=tree,map&f_country=Ghana&f_region=Africa&p=full)
 
-Há [1.154 casos confirmados de COVID-19 em Gana com 9 mortes conhecidas](https://africacdc.org/covid-19/). No Nextstrain, existem 14 seqüências de Gana espalhadas pela árvore filogenética, representando pelo menos 7 introduções separadas.
+Há [1.154 casos confirmados de COVID-19 em Gana com 9 mortes conhecidas](https://africacdc.org/covid-19/). No Nextstrain, existem 14 seqüências de Gana espalhadas pela árvore filogenética, representando pelo menos 7 introduções independentes.
 <br><br>
 O primeiro caso em Gana foi relatado à OMS em 11 de Março e o primeiro genoma viral no Nextstrain foi coletado em 24 de Março.
 
@@ -163,29 +163,29 @@ O primeiro caso em Gana foi relatado à OMS em 11 de Março e o primeiro genoma 
 
 Aqui, vemos um agrupamento de casos intimamente relacionados da região da Grande Acra, em Gana, amostrados entre 25 e 30 de Março. O ancestral comum desses casos data de meados de Fevereiro ou início de Março, e provavelmente foi importado da Ásia.
 <br><br>
-Curiosamente, há uma amostra do Senegal que se agrupa fortemente com esse agrupamento, sugerindo a possibilidade de uma transmissão entre Senegal e Gana.
+Curiosamente, há uma amostra do Senegal que se agrupa fortemente com essas sequências ganesas, sugerindo a possibilidade de uma transmissão entre Senegal e Gana.
 
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Apresentações espalhadas na Argélia, Gâmbia, Nigéria, e África do Sul](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
+# [Introduções espalhadas na Argélia, Gâmbia, Nigéria, e África do Sul](https://nextstrain.org/ncov/africa/2020-04-24?c=division&d=tree,map&f_country=Algeria,Gambia,Nigeria,South%20Africa&f_region=Africa&p=full&r=division)
 
-Aqui, vemos amostras isoladas da Argélia, Gâmbia, Nigéria e África do Sul. Essas amostras estão espalhadas por toda a árvore e são amplamente isoladas umas das outras.
+Aqui, vemos amostras isoladas da Argélia, Gâmbia, Nigéria e África do Sul. Essas amostras estão espalhadas por toda a árvore, e estão amplamente isoladas umas das outras.
 <br><br>
-Isso é evidência de muitas introduções separadas, principalmente da Europa, para muitas nações da África. Sem mais dados, ainda não podemos dizer qual — caso existam — dessas faíscas resultou em surtos locais. A [OMS registra](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) surtos de mais de 3400, 2800 e 500 casos na África do Sul, Argélia e Nigéria, respectivamente.
+Isso é evidência de múltiplas introduções independentes, principalmente da Europa para muitas nações da África. Sem mais dados, ainda não podemos determinar se essas — e qual dessas — introduções resultou em surtos locais. A [OMS registra](https://apps.who.int/iris/bitstream/handle/10665/331840/SITREP_COVID-19_WHOAFRO_20200422-eng.pdf) surtos de mais de 3400, 2800 e 500 casos na África do Sul, Argélia e Nigéria, respectivamente.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
 # [O que você pode fazer](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ... como um indivíduo
+#### ... como indivíduo
 * Pratique distanciamento social estrito, especialmente se você faz parte de algum grupo de risco.
-* Lembre-se que mesmo que você não seja super vulnerável, muitas pessoas ao seu redor são; Siga essas práticas para proteger os outros.
+* Lembre-se que mesmo que você não seja super vulnerável, muitas pessoas ao seu redor são. Siga essas práticas também para proteger os outros.
 * Use máscara em público (as feitas em casa também funcionam).
 * Lave suas mãos "como se você tivesse acabado de cortar pimenta e precisasse colocar suas lentes de contato".  
-* Fique em casa o máximo possível — especialmente se estiver doente; esteja preparado com alguns suprimentos extras para caso precise se auto-impor em quarentena.  
+* Fique em casa o máximo possível — especialmente se estiver doente; e esteja preparado com alguns suprimentos extras para caso precise se colocar em quarentena voluntária.  
 * Se você é um empregador, encoraje seus funcionários a trabalharem de casa sempre que possível.
 
 #### ... como funcionário do governo
@@ -200,15 +200,15 @@ Isso é evidência de muitas introduções separadas, principalmente da Europa, 
 ```auspiceMainDisplayMarkdown
 # Conclusões
 
-#### Houve muitas introduções independentes do SARS-CoV-2 no continente africano, principalmente da Europa (embora o viés de amostragem possa contribuir para essa inferência).
+#### Houve muitas introduções independentes do vírus SARS-CoV-2 no continente africano, principalmente vindos da Europa (embora o viés de amostragem possa contribuir para essa inferência).
 <br><br>
-#### 7 introduções na República Democrática do Congo levaram a ao menos 2 cadeias de transmissão separadas circulando em Kinshasa.  
+#### 7 introduções na República Democrática do Congo levaram a pelo menos 2 cadeias de transmissão independentes, que hoje circulam em Kinshasa.  
 <br><br>
-#### Semelhantemente, 8 introduções no Senegal desencadearam cadeias de transmissão locais em Dacar e Touba.  
+#### De forma semelhante, 8 introduções no Senegal desencadearam cadeias de transmissão locais em Dacar e Touba.  
 <br><br>
-#### O SARS-CoV-2 foi introduzido em Gana pelo menos 7 vezes, com transmissão local na Região Metropolitana de Acra.
+#### O vírus SARS-CoV-2 foi introduzido em Gana pelo menos 7 vezes, com transmissão local detectada na Região Metropolitana de Acra.
 <br><br>
-#### Houve introduções espalhadas na Argélia, Gâmbia, Nigéria e África do Sul. Ainda não temos amostras suficientes para inferir a transmissão local a partir dos dados sequenciados.
+#### Houve introduções espalhadas na Argélia, Gâmbia, Nigéria e África do Sul. A partir dos genomas sequenciados, ainda não temos amostras suficientes para determinar se há transmissão local nessas regiões.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -223,9 +223,9 @@ Isso é evidência de muitas introduções separadas, principalmente da Europa, 
 <!-- This is left-side text 12-->
 # [Crédito científico](https://nextstrain.org/ncov/2020-04-24?d=map&c=author)
 
-Gostaríamos de reconhecer o trabalho incrível e oportuno realizado por todos os cientistas envolvidos nesse surto, sobretudo os que estão trabalhando na China. Somente com o compartilhamento rápido de dados genômicos e de metadados é que tais análises foram possíveis.
+Gostaríamos de reconhecer o trabalho incrível e oportuno realizado por todos os cientistas envolvidos nesse surto. Somente com o compartilhamento rápido de dados genômicos e de metadados é que tais análises foram possíveis.
 <br><br>
-Os sequenciamentos fornecidas por cada laboratório [estão especificados aqui](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md).
+Os genomas sequenciados por cada laboratório [estão especificados aqui](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md).
 <br><br>
 Também agradecemos a [GISAID](https://www.gisaid.org/) por fornecer a plataforma pela qual esses dados podem ser inseridos e compartilhados.
 
