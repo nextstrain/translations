@@ -19,8 +19,8 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
+translators: "Provided by Google"
+translatorLinks: https://www.google.com/
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
@@ -145,7 +145,7 @@ Výskyt prvních případů COVID-19 na svém území nahlásila Konžská demok
 
 Podobně jako v KDR i zde vidíme, jak jsou vzorky ze Senegalu rozptýlené po celé šířce genetické diverzity stromu. Fylogenetické umístění těchto vzorků naznačuje, že od konce února do konce března proběhlo nejméně 8 samostatných případů zanesení nákazy do Senegalu. Senegal oznámil WHO své první případy nemoci COVID-19 28. února, téhož dne, kdy byl odebrán první vzorek viru k sekvenování.
 <br><br>
-Jak jsme uvedli v naší [situační zprávě z 3. dubna](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-03?n=5), přinejmenším 2 z těchto případů zanesení z konce února nebo začátku března vedly k přetrvávajícím lokálním klastrům přenosu ve městech Dakar a Touba.
+Jak jsme uvedli v naší [situační zprávě z 3. dubna](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-04-03?n=5), přinejmenším 2 z těchto případů zanesení z konce února nebo začátku března vedly k přetrvávajícím lokálním klastrům přenosu ve městech Dakar a Touba.
 <br><br>
 Ačkoli poslední sekvence ze Senegalu na webu Nextstrain je z 20. března, v současné době je v Senegalu [hlášeno 215 aktivních případů](http://www.sante.gouv.sn/sites/default/files/COMMUNIQUE%2053%20DU%2023%20AVRIL%202020.pdf) nemoci COVID-19.
 
