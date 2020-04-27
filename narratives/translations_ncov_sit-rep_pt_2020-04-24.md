@@ -124,7 +124,7 @@ Aqui, podemos ver 7 lugares onde as cores mudaram de cinza para laranja, represe
 <!-- This is left-side text 6-->
 # [Duas cadeias de transmissão locais em Kinshasa, semeadas no início de Março](https://nextstrain.org/ncov/africa/2020-04-24?d=tree&f_country=Democratic%20Republic%20of%20the%20Congo&f_region=Africa&label=clade:A2a&p=full&legend=closed&m=div)
 
-Nesta versão ampliada das divergências, podemos ver dois agrupamentos que representam provável transmissão local. A transmissão local parece um grupo muito próximo de casos do mesmo local, amostrados ao longo do tempo, com acumulação de diversidade genética (comprimentos de galhos mais longos, representando mais mutações).
+Nesta versão ampliada da árvore em seu modo de visualização de divergências (mutações), podemos ver dois agrupamentos que representam provável transmissão local. Uma transmissão local é identificada como um grupo muito próximo de amostras de um mesmo local, coletaddas ao longo do tempo, com acumulação de diversidade genética (comprimentos de ramos mais longos, representando mais mutações).
 <br><br>
 No topo dessa versão, vemos um conjunto de casos de Kinshasa, todos amostrados entre 9 e 22 de Março.
 <br><br>
