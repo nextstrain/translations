@@ -140,7 +140,7 @@ abstract: "이 보고서는 공개된 유전체 정보를 이용해 코로나19�
 <br><br>
 이를 통해, 2020년 3월 초에서 4월 초 사이에 킨사샤 지역 내에서 최소 2개의 개별적인 전파 연쇄가 순환했다는 결론을 내릴 수 있었습니다.
 <br><br>
-콩고민주공화국은 3월 10일에 첫 코로나19 사례를 [WHO에 보고했습니다.](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf)
+콩고민주공화국은 3월 10일에 첫 코로나19 사례를 [WHO에 보고했습니다](https://apps.who.int/iris/bitstream/handle/10665/331763/SITREP_COVID-19_WHOAFRO_20200415-eng.pdf).
 Nextstrain에서의 첫 번째 표본은 3월 9일에 수집되었으며, [3월 27일 상황 보고서](https://nextstrain.org/narratives/ncov/sit-rep/ko/2020-03-27?n=16) 에 보고되었습니다.
 <!-- There is no right-side text -->
 
