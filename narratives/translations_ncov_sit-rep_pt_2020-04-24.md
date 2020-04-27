@@ -19,8 +19,12 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: Glaucio Oliveira; Anderson Brito
-translatorLinks: https://www.linkedin.com/in/glauciosantos/; https://twitter.com/AndersonBrito_
+translators:
+  - Glaucio Oliveira
+  - Anderson Brito
+translatorLinks:
+- https://www.linkedin.com/in/glauciosantos/
+- https://twitter.com/AndersonBrito_
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/africa/2020-04-24?f_region=Africa&d=map,tree"
@@ -35,15 +39,15 @@ abstract: "Este relatório utiliza dados genômicos compartilhados publicamente 
 <!-- This is left-side text 1-->
 # [Índice](https://nextstrain.org/ncov/africa/2020-04-24?d=map,tree&f_region=Africa)
 
-* [Fontes sobre COVID-19](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=2).     
-* [Sobre os dados](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=3).
-* [Diversidade genética do SARS-CoV-2 na África](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=4).
-* [Atualizações sobre a RD Congo](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=5).
-* [Atualizações sobre Senegal](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=7).
-* [Atualizações sobre Gana](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=8).
-* [Atualizações sobre Argélia, Gâmbia, Nigéria, e África do Sul](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=10).
-* [O que você pode fazer](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=11).
-* [Crédito científico](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-24?n=12).
+* [Fontes sobre COVID-19](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-24?n=2).     
+* [Sobre os dados](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-24?n=3).
+* [Diversidade genética do SARS-CoV-2 na África](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-24?n=4).
+* [Atualizações sobre a RD Congo](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-24?n=5).
+* [Atualizações sobre Senegal](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-24?n=7).
+* [Atualizações sobre Gana](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-24?n=8).
+* [Atualizações sobre Argélia, Gâmbia, Nigéria, e África do Sul](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-24?n=10).
+* [O que você pode fazer](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-24?n=11).
+* [Crédito científico](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-24?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -53,7 +57,7 @@ Analisamos 1338 genomas do vírus da COVID-19 que foram compartilhados publicame
 <br><br>
 * Muitas introduções independentes do vírus SARS-CoV-2 no continente africano, principalmente vindos da Europa (embora a ampla amostragem nesse continente possa enviesar essa inferência)
 <br><br>
-* Ao menos 7 introduções na República Democrática do Congo 
+* Ao menos 7 introduções na República Democrática do Congo
 <br><br>
 * 2 cadeias de transmissão independentes circulando em Kinshasa (RD Congo)
 <br><br>
@@ -75,8 +79,8 @@ Preparamos alguns materiais que tornarão mais fácil a interpretação dos dado
 * [Informações acerca dos coronavírus](https://nextstrain.org/help/coronavirus/human-CoV).
 * [Equívocos comuns](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-13?n=11).
 
-#### Materiais Externos 
-* [Pergunte a um cientista & Perguntas Frequentes](https://covid19.fas.org/l/en).
+#### Materiais Externos
+* [Pergunte a um cientista & Perguntas Frequentes](https://covid19.fas.org/).
 * [Relatórios de situação da OMS](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [Materiais do CDC (Centro de Controle de Doenças/EUA)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 * [Cobertura do NY Times sobre a COVID-19](https://www.nytimes.com/news-event/coronavirus).
