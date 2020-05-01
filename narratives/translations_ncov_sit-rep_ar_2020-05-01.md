@@ -105,14 +105,14 @@ abstract: "يستخدم هذا التفرير الاسبوعي بينات الج
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Heterogeneous outbreak in Moscow](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [انتشار وبائي غير متجانس في موسكو](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
-An example of frequent importation can be seen by zooming in on samples from Moscow.
+مثال على الاستيراد المتكرر يمكن مشاهدته من خلال تكبير العينات من موسكو. 
 <br><br>
-There are a few clusters of cases which are most closely related to other samples from Moscow, indicating likely local transmission.
-However, most samples from Moscow are most closely related to samples from elsewhere, consistent with importation.
+هناك بعض التجمعات لحالات والتي على الأغلب مرتبطة بشكل أكبر بعينات أخرى من موسكو، وهذا يشير الى انتشار محلي  محتمل. 
+ومع ذلك، معظم العينات من موسكو مرتبطة بشكل أكبر مع عينات من أماكن اخرى وهذا يتوافق مع الاستيراد.
 <br><br>
-Given the number of confirmed cases in Moscow, it's likely that at least some of these introductions led to further local spread, but we don't yet have enough data to see this.
+نظراً الى عدد الحالات المؤكدة في موسكو، فعلى الأغلب أنه على الأقل بعض هذه الادخالات ادى الى انتشار محلي إضافي، ولكن لا نمتلك حتى الآن بيانات كافية لنشاهد ذلك.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
