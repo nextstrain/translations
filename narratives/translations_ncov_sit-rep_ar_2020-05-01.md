@@ -167,10 +167,10 @@ abstract: "يستخدم هذا التفرير الاسبوعي بينات الج
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Early samples from Hungary, Latvia, Slovakia and Slovenia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [عينات مبكرة من هنغاريا، لاتفيا، سلوفاكيا و سلوفينيا](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
-In March, 20 sequences were submitted from Hungary, Latvia, Slovakia, and Slovenia.
-While we don't yet have enough data from these countries to draw firm conclusions, we applaud these early efforts and will continue to monitor the incoming data.
+في مارس، تم تحميل عشرون تسلسل جينومي من هنغاريا، لاتفيا، سلوفاكيا وسلوفينيا
+بينما لا نمتلك بيانات كافية من هذه الدول لرسم استنتاجات قوية، فنحن نثني على جهودهم المبكرة وسنستمر في متابعة بياناتهم القادمة.
 <!-- There is no right-side text -->
 
 
