@@ -140,16 +140,17 @@ abstract: "يستخدم هذا التفرير الاسبوعي بينات الج
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Extensive mixing of cases across Turkey](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [خلط مكثف للحالات في تركيا](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
-In the middle of the tree, we see a string of cases sampled from many different provinces around Turkey.
-Some of these cases have reported travel history to Saudi Arabia, with subsequent closely related cases in Turkey.
+في وسط الشجرة، نرى هناك خيطا لحالات تم جمعها من محافظات متعددة و مختلفة من أنحاء تركيا
+بعض هذه الحالات سجلت تاريخ سفر للمملكة العربية السعودية، مع حالات تالية مرتبطة بها بشكل أكبر في تركيا.
 <br><br>
-Normally, we might assume that returning travelers had passed the virus to household members or neighbors back home.
-Interestingly, though, the travelers' cases were often sampled from different provinces than the most closely related cases.
+من الطبيعي الاعتقاد بأن حالات السفر العائدة من الممكن أنها قامت بنشر الفيروس الى افراد العائلة او الجيران عند العودة للوطن.م
+
+من المثير للاهتمام، مع ذلك، أن حالات السفر التي تم جمعها كانت من محافظات مختلفة اكثر من الحالات المرتبطة اكثر ببعضها.
 <br><br>
-This indicates that there has been extensive mixing of viral lineages, reaching many provinces of Turkey within one week.
-We may also speculate that a large gathering could explain these observations, although we would need additional epidemiological data to further investigate.
+هذا يشير الى انه كانت هناك عمليات خلط مكثفة للاصول الفيروسية ووصلت الى عدة محافظات في تركيا خلال اسبوع واحد.
+يمكننا أيضاً ان نخمن ان التجمعات الكبيرة يمكنها ان تفسر هذه الملاحظات، ومع ذلك نحتاج الى بيانات وبائية للتحقق اكثر. 
 <!-- There is no right-side text -->
 
 
