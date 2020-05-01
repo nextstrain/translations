@@ -158,10 +158,10 @@ abstract: "يستخدم هذا التفرير الاسبوعي بينات الج
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [At least 11 introductions to Poland](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [هناك على الاقل احد عشر ادخالا الى بولندا](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
 
-We have 15 sequences from Poland on Nextstrain. Of these 15, at least 11 of them represent separate introductions from elsewhere in the world.
-As in Moscow, given the number of reported cases, we might expect that several of these introductions have seeded local transmission chains in Poland, but we can't yet see this in the genomic data.
+لدينا خمسة عشر تسلسلا جينوميا من بولندا . من هذه الخمسة عشر، على الأقل احد عشر منها تمثل ادخالات منفصلة من مكان ما آخر من العالم.
+كما هو في موسكو، مع أخذ عدد الحالات الموثقة بعين الإعتبار، يمكننا أن نتوقع ان العديد من حالات الإدخال هذه ادت الى بذر سلاسل انتشار محلية في بولندا، ولكن لا يمكننا حتى الآن مساهدة ذلك في البيانات الجينومية.
 <!-- There is no right-side text -->
 
 
