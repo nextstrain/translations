@@ -116,14 +116,14 @@ abstract: "يستخدم هذا التفرير الاسبوعي بينات الج
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Large outbreak cluster in St. Petersburg, sparked in early March](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [تجمع وبائي كبير في سانت بطرسبرغ، اشتعل في بداية مارس](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
-We can look at St. Petersburg as a counterexample.
+يمكننا النظر الى سانت بطرسبرغ كمثال مضاد.
 <br><br>
-As with Moscow, there are samples from St. Petersburg across the tree, indicating that there have been multiple introductions.
-Contrastingly, if you click 'Explore the Data Yourself' and zoom into the main cluster in the center of this view, we can see a large clade that is made up entirely of samples from St. Petersburg.
+كما هو مع موسكو، هناك العديد من العينات من سانت بطرسبرغ على طول الشجرة، وهذا يشير الى انه كان هناك ادخالات متعددة. 
+على العكس من ذلك، عند الضغط على ' استكشف البيانات بنفسك'وتقوم بتكبير التجمع الرئيسي في وسط العرض ، نستطيع مشاهدة عنقود كبير مكون بالكامل من عينات من سانت بطرسبرغ.
 <br><br>
-This pattern is consistent with one of these introductions to St. Petersburg taking off to spark widespread transmission across the city, starting around the first week of March. This large outbreak cluster is most closely related to samples from Western Europe, although we cannot rule out the possibility of an unsampled, intermediate transmission from elsewhere.
+يتوافق هذا النمط مع واحد من هذه الادخالات الى سانت بطرسبرغ والذي ادى الى اشعال سلسلة انتشار واسعة النطاق في المدينة مبتدئا تقريبا حول الأسبوع الأول من مارس. هذا العنقود الوبائي الكبير مرتبط بشكل أكبر بالعينات من أوروبا الشرقية، على الرغم من عدم قدرتنا على استثناء امكانية عدم جمع عينات من سلسلة انتشار وسطية في مكان ما آخر.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
