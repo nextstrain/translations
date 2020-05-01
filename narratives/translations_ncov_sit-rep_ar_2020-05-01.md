@@ -47,15 +47,15 @@ abstract: "يستخدم هذا التفرير الاسبوعي بينات الج
 ```auspiceMainDisplayMarkdown
 # الملخص التنفيذي
 
-We analyzed 4,442 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on Central & Eastern Europe and report:
+قمنا هنا بتحليل جينومات 4442 فيروس سارس كو في 2 المسبب لمرض كوفيد-19 والتي تم مشاركتها للعموم. من خلال مقارنة هذه الجينومات ببعضها البعض نستطيع تحديد كيف يتنقل كوفيد-19 حول العالم وكيف ينتشر محليا. في تحديثاتنا لهذا الأسبوع نركز على وسط وشرق اوروبا ونوثق ما يلي.
 
-* Many introductions to Russia  
-* Heterogeneous outbreak in Moscow  
-* Majority of St. Petersburg outbreak tied to a single introduction, most likely from Western Europe  
-* Extensive mixing of cases across Turkey following repeated travel-related introductions  
-* At least 5 local transmission chains in the Czech Republic, mostly likely due to repeated introductions from Western Europe
-* At least 11 separate introductions to Poland
-* Early samples from Hungary, Latvia, Poland, Slovakia and Slovenia  
+* العديد من الادخالات الى روسيا 
+* انتشار وبائي غير متجانس في موسكو 
+* غالبية الانتشار الوبائي في بطرس بيرغ مرتبط بادخال منفرد، وعلى الأغلب من اوروبا الشرقية 
+* خلط مكثف للحالات في تركيا بعد ادخالات متكررة مرتبطة بالسفر 
+* هناك على الاقل خمسة سلاسل إنتشار محلية في جمهورية التشيك، على الاغلب نتيجة ادخالات متكررة من اوروبا الشرقية
+* هناك على الاقل احد عشر ادخالا منفصلا الى بولندا
+* عينات مبكرة من هنغاريا، لاتفيا، بولندا، سلوفاكيا، سلوفينيا. 
 ```
 
 
