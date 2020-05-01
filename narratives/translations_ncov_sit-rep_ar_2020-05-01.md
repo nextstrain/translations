@@ -81,12 +81,12 @@ abstract: "يستخدم هذا التفرير الاسبوعي بينات الج
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/europe/2020-05-01?c=country&r=country&d=map&f_region=Europe&p=grid&legend=closed)
-We currently have sequences from samples collected across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [ملاحظة عن العينات](https://nextstrain.org/ncov/europe/2020-05-01?c=country&r=country&d=map&f_region=Europe&p=grid&legend=closed)
+نمتلك حاليا تسلسل جينومات من عينات جمعت من 6 قارات. وهذا إنجاز ضخم-- حيث ان تحديد تسلسل جينوم فيروس ار ان اي كبير الحجم وغير معروف مسبقاً في وسط جائحة هو أمر صعب، وما كان من الممكن ليكون لولا العمل المذهل والمشاركة السريعة للبيانات من قبل الأطباء والعلماء حول العالم.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+في حين أن هذه البيانات تمكننا من استنتاج خصائص مفيدة عن الانتشار الوبائي وتتبع انتشاره في الوقت الفعلي، إلا أنه من المهم التأكيد على أن استنتاجاتنا تبقى محدودة بالبيانات المتوفرة.
 <br><br>
-For example, the map shows many samples from Iceland, the U.K., and the Netherlands. This does not necessarily indicate that SARS-CoV-2 is circulating more broadly in these areas; rather, we just have more data available from these countries. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+فعلى سبيل المثال، تظهر الخريطة العديد من العينات من ايسلندا، المملكة المتحدة، وهولندا. هءا لا يشير بالضرورة إلا أن سارس كو في 2 يدور بشكل اكبر في هذه المناطق، وانما نمتلك بيانات اكثر من هذه الدول. حجم كل دائرة على الخريطة يشير الى كمية البيانات المتوفرة من تلك المنطقة وليس الى الحجم الحقيقي لانتشار الوباء فيها
 
 <!-- There is NO right-side text -->
 
