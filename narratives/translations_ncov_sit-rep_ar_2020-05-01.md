@@ -128,15 +128,15 @@ abstract: "يستخدم هذا التفرير الاسبوعي بينات الج
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Five local transmission chains in the Czech Republic](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [خمس سلاسل انتشار محلية في جمهورية التشيك](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
-The data from the Czech Republic show a mix of these two patterns.
+تظهر البيانات من جمهورية التشيك خليط من هذين النمطين
 <br><br>
-There are at least 7 instances where a sample isolated in the Czech Republic descends from a virus that was mostly likely circulating elsewhere in Europe, indicating new introductions between March 1 and April 2.
+هناك على الأقل سبع أمثلة/حالات حيث ان العينة المعزولة من جمهورية التشيك انحدرت من فيروس كان على الأغلب يدور في مكان ما آخر في أوربا، وهذا يشير الى ادخالات جديدة ما بين الاول من مارس والثاني من ابريل.
 <br><br>
-For 5 of these introductions, we also see closely related local cases, sampled over time. This is consistent with local transmission.
+لخمسة من هذه الادخالات، نستطيع مشاهد حالات محلية مرتبطة بشكل أكبر، تم جمعها مع الوقت. وهذا يتوافق مع انتشار محلي. 
 <br><br>
-From this, we can say that there were at least 7 introductions to the Czech Republic; at least 5 of these likely led to further local transmission.
+من هذا نستطيع القول بأنه كان هناك سبعة ادخالات على الاقل الى جمهورية التشيك، منها على الأقل خمسة أدت على الأغلب ال  انتشار محلي اضافي.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
