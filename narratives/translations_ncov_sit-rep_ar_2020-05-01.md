@@ -62,19 +62,19 @@ abstract: "يستخدم هذا التفرير الاسبوعي بينات الج
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/europe/2020-05-01?d=tree&f_region=Europe&legend=closed)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [مصادر كوفيد-19](https://nextstrain.org/ncov/europe/2020-05-01?d=tree&f_region=Europe&legend=closed)
+قمنا هنا بتحضير بعض المصادر التي يمكنها ان تجعلك قادراً على تخليل البيانات التي نعرضها في هذا التقرير بشكل اسهل.
+#### مصادر Nextstrain 
+* [ابدأ هنا: كيف تقرأ شجرة التصنيف الجيني](https://nextstrain.org/narratives/trees-background/).  
+* [خلفية عن فيروسات كورونا](https://nextstrain.org/help/coronavirus/human-CoV).
+* [مفاهيم خاطئة شائعة](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
+#### مصادر خارجية 
 * [How SARS-CoV-2 mutates and spreads](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [Why the coronavirus is so confusing](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/).
+* [اسأل عالمأ والاسئلة الشائعة](https://covid19.fas.org/).
+* [تقارير منظمة الصحة العالمية](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [مصادر مركز مكافحة الأمراض الأمريكي](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [لماذا يثير فيروس كورونا الإضطراب](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/).
 <!-- There is no right-side text -->
 
 
