@@ -93,13 +93,13 @@ abstract: "يستخدم هذا التفرير الاسبوعي بينات الج
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Many introductions to Russia](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [ادخالات متعددة الى روسيا](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
-Highlighting samples from Russia, we see that they are scattered both geographically (across Russia) and genomically (across the tree).
+بتظليل العينات من روسيا نستطيع مشاهدة انها تتبعثر جغرافيا خلال روسيا وجينوميا خلال الشجرة.
 <br><br>
-This indicates that the epidemic in Russia was sparked by many separate introductions, rather than a single introduction followed by within-country spread.
+هذا يشير الى أن الوباء في روسيا تم اشعاله من خلال ادخالات منفصلة متعددة، وليس من خلال ادخال منفرد وتلاها بعد ذلك انتشار داخل الدولة
 <br><br>
-While there are a few samples towards the bottom of the tree that are most closely related to Asian cases, the majority of Russian samples descend from European lineages.
+بينما هناك بعض العينات قريبة من قاع الشجرة والتي على الاغلب مرتبطة بشكل أكبر مع الحالات الآسيوية، الا ان غالبية العينات الروسية انحدرت من أصول اوروبية.
 
 <!-- There is no right side text -->
 
