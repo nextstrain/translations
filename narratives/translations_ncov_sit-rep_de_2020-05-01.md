@@ -121,12 +121,12 @@ Wenn man die Anzahl der Faelle in Moskau in Betracht zieht, ist es wahrscheinlic
 <!-- This is left-side text 6-->
 # [Ein grosser Ausbruck in St. Petersburg, der Anfang Maerz begann](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
-We can look at St. Petersburg as a counterexample.
+Wir koennen St. Petersburg als ein Gegenbeispiel betrachten.
 <br><br>
-As with Moscow, there are samples from St. Petersburg across the tree, indicating that there have been multiple introductions.
-Contrastingly, if you click 'Explore the Data Yourself' and zoom into the main cluster in the center of this view, we can see a large clade that is made up entirely of samples from St. Petersburg.
+Wie auch fuer Moskau sind die Proben aus St. Petersburg ueber den Baum verteilt, was auf mehrfache Einschleppungen hindeutet.
+Wenn man 'Explore the Data Yourself' klickt und in den Hauptcluster in der Mitte dieser Ansicht zoomt, sieht man, dass - im Gegensatz zu Moskau - eine grosse Klade komplett aus Proben aus St. Petersburg besteht.
 <br><br>
-This pattern is consistent with one of these introductions to St. Petersburg taking off to spark widespread transmission across the city, starting around the first week of March. This large outbreak cluster is most closely related to samples from Western Europe, although we cannot rule out the possibility of an unsampled, intermediate transmission from elsewhere.
+Dieses Muster stimmt damit ueberein, dass eine der Einschleppungen nach St. Petersburg die weitverbreitete Uebertragung innerhalb der Stadt initiiert hat, mit Beginn ca. in der ersten Maerzwoche. Dieser grosse Cluster des Ausbruchs ist am naechsten mit Proben aus West-Europa verwandt; wir koennen jedoch die Moeglichkeit einer unbeprobten, intermediaeren Uebertragung von woanders nicht ausschliessen.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
