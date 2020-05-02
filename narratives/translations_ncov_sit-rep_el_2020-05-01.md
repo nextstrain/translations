@@ -51,7 +51,7 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 We analyzed 4,442 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on Central & Eastern Europe and report:
 
 * Πολλές εισαγωγές στη Ρωσία Many introductions to Russia  
-* Ανομοιγενή επιδημία στη Μόσχα Heterogeneous outbreak in Moscow  
+* Ανομοιγενής επιδημία στη Μόσχα Heterogeneous outbreak in Moscow  
 * Η πλειονότητα της επιδημίας της Αγίας Πετρούπολης συνδέεται με μια μόνο εισαγωγή, πιθανότατα από τη Δυτική Ευρώπη Majority of St. Petersburg outbreak tied to a single introduction, most likely from Western Europe  
 * Εκτεταμένη ανάμειξη περιπτώσεων σε ολόκληρη την Τουρκία μετά από επαναλαμβανόμενες εισαγωγές που σχετίζονται με ταξίδια Extensive mixing of cases across Turkey following repeated travel-related introductions  
 * Τουλάχιστον 5 τοπικές αλυσίδες μετάδοσης στην Τσεχική Δημοκρατία, πιθανότατα οφείλονται σε επαναλαμβανόμενες εισαγωγές από τη Δυτική Ευρώπη At least 5 local transmission chains in the Czech Republic, mostly likely due to repeated introductions from Western Europe
@@ -106,24 +106,25 @@ We analyzed 4,442 publicly shared COVID-19 genomes. By comparing these viral gen
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Heterogeneous outbreak in Moscow](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [Ανομοιγενής επιδημία στη Μόσχα Heterogeneous outbreak in Moscow](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
-An example of frequent importation can be seen by zooming in on samples from Moscow.
+Ένα παράδειγμα συχνής εισαγωγής μπορεί να φανεί μεγένθυνοντας στα δείγματα από τη Μόσχα. An example of frequent importation can be seen by zooming in on samples from Moscow.
 <br><br>
-There are a few clusters of cases which are most closely related to other samples from Moscow, indicating likely local transmission.
-However, most samples from Moscow are most closely related to samples from elsewhere, consistent with importation.
+Υπάρχουν μερικές ομάδες περιπτώσεων που σχετίζονται στενότερα με άλλες αλληλουχίες από τη Μόσχα, υποδεικνύοντας πιθανή τοπική μετάδοση.There are a few clusters of cases which are most closely related to other samples from Moscow, indicating likely local transmission.
+Ωστόσο, τα περισσότερα δείγματα από τη Μόσχα σχετίζονται στενότερα με αλληλουχίες από αλλού, σύμφωνα με την εισαγωγή. However, most samples from Moscow are most closely related to samples from elsewhere, consistent with importation.
 <br><br>
-Given the number of confirmed cases in Moscow, it's likely that at least some of these introductions led to further local spread, but we don't yet have enough data to see this.
+Δεδομένου του αριθμού των επιβεβαιωμένων περιπτώσεων στη Μόσχα, είναι πιθανό ότι τουλάχιστον μερικές από αυτές τις εισαγωγές οδήγησαν σε περαιτέρω τοπική εξάπλωση, αλλά δεν έχουμε ακόμη αρκετά δεδομένα για να το τεκμηριώσουμε. Given the number of confirmed cases in Moscow, it's likely that at least some of these introductions led to further local spread, but we don't yet have enough data to see this.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Large outbreak cluster in St. Petersburg, sparked in early March](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [Μεγάλη εξάπλωση στην Αγία Πετρούπολη, ξεκίνησε στις αρχές Μαρτίου Large outbreak cluster in St. Petersburg, sparked in early March](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
-We can look at St. Petersburg as a counterexample.
+Μπορούμε να δούμε την Αγία Πετρούπολη ως αντιπαράδειγμα. We can look at St. Petersburg as a counterexample.
 <br><br>
-As with Moscow, there are samples from St. Petersburg across the tree, indicating that there have been multiple introductions.
-Contrastingly, if you click 'Explore the Data Yourself' and zoom into the main cluster in the center of this view, we can see a large clade that is made up entirely of samples from St. Petersburg.
+Όπως και με τη Μόσχα, υπάρχουν δείγματα από την Αγία Πετρούπολη απέναντι από το δέντρο, που δείχνουν ότι έχουν γίνει πολλές εισαγωγές.As with Moscow, there are samples from St. Petersburg across the tree, indicating that there have been multiple introductions.
+Αντιθέτως εάν κάνετε κλικ στην επιλογή 'Explore the Data Yourself' και κάνετε ζουμ στο κύριο σύμπλεγμα στο κέντρο αυτής της προβολής, μπορούμε να δούμε ένα μεγάλο κλάδο που αποτελείται εξ ολοκλήρου από δείγματα από την Αγία Πετρούπολη. Contrastingly, if you click 'Explore the Data Yourself' and zoom into the main cluster in the center of this view, we can see a large clade that is made up entirely of samples from St. Petersburg.
 <br><br>
+Αυτό το μοτίβο είναι σύμφωνο με μία από αυτές τις εισαγωγές στην Αγία Πετρούπολη για να προκαλέσει εκτεταμένη μετάδοση σε όλη την πόλη, ξεκινώντας περίπου την πρώτη εβδομάδα του Μαρτίου. Η συγκεκριμένη τοπικξή έξαρση σχετίζεται στενότερα με δείγματα από τη Δυτική Ευρώπη, αν και δεν μπορούμε να αποκλείσουμε τη δυνατότητα μιας ενδιάμεσης μετάδοσης χωρίς δείγμα από αλλού.
 This pattern is consistent with one of these introductions to St. Petersburg taking off to spark widespread transmission across the city, starting around the first week of March. This large outbreak cluster is most closely related to samples from Western Europe, although we cannot rule out the possibility of an unsampled, intermediate transmission from elsewhere.
 <!-- There is no right side text -->
 
