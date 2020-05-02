@@ -18,9 +18,10 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
-  - Astrid Gall
+  - Astrid Gall, Elisabeth Hirth
 translatorLinks:
   - https://www.ebi.ac.uk/about/people/astrid-gall
+  - https://bsse.ethz.ch/department/people/detail-person.MjM4ODcw.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed"
@@ -55,7 +56,7 @@ Wir haben 4.432 oeffentlich zugaengliche SARS-CoV-2 Genome analysiert. Durch den
 * Einen heterogenen Ausbruch in Moskau 
 * Der Grossteil des Ausbruches in St. Petersburg ist auf eine einzelne Einschleppung zurueckzufuehren, hoechstwahrscheinlich aus West-Europa  
 * Hochgradige Durchmischung von Faellen innerhalb der Tuerkei nach wiederholten reisebedingten Einschleppungen
-* Mindestens fuenf Uebertragungsketten in der Tschechischen Republik, die hoechstwahrscheinlich auf wiederholte Einschleppungen aus West-Europa zurueckzufuehren sind
+* Mindestens fuenf Uebertragungsketten in der Tschechischen Republik, die hoechstwahrscheinlich auf wiederholte Einschleppungen aus Westeuropa zurueckzufuehren sind
 * Mindestens elf separate Einschleppungen nach Polen
 * Fruehe Proben aus Ungarn, Lettland, Slowakei und Slowenien 
 ```
@@ -110,7 +111,7 @@ Der Grossteil der russischen Proben stammt von europaeischen Linien ab, waehrend
 <!-- This is left-side text 5-->
 # [Ein heterogener Ausbruch in Moskau](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
-Man kann ein Beispiel fuer mehrfache Einschleppugen sehen, indem man in die Proben aus Moskay zoomt.
+Man kann ein Beispiel fuer mehrfache Einschleppugen sehen, indem man in die Proben aus Moskau zoomt.
 <br><br>
 Es gibt einige wenige Fallcluster, die am naechsten mit anderen Proben aus Moskau verwandt sind, was auf eine lokale Uebertragung hindeutet.
 Im Gegensatz dazu sind die meisten Proben aus Moskau am naechsten mit Proben aus anderen Regionen verwandt, was mit Import uebereinstimmt.
@@ -126,7 +127,7 @@ Wir koennen St. Petersburg als ein Gegenbeispiel betrachten.
 Wie auch fuer Moskau sind die Proben aus St. Petersburg ueber den Baum verteilt, was auf mehrfache Einschleppungen hindeutet.
 Wenn man 'Explore the Data Yourself' klickt und in den Hauptcluster in der Mitte dieser Ansicht zoomt, sieht man, dass - im Gegensatz zu Moskau - eine grosse Klade komplett aus Proben aus St. Petersburg besteht.
 <br><br>
-Dieses Muster stimmt damit ueberein, dass eine der Einschleppungen nach St. Petersburg die weitverbreitete Uebertragung innerhalb der Stadt initiiert hat, mit Beginn ca. in der ersten Maerzwoche. Dieser grosse Cluster des Ausbruchs ist am naechsten mit Proben aus West-Europa verwandt; wir koennen jedoch die Moeglichkeit einer unbeprobten, intermediaeren Uebertragung von woanders nicht ausschliessen.
+Dieses Muster stimmt damit ueberein, dass eine der Einschleppungen nach St. Petersburg die weitverbreitete Uebertragung innerhalb der Stadt initiiert hat, mit Beginn ca. in der ersten Maerzwoche. Dieses grosse Cluster des Ausbruchs ist am naechsten mit Proben aus Westeuropa verwandt; wir koennen jedoch die Moeglichkeit einer unbeprobten, intermediaeren Uebertragung von woanders nicht ausschliessen.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -135,7 +136,7 @@ Dieses Muster stimmt damit ueberein, dass eine der Einschleppungen nach St. Pete
 
 Der Ausbruch in der Tschechischen Republik stellt sich als Gemisch dieser beiden Muster dar.
 <br><br>
-Es gibt mindestens sieben Faelle, bei denen die in der Tschechischen Republik isolierte Probe von einem Virus abstammt, das woanders in Europa zirkuliert. Das deutet auf neue Einschleppungen zwischen dem 1. Maerz ud dem 2. April hin.
+Es gibt mindestens sieben Faelle, bei denen die in der Tschechischen Republik isolierte Probe von einem Virus abstammen, das woanders in Europa zirkuliert. Das deutet auf neue Einschleppungen zwischen dem 1. Maerz ud dem 2. April hin.
 <br><br>
 Bei fuenf dieser Einschleppungen sehen wir auch nah verwandete Faelle, die ueber einen Zeitraum hinweg beprobt worden sind. Dies stimmt mit einer lokalen Uebertragung ueberein.
 <br><br>
@@ -200,7 +201,7 @@ Wir haben noch nicht genuegend Daten aus diesen Laendern, um klare Schlussfolger
 
 #### SARS-COV-2 is mehrfach nach Russland eingefuehrt worden; der Ausbruch in Moskau ist hochgradig heterogen.
 <br><br>
-#### Es gab mehrfache Einschleppungen nach St. Petersburg. Eine dieser Einschleppungen, Mitte Maerz von West-Europa, initiierte einen grossen Cluster von Faellen mit lokaler Uebertragung.
+#### Es gab mehrfache Einschleppungen nach St. Petersburg. Eine dieser Einschleppungen, Mitte Maerz von Westeuropa, initiierte ein grosses Cluster an Faellen mit lokaler Uebertragung.
 <br><br>
 #### Nach wiederholten reisebedingten Einschleppungen gab es eine hochgradige und rapide Durchmischung von Faellen innerhalb der Tuerkei.
 <br><br>
@@ -208,7 +209,7 @@ Wir haben noch nicht genuegend Daten aus diesen Laendern, um klare Schlussfolger
 <br><br>
 #### Es gab mindestent elf separate Einschleppungen des Virus nach Polen.
 <br><br>
-#### Wir haben fruehe Proben aus Ungarn, Lettland , Slowakei und Slowenien erhalten. Wir haben noch nicht genuegend Daten, um Schlussfolgerungen machen zu koennen, werden aber die Situation weiterhin beobachten und sobald wie moeglich updates erstellen.
+#### Wir haben fruehe Proben aus Ungarn, Lettland , Slowakei und Slowenien erhalten. Wir haben noch nicht genuegend Daten, um Schlussfolgerungen machen zu koennen, werden aber die Situation weiterhin beobachten und sobald wie moeglich Updates erstellen.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -225,7 +226,7 @@ Wir haben noch nicht genuegend Daten aus diesen Laendern, um klare Schlussfolger
 
 Wir moechten uns recht herzlich bei allen Forschern fuer deren Zeit und wunderbares Engagement bedanken, die in dieser Epidemie ihren unentbehrlichen Beitrag leisten. Nur durch das schnelle Teilen von Genom- und Metadaten sind Analysen wie diese moeglich. 
 <br><br>
-Die spezifischen Sequenzierdaten aus den einzelnen Laboren sind [listed here](https://github.com/nextstrain/ncov/blob/e8020ca13e420bb62e31acf9a07268bc08b11c63/narratives/sit-rep_credits.md).
+Die spezifischen Sequenzierdaten aus den einzelnen Laboren sind [hier aufgefuehrt](https://github.com/nextstrain/ncov/blob/e8020ca13e420bb62e31acf9a07268bc08b11c63/narratives/sit-rep_credits.md).
 <br><br>
 Zudem moechten wir uns recht herzlich bei GISAID fuer die Bereitstellung der Plattform bedanken, durch die diese Daten geteilt und hochgeladen werden koennen.
 
