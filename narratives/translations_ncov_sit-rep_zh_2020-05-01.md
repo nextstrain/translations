@@ -76,7 +76,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 * [向科学家提问 & 常见问题解答（英文）](https://covid19.fas.org/).
 * [WHO的状况报告（英文）](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [美国CDC的资料（英文）](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [为什么新冠病毒如此令人费解（英文）](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/).
+* [为什么新冠病毒令人费解（英文）](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/).
 <!-- There is no right-side text -->
 
 
@@ -117,12 +117,12 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [圣彼得堡存在大型本地传播链，起源于三月上旬](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [圣彼得堡存在起源于三月上旬的大型本地传播链](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 圣彼得堡的情况则与莫斯科相反。
 <br><br>
-与莫斯科相似的是，圣彼得堡的样本散布在演化树的各处，表明当地曾经历多次输入事件。
-但与莫斯科截然不同的是，如果您在本报告的末尾点击“探索数据（Explore the Data Yourself）”，然后把本图中部的这个样本簇放大，就可以看到，这一大支中的样本全都来自圣彼得堡。
+虽然与莫斯科相似的是，圣彼得堡的样本散布在演化树的各处，表明当地曾经历多次输入事件，
+但与莫斯科截然不同的是，如果您在本报告的末尾点击“探索数据（Explore the Data Yourself）”，然后把本图中部的这个样本簇放大，就可以看到这一大支中的样本全都来自圣彼得堡。
 <br><br>
 这个现象表明，在圣彼得堡所经历的这些输入事件之中，有一次事件引发了病毒在全城的广泛传播，起始时间大约是三月的第一周。这个大型的样本簇与西欧的样本亲缘关系最近，但也不能排除病毒经由未被抽样到的其他地区传入的可能性。
 <!-- There is no right side text -->
