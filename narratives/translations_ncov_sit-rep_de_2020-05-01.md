@@ -97,11 +97,12 @@ Zum Beispiel zeigt die Karte viele Proben aus Island, der U.K. und den Niederlan
 <!-- This is left-side text 4-->
 # [Mehrfache Einschleppungen nach Russland ](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
-Highlighting samples from Russia, we see that they are scattered both geographically (across Russia) and genomically (across the tree).
+Wenn wir dir Proben aus Russland hervorheben, sehen wir eine sowohl geographische (innerhalb Russlands) als auch genomische (innerhalb des Baumes) Durchmischung.
 <br><br>
-This indicates that the epidemic in Russia was sparked by many separate introductions, rather than a single introduction followed by within-country spread.
+Das bedeutet, dass die Epidemie in Russland durch mehrere separate Einschleppungen, und nicht eine einzelne Einschleppung, initiiert wurde, gefolgt von der Verbreitung innerhalb des Landes.
 <br><br>
-While there are a few samples towards the bottom of the tree that are most closely related to Asian cases, the majority of Russian samples descend from European lineages.
+
+Der Grossteil der russischen Proben stammt von europaeischen Linien ab, waehrend einzelne Proben nahe der Wurzel des Baumes am naechsten mit Faellen aus Asien verwandt sind.
 
 <!-- There is no right side text -->
 
@@ -109,12 +110,12 @@ While there are a few samples towards the bottom of the tree that are most close
 <!-- This is left-side text 5-->
 # [Ein heterogener Ausbruch in Moskau](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
-An example of frequent importation can be seen by zooming in on samples from Moscow.
+Man kann ein Beispiel fuer mehrfache Einschleppugen sehen, indem man in die Proben aus Moskay zoomt.
 <br><br>
-There are a few clusters of cases which are most closely related to other samples from Moscow, indicating likely local transmission.
-However, most samples from Moscow are most closely related to samples from elsewhere, consistent with importation.
+Es gibt einige wenige Fallcluster, die am naechsten mit anderen Proben aus Moskau verwandt sind, was auf eine lokale Uebertragung hindeutet.
+Im Gegensatz dazu sind die meisten Proben aus Moskau am naechsten mit Proben aus anderen Regionen verwandt, was mit Import uebereinstimmt.
 <br><br>
-Given the number of confirmed cases in Moscow, it's likely that at least some of these introductions led to further local spread, but we don't yet have enough data to see this.
+Wenn man die Anzahl der Faelle in Moskau in Betracht zieht, ist es wahrscheinlich, dass zumindest einige dieser Einschleppungen zu lokalen Weiterverbreitungen gefuehrt haben, jedoch haben wir noch nicht genuegend Daten, um diese zu sehen.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
