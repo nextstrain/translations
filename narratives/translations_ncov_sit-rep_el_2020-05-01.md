@@ -130,27 +130,31 @@ This pattern is consistent with one of these introductions to St. Petersburg tak
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Five local transmission chains in the Czech Republic](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [5 τοπικές αλυσίδες μετάδοσης στην Τσεχική ΔημοκρατίαFive local transmission chains in the Czech Republic](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
-The data from the Czech Republic show a mix of these two patterns.
+Τα δεδομένα από την Τσεχική Δημοκρατία δείχνουν ένα συνδυασμό αυτών των δύο μοτίβων. The data from the Czech Republic show a mix of these two patterns.
 <br><br>
-There are at least 7 instances where a sample isolated in the Czech Republic descends from a virus that was mostly likely circulating elsewhere in Europe, indicating new introductions between March 1 and April 2.
+Υπάρχουν τουλάχιστον 7 περιπτώσεις όπου ένα δείγμα που απομονώθηκε στην Τσεχική Δημοκρατία προέρχεται από έναν ιό που πιθανότατα κυκλοφόρησε αλλού στην Ευρώπη, υποδεικνύοντας νέες εισαγωγές μεταξύ 1ης Μαρτίου και 2 Απριλίου.There are at least 7 instances where a sample isolated in the Czech Republic descends from a virus that was mostly likely circulating elsewhere in Europe, indicating new introductions between March 1 and April 2.
 <br><br>
-For 5 of these introductions, we also see closely related local cases, sampled over time. This is consistent with local transmission.
+Για 5 από αυτές τις εισαγωγές, βλέπουμε επίσης στενά σχετικές τοπικές περιπτώσεις, δείγματα με την πάροδο του χρόνου. Αυτό συμβαδίζει με την τοπική μετάδοση. For 5 of these introductions, we also see closely related local cases, sampled over time. This is consistent with local transmission.
 <br><br>
-From this, we can say that there were at least 7 introductions to the Czech Republic; at least 5 of these likely led to further local transmission.
+Από αυτό, μπορούμε να πούμε ότι υπήρχαν τουλάχιστον 7 εισαγωγές στην Τσεχική Δημοκρατία. τουλάχιστον 5 από αυτά πιθανότατα οδήγησαν σε περαιτέρω τοπική μετάδοση. From this, we can say that there were at least 7 introductions to the Czech Republic; at least 5 of these likely led to further local transmission.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Extensive mixing of cases across Turkey](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [Εκτεταμένη ανάμειξη περιπτώσεων σε όλη την Τουρκία Extensive mixing of cases across Turkey](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
-In the middle of the tree, we see a string of cases sampled from many different provinces around Turkey.
+Στη μέση του δέντρου, βλέπουμε μια σειρά από θήκες από πολλές διαφορετικές επαρχίες γύρω από την Τουρκία.
+Ορισμένες από αυτές τις περιπτώσεις έχουν αναφέρει ιστορικό ταξιδιού στη Σαουδική Αραβία, με επακόλουθες στενά σχετικές περιπτώσεις στην Τουρκία.In the middle of the tree, we see a string of cases sampled from many different provinces around Turkey.
 Some of these cases have reported travel history to Saudi Arabia, with subsequent closely related cases in Turkey.
 <br><br>
+Κανονικά, μπορούμε να υποθέσουμε ότι οι ταξιδιώτες που επέστρεψαν είχαν μεταδώσει τον ιό στα μέλη του νοικοκυριού ή τους γείτονες στο σπίτι τους.
 Normally, we might assume that returning travelers had passed the virus to household members or neighbors back home.
-Interestingly, though, the travelers' cases were often sampled from different provinces than the most closely related cases.
+Είναι ενδιαφέρον, ωστόσο, ότι στίς περιπτώσεις των ταξιδιωτών είχαν γινει οι δειγματοληψίες από διαφορετικές επαρχίες αντί των πιο στενά συνδεδεμένων περιπτώσεων. Interestingly, though, the travelers' cases were often sampled from different provinces than the most closely related cases.
 <br><br>
+Αυτό δείχνει ότι υπήρξε εκτεταμένη ανάμιξη ιογενών καταγωγών, που έφτασαν σε πολλές επαρχίες της Τουρκίας εντός μίας εβδομάδας.
 This indicates that there has been extensive mixing of viral lineages, reaching many provinces of Turkey within one week.
+Μπορεί επίσης να υποθέσουμε ότι μια μεγάλη συγκέντρωση θα μπορούσε να εξηγήσει αυτές τις παρατηρήσεις, αν και θα χρειαζόμασταν πρόσθετα επιδημιολογικά δεδομένα για περαιτέρω διερεύνηση.
 We may also speculate that a large gathering could explain these observations, although we would need additional epidemiological data to further investigate.
 <!-- There is no right-side text -->
 
