@@ -176,7 +176,7 @@ abstract: "يستخدم هذا التفرير الاسبوعي بينات الج
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+# [ماذا يمكنك أن تفعل](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 #### ...as an individual
 * Practice strict social distancing, especially if you are in a vulnerable group.
 * Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
@@ -194,19 +194,19 @@ abstract: "يستخدم هذا التفرير الاسبوعي بينات الج
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# العبر المستفادة
 
-#### SARS-COV-2 has been introduced to Russia many times; Moscow's outbreak is highly heterogeneous.
+#### تم ادخال سارس كو في 2 الى روسيا عدة مرات، الانتشار الوبائي في روسيا غير متجانس
 <br><br>
-#### There have been multiple introductions to St. Petersburg. One of these introductions, from Western Europe in early March, sparked a large cluster of locally transmitted cases.
+#### كان هناك عدة ادخالات الى سانت بطرسبرغ. احد هذه الادخالات من اوروبا الشرقية في بداية مارس اشعل تجمعا كبيراً لحالات انتشار محلي.
 <br><br>
-#### Following repeated travel-related introductions, there has been extensive and rapid mixing of viral lineages across Turkey.
+#### تاليا لحالات ادخال متكررة مرتبطة بالسفر كان هناك حالات خلط مكثف وسريع للاصول الفيروسية في كل تركيا
 <br><br>
-#### There are at least 5 local transmission chains circulating across the Czech Republic.  
+#### هناك على الاقل خمس سلاسل انتشار محلي في جمهورية التشيك. 
 <br><br>
-#### There have been at least 11 separate introductions of the virus to Poland.  
+#### كان هناك على الاقل احد عشر ادخالا منفصلاً للفيروي الى بولندا. 
 <br><br>
-#### We have receieved early samples from Hungary, Latvia, Slovakia and Slovenia. While we don't yet have enough data to draw conclusions, we will continue monitoring and provide updates as soon as possible.
+#### استلمنا عينات مبكرة من هنغاريا، لاتفيا، سلوفاكيا وسلوفينيا. لا نمتلك حتى الآن بيانات كافية للوصول الى استنتاجات وسنستمر بالمتابعة والتحديث بأسرع وقت ممكن
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -219,14 +219,14 @@ abstract: "يستخدم هذا التفرير الاسبوعي بينات الج
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [الحقوق العلمية](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+نود ان نقدر هنا العمل الرائع وفي الوقت المطلوب من قبل كل العلماء الذين انخرطوا في هذا الوباء.
+ما كان لهذه التحليلات ان تكون ممكنة لولا  المشاركة السريعة للبيانات الجينومية 
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/blob/e8020ca13e420bb62e31acf9a07268bc08b11c63/narratives/sit-rep_credits.md).
+التسلسلات الخاصة والتي تم تزويدها من كل مختبر [مدرجة هنا](https://github.com/nextstrain/ncov/blob/e8020ca13e420bb62e31acf9a07268bc08b11c63/narratives/sit-rep_credits.md).
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+نحن ممتنون أيضاً ل GISAID لتوفيرهم منصتهم والتي تم من خلالها رفع البيانات ومشاركتها
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
