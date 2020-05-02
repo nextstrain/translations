@@ -37,15 +37,15 @@ abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śl
 <!-- This is left-side text 1-->
 # [Spis treści](https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed)
 
-* [Wstęp i materiały](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-04-24?n=2).     
-* [O danych](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=3).
-* [Aktualizacja sytuacji w Rosji](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=4).
-* [Aktualizacja sytuacji w Czechach](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=7).
-* [Aktualizacja sytuacji w Turcji](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=8).
-* [Aktualizacja sytuacji w Polsce](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=9).
-* [Dane z Węgier, Słowacji, Słowenii i Łotwy](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=10).
-* [Co możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=11).
-* [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=12).
+* [Wstęp i materiały](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-01?n=2).     
+* [O danych](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-01?n=3).
+* [Aktualizacja sytuacji w Rosji](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-01?n=4).
+* [Aktualizacja sytuacji w Czechach](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-01?n=7).
+* [Aktualizacja sytuacji w Turcji](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-01?n=8).
+* [Aktualizacja sytuacji w Polsce](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-01?n=9).
+* [Dane z Węgier, Słowacji, Słowenii i Łotwy](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-01?n=10).
+* [Co możesz zrobić](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-01?n=11).
+* [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-01?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
