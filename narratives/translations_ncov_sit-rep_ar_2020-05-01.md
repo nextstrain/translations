@@ -75,7 +75,7 @@ abstract: "يستخدم هذا التقرير الاسبوعي بيانات ال
 * [مفاهيم خاطئة شائعة](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-03-13?n=11).
 
 #### مصادر خارجية
-* [How SARS-CoV-2 mutates and spreads](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [كيف يتحور SARS-Cov-2 وينتشر](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
 * [اسأل عالمأ والاسئلة الشائعة](https://covid19.fas.org/).
 * [تقارير منظمة الصحة العالمية](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [مصادر مركز مكافحة الأمراض الأمريكي](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
