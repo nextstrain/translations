@@ -97,7 +97,7 @@ Na przykład, mapa pokazuje wiele sekwencji z Islandii, Wielkiej Brytanii i Hola
 <!-- This is left-side text 4-->
 # [Liczne introdukcje do Rosji](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
-Zaznaczając próbki z Rosji, widzimy, że są rozsiane geograficznie (w Rosji) i genomicznie (na drzewie). 
+Zaznaczając próbki z Rosji, widzimy, że są rozsiane geograficznie (w poprzek Rosji) i genomicznie (w poprzek drzewa). 
 <br><br>
 To pokazuje, że epidemia w Rosji została zainicjowana przez wiele odrębnych introdukcji, a nie przez pojedynczą introdukcję i następujące rozprzestrzenienie się w obrębie kraju. 
 <br><br>
