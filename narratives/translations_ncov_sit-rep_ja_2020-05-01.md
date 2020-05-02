@@ -134,28 +134,28 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Five local transmission chains in the Czech Republic](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [チェコでの5つの地域関連の連鎖](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
-The data from the Czech Republic show a mix of these two patterns.
+チェコからのデータはこのような2つのパターンが混在が現れています。
 <br><br>
-There are at least 7 instances where a sample isolated in the Czech Republic descends from a virus that was mostly likely circulating elsewhere in Europe, indicating new introductions between March 1 and April 2.
+チェコで単離されヨーロッパの他の場所の大部分で流行しているウイルスが由来となっている、サンプルは7例あり、3月1日から4月2日の間で新たな伝搬があったことを示唆しています。
 <br><br>
-For 5 of these introductions, we also see closely related local cases, sampled over time. This is consistent with local transmission.
+これらの伝搬のうち5つに関しては、経時的に収集されている、地域での症例と非常に強い関係も見ることができます。
 <br><br>
-From this, we can say that there were at least 7 introductions to the Czech Republic; at least 5 of these likely led to further local transmission.
+このことから、チェコには少なくとも7回伝搬があり、このうち5回の伝搬によってさらなる地域での感染につながった可能性があるということができます。
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Extensive mixing of cases across Turkey](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [トルコ各地での症例の広範囲での混合](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
-In the middle of the tree, we see a string of cases sampled from many different provinces around Turkey.
-Some of these cases have reported travel history to Saudi Arabia, with subsequent closely related cases in Turkey.
+系統樹の中央に、トルコ中の多数の様々な地方から収集された症例の列が見られます。
+これらの症例の中には、サウジアラビアへの渡航履歴が報告され、トルコ国内で関連が強く、それに続くような症例があるものもあります。
 <br><br>
-Normally, we might assume that returning travelers had passed the virus to household members or neighbors back home.
-Interestingly, though, the travelers' cases were often sampled from different provinces than the most closely related cases.
+通常、帰ってきた旅行者が、自国でウイルスを同居者や近隣の人々に伝染させてしまうことを私たちは想定するかもしれません。
+興味深いことに、そうではなく最も強く関連する症例よりも、異なる周から収集されることの頻度のほうが高いです。
 <br><br>
-This indicates that there has been extensive mixing of viral lineages, reaching many provinces of Turkey within one week.
-We may also speculate that a large gathering could explain these observations, although we would need additional epidemiological data to further investigate.
+このことは1週間のうちに、ウイルスの系統が広範囲で混合され、トルコの多数の地方に達していることを示唆しています。
+さらなる調査には疫学的データの追加が必要ですが、このように観測されたことは大規模な集会によっても説明できると推測してもよいかもしれません。
 <!-- There is no right-side text -->
 
 
@@ -163,55 +163,55 @@ We may also speculate that a large gathering could explain these observations, a
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [At least 11 introductions to Poland](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [ポーランドへの少なくとも11度の伝搬](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
 
-We have 15 sequences from Poland on Nextstrain. Of these 15, at least 11 of them represent separate introductions from elsewhere in the world.
-As in Moscow, given the number of reported cases, we might expect that several of these introductions have seeded local transmission chains in Poland, but we can't yet see this in the genomic data.
+Nextstrain上では15のポーランドからの遺伝子配列があります。これら15のうち少なくとも11サンプルは世界の他の地域からの独立した伝搬であることを表しています。
+モスクワのように、報告された症例数を考慮すると、これらのうちのいくつかの伝播によって、ポーランド国内での感染の連鎖が発生したと考えることができるかもしれませんが、ゲノムデータからはこのことはまだ見えていません。
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Early samples from Hungary, Latvia, Slovakia and Slovenia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [ハンガリー、ラトビア、スロバキア、スロベニアからの早期のサンプル](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
-In March, 20 sequences were submitted from Hungary, Latvia, Slovakia, and Slovenia.
-While we don't yet have enough data from these countries to draw firm conclusions, we applaud these early efforts and will continue to monitor the incoming data.
+3月、ハンガリー、ラトビア、スロバキア、スロベニアから20の遺伝子配列が提供されました。
+これらの国からのデータは確かな結論を述べるにはまだ十分ではありませんが、私たちはこのような早期の尽力を称賛していますし、受け取るデータを引き続き注視していきます。
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [私たちができること](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...個人ができること
+* 社会的距離を保つことを厳格に実践してください。重症化しやすいグループに属している場合には特に。
+* あなたが健康であるとしても、他の人を守るために社会的距離を保つことを実践して下さい。
+* 良く手を洗って下さい（辛いものを触ったあとにコンタクトレンズを交換する時のように）。
+* できるだけ家にいましょう（特に体調の悪い時は）。自主的な隔離に備えて、いくつかの追加の備品を用意しておきましょう。
+* あなたが雇用主である場合は、可能な限り自宅で仕事をするよう従業員に勧めてください。
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...行政機関ができること 
+* 検査を広く、無料で利用出来るようにすること。
+* 社会的な距離を保つ為の措置を強力にとること。
+* 広範囲な接触追跡作業に資金を提供し、実施すること。
+* 社会的距離に関する措置の影響を受ける人々を経済的に支援すること。
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# まとめ
 
-#### SARS-COV-2 has been introduced to Russia many times; Moscow's outbreak is highly heterogeneous.
+#### SARS-COV-2 はロシアに何度も伝搬しています、モスクワでの感染拡大は非常に不均質です
 <br><br>
-#### There have been multiple introductions to St. Petersburg. One of these introductions, from Western Europe in early March, sparked a large cluster of locally transmitted cases.
+#### サンクトペテルブルグへ複数回伝搬がありました。これらのうちの一つ、3月のはじめごろにヨーロッパ西部由来のものですが、によって地域での感の染症例の大規模なクラスターが発生しました。
 <br><br>
-#### Following repeated travel-related introductions, there has been extensive and rapid mixing of viral lineages across Turkey.
+#### 旅行に関係する幾度もの伝搬に続いて、トルコ各地でのウイルスの系統が広範囲かつ素早い混合が発生しています。
 <br><br>
-#### There are at least 5 local transmission chains circulating across the Czech Republic.  
+#### 少なくとも5度の地域での感染の連鎖がチェコ各地で発生しています。
 <br><br>
-#### There have been at least 11 separate introductions of the virus to Poland.  
+#### ポーランドへの少なくとも11度の独立したウイルスの伝搬がありました。　
 <br><br>
-#### We have receieved early samples from Hungary, Latvia, Slovakia and Slovenia. While we don't yet have enough data to draw conclusions, we will continue monitoring and provide updates as soon as possible.
+#### ハンガリー、ラトビア、スロバキア、スロベニアから早い段階でサンプルを受け取りました。結論を導くにはデータが十分ではないですが、注視を継続し、可能な限り早く更新を行う予定です。
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -224,20 +224,21 @@ While we don't yet have enough data from these countries to draw firm conclusion
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [分析データのクレジット](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+私たちはこの感染症流行の中において、関係したすべての科学者、中国で働いている科学者による驚くべきタイムリーな研究に謝意を表します。 この分析は世界中の科学者や医師によるゲノム配列や病例に関するメタデータの共有があって可能になりました。
+
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/blob/e8020ca13e420bb62e31acf9a07268bc08b11c63/narratives/sit-rep_credits.md).
+各研究室から提供された特定の遺伝子配列は [こちらに一覧になっています](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md) 。
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+
+また、これらのデータをアップロードおよび共有できるプラットフォームを提供してくれた [GISAID](https://gisaid.org) にも感謝します。
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+私たちはこれらの研修室によって集積されたデータに感謝します:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
