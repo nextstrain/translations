@@ -19,10 +19,8 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
   - Anna Fijarczyk
-  - Marta Niedzicka
 translatorLinks:
   - https://twitter.com/afijarczyk
-  - https://www.researchgate.net/profile/Marta_Niedzicka
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed"
@@ -51,10 +49,10 @@ abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śl
 ```auspiceMainDisplayMarkdown
 # Streszczenie
 
-Przeanalizowaliśmy 4,442</tag> publicznie dostępnych genomów SARS-CoV-2. Porównując je, potrafimy ocenić, w jaki sposób wirus COVID-19 rozprzestrzenia się po świecie i lokalnie. W tym tygodniu koncentrujemy się na Środkowej i Wschodnie Europie i opisujemy:
+Przeanalizowaliśmy 4,442</tag> publicznie dostępne genomy SARS-CoV-2. Porównując je, potrafimy ocenić, w jaki sposób wirus COVID-19 rozprzestrzenia się po świecie i lokalnie. W tym tygodniu koncentrujemy się na Środkowej i Wschodnie Europie i opisujemy:
 
 * Liczne introdukcje do Moskwy
-* Zróżnicowane źródła epidemii w Moskwie
+* Różne źródła epidemii w Moskwie
 * Większa część epidemii w Petersburgu związana z pojedynczą introdukcją, najprawdopodobniej z Zachodniej Europy
 * Rozległe mieszanie się przypadków w Turcji po wielokrotnych introdukcjach związanych z podróżą
 * Co najmniej 5 lokalnych łańcuchów transmisji w Czechach, najprawdopodobniej powiązanych z wielokrotnymi introdukcjami z Zachodniej Europy
@@ -97,26 +95,38 @@ Na przykład, mapa pokazuje wiele sekwencji z Islandii, Wielkiej Brytanii i Hola
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Many introductions to Russia](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [Liczne introdukcje do Rosji](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
-Highlighting samples from Russia, we see that they are scattered both geographically (across Russia) and genomically (across the tree).
+Zaznaczając próbki z Rosji, widzimy, że są rozsiane geograficznie (w Rosji) i genomicznie (na drzewie). 
+<br><br>
+To pokazuje, że epidemia w Rosji została zainicjowana przez wiele odrębnych introdukcji, a nie przez pojedynczą introdukcję i następujące rozprzestrzenienie się w obrębie kraju. 
+<br><br>
+Podczas gdy niewiele próbek znajdujących się na dole drzewa jest związana z przypadkami w Azji, większość rosyjskich próbek wywodzi się z wariantów europejskich.
+
+<!-- Highlighting samples from Russia, we see that they are scattered both geographically (across Russia) and genomically (across the tree).
 <br><br>
 This indicates that the epidemic in Russia was sparked by many separate introductions, rather than a single introduction followed by within-country spread.
 <br><br>
-While there are a few samples towards the bottom of the tree that are most closely related to Asian cases, the majority of Russian samples descend from European lineages.
+While there are a few samples towards the bottom of the tree that are most closely related to Asian cases, the majority of Russian samples descend from European lineages.-->
 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Heterogeneous outbreak in Moscow](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [Różne źródła epidemii w Moskwie](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
-An example of frequent importation can be seen by zooming in on samples from Moscow.
+Jeden przykład częstego importu wirusa jest widoczny po przybliżeniu przypadków z Moskwy.
+<br><br>
+Widocznych jest tam kilka klastrów z przypadkami powiązanymi z innymi próbkami z Moskwy, wskazując na prawdopodobną lokalną transmisję. Jednak więszość próbek z Moskwy jest blisko spokrewniona z próbkami z innych miejsc, co jest zgodne z importem wirusa z innych regionów. 
+<br><br>
+Biorąc pod uwagę liczbę potwierdzonych przypadków w Moskwie <!-- chyba o to chodzi? -->, jest prawdpopodobne, że przynajmniej część tych introdukcji doprowadziła do dalszego lokalnego rozprzestrzenienia się wirusa, ale nie mamy jeszcze wystarczającej ilości danych aby to zaobserwować.
+
+<!-- An example of frequent importation can be seen by zooming in on samples from Moscow.
 <br><br>
 There are a few clusters of cases which are most closely related to other samples from Moscow, indicating likely local transmission.
 However, most samples from Moscow are most closely related to samples from elsewhere, consistent with importation.
 <br><br>
-Given the number of confirmed cases in Moscow, it's likely that at least some of these introductions led to further local spread, but we don't yet have enough data to see this.
+Given the number of confirmed cases in Moscow, it's likely that at least some of these introductions led to further local spread, but we don't yet have enough data to see this. -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
