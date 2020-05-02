@@ -35,8 +35,8 @@ abstract: "Esse relatório utiliza dados genômicos compartilhados publicamente 
 <!-- This is left-side text 1-->
 # [Fontes e Recursos](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [Sobre os dados](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
+* [Antecedentes](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
+* [Sobre os dados](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
 * [Atualizações sobre Nova Iorque](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
 * [Atualizações sobre a Califórnia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
 * [Atualizações sobre o Centro-Oeste americano](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
@@ -48,14 +48,14 @@ abstract: "Esse relatório utiliza dados genômicos compartilhados publicamente 
 ```auspiceMainDisplayMarkdown
 # Resumo
 
-Analisamos 1347 genomas do SARS-CoV-2 dos Estados Unidos que foram compartilhados publicamente. Ao comparar esses genomas virais uns com os outros, podemos caracterizar como o SARS-CoV-2 (que causa COVID-19) está se movendo ao redor do mundo e se espalhando localmente. No relatório dessa semana, reportamos que:  
+Analisamos 1347 genomas do SARS-CoV-2 dos Estados Unidos que foram compartilhados publicamente. Ao comparar esses genomas virais uns com os outros, podemos caracterizar como o SARS-CoV-2 (que causa a COVID-19) está se movendo ao redor do mundo e se espalhando localmente. No relatório dessa semana, reportamos que:  
 
 * O surto de Nova Iorque tem origens cosmopolitas, mas a maioria dos casos é atribuída a introduções da Europa.   
 * O surto na cidade de Nova Iorque mostra uma mistura de casos em todos os seus 5 distritos.
-* O surto na Califórnia está relacionado tanto ao estado de Washington (que é próximo), quanto à distante Nova Iorque.  
-* O surto no Centro-Oeste é heterogêneo e é o resultado de muitas introduções independentes.
+* O surto na Califórnia está relacionado tanto ao estado limítrofe de Washington, quanto à distante Nova Iorque.  
+* O surto no Centro-Oeste é heterogêneo e é resultado de muitas introduções independentes.
 * Os surtos em andamento em Utah e Idaho estão intimamente relacionados.
-* As decisões tomadas por cada estado impactam profundamente o destino dos outros. Facilitar restrições com segurança em qualquer estado exigirá contenção coordenada, com todos os estados atuando para proteger uns aos outros.
+* As decisões tomadas por cada estado impactam profundamente o destino dos outros. Afrouxar as restrições com segurança em qualquer estado exigirá contenção coordenada, com todos os estados atuando para proteger uns aos outros.
 
 
 ```
