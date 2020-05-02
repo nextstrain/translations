@@ -51,13 +51,13 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 
 我们分析了 4,442 个公开共享的新冠病毒基因组。通过将这些病毒基因组相互比较，我们可以描述新冠病毒是如何在世界各地迁移和在社区中传播的。本周，我们关注中欧和东欧的疫情。我们报告：
 
-* 病毒多次输入俄罗斯Many introductions to Russia  
-* 莫斯科疫情的复杂性Heterogeneous outbreak in Moscow  
-* 圣彼得堡的疫情主要来自单次输入事件，最有可能是来自西欧Majority of St. Petersburg outbreak tied to a single introduction, most likely from Western Europe  
-* 在反复多次被旅行有关的病例输入后，土耳其各地的疫情呈现广泛的混杂Extensive mixing of cases across Turkey following repeated travel-related introductions  
-* 捷克至少存在5个本地传播链，最有可能是因为从西欧的反复输入At least 5 local transmission chains in the Czech Republic, mostly likely due to repeated introductions from Western Europe
-* 病毒至少被11次独立地传入波兰At least 11 separate introductions to Poland
-* 关于匈牙利、拉脱维亚、波兰、斯洛伐克和斯洛文尼亚的早期样本Early samples from Hungary, Latvia, Poland, Slovakia and Slovenia  
+* 病毒多次输入俄罗斯
+* 莫斯科疫情的复杂性 
+* 圣彼得堡的疫情主要来自单次输入事件，最有可能源自西欧
+* 土耳其曾经历反复多次的与旅行有关的输入事件，国内各地的疫情现已广泛地混杂在一起
+* 捷克至少存在5个本地传播链，最有可能来源于西欧的反复输入
+* 病毒被独立地传入波兰至少11次
+* 关于匈牙利、拉脱维亚、斯洛伐克和斯洛文尼亚的早期样本的情况
 ```
 
 
@@ -95,69 +95,60 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [病毒多次输入俄罗斯Many introductions to Russia](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [病毒多次输入俄罗斯](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
-此图中高亮了来自俄罗斯的样本。我们看到，它们既在地理上散布俄罗斯各地，也在基因组层面上散布在整棵演化树上。Highlighting samples from Russia, we see that they are scattered both geographically (across Russia) and genomically (across the tree).
+此图中高亮了来自俄罗斯的样本。我们看到，这些样本既在地理上散布俄罗斯各地，也在基因组水平上散布在整棵演化树各处。
 <br><br>
-这表明，俄罗斯的疫情始于多次独立的输入事件，而不是病毒输入该国一次之后在国内传播开来。This indicates that the epidemic in Russia was sparked by many separate introductions, rather than a single introduction followed by within-country spread.
+这表明俄罗斯的疫情是由多次独立的输入事件引发的，而不是病毒在单次输入之后扩散到全国各地。
 <br><br>
-虽然树的底部有几个俄罗斯的样本与亚洲的样本亲缘关系最近，但大部分的俄罗斯样本是欧洲样本组成的演化支的后裔。While there are a few samples towards the bottom of the tree that are most closely related to Asian cases, the majority of Russian samples descend from European lineages.
+虽然树的底部有几个样本与亚洲的样本亲缘关系最近，但大部分的俄罗斯样本是欧洲样本所属演化支的后裔。
 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [莫斯科疫情的复杂性Heterogeneous outbreak in Moscow](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
-
-现在来看树的局部，来自莫斯科的样本，这个例子表明了频繁的输入事件。An example of frequent importation can be seen by zooming in on samples from Moscow.
+# [莫斯科疫情的复杂性](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+现在我们来重点关注莫斯科的样本，这个例子表明该地区经历了频繁的输入事件。
 <br><br>
-这里有几簇样本，与莫斯科的其他样本最为接近，表明当地很有可能存在本地传播。There are a few clusters of cases which are most closely related to other samples from Moscow, indicating likely local transmission.
-然而，莫斯科的大多数样本都是与其他地方的样本最为接近，也就是说发生了输入事件。
-However, most samples from Moscow are most closely related to samples from elsewhere, consistent with importation.
+图中有几簇样本与同样来自莫斯科的其他样本最为接近，表明当地很有可能存在本地传播。
+然而，莫斯科的大多数样本都是与该市之外的样本最为接近，也就是说发生了多次输入事件。
 <br><br>
-基于莫斯科已知的确诊病例数量，很有可能至少其中一些输入事件导致了进一步的本地传播，但我们还没有足够的数据能看到这一点。
-Given the number of confirmed cases in Moscow, it's likely that at least some of these introductions led to further local spread, but we don't yet have enough data to see this.
+如果我们考虑莫斯科已知的确诊病例数量，那么这些输入事件中，应该至少有一部分进一步导致了本地传播，但我们还没有足够的数据来看到这一点。
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [圣彼得堡Large outbreak cluster in St. Petersburg, sparked in early March](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [圣彼得堡存在大型本地传播链，起源于三月上旬](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 圣彼得堡的情况则与莫斯科相反。
 <br><br>
-与莫斯科相似的是，圣彼得堡的样本散布在树的各处，表明曾发生了多次输入事件。As with Moscow, there are samples from St. Petersburg across the tree, indicating that there have been multiple introductions.
-而截然不同的是，您可以在本报告的末尾点击“探索数据（Explore the Data Yourself）”，然后把本图中部的这个样本簇放大，就可以看到，这一大支样本都来自圣彼得堡的病例。Contrastingly, if you click 'Explore the Data Yourself' and zoom into the main cluster in the center of this view, we can see a large clade that is made up entirely of samples from St. Petersburg.
+与莫斯科相似的是，圣彼得堡的样本散布在演化树的各处，表明当地曾经历多次输入事件。
+但与莫斯科截然不同的是，如果您在本报告的末尾点击“探索数据（Explore the Data Yourself）”，然后把本图中部的这个样本簇放大，就可以看到，这一大支中的样本全都来自圣彼得堡。
 <br><br>
-这个现象表明，在圣彼得堡经历的这些输入事件之中，有一次事件引发了全城的广泛传播，大约在三月的第一周开始。这个大型的样本簇与西欧的样本亲缘关系最近，但也不能排除病毒经由未被抽样到的其他地区传入的可能性。
-This pattern is consistent with one of these introductions to St. Petersburg taking off to spark widespread transmission across the city, starting around the first week of March. This large outbreak cluster is most closely related to samples from Western Europe, although we cannot rule out the possibility of an unsampled, intermediate transmission from elsewhere.
+这个现象表明，在圣彼得堡所经历的这些输入事件之中，有一次事件引发了病毒在全城的广泛传播，起始时间大约是三月的第一周。这个大型的样本簇与西欧的样本亲缘关系最近，但也不能排除病毒经由未被抽样到的其他地区传入的可能性。
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
 # [捷克存在五个本地传播链](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
-数据显示，捷克的情况是两种情况的混合体。The data from the Czech Republic show a mix of these two patterns.
+数据显示，捷克的情况是莫斯科和圣彼得堡两种情况的混合体。
 <br><br>
-有7处，在捷克采集到的样本的祖先最有可能是在欧洲其他地区流传的病毒，表明在3月1日至4月2日之间的新的输入事件。There are at least 7 instances where a sample isolated in the Czech Republic descends from a virus that was mostly likely circulating elsewhere in Europe, indicating new introductions between March 1 and April 2.
+图中有7处显示，在捷克采集到的样本最有可能是在欧洲其他地区流行的病毒的后代，表明在3月1日至4月2日之间发生了新的输入事件。
 <br><br>
-其中的5次输入事件，我们也看到了与之紧密相关的本地病例，在一段之间内采集得到，意味着本地传播链的存在。For 5 of these introductions, we also see closely related local cases, sampled over time. This is consistent with local transmission.
+而对于其中的5次输入事件，我们也看到了与之紧密相关的、采集时间分散的本地病例，意味着本地传播链的存在。
 <br><br>
-由此，我们可以总结出，捷克至少经历了7次输入事件，其中有至少5个事件很有可能进一步引发了本地传播链。From this, we can say that there were at least 7 introductions to the Czech Republic; at least 5 of these likely led to further local transmission.
+由此，我们可以总结出，捷克经历了至少7次输入事件，其中有至少5个事件很有可能进一步引发了本地传播链。
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [土耳其各地的疫情存在大量混杂Extensive mixing of cases across Turkey](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [土耳其各地的疫情广泛地混杂在一起](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
-在树的中部，我们看到有一串病例，在土耳其的各省采集得到。In the middle of the tree, we see a string of cases sampled from many different provinces around Turkey.
-其中有一些病例报告有沙特阿拉伯的旅行史，后续又有土耳其的病例与它紧密相关。
-Some of these cases have reported travel history to Saudi Arabia, with subsequent closely related cases in Turkey.
+在树的中部，我们看到有一串病例是在土耳其的很多不同省份采集得到的。
+其中有一些病例报告有去往沙特阿拉伯的旅行史，而后续又出现了与之紧密相关的、土耳其的本土病例。
 <br><br>
-Normally, we might assume that returning travelers had passed the virus to household members or neighbors back home.
-Interestingly, though, the travelers' cases were often sampled from different provinces than the most closely related cases.
-通常情况下，我们可能会假设这些回国的旅客在家里把病毒传给了家人或邻居。但有意思的是，这些旅客的样本和与之亲缘关系最近的样本经常是在不同省份采集到的。
+通常情况下，我们可能会假设这些回国的旅客在居住地把病毒传给了家人或邻居。但有意思的是，与这些旅客的样本亲缘关系最近的样本常常是在另一个省份采集到的。
 <br><br>
-This indicates that there has been extensive mixing of viral lineages, reaching many provinces of Turkey within one week.
-We may also speculate that a large gathering could explain these observations, although we would need additional epidemiological data to further investigate.
-这表明，不同谱系来源的病毒已经充分混杂在一起，在一周之内就到达了土耳其的很多省份。我们也推测，如果有大型集会的话，就可以解释这个现象，但我们需要更多的流行病学数据来进一步研究。
+这个现象表明，不同谱系来源的病毒已经充分混杂在一起，在一周之内就到达了土耳其的很多省份。我们也可以推想，这个现象或许可以由某个大型集会来解释，但我们需要更多的流行病学数据来进行深入研究。
 <!-- There is no right-side text -->
 
 
@@ -167,9 +158,8 @@ We may also speculate that a large gathering could explain these observations, a
 <!-- This is left-side text 9-->
 # [病毒至少被输入波兰11次](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
 
-Nextstrain收录了15条来自波兰的基因组。在15条基因组中，至少有11条是代表着从世界其他地区独立输入的。 Of these 15, at least 11 of them represent separate introductions from elsewhere in the world.
-As in Moscow, given the number of reported cases, we might expect that several of these introductions have seeded local transmission chains in Poland, but we can't yet see this in the genomic data.
-与莫斯科的情况相似，基于目前的确诊病例数量，我们推测其中的几次输入事件可能引发了波兰的本地传播链，但我们目前还无法在基因组数据中看到这一点。
+Nextstrain收录了15条来自波兰的基因组。在15条基因组中，至少有11条代表了来自世界其他地区的独立输入事件。
+与莫斯科的情况相似，根据目前波兰的确诊病例数量，我们预想这其中可能有几次输入事件引发了波兰的本地传播链，但我们目前还无法在基因组数据中看到这一点。
 <!-- There is no right-side text -->
 
 
@@ -177,9 +167,9 @@ As in Moscow, given the number of reported cases, we might expect that several o
 <!-- This is left-side text 10-->
 # [匈牙利、拉脱维亚、斯洛伐克和斯洛文尼亚的早期样本](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
-三月时，匈牙利、拉脱维亚、斯洛伐克和斯洛文尼亚等国提交了20条序列。
-虽然我们还没有来自这些国家的足够多的数据来得出确切的结论，但我们感谢当地的早期工作，并会继续密切关注当地的新数据。
-While we don't yet have enough data from these countries to draw firm conclusions, we applaud these early efforts and will continue to monitor the incoming data.
+匈牙利、拉脱维亚、斯洛伐克和斯洛文尼亚等国在三月提交了20条序列。
+虽然对于这些国家，我们还没有足够的数据来得出确切的结论，但我们感谢这些早期工作，并会继续密切关注当地的新数据。
+
 <!-- There is no right-side text -->
 
 
@@ -206,15 +196,15 @@ While we don't yet have enough data from these countries to draw firm conclusion
 
 #### 新冠病毒曾多次输入俄罗斯；莫斯科的疫情高度复杂。
 <br><br>
-#### 病毒曾多次输入圣彼得堡，其中一次在三月上旬来源于西欧的输入事件，引发了当地的一个大型本地传播链。There have been multiple introductions to St. Petersburg. One of these introductions, from Western Europe in early March, sparked a large cluster of locally transmitted cases.
+#### 病毒曾多次输入圣彼得堡，其中一起发生在三月上旬、来源于西欧的输入事件引发了当地的一个大型本地传播链。
 <br><br>
-#### 土耳其曾经历反复多次的与旅行相关的输入事件，国内各地的病毒谱系已广泛、快速地混杂在一起。Following repeated travel-related introductions, there has been extensive and rapid mixing of viral lineages across Turkey.
+#### 土耳其曾经历反复多次的与旅行相关的输入事件，国内各地的病毒谱系已广泛、快速地混杂在一起。
 <br><br>
-#### 捷克至少存在5个本地传播链。
+#### 捷克存在至少5个本地传播链。
 <br><br>
 #### 病毒被独立地输入波兰至少11次。
 <br><br>
-#### 我们收到了来自匈牙利、拉脱维亚、斯洛伐克和斯洛文尼亚等地的早期样本。虽然我们还没有足够的数据来作出结论，我们会继续密切关注当地数据，尽快提供当地的最新情况。We have receieved early samples from Hungary, Latvia, Slovakia and Slovenia. While we don't yet have enough data to draw conclusions, we will continue monitoring and provide updates as soon as possible.
+#### 我们收到了来自匈牙利、拉脱维亚、斯洛伐克和斯洛文尼亚等地的早期样本。虽然我们还没有足够的数据来作出结论，但我们会继续密切关注当地数据，尽快提供对当地最新情况的分析。
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
