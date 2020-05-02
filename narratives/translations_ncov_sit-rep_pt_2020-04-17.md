@@ -83,11 +83,11 @@ Preparamos alguns materiais que tornarão mais fácil a interpretação dos dado
 
 <!-- This is left-side text 3-->
 # [Observação sobre amostragem](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=map&f_country=USA&p=full&r=division)
-Atualmente temos amostras colectadas e sequenciadas em 36 estados. Isso é um feito incrível — sequenciar um vírus de RNA longo e desconhecido em meio a uma pandemia é difícil, e só é possível através do incrível trabalho e rápido compartilhamento de dados por cientistas e médicos em todo o mundo.
+Atualmente temos amostras colectadas e sequenciadas em 36 estados. Isso é um feito incrível — sequenciar um vírus desconhecido de RNA longo em meio a uma pandemia é difícil, e só é possível através do incrível trabalho e rápido compartilhamento de dados por cientistas e médicos em todo o mundo.
 <br><br>
-Embora esses dados nos permitam inferir muitas características úteis do surto e rastrear seu espalhamento em tempo real, é importante enfatizar que nossas conclusões são limitadas pela quantidade de dados disponíveis no momento.
+Embora esses dados nos permitam inferir muitas características úteis do surto e rastrear seu espalhamento em tempo real, é importante enfatizar que nossas conclusões estão limitadas pela quantidade de dados disponíveis no momento.
 <br><br>
-Por exemplo, o mapa mostra muitas poucas sequências na região central dos Estados Unidos. Isso NÃO É porque o COVID-19 não está circulando nessas áreas, ou que esses casos não sejam importantes para entender a epidemia; pelo contrário, apenas não temos muitos dados disponíveis dessas áreas. O tamanho de cada círculo no mapa indica a quantidade de dados atualmente disponíveis sobre essa área, e não o tamanho real do surto.
+Por exemplo, o mapa mostra muitas poucas sequências na região central dos Estados Unidos. Isso NÃO É porque o COVID-19 não está circulando nessas áreas, ou que esses casos não sejam importantes para entender a epidemia; pelo contrário, apenas não temos muitos dados disponíveis dessas áreas. O tamanho de cada círculo no mapa indica a quantidade de dados atualmente disponíveis sobre essa área e não o tamanho real do surto.
 
 <!-- There is NO right-side text -->
 
@@ -108,7 +108,7 @@ O agrupamento de Nova Iorque é cercado e intercalado com seqüências da Europa
 
 Boa parte do surto de Nova Iorque foi resultado de introdução(ões) européia(s). Mas as seqüências contextuais de outras regiões do mundo nos permitem ver introduções adicionais na cidade. Fiel à sua natureza cosmopolita, há casos em Nova Iorque intimamente relacionados a amostras de todas as outras regiões do mundo além da Europa.
 <br><br>
-Os primeiros casos de Nova Iorque provavelmente representam transmissões de entrada. Mais tarde, no surto, vemos muito mais mistura entre amostras européias e de Nova Iorque, tornando menos clara a direção das transmissões posteriores. Conforme relatamos na [semana passada](https://nextstrain.org/community/narratives/nextstrain/translations@sit-rep_pt/ncov/sit-rep/pt/2020-04-10?f_region=Asia&n=11), também há evidências de reintroduções recentes dos EUA para a Europa e Ásia.
+Os primeiros casos de Nova Iorque provavelmente representam transmissões de entrada. Mais tarde, no surto, vemos uma maior mistura entre amostras européias e de Nova Iorque, tornando menos clara a direção das transmissões posteriores. Conforme relatamos na [semana passada](https://nextstrain.org/community/narratives/nextstrain/translations@sit-rep_pt/ncov/sit-rep/pt/2020-04-10?f_region=Asia&n=11), também há evidências de reintroduções recentes dos EUA para a Europa e Ásia.
 
 <!-- There is no right side text -->
 
