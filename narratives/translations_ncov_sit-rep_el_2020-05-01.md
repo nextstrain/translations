@@ -27,7 +27,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed"
 date: "1η Μαΐου 2020"
-abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποιεί δεδομένα που είναι δημοσίως διαθέσιμα για την ιχνηλάτηση της εξάπλωσης της ασθένειας COVID-19. Αυτή την εβομάδα εστιάζουμε στην Κεντρική και Ανατολική Ευρώπη This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on outbreak dynamics in Central and Eastern Europe."
+abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποιεί δεδομένα που είναι δημοσίως διαθέσιμα για την ιχνηλάτηση της εξάπλωσης της ασθένειας COVID-19. Αυτή την εβομάδα εστιάζουμε στην Κεντρική και Ανατολική Ευρώπη."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -37,12 +37,12 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 <!-- This is left-side text 1-->
 # [Περιεχόμενα](https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed)
 
-* [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=2).     
+* [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=2).
 * [Σχετικά με τα δεδομένα που παρουσιάζουμε](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=3).
 * [Ενημερώσεις για τη Ρωσία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=4).
-* [Ενημερώσεις για τη Τσεχική Δημοκρατία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=7).
-* [Ενημερώσεις για τη Τουρκία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=8).
-* [Ενημερώσεις για τη Πολωνία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=9).
+* [Ενημερώσεις για την Τσεχία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=7).
+* [Ενημερώσεις για την Τουρκία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=8).
+* [Ενημερώσεις για την Πολωνία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=9).
 * [Δεδομένα από Ουγγαρία, Σλοβακία και Λετονία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=10).
 * [Τι μπορείτε να κάνετε](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=11).
 * [Επιστημονικές ευχαριστίες](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=12).
@@ -51,16 +51,15 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 ```auspiceMainDisplayMarkdown
 # Γενική περίληψη
 
-Έχουμε αναλύσει 4,442 δημοσίως διαθέσιμα γονιδιώματα COVID-19. Συγκρίνοντας αυτά τα ιικά γονιδιώματα μεταξύ τους μπορούμε να κατανοήσουμε πώς ο COVID-19 μετακινείται στην υφήλιο και πώς διασπείρεται τοπικά. Στην αναφορά συτής της εβδομάδας εστιάζουμε στην Κεντρική και Ανατολική Ευρώπη και αναφέρουμε:
-We analyzed 4,442 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on Central & Eastern Europe and report:
+Έχουμε αναλύσει 4.442 δημοσίως διαθέσιμα γονιδιώματα COVID-19. Συγκρίνοντας αυτά τα ιικά γονιδιώματα μεταξύ τους μπορούμε να κατανοήσουμε πώς ο COVID-19 μετακινείται στην υφήλιο και πώς διασπείρεται τοπικά. Στην αναφορά συτής της εβδομάδας εστιάζουμε στην Κεντρική και Ανατολική Ευρώπη και αναφέρουμε:
 
-* Πολλές εισαγωγές στη Ρωσία Many introductions to Russia  
-* Ανομοιγενής επιδημία στη Μόσχα Heterogeneous outbreak in Moscow  
-* Η πλειονότητα της επιδημίας της Αγίας Πετρούπολης συνδέεται με μια μόνο εισαγωγή, πιθανότατα από τη Δυτική Ευρώπη Majority of St. Petersburg outbreak tied to a single introduction, most likely from Western Europe  
-* Εκτεταμένη ανάμειξη περιπτώσεων σε ολόκληρη την Τουρκία μετά από επαναλαμβανόμενες εισαγωγές που σχετίζονται με ταξίδια Extensive mixing of cases across Turkey following repeated travel-related introductions  
-* Τουλάχιστον 5 τοπικές αλυσίδες μετάδοσης στην Τσεχική Δημοκρατία, πιθανότατα οφείλονται σε επαναλαμβανόμενες εισαγωγές από τη Δυτική Ευρώπη At least 5 local transmission chains in the Czech Republic, mostly likely due to repeated introductions from Western Europe
-* Τουλάχιστον 11 ξεχωριστές εισαγωγές στην Πολωνία At least 11 separate introductions to Poland
-* ρόωρα δείγματα από την Ουγγαρία, τη Λετονία, την Πολωνία, τη Σλοβακία και τη Σλοβενία Early samples from Hungary, Latvia, Poland, Slovakia and Slovenia  
+* Πολλές εισαγωγές στη Ρωσία 
+* Ανομοιγενής επιδημία στη Μόσχα 
+* Η πλειονότητα της επιδημίας της Αγίας Πετρούπολης συνδέεται με μια μόνο εισαγωγή, πιθανότατα από τη Δυτική Ευρώπη
+* Εκτεταμένη ανάμιξη κρουσμάτων σε ολόκληρη την Τουρκία μετά από επαναλαμβανόμενες εισαγωγές του ιού που σχετίζονται με ταξίδια
+* Τουλάχιστον 5 τοπικές αλυσίδες διασποράς στην Τσεχία που πιθανότατα οφείλονται σε επαναλαμβανόμενες εισαγωγές από τη Δυτική Ευρώπη
+* Τουλάχιστον 11 ξεχωριστές εισαγωγές στην Πολωνία
+* Τα πρώτα δείγματα από την Ουγγαρία, τη Λετονία, την Πολωνία, τη Σλοβακία και τη Σλοβενία
 ```
 
 
@@ -68,18 +67,18 @@ We analyzed 4,442 publicly shared COVID-19 genomes. By comparing these viral gen
 
 <!-- This is left-side text 2-->
 # [COVID-19 Πηγές](https://nextstrain.org/ncov/europe/2020-05-01?d=tree&f_region=Europe&legend=closed)
-Έχουμε ετοιμάσει ορισμένες πηγές πληροφόρησης που θα σας διευκολύνουν στην ερμηνεία των δεδοδμένων που παρουσιάζονται σε αυτή την αναφορά.We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [ΞΕΚΙΝΗΣΤΕ ΕΔΩ: Πώς να ερμηνεύσετε ένα φυλογενετικό δέντρο.START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/el).  
-* [Βασικές γνώσεις σχετικά με τους κορωνοϊούς. Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Συχνές παρερμηνείες. Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-03-13?n=11).
+Έχουμε ετοιμάσει ορισμένες πηγές πληροφόρησης που θα σας διευκολύνουν στην ερμηνεία των δεδοδμένων που παρουσιάζονται σε αυτή την αναφορά.
+#### Πηγές Nextstrain 
+* [ΞΕΚΙΝΗΣΤΕ ΕΔΩ: Πώς να ερμηνεύσετε ένα φυλογενετικό δέντρο](https://nextstrain.org/narratives/trees-background/el). 
+* [Βασικές γνώσεις σχετικά με τους κορωνοϊούς](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Συχνές παρερμηνείες](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-03-13?n=11).
 
-#### Εξωτερικοί Σύνδεσμοι  
-* [Πώς μεταλλάσσεται και μεταδίδεται ο SARS-CoV-2 How SARS-CoV-2 mutates and spreads](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Ρωτήστε έναν επιστήμονα & Συχνές ερωτήσεις. Ask a Scientist & FAQs](https://covid19.fas.org/).
-* [Αναφορές κατάστασης του ΠΟΥ. WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [Πηγές του CDC. CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [Γιατί ο κοροναϊός είναι τόσο μπερδεμένος Why the coronavirus is so confusing](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/).
+#### Εξωτερικοί Σύνδεσμοι 
+* [Πώς μεταλλάσσεται και μεταδίδεται ο SARS-CoV-2](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [Ρωτήστε έναν επιστήμονα & Συχνές ερωτήσεις](https://covid19.fas.org/).
+* [Αναφορές κατάστασης του ΠΟΥ](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Πηγές του CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Γιατί ο κορωνοϊός είναι τόσο πολύπλοκος](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/).
 <!-- There is no right-side text -->
 
 
@@ -87,77 +86,73 @@ We analyzed 4,442 publicly shared COVID-19 genomes. By comparing these viral gen
 
 <!-- This is left-side text 3-->
 # [Μια σημείωση σχετικά με τις δειγματοληψίες](https://nextstrain.org/ncov/europe/2020-05-01?c=country&r=country&d=map&f_region=Europe&p=grid&legend=closed)
-Αυτή τη στιγμή έχουμε αλληλουχίες από δείγματα που έχουν ληφθεί από 6 ηπείρους. Αυτό είναι ένα αξιόλογο κατόρθωμα -- η αλληλούχηση ενός αγνώστου ιού με μεγάλο RNA γονιδίωμα εν μέσω πανδημίας είναι δύσκολη και είναι η εξαιρετική δουλειά και ο συνεχής διαμοιρασμός δεδομένων από επιστήμονες και γιατρούς σε όλο τον κόσμο που την καθιστούν δυνατή. We currently have sequences from samples collected across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+Αυτή τη στιγμή έχουμε αλληλουχίες από δείγματα που έχουν ληφθεί από 6 ηπείρους. Αυτό είναι ένα αξιόλογο κατόρθωμα -- η αλληλούχηση ενός αγνώστου ιού με μεγάλο RNA γονιδίωμα εν μέσω πανδημίας είναι δύσκολη και είναι η εξαιρετική δουλειά και ο συνεχής διαμοιρασμός δεδομένων από επιστήμονες και γιατρούς σε όλο τον κόσμο που την καθιστούν δυνατή. 
 <br><br>
-Ενώ τα δεδομένα αυτά μας επιτρέπουν να αντιληφθούμε πολλά και χρήσιμα χαρακτηριστικά για την επιδήμια και να παρακολουθήσουμε την εξάπλωσή της σε πραγματικό χρόνο, είναι σημαντικό να επισημάνουμε ότι τα συμπερασματά μας περιορίζονται απο τη διαθεσιμότητα των δεδομένων. While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+Ενώ τα δεδομένα αυτά μας επιτρέπουν να αντιληφθούμε πολλά και χρήσιμα χαρακτηριστικά για την επιδήμια και να παρακολουθήσουμε την εξάπλωσή της σε πραγματικό χρόνο, είναι σημαντικό να επισημάνουμε ότι τα συμπερασματά μας περιορίζονται απο τη διαθεσιμότητα των δεδομένων. 
 <br><br>
-Για παράδειγμα ο χάρτης περιλαμβάνει πολύ λίγες αλληλουχίες από την Ισλανδία, τo Ηνωμένο Βασίλειο της Μεγάλης Βρετανίας και της Βορείου Ιρλανδίας και την Ολλανδία. For example, the map shows many samples from Iceland, the U.K., and the Netherlands. Αυτό δεν σημαίνει απαραίτητα ότι υπάρχει μεγαλύτερη διασπορά SARS-CoV-2 σε αυτές τις περιοχές, αλλά ότι έχουμε απλώς περισσότερα δεδομένα διαθέσιμα από αυτές τις χώρες. Το μέγεθος κάθε κύκλου στον χάρτη δείχνει πόσα δεδομένα είναι διαθέσιμα αυτήν τη στιγμή από τις αντίστοιχες περιοχές και όχι το πραγματικό μέγεθος της επιδημίας στις περιοχές αυτές.This does not necessarily indicate that SARS-CoV-2 is circulating more broadly in these areas; rather, we just have more data available from these countries. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
-
+Για παράδειγμα, ο χάρτης αυτός δείχνει πολλά δείγματα που προέρχονται από την Ισλανδία, τo Ηνωμένο Βασίλειο και την Ολλανδία. Αυτό δεν σημαίνει απαραίτητα ότι υπάρχει μεγαλύτερη διασπορά SARS-CoV-2 σε αυτές τις περιοχές, αλλά ότι έχουμε περισσότερα δεδομένα διαθέσιμα από αυτές τις χώρες. Το μέγεθος κάθε κύκλου στον χάρτη δείχνει πόσα δεδομένα είναι διαθέσιμα αυτήν τη στιγμή από τις αντίστοιχες περιοχές και όχι το πραγματικό μέγεθος της επιδημίας στις περιοχές αυτές.
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Πολλές εισαγωγές στη Ρωσία Many introductions to Russia](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [Πολλές εισαγωγές στη Ρωσία](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
-Τονίζοντας δείγματα από τη Ρωσία, βλέπουμε ότι είναι διάσπαρτα τόσο γεωγραφικά (σε ολόκληρη τη Ρωσία) όσο και γενωμικά (σε όλο το δέντρο). Highlighting samples from Russia, we see that they are scattered both geographically (across Russia) and genomically (across the tree).
+Εστιάζοντας στα δείγματα από τη Ρωσία, βλέπουμε ότι είναι διάσπαρτα τόσο γεωγραφικά (σε ολόκληρη τη Ρωσία) όσο και γονιδιωματικά (σε όλο το δέντρο). 
 <br><br>
-Αυτό δείχνει ότι η επιδημία στη Ρωσία προκλήθηκε από πολλές ξεχωριστές εισαγωγές, και όχι από μια εισαγωγή ακολουθούμενη από  εξάπλωση εντός της χώρας.This indicates that the epidemic in Russia was sparked by many separate introductions, rather than a single introduction followed by within-country spread.
+Αυτό δείχνει ότι η επιδημία στη Ρωσία προκλήθηκε από πολλές ξεχωριστές εισαγωγές του ιού, και όχι από μια εισαγωγή που ακολουθήθηκε από εξάπλωση εντός της χώρας.
 <br><br>
-Ενώ υπάρχουν μερικά δείγματα προς το κάτω μέρος του δέντρου που σχετίζονται στενότερα με ασιατικές περιπτώσεις, η πλειονότητα των Ρωσικών αλληλουχιών προέρχεται από ευρωπαϊκές γενεαλογίες. While there are a few samples towards the bottom of the tree that are most closely related to Asian cases, the majority of Russian samples descend from European lineages.
+Παρόλο που υπάρχουν μερικά δείγματα προς το κάτω μέρος του δέντρου που σχετίζονται στενότερα με ασιατικά κρούσματα, η πλειονότητα των ρωσικών αλληλουχιών προέρχεται από ευρωπαϊκές γενεαλογίες. 
 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Ανομοιγενής επιδημία στη Μόσχα Heterogeneous outbreak in Moscow](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [Ανομοιγενής επιδημία στη Μόσχα](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
-Ένα παράδειγμα συχνής εισαγωγής μπορεί να φανεί μεγένθυνοντας στα δείγματα από τη Μόσχα. An example of frequent importation can be seen by zooming in on samples from Moscow.
+Ένα παράδειγμα συχνών εισαγωγών γίνεται φανερό όταν εστιάσουμε στα δείγματα από τη Μόσχα. 
 <br><br>
-Υπάρχουν μερικές ομάδες περιπτώσεων που σχετίζονται στενότερα με άλλες αλληλουχίες από τη Μόσχα, υποδεικνύοντας πιθανή τοπική μετάδοση.There are a few clusters of cases which are most closely related to other samples from Moscow, indicating likely local transmission.
-Ωστόσο, τα περισσότερα δείγματα από τη Μόσχα σχετίζονται στενότερα με αλληλουχίες από αλλού, σύμφωνα με την εισαγωγή. However, most samples from Moscow are most closely related to samples from elsewhere, consistent with importation.
+Υπάρχουν μερικές ομάδες κρουσμάτων που σχετίζονται στενότερα με αλληλουχίες από τη Μόσχα, υποδεικνύοντας πιθανή τοπική διασπορά.
+Ωστόσο, τα περισσότερα δείγματα από τη Μόσχα σχετίζονται στενότερα με αλληλουχίες από άλλα μέρη, πράγμα που συμβαδίζει με το σενάριο εισαγωγών.
 <br><br>
-Δεδομένου του αριθμού των επιβεβαιωμένων περιπτώσεων στη Μόσχα, είναι πιθανό ότι τουλάχιστον μερικές από αυτές τις εισαγωγές οδήγησαν σε περαιτέρω τοπική εξάπλωση, αλλά δεν έχουμε ακόμη αρκετά δεδομένα για να το τεκμηριώσουμε. Given the number of confirmed cases in Moscow, it's likely that at least some of these introductions led to further local spread, but we don't yet have enough data to see this.
+Με δεδομένο τον αριθμό των επιβεβαιωμένων κρουσμάτων στη Μόσχα, είναι πιθανό ότι τουλάχιστον μερικές από αυτές τις εισαγωγές οδήγησαν σε περαιτέρω τοπική εξάπλωση, αλλά δεν έχουμε ακόμη αρκετά δεδομένα για να τεκμηριώσουμε αυτό το σενάριο.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Μεγάλη εξάπλωση στην Αγία Πετρούπολη, ξεκίνησε στις αρχές Μαρτίου Large outbreak cluster in St. Petersburg, sparked in early March](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [Μεγάλη εξάπλωση στην Αγία Πετρούπολη, ξεκίνησε στις αρχές Μαρτίου](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
-Μπορούμε να δούμε την Αγία Πετρούπολη ως αντιπαράδειγμα. We can look at St. Petersburg as a counterexample.
+Μπορούμε να δούμε την Αγία Πετρούπολη ως αντιπαράδειγμα.
 <br><br>
-Όπως και με τη Μόσχα, υπάρχουν δείγματα από την Αγία Πετρούπολη απέναντι από το δέντρο, που δείχνουν ότι έχουν γίνει πολλές εισαγωγές.As with Moscow, there are samples from St. Petersburg across the tree, indicating that there have been multiple introductions.
-Αντιθέτως εάν κάνετε κλικ στην επιλογή 'Explore the Data Yourself' και κάνετε ζουμ στο κύριο σύμπλεγμα στο κέντρο αυτής της προβολής, μπορούμε να δούμε ένα μεγάλο κλάδο που αποτελείται εξ ολοκλήρου από δείγματα από την Αγία Πετρούπολη. Contrastingly, if you click 'Explore the Data Yourself' and zoom into the main cluster in the center of this view, we can see a large clade that is made up entirely of samples from St. Petersburg.
+Όπως και στη Μόσχα, υπάρχουν δείγματα από την Αγία Πετρούπολη σε όλη την έκταση του δέντρου που δείχνουν ότι έχουν γίνει πολλές εισαγωγές.
+Αντιθέτως, εάν κάνετε κλικ στην επιλογή 'Explore the Data Yourself' και κάνετε ζουμ στο κύριο σύμπλεγμα στο κέντρο αυτής της προβολής, βλέπουμε ένα μεγάλο κλαδί που αποτελείται εξ ολοκλήρου από δείγματα από την Αγία Πετρούπολη. 
 <br><br>
-Αυτό το μοτίβο είναι σύμφωνο με μία από αυτές τις εισαγωγές στην Αγία Πετρούπολη για να προκαλέσει εκτεταμένη μετάδοση σε όλη την πόλη, ξεκινώντας περίπου την πρώτη εβδομάδα του Μαρτίου. Η συγκεκριμένη τοπικξή έξαρση σχετίζεται στενότερα με δείγματα από τη Δυτική Ευρώπη, αν και δεν μπορούμε να αποκλείσουμε τη δυνατότητα μιας ενδιάμεσης μετάδοσης χωρίς δείγμα από αλλού.
-This pattern is consistent with one of these introductions to St. Petersburg taking off to spark widespread transmission across the city, starting around the first week of March. This large outbreak cluster is most closely related to samples from Western Europe, although we cannot rule out the possibility of an unsampled, intermediate transmission from elsewhere.
+Αυτό το μοτίβο συμφωνεί με το σενάριο πως μία από αυτές τις εισαγωγές στην Αγία Πετρούπολη προκάλεσε εκτεταμένη διασπορά σε όλη την πόλη, ξεκινώντας περίπου την πρώτη εβδομάδα του Μαρτίου. Η συγκεκριμένη τοπική έξαρση σχετίζεται στενότερα με δείγματα από τη Δυτική Ευρώπη, αν και δεν μπορούμε να αποκλείσουμε την πιθανότητα μιας ενδιάμεσης μετάδοσης από άλλο μέρος για οποίο δεν έχουμε δείγματα.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [5 τοπικές αλυσίδες μετάδοσης στην Τσεχική ΔημοκρατίαFive local transmission chains in the Czech Republic](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [5 τοπικές αλυσίδες διασποράς στην Τσεχία](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
-Τα δεδομένα από την Τσεχική Δημοκρατία δείχνουν ένα συνδυασμό αυτών των δύο μοτίβων. The data from the Czech Republic show a mix of these two patterns.
+Τα δεδομένα από την Τσεχία δείχνουν ένα συνδυασμό αυτών των δύο μοτίβων. 
 <br><br>
-Υπάρχουν τουλάχιστον 7 περιπτώσεις όπου ένα δείγμα που απομονώθηκε στην Τσεχική Δημοκρατία προέρχεται από έναν ιό που πιθανότατα κυκλοφόρησε αλλού στην Ευρώπη, υποδεικνύοντας νέες εισαγωγές μεταξύ 1ης Μαρτίου και 2 Απριλίου.There are at least 7 instances where a sample isolated in the Czech Republic descends from a virus that was mostly likely circulating elsewhere in Europe, indicating new introductions between March 1 and April 2.
+Υπάρχουν τουλάχιστον 7 περιπτώσεις στις οποίες ένα δείγμα που απομονώθηκε στην Τσεχία προέρχεται από έναν ιό που πιθανότατα κυκλοφόρησε αλλού στην Ευρώπη, υποδεικνύοντας νέες εισαγωγές μεταξύ 1 Μαρτίου και 2 Απριλίου.
 <br><br>
-Για 5 από αυτές τις εισαγωγές, βλέπουμε επίσης στενά σχετικές τοπικές περιπτώσεις, δείγματα με την πάροδο του χρόνου. Αυτό συμβαδίζει με την τοπική μετάδοση. For 5 of these introductions, we also see closely related local cases, sampled over time. This is consistent with local transmission.
+Για 5 από αυτές τις εισαγωγές, βλέπουμε πως υπάρχουν στενά συσχετιζόμενα κρούσματα από τα οποία έχουν ληφθεί δείγματα σε διαφορετικές χρονικές στιγμές. Το γεγονός αυτό συμβαδίζει με το σενάριο τοπικής διασποράς. 
 <br><br>
-Από αυτό, μπορούμε να πούμε ότι υπήρχαν τουλάχιστον 7 εισαγωγές στην Τσεχική Δημοκρατία. τουλάχιστον 5 από αυτά πιθανότατα οδήγησαν σε περαιτέρω τοπική μετάδοση. From this, we can say that there were at least 7 introductions to the Czech Republic; at least 5 of these likely led to further local transmission.
+Με βάση τα παραπάνω, μπορούμε να πούμε ότι υπήρχαν τουλάχιστον 7 εισαγωγές του ιού στην Τσεχία και τουλάχιστον 5 από αυτές πιθανότατα οδήγησαν σε περαιτέρω τοπική διασπορά. 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Εκτεταμένη ανάμειξη περιπτώσεων σε όλη την Τουρκία Extensive mixing of cases across Turkey](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [Εκτεταμένη ανάμιξη κρουσμάτων σε όλη την Τουρκία](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
-Στη μέση του δέντρου, βλέπουμε μια σειρά από θήκες από πολλές διαφορετικές επαρχίες γύρω από την Τουρκία.
-Ορισμένες από αυτές τις περιπτώσεις έχουν αναφέρει ιστορικό ταξιδιού στη Σαουδική Αραβία, με επακόλουθες στενά σχετικές περιπτώσεις στην Τουρκία.In the middle of the tree, we see a string of cases sampled from many different provinces around Turkey.Some of these cases have reported travel history to Saudi Arabia, with subsequent closely related cases in Turkey.
+Στη μέση του δέντρου βλέπουμε μια σειρά από κρούσματα που προέρχονται από πολλές διαφορετικές επαρχίες της Τουρκίας.
+Ορισμένα από αυτά έχουν ιστορικό ταξιδιού στη Σαουδική Αραβία και ακολούθως σχετίζονται στενά με άλλα κρούσματα στην Τουρκία.
 <br><br>
-Κανονικά, μπορούμε να υποθέσουμε ότι οι ταξιδιώτες που επέστρεψαν είχαν μεταδώσει τον ιό στα μέλη του νοικοκυριού ή τους γείτονες στο σπίτι τους.Normally, we might assume that returning travelers had passed the virus to household members or neighbors back home.
-Είναι ενδιαφέρον, ωστόσο, ότι στίς περιπτώσεις των ταξιδιωτών είχαν γινει οι δειγματοληψίες από διαφορετικές επαρχίες αντί των πιο στενά συνδεδεμένων περιπτώσεων. Interestingly, though, the travelers' cases were often sampled from different provinces than the most closely related cases.
+Κανονικά, θα μπορούσαμε να υποθέσουμε ότι οι άνθρωποι που επέστρεψαν από το ταξίδι τους διέσπειραν τον ιό σε οικογενειακά μέλη ή στους γείτονές τους.
+Ωστόσο είναι ενδιαφέρον ότι συχνά τα δείγματα που προήλθαν από τους ταξιδιώτες ελήφθησαν από διαφορετικές επαρχίες από εκείνες στις οποίες εντοπίστηκαν τα πιο συγγενικά τους κρούσματα.
 <br><br>
-Αυτό δείχνει ότι υπήρξε εκτεταμένη ανάμιξη ιογενών καταγωγών, που έφτασαν σε πολλές επαρχίες της Τουρκίας εντός μίας εβδομάδας.
-This indicates that there has been extensive mixing of viral lineages, reaching many provinces of Turkey within one week.
-Μπορεί επίσης να υποθέσουμε ότι μια μεγάλη συγκέντρωση θα μπορούσε να εξηγήσει αυτές τις παρατηρήσεις, αν και θα χρειαζόμασταν πρόσθετα επιδημιολογικά δεδομένα για περαιτέρω διερεύνηση.
-We may also speculate that a large gathering could explain these observations, although we would need additional epidemiological data to further investigate.
+Αυτό δείχνει ότι υπήρξε εκτεταμένη ανάμιξη ιικών γενεαλογιών που έφτασαν σε πολλές επαρχίες της Τουρκίας μέσα σε μία εβδομάδα.
+Μπορούμε επίσης να υποθέσουμε ότι μια μεγάλη συνάθροιση ανθρώπων θα μπορούσε να εξηγήσει αυτές τις παρατηρήσεις, αν και θα χρειαζόμασταν πρόσθετα επιδημιολογικά δεδομένα για περαιτέρω διερεύνηση.
 <!-- There is no right-side text -->
 
 
@@ -165,20 +160,19 @@ We may also speculate that a large gathering could explain these observations, a
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [Τουλάχιστον 11 εισαγωγές στην Πολωνία At least 11 introductions to Poland](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [Τουλάχιστον 11 εισαγωγές στην Πολωνία](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
 
-Έχουμε 15 ακολουθίες από την Πολωνία στο Nextstrain. Από αυτες τις 15, τουλάχιστον 11 από αυτές αντιπροσωπεύουν ξεχωριστές εισαγωγές από άλλες χώρες. We have 15 sequences from Poland on Nextstrain. Of these 15, at least 11 of them represent separate introductions from elsewhere in the world.
-Όπως και στη Μόσχα, δεδομένου του αριθμού των περιπτώσεων που αναφέρθηκαν, θα μπορούσαμε να αναμένουμε ότι πολλές από αυτές τις εισαγωγές έχουν δημιουργήσει τοπικές αλυσίδες μετάδοσης στην Πολωνία, αλλά δεν μπορούμε να το δούμε ακόμα στα γονιδιωματικά δεδομένα.As in Moscow, given the number of reported cases, we might expect that several of these introductions have seeded local transmission chains in Poland, but we can't yet see this in the genomic data.
+Έχουμε 15 αλληλουχίες από την Πολωνία στο Nextstrain. Από αυτες τις 15, τουλάχιστον 11 αντιπροσωπεύουν ξεχωριστές εισαγωγές από άλλες χώρες.
+Όπως και στη Μόσχα, δεδομένου του αριθμού των κρουσμάτων που αναφέρθηκαν, θα μπορούσαμε να αναμένουμε ότι πολλές από αυτές τις εισαγωγές έχουν δημιουργήσει τοπικές αλυσίδες διασποράς στην Πολωνία, αλλά ακόμα δεν μπορούμε να δούμε κάτι τέτοιο από τα γονιδιωματικά δεδομένα.
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Πρώιμα δείγματα από την Ουγγαρία, τη Λετονία, τη Σλοβακία και τη Σλοβενία Early samples from Hungary, Latvia, Slovakia and Slovenia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [Τα πρώτα δείγματα από την Ουγγαρία, τη Λετονία, τη Σλοβακία και τη Σλοβενία](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
-Τον Μάρτιο, υποβλήθηκαν 20 ακολουθίες από την Ουγγαρία, τη Λετονία, τη Σλοβακία και τη Σλοβενία.
-Αν και δεν έχουμε ακόμη αρκετά δεδομένα από αυτές τις χώρες για να εξαγάγουμε σταθερά συμπεράσματα, επικροτούμε αυτές τις πρώτες προσπάθειες και θα συνεχίσουμε να παρακολουθούμε τα εισερχόμενα δεδομένα.In March, 20 sequences were submitted from Hungary, Latvia, Slovakia, and Slovenia.
-While we don't yet have enough data from these countries to draw firm conclusions, we applaud these early efforts and will continue to monitor the incoming data.
+Τον Μάρτιο κατατέθηκαν 20 ιικά γονιδιώματα από την Ουγγαρία, τη Λετονία, τη Σλοβακία και τη Σλοβενία.
+Αν και δεν έχουμε ακόμη αρκετά δεδομένα από αυτές τις χώρες για να εξαγάγουμε συμπεράσματα με βεβαιότητα, επικροτούμε αυτές τις πρώτες προσπάθειες και θα συνεχίσουμε να παρακολουθούμε τα εισερχόμενα δεδομένα.
 <!-- There is no right-side text -->
 
 
@@ -187,14 +181,14 @@ While we don't yet have enough data from these countries to draw firm conclusion
 # [Τί μπορείτε να κάνετε](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
 #### ...ο καθένας ξεχωριστά
 * Τηρείτε τα μέτρα κοινωνικής απόστασης, ειδικά εάν ανήκετε σε ευπαθή ομάδα.
-* Να θυμάστε πως ακόμα κι αν δεν ανήκετε σε ευπαθή ομάδα, πολλοί άνθρωποι γύρω σας ανήκουν σε κάποια ευπαθή ομάδα. Ακολουθήστε τις πρακτικές αυτές ώστε να τους προστατέψετε.
+* Να θυμάστε πως ακόμα κι αν εσείς δεν ανήκετε σε ευπαθή ομάδα, πολλοί άνθρωποι γύρω σας ανήκουν σε κάποια ευπαθή ομάδα. Ακολουθήστε τις αντίστοιχες πρακτικές ώστε να τους προστατέψετε.
 * Πλένετε τα χέρια σας "σα να έχετε κόψει μια καυτερή πιπεριά και πρέπει να αλλάξετε φακούς επαφής".
 * Μείνετε στο σπίτι όσο γίνεται περισσότερο -- ειδικά εάν είστε άρρωστοι. Προμηθευτείτε επιπλέον ποσότητες τροφίμων σε περίπτωση που χρειαστεί να μπείτε σε καραντίνα.
 * Εάν είστε εργοδότης, ενθαρρύνετε τους εργαζομένους σας να δουλεύουν από το σπίτι όσο αυτό είναι δυνατό.
 
-#### ...η πολιτεία  
+#### ...η πολιτεία 
 * Κάνετε εκτεταμένους και δωρεάν ελέγχους για τον εντοπισμό του ιού.
-* Εφαρμόστε ισχυρά μέτρα κοινωνικής απόστασης.  
+* Εφαρμόστε ισχυρά μέτρα κοινωνικής απόστασης. 
 * Χρηματοδοτήστε και υλοποιήστε προσπάθειες ιχνηλάτησης.
 * Υποστηρίξτε οικονομικά αυτούς που πλήγονται από τα μέτρα αποκλεισμού.
 
@@ -204,23 +198,20 @@ While we don't yet have enough data from these countries to draw firm conclusion
 ```auspiceMainDisplayMarkdown
 # Συμπεράσματα
 
-#### SARS-COV-2 έχει εισαχθεί στη Ρωσία πολλές φορές. Το ξέσπασμα της Μόσχας είναι εξαιρετικά ανομοιογενές. has been introduced to Russia many times; Moscow's outbreak is highly heterogeneous.
+#### Ο ιός SARS-COV-2 έχει εισαχθεί στη Ρωσία πολλές φορές. Το ξέσπασμα της Μόσχας είναι εξαιρετικά ανομοιογενές. 
 <br><br>
-#### Υπήρξαν πολλές εισαγωγές στην Αγία Πετρούπολη. Μία από αυτές τις εισαγωγές, από τη Δυτική Ευρώπη στις αρχές Μαρτίου, πυροδότησε ένα μεγάλο σύμπλεγμα τοπικών μεταδιδόμενων περιπτώσεων. There have been multiple introductions to St. Petersburg. One of these introductions, from Western Europe in early March, sparked a large cluster of locally transmitted cases.
+#### Υπήρξαν πολλές εισαγωγές του ιού στην Αγία Πετρούπολη. Μία από αυτές, προερχόμενη από τη Δυτική Ευρώπη στις αρχές Μαρτίου, πυροδότησε ένα μεγάλο σύμπλεγμα τοπικής διασποράς με πολλά κρούσματα. 
 <br><br>
-#### Μετά από επανειλημμένες εισαγωγές που σχετίζονται με ταξίδια, υπήρξε εκτεταμένη και ταχεία ανάμιξη ιογενών καταγωγών σε όλη την Τουρκία. Following repeated travel-related introductions, there has been extensive and rapid mixing of viral lineages across Turkey.
+#### Στην Τουρκία μετά τις επανειλημμένες εισαγωγές που σχετίζονται με ταξίδιωτικά ιστορικά, υπάρχει εκτεταμένη και ταχεία ανάμιξη ιικών γενεαλογιών.
 <br><br>
-#### Υπάρχουν τουλάχιστον 5 τοπικές αλυσίδες μεταφοράς σε όλη την Τσεχική Δημοκρατία. There are at least 5 local transmission chains circulating across the Czech Republic.  
+#### Υπάρχουν τουλάχιστον 5 τοπικές αλυσίδες διασποράς σε όλη την Τσεχία. 
 <br><br>
-#### Έχουν γίνει τουλάχιστον 11 ξεχωριστές εισαγωγές του ιού στην Πολωνία. There have been at least 11 separate introductions of the virus to Poland.  
+#### Έχουν γίνει τουλάχιστον 11 ξεχωριστές εισαγωγές του ιού στην Πολωνία. 
 <br><br>
-#### Λάβαμε πρώιμα δείγματα από την Ουγγαρία, τη Λετονία, τη Σλοβακία και τη Σλοβενία. Αν και δεν έχουμε ακόμη αρκετά δεδομένα για να εξαγάγουμε συμπεράσματα, θα συνεχίσουμε να παρακολουθούμε και να παρέχουμε ενημερώσεις το συντομότερο δυνατό. We have receieved early samples from Hungary, Latvia, Slovakia and Slovenia. While we don't yet have enough data to draw conclusions, we will continue monitoring and provide updates as soon as possible.
+#### Λάβαμε τα πρώτα δείγματα από την Ουγγαρία, τη Λετονία, τη Σλοβακία και τη Σλοβενία. Αν και δεν έχουμε ακόμη αρκετά δεδομένα για να εξάγουμε συμπεράσματα, θα συνεχίσουμε να παρακολουθούμε και να παρέχουμε ενημερώσεις το συντομότερο δυνατό. 
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
-
-
-
 
 
 
@@ -229,7 +220,7 @@ While we don't yet have enough data from these countries to draw firm conclusion
 <!-- This is left-side text 12-->
 # [Επιστημονικές ευχαριστίες](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
 
-Θα θέλαμε να ευχαριστήσουμε την υπέροχη και συνεχή προσπάθεια όλων των επιστημόνων που έχουν εργαστεί σε αυτήν την πανδημία. Μόνο μέσα από τον άμεσο διαμοιρασμό γενομικών δεδομένων και μεταδεδομένων είναι δυνατό να πραγματοποιηθούν αναλύσεις σαν κι αυτήν.
+Θα θέλαμε να ευχαριστήσουμε την υπέροχη και συνεχή προσπάθεια όλων των επιστημόνων που έχουν εργαστεί σε αυτήν την πανδημία. Μόνο μέσα από τον άμεσο διαμοιρασμό γονιδιακών δεδομένων και μεταδεδομένων είναι δυνατό να πραγματοποιηθούν αναλύσεις σαν κι αυτήν.
 <br><br>
 Οι συγκεκριμένες αλληλουχίες που παρέχονται από κάθε εργαστήριο [παρατίθενται εδώ](https://github.com/nextstrain/ncov/blob/e8020ca13e420bb62e31acf9a07268bc08b11c63/narratives/sit-rep_credits.md).
 <br><br>
