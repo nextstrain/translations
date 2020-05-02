@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-01.
+title: 新型冠状病毒（COVID-19）传播情况的基因组学分析：状况报告 2020-05-01.
 authors:
   - Sidney Bell  
   - Nicola Müller
@@ -18,12 +18,14 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - 李雪莹
 translatorLinks:
+  - https://xueyingcli.weebly.com/
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed"
 date: 2020-May-01
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on outbreak dynamics in Central and Eastern Europe."
+abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）基因组数据来追踪疫情的传播。本周我们关注中欧和东欧地区疫情的发展。"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,81 +33,81 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed)
+# [目录](https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=3).
-* [Updates for Russia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=4).
-* [Updates for the Czech Republic](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=7).
-* [Updates for Turkey](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=8).
-* [Updates for Poland](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=9).
-* [Data from Hungary, Slovakia, Slovenia and Latvia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=10).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=11).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=12).
+* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=2).     
+* [关于数据](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=3).
+* [俄罗斯的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=4).
+* [捷克的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=7).
+* [土耳其的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=8).
+* [波兰的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=9).
+* [匈牙利、斯洛伐克、斯洛文尼亚和拉脱维亚的数据](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=10).
+* [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=11).
+* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# 摘要
 
-We analyzed 4,442 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on Central & Eastern Europe and report:
+我们分析了 4,442 个公开共享的新冠病毒基因组。通过将这些病毒基因组相互比较，我们可以描述新冠病毒是如何在世界各地迁移和在社区中传播的。本周，我们关注中欧和东欧的疫情。我们报告：
 
-* Many introductions to Russia  
-* Heterogeneous outbreak in Moscow  
-* Majority of St. Petersburg outbreak tied to a single introduction, most likely from Western Europe  
-* Extensive mixing of cases across Turkey following repeated travel-related introductions  
-* At least 5 local transmission chains in the Czech Republic, mostly likely due to repeated introductions from Western Europe
-* At least 11 separate introductions to Poland
-* Early samples from Hungary, Latvia, Poland, Slovakia and Slovenia  
+* 病毒多次输入俄罗斯Many introductions to Russia  
+* 莫斯科疫情的复杂性Heterogeneous outbreak in Moscow  
+* 圣彼得堡的疫情主要来自单次输入事件，最有可能是来自西欧Majority of St. Petersburg outbreak tied to a single introduction, most likely from Western Europe  
+* 在反复多次被旅行有关的病例输入后，土耳其各地的疫情呈现广泛的混杂Extensive mixing of cases across Turkey following repeated travel-related introductions  
+* 捷克至少存在5个本地传播链，最有可能是因为从西欧的反复输入At least 5 local transmission chains in the Czech Republic, mostly likely due to repeated introductions from Western Europe
+* 病毒至少被11次独立地传入波兰At least 11 separate introductions to Poland
+* 关于匈牙利、拉脱维亚、波兰、斯洛伐克和斯洛文尼亚的早期样本Early samples from Hungary, Latvia, Poland, Slovakia and Slovenia  
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/europe/2020-05-01?d=tree&f_region=Europe&legend=closed)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [新冠病毒背景资料](https://nextstrain.org/ncov/europe/2020-05-01?d=tree&f_region=Europe&legend=closed)
+我们准备了一些资料，将使您更容易理解我们在本报告中提供的数据。
+#### Nextstrain的资料
+* [入门篇：如何解读系统发生树](https://nextstrain.org/narratives/trees-background/zh).  
+* [冠状病毒的背景资料（英文）](https://nextstrain.org/help/coronavirus/human-CoV).
+* [常见误区](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-13?n=11).
 
-#### External Resources  
-* [How SARS-CoV-2 mutates and spreads](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [Why the coronavirus is so confusing](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/).
+####外部资料  
+* [新冠病毒是如何突变和传播的（英文）](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [向科学家提问 & 常见问题解答（英文）](https://covid19.fas.org/).
+* [WHO的状况报告（英文）](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [美国CDC的资料（英文）](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [为什么新冠病毒如此令人费解（英文）](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/europe/2020-05-01?c=country&r=country&d=map&f_region=Europe&p=grid&legend=closed)
-We currently have sequences from samples collected across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [关于取样](https://nextstrain.org/ncov/europe/2020-05-01?c=country&r=country&d=map&f_region=Europe&p=grid&legend=closed)
+我们目前有来自 6 个大陆的病毒样本序列。这是一项令人难以置信的壮举--在病毒大流行期间对一种未知的大型 RNA 病毒进行测序是很困难的，只有通过世界各地的科学家和医生令人难以置信的工作和及时共享数据才有可能。
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+虽然这些数据使我们能够推断出这场疫情的许多有用的特征并实时跟踪其传播，但需要强调的是，我们的结论受到现有数据的限制。
 <br><br>
-For example, the map shows many samples from Iceland, the U.K., and the Netherlands. This does not necessarily indicate that SARS-CoV-2 is circulating more broadly in these areas; rather, we just have more data available from these countries. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+比如，地图上显示我们有很多来自冰岛、英国和荷兰的样本。这并不一定代表着新冠病毒在这些地区传播得更加广泛，而仅仅说明这些地区有更多的数据。地图上每个圆圈的大小表示的是该区域当前有多少数据可用，而不是当地疫情的真实严重程度。
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Many introductions to Russia](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [病毒多次输入俄罗斯Many introductions to Russia](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
-Highlighting samples from Russia, we see that they are scattered both geographically (across Russia) and genomically (across the tree).
+此图中高亮了来自俄罗斯的样本。我们看到，它们既在地理上散布俄罗斯各地，也在基因组层面上散布在整棵演化树上。Highlighting samples from Russia, we see that they are scattered both geographically (across Russia) and genomically (across the tree).
 <br><br>
-This indicates that the epidemic in Russia was sparked by many separate introductions, rather than a single introduction followed by within-country spread.
+这表明，俄罗斯的疫情始于多次独立的输入事件，而不是病毒输入该国一次之后在国内传播开来。This indicates that the epidemic in Russia was sparked by many separate introductions, rather than a single introduction followed by within-country spread.
 <br><br>
-While there are a few samples towards the bottom of the tree that are most closely related to Asian cases, the majority of Russian samples descend from European lineages.
+虽然树的底部有几个俄罗斯的样本与亚洲的样本亲缘关系最近，但大部分的俄罗斯样本是欧洲样本组成的演化支的后裔。While there are a few samples towards the bottom of the tree that are most closely related to Asian cases, the majority of Russian samples descend from European lineages.
 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Heterogeneous outbreak in Moscow](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [莫斯科疫情的复杂性Heterogeneous outbreak in Moscow](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
 An example of frequent importation can be seen by zooming in on samples from Moscow.
 <br><br>
@@ -175,20 +177,19 @@ While we don't yet have enough data from these countries to draw firm conclusion
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [你能做些什么](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...个人可以采取的行动
+* 保持严格的社交距离，尤其是高风险人群。
+* 请记住，即使你不属于高风险人群，你周围的许多人也可能属于高危人群；遵循这些做法可以保护他人。
+* 仔细洗手，要像“刚切完辣椒但是要换隐形眼镜”时一样洗手。
+* 尽可能地留在家里，尤其是生病时；准备一些额外的补给，以备自我隔离。
+* 雇主请鼓励员工尽可能地在家办公。
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
-
+#### ...政府可以采取的行动
+* 推广免费检测。
+* 推行能够有力减少社交接触的措施。
+* 资助和建立全面的病例追踪体系。
+* 在经济上支持受到社交隔离措施影响的人。
 
 <!-- This is the right-side text -->
 
@@ -218,20 +219,19 @@ While we don't yet have enough data from these countries to draw firm conclusion
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [科学贡献人员](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+我们要感谢参与此次疫情研究的所有科学家所做的令人惊叹和及时的工作。只有通过基因组数据和元数据的快速共享，才有可能进行这样的分析。
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/blob/e8020ca13e420bb62e31acf9a07268bc08b11c63/narratives/sit-rep_credits.md).
+[点击此处]查看每个实验室所提供的序列详情。(https://github.com/nextstrain/ncov/blob/e8020ca13e420bb62e31acf9a07268bc08b11c63/narratives/sit-rep_credits.md)
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+我们也感谢 GISAID 提供了上传和共享这些数据的平台。
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+非常感谢以下机构和实验室慷慨分享：
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
