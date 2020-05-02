@@ -70,9 +70,9 @@ We analyzed 4,442 publicly shared COVID-19 genomes. By comparing these viral gen
 # [COVID-19 Πηγές](https://nextstrain.org/ncov/europe/2020-05-01?d=tree&f_region=Europe&legend=closed)
 Έχουμε ετοιμάσει ορισμένες πηγές πληροφόρησης που θα σας διευκολύνουν στην ερμηνεία των δεδοδμένων που παρουσιάζονται σε αυτή την αναφορά.We've prepared some resources that will make interpreting the data we present in this narrative easier.
 #### Nextstrain Resources  
-* [ΞΕΚΙΝΗΣΤΕ ΕΔΩ: Πώς να ερμηνεύσετε ένα φυλογενετικό δέντρο.START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+* [ΞΕΚΙΝΗΣΤΕ ΕΔΩ: Πώς να ερμηνεύσετε ένα φυλογενετικό δέντρο.START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/el).  
 * [Βασικές γνώσεις σχετικά με τους κορωνοϊούς. Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Συχνές παρερμηνείες. Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Συχνές παρερμηνείες. Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-03-13?n=11).
 
 #### Εξωτερικοί Σύνδεσμοι  
 * [Πώς μεταλλάσσεται και μεταδίδεται ο SARS-CoV-2 How SARS-CoV-2 mutates and spreads](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
