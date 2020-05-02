@@ -19,8 +19,10 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
   - Anna Fijarczyk
+  - Marta Niedzicka
 translatorLinks:
   - https://twitter.com/afijarczyk
+  - https://www.researchgate.net/profile/Marta_Niedzicka
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed"
@@ -49,12 +51,12 @@ abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śl
 ```auspiceMainDisplayMarkdown
 # Streszczenie
 
-Przeanalizowaliśmy 4,442</tag> publicznie dostępne genomy SARS-CoV-2. Porównując je, potrafimy ocenić, w jaki sposób wirus COVID-19 rozprzestrzenia się po świecie i lokalnie. W tym tygodniu koncentrujemy się na Środkowej i Wschodnie Europie i opisujemy:
+Przeanalizowaliśmy 4,442</tag> publicznie dostępne genomy SARS-CoV-2. Porównując je, potrafimy ocenić, w jaki sposób wirus COVID-19 rozprzestrzenia się po świecie i lokalnie. W tym tygodniu koncentrujemy się na Środkowej i Wschodniej Europie i opisujemy:
 
 * Liczne introdukcje do Moskwy
 * Różne źródła epidemii w Moskwie
-* Większa część epidemii w Petersburgu związana z pojedynczą introdukcją, najprawdopodobniej z Zachodniej Europy
-* Rozległe mieszanie się przypadków w Turcji po wielokrotnych introdukcjach związanych z podróżą
+* Większą część epidemii w Petersburgu związaną z pojedynczą introdukcją, najprawdopodobniej z Zachodniej Europy
+* Rozległe mieszanie się przypadków w Turcji po wielokrotnych introdukcjach związanych z podróżami
 * Co najmniej 5</tag> lokalnych łańcuchów transmisji w Czechach, najprawdopodobniej powiązanych z wielokrotnymi introdukcjami z Zachodniej Europy
 * Co najmniej 11</tag> odrębnych introdukcji do Polski
 * Wczesne przypadki z Węgier, Łotwy, Polski, Słowacji i Słowenii 
@@ -99,7 +101,7 @@ Na przykład, mapa pokazuje wiele sekwencji z Islandii, Wielkiej Brytanii i Hola
 
 Zaznaczając próbki z Rosji, widzimy, że są rozsiane geograficznie (w poprzek Rosji) i genomicznie (w poprzek drzewa). 
 <br><br>
-To pokazuje, że epidemia w Rosji została zainicjowana przez wiele odrębnych introdukcji, a nie przez pojedynczą introdukcję i następujące rozprzestrzenienie się w obrębie kraju. 
+To pokazuje, że epidemia w Rosji została zainicjowana przez wiele odrębnych introdukcji, a nie przez pojedynczą introdukcję z następującym po niej rozprzestrzenieniem się w obrębie kraju. 
 <br><br>
 Podczas gdy nieliczne próbki znajdujące się na dole drzewa są związana z przypadkami w Azji, większość rosyjskich próbek wywodzi się z wariantów europejskich.
 
@@ -135,9 +137,9 @@ Given the number of confirmed cases in Moscow, it's likely that at least some of
 Jako kontrprzykład, możemy spojrzeć na Petersburg.
 <br><br>
 Tak jak w Moskwie, przypadki z Petersburga znajdują się na całej długości drzewa, wskazując na wielokrotne introdukcje.
-Przeciwnie do Moskwy, jak klikniesz na 'Explore the Data Yourself' i przybliżysz na główny klaster po środku, widać duży klad, który składa się jedynie z przypadków z Petersburga.
+Przeciwnie do danych z Moskwy, jeśli klikniesz na przycisk 'Explore the Data Yourself' i przybliżysz główny klaster po środku, zobaczysz duży klad, który składa się jedynie z przypadków z Petersburga.
 <br><br>
-Ten wzór jest zgodny z jedną introdukcją do Petersburga, która zapoczątkowała szeroką transmisję w obrębie miasta, zaczynając w pierwszym tygodniu marca. To duże ognisko epidemii jest najbliżej spokrewnione do próbek z Zachodniej Europy, chociaż nie możemy wykluczyć, że była to niepróbkowana pośrednia transmisja z innego regionu.
+Ten wzór jest zgodny z jedną introdukcją do Petersburga, która zapoczątkowała szeroką transmisję w obrębie miasta, zaczynając w pierwszym tygodniu marca. To duże ognisko epidemii jest najbliżej spokrewnione z próbkami z Zachodniej Europy, chociaż nie możemy wykluczyć, że była to niepróbkowana pośrednia transmisja z innego regionu.
 
 <!-- We can look at St. Petersburg as a counterexample.
 <br><br>
@@ -155,9 +157,9 @@ Dane z Czech pokazują mieszaninę dwóch wzorów.
 <br><br>
 Jest co najmniej 7</tag> przypadków gdzie próbki wyizolowane w Czechach wywodzą się od wirusa, który prawdopodobnie był w obiegu gdzieś indziej w Europie, co wskazuje na nowe introdukcje pomiędzy 1 a 2 kwietnia.
 <br><br>
-W przypadku 5</tag> z tych introdukcji, widzimy również blisko spokrewnione przypadki, próbkowane w dłuższej skali czasu. <!-- maybe something better here?--> To jest zgodne z lokalną transmisją wirusa.
+W przypadku 5</tag> z tych introdukcji, widzimy również blisko spokrewnione przypadki, próbkowane w dłuższej skali czasowej. <!-- maybe something better here?--> To jest zgodne z lokalną transmisją wirusa.
 <br><br>
-Na tej podstawie, możemy powiedzieć, że było przynajmniej 7</tag> introdukcji do Czech; przynajmniej 5</tag> z nich najprawdopodobniej doprowadziło do dalszej lokalnej trasnmisji.
+Na tej podstawie możemy powiedzieć, że było przynajmniej 7</tag> introdukcji do Czech; przynajmniej 5</tag> z nich najprawdopodobniej doprowadziło do dalszej lokalnej trasnmisji.
 
 <!-- The data from the Czech Republic show a mix of these two patterns.
 <br><br>
@@ -175,7 +177,7 @@ Pośrodku drzewa widać ciąg przypadków próbkowanych w wielu różnych prowin
 Niektóre z nich mają historię podróży do Arabii Saudyjskiej, z następującymi później blisko spokrewnionymi przypadkami w Turcji. 
 <br><br>
 Możnaby przypuszczać, że powracający podróżnicy przekazali wirusa swoim domownikom i sąsiadom. 
-Co ciekawe, przypadki podróżników były często probkowane w innych prowincjach niż większość blisko spokrewnionych przypadków.
+Ale, co ciekawe, przypadki podróżników były często próbkowane w innych prowincjach niż większość blisko spokrewnionych przypadków.
 <br><br>
 To wskazuje, że nastąpiło silne wymieszanie wariantów wirusa, które dotarły do wielu prowincji w Turcji w ciągu tygodnia.
 Możemy również spekulować, że duże zgromadzenie ludzi może tłumaczyć te obserwacje, chociaż potrzebne są dodatkowe dane epidemiologiczne, aby przeprowadzić dalsze dochodzenie.
@@ -247,7 +249,7 @@ While we don't yet have enough data from these countries to draw firm conclusion
 <br><br>
 #### Jest co najmniej 5 lokalnych łańcuchów transmisji w obiegu w Czechach.
 <br><br>
-#### Było co najmniej 11 odrebnych introdukcji wirusa do Polski.
+#### Było co najmniej 11 odrębnych introdukcji wirusa do Polski.
 <br><br>
 #### Otrzymaliśmy wczesne próbki z Węgier, Łotwy, Słowacji i Słowenii. Nie mamy jeszcze wystarczającej ilości danych aby wyciągnąć konkluzje, ale będziemy monitorować i aktualizować sytuację jak tylko to będzie możliwe.
 
