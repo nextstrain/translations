@@ -55,8 +55,8 @@ Przeanalizowaliśmy 4,442</tag> publicznie dostępne genomy SARS-CoV-2. Porównu
 * Różne źródła epidemii w Moskwie
 * Większa część epidemii w Petersburgu związana z pojedynczą introdukcją, najprawdopodobniej z Zachodniej Europy
 * Rozległe mieszanie się przypadków w Turcji po wielokrotnych introdukcjach związanych z podróżą
-* Co najmniej 5 lokalnych łańcuchów transmisji w Czechach, najprawdopodobniej powiązanych z wielokrotnymi introdukcjami z Zachodniej Europy
-* Co najmniej 11 odrębnych introdukcji do Polski
+* Co najmniej 5</tag> lokalnych łańcuchów transmisji w Czechach, najprawdopodobniej powiązanych z wielokrotnymi introdukcjami z Zachodniej Europy
+* Co najmniej 11</tag> odrębnych introdukcji do Polski
 * Wczesne przypadki z Węgier, Łotwy, Polski, Słowacji i Słowenii 
 ```
 
@@ -119,7 +119,7 @@ Jeden przykład częstego importu wirusa jest widoczny po przybliżeniu przypadk
 <br><br>
 Widocznych jest tam kilka klastrów z przypadkami powiązanymi z innymi próbkami z Moskwy, wskazując na prawdopodobną lokalną transmisję. Jednak więszość próbek z Moskwy jest blisko spokrewniona z próbkami z innych miejsc, co jest zgodne z importem wirusa z innych regionów. 
 <br><br>
-Biorąc pod uwagę liczbę potwierdzonych przypadków w Moskwie <!-- chyba o to chodzi? -->, jest prawdpopodobne, że przynajmniej część tych introdukcji doprowadziła do dalszego lokalnego rozprzestrzenienia się wirusa, ale nie mamy jeszcze wystarczającej ilości danych aby to zaobserwować.
+Biorąc pod uwagę liczbę potwierdzonych przypadków w Moskwie, jest prawdpopodobne, że przynajmniej część tych introdukcji doprowadziła do dalszego lokalnego rozprzestrzenienia się wirusa, ale nie mamy jeszcze wystarczającej ilości danych aby to zaobserwować.
 
 <!-- An example of frequent importation can be seen by zooming in on samples from Moscow.
 <br><br>
@@ -149,28 +149,45 @@ This pattern is consistent with one of these introductions to St. Petersburg tak
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 7-->
-# [Five local transmission chains in the Czech Republic](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
+# [Pięć lokalnych łańcuchów transmisji w Czechach](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
-The data from the Czech Republic show a mix of these two patterns.
+Dane z Czech pokazują mieszaninę dwóch wzorów.
+<br><br>
+Jest co najmniej 7</tag> przypadków gdzie próbki wyizolowane w Czechach wywodzą się od wirusa, który prawdopodobnie był w obiegu gdzieś indziej w Europie, co wskazuje na nowe introdukcje pomiędzy 1 a 2 kwietnia.
+<br><br>
+W przypadku 5</tag> z tych introdukcji, widzimy również blisko spokrewnione przypadki, próbkowane w dłuższej skali czasu. <!-- maybe something better here?--> To jest zgodne z lokalną transmisją wirusa.
+<br><br>
+Na tej podstawie, możemy powiedzieć, że było przynajmniej 7</tag> introdukcji do Czech; przynajmniej 5</tag> z nich najprawdopodobniej doprowadziło do dalszej lokalnej trasnmisji.
+
+<!-- The data from the Czech Republic show a mix of these two patterns.
 <br><br>
 There are at least 7 instances where a sample isolated in the Czech Republic descends from a virus that was mostly likely circulating elsewhere in Europe, indicating new introductions between March 1 and April 2.
 <br><br>
 For 5 of these introductions, we also see closely related local cases, sampled over time. This is consistent with local transmission.
 <br><br>
-From this, we can say that there were at least 7 introductions to the Czech Republic; at least 5 of these likely led to further local transmission.
+From this, we can say that there were at least 7 introductions to the Czech Republic; at least 5 of these likely led to further local transmission.-->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [Extensive mixing of cases across Turkey](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
+# [Rozległe mieszanie się przypadków w Turcji](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
-In the middle of the tree, we see a string of cases sampled from many different provinces around Turkey.
+Pośrodku drzewa widać ciąg przypadków próbkowanych w wielu różnych prowincjach Turcji.
+Niektóre z nich mają historię podróży do Arabii Saudyjskiej, z następującymi później blisko spokrewnionymi przypadkami w Turcji. 
+<br><br>
+Możnaby przypuszczać, że powracający podróżnicy przekazali wirusa swoim domownikom i sąsiadom. 
+Co ciekawe, przypadki podróżników były często probkowane w innych prowincjach niż większość blisko spokrewnionych przypadków.
+<br><br>
+To wskazuje, że nastąpiło silne wymieszanie wariantów wirusa, które dotarły do wielu prowincji w Turcji w ciągu tygodnia.
+Możemy również spekulować, że duże zgromadzenie ludzi może tłumaczyć te obserwacje, chociaż potrzebne są dodatkowe dane epidemiologiczne, aby przeprowadzić dalsze dochodzenie.
+
+<!-- In the middle of the tree, we see a string of cases sampled from many different provinces around Turkey.
 Some of these cases have reported travel history to Saudi Arabia, with subsequent closely related cases in Turkey.
 <br><br>
 Normally, we might assume that returning travelers had passed the virus to household members or neighbors back home.
 Interestingly, though, the travelers' cases were often sampled from different provinces than the most closely related cases.
 <br><br>
 This indicates that there has been extensive mixing of viral lineages, reaching many provinces of Turkey within one week.
-We may also speculate that a large gathering could explain these observations, although we would need additional epidemiological data to further investigate.
+We may also speculate that a large gathering could explain these observations, although we would need additional epidemiological data to further investigate.-->
 <!-- There is no right-side text -->
 
 
@@ -178,45 +195,63 @@ We may also speculate that a large gathering could explain these observations, a
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [At least 11 introductions to Poland](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [Co najmniej 11 inrodukcji w Polsce](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
 
-We have 15 sequences from Poland on Nextstrain. Of these 15, at least 11 of them represent separate introductions from elsewhere in the world.
-As in Moscow, given the number of reported cases, we might expect that several of these introductions have seeded local transmission chains in Poland, but we can't yet see this in the genomic data.
+Mamy 15</tag> sekwencji z Polski na Nextstrain. Z tych 15</tag>, co najmniej 11</tag> reprezentuje odrębne introdukcje z innych regionów świata. 
+Tak jak w Moskwie, biorąc pod uwagę liczbę potwierdzonych przypadków, możemy oczekiwać, że wiele z tych introdukcji zapoczątkowało łańcuchy lokalnej transmisji w Polsce, ale nie jest to póki co widoczne w danych genomowych.
+
+<!-- We have 15 sequences from Poland on Nextstrain. Of these 15, at least 11 of them represent separate introductions from elsewhere in the world.
+As in Moscow, given the number of reported cases, we might expect that several of these introductions have seeded local transmission chains in Poland, but we can't yet see this in the genomic data.-->
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Early samples from Hungary, Latvia, Slovakia and Slovenia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [Wczesne przypadki z Węgier, Łotwy, Polski, Słowacji i Słowenii](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
-In March, 20 sequences were submitted from Hungary, Latvia, Slovakia, and Slovenia.
-While we don't yet have enough data from these countries to draw firm conclusions, we applaud these early efforts and will continue to monitor the incoming data.
+W marcu, 20</tag> sekwencji zostało przesłanych z Węgier, Łotwy, Słowacji i Słowenii.
+Podczas gdy nie mamy jeszcze wystarczającej ilości danych z tych krajów aby wyciągnąć stanowcze konkluzje, jesteśmy wdzięczni za te wczesne wysiłki w sekwencjonowaniu i będziemy monitorować nowe przychodzące dane.
+
+<!-- In March, 20 sequences were submitted from Hungary, Latvia, Slovakia, and Slovenia.
+While we don't yet have enough data from these countries to draw firm conclusions, we applaud these early efforts and will continue to monitor the incoming data. -->
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Co ty możesz zrobić](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...jako jednostka
+* Stosuj ścisłą izolację społeczną, zwłaszcza, jeśli jesteś w grupie podwyższonego ryzyka.
+* Pamiętaj, że nawet jeśli nie jesteś szczególnie narażona/y, wiele osób wokół ciebie jest; postępuj zgodnie z tymi praktykami, aby chronić innych.
+* Myj ręcę "jakbyś właśnie pokroił papryczkę jalapeno i musiał zmienić soczewkę kontaktową"
+* Zostań w domu na tyle, na ile to możliwe -- szczególnie jeśli jesteś chora/y; przygotuj trochę zapasów w razie potrzeby przebycia kwarantanny.  
+* Jeśli jesteś pracodawcą, zachęć swoich pracowników, aby pracowali z domu, gdziekolwiek jest to możliwe.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...jako urzędnik 
+* Spraw, aby testy na obecność wirusa były darmowe i szeroko dostępne.
+* Wprowadź regulacje ograniczające bezpośrednie kontakty.  
+* Sfinansuj i wprowadź badania kontaktów na dużą skalę.
+* Wspomóź finansowo tych, którzy najbardziej ucierpią w wyniku dystansowania społecznego.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Konkluzje
 
-#### SARS-COV-2 has been introduced to Russia many times; Moscow's outbreak is highly heterogeneous.
+#### SARS-COV-2 został introdukowany do Rosji wiele razy; epidemia w Moskwie ma różnorodne pochodzenie.
+<br><br>
+#### Były wielokrotne introdukcje do Petersburga. Jedna z tych introdukcji, z Zachodniej Europy we wczesnym marcu, zapoczątkowała grupę lokalnych transmisji.
+<br><br>
+#### Po wielokrotnych introdukcjach związanych z podróżą, nastąpiło rozległe i gwałtowne mieszanie się wariantów wirusa w Turcji.
+<br><br>
+#### Jest co najmniej 5 lokalnych łańcuchów transmisji w obiegu w Czechach.
+<br><br>
+#### Było co najmniej 11 odrebnych introdukcji wirusa do Polski.
+<br><br>
+#### Otrzymaliśmy wczesne próbki z Węgier, Łotwy, Słowacji i Słowenii. Nie mamy jeszcze wystarczającej ilości danych aby wyciągnąć konkluzje, ale będziemy monitorować i aktualizować sytuację jak tylko to będzie możliwe.
+
+<!-- #### SARS-COV-2 has been introduced to Russia many times; Moscow's outbreak is highly heterogeneous.
 <br><br>
 #### There have been multiple introductions to St. Petersburg. One of these introductions, from Western Europe in early March, sparked a large cluster of locally transmitted cases.
 <br><br>
@@ -226,7 +261,7 @@ While we don't yet have enough data from these countries to draw firm conclusion
 <br><br>
 #### There have been at least 11 separate introductions of the virus to Poland.  
 <br><br>
-#### We have receieved early samples from Hungary, Latvia, Slovakia and Slovenia. While we don't yet have enough data to draw conclusions, we will continue monitoring and provide updates as soon as possible.
+#### We have receieved early samples from Hungary, Latvia, Slovakia and Slovenia. While we don't yet have enough data to draw conclusions, we will continue monitoring and provide updates as soon as possible.-->
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -239,20 +274,19 @@ While we don't yet have enough data from these countries to draw firm conclusion
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [Podziękowania](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Wyrażamy podziękowania dla wszystkich naukowców zaangażowanych w ten wybuch pandemii za wspaniałą i śpieszną pracę. Analizy takie jak ta nie byłyby możliwe gdyby nie natychmiastowe publikowanie zsekwencjonowanych genomów oraz metadanych z nimi związanych.
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/blob/e8020ca13e420bb62e31acf9a07268bc08b11c63/narratives/sit-rep_credits.md).
+Poszczególne sekwencje udostępnione przez każde z laboratoriów są [wyszczególnione tutaj](https://github.com/nextstrain/ncov/blob/e8020ca13e420bb62e31acf9a07268bc08b11c63/narratives/sit-rep_credits.md).
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Ponadto szczególnie dziękujemy GISAID za udostępnienie platformy do wymiany tego typu danych.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Dziękujemy za dane zebrane w tych ośrodkach:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
