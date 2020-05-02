@@ -18,12 +18,16 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Sofia Paraskevopoulou
+  - Sotiris Salloumis
 translatorLinks:
+  - https://github.com/akifoss
+  - https://github.com/codergr
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed"
-date: 2020-May-01
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on outbreak dynamics in Central and Eastern Europe.Aυτή η εβδομαδιαία αναφορά χρησιμοποιεί δεδομένα που είναι δημοσίως διαθέσιμα για την ιχνηλάτηση της εξάπλωσης της ασθένειας COVID-19. Αυτή την εβομάδα εστιάζουμε στην Κεντρική και Ανατολική Ευρώπη"
+date: "1η Μαΐου 2020"
+abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποιεί δεδομένα που είναι δημοσίως διαθέσιμα για την ιχνηλάτηση της εξάπλωσης της ασθένειας COVID-19. Αυτή την εβομάδα εστιάζουμε στην Κεντρική και Ανατολική Ευρώπη This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on outbreak dynamics in Central and Eastern Europe."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -33,15 +37,15 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- This is left-side text 1-->
 # [Περιεχόμενα](https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed)
 
-* [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=2).     
-* [Σχετικά με τα δεδομένα που παρουσιάζουμε](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=3).
-* [Ενημερώσεις για τη Ρωσία](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=4).
-* [Ενημερώσεις για τη Τσεχική Δημοκρατία](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=7).
-* [Ενημερώσεις για τη Τουρκία](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=8).
-* [Ενημερώσεις για τη Πολωνία](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=9).
-* [Δεδομένα από Ουγγαρία, Σλοβακία και Λετονία](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=10).
-* [Τι μπορείτε να κάνετε](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=11).
-* [Επιστημονικές ευχαριστίες](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=12).
+* [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=2).     
+* [Σχετικά με τα δεδομένα που παρουσιάζουμε](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=3).
+* [Ενημερώσεις για τη Ρωσία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=4).
+* [Ενημερώσεις για τη Τσεχική Δημοκρατία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=7).
+* [Ενημερώσεις για τη Τουρκία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=8).
+* [Ενημερώσεις για τη Πολωνία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=9).
+* [Δεδομένα από Ουγγαρία, Σλοβακία και Λετονία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=10).
+* [Τι μπορείτε να κάνετε](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=11).
+* [Επιστημονικές ευχαριστίες](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-01?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -145,11 +149,9 @@ This pattern is consistent with one of these introductions to St. Petersburg tak
 # [Εκτεταμένη ανάμειξη περιπτώσεων σε όλη την Τουρκία Extensive mixing of cases across Turkey](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
 Στη μέση του δέντρου, βλέπουμε μια σειρά από θήκες από πολλές διαφορετικές επαρχίες γύρω από την Τουρκία.
-Ορισμένες από αυτές τις περιπτώσεις έχουν αναφέρει ιστορικό ταξιδιού στη Σαουδική Αραβία, με επακόλουθες στενά σχετικές περιπτώσεις στην Τουρκία.In the middle of the tree, we see a string of cases sampled from many different provinces around Turkey.
-Some of these cases have reported travel history to Saudi Arabia, with subsequent closely related cases in Turkey.
+Ορισμένες από αυτές τις περιπτώσεις έχουν αναφέρει ιστορικό ταξιδιού στη Σαουδική Αραβία, με επακόλουθες στενά σχετικές περιπτώσεις στην Τουρκία.In the middle of the tree, we see a string of cases sampled from many different provinces around Turkey.Some of these cases have reported travel history to Saudi Arabia, with subsequent closely related cases in Turkey.
 <br><br>
-Κανονικά, μπορούμε να υποθέσουμε ότι οι ταξιδιώτες που επέστρεψαν είχαν μεταδώσει τον ιό στα μέλη του νοικοκυριού ή τους γείτονες στο σπίτι τους.
-Normally, we might assume that returning travelers had passed the virus to household members or neighbors back home.
+Κανονικά, μπορούμε να υποθέσουμε ότι οι ταξιδιώτες που επέστρεψαν είχαν μεταδώσει τον ιό στα μέλη του νοικοκυριού ή τους γείτονες στο σπίτι τους.Normally, we might assume that returning travelers had passed the virus to household members or neighbors back home.
 Είναι ενδιαφέρον, ωστόσο, ότι στίς περιπτώσεις των ταξιδιωτών είχαν γινει οι δειγματοληψίες από διαφορετικές επαρχίες αντί των πιο στενά συνδεδεμένων περιπτώσεων. Interestingly, though, the travelers' cases were often sampled from different provinces than the most closely related cases.
 <br><br>
 Αυτό δείχνει ότι υπήρξε εκτεταμένη ανάμιξη ιογενών καταγωγών, που έφτασαν σε πολλές επαρχίες της Τουρκίας εντός μίας εβδομάδας.
