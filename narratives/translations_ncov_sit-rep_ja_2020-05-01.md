@@ -68,68 +68,68 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/europe/2020-05-01?d=tree&f_region=Europe&legend=closed)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
+# [COVID-19 に関する資料](https://nextstrain.org/ncov/europe/2020-05-01?d=tree&f_region=Europe&legend=closed)
+このレポートで紹介するデータを理解するための資料を用意しています。
 #### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [最初にご覧下さい: 系統樹の読み方](https://nextstrain.org/narratives/trees-background/ja/).  
+* [コロナウイルスの背景](https://nextstrain.org/help/coronavirus/human-CoV).
+* [よくある誤解](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-13?n=11).
 
 #### External Resources  
-* [How SARS-CoV-2 mutates and spreads](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [Why the coronavirus is so confusing](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/).
+* [SARS-CoV-2 の変異と拡散の仕組み](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [「Ask a Scientist」とよくある質問と答え](https://covid19.fas.org/).
+* [WHO の状況報告](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [CDC の資料](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [なぜコロナウィルスは大きな混乱を招くのか](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 3-->
-# [A note on sampling](https://nextstrain.org/ncov/europe/2020-05-01?c=country&r=country&d=map&f_region=Europe&p=grid&legend=closed)
-We currently have sequences from samples collected across 6 continents. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [データについて](https://nextstrain.org/ncov/europe/2020-05-01?c=country&r=country&d=map&f_region=Europe&p=grid&legend=closed)
+現在、６大陸で採取されたサンプルの遺伝子配列があり、これは信じられないほどの成果です。流行の最中に未知の大型 RNA ウイルスの遺伝子を解析することは難しく、世界中の科学者や医師による信じられないような作業とタイムリーなデータの共有があって初めて可能になりました。
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+このデータにより、多くの有用な特性を推測し、流行の広がりをリアルタイムで追跡することができますが、結論は利用可能なデータによって制限されることに留意して下さい。
 <br><br>
-For example, the map shows many samples from Iceland, the U.K., and the Netherlands. This does not necessarily indicate that SARS-CoV-2 is circulating more broadly in these areas; rather, we just have more data available from these countries. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+例えば、この地図にはアイスランド、イギリス、オランダの多くの遺伝子配列が表示されています。これは COVID-19 がこれらの地域でより大規模に広まっていることを示している訳ではなく、データがより多く集まっていることを示しています。マップ上の各円のサイズは、実際の流行の広がり度合いを示すというよりも、そのエリアにおいて利用可能なデータ量を示しています。
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Many introductions to Russia](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [ロシア連邦への多くの伝播](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
-Highlighting samples from Russia, we see that they are scattered both geographically (across Russia) and genomically (across the tree).
+ロシア連邦のサンプルを表示すると、地理的に（ロシア全体に）ゲノム的に（系統樹全体に）散らばっていることがわかります。
 <br><br>
-This indicates that the epidemic in Russia was sparked by many separate introductions, rather than a single introduction followed by within-country spread.
+これは、ロシア連邦の国々での流行が、一度の伝播からの感染拡大ではなく、多くの別々の伝播によって引き起こされたことを示しています。
 <br><br>
-While there are a few samples towards the bottom of the tree that are most closely related to Asian cases, the majority of Russian samples descend from European lineages.
+系統樹の下部にはアジアの事例と強く関連するサンプルがいくつかありますが、ロシア連邦のサンプルの大部分は欧州からの系統に由来しています。
 
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [Heterogeneous outbreak in Moscow](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [モスクワでの "まだらな" 感染拡大](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
-An example of frequent importation can be seen by zooming in on samples from Moscow.
+モスクワからのサンプルを拡大すると、頻繁な伝播の例を見ることができます。
 <br><br>
-There are a few clusters of cases which are most closely related to other samples from Moscow, indicating likely local transmission.
-However, most samples from Moscow are most closely related to samples from elsewhere, consistent with importation.
+モスクワからの他のサンプルと特に密接に関連しているいくつかの症例のクラスターがあり、地域感染の可能性を示しています。
+ただし、モスクワのほとんどのサンプルは、他の場所のサンプルと最も密接に関連しており、他の地域からの伝播と一致しています。
 <br><br>
-Given the number of confirmed cases in Moscow, it's likely that at least some of these introductions led to further local spread, but we don't yet have enough data to see this.
+モスクワで確認された症例の数を考えると、これらの伝播の少なくとも一部が更に地域内に広がった可能性がありますが、これを確認するのに十分なデータがまだありません。
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Large outbreak cluster in St. Petersburg, sparked in early March](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [サンクトペテルブルクでの３月初旬に発生した感染拡大](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
-We can look at St. Petersburg as a counterexample.
+サンクトペテルブルクを反例としてみてみます。
 <br><br>
-As with Moscow, there are samples from St. Petersburg across the tree, indicating that there have been multiple introductions.
-Contrastingly, if you click 'Explore the Data Yourself' and zoom into the main cluster in the center of this view, we can see a large clade that is made up entirely of samples from St. Petersburg.
+モスクワと同様に、系統樹全体にサンクトペテルブルクからのサンプルがあり、複数の伝播があったことを示しています。
+対照的に「Explore the Data Yourself」をクリックして、表示された系統樹の中央にあるメインクラスターを拡大すると、サンクトペテルブルクからのサンプルだけで構成された大きな一群が見えます。
 <br><br>
-This pattern is consistent with one of these introductions to St. Petersburg taking off to spark widespread transmission across the city, starting around the first week of March. This large outbreak cluster is most closely related to samples from Western Europe, although we cannot rule out the possibility of an unsampled, intermediate transmission from elsewhere.
+このパターンは、３月の第１週頃からサンクトペテルブルクへの伝播の1つが広がり、街全体で地域感染が広がったことと一致しています。この大規模な感染拡大は西欧からのサンプルと最も密接に関連していますが、サンプルが採取されていない場所を経由した、間接的な伝搬の可能性を排除することはできません。
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
