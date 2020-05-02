@@ -61,7 +61,7 @@ Nous avons analysé 4442 génomes de COVID-19 partagés publiquement. En compara
 * Vaste mélange de cas à travers la Turquie suite à des introductions répétées liées aux voyages
 * Au moins 5 chaînes de transmission locales en République tchèque, probablement en raison d’introductions répétées d’Europe de l’Ouest
 * Au moins 11 introductions distinctes en Pologne
-* Premiers échantillons de Hongrie, Lettonie, Pologne, Slovaquie et Slovénie
+* Premiers échantillons de Hongrie, Lettonie, Slovaquie et Slovénie
 
 ```
 
