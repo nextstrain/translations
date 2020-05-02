@@ -18,7 +18,8 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
-  - Astrid Gall, Elisabeth Hirth
+  - Astrid Gall
+  - Elisabeth Hirth
 translatorLinks:
   - https://www.ebi.ac.uk/about/people/astrid-gall
   - https://bsse.ethz.ch/department/people/detail-person.MjM4ODcw.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html
@@ -36,15 +37,15 @@ abstract: "Dieser woechentliche Bericht verwendet oeffentlich geteilte genomisch
 <!-- This is left-side text 1-->
 # [Inhaltsverzeichnis](https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed)
 
-* [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=2).     
-* [Ueber diese Daten](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=3).
-* [Updates fuer Russland](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=4).
-* [Updates fuer die Tschechische Republik](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=7).
-* [Updates fuer die Tuerkei](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=8).
-* [Updates fuer Polen](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=9).
-* [Daten aus Ungarn, Slowakei, Slowenien und Lettland](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=10).
-* [Was Sie tun koennen](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=11).
-* [Wissenschaftliche Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=12).
+* [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-01?n=2).     
+* [Ueber diese Daten](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-01?n=3).
+* [Updates fuer Russland](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-01?n=4).
+* [Updates fuer die Tschechische Republik](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-01?n=7).
+* [Updates fuer die Tuerkei](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-01?n=8).
+* [Updates fuer Polen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-01?n=9).
+* [Daten aus Ungarn, Slowakei, Slowenien und Lettland](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-01?n=10).
+* [Was Sie tun koennen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-01?n=11).
+* [Wissenschaftliche Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-01?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -70,7 +71,7 @@ Wir haben einigen Quellen vorbereitet, die die Interpretation der Daten, die wir
 #### Nextstrain Quellen  
 * [BEGINNEN SIE HIER: Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/de).  
 * [Hintergrundwissen zu Coronaviren](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-03-13?n=11).
 
 #### Externe Quellen  
 * [Wie SARS-CoV-2 mutiert und sich ausbreitet](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
