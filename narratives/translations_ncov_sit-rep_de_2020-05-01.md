@@ -133,26 +133,24 @@ Dieses Muster stimmt damit ueberein, dass eine der Einschleppungen nach St. Pete
 <!-- This is left-side text 7-->
 # [Fuenf lokale Uebertragungsketten in der Tschechischen Republik](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Czech%20Republic&m=div&p=full)
 
-The data from the Czech Republic show a mix of these two patterns.
+Der Ausbruch in der Tschechischen Republik stellt sich als Gemisch dieser beiden Muster dar.
 <br><br>
-There are at least 7 instances where a sample isolated in the Czech Republic descends from a virus that was mostly likely circulating elsewhere in Europe, indicating new introductions between March 1 and April 2.
+Es gibt mindestens sieben Faelle, bei denen die in der Tschechischen Republik isolierte Probe von einem Virus abstammt, das woanders in Europa zirkuliert. Das deutet auf neue Einschleppungen zwischen dem 1. Maerz ud dem 2. April hin.
 <br><br>
-For 5 of these introductions, we also see closely related local cases, sampled over time. This is consistent with local transmission.
+Bei fuenf dieser Einschleppungen sehen wir auch nah verwandete Faelle, die ueber einen Zeitraum hinweg beprobt worden sind. Dies stimmt mit einer lokalen Uebertragung ueberein.
 <br><br>
-From this, we can say that there were at least 7 introductions to the Czech Republic; at least 5 of these likely led to further local transmission.
+Hieraus schlussfolgern wir, das es mindestens sieben Einschleppungen in die Tschechische Republik gegeben hat, von denen mindestens fuenf zu lokalen Uebertragungen gefuehrt haben.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
 # [Hochgradige Durchmischung von Faellen innerhalb der Tuerkei](https://nextstrain.org/ncov/europe/2020-04-29?c=country_exposure&d=tree,map&f_country=Turkey&label=clade:A2&p=full&r=division)
 
-In the middle of the tree, we see a string of cases sampled from many different provinces around Turkey.
-Some of these cases have reported travel history to Saudi Arabia, with subsequent closely related cases in Turkey.
+In der Mitte des Baumes sehen wir eine Serie von Faellen, die in verschiedenen Provinzen der Tuerkei beprobt worden sind.
+Einige dieser Faelle haben einen vorherigen Reiseverlauf nach Saudi-Arabien berichtet, mit spaeteren nah verwandten Faellen in der Tuerkei.
 <br><br>
-Normally, we might assume that returning travelers had passed the virus to household members or neighbors back home.
-Interestingly, though, the travelers' cases were often sampled from different provinces than the most closely related cases.
+Normalerweise wuerden wir annehmen, dass zurueckkehrende Reisende das Virus an Angehoerige ihres Haushaltes oder ihre Nachbarn uebertragen. Interessanterweise haben diese Faelle von Reisenden jedoch oft nah verwandte Faelle in anderen Provinzen.
 <br><br>
-This indicates that there has been extensive mixing of viral lineages, reaching many provinces of Turkey within one week.
-We may also speculate that a large gathering could explain these observations, although we would need additional epidemiological data to further investigate.
+Dies deutet auf eine hochgradige Durchmischung von viralen Linien hin, die viele Provinzen der Tuerkei innerhalb einer Woche erreichen. Wir koennen spekulieren, dass grosse Menschenansammlungen diese Beobachtungen erklaeren koennten, brauchen jedoch zusaetzliche epidemiologische Daten um das weiter zu untersuchen.
 <!-- There is no right-side text -->
 
 
@@ -162,17 +160,18 @@ We may also speculate that a large gathering could explain these observations, a
 <!-- This is left-side text 9-->
 # [Mindestens elf separate Einschleppungen nach Polen](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
 
-We have 15 sequences from Poland on Nextstrain. Of these 15, at least 11 of them represent separate introductions from elsewhere in the world.
-As in Moscow, given the number of reported cases, we might expect that several of these introductions have seeded local transmission chains in Poland, but we can't yet see this in the genomic data.
+Wir haben fuenfzehn Sequenzen aus Polen in Nextstrain. Davon repraesentieren mindesten elf separate Einschleppungen aus anderen Teilen der Welt.
+Wie in Moskau koennen wir basierend auf der Anzahl der berichteten Faelle erwarten, dass einige dieser Einschleppungen lokale Uebertragungketten in Polen initiiert haben. Wir koennen dies jedoch noch nicht in den genomischen Daten erkennen.
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Fruehe Proben aus Ungarn, Lettland , Slowakei und Slowenien](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [Fruehe Proben aus Ungarn, Lettland, Slowakei und Slowenien](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
-In March, 20 sequences were submitted from Hungary, Latvia, Slovakia, and Slovenia.
-While we don't yet have enough data from these countries to draw firm conclusions, we applaud these early efforts and will continue to monitor the incoming data.
+Im Maerz wurden 20 Sequenzen aus Ungarn, Lettland, Slowakei und Slowenien veroeffentlicht.
+
+Wir haben noch nicht genuegend Daten aus diesen Laendern, um klare Schlussfolgerungen machen zu koennen, begruessen jedoch diese fruehen Bemuehungen und werden die eingehenden Daten weiterhin beobachten.
 <!-- There is no right-side text -->
 
 
@@ -207,7 +206,7 @@ While we don't yet have enough data from these countries to draw firm conclusion
 <br><br>
 #### Es zirkulieren mindestens fuenf lokale Uebertragungsketten innerhalb der Tschechischen Republik. 
 <br><br>
-#### There have been at least 11 separate introductions of the virus to Poland.  
+#### Es gab mindestent elf separate Einschleppungen des Virus nach Polen.
 <br><br>
 #### Wir haben fruehe Proben aus Ungarn, Lettland , Slowakei und Slowenien erhalten. Wir haben noch nicht genuegend Daten, um Schlussfolgerungen machen zu koennen, werden aber die Situation weiterhin beobachten und sobald wie moeglich updates erstellen.
 ```
