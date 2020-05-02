@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-01.
+title: 新型コロナウイルス拡散の遺伝的解析と状況報告 2020-05-01.
 authors:
   - Sidney Bell  
   - Nicola Müller
@@ -18,12 +18,18 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Tomoyuki Nezu
+  - Takeshi Sato
+  - Fengjun Zhang
 translatorLinks:
+  - https://twitter.com/tommy_nezy
+  - https://github.com/satotake
+  - https://twitter.com/fengjun_zhang
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed"
 date: 2020-May-01
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on outbreak dynamics in Central and Eastern Europe."
+abstract: "この週次レポートでは、公開されたゲノムデータを用いて COVID-19 の広がりを追跡しています。今週は中欧および東欧での感染拡大に焦点を充てています"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,17 +37,17 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed)
+# [目次](https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=3).
-* [Updates for Russia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=4).
-* [Updates for the Czech Republic](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=7).
-* [Updates for Turkey](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=8).
-* [Updates for Poland](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=9).
-* [Data from Hungary, Slovakia, Slovenia and Latvia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=10).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=11).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=12).
+* [資料](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-01?n=2).     
+* [データについて](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-01?n=3).
+* [ロシア連邦に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-01?n=4).
+* [チェコ共和国に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-01?n=7).
+* [トルコ共和国に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-01?n=8).
+* [ポーランド共和国に関するアップデート](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-01?n=9).
+* [ハンガリー、スロバキア共和国、スロベニア共和国、ラトビア共和国からのデータについて](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-01?n=10).
+* [私たちのできること](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-01?n=11).
+* [分析データのクレジット](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-01?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
