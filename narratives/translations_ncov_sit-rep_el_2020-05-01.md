@@ -163,55 +163,56 @@ We may also speculate that a large gathering could explain these observations, a
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [At least 11 introductions to Poland](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [Τουλάχιστον 11 εισαγωγές στην Πολωνία At least 11 introductions to Poland](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
 
-We have 15 sequences from Poland on Nextstrain. Of these 15, at least 11 of them represent separate introductions from elsewhere in the world.
-As in Moscow, given the number of reported cases, we might expect that several of these introductions have seeded local transmission chains in Poland, but we can't yet see this in the genomic data.
+Έχουμε 15 ακολουθίες από την Πολωνία στο Nextstrain. Από αυτες τις 15, τουλάχιστον 11 από αυτές αντιπροσωπεύουν ξεχωριστές εισαγωγές από άλλες χώρες. We have 15 sequences from Poland on Nextstrain. Of these 15, at least 11 of them represent separate introductions from elsewhere in the world.
+Όπως και στη Μόσχα, δεδομένου του αριθμού των περιπτώσεων που αναφέρθηκαν, θα μπορούσαμε να αναμένουμε ότι πολλές από αυτές τις εισαγωγές έχουν δημιουργήσει τοπικές αλυσίδες μετάδοσης στην Πολωνία, αλλά δεν μπορούμε να το δούμε ακόμα στα γονιδιωματικά δεδομένα.As in Moscow, given the number of reported cases, we might expect that several of these introductions have seeded local transmission chains in Poland, but we can't yet see this in the genomic data.
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Early samples from Hungary, Latvia, Slovakia and Slovenia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [Πρώιμα δείγματα από την Ουγγαρία, τη Λετονία, τη Σλοβακία και τη Σλοβενία Early samples from Hungary, Latvia, Slovakia and Slovenia](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
-In March, 20 sequences were submitted from Hungary, Latvia, Slovakia, and Slovenia.
+Τον Μάρτιο, υποβλήθηκαν 20 ακολουθίες από την Ουγγαρία, τη Λετονία, τη Σλοβακία και τη Σλοβενία.
+Αν και δεν έχουμε ακόμη αρκετά δεδομένα από αυτές τις χώρες για να εξαγάγουμε σταθερά συμπεράσματα, επικροτούμε αυτές τις πρώτες προσπάθειες και θα συνεχίσουμε να παρακολουθούμε τα εισερχόμενα δεδομένα.In March, 20 sequences were submitted from Hungary, Latvia, Slovakia, and Slovenia.
 While we don't yet have enough data from these countries to draw firm conclusions, we applaud these early efforts and will continue to monitor the incoming data.
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 11-->
-# [What you can do](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Τί μπορείτε να κάνετε](https://nextstrain.org/ncov/2020-03-27?c=country&d=map&p=full)
+#### ...ο καθένας ξεχωριστά
+* Τηρείτε τα μέτρα κοινωνικής απόστασης, ειδικά εάν ανήκετε σε ευπαθή ομάδα.
+* Να θυμάστε πως ακόμα κι αν δεν ανήκετε σε ευπαθή ομάδα, πολλοί άνθρωποι γύρω σας ανήκουν σε κάποια ευπαθή ομάδα. Ακολουθήστε τις πρακτικές αυτές ώστε να τους προστατέψετε.
+* Πλένετε τα χέρια σας "σα να έχετε κόψει μια καυτερή πιπεριά και πρέπει να αλλάξετε φακούς επαφής".
+* Μείνετε στο σπίτι όσο γίνεται περισσότερο -- ειδικά εάν είστε άρρωστοι. Προμηθευτείτε επιπλέον ποσότητες τροφίμων σε περίπτωση που χρειαστεί να μπείτε σε καραντίνα.
+* Εάν είστε εργοδότης, ενθαρρύνετε τους εργαζομένους σας να δουλεύουν από το σπίτι όσο αυτό είναι δυνατό.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...η πολιτεία  
+* Κάνετε εκτεταμένους και δωρεάν ελέγχους για τον εντοπισμό του ιού.
+* Εφαρμόστε ισχυρά μέτρα κοινωνικής απόστασης.  
+* Χρηματοδοτήστε και υλοποιήστε προσπάθειες ιχνηλάτησης.
+* Υποστηρίξτε οικονομικά αυτούς που πλήγονται από τα μέτρα αποκλεισμού.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Συμπεράσματα
 
-#### SARS-COV-2 has been introduced to Russia many times; Moscow's outbreak is highly heterogeneous.
+#### SARS-COV-2 έχει εισαχθεί στη Ρωσία πολλές φορές. Το ξέσπασμα της Μόσχας είναι εξαιρετικά ανομοιογενές. has been introduced to Russia many times; Moscow's outbreak is highly heterogeneous.
 <br><br>
-#### There have been multiple introductions to St. Petersburg. One of these introductions, from Western Europe in early March, sparked a large cluster of locally transmitted cases.
+#### Υπήρξαν πολλές εισαγωγές στην Αγία Πετρούπολη. Μία από αυτές τις εισαγωγές, από τη Δυτική Ευρώπη στις αρχές Μαρτίου, πυροδότησε ένα μεγάλο σύμπλεγμα τοπικών μεταδιδόμενων περιπτώσεων. There have been multiple introductions to St. Petersburg. One of these introductions, from Western Europe in early March, sparked a large cluster of locally transmitted cases.
 <br><br>
-#### Following repeated travel-related introductions, there has been extensive and rapid mixing of viral lineages across Turkey.
+#### Μετά από επανειλημμένες εισαγωγές που σχετίζονται με ταξίδια, υπήρξε εκτεταμένη και ταχεία ανάμιξη ιογενών καταγωγών σε όλη την Τουρκία. Following repeated travel-related introductions, there has been extensive and rapid mixing of viral lineages across Turkey.
 <br><br>
-#### There are at least 5 local transmission chains circulating across the Czech Republic.  
+#### Υπάρχουν τουλάχιστον 5 τοπικές αλυσίδες μεταφοράς σε όλη την Τσεχική Δημοκρατία. There are at least 5 local transmission chains circulating across the Czech Republic.  
 <br><br>
-#### There have been at least 11 separate introductions of the virus to Poland.  
+#### Έχουν γίνει τουλάχιστον 11 ξεχωριστές εισαγωγές του ιού στην Πολωνία. There have been at least 11 separate introductions of the virus to Poland.  
 <br><br>
-#### We have receieved early samples from Hungary, Latvia, Slovakia and Slovenia. While we don't yet have enough data to draw conclusions, we will continue monitoring and provide updates as soon as possible.
+#### Λάβαμε πρώιμα δείγματα από την Ουγγαρία, τη Λετονία, τη Σλοβακία και τη Σλοβενία. Αν και δεν έχουμε ακόμη αρκετά δεδομένα για να εξαγάγουμε συμπεράσματα, θα συνεχίσουμε να παρακολουθούμε και να παρέχουμε ενημερώσεις το συντομότερο δυνατό. We have receieved early samples from Hungary, Latvia, Slovakia and Slovenia. While we don't yet have enough data to draw conclusions, we will continue monitoring and provide updates as soon as possible.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -224,20 +225,19 @@ While we don't yet have enough data from these countries to draw firm conclusion
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 12-->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
+# [Επιστημονικές ευχαριστίες](https://nextstrain.org/ncov/2020-05-01?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Θα θέλαμε να ευχαριστήσουμε την υπέροχη και συνεχή προσπάθεια όλων των επιστημόνων που έχουν εργαστεί σε αυτήν την πανδημία. Μόνο μέσα από τον άμεσο διαμοιρασμό γενομικών δεδομένων και μεταδεδομένων είναι δυνατό να πραγματοποιηθούν αναλύσεις σαν κι αυτήν.
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/blob/e8020ca13e420bb62e31acf9a07268bc08b11c63/narratives/sit-rep_credits.md).
+Οι συγκεκριμένες αλληλουχίες που παρέχονται από κάθε εργαστήριο [παρατίθενται εδώ](https://github.com/nextstrain/ncov/blob/e8020ca13e420bb62e31acf9a07268bc08b11c63/narratives/sit-rep_credits.md).
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Επίσης ευχαριστούμε θερμά την GISAID που παρέχει τη διαδικτυακή πλατφόρμα διαμοιρασμού των δεδομένων.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Είμαστε ευγνώμονες για τα δεδομένα που συλλέχθηκαν από τα παρακάτω εργαστήρια:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
