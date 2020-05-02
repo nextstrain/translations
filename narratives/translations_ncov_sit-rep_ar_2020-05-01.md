@@ -23,6 +23,7 @@ translators:
 translatorLinks:
   - https://twitter.com/DrSalehAhmad
   - https://twitter.com/biofadialnaji
+translatorLinks:
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed"
@@ -74,7 +75,7 @@ abstract: "يستخدم هذا التقرير الاسبوعي بيانات ال
 * [مفاهيم خاطئة شائعة](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-03-13?n=11).
 
 #### مصادر خارجية
-* [كيف يتحور SARS-Cov-2 وينتشر](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [كيف يتحور SARS-CoV-2 وينتشر](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
 * [اسأل عالمأ والاسئلة الشائعة](https://covid19.fas.org/).
 * [تقارير منظمة الصحة العالمية](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [مصادر مركز مكافحة الأمراض الأمريكي](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
