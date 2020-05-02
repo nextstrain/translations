@@ -94,13 +94,13 @@ We analyzed 4,442 publicly shared COVID-19 genomes. By comparing these viral gen
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 4-->
-# [Many introductions to Russia](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
+# [Πολλές εισαγωγές στη Ρωσία Many introductions to Russia](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree,map&f_country=Russia&p=full&r=division)
 
-Highlighting samples from Russia, we see that they are scattered both geographically (across Russia) and genomically (across the tree).
+Τονίζοντας δείγματα από τη Ρωσία, βλέπουμε ότι είναι διάσπαρτα τόσο γεωγραφικά (σε ολόκληρη τη Ρωσία) όσο και γενωμικά (σε όλο το δέντρο). Highlighting samples from Russia, we see that they are scattered both geographically (across Russia) and genomically (across the tree).
 <br><br>
-This indicates that the epidemic in Russia was sparked by many separate introductions, rather than a single introduction followed by within-country spread.
+Αυτό δείχνει ότι η επιδημία στη Ρωσία προκλήθηκε από πολλές ξεχωριστές εισαγωγές, και όχι από μια εισαγωγή ακολουθούμενη από  εξάπλωση εντός της χώρας.This indicates that the epidemic in Russia was sparked by many separate introductions, rather than a single introduction followed by within-country spread.
 <br><br>
-While there are a few samples towards the bottom of the tree that are most closely related to Asian cases, the majority of Russian samples descend from European lineages.
+Ενώ υπάρχουν μερικά δείγματα προς το κάτω μέρος του δέντρου που σχετίζονται στενότερα με ασιατικές περιπτώσεις, η πλειονότητα των Ρωσικών αλληλουχιών προέρχεται από ευρωπαϊκές γενεαλογίες. While there are a few samples towards the bottom of the tree that are most closely related to Asian cases, the majority of Russian samples descend from European lineages.
 
 <!-- There is no right side text -->
 
