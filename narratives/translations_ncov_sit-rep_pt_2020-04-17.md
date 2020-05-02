@@ -17,14 +17,17 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: Glaucio Oliveira
-translatorLinks: https://www.linkedin.com/in/glauciosantos/
+translators:
+  - Glaucio Oliveira
+  - Talita Amado
+translatorLinks:
+  - https://www.linkedin.com/in/glauciosantos/
+  - https://twitter.com/amadotalita
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 date: "2020 April 17"
 dataset: "https://nextstrain.org/ncov/north-america/2020-04-17?c=division&d=tree,map&f_country=USA&p=full&r=division&legend=closed"
 abstract: "Esse relatório utiliza dados genômicos compartilhados publicamente para rastrear o espalhamento de COVID-19. Essa semana, focamos no surto nos Estados Unidos. Para a maioria das áreas do país, encontramos evidências de múltiplas introduções — de ambas as formas: domésticas e internacionais. Esses dados enfatizam que as decisões tomadas por cada estado impactam profundamente o destino dos outros."
-
 ---
 
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
@@ -35,14 +38,14 @@ abstract: "Esse relatório utiliza dados genômicos compartilhados publicamente 
 <!-- This is left-side text 1-->
 # [Fontes e Recursos](https://nextstrain.org/ncov/north-america/2020-04-17?d=tree,map&p=grid)
 
-* [Antecedentes](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=2).     
-* [Sobre os dados](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=3).
-* [Atualizações sobre Nova Iorque](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=4).
-* [Atualizações sobre a Califórnia](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=7).
-* [Atualizações sobre o Centro-Oeste americano](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=8).
-* [Atualizações sobre as Montanhas Rochosas do Oeste](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=9).
-* [O que você pode fazer](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=10).
-* [Créditos científicos](https://nextstrain.org/narratives/ncov/sit-rep/2020-04-17?n=11).
+* [Antecedentes](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-17?n=2).     
+* [Sobre os dados](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-17?n=3).
+* [Atualizações sobre Nova Iorque](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-17?n=4).
+* [Atualizações sobre a Califórnia](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-17?n=7).
+* [Atualizações sobre o Centro-Oeste americano](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-17?n=8).
+* [Atualizações sobre as Montanhas Rochosas do Oeste](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-17?n=9).
+* [O que você pode fazer](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-17?n=10).
+* [Créditos científicos](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-17?n=11).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -71,7 +74,7 @@ Preparamos alguns materiais que tornarão mais fácil a interpretação dos dado
 * [Informações acerca dos coronavírus](https://nextstrain.org/help/coronavirus/human-CoV).
 * [Equívocos comuns](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-13?n=11).
 
-#### Materiais Externos 
+#### Materiais Externos
 * [Pergunte a um cientista & Perguntas Frequentes](https://covid19.fas.org/l/en).
 * [Relatórios de situação da OMS](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [Materiais do CDC (Centro de Controle de Doenças/EUA)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
@@ -108,7 +111,7 @@ O agrupamento de Nova Iorque é cercado e intercalado com seqüências da Europa
 
 Boa parte do surto de Nova Iorque foi resultado de introdução(ões) européia(s). Mas as seqüências contextuais de outras regiões do mundo nos permitem ver introduções adicionais na cidade. Fiel à sua natureza cosmopolita, há casos em Nova Iorque intimamente relacionados a amostras de todas as outras regiões do mundo além da Europa.
 <br><br>
-Os primeiros casos de Nova Iorque provavelmente representam transmissões de entrada. Mais tarde, no surto, vemos uma maior mistura entre amostras européias e de Nova Iorque, tornando menos clara a direção das transmissões posteriores. Conforme relatamos na [semana passada](https://nextstrain.org/community/narratives/nextstrain/translations@sit-rep_pt/ncov/sit-rep/pt/2020-04-10?f_region=Asia&n=11), também há evidências de reintroduções recentes dos EUA para a Europa e Ásia.
+Os primeiros casos de Nova Iorque provavelmente representam transmissões de entrada. Mais tarde, no surto, vemos uma maior mistura entre amostras européias e de Nova Iorque, tornando menos clara a direção das transmissões posteriores. Conforme relatamos na [semana passada](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-04-10?n=11), também há evidências de reintroduções recentes dos EUA para a Europa e Ásia.
 
 <!-- There is no right side text -->
 
