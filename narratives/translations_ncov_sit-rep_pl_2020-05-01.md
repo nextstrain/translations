@@ -59,7 +59,7 @@ Przeanalizowaliśmy 4,442</tag> publicznie dostępne genomy SARS-CoV-2. Porównu
 * Rozległe mieszanie się przypadków w Turcji po wielokrotnych introdukcjach związanych z podróżami
 * Co najmniej 5</tag> lokalnych łańcuchów transmisji w Czechach, najprawdopodobniej powiązanych z wielokrotnymi introdukcjami z Zachodniej Europy
 * Co najmniej 11</tag> odrębnych introdukcji do Polski
-* Wczesne przypadki z Węgier, Łotwy, Polski, Słowacji i Słowenii 
+* Wczesne przypadki z Węgier, Łotwy, Słowacji i Słowenii 
 ```
 
 
@@ -209,7 +209,7 @@ As in Moscow, given the number of reported cases, we might expect that several o
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 10-->
-# [Wczesne przypadki z Węgier, Łotwy, Polski, Słowacji i Słowenii](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
+# [Wczesne przypadki z Węgier, Łotwy, Słowacji i Słowenii](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
 W marcu, 20</tag> sekwencji zostało przesłanych z Węgier, Łotwy, Słowacji i Słowenii.
 Podczas gdy nie mamy jeszcze wystarczającej ilości danych z tych krajów aby wyciągnąć stanowcze konkluzje, jesteśmy wdzięczni za te wczesne wysiłki w sekwencjonowaniu i będziemy monitorować nowe przychodzące dane.
