@@ -101,7 +101,7 @@ Zaznaczając próbki z Rosji, widzimy, że są rozsiane geograficznie (w poprzek
 <br><br>
 To pokazuje, że epidemia w Rosji została zainicjowana przez wiele odrębnych introdukcji, a nie przez pojedynczą introdukcję i następujące rozprzestrzenienie się w obrębie kraju. 
 <br><br>
-Podczas gdy niewiele próbek znajdujących się na dole drzewa jest związana z przypadkami w Azji, większość rosyjskich próbek wywodzi się z wariantów europejskich.
+Podczas gdy nieliczne próbki znajdujące się na dole drzewa są związana z przypadkami w Azji, większość rosyjskich próbek wywodzi się z wariantów europejskich.
 
 <!-- Highlighting samples from Russia, we see that they are scattered both geographically (across Russia) and genomically (across the tree).
 <br><br>
@@ -135,9 +135,9 @@ Given the number of confirmed cases in Moscow, it's likely that at least some of
 Jako kontrprzykład, możemy spojrzeć na Petersburg.
 <br><br>
 Tak jak w Moskwie, przypadki z Petersburga znajdują się na całej długości drzewa, wskazując na wielokrotne introdukcje.
-Przeciwnie do Moskwy, jak klikniesz na 'Explore the Data Yourself' i przybliżysz na główny klaster po środku, widać dluży klad, który składa się jedynie z przypadków z Petersburga.
+Przeciwnie do Moskwy, jak klikniesz na 'Explore the Data Yourself' i przybliżysz na główny klaster po środku, widać duży klad, który składa się jedynie z przypadków z Petersburga.
 <br><br>
-Ten wzór jest zgodny z jedną introdukcją do Petersburga, która zapoczątkowała szeroką transmisję w poprzek miasta, zaczynając w pierwszym tygodniu marca. To duże ognisko epidemii jest najbliżej spokrewnione do próbek z Zachodnie Europy, chociaż nie możemy wykluczyć, że była to niepróbkowana pośrednia transmisja z innego regionu.
+Ten wzór jest zgodny z jedną introdukcją do Petersburga, która zapoczątkowała szeroką transmisję w obrębie miasta, zaczynając w pierwszym tygodniu marca. To duże ognisko epidemii jest najbliżej spokrewnione do próbek z Zachodniej Europy, chociaż nie możemy wykluczyć, że była to niepróbkowana pośrednia transmisja z innego regionu.
 
 <!-- We can look at St. Petersburg as a counterexample.
 <br><br>
