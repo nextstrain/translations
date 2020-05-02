@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-01.
+title: Γονιδιωματική ανάλυση της εξάπλωσης του COVID-19. Αναφορά κατάστασης 01/05/2020.
 authors:
   - Sidney Bell  
   - Nicola Müller
@@ -23,7 +23,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed"
 date: 2020-May-01
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on outbreak dynamics in Central and Eastern Europe."
+abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on outbreak dynamics in Central and Eastern Europe.Aυτή η εβδομαδιαία αναφορά χρησιμοποιεί δεδομένα που είναι δημοσίως διαθέσιμα για την ιχνηλάτηση της εξάπλωσης της ασθένειας COVID-19. Αυτή την εβομάδα εστιάζουμε στην Κεντρική και Ανατολική Ευρώπη"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,50 +31,51 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed)
+# [Περιεχόμενα](https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=3).
-* [Updates for Russia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=4).
-* [Updates for the Czech Republic](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=7).
-* [Updates for Turkey](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=8).
-* [Updates for Poland](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=9).
-* [Data from Hungary, Slovakia, Slovenia and Latvia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=10).
-* [What you can do](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=11).
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=12).
+* [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=2).     
+* [Σχετικά με τα δεδομένα που παρουσιάζουμε](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=3).
+* [Ενημερώσεις για τη Ρωσία](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=4).
+* [Ενημερώσεις για τη Τσεχική Δημοκρατία](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=7).
+* [Ενημερώσεις για τη Τουρκία](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=8).
+* [Ενημερώσεις για τη Πολωνία](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=9).
+* [Δεδομένα από Ουγγαρία, Σλοβακία και Λετονία](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=10).
+* [Τι μπορείτε να κάνετε](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=11).
+* [Επιστημονικές ευχαριστίες](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Γενική περίληψη
 
+Έχουμε αναλύσει 4,442 δημοσίως διαθέσιμα γονιδιώματα COVID-19. Συγκρίνοντας αυτά τα ιικά γονιδιώματα μεταξύ τους μπορούμε να κατανοήσουμε πώς ο COVID-19 μετακινείται στην υφήλιο και πώς διασπείρεται τοπικά. Στην αναφορά συτής της εβδομάδας εστιάζουμε στην Κεντρική και Ανατολική Ευρώπη και αναφέρουμε:
 We analyzed 4,442 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on Central & Eastern Europe and report:
 
-* Many introductions to Russia  
-* Heterogeneous outbreak in Moscow  
-* Majority of St. Petersburg outbreak tied to a single introduction, most likely from Western Europe  
-* Extensive mixing of cases across Turkey following repeated travel-related introductions  
-* At least 5 local transmission chains in the Czech Republic, mostly likely due to repeated introductions from Western Europe
-* At least 11 separate introductions to Poland
-* Early samples from Hungary, Latvia, Poland, Slovakia and Slovenia  
+* Πολλές εισαγωγές στη Ρωσία Many introductions to Russia  
+* Ανομοιγενή επιδημία στη Μόσχα Heterogeneous outbreak in Moscow  
+* Η πλειονότητα της επιδημίας της Αγίας Πετρούπολης συνδέεται με μια μόνο εισαγωγή, πιθανότατα από τη Δυτική Ευρώπη Majority of St. Petersburg outbreak tied to a single introduction, most likely from Western Europe  
+* Εκτεταμένη ανάμειξη περιπτώσεων σε ολόκληρη την Τουρκία μετά από επαναλαμβανόμενες εισαγωγές που σχετίζονται με ταξίδια Extensive mixing of cases across Turkey following repeated travel-related introductions  
+* Τουλάχιστον 5 τοπικές αλυσίδες μετάδοσης στην Τσεχική Δημοκρατία, πιθανότατα οφείλονται σε επαναλαμβανόμενες εισαγωγές από τη Δυτική Ευρώπη At least 5 local transmission chains in the Czech Republic, mostly likely due to repeated introductions from Western Europe
+* Τουλάχιστον 11 ξεχωριστές εισαγωγές στην Πολωνία At least 11 separate introductions to Poland
+* ρόωρα δείγματα από την Ουγγαρία, τη Λετονία, την Πολωνία, τη Σλοβακία και τη Σλοβενία Early samples from Hungary, Latvia, Poland, Slovakia and Slovenia  
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/europe/2020-05-01?d=tree&f_region=Europe&legend=closed)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
+# [COVID-19 Πηγές](https://nextstrain.org/ncov/europe/2020-05-01?d=tree&f_region=Europe&legend=closed)
+Έχουμε ετοιμάσει ορισμένες πηγές πληροφόρησης που θα σας διευκολύνουν στην ερμηνεία των δεδοδμένων που παρουσιάζονται σε αυτή την αναφορά.We've prepared some resources that will make interpreting the data we present in this narrative easier.
 #### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [ΞΕΚΙΝΗΣΤΕ ΕΔΩ: Πώς να ερμηνεύσετε ένα φυλογενετικό δέντρο.START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
+* [Βασικές γνώσεις σχετικά με τους κορωνοϊούς. Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Συχνές παρερμηνείες. Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [How SARS-CoV-2 mutates and spreads](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [Why the coronavirus is so confusing](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/).
+#### Εξωτερικοί Σύνδεσμοι  
+* [Πώς μεταλλάσσεται και μεταδίδεται ο SARS-CoV-2 How SARS-CoV-2 mutates and spreads](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [Ρωτήστε έναν επιστήμονα & Συχνές ερωτήσεις. Ask a Scientist & FAQs](https://covid19.fas.org/).
+* [Αναφορές κατάστασης του ΠΟΥ. WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Πηγές του CDC. CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Γιατί ο κοροναϊός είναι τόσο μπερδεμένος Why the coronavirus is so confusing](https://www.theatlantic.com/health/archive/2020/04/pandemic-confusing-uncertainty/610819/).
 <!-- There is no right-side text -->
 
 
