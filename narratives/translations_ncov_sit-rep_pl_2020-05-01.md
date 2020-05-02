@@ -130,14 +130,21 @@ Given the number of confirmed cases in Moscow, it's likely that at least some of
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [Large outbreak cluster in St. Petersburg, sparked in early March](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [Duże ognisko epidemii w Petersburgu, wywołanej na początku marca](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
-We can look at St. Petersburg as a counterexample.
+Jako kontrprzykład, możemy spojrzeć na Petersburg.
+<br><br>
+Tak jak w Moskwie, przypadki z Petersburga znajdują się na całej długości drzewa, wskazując na wielokrotne introdukcje.
+Przeciwnie do Moskwy, jak klikniesz na 'Explore the Data Yourself' i przybliżysz na główny klaster po środku, widać dluży klad, który składa się jedynie z przypadków z Petersburga.
+<br><br>
+Ten wzór jest zgodny z jedną introdukcją do Petersburga, która zapoczątkowała szeroką transmisję w poprzek miasta, zaczynając w pierwszym tygodniu marca. To duże ognisko epidemii jest najbliżej spokrewnione do próbek z Zachodnie Europy, chociaż nie możemy wykluczyć, że była to niepróbkowana pośrednia transmisja z innego regionu.
+
+<!-- We can look at St. Petersburg as a counterexample.
 <br><br>
 As with Moscow, there are samples from St. Petersburg across the tree, indicating that there have been multiple introductions.
 Contrastingly, if you click 'Explore the Data Yourself' and zoom into the main cluster in the center of this view, we can see a large clade that is made up entirely of samples from St. Petersburg.
 <br><br>
-This pattern is consistent with one of these introductions to St. Petersburg taking off to spark widespread transmission across the city, starting around the first week of March. This large outbreak cluster is most closely related to samples from Western Europe, although we cannot rule out the possibility of an unsampled, intermediate transmission from elsewhere.
+This pattern is consistent with one of these introductions to St. Petersburg taking off to spark widespread transmission across the city, starting around the first week of March. This large outbreak cluster is most closely related to samples from Western Europe, although we cannot rule out the possibility of an unsampled, intermediate transmission from elsewhere. -->
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
