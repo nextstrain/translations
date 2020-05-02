@@ -51,17 +51,17 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# 概要
 
-We analyzed 4,442 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on Central & Eastern Europe and report:
+ここでは、公に共有されている 4,442 種の COVID-19 ゲノムを分析しました。これらのウイルスのゲノムを相互に比較することにより、COVID-19 が世界中をどのように移動しているか、地域の中でどのように拡散しているかを特徴付けることができます。今週の更新では中欧および東欧に焦点を充てて報告します:
 
-* Many introductions to Russia  
-* Heterogeneous outbreak in Moscow  
-* Majority of St. Petersburg outbreak tied to a single introduction, most likely from Western Europe  
-* Extensive mixing of cases across Turkey following repeated travel-related introductions  
-* At least 5 local transmission chains in the Czech Republic, mostly likely due to repeated introductions from Western Europe
-* At least 11 separate introductions to Poland
-* Early samples from Hungary, Latvia, Poland, Slovakia and Slovenia  
+* ロシア連邦への多くの伝播
+* モスクワでの "まだらな" 感染拡大 (translator note: translated Heterogeneous to 「まだらな」. generaly 「不均一」)
+* サンクトペテルブルクでの感染拡大の大部分は、おそらく西欧からの単一の伝播に関連
+* トルコ全土における広範な勝利絵の混合は、旅行関連の伝播が繰り返された事による
+* チェコ共和国での少なくとも５つの地域感染は、主に西欧からの繰り返しの伝播が原因
+* ポーランド共和国へは少なくとも１１回の伝播
+* ハンガリー、ラトビア共和国、ポーランド共和国、スロバキア共和国、スロベニア共和国の初期のサンプルについて
 ```
 
 
