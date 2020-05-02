@@ -125,7 +125,7 @@ Na cidade de Nova Iorque, vemos pouca segregação de casos por distrito. Isso �
 <!-- This is left-side text 7-->
 # [Surto na Califórnia relacionado a estados próximos e distantes](https://nextstrain.org/ncov/north-america/2020-04-17?c=division&f_division=California,New%20York,Washington&r=division&d=tree,map&legend=closed)
 
-Também vemos evidências de múltiplas introduções entre estados. Por exemplo, casos da Califórnia abrangem a diversidade genética da árvore, agrupando-se com amostras do estado de Washington e de Nova Iorque. Isso é uma prova da transmissão entre a Califórnia e tanto estados vizinhos, quanto distantes.
+Também vemos evidências de múltiplas introduções entre estados. Por exemplo, casos da Califórnia abrangem a diversidade genética da árvore, agrupando-se com amostras do estado de Washington e de Nova Iorque. Isso é uma prova da transmissão entre a Califórnia e ambos estados vizinhos e distantes.
 
 <!-- This is no right-side text -->
 
@@ -153,8 +153,8 @@ Também houve várias introduções no Oeste, na região das Montanhas Rochosas.
 # [O que você pode fazer](https://nextstrain.org/ncov/north-america/2020-03-27?c=country&d=map&p=full)
 #### ... como um indivíduo
 * Pratique distanciamento social estrito, especialmente se você faz parte de algum grupo de risco.
-* Use máscara em público.
-* Lembre-se que mesmo que você não seja super vulnerável, muitas pessoas ao seu redor são; Siga essas práticas para proteger os outros.
+* Use uma máscara em público.
+* Lembre-se que mesmo que você não seja super vulnerável, muitas pessoas ao seu redor são; siga essas práticas para proteger os outros.
 * Lave suas mãos "como se você tivesse acabado de cortar pimenta e precisasse colocar suas lentes de contato".  
 * Fique em casa o máximo possível — especialmente se estiver doente; esteja preparado com alguns suprimentos extras para caso precise se auto-impor em quarentena.  
 * Se você é um empregador, encoraje seus funcionários a trabalharem de casa sempre que possível.
@@ -177,13 +177,13 @@ Também houve várias introduções no Oeste, na região das Montanhas Rochosas.
 <br><br>
 * O surto na cidade de Nova Iorque mostra uma mistura de casos em todos os 5 distritos.
 <br><br>
-* O surto na Califórnia está relacionado tanto ao estado de Washington (que é próximo), quanto à distante Nova Iorque.
+* O surto na Califórnia está relacionado tanto ao limítrofe estado de Washington, quanto à distante Nova Iorque.
 <br><br>
 * O surto no Centro-Oeste é heterogêneo, com múltiplas cadeias de transmissão circulando na região.
 <br><br>
-* Os surtos em Utah e Idaho estão intimamente relacionados, e continuam em andamento com transmissão comunitária.
+* Os surtos em Utah e Idaho estão intimamente relacionados, com transmissão comunitária em andamento.
 <br><br>
-* As decisões tomadas por cada estado impactam profundamente o destino dos outros. Facilitar restrições com segurança em qualquer estado exigirá contenção coordenada, com todos os estados atuando para proteger uns aos outros.  
+* As decisões tomadas por cada estado impactam profundamente o destino dos outros. Afrouxar as restrições com segurança em qualquer estado exigirá contenção coordenada, com todos os estados atuando para proteger uns aos outros.  
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -680,11 +680,11 @@ Somos gratos pelos dados coletados pelos seguintes laboratórios:
 <!-- This is left-side text -->
 # [Crédito cientifíco detalhado](https://nextstrain.org/ncov/north-america/2020-03-05?d=map&c=author)
 
-Esses dados foram compartilhados através da [GISAID](https://gisaid.org). Agradecemos as suas contribuições com profunda gratidão.
+Esses dados foram compartilhados através da [GISAID](https://gisaid.org). Agradecemos profundamente as suas contribuições.
 
 <br>
 
-A direita, especificamos quais sequências foram compartilhadas por quais laboratórios.
+À direita, especificamos quais sequências foram compartilhadas por quais laboratórios.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
