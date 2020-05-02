@@ -71,7 +71,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 * [冠状病毒的背景资料（英文）](https://nextstrain.org/help/coronavirus/human-CoV).
 * [常见误区](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-13?n=11).
 
-####外部资料  
+#### 外部资料  
 * [新冠病毒是如何突变和传播的（英文）](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
 * [向科学家提问 & 常见问题解答（英文）](https://covid19.fas.org/).
 * [WHO的状况报告（英文）](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
