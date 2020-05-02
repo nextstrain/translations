@@ -1,5 +1,5 @@
 ---
-title: التحليل الجينومي لانتشار كوفيد 19. تقرير حالة. 1 أيار 2050.
+title: التحليل الجينومي لانتشار كوفيد 19. تقرير حالة. 1 أيار 2020.
 authors:
   - Sidney Bell  
   - Nicola Müller
@@ -23,7 +23,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed"
 date: 2020-May-01
-abstract: "يستخدم هذا التفرير الاسبوعي بينات الجينومات التي تم مشاركتها للعموم من أجل تتبع انتشار كوفيد-19. نركز في هذا الاسبوع على ديناميكيات انتشار الوباء في وسط وشرق اوروبا."
+abstract: "يستخدم هذا التقرير الاسبوعي بيانات الجينومات التي تم مشاركتها للعموم من أجل تتبع انتشار كوفيد-19. نركز في هذا الاسبوع على ديناميكيات انتشار الوباء في وسط وشرق اوروبا."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
