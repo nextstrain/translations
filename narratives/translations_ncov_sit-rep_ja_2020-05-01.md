@@ -122,14 +122,14 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 6-->
-# [サンクトペテルブルクでの3月初旬に発生した感染拡大](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
+# [サンクトペテルブルクでの３月初旬に発生した感染拡大](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Saint-Petersburg&f_region=Europe&label=clade:A2&p=full&r=division)
 
 サンクトペテルブルクを反例としてみてみます。
 <br><br>
 モスクワと同様に、系統樹全体にサンクトペテルブルクからのサンプルがあり、複数の伝播があったことを示しています。
 対照的に「Explore the Data Yourself」をクリックして、表示された系統樹の中央にあるメインクラスターを拡大すると、サンクトペテルブルクからのサンプルだけで構成された大きな一群が見えます。
 <br><br>
-このパターンは、3月の第1週頃からサンクトペテルブルクへの伝播の1つが広がり、街全体で地域感染が広がったことと一致しています。この大規模な感染拡大は西欧からのサンプルと最も密接に関連していますが、サンプルが採取されていない場所を経由した、間接的な伝搬の可能性を排除することはできません。
+このパターンは、３月の第１週頃からサンクトペテルブルクへの伝播の１つが広がり、街全体で地域感染が広がったことと一致しています。この大規模な感染拡大は西欧からのサンプルと最も密接に関連していますが、サンプルが採取されていない場所を経由した、間接的な伝播の可能性を排除することはできません。
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
