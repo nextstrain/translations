@@ -37,15 +37,15 @@ abstract: "Este relatório utiliza dados genômicos compartilhados publicamente 
 <!-- This is left-side text 1-->
 # [Índice](https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed)
 
-* [Fontes sobre COVID-19](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=2).     
-* [Sobre os dados](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=3).
-* [Atualizações sobre a Rússia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=4).
-* [Atualizações sobre a República Tcheca](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=7).
-* [Atualizações sobre a Turquia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=8).
-* [Atualizações sobre a Polônia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=9).
-* [Dados da Hungria, Eslováquia, Eslovênia e Letônia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=10).
-* [O que você pode fazer](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=11).
-* [Crédito científico](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=12).
+* [Fontes sobre COVID-19](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-05-01?n=2).     
+* [Sobre os dados](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-05-01?n=3).
+* [Atualizações sobre a Rússia](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-05-01?n=4).
+* [Atualizações sobre a República Tcheca](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-05-01?n=7).
+* [Atualizações sobre a Turquia](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-05-01?n=8).
+* [Atualizações sobre a Polônia](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-05-01?n=9).
+* [Dados da Hungria, Eslováquia, Eslovênia e Letônia](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-05-01?n=10).
+* [O que você pode fazer](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-05-01?n=11).
+* [Crédito científico](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-05-01?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
