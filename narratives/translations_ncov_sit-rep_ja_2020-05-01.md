@@ -174,7 +174,7 @@ Nextstrain 上では１５のポーランド共和国からの遺伝子配列が
 <!-- This is left-side text 10-->
 # [ハンガリー、ラトビア共和国、スロバキア共和国、スロベニア共和国からの早期のサンプル](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Hungary,Latvia,Slovakia,Slovenia&f_region=Europe&p=full&legend=closed)
 
-3月、ハンガリー、ラトビア共和国、スロバキア共和国、スロベニア共和国から20の遺伝子配列が提供されました。
+３月、ハンガリー、ラトビア共和国、スロバキア共和国、スロベニア共和国から２０の遺伝子配列が提供されました。
 これらの国からのデータは確かな結論を述べるにはまだ十分ではありませんが、私たちはこのような早期の尽力を称賛していますし、受け取るデータを引き続き注視していきます。
 <!-- There is no right-side text -->
 
