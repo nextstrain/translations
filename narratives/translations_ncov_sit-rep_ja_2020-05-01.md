@@ -163,9 +163,9 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 9-->
-# [ポーランド共和国への少なくとも11度の伝搬](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
+# [ポーランド共和国への少なくとも１１度の伝播](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
 
-Nextstrain上では15のポーランド共和国からの遺伝子配列があります。これら15のうち少なくとも11サンプルは世界の他の地域からの独立した伝搬であることを表しています。
+Nextstrain 上では１５のポーランド共和国からの遺伝子配列があります。これら１５のうち少なくとも１１サンプルは世界の他の地域からの独立した伝播であることを表しています。
 モスクワのように、報告された症例数を考慮すると、これらのうちのいくつかの伝播によって、ポーランド共和国国内での感染の連鎖が発生したと考えることができるかもしれませんが、ゲノムデータからはこのことはまだ見えていません。
 <!-- There is no right-side text -->
 
