@@ -124,8 +124,8 @@ Dado o número de casos confirmados em Moscou, é provável que pelo menos algum
 
 Podemos olhar para São Petersburgo como um exemplo contrário.
 <br><br>
-As with Moscow, there are samples from St. Petersburg across the tree, indicating that there have been multiple introductions.
-Contrastingly, if you click 'Explore the Data Yourself' and zoom into the main cluster in the center of this view, we can see a large clade that is made up entirely of samples from St. Petersburg.
+Como em Moscou, há amostras de São Petersburgo por toda a árvore, indicando que houve múltiplas introduções.
+Por outro lado, se você clicar em 'Explore os dados você mesmo' e aumentar o zoom no agrupamento principal no centro desta visualização, podemos ver um grande grupo composto inteiramente de amostras de São Petersburgo.
 <br><br>
 Por outro lado, se você clicar em 'Explore the Data Yourself' (em português, 'Explore os dados você mesmo') e ampliar o agrupamento principal no centro dessa tela, podemos ver um grande grupo composto inteiramente de amostras de São Petersburgo.
 <!-- There is no right side text -->
