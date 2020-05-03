@@ -19,12 +19,14 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
   - 李雪莹
+  - Fengjun Zhang
 translatorLinks:
   - https://xueyingcli.weebly.com/
+  - https://twitter.com/fengjun_zhang
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed"
-date: 2020-May-01
+date: 2020年5月1日
 abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）基因组数据来追踪疫情的传播。本周我们关注中欧和东欧地区疫情的发展。"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
@@ -52,9 +54,9 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 我们分析了 4,442 个公开共享的新冠病毒基因组。通过将这些病毒基因组相互比较，我们可以描述新冠病毒是如何在世界各地迁移和在社区中传播的。本周，我们关注中欧和东欧的疫情。我们报告：
 
 * 病毒多次输入俄罗斯；
-* 莫斯科疫情的复杂性；
-* 圣彼得堡的疫情主要来自单次输入事件，最有可能源自西欧；
-* 土耳其曾经历反复多次的与旅行有关的输入事件，国内各地的疫情现已广泛地混杂在一起；
+* 莫斯科疫情的复杂现状；
+* 圣彼得堡的疫情主要来自单次输入事件，其最有可能源自西欧；
+* 土耳其曾经历反复多次的与旅行有关的输入事件，该国国内各地的疫情现已广泛地混杂在一起；
 * 捷克至少存在5个本地传播链，最有可能来源于西欧的反复输入；
 * 病毒被独立地传入波兰至少11次；
 * 关于匈牙利、拉脱维亚、斯洛伐克和斯洛文尼亚的早期样本的情况。
@@ -146,7 +148,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 在树的中部，我们看到有一串病例是在土耳其的很多不同省份采集得到的。
 其中有一些病例报告有去往沙特阿拉伯的旅行史，而后续又出现了与之紧密相关的、土耳其的本土病例。
 <br><br>
-通常情况下，我们可能会假设这些回国的旅客在居住地把病毒传给了家人或邻居。但有意思的是，与这些旅客的样本亲缘关系最近的样本常常是在另一个省份采集到的。
+通常情况下，我们可能会假设这些回国的旅客在居住地把病毒传给了家人或邻居。但值得关注的是，与这些旅客的样本亲缘关系最近的样本常常是在另一个省份采集到的。
 <br><br>
 这个现象表明，不同谱系来源的病毒已经充分混杂在一起，在一周之内就到达了土耳其的很多省份。我们也可以推想，这个现象或许可以由某个大型集会来解释，但我们需要更多的流行病学数据来进行深入研究。
 <!-- There is no right-side text -->
@@ -158,7 +160,7 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 <!-- This is left-side text 9-->
 # [病毒至少被输入波兰11次](https://nextstrain.org/ncov/europe/2020-04-29?d=tree,map&f_country=Poland&p=full&legend=closed)
 
-Nextstrain收录了15条来自波兰的基因组。在15条基因组中，至少有11条代表了来自世界其他地区的独立输入事件。
+Nextstrain 收录了15条来自波兰的基因组。在15条基因组中，至少有11条代表了来自世界其他地区的独立输入事件。
 与莫斯科的情况相似，根据目前波兰的确诊病例数量，我们预期这其中可能有几次输入事件引发了波兰的本地传播链，但我们目前还无法在基因组数据中看到这一点。
 <!-- There is no right-side text -->
 
