@@ -111,7 +111,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [モスクワでの "まだらな" 感染拡大](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
+# [モスクワで不均一的に感染拡大](https://nextstrain.org/ncov/europe/2020-04-29?c=division&d=tree&f_country=Russia&f_division=Moscow&label=clade:A2&p=full&r=division&m=div)
 
 モスクワからのサンプルを拡大すると、頻繁な伝播の例を見ることができます。
 <br><br>
