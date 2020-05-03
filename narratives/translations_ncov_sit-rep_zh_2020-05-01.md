@@ -37,15 +37,15 @@ abstract: "本报告使用公开共享的 2019 新型冠状病毒（COVID-19）�
 <!-- This is left-side text 1-->
 # [目录](https://nextstrain.org/ncov/europe/2020-05-01?d=map&f_region=Europe&legend=closed)
 
-* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=2).     
-* [关于数据](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=3).
-* [俄罗斯的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=4).
-* [捷克的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=7).
-* [土耳其的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=8).
-* [波兰的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=9).
-* [匈牙利、斯洛伐克、斯洛文尼亚和拉脱维亚的数据](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=10).
-* [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=11).
-* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-01?n=12).
+* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-01?n=2).     
+* [关于数据](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-01?n=3).
+* [俄罗斯的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-01?n=4).
+* [捷克的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-01?n=7).
+* [土耳其的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-01?n=8).
+* [波兰的最新情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-01?n=9).
+* [匈牙利、斯洛伐克、斯洛文尼亚和拉脱维亚的数据](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-01?n=10).
+* [你能做些什么](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-01?n=11).
+* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-01?n=12).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
