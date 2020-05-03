@@ -198,7 +198,7 @@ Embora ainda não tenhamos dados suficientes desses países para conceber conclu
 ```auspiceMainDisplayMarkdown
 # Conclusões
 
-#### O SARS-COV-2 foi introduzido na Rússia muitas vezes; O surto de Moscou é altamente heterogêneo
+#### O SARS-COV-2 foi introduzido na Rússia muitas vezes; O surto de Moscou é altamente heterogêneo.
 <br><br>
 #### Houve várias introduções em São Petersburgo. Uma dessas introduções, da Europa Ocidental no início de Março, desencadeou um grande grupo de casos transmitidos localmente.
 <br><br>
