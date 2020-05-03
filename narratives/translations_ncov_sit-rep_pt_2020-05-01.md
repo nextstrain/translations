@@ -127,7 +127,7 @@ Podemos olhar para São Petersburgo como um exemplo contrário.
 Como em Moscou, há amostras de São Petersburgo por toda a árvore, indicando que houve múltiplas introduções.
 Por outro lado, se você clicar em 'Explore os dados você mesmo' e aumentar o zoom no agrupamento principal no centro desta visualização, podemos ver um grande grupo composto inteiramente de amostras de São Petersburgo.
 <br><br>
-Por outro lado, se você clicar em 'Explore the Data Yourself' (em português, 'Explore os dados você mesmo') e ampliar o agrupamento principal no centro dessa tela, podemos ver um grande grupo composto inteiramente de amostras de São Petersburgo.
+Esse padrão é consistente com uma dessas introduções a São Petersburgo, que propiciaram uma ampla transmissão pela cidade, começando por volta da primeira semana de março. Esse grande agrupamento de surtos está mais relacionado a amostras da Europa Ocidental, embora não possamos descartar a possibilidade de uma transmissão pouco amostrada e intermediária de outros lugares.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
