@@ -74,7 +74,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 * [「Ask a Scientist」とよくある質問と答え](https://covid19.fas.org/l/en).
 * [WHO の状況報告](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [CDC の資料](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [ぜコロナウィルスは大きな混乱を招くのか](https://www.nytimes.com/news-event/coronavirus).
+* [ニューヨーク・タイムズによる報道](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
@@ -93,7 +93,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [3月のインドへの伝播](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+# [3月中のデリーへの個別の多数の伝播](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
 表示されているのは、3月1日から4月15日の間にデリー地域から採取、解析された38のウイルスゲノムです。
 <br><br>
@@ -116,7 +116,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 <br><br>
 これは、シンガポールの脆弱で閉じた移民労働者の間でウイルスが急速に広がっているという[最近の報告](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html)と一致しています。
 <br><br>
-これは、ある伝播が集団内でどの程度広がるかが社会学的要因に依存していることを表しており、なぜ脆弱な集団を保護することがとても重要であるかを強く示しています。
+これは、ある伝播が集団内でどの程度広がるかが社会学的要因に依存していることを表しており、なぜ感染の影響を受けやすい集団を保護することがとても重要であるかを強く示しています。
 <!-- There is no right side text -->
 
 
