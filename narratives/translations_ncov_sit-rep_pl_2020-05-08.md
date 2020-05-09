@@ -37,13 +37,13 @@ abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śl
 <!-- This is left-side text 1-->
 # [Spis treści](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Wstęp i materiały](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [O danych](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Pochodzenie epidemii w Indiach](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Kontekst ponownych przypadków w Singapurze](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Introdukcja do Malezji](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Częste rozprzestrzenianie pomiędzy granicami krajów](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [Wstęp i materiały](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-08?n=2).     
+* [O danych](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-08?n=3).  
+* [Pochodzenie epidemii w Indiach](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-08?n=4).  
+* [Kontekst ponownych przypadków w Singapurze](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-08?n=5).  
+* [Introdukcja do Malezji](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-08?n=6).  
+* [Częste rozprzestrzenianie pomiędzy granicami krajów](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-08?n=7).    
+* [Źródła danych naukowych](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -66,7 +66,7 @@ Przygotowaliśmy materiały online, które ułatwią interpretowanie przygotowan
 #### Materiały Nextstrain
 * [ZACZNIJ TUTAJ: Jak interpretować drzewa filogenetyczne](https://nextstrain.org/narratives/trees-background/pl).  
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Przesądy](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Przesądy](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-03-13?n=11).
 
 #### Inne materiały:
 * [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
