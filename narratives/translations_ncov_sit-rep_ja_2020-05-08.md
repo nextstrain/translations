@@ -123,18 +123,18 @@ In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, fr
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [マレーシアへ繰り返される伝播](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
-We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
+私たちには1月下旬から3月下旬にマレーシアで採取された14の遺伝子配列があります。これらの遺伝子配列はいくつかの異なる枝でグループ化され、それぞれが他のアジア諸国で主に流行していました。これは、周辺諸国からマレーシアへの複数の伝播があったことを示唆しています。
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Regional spread across Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+# [アジアにおける地域的な感染拡大](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
-A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam
+この地域の他の国々でも、同様のパターンが繰り返されています。複数の伝播があり、その多くは封じ込められましたが、幾つかのものは地域感染のきっかけとなりました。私たちは「自分でデータを調べる」ことをお勧めします。ここに示すように、ヨルダン、日本、タイ、アラブ首長国連邦でも同様のパターンが見られます。また、クウェート、ジョージア、台湾、ベトナムでも見ることができます。
 <br><br>
-The consistency of this pattern is strong evidence that the virus frequently crosses international borders. Thus, in order to effectively control the epidemic in any one country, we must control the pandemic across all countries through coordinated international efforts.
+このパターンの一貫性は、ウイルスが頻繁に国境を越えることを示す強力な証拠です。したがって、どの国でも効果的に流行をコントロールするためには、国際的な協調的のある取り組みを通じて、すべての国で感染拡大を抑制する必要があります。
 <!-- There is no right side text -->
 
 
