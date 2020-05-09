@@ -93,15 +93,13 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Many separate introductions to Delhi during March](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+# [3月のインドへの伝播](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
-Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
+表示されているのは、3月1日から4月15日の間にデリー地域から採取、解析された38のウイルスゲノムです。
 <br><br>
-In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.
+系統樹の中央に、密接に関連する症例のかなりのクラスターが存在します。 これは1つの伝播の後の、地域社会での感染拡大と一致しています。
 <br><br>
-However, it is crucial to consider the context of this cluster.  
-Scattered across the tree, we also see many other small clusters and isolated cases, representing separate introductions from all over the world.
-We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.
+しかし、このクラスターの背景を考える事はとても重要です。系統樹全体に散らばっている他の多数の小さなクラスターや、独立した事例も症例も見られ、これは世界中からの個別の伝播を表しています。これらの他の伝播の後に何が起こったのか、それがどこまで広がったのかを説明するのに十分なデータはありません。しかし、大規模なクラスターの事例は、インドにおける感染拡大の一部に過ぎないと言えます。
 <!-- There is no right side text -->
 
 
