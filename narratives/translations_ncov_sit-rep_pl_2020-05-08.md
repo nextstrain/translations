@@ -117,7 +117,7 @@ We don't have enough data to say what followed these other introductions -- if o
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Kontekst wznowienia SARS-CoV-2 resurgence w Singapurze](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [Kontekst wznowienia SARS-CoV-2 w Singapurze](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
 W ciągu ostatnich 10 tygodni, SARS-CoV-2 był introdukowany do Singapuru wielokrotnie, z różnych miejsc.
 <br><br>
