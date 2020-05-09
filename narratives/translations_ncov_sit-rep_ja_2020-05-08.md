@@ -140,31 +140,31 @@ In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, fr
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [私たちができること](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+#### ...個人ができること
+* 社会的距離を保つことを厳格に実践してください。重症化しやすいグループに属している場合には特に。
+* あなたが健康であるとしても、他の人を守るために社会的距離を保つことを実践して下さい。
+* 良く手を洗って下さい（辛いものを触ったあとにコンタクトレンズを交換する時のように）。
+* できるだけ家にいましょう（特に体調の悪い時は）。自主的な隔離に備えて、いくつかの追加の備品を用意しておきましょう。
+* あなたが雇用主である場合は、可能な限り自宅で仕事をするよう従業員に勧めてください。
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...行政機関ができること 
+* 検査を広く、無料で利用出来るようにすること。
+* 社会的な距離を保つ為の措置を強力にとること。
+* 広範囲な接触追跡作業に資金を提供し、実施すること。
+* 社会的距離に関する措置の影響を受ける人々を経済的に支援すること。
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# まとめ
 
-#### The outbreak in India is the result of many separate introductions from around the world.  
+#### インドでの感染拡大は、世界中からの多数の独立した伝播の結果です。
 <br><br>
-#### In Singapore, sociological factors accelerated the expansion of one introduction to become a large outbreak, in contrast to the many introductions which have not spread widely.
+#### シンガポールでは社会的要因により、１つの伝播が急速に拡大し、大規模な流行に繋がりました。これは大きく広がっていない、他の伝播とは対照的です。
 <br><br>
-#### In Asia, most countries' outbreaks have a similar history: many separate introductions from other countries, some of which resulted in local spread. This pattern of multiple introductions over time emphasizes the need for international and regional cooperation to fully control the pandemic.
+#### アジアでは、ほとんどの国で大規模な感染が発生していますが、その経緯は似ています。このように、時間をかけて複数の感染が発生していることから、大規模な感染を完全に制御するためには、国際的・地域的な協力が必要であることが強く示されています。
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
