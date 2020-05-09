@@ -42,7 +42,7 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 * [資料](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=2).     
 * [データについて](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=3).  
 * [インドにおける流行の起源](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=4).  
-* [シンガポールにおける感染再発の背景](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=5).  
+* [シンガポールにおける流行再発の背景](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=5).  
 * [マレーシアへの伝播について](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=6).  
 * [国境を超えた感染拡大](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=7).    
 * [分析データのクレジット](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=8).
@@ -105,18 +105,19 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Contextualizing the SARS-CoV-2 resurgence in Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [シンガポールにおける SARS-CoV-2 流行再発の背景](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
+シンガポールではこの10週間で SARS-CoV-2 は複数の場所から何度も伝播されています。
 In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
 <br><br>
-Most of these introductions have led to limited onward transmission (single cases or small clusters on the tree).
+これらの伝播のほとんどは、限られた地域感染につながりました（単一のケースまたは系統樹上の小さなクラスター）。
 <br><br>
-In the middle of the tree, however, we see a single introduction that led to extensive onward transmission.
-This large, cohesive cluster is most closely related to samples from India and the Philippines.
+しかし、系統樹の中央には単一の伝播があり、それが広範な地域感染につながっています。
+この大きなまとまりのあるクラスターは、インドとフィリピンからのサンプルに最も密接に関連しています。
 <br><br>
-This is consistent with [recent reports](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) that the virus is spreading rapidly among vulnerable, confined populations of migrant workers in Singapore.
+これは、シンガポールの脆弱で閉じた移民労働者の間でウイルスが急速に広がっているという[最近の報告](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html)と一致しています。
 <br><br>
-This illustrates how the extent to which an introduction spreads within a population depends on sociological factors and emphasizes why it is critically important to protect vulnerable groups.
+これは、ある伝播が集団内でどの程度広がるかが社会学的要因に依存していることを表しており、なぜ脆弱な集団を保護することがとても重要であるかを強く示しています。
 <!-- There is no right side text -->
 
 
