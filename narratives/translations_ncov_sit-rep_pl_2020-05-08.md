@@ -19,13 +19,15 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
   - Marta Niedzicka
+  - Anna Fijarczyk
 translatorLinks:
   - https://www.researchgate.net/profile/Marta_Niedzicka
+  - https://twitter.com/afijarczyk
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
-abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się COVID-19. W tym tygodniu koncentrujemy się na przebiegu epidemii w Azji. Raportujemy wiele osobnych, niezależnych introdukcji do Indii; kontekst wybuchu epidemii pomiędzy migrującymi pracownikami w Singapurze; oraz międzynarodowe rozprzestrzenianie wirusa w regionie."
+abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się COVID-19. W tym tygodniu koncentrujemy się na przebiegu epidemii w Azji. Raportujemy wiele osobnych, niezależnych introdukcji do Indii; kontekst wybuchu epidemii wśród migrujących pracowników w Singapurze; oraz międzynarodowe rozprzestrzenianie wirusa w regionie."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -47,7 +49,7 @@ abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śl
 ```auspiceMainDisplayMarkdown
 # Streszczenie
 
-Przeanalizowaliśmy 2,226 publicznie dostępnych genomów SARS-CoV-2. Porównując je, potrafimy ocenić, w jaki sposób wirus COVID-19 rozprzestrzenia się po świecie i lokalnie. W tym tygodniu koncentrujemy się na ostatnich rozprzestrzenieniach w Azji i opisujemy:
+Przeanalizowaliśmy 2,226</tag> publicznie dostępnych genomów SARS-CoV-2. Porównując je, potrafimy ocenić, w jaki sposób wirus COVID-19 rozprzestrzenia się po świecie i lokalnie. W tym tygodniu koncentrujemy się na ostatnich rozprzestrzenieniach w Azji i opisujemy:
 
 * Wielokrotne introdukcje do Delhi w marcu 2020 z całego świata
 * Wiele osobnych introdukcji do Singapuru, większość z nich zdaje się nie rozprzestrzeniać dalej 
@@ -78,7 +80,7 @@ Przygotowaliśmy materiały online, które ułatwią interpretowanie przygotowan
 
 <!-- This is left-side text -->
 # [Opis próbkowania](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-Dysponujemy obecnie sekwencjami pochodzącymi z próbek z 28 krajów Azji. To niesamowity wyczyn -- sekwencjonowanie nieznanego wirusa o sporym genomie RNA w środku pandemii jest trudne i możliwe jedynie dzięki ogromnej pracy i sprawnemu udostępnianiu danych przez naukowców i lekarzy z całego świata.
+Dysponujemy obecnie sekwencjami pochodzącymi z próbek z 28</tag> krajów Azji. To niesamowity wyczyn -- sekwencjonowanie nieznanego wirusa o sporym genomie RNA w środku pandemii jest trudne i możliwe jedynie dzięki ogromnej pracy i sprawnemu udostępnianiu danych przez naukowców i lekarzy z całego świata.
 <br><br>
 Choć zgromadzone dane umożliwiają wyciąganie wniosków na temat wielu przydatnych aspektów epidemii oraz pozwalają śledzić jej rozprzestrzenianie w czasie rzeczywistym, należy podkreślić, że nasze wnioski są ograniczone dostępnością danych.
 <br><br>
@@ -97,12 +99,12 @@ For example, the map shows very few sequences from the Middle East. This is NOT 
 <!-- This is left-side text -->
 # [Wiele osobnych introdukcji do Delhi w marcu](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
-Pomiędzy 1 marca a 15 kwietnia, 38 genomów wirusowych z Delhi było pobranych i zsekwencjonowanych (pokazane tutaj).
+Pomiędzy 1 marca a 15 kwietnia, 38</tag> genomów wirusowych z Delhi było pobranych i zsekwencjonowanych (pokazane tutaj).
 <br><br>
-W środku drzewa widzimy znaczący klaster blisko spokrewnionych przypadków. Jest to zgodne z pojedynczą introdukcj i lokalnym rozprzestrzenieniem się wirusa w społeczności. 
+W środku drzewa widzimy znaczący klaster blisko spokrewnionych przypadków. Jest to zgodne z pojedynczą introdukcją i lokalnym rozprzestrzenieniem się wirusa w społeczności. 
 <br><br>
 Ale ważne jest, aby przeanalizować kontekst tego klastra. 
-Widzimy wiele innych małych klastrów i odiozolowanych przypadków, rozproszone po drzewie, prezentujących osobne introdukcje z całego świata.
+Widzimy wiele innych małych klastrów i odiozolowanych przypadków rozproszonych po drzewie, prezentujących osobne introdukcje z całego świata.
 Nie mamy wystarczająco danych, żeby powiedzieć, co wynikło z tych introdukcji -- czy i jak daleko się rozprzestrzeniły. Ale możemy powiedzieć, że duży klaster przypadków jest tylko częścią obrazu.
 
 <!-- Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
@@ -126,9 +128,9 @@ Większość tych introdukcji doprowadziło do ograniczonej transmisji (pojedync
 Jednak w środku drzewa widzimy pojedynczą introdukcję, która doprowadziła do rozgległej transmisji. 
 Ten duży, klaster jest najbliżej spokrewniony z próbkami z Indii i Filipin.
 <br><br>
-Zgada się to z [niedawnym raportem](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) twierdzącycm, że wirus rozprzestrzenia się gwałtownie pomiędzy wrażliwymi, ograniczonymi populacjami migrantów zarobkowych w Singapurze.
+Zgadza się to z [niedawnym raportem](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) twierdzącym, że wirus rozprzestrzenia się gwałtownie pomiędzy wrażliwymi, ograniczonymi populacjami migrantów zarobkowych w Singapurze.
 <br><br>
-To ilustruje jak zasięg, do jakiego introdukcja się rozprzestrzenia wewnątrz populacji, zależy od czynników socjologicznych, oraz podkreśla dlaczego ochrona grup wrażliwych jest niesłychanie istotna.
+To ilustruje jak zasięg rozprzestrzeniania się pojedynczej introdukcji wewnątrz populacji, zależy od czynników socjologicznych, oraz podkreśla dlaczego ochrona grup wrażliwych jest niesłychanie istotna.
 
 <!-- In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
 <br><br>
@@ -147,7 +149,7 @@ This illustrates how the extent to which an introduction spreads within a popula
 <!-- This is left-side text -->
 # [Powtarzające się introdukcje do Malezji](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
-W Nextstrain dysponujemy 14 sekwencjami z Malezji, próbkowanymi pomiędzy późnym styczniem a późnym marcem. Te sekwencje grupują się w kilka różnych kladów, a każdy z nich krążył głównie w innych krajach azjatyckich. To sugeruje, że doszło do wielokrotnych introdukcji z regionów w pobliżu Malezję.
+W Nextstrain dysponujemy 14 sekwencjami z Malezji, próbkowanymi pomiędzy późnym styczniem a późnym marcem. Te sekwencje grupują się w kilka różnych kladów, a każdy z nich krążył głównie w innych krajach azjatyckich. To sugeruje, że doszło do wielokrotnych introdukcji z pobliskich regionów do Malezji.
 
 <!-- We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia. -->
 
@@ -155,7 +157,7 @@ W Nextstrain dysponujemy 14 sekwencjami z Malezji, próbkowanymi pomiędzy póź
 <!-- This is left-side text -->
 # [Regionalne rozprzestrzenienie w Azji](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
-Podobny wzór powtarza się w wielu krajach w regionie: wielokrotne introdukcje, wiele z nich opanowanych, ale również  kilka, które zapoczątkowały lokalną transmisję. Zachęcamy do przejrzenie danych samodzielnie używając opcji "Explore the Data Yourself". Jak pokazano tutaj, podobne wzory możesz zaobserwować w Jordanii, Japonii, Tajlandii i Zjednoczonych Emiratach Arabskich. Podobne wzory zaobserwowano także dla danych z Kuwejtu, Gruzji, Tajwanu i Wietnamu.
+Podobny wzór powtarza się w wielu krajach w regionie: wielokrotne introdukcje, wiele z nich opanowanych, ale również  kilka, które zapoczątkowały lokalną transmisję. Zachęcamy do przejrzenia danych samodzielnie używając opcji "Explore the Data Yourself". Jak pokazano tutaj, podobne wzory możesz zaobserwować w Jordanii, Japonii, Tajlandii i Zjednoczonych Emiratach Arabskich. Podobne wzory zaobserwowano także dla danych z Kuwejtu, Gruzji, Tajwanu i Wietnamu.
 <br><br>
 Spójność tego wzoru jest mocnym dowodem na to, że wirus często przekracza granice międzynarodowe. A zatem, aby efektywnie kontrolować epidemię w jakimkolwiek kraju, musimy kontrolować pandemię we wszystkich krajach poprzez skoordynowane międzynarodowe wysiłki.
 
@@ -172,7 +174,7 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 * Stosuj ścisłą izolację społeczną, zwłaszcza, jeśli jesteś w grupie podwyższonego ryzyka.
 * Pamiętaj, że nawet jeśli nie jesteś szczególnie narażona/y, wiele osób wokół ciebie jest; postępuj zgodnie z tymi praktykami, aby chronić innych.
 * Myj ręcę "jakbyś właśnie pokroił papryczkę jalapeno i musiał zmienić soczewkę kontaktową".  
-* SZostań w domu na tyle, na ile to możliwe -- szczególnie jeśli jesteś chora/y; przygotuj trochę zapasów w razie potrzeby przebycia kwarantanny.  
+* Zostań w domu na tyle, na ile to możliwe -- szczególnie jeśli jesteś chora/y; przygotuj trochę zapasów w razie potrzeby przebycia kwarantanny.  
 * Jeśli jesteś pracodawcą, zachęć swoich pracowników, aby pracowali z domu, gdziekolwiek jest to możliwe.
 
 #### ...jako urzędnik 
@@ -189,9 +191,9 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 
 #### Epidemia w Indiach jest rezultatem wielu osobnych introdukcji z różnych rejonów świata.
 <br><br>
-#### W Singapurze, czynniki socjologiczne przyspieszyły ekspansję jednej z introdukcji do rozmiarów epidemii, w przeciwieństwie do wielu innych introdukcji, które nie roprzestrzeniły się daleko.
+#### W Singapurze, czynniki socjologiczne przyspieszyły ekspansję jednej z introdukcji do rozmiarów epidemii, w przeciwieństwie do wielu innych introdukcji, które nie roprzestrzeniły się szeroko.
 <br><br>
-#### W Azji, większość krajowych epidemii ma podobną historię: wiele osobnych introdukcji z innych krajów, niektóre z nich powodujące lokalne rozpowszechnienie. Ten wzór wielokrotnych introdukcji w czasie podkreśla potrzebę międzynarodowej i lokalnej kooperacji aby w pełni kontrolować pandemię.
+#### W Azji, większość krajowych epidemii ma podobną historię: wiele osobnych introdukcji z innych krajów, niektóre z nich powodujące lokalne rozprzestrzenienie wirusa. Ten wzór wielokrotnych introdukcji w czasie podkreśla potrzebę międzynarodowej i lokalnej kooperacji aby w pełni kontrolować pandemię.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
