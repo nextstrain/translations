@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.
+title: 新型コロナウイルス拡散の遺伝的解析と状況報告 2020-05-08.
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -18,12 +18,18 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Tomoyuki Nezu
+  - Takeshi Sato
+  - Fengjun Zhang
 translatorLinks:
+  - https://twitter.com/tommy_nezy
+  - https://github.com/satotake
+  - https://twitter.com/fengjun_zhang
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
-
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
+date: 2020年5月1日
+abstract: "この週次レポートでは、公開されたゲノムデータを用いて COVID-19 の広がりを追跡しています。今週はアジアに焦点を充てています。インドへの多くの独立した伝播、 シンガポールの移民労働者における感染拡大の背景、そして地域全体に広がる国際的な広がりについて報告します。"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,26 +37,26 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [目次](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [資料](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=2).     
+* [データについて](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=3).  
+* [インドにおける流行の起源](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=4).  
+* [シンガポールにおける感染再発の背景](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=5).  
+* [マレーシアへの伝播について](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=6).  
+* [国境を超えた感染拡大](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=7).    
+* [分析データのクレジット](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# 概要
 
-We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
+ここでは、公に共有されている 2,226 種の COVID-19 ゲノムを分析しました。これらのウイルスのゲノムを相互に比較することにより、COVID-19 が世界中をどのように移動しているか、地域の中でどのように拡散しているかを特徴付けることができます。今週の更新では最近のアジア全体への広がりに焦点を充てて報告します:
 
-* Multiple introductions to Delhi during March 2020 from all over the world  
-* Many separate introductions to Singapore, most of which do not appear to have spread further  
-* Expansion of a large cluster of cases in Singapore likely driven by sociological factors
-* Similar patterns of international spread that emphasize the urgent need for cooperative efforts
+* 2020年3月にデリーへ世界中から複数回の伝播
+* シンガポールへの多くの個別伝播、ただしそれらのほとんどは更なる拡大には繋がっていない模様
+* おそらく社会学的要因によるシンガポールでの大規模なクラスター感染
+* 緊急的な協調努力が必要とされる国際的な広がりの類似パターン
 ```
 
 
