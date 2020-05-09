@@ -18,12 +18,15 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+- Sofia Paraskevopoulou
+- Sotiris Salloumis
 translatorLinks:
-license: "CC-BY"  
+- https://github.com/akifoss
+- https://github.com/codergrlicense: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
+abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region.Aυτή η εβδομαδιαία αναφορά χρησιμοποιεί δεδομένα που είναι δημοσίως διαθέσιμα για την ιχνηλάτηση της εξάπλωσης της ασθένειας COVID-19. Αυτή την εβομάδα εστιάζουμε στην Ασία. Αναφέρουμε πολλές ξεχωριστές, ανεξάρτητες εισαγωγές στην Ινδία, για την εξάπλωση ανάμεσα σε εργαζόμενους μετανάστες στη Σιγκαπούρη και την επικράτηση μια διεθνούς εξάπλωσης σε ολόκληρη την περιοχή."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -33,133 +36,140 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- This is left-side text 1-->
 # [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
+* [Σχετικά με τα δεδομένα που παρουσιάζουμε](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-08?n=3).  
+* [Origins of the epidemic in India Προέλευση της επιδημίας στην Ινδία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-08?n=4).  
+* [Contextualizing the resurgence of cases in Singapore Πλαίσιο της επανεμφάνισης περιπτώσεων στη Σιγκαπούρη](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-08?n=5).  
+* [Introductions to Malaysia Εισαγωγή στη Μαλαισίσ](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-08?n=6).  
+* [Frequent spread across international borders Συχνή εξάπλωση σε διεθνή σύνορα](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-08?n=7).    
+* [Scientific credit Επιστημονικές ευχαριστίες](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Γενική περίληψη
 
 We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
+Έχουμε αναλύσει 2,226 δημοσίως διαθέσιμα γονιδιώματα COVID-19. Συγκρίνοντας αυτά τα ιικά γονιδιώματα μεταξύ τους μπορούμε να κατανοήσουμε πώς ο COVID-19 μετακινείται στην υφήλιο και πώς διασπείρεται τοπικά. Στην αναφορά συτής της εβδομάδας εστιάζουμε στη πρόσφατη εξάπλωση στην Ασία. Αναφέρουμε:
 
 * Multiple introductions to Delhi during March 2020 from all over the world  
+* Πολλαπλές εισαγωγές στο Δελχί τον Μάρτιο του 2020 από όλο τον κόσμο
 * Many separate introductions to Singapore, most of which do not appear to have spread further  
+* Πολλές ξεχωριστές εισαγωγές στη Σιγκαπούρη, οι περισσότερες από τις οποίες δεν φαίνεται να έχουν εξαπλωθεί περαιτέρω
 * Expansion of a large cluster of cases in Singapore likely driven by sociological factors
+* Η επέκταση ενός μεγάλου συνόλου περιπτώσεων στη Σιγκαπούρη πιθανώς οφείλεται σε κοινωνιολογικούς παράγοντες
 * Similar patterns of international spread that emphasize the urgent need for cooperative efforts
+* Παρόμοια πρότυπα διεθνούς εξάπλωσης που τονίζουν την επείγουσα ανάγκη για προσπάθειες συνεργασίας
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [COVID-19 ResourcesCOVID-19 Πηγές](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+We've prepared some resources that will make interpreting the data we present in this narrative easier.Έχουμε ετοιμάσει ορισμένες πηγές πληροφόρησης που θα σας διευκολύνουν στην ερμηνεία των δεδοδμένων που παρουσιάζονται σε αυτή την αναφορά.
+#### Nextstrain Resources Πηγές Nextstrain 
+* [START HERE: How to read a phylogenyΞΕΚΙΝΗΣΤΕ ΕΔΩ: Πώς να ερμηνεύσετε ένα φυλογενετικό δέντρο](https://nextstrain.org/narratives/trees-background/).  
+* [Background on coronavirusesΒασικές γνώσεις σχετικά με τους κορωνοϊούς](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Common misconceptionsΣυχνές παρερμηνείες](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+#### External Resources Εξωτερικοί σύνδεσμοι
+* [Ask a Scientist & FAQsΡωτήστε έναν επιστήμονα & Συχνές ερωτήσεις](https://covid19.fas.org/l/en).
+* [WHO Situation ReportsΑναφορές κατάστασης του ΠΟΥ](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [CDC ResourcesΠηγές του CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [The NYTimes COVID-19 coverage Η κάλυψη του COVID-19 από τους NYTimes](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [A note on sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 28 countries in Asia. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [A note on samplingΜια σημείωση σχετικά με τις δειγματοληψίες](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
+We currently have sequences from samples taken in 28 countries in Asia. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.Αυτή τη στιγμή έχουμε αλληλουχίες από δείγματα που έχουν ληφθεί από 28 χώρες στην Ασία.Αυτό είναι ένα αξιόλογο κατόρθωμα -- η αλληλούχηση ενός αγνώστου ιού με μεγάλο RNA γονιδίωμα εν μέσω πανδημίας είναι δύσκολη και είναι η εξαιρετική δουλειά και ο συνεχής διαμοιρασμός δεδομένων από επιστήμονες και γιατρούς σε όλο τον κόσμο που την καθιστούν δυνατή.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.Ενώ τα δεδομένα αυτά μας επιτρέπουν να αντιληφθούμε πολλά και χρήσιμα χαρακτηριστικά για την επιδήμια και να παρακολουθήσουμε την εξάπλωσή της σε πραγματικό χρόνο, είναι σημαντικό να επισημάνουμε ότι τα συμπερασματά μας περιορίζονται απο τη διαθεσιμότητα των δεδομένων. 
 <br><br>
-For example, the map shows very few sequences from the Middle East. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+For example, the map shows very few sequences from the Middle East. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.Για παράδειγμα, ο χάρτης αυτός δείχνει πολλά λίγα δείγματα που προέρχονται από την Μέση Ανατολή. Αυτό ΔΕΝ οφείλεται στο γεγονός ότι το COVID-19 δεν κυκλοφορεί σε αυτές τις περιοχές ή ότι αυτές οι περιπτώσεις δεν είναι τόσο σημαντικές για να κατανοήσουμε. αλλά ότι δεν έχουμε δεδομένα διαθέσιμα από αυτές τις περιοχές. Το μέγεθος κάθε κύκλου στον χάρτη δείχνει πόσα δεδομένα είναι διαθέσιμα αυτήν τη στιγμή από τις αντίστοιχες περιοχές και όχι το πραγματικό μέγεθος της επιδημίας στις περιοχές αυτές.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Many separate introductions to Delhi during March](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+# [Many separate introductions to Delhi during MarchΠολλές ξεχωριστές εισαγωγές στο Δελχί τον Μάρτιο](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
-Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
+Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).Μεταξύ 1 Μαρτίου-15 Απριλίου, έγιναν δειγματοληψίες και ανάλυση αλληλουχίας σε 38 ιικά γονιδιώματα από την περιοχή του Δελχί (φαίνεται εδώ).
 <br><br>
-In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.
+In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.Στη μέση του δέντρου, βλέπουμε ένα αρκετά μεγάλο σύμπλεγμα στενά συνδεδεμένων περιπτώσεων. Αυτό συμβαδίζει με μία εισαγωγή, ακολουθούμενη από την εξάπλωση της τοπικής κοινότητας.
 <br><br>
-However, it is crucial to consider the context of this cluster.  
-Scattered across the tree, we also see many other small clusters and isolated cases, representing separate introductions from all over the world.
-We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.
+However, it is crucial to consider the context of this cluster. Ωστόσο, είναι σημαντικό να εξετάσουμε το πλαίσιο αυτού του συμπλέγματος.
+Scattered across the tree, we also see many other small clusters and isolated cases, representing separate introductions from all over the world.Διασκορπισμένα σε ολόκληρο το δέντρο, βλέπουμε επίσης πολλές άλλες μικρές συστάδες και μεμονωμένες θήκες, που αντιπροσωπεύουν ξεχωριστές εισαγωγές από όλο τον κόσμο.
+We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.Δεν έχουμε αρκετά δεδομένα για να πούμε τι ακολούθησε αυτές τις άλλες εισαγωγές - εάν ή πόσο μακριά εξαπλώθηκαν. Όμως, μπορούμε να πούμε ότι το μεγάλο σύμπλεγμα περιπτώσεων είναι μόνο μέρος της ιστορίας.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Contextualizing the SARS-CoV-2 resurgence in Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [Contextualizing the SARS-CoV-2 resurgence in SingaporeΠλαίσιο της επανεμφάνισης SARS-CoV-2 στη Σιγκαπούρη](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
-In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
+In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.Τις τελευταίες 10 εβδομάδες, το SARS-CoV-2 έχει εισαχθεί στη Σιγκαπούρη πολλές φορές, από πολλές τοποθεσίες.
 <br><br>
-Most of these introductions have led to limited onward transmission (single cases or small clusters on the tree).
+Most of these introductions have led to limited onward transmission (single cases or small clusters on the tree).Οι περισσότερες από αυτές τις εισαγωγές οδήγησαν σε περιορισμένη μετάδοση (μεμονωμένες περιπτώσεις ή μικρά συμπλέγματα στο δέντρο).
 <br><br>
 In the middle of the tree, however, we see a single introduction that led to extensive onward transmission.
 This large, cohesive cluster is most closely related to samples from India and the Philippines.
+Στη μέση του δέντρου, ωστόσο, βλέπουμε μια εισαγωγή που οδήγησε σε εκτεταμένη μετάδοση.
+Αυτό το μεγάλο, συνεκτικό σύμπλεγμα σχετίζεται στενότερα με δείγματα από την Ινδία και τις Φιλιππίνες.
 <br><br>
-This is consistent with [recent reports](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) that the virus is spreading rapidly among vulnerable, confined populations of migrant workers in Singapore.
+This is consistent withΑυτό συμβαδίζει με [recent reports πρόσφατες αναφορές](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) that the virus is spreading rapidly among vulnerable, confined populations of migrant workers in Singapore.ότι ο ιός εξαπλώνεται γρήγορα σε ευάλωτους, περιορισμένους πληθυσμούς εργαζομένων μεταναστών στη Σιγκαπούρη.
 <br><br>
-This illustrates how the extent to which an introduction spreads within a population depends on sociological factors and emphasizes why it is critically important to protect vulnerable groups.
+This illustrates how the extent to which an introduction spreads within a population depends on sociological factors and emphasizes why it is critically important to protect vulnerable groups.Αυτό δείχνει πώς ο βαθμός στον οποίο εξαπλώνεται μια εισαγωγή σε έναν πληθυσμό εξαρτάται από κοινωνιολογικούς παράγοντες και τονίζει γιατί είναι εξαιρετικά σημαντικό να προστατευθούν οι ευάλωτες ομάδες.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [Repeated introductions to MalaysiaΕπαναλαμβανόμενες εισαγωγές στη Μαλαισία](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
-We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
+We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.Έχουμε 14 ακολουθίες από τη Μαλαισία στο Nextstrain, δείγματα μεταξύ τέλη Ιανουαρίου και τέλους Μαρτίου. Αυτές οι ακολουθίες ομαδοποιούνται με πολλές διαφορετικές ομάδες, καθεμία από τις οποίες κυκλοφορεί κυρίως σε άλλες ασιατικές χώρες. Αυτό υποδηλώνει ότι έχουν γίνει πολλές εισαγωγές από τη γύρω περιοχή στη Μαλαισία.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Regional spread across Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+# [Regional spread across AsiaΠεριφερειακή εξάπλωση σε ολόκληρη την Ασία](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
 A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam
+Ένα παρόμοιο μοτίβο επαναλαμβάνεται για πολλές άλλες χώρες στη περιοχή: πολλαπλές εισαγωγές, πολλές από τις οποίες ήταν καλές, αλλά με μερικές που ξεκίνησαν να πυροδοτούν τοπική μετάδοση. Σας ενθαρρύνουμε να "Εξερευνήσετε τα δεδομένα εσείς". Όπως φαίνεται εδώ, θα παρατηρήσετε παρόμοια μοτίβα στην Ιορδανία, την Ιαπωνία, την Ταϊλάνδη και τα Ηνωμένα Αραβικά Εμιράτα. Παρόμοια μοτίβα φαίνονται επίσης για το Κουβέιτ, τη Γεωργία, την Ταϊβάν και το Βιετνάμ
 <br><br>
-The consistency of this pattern is strong evidence that the virus frequently crosses international borders. Thus, in order to effectively control the epidemic in any one country, we must control the pandemic across all countries through coordinated international efforts.
+The consistency of this pattern is strong evidence that the virus frequently crosses international borders. Thus, in order to effectively control the epidemic in any one country, we must control the pandemic across all countries through coordinated international efforts.Η συνέπεια αυτού του προτύπου είναι ισχυρή ένδειξη ότι ο ιός διασχίζει συχνά διεθνή σύνορα. Έτσι, για να ελέγξουμε αποτελεσματικά την επιδημία σε οποιαδήποτε χώρα, πρέπει να ελέγξουμε την πανδημία σε όλες τις χώρες μέσω συντονισμένων διεθνών προσπαθειών.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Τί μπορείτε να κάνετε](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+#### ...ο καθένας ξεχωριστά
+* Τηρείτε τα μέτρα κοινωνικής απόστασης, ειδικά εάν ανήκετε σε ευπαθή ομάδα.
+* Να θυμάστε πως ακόμα κι αν εσείς δεν ανήκετε σε ευπαθή ομάδα, πολλοί άνθρωποι γύρω σας ανήκουν σε κάποια ευπαθή ομάδα. Ακολουθήστε τις αντίστοιχες πρακτικές ώστε να τους προστατέψετε.
+* Πλένετε τα χέρια σας "σα να έχετε κόψει μια καυτερή πιπεριά και πρέπει να αλλάξετε φακούς επαφής".
+* Μείνετε στο σπίτι όσο γίνεται περισσότερο -- ειδικά εάν είστε άρρωστοι. Προμηθευτείτε επιπλέον ποσότητες τροφίμων σε περίπτωση που χρειαστεί να μπείτε σε καραντίνα.
+* Εάν είστε εργοδότης, ενθαρρύνετε τους εργαζομένους σας να δουλεύουν από το σπίτι όσο αυτό είναι δυνατό.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
-
+#### ...η πολιτεία  
+* Κάνετε εκτεταμένους και δωρεάν ελέγχους για τον εντοπισμό του ιού.
+* Εφαρμόστε ισχυρά μέτρα κοινωνικής απόστασης. 
+* Χρηματοδοτήστε και υλοποιήστε προσπάθειες ιχνηλάτησης.
+* Υποστηρίξτε οικονομικά αυτούς που πλήγονται από τα μέτρα αποκλεισμού.
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Συμπεράσματα
 
-#### The outbreak in India is the result of many separate introductions from around the world.  
+#### The outbreak in India is the result of many separate introductions from around the world.Το ξέσπασμα στην Ινδία είναι το αποτέλεσμα πολλών ξεχωριστών εισαγωγών από όλο τον κόσμο.  
 <br><br>
-#### In Singapore, sociological factors accelerated the expansion of one introduction to become a large outbreak, in contrast to the many introductions which have not spread widely.
+#### In Singapore, sociological factors accelerated the expansion of one introduction to become a large outbreak, in contrast to the many introductions which have not spread widely.Στη Σιγκαπούρη, οι κοινωνιολογικοί παράγοντες επιτάχυναν την επέκταση μιας εισαγωγής για να γίνει ένα μεγάλο ξέσπασμα, σε αντίθεση με τις πολλές εισαγωγές που δεν έχουν εξαπλωθεί ευρέως.
 <br><br>
-#### In Asia, most countries' outbreaks have a similar history: many separate introductions from other countries, some of which resulted in local spread. This pattern of multiple introductions over time emphasizes the need for international and regional cooperation to fully control the pandemic.
+#### In Asia, most countries' outbreaks have a similar history: many separate introductions from other countries, some of which resulted in local spread. This pattern of multiple introductions over time emphasizes the need for international and regional cooperation to fully control the pandemic.Στην Ασία, τα κρούσματα των περισσότερων χωρών έχουν παρόμοια ιστορία: πολλές ξεχωριστές εισαγωγές από άλλες χώρες, μερικές από τις οποίες είχαν ως αποτέλεσμα την τοπική εξάπλωση. Αυτό το μοτίβο πολλαπλών εισαγωγών με την πάροδο του χρόνου τονίζει την ανάγκη διεθνούς και περιφερειακής συνεργασίας για τον πλήρη έλεγχο της πανδημίας.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -172,20 +182,19 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Επιστημονικές ευχαριστίες](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Θα θέλαμε να ευχαριστήσουμε την υπέροχη και συνεχή προσπάθεια όλων των επιστημόνων που έχουν εργαστεί σε αυτήν την πανδημία. Μόνο μέσα από τον άμεσο διαμοιρασμό γονιδιακών δεδομένων και μεταδεδομένων είναι δυνατό να πραγματοποιηθούν αναλύσεις σαν κι αυτήν.
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
+Οι συγκεκριμένες αλληλουχίες που παρέχονται από κάθε εργαστήριο [παρατίθενται εδώ](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Επίσης ευχαριστούμε θερμά την GISAID που παρέχει τη διαδικτυακή πλατφόρμα διαμοιρασμού των δεδομένων.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Είμαστε ευγνώμονες για τα δεδομένα που συλλέχθηκαν από τα παρακάτω εργαστήρια:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
