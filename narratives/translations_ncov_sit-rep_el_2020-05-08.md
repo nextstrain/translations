@@ -22,7 +22,8 @@ translators:
 - Sotiris Salloumis
 translatorLinks:
 - https://github.com/akifoss
-- https://github.com/codergrlicense: "CC-BY"  
+- https://github.com/codergr
+license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
