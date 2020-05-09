@@ -18,11 +18,11 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
-- Sofia Paraskevopoulou
-- Sotiris Salloumis
+  - Sofia Paraskevopoulou
+  - Sotiris Salloumis
 translatorLinks:
-- https://github.com/akifoss
-- https://github.com/codergr
+  - https://github.com/akifoss
+  - https://github.com/codergr
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
