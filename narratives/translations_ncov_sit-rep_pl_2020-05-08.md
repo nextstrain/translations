@@ -27,7 +27,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
-abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się COVID-19. W tym tygodniu koncentrujemy się na przebiegu epidemii w Azji. Raportujemy wiele osobnych, niezależnych introdukcji do Indii; kontekst wybuchu epidemii wśród migrujących pracowników w Singapurze; oraz międzynarodowe rozprzestrzenianie wirusa w regionie."
+abstract: "Ten raport wykorzystuje publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się COVID-19. W tym tygodniu koncentrujemy się na przebiegu epidemii w Azji. Raportujemy wiele osobnych, niezależnych introdukcji do Indii; kontekst wybuchu epidemii wśród migrantów zarobkowych w Singapurze; oraz międzynarodowe rozprzestrzenianie wirusa w regionie."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
