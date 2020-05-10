@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.
+title: Genomová analýza šíření nemoci COVID-19. Situační zpráva ze dne 8. 5. 2020.
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -17,13 +17,13 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
+translators: Zajišťuje společnost Google
+translatorLinks: www.google.com
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
+abstract: "Předkládaná týdenní zpráva využívá k sledování šíření nemoci COVID-19 veřejně dostupné genomové údaje. Tento týden se zaměříme na situaci v Asii. Popíšeme řadu oddělených, samostatných případů zanesení nákazy do Indie, souvislosti týkající se propuknutí nákazy mezi migrujícími pracovníky v Singapuru a převažující charakter mezinárodního šíření po regionu.
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,135 +31,135 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Obsah](https://nextstrain.org/ncov/cs/2020-05-08?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [Výchozí zdroje](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=2).     
+* [O těchto údajích](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=3).  
+* [Původ epidemie v Indii](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=4).  
+* [Pozadí opětovného nárůstu počtu případů v Singapuru](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=5).  
+* [Zanášení nákazy do Malajsie](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=6).  
+* [Časté šíření přes mezistátní hranice](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=7).    
+* [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Úvodní přehled
 
-We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
+Provedli jsme analýzu 2 226 veřejně dostupných genomů viru způsobujícího nemoc COVID-19. Vzájemným porovnáním těchto virových genomů můžeme popsat, jak původce nemoci COVID-19 postupuje světem a šíří se v rámci různých lokalit. Novinky tohoto týdne se zaměřují na šíření v Asii. Popisujeme v nich následující události:
 
-* Multiple introductions to Delhi during March 2020 from all over the world  
-* Many separate introductions to Singapore, most of which do not appear to have spread further  
-* Expansion of a large cluster of cases in Singapore likely driven by sociological factors
-* Similar patterns of international spread that emphasize the urgent need for cooperative efforts
+* Mnoho případů zanesení nákazy z celého světa do Dillí během března 2020  
+* Mnoho oddělených případů zanesení nákazy do Singapuru, z nichž většina se patrně dále nešířila  
+* Rozšíření velkého klastru případů v Singapuru, pravděpodobně vyvolané sociologickými faktory
+* Podobné modely mezinárodního šíření, které zdůrazňují naléhavou potřebu spolupráce
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [Informační zdroje o nemoci COVID-19](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+Připravili jsme materiály dostupné online, které usnadňují interpretaci zde uváděných dat.
+#### Zdroje na webu Nextstrain  
+* [ZAČNĚTE ZDE: Jak číst fylogenetický strom](https://nextstrain.org/narratives/trees-background/).  
+* [Základní informace o koronavirech](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Běžné omyly a mýty](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+#### Externí zdroje  
+* [Zeptejte se odborníka a časté dotazy](https://covid19.fas.org/l/en).
+* [Situační zprávy Světové zdravotnické organizace (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Zdroje publikované Střediskem pro kontrolu a prevenci nemocí (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Informace o nemoci COVID-19 v deníku The New York Times](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [A note on sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 28 countries in Asia. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Poznámka k odběru vzorků](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
+V současnosti máme k dispozici sekvence ze vzorků odebraných v 28 zemích v Asii. To je neuvěřitelný úspěch – sekvenování neznámého, velkého RNA viru uprostřed pandemie je obtížné a lze jej provést pouze díky neskutečné práci a včasnému sdílení dat vědci a lékaři z celého světa.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+I když nám tato data umožňují vyvodit mnoho užitečných charakteristik propuknutí nákazy a sledovat její šíření v reálném čase, je důležité zdůraznit, že naše závěry jsou limitovány dostupnými údaji.
 <br><br>
-For example, the map shows very few sequences from the Middle East. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+Mapa například ukazuje relativně málo sekvencí ze Středního Východu. Důvodem rozhodně není to, že by se nemoc COVID-19 snad v těchto oblastech nešířila nebo že by zjištěné případy nebyly natolik zásadní, abychom se jim snažili porozumět. Z těchto oblastí především nemáme k dispozici dostatečné množství údajů. Velikost jednotlivých kruhů na mapě tedy neoznačuje skutečný rozsah nákazy, ale spíše kolik dat je aktuálně z dané oblasti k dispozici.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Many separate introductions to Delhi during March](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+# [Mnoho samostatných případů zanesení nákazy do Dillí během března](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
-Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
+Mezi 1. březnem a 15. dubnem bylo v metropolitní oblasti Dillí odebráno a sekvenováno 38 virových genomů (viz zde).
 <br><br>
-In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.
+Uprostřed stromu vidíme velký klastr úzce příbuzných případů. To odpovídá předpokladu o jediném případu zanesení, po kterém následovalo šíření mezi místním obyvatelstvem.
 <br><br>
-However, it is crucial to consider the context of this cluster.  
-Scattered across the tree, we also see many other small clusters and isolated cases, representing separate introductions from all over the world.
-We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.
+Nesmíme však zapomenout vzít v úvahu všechny souvislosti tohoto klastru.  
+Po celém stromu vidíme také roztroušený výskyt mnoha dalších malých klastrů a ojedinělých případů, které představují samostatné případy zanesení nákazy z celého světa.
+Nemáme dostatek údajů k tomu, abychom mohli říci, co následovalo po těchto dalších případech zanesení – zda nebo jak dalece se rozšířily. Můžeme však prohlásit, že zmíněný velký klastr případů představuje pouze část celého příběhu.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Contextualizing the SARS-CoV-2 resurgence in Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [Pozadí opětovného nárůstu počtu případů nákazy virem SARS-CoV-2 v Singapuru](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
-In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
+Během posledních 10 týdnů byl virus SARS-CoV-2 zanesen do Singapuru mnohokrát a z různých míst.
 <br><br>
-Most of these introductions have led to limited onward transmission (single cases or small clusters on the tree).
+Většina těchto případů zanesení vedla k omezenému dalšímu přenosu (jednotlivé případy nebo malé klastry na stromě).
 <br><br>
-In the middle of the tree, however, we see a single introduction that led to extensive onward transmission.
-This large, cohesive cluster is most closely related to samples from India and the Philippines.
+Uprostřed stromu však vidíme jediný případ zanesení, který vedl k rozsáhlému následnému šíření.
+Tento velký kompaktní klastr je nejpříbuznější se vzorky z Indie a Filipín.
 <br><br>
-This is consistent with [recent reports](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) that the virus is spreading rapidly among vulnerable, confined populations of migrant workers in Singapore.
+Tato pozorování jsou v souladu s [nedávnými zprávami](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) o tom, že se virus v Singapuru rychle šíří mezi zranitelnými skupinami migrujících pracovníků žijících ve stísněných podmínkách.
 <br><br>
-This illustrates how the extent to which an introduction spreads within a population depends on sociological factors and emphasizes why it is critically important to protect vulnerable groups.
+Tento závěr ukazuje, jak je rozsah šíření v rámci populace po prvotním zanesení nákazy závislý na sociologických faktorech, a zdůrazňuje, proč je zásadně důležité chránit zranitelné skupiny.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [Opakované zanesení nákazy do Malajsie](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
-We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
+Na webu Nextstrain máme 14 sekvencí z Malajsie. Jednotlivé vzorky byly odebrány od konce ledna do konce března. Tyto sekvence se shlukují s několika různými klady, z nichž každý se vyskytoval většinou v různých asijských zemích. To napovídá, že do Malajsie byla nákaza z okolního regionu zanesena opakovaně.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Regional spread across Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+# [Regionální šíření po celé Asii](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
-A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam
+Podobný model se opakuje v řadě dalších zemí regionu: vícenásobné zanesení nákazy, přičemž většina případů zůstala dobře izolovaných, ale několik málo spustilo místní přenos. Doporučujeme vám, abyste si data prozkoumali sami v části „Explore the Data Yourself“. Jak je zde ukázáno, podobné charakteristické struktury budete pozorovat v Jordánsku, Japonsku, Thajsku a ve Spojených arabských emirátech. Obdobné struktury vidíme také v Kuvajtu, Gruzii, Tchaj-wanu a Vietnamu.
 <br><br>
-The consistency of this pattern is strong evidence that the virus frequently crosses international borders. Thus, in order to effectively control the epidemic in any one country, we must control the pandemic across all countries through coordinated international efforts.
+Toto opakování je jasným důkazem toho, že virus často překračuje mezistátní hranice. Abychom tedy mohli epidemii účinně kontrolovat v jedné zemi, musíme pomocí koordinovaného mezinárodního úsilí dostat pandemii pod kontrolu ve všech zemích.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Co můžete udělat vy](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+#### ... jako běžný občan
+* Důsledně omezovat společenský kontakt, zejména pokud spadáte do ohrožené skupiny.
+* Nezapomínejte, že i když vy sami do silně ohrožené skupiny nepatříte, řada lidí kolem vás ano. Dodržováním těchto opatření chráníte ostatní.
+* Myjte si ruce, „jako byste právě nakrájeli silně pálivou papriku a chystali se vyměnit si kontaktní čočky“.  
+* Co nejvíce se zdržujte doma – zejména pokud jste nemocní. Pořiďte si zásoby pro případ, že budete muset zůstat v domácí karanténě.  
+* Jste-li zaměstnavatel, nabídněte všem zaměstnancům, u kterých je to možné, práci z domova.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ... jako představitel veřejné moci  
+* Zpřístupněte bezplatné a široce dostupné testování.  
+* Zaveďte přísná pravidla omezení společenského kontaktu (tzv. social distancing).  
+* Financujte a zavádějte rozsáhlé projekty trasování kontaktů.  
+* Podpořte finančně osoby postižené pravidly omezení společenského kontaktu.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Klíčové závěry
 
-#### The outbreak in India is the result of many separate introductions from around the world.  
+#### Propuknutí nákazy v Indii je důsledkem řady samostatných případů jejího zanesení z celého světa.  
 <br><br>
-#### In Singapore, sociological factors accelerated the expansion of one introduction to become a large outbreak, in contrast to the many introductions which have not spread widely.
+#### V Singapuru urychlily sociologické faktory rozšíření na základě jednoho případu zanesení, z něhož se následně vyvinulo velké ohnisko nákazy. Oproti tomu došlo i k řadě případů zanesení, které se výrazně nerozšířily.
 <br><br>
-#### In Asia, most countries' outbreaks have a similar history: many separate introductions from other countries, some of which resulted in local spread. This pattern of multiple introductions over time emphasizes the need for international and regional cooperation to fully control the pandemic.
+#### Ohniska ve většině asijských zemí mají podobnou historii: mnoho samostatných případů zanesení nákazy z jiných zemí, z nichž některé vedly k místnímu šíření. Tento model opakovaného zanášení v průběhu času zdůrazňuje potřebu mezinárodní a regionální spolupráce při účinném zvládání pandemie.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -172,20 +172,20 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Chtěli bychom ocenit úžasnou a rychlou práci všech vědců bojujících s touto nákazou.
+Analýzy tohoto typu jsou možné pouze na základě rychlého sdílení genomových dat a metadat.
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
+Konkrétní sekvence poskytnuté jednotlivými laboratořemi jsou [uvedeny zde](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Dále děkujeme organizaci GISAID za poskytnutí platformy, přes kterou lze tyto údaje nahrávat a sdílet.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Chtěli bychom vyjádřit svůj vděk za data shromážděná těmito zdrojovými laboratořemi:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
