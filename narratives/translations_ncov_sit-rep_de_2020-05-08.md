@@ -27,7 +27,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
-abstract: "Dieser woechentliche Bericht verwendet oeffentlich geteilte genomische Daten, um die Ausbreitung von COVID-19 zu charakterisieren. Diese Woche liegt der Fokus auf Asien. Wir berichten ueber viele separate und unabhaengige Einschleppungen nach Indien; Kontext fuer den Ausbruch innerhalb Wanderarbeiter in Singapur; und die Hauefigkeit einer internationalen Verbreitung des Virus in dieser Region."
+abstract: "Dieser woechentliche Bericht verwendet oeffentlich geteilte genomische Daten, um die Ausbreitung von COVID-19 zu charakterisieren. Diese Woche liegt der Fokus auf Asien. Wir berichten ueber viele separate und unabhaengige Einschleppungen nach Indien; Kontext fuer den Ausbruch in Wanderarbeitern in Singapur; und die Hauefigkeit einer internationalen Verbreitung des Virus in dieser Region."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
