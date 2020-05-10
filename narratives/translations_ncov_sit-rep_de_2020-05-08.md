@@ -37,13 +37,13 @@ abstract: "Dieser woechentliche Bericht verwendet oeffentlich geteilte genomisch
 <!-- This is left-side text 1-->
 # [Inhaltsverzeichnis](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [Ueber diese Daten](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Urspruenge der Epidemie in Indien](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Kontextualisierung des Wiederaufflammens von Fällen in Singapur](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Einschleppungen nach Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Haeufige Verbreitung ueber internationale Grenzen hinaus](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Wissenschaftliche Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-08?n=2).     
+* [Ueber diese Daten](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-08?n=3).  
+* [Urspruenge der Epidemie in Indien](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-08?n=4).  
+* [Kontextualisierung des Wiederaufflammens von Fällen in Singapur](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-08?n=5). 
+* [Einschleppungen nach Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-08?n=6).  
+* [Haeufige Verbreitung ueber internationale Grenzen hinaus](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-08?n=7).    
+* [Wissenschaftliche Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -66,7 +66,7 @@ Wir haben einigen Quellen vorbereitet, die die Interpretation der Daten, die wir
 #### Nextstrain Quellen  
 * [BEGINNEN SIE HIER: Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/de).  
 * [Hintergrundwissen zu Coronaviren](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-03-13?n=11).
 
 #### Externe Quellen  
 * [Fragen Sie einen Wissenschaftler & FAQs](https://covid19.fas.org/l/en).
