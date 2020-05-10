@@ -37,7 +37,7 @@ abstract: "Aυτή η εβδομαδιαία αναφορά χρησιμοποι
 <!-- This is left-side text 1-->
 # [Περιεχόμενα](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2). 
+* [Πηγές](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-08?n=2). 
 * [Σχετικά με τα δεδομένα που παρουσιάζουμε](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-08?n=3). 
 * [Προέλευση της επιδημίας στην Ινδία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-08?n=4). 
 * [Ευρύτερο πλαίσιο της επανεμφάνισης κρουσμάτων στη Σιγκαπούρη](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-05-08?n=5). 
