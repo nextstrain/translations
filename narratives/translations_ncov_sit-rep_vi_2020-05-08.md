@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.
+title: Phân tích tình trạng lây lan của COVID-19 dựa trên bộ gen. Báo cáo hiện trạng 08-05-2020.
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -17,13 +17,13 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
+translators: Được cung cấp bởi Google
+translatorLinks: www.google.com
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
+abstract: "Báo cáo hàng tuần này sử dụng dữ liệu bộ gen được chia sẻ công khai nhằm theo dõi tình hình lây lan của COVID-19. Trong tuần này, chúng tôi tập trung phân tích tình hình tại châu Á. Chúng tôi ghi nhận nhiều ca lây nhiễm từ nước ngoài riêng biệt, độc lập vào Ấn Độ; bối cảnh dịch bệnh bùng phát trong cộng đồng người lao động nhập cư ở Singapore; và tình hình lây lan tại khu vực do ảnh hưởng từ dịch bệnh trên thế giới."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,135 +31,135 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Mục lục](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [Tài nguyên cơ sở](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-05-08?n=2).     
+* [Giới thiệu về nguồn dữ liệu này](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-05-08?n=3).  
+* [Nguồn gốc dịch bệnh tại Ấn Độ](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-05-08?n=4).  
+* [Phân tích bối cảnh dẫn đến sự bùng phát trở lại của các ca lây nhiễm tại Singapore](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-05-08?n=5).  
+* [Các ca lây nhiễm từ nước ngoài đổ về Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-05-08?n=6).  
+* [Tốc độ lây lan nhanh xuyên biên giới quốc tế](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-05-08?n=7).    
+* [Ghi nhận công lao nghiên cứu khoa học](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Tóm tắt báo cáo
 
-We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
+Chúng tôi đã tiến hành phân tích 2.226 bộ gen COVID-19 được chia sẻ công khai. Bằng cách so sánh các bộ gen vi-rút này với nhau, chúng tôi có thể mô tả diễn biến lây lan tại khu vực và trên toàn thế giới của COVID-19. Trong nội dung cập nhật tuần này, chúng tôi xin được tập trung vào tình hình lây lan dịch bệnh tại châu Á. Chúng tôi báo cáo:
 
-* Multiple introductions to Delhi during March 2020 from all over the world  
-* Many separate introductions to Singapore, most of which do not appear to have spread further  
-* Expansion of a large cluster of cases in Singapore likely driven by sociological factors
-* Similar patterns of international spread that emphasize the urgent need for cooperative efforts
+* Trong tháng 3 năm 2020, nhiều ca lây nhiễm từ nước ngoài đổ về Delhi từ khắp nơi trên thế giới  
+* Nhiều ca lây nhiễm từ nước ngoài riêng biệt đổ về Singapore,hầu hết các ca này dường như không lây lan ra cộng đồng  
+* Sự mở rộng một cụm lớn các ca lây nhiễm tại Singapore có thể do các yếu tố xã hội học
+* Các mô hình lây lan tương tự trên thế giới đều cho thấy nhu cầu cấp thiết phải có các nỗ lực  hợp tác ngăn chặn dịch bệnh
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [Tài nguyên về COVID-19](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+Chúng tôi đã chuẩn bị sẵn một số tài nguyên để giúp người đọc diễn giải dữ liệu trình bày trong báo cáo tường thuật này được dễ dàng hơn.
+#### Tài nguyên của Nextstrain  
+* [BẮT ĐẦU Ở ĐÂY: Cách đọc hiểu cây phát sinh chủng loại](https://nextstrain.org/narratives/trees-background/).  
+* [Bối cảnh về vi-rút corona](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Các quan niệm sai lầm thường gặp](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+#### Tài nguyên bên ngoài  
+* [Giải đáp từ nhà khoa học và Câu hỏi thường gặp](https://covid19.fas.org/l/en).
+* [Báo cáo hiện trạng của WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Tài nguyên của CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Tin tức về COVID-19 của NYTimes](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [A note on sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 28 countries in Asia. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Lưu ý về lấy mẫu](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
+Chúng tôi hiện có chuỗi trình tự từ các mẫu được lấy tại 28 quốc gia ở châu Á. Đây là một thành tựu phi thường -- công tác giải trình tự một loại vi-rút RNA lớn, chưa được xác định trong bối cảnh đại dịch đang diễn ra là một việc hết sức khó khăn. Điều này chỉ có thể đạt được thông qua nỗ lực nghiên cứu miệt mài và chia sẻ dữ liệu kịp thời của đội ngũ các nhà khoa học và y bác sĩ trên toàn thế giới.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+Mặc dù dữ liệu này giúp chúng tôi suy ra nhiều đặc điểm quan trọng của dịch bệnh cũng như theo dõi tình hình lây lan của dịch bệnh theo thời gian thực, chúng tôi vẫn phải nhấn mạnh rằng các kết luận mà chúng tôi đưa ra đều bị giới hạn trong nguồn dữ liệu hiện có.
 <br><br>
-For example, the map shows very few sequences from the Middle East. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+Chẳng hạn, bản đồ thể hiện rất ít chuỗi trình tự từ vùng Trung Đông. Điều này KHÔNG có nghĩa COVID-19 không lây lan tại các khu vực này, hoặc các ca nhiễm bệnh này không cần thiết phải nghiên cứu, mà là chúng tôi hiện không có nhiều dữ liệu từ các khu vực này. Kích thước của mỗi vòng tròn trên bản đồ cho biết hiện tại có bao nhiêu dữ liệu được thu thập từ khu vực đó chứ không phải quy mô thật sự của dịch bệnh.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Many separate introductions to Delhi during March](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+# [Nhiều ca lây nhiễm riêng biệt từ nước ngoài đổ về Delhi trong tháng 3](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
-Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
+Từ ngày 1/4 đến ngày 15/4, 38 bộ gen vi-rút từ khu vực Delhi đã được lấy mẫu và giải trình tự (trình bày ở đây).
 <br><br>
-In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.
+Ở phần giữa cây, chúng ta thấy một cụm lớn các ca lây nhiễm có liên quan chặt chẽ với nhau. Điều này phù hợp với tình huống xuất hiện một ca lây nhiễm từ nước ngoài và kéo theo sự lây lan ra cộng đồng địa phương.
 <br><br>
-However, it is crucial to consider the context of this cluster.  
-Scattered across the tree, we also see many other small clusters and isolated cases, representing separate introductions from all over the world.
-We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.
+Tuy nhiên, điều quan trọng là phải xem xét bối cảnh dẫn tới sự xuất hiện của cụm này.  
+Chúng tôi cũng nhận thấy nhiều cụm nhỏ khác phân bố rải rác trên cây và nhiều ca lây nhiễm độc lập. Đây cũng chính là các ca lây nhiễm riêng biệt đổ về từ khắp nơi trên thế giới.
+Chúng tôi không có đủ dữ liệu để dự kiến về điều gì sẽ xảy ra sau sự xuất hiện của các ca lây nhiễm từ nước ngoài khác -- chẳng hạn như khả năng và mức độ lây lan của các ca này. Tuy nhiên, chúng tôi có thể khẳng định rằng cụm lớn chứa các ca lây lây nhiễm chỉ là một phần trong bức tranh toàn cảnh.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Contextualizing the SARS-CoV-2 resurgence in Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [Phân tích bối cảnh dẫn đến sự bùng phát trở lại của SARS-CoV-2 tại Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
-In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
+Trong 10 tuần qua, các ca lây nhiễm SARS-CoV-2 từ nước ngoài đã nhiều lần đổ về Singapore từ nhiều địa điểm.
 <br><br>
-Most of these introductions have led to limited onward transmission (single cases or small clusters on the tree).
+Hầu hết các ca lây nhiễm từ nước ngoài này đều ít có khả năng lan rộng ra cộng đồng (đối với các ca nhiễm đơn lẻ hoặc cụm ca nhiễm nhỏ trên cây).
 <br><br>
-In the middle of the tree, however, we see a single introduction that led to extensive onward transmission.
-This large, cohesive cluster is most closely related to samples from India and the Philippines.
+Tuy nhiên, ở giữa cây, chúng ta thấy một ca lây nhiễm từ nước ngoài lại có khả năng lan rộng ra cộng đồng.
+Cụm lớn, gắn kết này có mối liên quan gần nhất với các mẫu vi-rút từ Ấn Độ và Philippines.
 <br><br>
-This is consistent with [recent reports](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) that the virus is spreading rapidly among vulnerable, confined populations of migrant workers in Singapore.
+Điều này phù hợp với các [báo cáo gần đây](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) cho rằng vi-rút đang lây lan nhanh chóng trong cộng đồng người lao động nhập cư cô lập và dễ bị tổn thương ở Singapore.
 <br><br>
-This illustrates how the extent to which an introduction spreads within a population depends on sociological factors and emphasizes why it is critically important to protect vulnerable groups.
+Điều này thể hiện mức độ lây lan của các ca nhiễm bệnh từ nước ngoài trong cộng đồng phụ thuộc vào các yếu tố xã hội học và nhấn mạnh lý do tại sao việc bảo vệ các nhóm người dân dễ bị tổn thương là cực kỳ quan trọng.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [Các ca lây nhiễm từ nước ngoài liên tục đổ về Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
-We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
+Tại Nextstrain, chúng tôi thu được 14 chuỗi trình tự từ Malaysia, được lấy mẫutừ cuối tháng 1 đến cuối tháng 3. Các chuỗi trình tự này tập hợp với một số nhánh khác nhau, trong đó mỗi nhánh xuất hiện chủ yếu ở các nước châu Á khác. Điều này cho thấy đã có nhiều ca lây nhiễm từ nước ngoài từ khu vực xung quanh vào Malaysia.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Regional spread across Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+# [Dịch bệnh lây lan tại các khu vực trên khắp châu Á](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
-A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam
+Cùng một mô hình tương tự lặp lại tại nhiều quốc gia khác trong khu vực: nhiều ca lây nhiễm từ nước ngoài, nhiều ca trong số đó được cách ly đúng quy định, nhưng một số ca nhiễm lại thoát vòng kiểm dịch để rồi lây lan ra cộng đồng địa phương. Chúng tôi khuyến khích bạn "Tự khám phá dữ liệu". Như đã thể hiện ở đây, bạn sẽ quan sát thấy các mô hình tương tự ở Jordan, Nhật Bản, Thái Lan và các Tiểu vương quốc Ả Rập Thống nhất. Các mô hình tương tự cũng được thể hiện ở Kuwait, Georgia, Đài Loan và Việt Nam
 <br><br>
-The consistency of this pattern is strong evidence that the virus frequently crosses international borders. Thus, in order to effectively control the epidemic in any one country, we must control the pandemic across all countries through coordinated international efforts.
+Tính nhất quán của mô hình này là bằng chứng thuyết phục cho thấy vi-rút này có tốc độ lây lan xuyên biên giới quốc tế cực nhanh. Do đó, để kiểm soát hiệu quả dịch bệnh ở mỗi quốc gia, chúng ta phải kiểm soát đại dịch đang lây lan ra khắp các quốc gia thông qua các nỗ lực phối hợp ở quy mô quốc tế.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Bạn nên làm gì](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+#### ...dưới vai trò là một cá nhân
+* Thực hành giãn cách xã hội nghiêm ngặt, đặc biệt nếu bạn thuộc nhóm dân cư dễ bị tổn thương.
+* Hãy nhớ rằng nếu không phải là bạn thì rất nhiều người xung quanh bạn vẫn có thể là đối tượng cực kỳ dễ bị tổn thương; do đó hãy thực hiện theo những biện pháp thực hành này để bảo vệ người khác.
+* Rửa tay "như thể bạn vừa thái một quả ớt jalapeno và phải thay kính áp tròng".  
+* Sinh hoạt tại nhà càng nhiều càng tốt -- đặc biệt nếu bạn bị bệnh; hãy chuẩn bị đầy đủ các vật phẩm dự phòng trong trường hợp bạn phải tự cách ly.  
+* Nếu bạn là chủ doanh nghiệp, hãy khuyến khích nhân viên làm việc tại nhà bất cứ khi nào có thể.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...dưới vai trò là một quan chức  
+* Hãy tổ chức xét nghiệm miễn phí và rộng rãi.  
+* Triển khai các biện pháp giãn cách xã hội tại chỗ mạnh mẽ.  
+* Tài trợ và triển khai các nỗ lực truy tìm người nghi nhiễm trên quy mô lớn.  
+* Hỗ trợ tài chính cho những người bị ảnh hưởng bởi các biện pháp giãn cách xã hội.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Bài học rút ra
 
-#### The outbreak in India is the result of many separate introductions from around the world.  
+#### Dịch bệnh bùng phát ở Ấn Độ là kết quả của nhiều ca lây nhiễm riêng biệt đổ về từ khắp nơi trên thế giới.  
 <br><br>
-#### In Singapore, sociological factors accelerated the expansion of one introduction to become a large outbreak, in contrast to the many introductions which have not spread widely.
+#### Ở Singapore, các yếu tố xã hội học đã đẩy nhanh quá trình phát triển của một ca lây nhiễm từ nước ngoài, khiến ca này trở thành một dịch bệnh lớn, trái ngược với nhiều ca lây nhiễm từ nước ngoài không lan rộng ra cộng đồng trước đó.
 <br><br>
-#### In Asia, most countries' outbreaks have a similar history: many separate introductions from other countries, some of which resulted in local spread. This pattern of multiple introductions over time emphasizes the need for international and regional cooperation to fully control the pandemic.
+#### Tại châu Á, hầu hết dịch bệnh ở mỗi quốc gia đều có một lịch sử tương tự: nhiều ca lây nhiễm riêng biệt có nguồn gốc từ các quốc gia khác. Một số ca lây nhiễm trong đó đã lây lan ra cộng đồng địa phương. Mô hình ngày càng nhiều ca lây nhiễm từ nước ngoài xuất hiện theo thời gian này nhấn mạnh sự cấp thiết phải triển khai các nỗ lực hợp tác ở quy mô khu vực và quốc tế để kiểm soát hoàn toàn đại dịch này.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -172,20 +172,20 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Ghi nhận công lao nghiên cứu khoa học](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Chúng tôi muốn ghi nhận các công trình nghiên cứu tuyệt vời và kịp thời liên quan đến dịch bệnh này của tất cả các nhà khoa học.
+Chính nhờ sự chia sẻ kịp thời các dữ liệu và siêu dữ liệu về bộ gen mà chúng tôi mới có thể thực hiện được các bài báo cáo phân tích này.
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
+Các chuỗi trình tự cụ thể do các phòng thí nghiệm cung cấp được [liệt kê ở đây](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Chúng tôi cũng gửi lời cảm ơn sâu sắc đến GISAID đã cung cấp nền tảng tải lên và chia sẻ các dữ liệu này.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Chúng tôi rất cảm kích trước sự thu thập và chia sẻ dữ liệu của các phòng thí nghiệm sau:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
