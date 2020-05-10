@@ -80,7 +80,7 @@ Bis jetzt haben wir Sequenzierungsdaten von Proben aus 28 Laendern in Asien. Das
 <br><br>
 Waehrend diese Daten es uns ermoeglichen, die Pandemie naeher zu charakterisieren und die Ausbreitung in Echtzeit zu verfolgen, ist es wichtig zu betonen, dass die Schlussfolgerungen aufgrund der Datenverfuegbarkeit begrenzt sind.
 <br><br>
-Zum Beispiel weist die Karte sehr wenige Sequenzierungsdaten aus dem Mittleren Osten auf.Das bedeutet nicht notwendigerweise, dass SARS-CoV-2 in diesen Gebieten mehr weitreichend zirkuliert, sondern vielmehr dass es mehr Daten aus diesen Laendern gibt. Die Groesse eines Kreises sagt lediglich aus, wie viel Daten aus einem Gebiet derzeit verfuegbar sind, und stellt nicht das wirkliche Ausmass des Ausbruchs in diesem Gebiet dar.
+Zum Beispiel weist die Karte sehr wenige Sequenzierungsdaten aus dem Mittleren Osten auf. Das bedeutet nicht notwendigerweise, dass SARS-CoV-2 in diesen Gebieten mehr weitreichend zirkuliert, sondern vielmehr dass es mehr Daten aus diesen Laendern gibt. Die Groesse eines Kreises sagt lediglich aus, wie viel Daten aus einem Gebiet derzeit verfuegbar sind, und stellt nicht das wirkliche Ausmass des Ausbruchs in diesem Gebiet dar.
 
 <!-- There is NO right-side text -->
 
@@ -110,7 +110,7 @@ Dieses grosse, kohaesive Kluster ist eng verwandt zu Proben aus Indien und den P
 <br><br>
 Das stimmt mit [neusten Berichten](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) ueberein, die berichten, dass das Virus innerhalb von gefährdeten, begrenzten Bevölkerungsgruppen der Wanderarbeiter in Singapur sich schnell ausbreitet.
 <br><br>
-Das illustriert das Ausmass einer Einschleppung, die sich je nach soziologischen Faktoren innerhlab einer Bevoelkerungsgruppe ausbreiten kann, und betont die Wichtigkeit gefaehrdete Bevoelkerungsschichten zu schuetzen. 
+Das illustriert das Ausmass einer Einschleppung, die sich je nach soziologischen Faktoren innerhlab einer Bevoelkerungsgruppe zu einer starken Ausbreitung fuehren kann, und betont die Wichtigkeit gefaehrdete Bevoelkerungsschichten zu schuetzen. 
 <!-- There is no right side text -->
 
 
@@ -125,7 +125,7 @@ Wir haben 14 Sequenzierungsdaten aus Malaysien hier auf Nextstrain verfuegbar, d
 <!-- This is left-side text -->
 # [Regionale Verbreitung innerhalb Asiens](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
-Ein aehnliches Muster ist in vielen anderen Laendern in der Region sichtbar: vielfache Einschleppungen, von denen die meisten gut kontrolliert worden sind, aber einige wenige, die lokale Verbreitungen iniziiert haben. Wir ermuntern Sie die Daten selbst zu entdecken unter "Explore the Data Yourself". Wie hier zu sehen ist, koennen aehnliche Muster in Jordanien, Japan, Thailand, und in den Vereinigten Arabischen Emiraten gefunden werden. Ebensolche Muster sind auch in Kuwait, Georgien, Taiwan und Vietnam sichtbar.
+Ein aehnliches Muster ist in vielen anderen Laendern in der Region sichtbar: vielfache Einschleppungen, von denen die meisten gut kontrolliert worden sind, aber einige wenige, die lokale Verbreitungen iniziiert haben. Wir ermuntern Sie die Daten selbst zu entdecken unter "Explore the Data Yourself". Wie hier zu sehen ist, koennen aehnliche Muster in Jordanien, Japan, Thailand und in den Vereinigten Arabischen Emiraten gefunden werden. Ebensolche Muster sind auch in Kuwait, Georgien, Taiwan und Vietnam sichtbar.
 <br><br>
 Diese Gleichmaessigkeit ist ein starker Beweis dafuer, dass sich das Virus haeufig ueber internationale Grenzen hinweg ausbreitet. Um die Epidemie in egal welchem Land effektiv kontrollieren zu koennen, muss die Pandemie durch weltweite koordinierte internationale Bemühungen reguliert werden.
 <!-- There is no right side text -->
