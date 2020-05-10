@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.
+title: التحليل الجينومي لانتشار كوفيد-19 تقرير  حالة 8 أيار 2020
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -17,13 +17,13 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
+translators: تم التزويد من خلال جوجل
+translatorLinks: 
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
+abstract: يستخدم تقرير هذا الاسبوع البيانات الجينومية التي تم مشاركتها للعموم من أجل تتبع انتشار كوفيد-19 سنركز في هذا الاسبوع على قارة آسيا نوثق في هذا التقرير عدة ادخالات مستقلة الى الهند، توافق الانتشار الوبائي بين العمال المهاجرين في سنغافوره، ونسبة تفشي  الانتشارات العالمية في المنطقة. 
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,135 +31,135 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [جدول المحتويات](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [مصادر الخلفية](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
+* [عن هذه البيانات](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
+* [مصادر الوباء في الهند](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
+* [توافق عودة ظهور  الحالات في سنغافوره](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
+* [الادخالات الى ماليزيا](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
+* [الانتشار المتكرر عبر الحدود الدولية](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
+* [الحقوق العلمية](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# الملخص التنفيذي
 
-We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
+قمنا بتحليل 2226 جينوم كوفيد-19 تم مشاركتها للعموم. من خلال مقارنة هذه الجينومات الفيروسية مع بعضها البعض نستطيع ان نحدد كيف يتنقل كوفيد19- حول العالم وكيف ينتشر محليا. في تحديثنا لهذا الاسبوع نركز على الانتشارات الحديثة خلال قارة اسيا. نوثق هنا ما يلي:
 
-* Multiple introductions to Delhi during March 2020 from all over the world  
-* Many separate introductions to Singapore, most of which do not appear to have spread further  
-* Expansion of a large cluster of cases in Singapore likely driven by sociological factors
-* Similar patterns of international spread that emphasize the urgent need for cooperative efforts
+* ادخالات متعددة الى دلهي خلال مارس 2020 من كل انحاء العالم  
+* عدة ادخالات منفصلة الى سنغافورة. معظمها يظهر أنه لم ينتشر بشكل موسع  
+* توسع لتجمع حالات كبير في سنغافورة تم على الاغلب بسبب عوامل اجتماعية.
+* انماط متشابهة من الانتشار العالمي والتي تؤكد الحاجة الطارئة لجهود تعاونية طارئة
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# `[مصادر كوفيد-19](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+قمنا هنا بتحضير بعض المصادر والتي ستجعل تحليل البيانات التي نعرضها في هذا التقرير أسهل.
+#### مصادر Nextstrain  
+* [ابدأ هنا: كيف تقرأ شجرة التحليل الجيني](https://nextstrain.org/narratives/trees-background/).  
+* [خلفية عن فيروسات كورونا](https://nextstrain.org/help/coronavirus/human-CoV).
+* [مفاهيم خاطئة شائعة](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+#### مصادر خارجية  
+* [اسأل عالما والاسئلة الشائعة](https://covid19.fas.org/l/en).
+* [تقارير منظمة الصحة العالمية](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* `[مصادر مركز مكافحة الامراض الامريكي](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [تغطية كوفيد-19 في مجلة نيويروك تايمز](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [A note on sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 28 countries in Asia. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [ملاحظة عن جمع العينات](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
+نتملك حالليا تسلسلات جينومية للفيروس من عينات جمعت من 28 دولة اسيوية. وهذا يعتبر انجاز رائع-- حيث أن تحديد تسلسل جينوم فيروس RNA كبير وغير معروف سابقاً في وسط جائحة هو أمر صعب، وما كان ليكون ممكناً لولا العمل المضني والمشاركة الفورية للبيانات من قبل العلماء والاطباء حول العالم.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+بينما تمكننا هذه البيانات من استنتاج العديد من خصائص الانتشار الوبائي وتتبع انتشاره في الوقت الفعلي، الا انه من المهم التأكيد على أن استنتاجاتنا تبقى محدودة بوفرة البيانات.
 <br><br>
-For example, the map shows very few sequences from the Middle East. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+فعلى سبيل المثال، تظهر الخريطة تسلسلات قليلة جدا من منطقة الشرق الاوسط. وهذا ليس لأن كوفيد-19 لا يدور في هذه الأماكن، ولا لأان هذه الحالات لا تعتبر مهمة للفهم، وانما الى أننا فقط لا نمتلك بيانات كثيرة من تلك الأماكن. حجم كل دائرة على الخارطة يشير الى كمية البيانات المتوفرة حالياً من تلك المنطقة، وليس الى الحجم الحقيقي لانتشار الوباء فيها.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Many separate introductions to Delhi during March](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+# [ادخالات متعددة ومنفصلة الى دلهي خلال مارس](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
-Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
+تم تحديد تسلسل 38 جينوم فيروسي من عينات جمعت من منطقة دلهي ما بين الاول من مارس والخامس عشر من ابريل (تظهر هنا).)
 <br><br>
-In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.
+في وسط الشجرة نرى تجمع بحجم كبير لحالات مرتبطة جدا ببعضها. وهذا يتوافق مع حالة ادخال منفردة، تلاها انتشار مجتمعي محلي.
 <br><br>
-However, it is crucial to consider the context of this cluster.  
-Scattered across the tree, we also see many other small clusters and isolated cases, representing separate introductions from all over the world.
-We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.
+ومع ذلك، من المهم الاخذ بعين الاعتبار السياق لهذا التجمع  
+كما نرى ايضا تجمعات صغيرة اخرى وحالات معزولة متفرقة على الشجرة، تمثل ادخالات منفصلة من جميع انحاء العالم.
+لا نمتلك بيانات كافية للقول ماذا تبع تلك الادخالات الاخرى--ان كانت انتشرت او الى اي مدى. ولكن، يمكننا القول بأن التجمع الكبير للحالات هو فقط جزء من القصة.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Contextualizing the SARS-CoV-2 resurgence in Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [توافق عودة ظهور سارس-كو-في -٢ في سنغافورة](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
-In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
+في الاسابيع العشرة الماضية، تم ادخال فيروس سارس-كو-في-2 الى سنغافورة عدة مرات، من عدة اماكن.
 <br><br>
-Most of these introductions have led to limited onward transmission (single cases or small clusters on the tree).
+معظم تلك الادخالات ادت الى الى انتشارات تالية محدودة (حالات منفردة او تجمعات صغيرة على الشجرة).)
 <br><br>
-In the middle of the tree, however, we see a single introduction that led to extensive onward transmission.
-This large, cohesive cluster is most closely related to samples from India and the Philippines.
+في وسط الشجرة ، مع ذلك، نرى تجمع بحجم كبير لحالات مرتبطة جدا ببعضها.
+هذا التجمع الكبير والمتلاصق اقرب ما يكون قربا على عينات من الهند والفلبين.
 <br><br>
-This is consistent with [recent reports](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) that the virus is spreading rapidly among vulnerable, confined populations of migrant workers in Singapore.
+وهذا على توافق مع ([تقارير حديثة](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html)) بأن الفيروس ينتشر بسرعة بين الاشخاص الاكثر حساسية، مجتمعات محددة من العمال المهاجرين في سنغافورة.
 <br><br>
-This illustrates how the extent to which an introduction spreads within a population depends on sociological factors and emphasizes why it is critically important to protect vulnerable groups.
+وهذا يشرح كيف أن سعة انتشار الادخال في المجموعة السكانية يعتمد على العوامل الاجتماعية ويؤكد الاهمية الحيوية لحماية الاشخاص الاكثر حساسية للاصابة.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [الادخالات المتكررة  الى ماليزيا](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
-We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
+لدينا 14 تسلسل جينومي من ماليزيا على Nextstrain، تم جمعها ما بين اواخر يناير واواخر مارس. تتجمع هذه التسلسلات مع العديد من العناقيد المختلفة، كل منها يدور بشكل كبير في دول اسيوية أخرى. وهذا يقترح بأنه كان هناك ادخالات متعددة من المنطقة المجاورة الى سنغافورة.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Regional spread across Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+# [الانتشار الاقليمي عبر اسيا](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
-A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam
+يتكرر نمط مماثل للعديد من الدول الاخرى في المنطقة: ادخالات متعددة، العديد منها تم احتواءه بشكل ممتاز، لكن بعضها أدت الى اشعال انتشارات محلية. نحن نشجعك على " اسكتشف البيانات بنفسك" كما هو موضح هنا، سوف تشاهد انماط متماثلة في الاردن، اليابان، تايلاند، والامارات العربية المتحدة. انماط متماثلة يمكنك مشاهدتها ايضا في الكويت، جورجيا، تايوان، وفيتنام
 <br><br>
-The consistency of this pattern is strong evidence that the virus frequently crosses international borders. Thus, in order to effectively control the epidemic in any one country, we must control the pandemic across all countries through coordinated international efforts.
+التوافق في هذه الانماط هو دليل قوي على أن الفيروس عبر الحدود الدولية بشكل متكرر. وبالتالي، من أجل السيطرة الفعالة على الانتشار الوبائي في أي دولة، يجب علينا أن نسيطر على الجائحة عبر كل الدول من خلال جهود دولية منسقة.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [ماذا يمكنك أن تفعل](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+#### كفرد في المجتمع...
+* التزم بالتباعد الاجتماعي، خصوصا ان كنت من المجموعة الاكثر حساسية للاصابة
+* تذكر بأنه حتى لو لم تكن من الاشخاص الاكثر حساسية للاصابة، فالعديد من الناس حولك هم كذلك، التزامك بهذه الاجراءات يحمي الاخرين.
+* اغسل يديك " كما لو أنك قمت بتقطيع الفلفل الحار وتريد أن تستبدل عدساتك الللاصقة"  
+* ابق في المنزل قدر ما تستطيع--خصوصا ان كنت مريضا، كن مستعدا من خلال توفير احتياجات اضافية في حال احتجت الى حجر صحي ذاتي.  
+* ان كنت رب عمل، قم بتشجيع موظفيك على العمل من البيت ان كان ذلك ممكنا.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### كمسؤول...  
+* اجعل الفحوصات مجانية ومتوفرة بشكل واسع.  
+* قم بتطبيق اجراءات التباعد الاجتماعي على الارض.  
+* قم بتمويل وتنفيذ جهود تتبع الاتصال.  
+* قم بدعم اولئك المتضررين من اجراءات التباعد الاجتماعي مادياً.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# العبر المستفادة
 
-#### The outbreak in India is the result of many separate introductions from around the world.  
+#### الانتشار الوبائي في الهند هو نتيجة ادخالات متعددة منفصلة من جميع انحاء العالم.  
 <br><br>
-#### In Singapore, sociological factors accelerated the expansion of one introduction to become a large outbreak, in contrast to the many introductions which have not spread widely.
+#### في سنغافورة، العوامل الاجتماعية سرّعت من انتشار حالة ادخال لتصبح انتشار وبائي كبير، على العكس من العديد من الادخالات التي لم تنتشر بشكل واسع.
 <br><br>
-#### In Asia, most countries' outbreaks have a similar history: many separate introductions from other countries, some of which resulted in local spread. This pattern of multiple introductions over time emphasizes the need for international and regional cooperation to fully control the pandemic.
+#### في قارة اسيا، الانتشارات الوبائية للعديد من الدول تمتلك تاريخ متشابه: عدة ادخالات منفصلة من عدة دول، بعضها ادى الى انتشارات محلية. نمط الادخالات المتعددة على مدى الزمن يؤكد الحاجة الى تعاون اقليمي وعالمي من اجل السيطرة الكاملة على الجائحة.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -172,20 +172,20 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [الحقوق العلمية](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+نود أن نثمن العمل الرائع والسريع من قبل جميع العلماء الذين عملوا على هذا الانتشار الوبائي.
+ما كان لهذه التحليلات أن تكون ممكنة لولا المشاركة السريعة للبيانات الجينومية .
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
+التسلسلات الخاصة التي تم تزويدها من قبل كل مختبر ([مذكورة هنا](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).)
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+نثمن ونقدر عاليا ايضا GISAID على توفيرهم لمنصتهم والتي تم من خلال رفع ومشاركة البيانات.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+نحن ممتنون للبيانات التي تم جمعها من قبل المختبرات التالية: 
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
