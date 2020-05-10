@@ -192,12 +192,6 @@ Nous remercions également [GISAID](https://gisaid.org) d'avoir fourni la plate-
 
 Nous sommes reconnaissants pour les données recueillies par ces laboratoires d'origine:
 
-<!-- Do not need to translate institutions names -->
-<!-- This is right-side text -->
-```auspiceMainDisplayMarkdown
-
-We are grateful for the data gathered by these originating labs:
-
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
 * AZ Department of Health Services
