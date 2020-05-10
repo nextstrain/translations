@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.
+title: Uchanganuzi wa kijeni kuhusu kusambaa kwa COVID-19. Ripoti ya 2020-05-08 kuhusu hali ilivyo.
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -17,13 +17,13 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
+translators: Imetolewa na Google
+translatorLinks: www.google.com
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
+abstract: "Ripoti hii ya kila wiki inatumia data ya kijeni inayoshirikiwa kwa umma kufuatilia kusambaa kwa COVID-19. Wiki hii, tunaangazia bara la Eshia. Tunaripoti visa vingi vipya vilivyoripotiwa nchini India; muktadha wa mlipuko miongoni mwa wafanyakazi waliohamia nchini Singapuri; na jinsi maambukizi yamezidi kuenea kimataifa katika eneo hili."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,135 +31,135 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Yaliyomo](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [Nyenzo za kurejelea](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-05-08?n=2).     
+* [Kuhusu data hii](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-05-08?n=3).  
+* [Chanzo cha janga hili nchini India](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-05-08?n=4).  
+* [Ufafanuzi kuhusu kuzuka upya kwa maambukizi nchini Singapuri](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-05-08?n=5).  
+* [Visa vipya nchini Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-05-08?n=6).  
+* [Kuenea kwa maambukizi katika nchi tofauti](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-05-08?n=7).    
+* [Mchango wa wanasayansi](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Muhtasari
 
-We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
+Tulichunguza jeni 2,226 za COVID-19 zinazoonyeshwa kwa umma. Kwa kulinganisha jeni hizi za virusi moja kwa nyingine, tunaweza kufafanua jinsi COVID-19 inavyosambaa duniani na kuenea katika eneo fulani. Katika ripoti ya wiki hii, tunaangazia maambukizi ya hivi majuzi katika bara la Eshia. Tunaripoti:
 
-* Multiple introductions to Delhi during March 2020 from all over the world  
-* Many separate introductions to Singapore, most of which do not appear to have spread further  
-* Expansion of a large cluster of cases in Singapore likely driven by sociological factors
-* Similar patterns of international spread that emphasize the urgent need for cooperative efforts
+* Visa vipya mjini Delhi katika mwezi wa Machi 2020 kutokana na walioingia kutoka nchi mbalimbali ulimwenguni  
+* Visa vingi vipya nchini Singapuri, ambapo nyingi kati ya visa hivi havionekani kuongezeka  
+* Kuongezeka kwa visa vingi nchini Singapuri ambavyo huenda vimetokana na mwingiliano wa kijamii
+* Maambukizi yanasambaa kwa njia sawa katika nchi mbalimbali hivyo ipo haja ya kushirikiana
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [Nyenzo za COVID-19](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+Tumeandaa nyenzo zitakazosaidia kurahisisha ufasiri wa data tuliyowasilisha katika makala haya.
+#### Nyenzo za Nextstrain  
+* [ANZA HAPA: Jinsi ya kufasiri mchoro wa kimatawi wa kifilojenetiki](https://nextstrain.org/narratives/trees-background/).  
+* [Utangulizi kuhus virusi vya corona](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Dhana potovu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+#### Nyenzo Zingine  
+* [Muulize Mwansayansi na Maswali Yanayoulizwa Sana](https://covid19.fas.org/l/en).
+* [Ripoti za Shirika la Afya Duniani kuhusu Hali Ilivyo](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Nyenzo za CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Habari za The NYTimes kuhusu COVID-19](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [A note on sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 28 countries in Asia. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Kidokezo kuhusu upimaji wa sampuli](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
+Kwa sasa tuna mifuatano ya kijeni kutokana na sampuli zilizochukuliwa katika nchi 28 za bara la Eshia. Hii ni hatua kubwa -- ni vigumu kuchunguza mfuatano wa kijeni wa kundi kubwa la virusi vya RNA visivyojulikana, na hili linawezekana tu kupitia bidii ya wanasayansi na madaktari kote ulimwenguni na jitihada zao za kushiriki data kwa wakati.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+Ijapokuwa data hii inatuwezesha kubaini sifa nyingi muhimu za mlipuko huu na kufuatilia kusambaa kwake katika muda halisi, ni muhimu kusisitiza kuwa ufasiri wetu unategemea data inayopatikana.
 <br><br>
-For example, the map shows very few sequences from the Middle East. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+Kwa mfano, mchoro wa kifilojenetiki unaonyesha mifuatano michache sana ya kijeni kutoka Mashariki ya Kati. Hii HAIMAANISHI kuwa COVID-19 haijasambaa katika maeneo haya, au visa katika maeneo haya si muhimu kuchunguzwa; bali, ni kwa sababu hatuna data ya kutosha kutoka maeneo haya. Ukubwa wa kila duara kwenye mchoro wa kifilojenetiki unaonyesha kiasi cha data kinachopatikana kutoka eneo hilo, badala ya idadi halisi ya visa vya maambukizi.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Many separate introductions to Delhi during March](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+# [Visa vingi vilivyoripotiwa mjini Delhi katika mwezi wa Machi](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
-Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
+Kati ya tarehe 1 Machi hadi tarehe 15 Aprili, jeni 38 za virusi kutoka eneo la Delhi zilichunguzwa na kupangwa katika vikundi (imeonyesha hapa).
 <br><br>
-In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.
+Katikati mwa mchoro wa kimatawi, tunaona kikundi kikubwa cha visa vinavyohusiana. Hii inachukuliwa kuwa kisa kimoja kilichopelekea maambukizi zaidi katika eneo hili.
 <br><br>
-However, it is crucial to consider the context of this cluster.  
-Scattered across the tree, we also see many other small clusters and isolated cases, representing separate introductions from all over the world.
-We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.
+Hata hivyo, ni muhimu kuzingatia muktadha wa kikundi hiki.  
+Pia kwenye mchoro wa kimatawi, tunaona vikundi vingine vingi vidogo na visa visivyohusiana vinavyowakilisha maambukizi mapya kutoka nchi mbalimbali ulimwenguni.
+Hatuna data ya kutosha kuonyesha kilichofuata baada ya visa hivi vingine -- ikiwa viliongezeka na au jinsi vilivyoongezeka. Hata hivyo, tunaweza kusema kuwa kundi hilo kubwa la visa ni sehemu tu ya visa vingine.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Contextualizing the SARS-CoV-2 resurgence in Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [Ufafanuzi kuhusu kuzuka upya kwa SARS-CoV-2 nchini Singapuri](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
-In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
+Katika wiki 10 zilizopita, SARS-CoV-2 imezuka nchini Singapuri mara nyingi, kutoka maeneo tofauti.
 <br><br>
-Most of these introductions have led to limited onward transmission (single cases or small clusters on the tree).
+Visa vingi kati ya hivi vipya vimepelekea maambukizi kutosamba kwa kasi (kisa kimoja kimoja au vikundi vidogo kwenye mchoro wa kimatawi).
 <br><br>
-In the middle of the tree, however, we see a single introduction that led to extensive onward transmission.
-This large, cohesive cluster is most closely related to samples from India and the Philippines.
+Katikati mwa mchoro wa kimatawi, hata hivyo, tunaona kisa kimoja kilichopelekea kuzuka kwa visa vingi.
+Kundi hili kubwa lililofungamana linahusishwa kwa ukaribu zaidi na sampuli kutoka India na Ufilipino.
 <br><br>
-This is consistent with [recent reports](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) that the virus is spreading rapidly among vulnerable, confined populations of migrant workers in Singapore.
+Hii inathibitisha [ripoti za hivi majuzi](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) kuwa virusi hivi vinasambaa kwa kasi miongoni mwa wafanyakazi walio hatarini waliohamia nchini Singapuri.
 <br><br>
-This illustrates how the extent to which an introduction spreads within a population depends on sociological factors and emphasizes why it is critically important to protect vulnerable groups.
+Hii inaonyesha jinsi kasi ya kusambaa kwa maambukizi miongoni mwa kundi fulani la watu inategemea mwingiliano wa kijamii na kusisitiza umuhimu wa kuwalinda walio hatarini.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [Kuzuka upya kwa maambukizi nchini Malesia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
-We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
+Tuna mifuatano 14 ya kijeni kutoka Malesia kwenye Nextstrain, iliyochunguzwa kati ya mwishoni mwa Januari na mwishoni mwa mwezi Machi. Mifuatano hii ya kijeni ni ya aina tofauti, na kila mojawapo ulikuwa unasambaa haswa katika nchi za barani Eshia. Hii inaonyesha kuwa maambukizi yamefika nchini Malesia kutokana na watu tofauti wanaoingia kutoka sehemu mbalimbali barani.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Regional spread across Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+# [Kusambaa kwa maambukizi katika bara la Eshia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
-A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam
+Mtindo sawa unajirudia kwa nchi zingine nyingi za bara hili: visa vingi vipya, nyingi kati ya hivi vilikuwa vimedhibitiwa vizuri, lakini kutokana na wachache kukwepa utaratibu maambukizi yanaishia kusambaa katika eneo fulani. Tunakuhimiza "Utathmini Data Mwenyewe". Kama ilivyoonyeshwa hapa, utaona mtindo sawa kwa nchi za Yordani, Japani, Thailandi na Muungano wa Falme za Kiarabu. Mitindo sawa pia inaweza kuonekana katika nchi za Kuwaiti, Jojia, Taiwani na Vietinamu
 <br><br>
-The consistency of this pattern is strong evidence that the virus frequently crosses international borders. Thus, in order to effectively control the epidemic in any one country, we must control the pandemic across all countries through coordinated international efforts.
+Kujirudia kwa mtindo huu ni ithibati tosha kuwa mara nyingi virusi hivi vinasambaaa kutoka nchi moja hadi nyingine. Hivyo, ili kudhibiti vyema janga hili katika nchi yoyote ile, sharti tulidhibiti katika nchi zote kupitia kuratibu mikakati ya kimataifa.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Wajibu wako](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+#### ...kibinafsi
+* Hakikisha hutangamani na watu, haswa ikiwa uko katika hatari ya kuambukizwa.
+* Kumbuka kuwa hata ikiwa huko hatarini zaidi, watu wengi karibu nawe wako hatarini; zingatia desturi hizi ili uwalinde wengine.
+* Nawa mikono yako "kama mtu ambaye amemaliza kukata pilipili na anahitaji kugusa macho."  
+* Kaa nyumbani kadri uwezavyo -- haswa ikiwa wewe ni mgonjwa; nunua bidhaa utakazotumia kwa muda mrefu endapo utahitaji kujitenga.  
+* Ikiwa wewe ni mwajiri, ruhusu waajiriwa wako wafanyie kazi nyumbani ikiwa inawezekana.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...kama afisa wa serikali  
+* Ondoa malipo ya vipimo na uanzishe upimaji kote.  
+* Weka sheria madhubuti za kutotangamana.  
+* Fadhili na utekeleze ufuatiliaji wa kina wa watu waliotangamana na aliyeathirika.  
+* Toa usaidizi wa kifedha kwa walioathiriwa na sheria ya kutotangamana.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Hoja za kukumbuka
 
-#### The outbreak in India is the result of many separate introductions from around the world.  
+#### Mlipuko nchini India ni kutokana na watu wengi walioingia nchini wakiwa wameambukizwa kutoka nchi mbalimbali duniani.  
 <br><br>
-#### In Singapore, sociological factors accelerated the expansion of one introduction to become a large outbreak, in contrast to the many introductions which have not spread widely.
+#### Nchini Singapuri, mwingiliano wa kijamii ulisababisha mlipuko kutokana na mtu mmoja aliyeambukizwa, ikilinganishwa na visa vingi ambavyo havijasababisha maambukizi kusambaa.
 <br><br>
-#### In Asia, most countries' outbreaks have a similar history: many separate introductions from other countries, some of which resulted in local spread. This pattern of multiple introductions over time emphasizes the need for international and regional cooperation to fully control the pandemic.
+#### Barani Eshia, mlipuko katika nchi nyingi una chanzo sawa: visa vingi tofauti kutoka nchi zingine, ambapo baadhi ya visa hivi vilisababisha kuenea kwa maambukizi katika eneo fulani. Mtindo huu wa visa kuendelea kuongezeka kadri muda unavyopita unasisitiza haja kushirikiana kimataifa na kieneo ili kudhibiti janga hili kikamilifu.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -172,20 +172,20 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Mchango wa wanasayansi](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Tungependa kutambua juhudi na kazi nzuri ya wanasayansi wote wanaohusika katika janga hili.
+Uchunganuzi kama huu unawezekana tu kupitia kushiriki data na metadata ya kijeni kwa wakati.
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
+Mifuatano ya kijeni iliyotolewa na kila maabara [imeorodheshwa hapa](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Pia tunatoa shukrani kwa GISAID kwa kutoa mfumo ambapo data hii inaweza kupakiwa na kutumwa.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Tunashukuru kwa kupokea data iliyokusanywa na maabara hizi zilizohusika:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
