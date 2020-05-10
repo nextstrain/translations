@@ -17,13 +17,17 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: Elisabeth Hirth
-translatorLinks: https://bsse.ethz.ch/department/people/detail-person.MjM4ODcw.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html
+translators:
+  - Elisabeth Hirth
+  - Astrid Gall
+translatorLinks:
+  - https://bsse.ethz.ch/department/people/detail-person.MjM4ODcw.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html
+  - https://www.ebi.ac.uk/about/people/astrid-gall
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
-abstract: "Dieser woechentliche Bericht verwendet oeffentlich geteilte genomische Daten, um die Ausbreitung von COVID-19 zu charakterisieren. Diese Woche liegt der Fokus auf Asien. Wir berichten ueber viele separate und unabhaengige Einschleppungen nach Indien; Kontext fuer den Ausbruch innerhalb Wanderarbeiter in Singapur; und die Vorherrschung einer internationalen Verbreitung des Virus in dieser Region."
+abstract: "Dieser woechentliche Bericht verwendet oeffentlich geteilte genomische Daten, um die Ausbreitung von COVID-19 zu charakterisieren. Diese Woche liegt der Fokus auf Asien. Wir berichten ueber viele separate und unabhaengige Einschleppungen nach Indien; Kontext fuer den Ausbruch innerhalb Wanderarbeiter in Singapur; und die Hauefigkeit einer internationalen Verbreitung des Virus in dieser Region."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -36,8 +40,8 @@ abstract: "Dieser woechentliche Bericht verwendet oeffentlich geteilte genomisch
 * [Hintergrundquellen](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
 * [Ueber diese Daten](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
 * [Urspruenge der Epidemie in Indien](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Kontextualisierung des Wiederauflebens von Fällen in Singapur](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Einschleppungen nach Malaysien](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
+* [Kontextualisierung des Wiederaufflammens von Fällen in Singapur](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
+* [Einschleppungen nach Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
 * [Haeufige Verbreitung ueber internationale Grenzen hinaus](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
 * [Wissenschaftliche Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
 
@@ -45,11 +49,11 @@ abstract: "Dieser woechentliche Bericht verwendet oeffentlich geteilte genomisch
 ```auspiceMainDisplayMarkdown
 # Zusammenfassung
 
-Wir haben 2,226 oeffentlich zugaengliche COVID-19 Genome analysiert. Durch den Vergleich der Virusgenome untereinander charakterisieren wir, wie sich SARS-CoV-2 (das Virus, das COVID-19 ausloest) um die Welt bewegt und sich lokal weiterverbreitet. In dem Update von dieser Woche legen wir unseren Fokus auf die Verbreitung in Asien. Wir breichten ueber:
+Wir haben 2,226 oeffentlich zugaengliche SARS-CoV-2 Genome analysiert. Durch den Vergleich der Virusgenome untereinander charakterisieren wir, wie sich SARS-CoV-2 (das Virus, das COVID-19 ausloest) um die Welt bewegt und sich lokal weiterverbreitet. In dem Update von dieser Woche legen wir unseren Fokus auf die Verbreitung in Asien. Wir berichten ueber:
 
-* mehrere Einschleppungen nach Delhi aus aller Welt im Maerz 2020.
-* mehrere individuelle Einschleppungen nach Singapur, wobei die meisten sich scheinbar nicht weiter ausgebreitet haben.
-* Ausdehnung eines grossen Fallklusters in Singapur, was hoechstwahrscheinlich durch soziologische Faktoren angetrieben wird. 
+* Mehrere Einschleppungen nach Delhi aus aller Welt im Maerz 2020.
+* Mehrere individuelle Einschleppungen nach Singapur, wobei die meisten sich scheinbar nicht weiter ausgebreitet haben.
+* Ausdehnung eines grossen Fallclusters in Singapur, was hoechstwahrscheinlich durch soziologische Faktoren angetrieben wird. 
 * Aehnliche internationale Ausbreitungsmuster, die die dringende Notwendigkeit an kooperativen Bemuehungen verdeutlichen.
 ```
 
@@ -59,8 +63,8 @@ Wir haben 2,226 oeffentlich zugaengliche COVID-19 Genome analysiert. Durch den V
 <!-- This is left-side text 2-->
 # [COVID-19 Quellen](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
 Wir haben einigen Quellen vorbereitet, die die Interpretation der Daten, die wir praesentieren, erleichtern.
-#### Nextstrain Resources  
-* [BEGINNEN SIE HIER: Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/).  
+#### Nextstrain Quellen  
+* [BEGINNEN SIE HIER: Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/de).  
 * [Hintergrundwissen zu Coronaviren](https://nextstrain.org/help/coronavirus/human-CoV).
 * [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
@@ -80,54 +84,54 @@ Bis jetzt haben wir Sequenzierungsdaten von Proben aus 28 Laendern in Asien. Das
 <br><br>
 Waehrend diese Daten es uns ermoeglichen, die Pandemie naeher zu charakterisieren und die Ausbreitung in Echtzeit zu verfolgen, ist es wichtig zu betonen, dass die Schlussfolgerungen aufgrund der Datenverfuegbarkeit begrenzt sind.
 <br><br>
-Zum Beispiel weist die Karte sehr wenige Sequenzierungsdaten aus dem Mittleren Osten auf. Das bedeutet nicht notwendigerweise, dass SARS-CoV-2 in diesen Gebieten mehr weitreichend zirkuliert, sondern vielmehr dass es mehr Daten aus diesen Laendern gibt. Die Groesse eines Kreises sagt lediglich aus, wie viel Daten aus einem Gebiet derzeit verfuegbar sind, und stellt nicht das wirkliche Ausmass des Ausbruchs in diesem Gebiet dar.
+Zum Beispiel weist die Karte sehr wenige Sequenzierungsdaten aus dem Mittleren Osten auf. Das bedeutet nicht, dass SARS-CoV-2 in diesen Gebieten nicht zirkuliert, oder die Faelle dort nicht wichtig fuer unser Verstaendnis sind, sondern, dass wir nicht viele Daten aus diesen Gebieten haben. Die Groesse eines Kreises sagt lediglich aus, wie viel Daten aus einem Gebiet derzeit verfuegbar sind, und stellt nicht das wirkliche Ausmass des Ausbruchs in diesem Gebiet dar.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Viele separate Einschleppungen nach Dehli im Maerz](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+# [Viele separate Einschleppungen nach Delhi im Maerz](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
-Zwischen dem 1. Maerz und 15. April wurden 38 Virengenome aus Gebieten in Dehli beprobt und sequenziert (hier dargestellt).
+Zwischen dem 1. Maerz und 15. April wurden 38 Virengenome aus Gebieten in Delhi beprobt und sequenziert (hier dargestellt).
 <br><br>
-In der Mitte des Baums sehen wir ein ziemlich betraechtliches Kluser an nah verwandten Faellen. Das ist mit einer einzelnen Einschleppung gefolgt von einer oertlichen kommunalen Verbreitung konsistent.
+In der Mitte des Baums sehen wir einen ziemlich grossen Cluster aus nah verwandten Faellen. Das ist mit einer einzelnen Einschleppung gefolgt von einer oertlichen kommunalen Verbreitung konsistent.
 <br><br>
-Dennoch ist es wichtig den Kontext zu dem Kluster in Betracht zu ziehen. Ueber den Baum verstreut sehen wir sehr viele andere kleinere Kluster und isolierte Faelle, die separate Einschleppungen aus aller Welt repraesentieren. Wir haben noch nicht genuegend Daten, um Aussagen ueber die Nachwirkungen - falls und wie weit sich der Virus weiter ausbreiten konnte - dieser anderen Einschleppungen zu machen. Aber wir koennen sagen, dass das grosse Fallkluster nur ein Teil der Geschichte ist.
+Dennoch ist es wichtig, den Kontext zu dem Cluster in Betracht zu ziehen. Ueber den Baum verstreut sehen wir sehr viele andere kleinere Cluster und isolierte Faelle, die separate Einschleppungen aus aller Welt repraesentieren. Wir haben noch nicht genuegend Daten, um Aussagen ueber die Folgen - falls und wie weit sich der Virus weiter ausbreiten konnte - dieser anderen Einschleppungen zu machen. Aber wir koennen sagen, dass der grosse Fallcluster nur ein Teil der Geschichte ist.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Kontextualisierung des Wiederauflebens von Fällen in Singapur](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [Kontextualisierung des Wiederaufflammens von Fällen in Singapur](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
-In den letzten 10 Wochen wurde SARS-CoV-2 haeufig aus vielen Orten nach Singapur eingeschleppt.
+In den letzten zehn Wochen wurde SARS-CoV-2 mehrfach aus verschiedenen Regionen nach Singapur eingeschleppt.
 <br><br>
-Viele dieser Einschleppungen haben zu eingeschränkten Verbreitungen geführt (Einzelfaelle oder kleine Kluster im Baum).
+Viele dieser Einschleppungen haben zu eingeschränkten Verbreitungen geführt (Einzelfaelle oder kleine Cluster im Baum).
 <br><br>
 Jedoch ist in der Baummitte eine einzelne Einschleppung sichtbar, die zu einer starken fortgehenden Verbreitung des Virus gefuehrt hat.
-Dieses grosse, kohaesive Kluster ist eng verwandt zu Proben aus Indien und den Philippinen.
+Dieses grosse, kohaesive Kluster ist eng verwandt mit Proben aus Indien und den Philippinen.
 <br><br>
-Das stimmt mit [neusten Berichten](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) ueberein, die berichten, dass das Virus innerhalb von gefährdeten, begrenzten Bevölkerungsgruppen der Wanderarbeiter in Singapur sich schnell ausbreitet.
+Das stimmt mit [neuesten Berichten](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) ueberein, die aussagen, dass sich das Virus innerhalb von gefährdeten, eingeengten Bevölkerungsgruppen der Wanderarbeiter in Singapur schnell ausbreitet.
 <br><br>
-Das illustriert das Ausmass einer Einschleppung, die sich je nach soziologischen Faktoren innerhlab einer Bevoelkerungsgruppe zu einer starken Ausbreitung fuehren kann, und betont die Wichtigkeit gefaehrdete Bevoelkerungsschichten zu schuetzen. 
+Das illustriert, dass das Ausmass, mit dem sich eine Einschleppung innerhalb der Bevölkerung verbreitet, abhaengig ist von soziologischen Faktoren, und betont, warum es hochwichtig ist, gefaehrdete Bevoelkerungsschichten zu schuetzen. 
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Mehrfache Einschleppungen nach Malaysien](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [Mehrfache Einschleppungen nach Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
-Wir haben 14 Sequenzierungsdaten aus Malaysien hier auf Nextstrain verfuegbar, die zwischen Ende Januar und Ende Maerz sequenziert worden sind. Diese Sequenzen gruppieren mit einigen unterschiedlichen Kladen, von denen jede hoechstwahrscheinlich zuvor in anderen asiatischen Laendern zirkuliert ist. Das deutet darauf hin, dass es mehrere Einschleppungen aus den umliegenden Gebieten nach Malaysien gegeben hat.
+Wir haben 14 Sequenzierungsdaten aus Malaysia hier auf Nextstrain verfuegbar, die zwischen Ende Januar und Ende Maerz sequenziert worden sind. Diese Sequenzen gruppieren mit einigen unterschiedlichen Kladen, von denen jede hoechstwahrscheinlich zuvor in anderen asiatischen Laendern zirkuliert ist. Das deutet darauf hin, dass es mehrere Einschleppungen aus den umliegenden Gebieten nach Malaysia gegeben hat.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
 # [Regionale Verbreitung innerhalb Asiens](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
-Ein aehnliches Muster ist in vielen anderen Laendern in der Region sichtbar: vielfache Einschleppungen, von denen die meisten gut kontrolliert worden sind, aber einige wenige, die lokale Verbreitungen iniziiert haben. Wir ermuntern Sie die Daten selbst zu entdecken unter "Explore the Data Yourself". Wie hier zu sehen ist, koennen aehnliche Muster in Jordanien, Japan, Thailand und in den Vereinigten Arabischen Emiraten gefunden werden. Ebensolche Muster sind auch in Kuwait, Georgien, Taiwan und Vietnam sichtbar.
+Ein aehnliches Muster ist in vielen anderen Laendern in der Region sichtbar: mehrfache Einschleppungen, von denen die meisten gut kontrolliert worden sind, aber einige wenige, die lokale Verbreitungen initiiert haben. Wir regen Sie dazu an, die Daten selbst zu untersuchen unter "Explore the Data Yourself". Wie hier zu sehen ist, koennen aehnliche Muster in Jordanien, Japan, Thailand und in den Vereinigten Arabischen Emiraten gefunden werden. Aehnliche Muster sind auch in Kuwait, Georgien, Taiwan und Vietnam sichtbar.
 <br><br>
-Diese Gleichmaessigkeit ist ein starker Beweis dafuer, dass sich das Virus haeufig ueber internationale Grenzen hinweg ausbreitet. Um die Epidemie in egal welchem Land effektiv kontrollieren zu koennen, muss die Pandemie durch weltweite koordinierte internationale Bemühungen reguliert werden.
+Diese Durchgaengigkeit ist ein starkes Anzeichen dafuer, dass sich das Virus haeufig ueber internationale Grenzen hinweg ausbreitet. Um die Epidemie in jeglichem einzelenen Land effektiv kontrollieren zu koennen, muss die Pandemie durch weltweite koordinierte internationale Bemühungen reguliert werden.
 <!-- There is no right side text -->
 
 
@@ -135,16 +139,16 @@ Diese Gleichmaessigkeit ist ein starker Beweis dafuer, dass sich das Virus haeuf
 <!-- This is left-side text 13-->
 # [Was Sie tun koennen](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
 #### ...als Einzelperson
-* Reduzieren Sie die Anzahl an Personen, mit denen Sie taeglich Kontakt haben, besonders wenn Sie zu einer Risikogruppe gehoeren (z.B. Senioren und Leute mit Vorerkrankungen).
+* Praktizieren Sie raeumliche Distanzierung, besonders wenn Sie zu einer Risikogruppe gehoeren.
 * Bedenken Sie, dass selbst wenn Sie nicht zu einer Risikogruppe gehoeren, Leute in Ihrer Umgebung dies eventuell tun. Halten Sie sich an die Anweisungen, um Andere zu schuetzen.
 * Haendewaschen "like you just chopped a jalapeno and have to change a contact lens."
-* SBleiben Sie zuhause, so oft wie es geht - besonders wenn Sie krank sind; bereiten Sie sich mit Vorraeten auf eine eventuelle Quarantaene vor.  
+* Bleiben Sie zuhause, so viel wie es geht - besonders wenn Sie krank sind; bereiten Sie sich mit Vorraeten auf eine eventuelle Selbst-Quarantaene vor.  
 * Als Arbeitgeber raten Sie Ihren Angestellten, von zuhause aus zu arbeiten, wenn moeglich.
 
 #### ...als Amtsperson  
 * Machen Sie Tests kostenlos und weitlaeufig verfuegbar.  
 * Fordern Sie strikte Massnahmen zur rauemlichen Distanzierung.  
-* Unterstuetzen und implementieren Sie umfangreiche Kontaktverfolgungen. 
+* Finanzieren und implementieren Sie umfangreiche Kontaktverfolgungen. 
 * Unterstuetzen Sie all diejenigen finanziell, die aufgrund von Massnahmen zur rauemlichen Distanzierung negativ betroffen sind.
 
 
@@ -155,9 +159,9 @@ Diese Gleichmaessigkeit ist ein starker Beweis dafuer, dass sich das Virus haeuf
 
 #### Die Epidemie in Indien ist ein Resultat aus mehreren separaten Einschleppungen aus aller Welt.
 <br><br>
-#### In Singapur beschleunigen soziologische Faktoren die Weiterverbreitung einer Einschleppung, die zu einem grossen Ausbruch fuehrt. Hingegen haben viele Einschleppungen sich nicht weiter ausbreiten koennen. 
+#### In Singapur beschleunigten soziologische Faktoren die Expansion einer einzelnen Einschleppung zu einem grossen Ausbruch. Hingegen haben viele andere Einschleppungen sich nicht weiter ausgebreitet. 
 <br><br>
-#### Innerhalb Asiens haben die Ausbrueche in vielen Laendern folgendes gemeinsam: viele separate Einschleppungen aus anderen Laendern, die teilweise zu lokalen Verbreitugen gefuehrt haben. Diese Muster betont, dass die Einschraenkung der Pandemie nur durch internationale und regionale Zusammenarbeit moeglich ist.
+#### Innerhalb Asiens haben die Ausbrueche in vielen Laendern einen aehnlichen Verlauf: viele separate Einschleppungen aus anderen Laendern, von denen einige zu lokaler Ausbreitung gefuehrt haben. Dieses Muster betont, dass die Einschraenkung der Pandemie nur durch internationale und regionale Zusammenarbeit moeglich ist.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
