@@ -17,13 +17,17 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: تم التزويد من خلال جوجل
-translatorLinks: 
+translators:
+  - Ahmad Saleh
+  - Fadi Alnaji
+translatorLinks:
+  - https://twitter.com/DrSalehAhmad
+  - https://twitter.com/biofadialnaji
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
-abstract: يستخدم تقرير هذا الاسبوع البيانات الجينومية التي تم مشاركتها للعموم من أجل تتبع انتشار كوفيد-19 سنركز في هذا الاسبوع على قارة آسيا نوثق في هذا التقرير عدة ادخالات مستقلة الى الهند، توافق الانتشار الوبائي بين العمال المهاجرين في سنغافوره، ونسبة تفشي  الانتشارات العالمية في المنطقة. 
+abstract: يستخدم تقرير هذا الاسبوع البيانات الجينومية التي تم مشاركتها للعموم من أجل تتبع انتشار كوفيد-19 سنركز في هذا الاسبوع على قارة آسيا نوثق في هذا التقرير عدة ادخالات مستقلة الى الهند، توافق الانتشار الوبائي بين العمال المهاجرين في سنغافوره، ونسبة تفشي  الانتشارات العالمية في المنطقة.
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -33,13 +37,13 @@ abstract: يستخدم تقرير هذا الاسبوع البيانات الج�
 <!-- This is left-side text 1-->
 # [جدول المحتويات](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [مصادر الخلفية](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [عن هذه البيانات](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [مصادر الوباء في الهند](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [توافق عودة ظهور  الحالات في سنغافوره](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [الادخالات الى ماليزيا](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [الانتشار المتكرر عبر الحدود الدولية](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [الحقوق العلمية](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [مصادر الخلفية](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-05-08?n=2).     
+* [عن هذه البيانات](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-05-08?n=3).  
+* [مصادر الوباء في الهند](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-05-08?n=4).  
+* [توافق عودة ظهور  الحالات في سنغافوره](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-05-08?n=5).  
+* [الادخالات الى ماليزيا](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-05-08?n=6).  
+* [الانتشار المتكرر عبر الحدود الدولية](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-05-08?n=7).    
+* [الحقوق العلمية](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -57,12 +61,12 @@ abstract: يستخدم تقرير هذا الاسبوع البيانات الج�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# `[مصادر كوفيد-19](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+# [مصادر كوفيد-19](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
 قمنا هنا بتحضير بعض المصادر والتي ستجعل تحليل البيانات التي نعرضها في هذا التقرير أسهل.
 #### مصادر Nextstrain  
-* [ابدأ هنا: كيف تقرأ شجرة التحليل الجيني](https://nextstrain.org/narratives/trees-background/).  
+* [ابدأ هنا: كيف تقرأ شجرة التحليل الجيني](https://nextstrain.org/narratives/trees-background/ar).  
 * [خلفية عن فيروسات كورونا](https://nextstrain.org/help/coronavirus/human-CoV).
-* [مفاهيم خاطئة شائعة](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [مفاهيم خاطئة شائعة](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-03-13?n=11).
 
 #### مصادر خارجية  
 * [اسأل عالما والاسئلة الشائعة](https://covid19.fas.org/l/en).
@@ -185,7 +189,7 @@ abstract: يستخدم تقرير هذا الاسبوع البيانات الج�
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-نحن ممتنون للبيانات التي تم جمعها من قبل المختبرات التالية: 
+نحن ممتنون للبيانات التي تم جمعها من قبل المختبرات التالية:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
