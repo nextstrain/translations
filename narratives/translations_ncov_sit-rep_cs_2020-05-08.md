@@ -17,12 +17,11 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: Zajišťuje společnost Google
-translatorLinks: www.google.com
+translators: "Zajišťuje společnost Google"
+translatorLinks: https://www.google.com
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
-
 abstract: "Předkládaná týdenní zpráva využívá k sledování šíření nemoci COVID-19 veřejně dostupné genomové údaje. Tento týden se zaměříme na situaci v Asii. Popíšeme řadu oddělených, samostatných případů zanesení nákazy do Indie, souvislosti týkající se propuknutí nákazy mezi migrujícími pracovníky v Singapuru a převažující charakter mezinárodního šíření po regionu.
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
