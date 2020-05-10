@@ -38,13 +38,13 @@ abstract: "Ce rapport hebdomadaire utilise des données génomiques partagées p
 <!-- This is left-side text 1-->
 # [Table des matières](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Ressources sur COVID-19](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [A propos de ces informations](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [De nombreuses introductions distinctes à Delhi au cours du mois de mars](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Contextualisation de la résurgence du SARS-CoV-2 à Singapour](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Introductions répétées en Malaisie](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Propagation régionale en Asie](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Crédit scientifique](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [Ressources sur COVID-19](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-05-08?n=2).     
+* [A propos de ces informations](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-05-08?n=3).  
+* [De nombreuses introductions distinctes à Delhi au cours du mois de mars](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-05-08?n=4).  
+* [Contextualisation de la résurgence du SARS-CoV-2 à Singapour](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-05-08?n=5).  
+* [Introductions répétées en Malaisie](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-05-08?n=6).  
+* [Propagation régionale en Asie](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-05-08?n=7).    
+* [Crédit scientifique](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
