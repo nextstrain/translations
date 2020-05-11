@@ -1,5 +1,5 @@
 ---
-title: How to interpret phylogenetic trees
+title: Jak se vyznat ve fylogenetických stromech
 authors:
   - Emma Hodcroft
   - Nicola Müller
@@ -15,9 +15,9 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; Chan Zuckerberg Initiative, CA, USA"
-date: "2020 March 13"
+date: "13. března 2020"
 dataset: "https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country"
-abstract: "This narrative explains how to read and interpret the phylogenetic trees that inform genomic epidemiology. This website is optimized for display on desktop browsers."
+abstract: "Tento text vysvětluje, jak číst a vykládat fylogenetické stromy, které jsou zdrojem informací pro genomovou epidemiologii. Tento web je optimalizován pro použití v prohlížečích na stolním počítači."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -25,18 +25,18 @@ abstract: "This narrative explains how to read and interpret the phylogenetic tr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Table of Contents](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
+# [Obsah](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
 
-* [How are transmission networks related to phylogenetic trees](https://nextstrain.org/narratives/trees-background?n=2)?  
-* [How do I read a tree](https://nextstrain.org/narratives/trees-background?n=3)?  
-* [How does the "diversity" panel relate to the tree](https://nextstrain.org/narratives/trees-background?n=4)?   
-* [Measuring differences with genetic divergence](https://nextstrain.org/narratives/trees-background?n=5).  
-* [Measuring differences over time](https://nextstrain.org/narratives/trees-background?n=6).  
-* [Dating the start of an outbreak](https://nextstrain.org/narratives/trees-background?n=7)?  
-* [How should I interpret traits (colors) on the tree](https://nextstrain.org/narratives/trees-background?n=8)?  
-* [How does the map relate to the tree](https://nextstrain.org/narratives/trees-background?n=9)?  
-* [Advanced reading: uncertainty in trees](https://nextstrain.org/narratives/trees-background?n=10).  
-* [About the dataset](https://nextstrain.org/narratives/trees-background?n=11).  
+* [Jak souvisí sítě přenosu s fylogenetickými stromy](https://nextstrain.org/narratives/trees-background?n=2)?  
+* [Jak mám stromu rozumět](https://nextstrain.org/narratives/trees-background?n=3)?  
+* [Jak se stromem souvisí panel „Diversity“](https://nextstrain.org/narratives/trees-background?n=4)?   
+* [Měření rozdílů na základě genetické divergence](https://nextstrain.org/narratives/trees-background?n=5).  
+* [Měření rozdílů v průběhu času](https://nextstrain.org/narratives/trees-background?n=6).  
+* [Datování propuknutí nákazy](https://nextstrain.org/narratives/trees-background?n=7)
+* [Jak mám chápat barevně odlišené struktury v rámci stromu](https://nextstrain.org/narratives/trees-background?n=8)?  
+* [Jak se stromem souvisí mapa](https://nextstrain.org/narratives/trees-background?n=9)?  
+* [Pro pokročilé: věrohodnost stromů](https://nextstrain.org/narratives/trees-background?n=10).  
+* [O tomto souboru dat](https://nextstrain.org/narratives/trees-background?n=11).  
 
 <!-- No right-side text -->
 
@@ -44,22 +44,22 @@ abstract: "This narrative explains how to read and interpret the phylogenetic tr
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [How are transmission networks related to phylogenetic trees?](https://nextstrain.org/ncov/2020-03-11?d=tree&p=full)
-Pathogens spread through rapid replication in one host followed by transmission to another host. An epidemic can only take off when one infection results in more than one subsequent infections.
+# [Jak souvisí sítě přenosu s fylogenetickými stromy](https://nextstrain.org/ncov/2020-03-11?d=tree&p=full)?
+Patogeny se šíří rychlou replikací v jednom hostiteli a následným přenosem na dalšího hostitele. Epidemie se může rozvinout pouze tehdy, jestliže jeden případ infekce vede k více než jednomu případu následné infekce.
 <br><br>
-As the pathogen replicates and spreads, its genome needs to be replicated many times and random mutations (copying mistakes) will accumulate in the genome; this is normal. Such random mutations can help to track the spread of the pathogen and learn about its transmission routes and dynamics.
+Během replikace a šíření patogenu se jeho genom musí mnohokrát replikovat a v genomu se při tom hromadí náhodné mutace (chyby v přepisu). To je zcela přirozený proces. Tyto náhodné mutace nám umožní sledovat šíření patogenu a poučit se o trasách a dynamice jeho přenosu.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# An example
+# Příklad
 <div width="50%" margin="auto">
 <p>
 <img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
 </p>
 <p>
-The illustration above shows a sketch of a transmission tree. Each circle represents a case (infected person), with horizontal lines indicating the duration of their infection. Connected cases represent transmissions from one person to the next.
+Na výše uvedeném obrázku je uveden nákres přenosového stromu. Jednotlivé kroužky představují případ (nakaženou osobu) a vodorovné čáry ukazují dobu trvání infekce. Propojené případy představují situace, kdy došlo k přenosu z jedné osoby na další.
 <br> <br>
-Here, we see the full picture of the transmission tree. In practice, however, only a subset of cases are sampled (blue); the transmission tree is unknown and typically only rough estimates of case counts are available. Genome sequences allow us to infer parts of the transmission tree. In this example, three mutations (little diamonds) are indicated on the tree. Sequences that have the same mutations are more closely related, so these mutations allow us to group samples into clusters of closely related viruses that belong to the same transmission chains.
+Zde vidíme kompletní obrázek přenosového stromu. V praxi se však vzorky odebírají pouze u podmnožiny případů (modrá barva). Přenosový strom není znám a k dispozici jsou obvykle pouze hrubé odhady počtu případů. Genomové sekvence nám umožňují části stromu odvodit. V tomto příkladu jsou na stromě označeny tři mutace (malé kosočtverce). Sekvence, které obsahují stejné mutace, spolu úzce souvisí, takže tyto mutace nám umožňují shlukovat vzorky do klastrů blízce příbuzných virů, které patří do stejných přenosových linií.
 </p>
 </div>
 ```
@@ -68,31 +68,31 @@ Here, we see the full picture of the transmission tree. In practice, however, on
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [How do I read a tree?](https://nextstrain.org/ncov/2020-03-11)
+# [Jak mám stromu rozumět?](https://nextstrain.org/ncov/2020-03-11)
 
-The x axis of a tree represents the degree of difference (in time or genetic divergence -- we'll get to that next). The y axis just helps spread things out so we can see everything; it doesn't have any units of measurement.
+Osa x stromu představuje stupeň odlišnosti (v čase nebo genetické divergenci – k tomu se dostaneme později). Osa y jen pomáhá rozvinout pohled tak, abychom viděli vše; nemá žádnou jednotku měření.
 <br><br>
-The tips of the tree represent samples (i.e., blue cases from the last slide). The internal nodes represent cases that weren't sampled, but that we think were the source of all the cases descendant from them (i.e., the red nodes from the last slide). These relationships are inferred by analyzing the pattern of mutations observed in the sampled cases.
+Jednotlivé koncové větve neboli špičky stromu představují vzorky (tj. modré případy z posledního snímku). Vnitřní uzly představují případy, u nichž nebyl proveden odběr vzorků, ale domníváme se, že byly původcem všech případů, které po nich následují (tj. červené uzly z předchozího snímku). Tyto vztahy jsou odvozeny analýzou rozložení mutací pozorovaných ve vzorcích.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-## An example
+## Příklad
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
 <p>
-Above, we see an illustration with a phylogenetic tree on the left, where mutations are shown as colored circles. On the right are the corresponding sequences, also with mutations shown as colored circles. We can see that sequences that share the same mutations group together. When sequences appear linked by a flat vertical line, like A and B, this means there are no differences between them – their sequences are identical.
+Nahoře vidíme obrázek s fylogenetickým stromem na levé straně, kde jsou mutace zobrazeny jako barevná kolečka. Vpravo jsou odpovídající sekvence, s mutacemi rovněž zobrazenými jako barevná kolečka. Vidíme, že sekvence, které sdílejí stejné mutace, se shlukují. Když sekvence vypadají jakoby spojené svislou přímkou, jako A a B, znamená to, že mezi nimi nejsou žádné rozdíly – jejich sekvence jsou identické.
 <br><br>
-When a sequence sits on a long line on its own, like C or E, this means it has unique mutations not found in other sequences. The longer the line, the more mutations.
-A and B also have unique mutations (the green circle) not shared by the other sequences, but they are identical to each other.
+Pokud sekvence leží osamoceně na dlouhé čáře, jako C nebo E, znamená to, že obsahuje jedinečné mutace, které se nenacházejí v jiných sekvencích. Čím delší je čára, tím více mutací.
+A a B obsahují také jedinečné mutace (zelené kolečko) nesdílené ostatními sekvencemi, ale jsou navzájem identické.
 <br><br>
-Based on this tree, we would conclude that A & B closely related to each other, and D & E are closely related to each other. A & B are more closely related to C than they are to D & E.
+Na základě tohoto stromu bychom dospěli k závěru, že sekvence A a B jsou blízce příbuzné a D a E jsou si také blízce příbuzné. Sekvence A a B jsou příbuznější k sekvenci C než k sekvencím D a E.
 </p>
 
-### Further reading  
-* [How to read a tree: tutorial from Arctic Network](https://artic.network/how-to-read-a-tree.html).  
-* [How to read a tree: video from Khan academy](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
+### Doporučená literatura  
+* [Jak číst fylogenetický strom: návod z Arctic Network](https://artic.network/how-to-read-a-tree.html).  
+* [Jak číst fylogenetický strom: video z Khan Academy](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
 
 </div>
 
@@ -102,19 +102,19 @@ Based on this tree, we would conclude that A & B closely related to each other, 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [How does the "diversity" panel relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,entropy&c=gt-ORF1b_314&legend=open)
+# [Jak se stromem souvisí panel Diversity?](https://nextstrain.org/ncov/2020-03-11?d=tree,entropy&c=gt-ORF1b_314&legend=open)
 
-Let's take a look at the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared. Just as on the last page, we built an alignment of these viral sequences (you can see how all of the analyses mentioned here were done [on GitHub](https://github.com/nextstrain/ncov)).
+Pojďme se podívat na prvních 169</tag> kmenů viru SARS-CoV-2 (původce nemoci COVID-19), které byly veřejně sdíleny. Tyto virové sekvence jsme uspořádali stejným způsobem, jaký byl popsán na předchozí stránce (způsob provedení všech uvedených analýz si můžete prohlédnout na platformě [GitHub](https://github.com/nextstrain/ncov)).
 <br><br>
-Here we're displaying the phylogenetic tree above a bar-chart showing the variation (i.e. mutations) in the genome.
-Without these mutations we couldn't build the tree, so the two are intimitely connected.
+Zde zobrazujeme fylogenetický strom nad sloupcovým grafem ukazujícím variace (tj. mutace) v genomu.
+Bez těchto mutací bychom nemohli strom sestavit, takže strom a graf jsou spolu těsně provázané.
 <br><br>
-In this "diversity" panel, the horizontal axis is each site in the viral genome (all thirty thousand or so of them!).
-The vertical axis indicates how much variability there is at each site.
+V tomto panelu rozmanitosti neboli „diverzity“ je na horizontální ose každá pozice ve virovém genomu (všech asi třicet tisíc!).
+Vertikální osa ukazuje, jak velká variabilita je v každé pozici.
 <br><br>
-We've coloured the tree according to one of these mutations -- in this case codon 314 in the gene "ORF1b".
-There's no a priori reason to think this mutation is a functional mutation (i.e. conferring any biological change).
-It is precisely mutations such as this which we use to define the relationships between sequences and construct the tree.
+Strom jsme obarvili podle jedné z těchto mutací – v tomto případě kodonu 314 v genu „ORF1b“.
+Neexistuje a priori důvod si myslet, že tato mutace je funkční mutací (tj. navozuje nějakou biologickou změnu).
+Právě takové mutace používáme k definování vztahů mezi sekvencemi a ke konstrukci stromu.
 
 <!-- There is NO right-side text -->
 
@@ -122,63 +122,63 @@ It is precisely mutations such as this which we use to define the relationships 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Measuring differences with genetic divergence](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
-This is a phylogeny of the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared.
+# [Měření rozdílů na základě genetické divergence](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
+Toto je fylogeneze prvních 169</tag> kmenů viru SARS-CoV-2 (původce nemoci COVID-19), které byly veřejně sdíleny.
 <br><br>
-Here, the horizontal axis indicates divergence, which is the number of changes (mutations) in the genome, relative to the root of the tree (i.e., the start of the outbreak).
-Some sequences may have zero mutations -- meaning they are all identical to the root (center) of the tree.
-Other viruses have between one and eleven mutations.
+Horizontální osa zde označuje divergenci, což je počet změn (mutací) v genomu, vzhledem ke kořenu stromu (tj. okamžiku propuknutí nákazy).
+Některé sekvence nemusí obsahovat žádné mutace – to znamená, že jsou všechny totožné s kořenem (středem) stromu.
+Jiné viry mají mezi jednou a jedenácti mutacemi.
 <br><br>
-At the moment, this may not look much like a ‘tree’. Many of the sequences are identical – they sit together on vertical lines like A and B (some are on the left-most part of the tree).
-Others have unique or shared mutations and so sit on lines, or ‘branches’, going to the right.
-You can see how many mutations a branch has by hovering your mouse over it.
+V tuto chvíli nemusí grafické vyjádření vypadat jako „strom“. Mnoho sekvencí je identických – leží spolu na svislicích jako A a B (některé jsou na stromu úplně vlevo).
+Jiné mají jedinečné nebo sdílené mutace, takže leží na řádcích neboli „větvích“ a míří doprava.
+Počet mutací ve větvi zobrazíte tak, že na ni umístíte kurzor myši.
 
 <!-- There is NO right-side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Measuring differences over time](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
-We can also visualize how the virus has spread over time by using the sampling date as the x axis.
-Here, the x axis represents the sampling date of each virus. The tips' positions reflect the date those samples were taken. The dates of internal nodes -- the "missing cases" -- are inferred based on when their descendants were sampled and the rate at which the virus mutates.
+# [Měření rozdílů v průběhu času](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
+Když na osu x vyneseme datum odběru vzorků, můžeme si také graficky zobrazit, jak se virus šířil v průběhu času.
+Osa x zde představuje datum odběru vzorku každého viru. Polohy koncových větví vyjadřují datum, kdy byly tyto vzorky odebrány. Data vnitřních uzlů – „chybějící případy“ – jsou odvozena na základě toho, kdy byly odebrány vzorky jejich potomků, a rychlosti mutace viru.
 <br><br>
-Notice how many sequences that previously sat in a line (indicating identical genomes) are now spread apart in time.
-This happens when the rate at which the virus mutates is slightly slower than the rate at which is spreads.
-You can scroll up and down between the previous slide and this one, to see how the tree changes.
+Všimněte si, kolik sekvencí, které na předchozím obrázku ležely v jedné linii (to znamená identické genomy), se nyní nachází v různých časových okamžicích.
+K tomu dochází, když je rychlost, kterou virus mutuje, o něco pomalejší než rychlost šíření.
+Doporučujeme vám zkusit přecházet mezi předchozím a tímto obrázkem, abyste viděli, jak se strom mění.
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Dating the start of an outbreak](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
+# [Datování propuknutí nákazy](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
 
-We can also use genomics to assign a date to when an outbreak started, even if this was before we realized it was happening.
-Because we can assign dates to each sample and node in the tree, we can use this to infer the date of the 'root' of the tree. This represents the "most recent common ancestor" of all the SARS-CoV-2 sequences we have so far. E.g., your grandparents are the "most recent common ancestors" of you and all of your first cousins.
+Genomiku můžeme také použít k určení data, kdy došlo k propuknutí nákazy, i když k němu došlo předtím, než jsme si její šíření poprvé uvědomili.
+Jelikož každému vzorku a uzlu ve stromu můžeme přiřadit datum, lze z těchto informací odvodit datum „kořene“ stromu. Jedná se o „posledního společného předka“ všech sekvencí SARS-CoV-2, které máme zatím k dispozici. Například vaši prarodiče jsou „posledními společnými předky“ vás a všech vašich přímých bratranců a sestřenic.
 <br><br>
-If you mouse over the leftmost vertical line, you can see that the inferred start date is between mid-November and mid-December of 2019 for this particular outbreak.
+Pokud umístíte kurzor myši na svislou linii nejvíce vlevo, zjistíte, že odvozené datum zahájení je pro tuto konkrétní epidemii mezi polovinou listopadu a polovinou prosince 2019.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [How should I interpret traits (colors) on the tree?](https://nextstrain.org/ncov/2020-03-11)
-Phylogenetic trees often contain additional information, such as the location of each sample collection. From this, we can infer the locations of internal nodes (hypothesized intermediate, unsampled cases) using mathematical models. This can help us understand how the virus is moving from one location to the next.
+# [Jak mám chápat barevně odlišené struktury v rámci stromu?](https://nextstrain.org/ncov/2020-03-11)
+Fylogenetické stromy často obsahují další informace, například místo odběru jednotlivých vzorků. Z toho můžeme pomocí matematických modelů odvodit geografickou lokalitu vnitřních uzlů (hypotetické přispívající případy, u nichž nebyl proveden odběr vzorků). To nám umožní pochopit, jak se virus pohybuje z jednoho místa na druhé.
 <br><br>
-Interpreting these should, however, be done with caution, as the sampling and sequencing or lack thereof can significantly influence the interpretation.
+Interpretace těchto výsledků by však měla být prováděna obezřetně, protože odběr vzorků a sekvenování nebo jejich absence mohou interpretaci významně ovlivnit.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# An example
+# Příklad
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
 </p>
 <p>
-On the left, we show a fully sampled phylogenetic tree, with samples from two different locations denoted by orange and blue. As we walk down the tree, we observe three instances where the color (location) switches from orange to blue. From this, we would conclude that there were three different introductions from the orange location to the blue location.
+Vlevo znázorňujeme fylogenetický strom obsahující všechny vzorky ze dvou různých míst označených oranžovou a modrou barvou. Když stromem procházíme směrem dolů, pozorujeme tři případy, kdy se barva (místo) změní z oranžové na modrou. Z toho bychom mohli dospět k závěru, že existují tři různé případy zanesení z oranžového místa do modrého místa.
 <br><br>
-But, this interpretation relies on sampling: in the middle tree, we've removed one orange sample. We now observe only one switch from orange to blue, suggesting that there was only one introduction into blue that happened much earlier.
+Tato interpretace se však opírá o způsob odběru vzorků: u stromu uprostřed jsme odstranili jeden oranžový vzorek. Nyní pozorujeme pouze jeden přechod z oranžové na modrou, což naznačuje, že proběhl pouze jeden případ zanesení do modrého místa, k němuž došlo mnohem dříve.
 <br><br>
-In the last example, we have only one sequence from orange, which could lead us to think that there was one introduction from blue into orange.
+V posledním příkladu máme pouze jednu sekvenci z oranžového místa, což by nás mohlo vést k domněnce, že došlo k jednomu případu zanesení z modrého místa do oranžového.
 <br><br>
-Thus, while these inferences can be invaluable, they also must be interpreted with caution.
+I když tedy tyto závěry mohou být neocenitelné, musí být zároveň interpretovány velmi obezřetně.
 </p>
 ```
 <!-- ############ SLIDE BREAK ############# -->
@@ -186,22 +186,22 @@ Thus, while these inferences can be invaluable, they also must be interpreted wi
 <!-- This is left-side text -->
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [How does the map relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)
+# [Jak se stromem souvisí mapa?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)
 
-Here, we show the tree colored by the location of each sample (and inferred location for each internal node).
-If you click ['Explore the data'](https://nextstrain.org/ncov), you can play an animation of the inferred spread of the virus over the course of the outbreak.
+Zde zobrazujeme strom zbarvený podle místa odběru jednotlivých vzorků (a odvozeného místa pro jednotlivé vnitřní uzly)).
+Po kliknutí na odkaz [Prozkoumat data](https://nextstrain.org/ncov) si můžete přehrát animaci odvozeného šíření viru během trvání epidemie.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Advanced reading: uncertainty in trees](https://nextstrain.org/ncov/2020-03-11)
-Earlier, we talked about how internal nodes represent _hypothesized_ unsampled cases. In fact, all trees represent _hypotheses_ about how a pathogen has evolved and moved over time. The trees we present on Nextstrain are point estimates -- that is, the version of this history that maximizes the probability of observing the data that we do.
+# [Pro pokročilé: věrohodnost stromů](https://nextstrain.org/ncov/2020-03-11)
+V dřívějším výkladu jsme hovořili o tom, že vnitřní uzly představují _hypotetické_ případy bez odběru vzorků. Ve skutečnosti všechny stromy představují _hypotézy_ o tom, jak se patogen v průběhu času vyvíjel a pohyboval. Stromy, které uvádíme na webu Nextstrain, jsou bodové odhady – tedy taková verze této historie, ve které nastává nejvyšší pravděpodobnost pozorování dat, která skutečně pozorujeme.
 <br><br>
-However, there is always uncertainty in these estimates. Generally speaking, parts of the tree that are densely sampled are more certain; areas that are sparsely sampled are less certain.
+V těchto odhadech se však vždy vyskytuje prvek neurčitosti. Obecně řečeno, části stromu s velkou hustotou vzorků jsou věrohodnější. Naopak části stromu, kde je malý počet vzorků, jsou méně věrohodné.
 
 ```auspiceMainDisplayMarkdown
-# An illustration
+# Ilustrační obrázek
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Illustration of the uncertainty inherent in tree reconstruction" src="https://github.com/nextstrain/nextstrain.org/raw/c69bfd0750c284ff12f33682f8d82848e13d9e15/static-site/content/help/01-general/figures/hcov_densitree.png"/>
@@ -212,20 +212,20 @@ However, there is always uncertainty in these estimates. Generally speaking, par
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, but particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Chtěli bychom ocenit úžasnou a rychlou práci všech vědců bojujících s touto nákazou, ale zejména těch, kteří pracují v Číně.
+Analýzy tohoto typu jsou možné pouze na základě rychlého sdílení genomových dat a metadat.
 
 <br><br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+Dále děkujeme organizaci [GISAID](https://gisaid.org) za poskytnutí platformy, přes kterou lze tyto údaje nahrávat a sdílet.
 
 <!-- Do not need to translate insitutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Chtěli bychom vyjádřit svůj vděk za data shromážděná těmito zdrojovými laboratořemi:
 
 * Arizona Department of Health Services
 * Auckland Hospital
@@ -353,19 +353,19 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Individuální poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Tyto údaje byly sdíleny prostřednictvím neziskové organizace [GISAID](https://gisaid.org)..
+Srdečně děkujeme za její pomoc.
 
 <br><br>
 
-To the right we give specific sequences shared by each lab.
+Vpravo uvádíme konkrétní sekvence poskytnuté jednotlivými laboratořemi.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Genomy viru SARS-CoV-2 laskavě sdíleli vědci z těchto přispívajících laboratoří:
 
 * Arizona Department of Health Services
 	* USA/AZ1/2020
