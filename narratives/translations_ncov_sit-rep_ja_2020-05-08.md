@@ -1,5 +1,5 @@
 ---
-title: Genomová analýza šíření nemoci COVID-19. Situační zpráva ze dne 8. 5. 2020.
+title: 新型コロナウイルス拡散の遺伝的解析と状況報告 2020-05-08.
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -17,12 +17,19 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: "Zajišťuje společnost Google"
-translatorLinks: "https://www.google.com"
+translators:
+  - Tomoyuki Nezu
+  - Takeshi Sato
+  - Fengjun Zhang
+translatorLinks:
+  - https://twitter.com/tommy_nezy
+  - https://github.com/satotake
+  - https://twitter.com/fengjun_zhang
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
-abstract: "Předkládaná týdenní zpráva využívá k sledování šíření nemoci COVID-19 veřejně dostupné genomové údaje. Tento týden se zaměříme na situaci v Asii. Popíšeme řadu oddělených, samostatných případů zanesení nákazy do Indie, souvislosti týkající se propuknutí nákazy mezi migrujícími pracovníky v Singapuru a převažující charakter mezinárodního šíření po regionu."
+date: 2020年5月1日
+abstract: "この週次レポートでは、公開されたゲノムデータを用いて COVID-19 の広がりを追跡しています。今週はアジアに焦点を充てています。インドへの多くの独立した伝播、 シンガポールの移民労働者における感染拡大の背景、そして地域全体に広がる国際的な広がりについて報告します。"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -30,135 +37,133 @@ abstract: "Předkládaná týdenní zpráva využívá k sledování šíření 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Obsah](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [目次](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Výchozí zdroje](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=2).     
-* [O těchto údajích](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=3).  
-* [Původ epidemie v Indii](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=4).  
-* [Pozadí opětovného nárůstu počtu případů v Singapuru](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=5).  
-* [Zanášení nákazy do Malajsie](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=6).  
-* [Časté šíření přes mezistátní hranice](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=7).    
-* [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=8).
+* [資料](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=2).     
+* [データについて](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=3).  
+* [インドにおける流行の起源](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=4).  
+* [シンガポールにおける流行再発の背景](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=5).  
+* [マレーシアへの伝播について](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=6).  
+* [国境を超えた感染拡大](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=7).    
+* [分析データのクレジット](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Úvodní přehled
+# 概要
 
-Provedli jsme analýzu 2 226 veřejně dostupných genomů viru způsobujícího nemoc COVID-19. Vzájemným porovnáním těchto virových genomů můžeme popsat, jak původce nemoci COVID-19 postupuje světem a šíří se v rámci různých lokalit. Novinky tohoto týdne se zaměřují na šíření v Asii. Popisujeme v nich následující události:
+ここでは、公に共有されている 2,226 種の COVID-19 ゲノムを分析しました。これらのウイルスのゲノムを相互に比較することにより、COVID-19 が世界中をどのように移動しているか、地域の中でどのように拡散しているかを特徴付けることができます。今週の更新では最近のアジア全体への広がりに焦点を充てて報告します:
 
-* Mnoho případů zanesení nákazy z celého světa do Dillí během března 2020  
-* Mnoho oddělených případů zanesení nákazy do Singapuru, z nichž většina se patrně dále nešířila  
-* Rozšíření velkého klastru případů v Singapuru, pravděpodobně vyvolané sociologickými faktory
-* Podobné modely mezinárodního šíření, které zdůrazňují naléhavou potřebu spolupráce
+* 2020年3月にデリーへ世界中から複数回の伝播
+* シンガポールへの多くの個別伝播、ただしそれらのほとんどは更なる拡大には繋がっていない模様
+* おそらく社会学的要因によるシンガポールでの大規模なクラスター感染
+* 緊急的な協調努力が必要とされる国際的な広がりの類似パターン
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [Informační zdroje o nemoci COVID-19](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-Připravili jsme materiály dostupné online, které usnadňují interpretaci zde uváděných dat.
-#### Zdroje na webu Nextstrain  
-* [ZAČNĚTE ZDE: Jak číst fylogenetický strom](https://nextstrain.org/narratives/trees-background/cs).  
-* [Základní informace o koronavirech](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Běžné omyly a mýty](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [COVID-19 に関する資料](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+このレポートで紹介するデータを理解するための資料を用意しています。
+#### Nextstrain Resources  
+* [最初にご覧下さい: 系統樹の読み方](https://nextstrain.org/narratives/trees-background/ja).  
+* [コロナウイルスの背景](https://nextstrain.org/help/coronavirus/human-CoV).
+* [よくある誤解](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-13?n=11).
 
-#### Externí zdroje  
-* [Zeptejte se odborníka a časté dotazy](https://covid19.fas.org/l/en).
-* [Situační zprávy Světové zdravotnické organizace (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [Zdroje publikované Střediskem pro kontrolu a prevenci nemocí (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [Informace o nemoci COVID-19 v deníku The New York Times](https://www.nytimes.com/news-event/coronavirus).
+#### External Resources  
+* [「Ask a Scientist」とよくある質問と答え](https://covid19.fas.org/l/en).
+* [WHO の状況報告](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [CDC の資料](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [ニューヨーク・タイムズによる報道](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Poznámka k odběru vzorků](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-V současnosti máme k dispozici sekvence ze vzorků odebraných v 28 zemích v Asii. To je neuvěřitelný úspěch – sekvenování neznámého, velkého RNA viru uprostřed pandemie je obtížné a lze jej provést pouze díky neskutečné práci a včasnému sdílení dat vědci a lékaři z celého světa.
+# [データについて](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
+現在、アジアの28か国で採取されたサンプルの遺伝子配列があり、これは信じられないほどの成果です。流行の最中に未知の大型 RNA ウイルスの遺伝子を解析することは難しく、世界中の科学者や医師による信じられないような作業とタイムリーなデータの共有があって初めて可能になりました。
 <br><br>
-I když nám tato data umožňují vyvodit mnoho užitečných charakteristik propuknutí nákazy a sledovat její šíření v reálném čase, je důležité zdůraznit, že naše závěry jsou limitovány dostupnými údaji.
+このデータにより、多くの有用な特性を推測し、流行の広がりをリアルタイムで追跡することができますが、結論は利用可能なデータによって制限されることに留意して下さい。
 <br><br>
-Mapa například ukazuje relativně málo sekvencí ze Středního Východu. Důvodem rozhodně není to, že by se nemoc COVID-19 snad v těchto oblastech nešířila nebo že by zjištěné případy nebyly natolik zásadní, abychom se jim snažili porozumět. Z těchto oblastí především nemáme k dispozici dostatečné množství údajů. Velikost jednotlivých kruhů na mapě tedy neoznačuje skutečný rozsah nákazy, ale spíše kolik dat je aktuálně z dané oblasti k dispozici.
+例えば、この地図には中東の遺伝子配列がほとんど表示されていません。これは COVID-19 がこれらの地域で流行していないため、またはこれらの症例を理解することが重要ではないためではありません。むしろ、これらの地域からの入手可能なデータが少ないことを意味します。マップ上の各円のサイズは、実際の流行の広がり度合いを示すというよりも、そのエリアにおいて利用可能なデータ量を示しています。
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Mnoho samostatných případů zanesení nákazy do Dillí během března](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+# [3月中のデリーへの個別の多数の伝播](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
-Mezi 1. březnem a 15. dubnem bylo v metropolitní oblasti Dillí odebráno a sekvenováno 38 virových genomů (viz zde).
+表示されているのは、3月1日から4月15日の間にデリー地域から採取、解析された38のウイルスゲノムです。
 <br><br>
-Uprostřed stromu vidíme velký klastr úzce příbuzných případů. To odpovídá předpokladu o jediném případu zanesení, po kterém následovalo šíření mezi místním obyvatelstvem.
+系統樹の中央に、密接に関連する症例の大きなクラスターが存在します。これは1つの伝播に続く、地域社会での感染拡大と一致しています。
 <br><br>
-Nesmíme však zapomenout vzít v úvahu všechny souvislosti tohoto klastru.  
-Po celém stromu vidíme také roztroušený výskyt mnoha dalších malých klastrů a ojedinělých případů, které představují samostatné případy zanesení nákazy z celého světa.
-Nemáme dostatek údajů k tomu, abychom mohli říci, co následovalo po těchto dalších případech zanesení – zda nebo jak dalece se rozšířily. Můžeme však prohlásit, že zmíněný velký klastr případů představuje pouze část celého příběhu.
+しかし、このクラスターの背景を考える事はとても重要です。系統樹全体に散らばっている他の多数の小さなクラスターや、独立した事例も症例も見られ、これは世界中からの個別の伝播を表しています。これらの他の伝播の後に何が起こったのか、それがどこまで広がったのかを説明するのに十分なデータはありません。しかし、大規模なクラスターの事例は、インドにおける感染拡大の一部に過ぎないと言えます。
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Pozadí opětovného nárůstu počtu případů nákazy virem SARS-CoV-2 v Singapuru](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [シンガポールにおける SARS-CoV-2 流行再発の背景](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
-Během posledních 10 týdnů byl virus SARS-CoV-2 zanesen do Singapuru mnohokrát a z různých míst.
+シンガポールではこの10週間で SARS-CoV-2 が複数の場所から何度も伝播されています。
 <br><br>
-Většina těchto případů zanesení vedla k omezenému dalšímu přenosu (jednotlivé případy nebo malé klastry na stromě).
+これらの伝播のほとんどは、限られた地域感染につながりました（単一の症例、または系統樹上の小さなクラスター）。
 <br><br>
-Uprostřed stromu však vidíme jediný případ zanesení, který vedl k rozsáhlému následnému šíření.
-Tento velký kompaktní klastr je nejpříbuznější se vzorky z Indie a Filipín.
+しかし、系統樹の中央には単一の伝播から、広範な地域感染につながったものが表示されています。
+この大きなまとまりのあるクラスターは、インドとフィリピンからのサンプルに最も密接に関連しています。
 <br><br>
-Tato pozorování jsou v souladu s [nedávnými zprávami](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) o tom, že se virus v Singapuru rychle šíří mezi zranitelnými skupinami migrujících pracovníků žijících ve stísněných podmínkách.
+これは、シンガポールの脆弱で閉じた移民労働者の間でウイルスが急速に広がっているという[最近の報告](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html)と一致しています。
 <br><br>
-Tento závěr ukazuje, jak je rozsah šíření v rámci populace po prvotním zanesení nákazy závislý na sociologických faktorech, a zdůrazňuje, proč je zásadně důležité chránit zranitelné skupiny.
+これは、ある伝播が集団内でどの程度広がるかが社会学的要因に依存していることを表しており、なぜ感染の影響を受けやすい集団を保護することがとても重要であるかを強く示しています。
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Opakované zanesení nákazy do Malajsie](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [マレーシアへ繰り返される伝播](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
-Na webu Nextstrain máme 14 sekvencí z Malajsie. Jednotlivé vzorky byly odebrány od konce ledna do konce března. Tyto sekvence se shlukují s několika různými klady, z nichž každý se vyskytoval většinou v různých asijských zemích. To napovídá, že do Malajsie byla nákaza z okolního regionu zanesena opakovaně.
+私たちには1月下旬から3月下旬にマレーシアで採取された14の遺伝子配列があります。これらの遺伝子配列はいくつかの異なる枝でグループ化され、それぞれは他のアジア諸国で主に流行していました。これは、周辺諸国からマレーシアへの複数の伝播があったことを示唆しています。
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Regionální šíření po celé Asii](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+# [アジアにおける地域的な感染拡大](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
-Podobný model se opakuje v řadě dalších zemí regionu: vícenásobné zanesení nákazy, přičemž většina případů zůstala dobře izolovaných, ale několik málo spustilo místní přenos. Doporučujeme vám, abyste si data prozkoumali sami v části „Explore the Data Yourself“. Jak je zde ukázáno, podobné charakteristické struktury budete pozorovat v Jordánsku, Japonsku, Thajsku a ve Spojených arabských emirátech. Obdobné struktury vidíme také v Kuvajtu, Gruzii, Tchaj-wanu a Vietnamu.
+この地域の他の国々でも、同様のパターンが繰り返されています。複数の伝播があり、その多くは封じ込められましたが、幾つかのものは地域感染のきっかけとなりました。私たちは「自分でデータを調べる」（画面右上にある "EXPLORE THE DATA YOURSELF" メニュー）ことをお勧めします。ここに示すように、ヨルダン、日本、タイ、アラブ首長国連邦でも同様のパターンが見られます。また、クウェート、ジョージア、台湾、ベトナムでも見ることができます。
 <br><br>
-Toto opakování je jasným důkazem toho, že virus často překračuje mezistátní hranice. Abychom tedy mohli epidemii účinně kontrolovat v jedné zemi, musíme pomocí koordinovaného mezinárodního úsilí dostat pandemii pod kontrolu ve všech zemích.
+このパターンの一貫性は、ウイルスが頻繁に国境を越えることを示す強力な証拠です。したがって、どの国でも効果的に流行をコントロールするためには、国際的な協調的のある取り組みを通じて、すべての国で感染拡大を抑制する必要があります。
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Co můžete udělat vy](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
-#### ... jako běžný občan
-* Důsledně omezovat společenský kontakt, zejména pokud spadáte do ohrožené skupiny.
-* Nezapomínejte, že i když vy sami do silně ohrožené skupiny nepatříte, řada lidí kolem vás ano. Dodržováním těchto opatření chráníte ostatní.
-* Myjte si ruce, „jako byste právě nakrájeli silně pálivou papriku a chystali se vyměnit si kontaktní čočky“.  
-* Co nejvíce se zdržujte doma – zejména pokud jste nemocní. Pořiďte si zásoby pro případ, že budete muset zůstat v domácí karanténě.  
-* Jste-li zaměstnavatel, nabídněte všem zaměstnancům, u kterých je to možné, práci z domova.
+# [私たちができること](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+#### ...個人ができること
+* 社会的距離を保つことを厳格に実践してください。重症化しやすいグループに属している場合には特に。
+* あなたが健康であるとしても、他の人を守るために社会的距離を保つことを実践して下さい。
+* 良く手を洗って下さい（辛いものを触ったあとにコンタクトレンズを交換する時のように）。
+* できるだけ家にいましょう（特に体調の悪い時は）。自主的な隔離に備えて、いくつかの追加の備品を用意しておきましょう。
+* あなたが雇用主である場合は、可能な限り自宅で仕事をするよう従業員に勧めてください。
 
-#### ... jako představitel veřejné moci  
-* Zpřístupněte bezplatné a široce dostupné testování.  
-* Zaveďte přísná pravidla omezení společenského kontaktu (tzv. social distancing).  
-* Financujte a zavádějte rozsáhlé projekty trasování kontaktů.  
-* Podpořte finančně osoby postižené pravidly omezení společenského kontaktu.
+#### ...行政機関ができること 
+* 検査を広く、無料で利用出来るようにすること。
+* 社会的な距離を保つ為の措置を強力にとること。
+* 広範囲な接触追跡作業に資金を提供し、実施すること。
+* 社会的距離に関する措置の影響を受ける人々を経済的に支援すること。
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Klíčové závěry
+# まとめ
 
-#### Propuknutí nákazy v Indii je důsledkem řady samostatných případů jejího zanesení z celého světa.  
+#### インドでの感染拡大は、世界中からの多数の独立した伝播の結果です。
 <br><br>
-#### V Singapuru urychlily sociologické faktory rozšíření na základě jednoho případu zanesení, z něhož se následně vyvinulo velké ohnisko nákazy. Oproti tomu došlo i k řadě případů zanesení, které se výrazně nerozšířily.
+#### シンガポールでは社会的要因により、１つの伝播が急速に拡大し、大規模な流行に繋がりました。これは大きく広がっていない、他の伝播とは対照的です。
 <br><br>
-#### Ohniska ve většině asijských zemí mají podobnou historii: mnoho samostatných případů zanesení nákazy z jiných zemí, z nichž některé vedly k místnímu šíření. Tento model opakovaného zanášení v průběhu času zdůrazňuje potřebu mezinárodní a regionální spolupráce při účinném zvládání pandemie.
+#### アジアでは、ほとんどの国で大規模な感染が発生していますが、その経緯は似ています。このように、時間をかけて複数の感染が発生していることから、大規模な感染を完全に制御するためには、国際的・地域的な協力が必要であることが強く示されています。
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -171,20 +176,19 @@ Toto opakování je jasným důkazem toho, že virus často překračuje mezist�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [分析データのクレジット](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
 
-Chtěli bychom ocenit úžasnou a rychlou práci všech vědců bojujících s touto nákazou.
-Analýzy tohoto typu jsou možné pouze na základě rychlého sdílení genomových dat a metadat.
+私たちはこの感染症流行の中において、関係したすべての科学者、中国で働いている科学者による驚くべきタイムリーな研究に謝意を表します。 この分析は世界中の科学者や医師によるゲノム配列や病例に関するメタデータの共有があって可能になりました。
 <br><br>
-Konkrétní sekvence poskytnuté jednotlivými laboratořemi jsou [uvedeny zde](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
+各研究室から提供された特定の遺伝子配列は [こちらに一覧になっています](https://github.com/nextstrain/ncov/blob/52a133354c70d712a99f2d2a62116defe0f605ff/narratives/sit-rep_credits.md) 。
 <br><br>
-Dále děkujeme organizaci GISAID za poskytnutí platformy, přes kterou lze tyto údaje nahrávat a sdílet.
+また、これらのデータをアップロードおよび共有できるプラットフォームを提供してくれた [GISAID](https://gisaid.org) にも感謝します。
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-Chtěli bychom vyjádřit svůj vděk za data shromážděná těmito zdrojovými laboratořemi:
+私たちはこれらの研修室によって集積されたデータに感謝します:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres

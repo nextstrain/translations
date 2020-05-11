@@ -1,5 +1,5 @@
 ---
-title: Genomová analýza šíření nemoci COVID-19. Situační zpráva ze dne 8. 5. 2020.
+title: COVID-19 کے پھیلاؤ کا جینومی تجزیہ صورتحال کی رپورٹ 2020-05-08۔
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -17,12 +17,12 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: "Zajišťuje společnost Google"
+translators: "فراہم کردہ بذریعہ گوگل"
 translatorLinks: "https://www.google.com"
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
-abstract: "Předkládaná týdenní zpráva využívá k sledování šíření nemoci COVID-19 veřejně dostupné genomové údaje. Tento týden se zaměříme na situaci v Asii. Popíšeme řadu oddělených, samostatných případů zanesení nákazy do Indie, souvislosti týkající se propuknutí nákazy mezi migrujícími pracovníky v Singapuru a převažující charakter mezinárodního šíření po regionu."
+abstract: "یہ ہفتہ واری رپورٹ COVID-19 کے پھیلاؤ کا پتہ لگانے کے لیے عوامی طور پر اشتراک کردہ جینوم کے ڈیٹا کا استعمال کرتی ہے۔ اس ہفتے، ہم ایشیا پر مرکوز ہیں۔ ہم ہندوستان کے متعدد علیحدہ، آزادانہ ابتداء؛ سنگاپور میں تارکین وطن کارکنان کے درمیان وبا پھوٹ پڑنے کا تناظر؛ اور پورے خطے میں بین الاقوامی پھیلاؤ کی وسعت کی رپورٹ دیں گے۔"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -30,135 +30,136 @@ abstract: "Předkládaná týdenní zpráva využívá k sledování šíření 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Obsah](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [فہرستِ مضامین](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Výchozí zdroje](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=2).     
-* [O těchto údajích](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=3).  
-* [Původ epidemie v Indii](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=4).  
-* [Pozadí opětovného nárůstu počtu případů v Singapuru](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=5).  
-* [Zanášení nákazy do Malajsie](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=6).  
-* [Časté šíření přes mezistátní hranice](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=7).    
-* [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=8).
+* [پس منظر کے وسائل](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-05-08?n=2).     
+* [اس ڈیٹا کے بارے میں](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-05-08?n=3).  
+* [ہندوستان میں وباء کا آغاز](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-05-08?n=4).  
+* [سنگاپور میں پھر سے کیسز پھوٹ پڑنے کا تناظر](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-05-08?n=5).  
+* [ملیشیا میں آغاز](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-05-08?n=6).  
+* [بین الاقوامی سرحدوں کے پار بکثرت پھیلاؤ](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-05-08?n=7).    
+* [سائنسی خراجِ تحسین](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Úvodní přehled
+# نمائندہ خلاصہ
 
-Provedli jsme analýzu 2 226 veřejně dostupných genomů viru způsobujícího nemoc COVID-19. Vzájemným porovnáním těchto virových genomů můžeme popsat, jak původce nemoci COVID-19 postupuje světem a šíří se v rámci různých lokalit. Novinky tohoto týdne se zaměřují na šíření v Asii. Popisujeme v nich následující události:
+ہم نے COVID-19 کے عوامی طور پر اشترک کردہ 2,226 جینوم کا تجزیہ کیا۔ وائرس سے متعلق  ان جینومز کا ایک دوسرے کے ساتھ موازنہ کرکے، ہم نے یہ پتہ لگاسکتے ہیں کہ COVID-19 کس طرح پوری دنیا میں متحرک ہے اور مقامی طور پر پھیل رہا ہے۔ اس ہفتے کے اپ ڈیٹس میں، ہم نے پورے ایشیا میں حالیہ پھیلاؤ پر توجہ مرکوز کی۔ ہماری رپورٹ:
 
-* Mnoho případů zanesení nákazy z celého světa do Dillí během března 2020  
-* Mnoho oddělených případů zanesení nákazy do Singapuru, z nichž většina se patrně dále nešířila  
-* Rozšíření velkého klastru případů v Singapuru, pravděpodobně vyvolané sociologickými faktory
-* Podobné modely mezinárodního šíření, které zdůrazňují naléhavou potřebu spolupráce
+* مارچ 2020 کے دوران پوری دنیا سے دہلی میں متعدد شروعاتیں  
+* سنگاپور میں متعدد علیحدہ شروعات، ان میں سے زیادہ تر مزید پھیلتے ہوئے نظر نہیں آئے  
+* سنگاپور میں کیسز والے وسیع گروہوں میں اضافہ جن کا سماجی عوامل سے تحریک یافتہ ہونے کا امکان ہے
+* بین الاقوامی پھیلاؤ کا ایک جیسا سلسلہ جو باہمی تعاون والی کوششوں کی فوری ضرورت پر زور دیتا ہے
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
+<p dir="rtl">
 <!-- This is left-side text 2-->
-# [Informační zdroje o nemoci COVID-19](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-Připravili jsme materiály dostupné online, které usnadňují interpretaci zde uváděných dat.
-#### Zdroje na webu Nextstrain  
-* [ZAČNĚTE ZDE: Jak číst fylogenetický strom](https://nextstrain.org/narratives/trees-background/cs).  
-* [Základní informace o koronavirech](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Běžné omyly a mýty](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [COVID-19 سے متعلق وسائل](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+ہم نے چند وسائل تیار کیے ہیں جو ہمارے اس بیان میں پیش کردہ ڈیٹا کی تشریح کو آسان بنائیں گے۔
+#### Nextstrain وسائل  
+* [یہاں سے شروع کریں: نسلی ارتقاء کو کیسے پڑھیں](https://nextstrain.org/narratives/trees-background/).  
+* [کورونا وائرسز کا پس منظر](https://nextstrain.org/help/coronavirus/human-CoV).
+* [عام غلط فہمیاں](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### Externí zdroje  
-* [Zeptejte se odborníka a časté dotazy](https://covid19.fas.org/l/en).
-* [Situační zprávy Světové zdravotnické organizace (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [Zdroje publikované Střediskem pro kontrolu a prevenci nemocí (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [Informace o nemoci COVID-19 v deníku The New York Times](https://www.nytimes.com/news-event/coronavirus).
+#### بیرونی وسائل  
+* [سائنسداں سے پوچھیں اور اکثر پوچھے گئے سوالات (FAQs)](https://covid19.fas.org/l/en).
+* [WHO کی صورتحال سے متعلق رپورٹیں](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [CDC کے وسائل](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [NYTimes میں COVID-19 کا کوریج](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
-
+</p>
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Poznámka k odběru vzorků](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-V současnosti máme k dispozici sekvence ze vzorků odebraných v 28 zemích v Asii. To je neuvěřitelný úspěch – sekvenování neznámého, velkého RNA viru uprostřed pandemie je obtížné a lze jej provést pouze díky neskutečné práci a včasnému sdílení dat vědci a lékaři z celého světa.
+# [نمونہ بندی پر ایک نوٹ](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
+ابھی ہمارے پاس ایشیا کے 28 ممالک سے لیے گئے نمونوں کی ترتیب بندی ہے۔ یہ ایک حیرت انگیز حصولیابی ہے -- کسی وباء کے دوران ایک نامعلوم، بڑے RNA وائرس کی ترتیب بندی دشوار ہے، اور یہ صرف پوری دنیا کے سائنسدانوں اور معالجین کے محیرالعقل کام اور بروقت ڈیٹا کے اشتراک کے ذریعہ ہی ممکن ہے۔
 <br><br>
-I když nám tato data umožňují vyvodit mnoho užitečných charakteristik propuknutí nákazy a sledovat její šíření v reálném čase, je důležité zdůraznit, že naše závěry jsou limitovány dostupnými údaji.
+چونکہ یہ ڈیٹا ہمیں وباء کی متعدد کارآمد خصوصیات کے بارے میں بروقت طور پر نتائج اخذ کرنے اور اس کے پھیلاؤ کا پتہ لگانے کا اہل بناتا ہے، لہذا اس بات پر زور دینا اہم ہے کہ ہمارے نتائج دستیاب ڈیٹا تک محدود ہیں۔
 <br><br>
-Mapa například ukazuje relativně málo sekvencí ze Středního Východu. Důvodem rozhodně není to, že by se nemoc COVID-19 snad v těchto oblastech nešířila nebo že by zjištěné případy nebyly natolik zásadní, abychom se jim snažili porozumět. Z těchto oblastí především nemáme k dispozici dostatečné množství údajů. Velikost jednotlivých kruhů na mapě tedy neoznačuje skutečný rozsah nákazy, ale spíše kolik dat je aktuálně z dané oblasti k dispozici.
+مثال کے طور پر، نقشہ مشرق وسطی سے صرف چند ترتیب بندیوں کو دکھاتا ہے۔ یہ اس وجہ سے نہیں ہے کہ COVID-19 اس علاقے میں نہیں پھیل رہا، یا اس سبب سے کہ ان کیسز کو سمجھنا زیادہ اہم نہیں ہے؛ بلکہ، ہمارے پاس ان علاقوں سے زیادہ ڈیٹا نہیں ہے۔ نقشے پر ہر دائرے کی جسامت وباء کا حقیقی سائز دکھانے کے بجائے، یہ دکھاتا ہے کہ اس علاقے سے ابھی کتنا ڈیٹا دستیاب ہے۔
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Mnoho samostatných případů zanesení nákazy do Dillí během března](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+# [مارچ کے دوران دہلی میں متعدد شروعاتیں](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
-Mezi 1. březnem a 15. dubnem bylo v metropolitní oblasti Dillí odebráno a sekvenováno 38 virových genomů (viz zde).
+1 مارچ سے 15 اپریل کے دوران، دہلی کے علاقے سے 38 وائرل جینومز کا نمونہ لیا گیا اور ان کی ترتیب بندی کی گئی (جسے یہاں دکھایا گیا ہے).
 <br><br>
-Uprostřed stromu vidíme velký klastr úzce příbuzných případů. To odpovídá předpokladu o jediném případu zanesení, po kterém následovalo šíření mezi místním obyvatelstvem.
+شجر کے درمیان میں، ہمیں قریبی طور پر متعلقہ کیسز کا ایک خاصا بڑا گروہ نظر آرہا ہے۔ یہ ایک واحد شروعات سے ملتا جلتا ہے، اس کے بعد یہ مقامی کمیونٹی میں پھیلا۔
 <br><br>
-Nesmíme však zapomenout vzít v úvahu všechny souvislosti tohoto klastru.  
-Po celém stromu vidíme také roztroušený výskyt mnoha dalších malých klastrů a ojedinělých případů, které představují samostatné případy zanesení nákazy z celého světa.
-Nemáme dostatek údajů k tomu, abychom mohli říci, co následovalo po těchto dalších případech zanesení – zda nebo jak dalece se rozšířily. Můžeme však prohlásit, že zmíněný velký klastr případů představuje pouze část celého příběhu.
+البتہ، اس گروہ کے تناظر پر غور کرنا انتہائی اہم ہے۔  
+ہمیں پورے شجرے پر پھیلے ہوئے، متعدد دیگر چھوٹے گروہ اور تنہا کیسز بھی نظر آرہے ہیں، جو پوری دنیا میں علیحدہ شروعات کی نمائندگی کرتے ہیں۔
+ہمارے پاس یہ بتانے کے لیے کافی ڈیٹا نہیں ہے کہ ان دیگر شروعاتوں کے پیچھے کیا ہے -- یہ کیوں یا کس حد تک پھیلے۔ لیکن، ہم یہ کہہ سکتے ہیں کہ، کیسز کا بڑا گروہ اس کہانی کا حصہ ہیں۔
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Pozadí opětovného nárůstu počtu případů nákazy virem SARS-CoV-2 v Singapuru](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [سنگاپور میں SARS-CoV-2 کے دوبارہ پھوٹ پڑنے کے تناظر کا تعین](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
-Během posledních 10 týdnů byl virus SARS-CoV-2 zanesen do Singapuru mnohokrát a z různých míst.
+گزشتہ 10 ہفتوں میں، سنگاپور میں SARS-CoV-2 بہت بار، متعدد مقامات سے شروع ہوا۔
 <br><br>
-Většina těchto případů zanesení vedla k omezenému dalšímu přenosu (jednotlivé případy nebo malé klastry na stromě).
+مرض کی ان شروعاتوں میں زیادہ تر کی ترسیل بہت محدود پیمانے پر ہوئی (شجر میں واحد کیسز یا چھوٹے گروہ).
 <br><br>
-Uprostřed stromu však vidíme jediný případ zanesení, který vedl k rozsáhlému následnému šíření.
-Tento velký kompaktní klastr je nejpříbuznější se vzorky z Indie a Filipín.
+البتہ، شجر کے درمیان میں، ہمیں ایک واحد شروعات نظر آرہی ہے جس کی آگے ترسیل بہت بڑے پیمانے پر ہوئی ہے۔
+یہ بڑا، باہم پیوستہ گروہ ہندوستان اور فلپینس کے نمونوں سے زیادہ قریبی طور پر متعلق ہے۔
 <br><br>
-Tato pozorování jsou v souladu s [nedávnými zprávami](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) o tom, že se virus v Singapuru rychle šíří mezi zranitelnými skupinami migrujících pracovníků žijících ve stísněných podmínkách.
+یہ [حالیہ رپورٹوں](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) کے مطابق ہے کہ وائرس سنگاپور کے تارکین وطن غیر محفوظ، محبوس آبادیوں میں کافی تیزی سے پھیل رہا ہے۔
 <br><br>
-Tento závěr ukazuje, jak je rozsah šíření v rámci populace po prvotním zanesení nákazy závislý na sociologických faktorech, a zdůrazňuje, proč je zásadně důležité chránit zranitelné skupiny.
+یہ اس بات کو دکھاتا ہے کہ کس طرح کسی آبادی میں ایک شروعات کے پھیلنے کی حد کا انحصار سماجی عوامل پر ہوتا ہے اور یہ اس بات پر زور دیتا ہے کہ غیر محفوظ گروپوں کا تحفظ کیوں انتہائی اہم ہے۔
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Opakované zanesení nákazy do Malajsie](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [ملیشیا میں مکرر شروعاتیں](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
-Na webu Nextstrain máme 14 sekvencí z Malajsie. Jednotlivé vzorky byly odebrány od konce ledna do konce března. Tyto sekvence se shlukují s několika různými klady, z nichž každý se vyskytoval většinou v různých asijských zemích. To napovídá, že do Malajsie byla nákaza z okolního regionu zanesena opakovaně.
+Nextstrain پر ہمارے پاس ملیشیا سے 14 ترتیب بندیاں ہیں، جن کا نمونہ اواخر جنوری اور اواخر مارچ میں لیا گيا تھا۔ یہ گروپ کی ترتیب بندی متعدد مختلف نوع کے ساتھ کرتی ہے، جن میں سے ہر ایک خاص طور پر دیگر ایشیائی ممالک میں گردش کر رہی تھیں۔ اس سے یہ بات سامنے آتی ہے کہ ملیشیا میں آس پاس کے علاقے سے متعدد شروعاتیں ہوئیں۔
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Regionální šíření po celé Asii](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+# [پورے ایشیاء میں علاقائی پھیلاؤ](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
-Podobný model se opakuje v řadě dalších zemí regionu: vícenásobné zanesení nákazy, přičemž většina případů zůstala dobře izolovaných, ale několik málo spustilo místní přenos. Doporučujeme vám, abyste si data prozkoumali sami v části „Explore the Data Yourself“. Jak je zde ukázáno, podobné charakteristické struktury budete pozorovat v Jordánsku, Japonsku, Thajsku a ve Spojených arabských emirátech. Obdobné struktury vidíme také v Kuvajtu, Gruzii, Tchaj-wanu a Vietnamu.
+اس خطے کے متعدد دیگر ممالک میں اسی طرح کی ترتیب کا اعادہ ملتا ہے: متعدد شروعاتیں ہوئیں، جن میں سے کئی بہت اچھی طرح قابو میں یا محدود رہیں، لیکن چند نے مقامی ترسیل میں بہت زیادہ اضافہ کیا۔ ہم اس بات کے لیے آپ کی حوصلہ افزائی کرتے ہیں کہ آپ "خود سے ڈیٹا کی چھان بین کریں"۔ جیسا کہ یہاں دکھایا گيا ہے، آپ کو اُردن، جاپان، تھائی لینڈ، اور متحدہ عرب امارات میں بھی یہی ترتیبات ملیں گی۔ اسی طرح کی ترتیبات کویت، جارجیا، تائیوان، اور ویتنام مین بھی دیکھی جا سکتی ہیں۔
 <br><br>
-Toto opakování je jasným důkazem toho, že virus často překračuje mezistátní hranice. Abychom tedy mohli epidemii účinně kontrolovat v jedné zemi, musíme pomocí koordinovaného mezinárodního úsilí dostat pandemii pod kontrolu ve všech zemích.
+اس ترتیب کی یکسانیت اس بات کا ٹھوس ثبوت ہے کہ وائرس مسلسل بین الاقوامی سرحدیں پار کرتا رہا ہے۔ لہذا، ایک ملک میں وباء پر مؤثر کنٹرول کے لیے، یہ ضروری ہے کہ ہم مربوط بین الاقوامی کوششوں کے ذریعہ تمام ممالک میں وباء پر قابو پائیں۔
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Co můžete udělat vy](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
-#### ... jako běžný občan
-* Důsledně omezovat společenský kontakt, zejména pokud spadáte do ohrožené skupiny.
-* Nezapomínejte, že i když vy sami do silně ohrožené skupiny nepatříte, řada lidí kolem vás ano. Dodržováním těchto opatření chráníte ostatní.
-* Myjte si ruce, „jako byste právě nakrájeli silně pálivou papriku a chystali se vyměnit si kontaktní čočky“.  
-* Co nejvíce se zdržujte doma – zejména pokud jste nemocní. Pořiďte si zásoby pro případ, že budete muset zůstat v domácí karanténě.  
-* Jste-li zaměstnavatel, nabídněte všem zaměstnancům, u kterých je to možné, práci z domova.
+# [ہم کیا کر سکتے ہیں](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+#### …بطور ایک فرد
+* سماجی فاصلہ رکھنے پر سختی سے عمل کریں، خاص طور پر اگر آپ غیر محفوظ گروپ میں ہیں۔
+* یہ یاد رکھیں کہ اگر آپ بہت زیادہ غیر محفوظ نہیں ہیں تو، آپ کے پاس بہت سے لوگ ایسے ہیں؛ دوسروں کو محفوظ رکھنے کے لیے ان طریقوں پر عمل کریں۔
+* اپنے ہاتھوں کو دھوئیں "جیسے کہ آپ نے ابھی بھی ہری مرچ کاٹی ہو اور آپ کو اپنا کانٹیکٹ لینس تبدیل کرنا ہو۔"  
+* جتنا زیادہ ممکن ہو گھر پر رہیں -- خاص طور اگر آپ بیمار ہوں؛ اضافی سپلائز تیار رکھیں کہ شاید آپ کو خود کو الگ تھلگ کرنے کی ضرورت پڑے۔  
+* اگر آپ آجر ہیں تو، جب بھی ممکن ہو گھر سے کام کرنے کے لیے اپنے ملازمین کی حوصلہ افزائی کریں۔
 
-#### ... jako představitel veřejné moci  
-* Zpřístupněte bezplatné a široce dostupné testování.  
-* Zaveďte přísná pravidla omezení společenského kontaktu (tzv. social distancing).  
-* Financujte a zavádějte rozsáhlé projekty trasování kontaktů.  
-* Podpořte finančně osoby postižené pravidly omezení společenského kontaktu.
+#### ...بطور ایک عہدے دار  
+* جانچ کو مفت اور وسیع پیمانے پر دستیاب بنائیں۔  
+* سماجی فاصلہ رکھنے کے سخت اقدامات لاگو کریں۔  
+* رابطے کا سراغ لگانے کی جامع کوششوں کے لیے مالی فراہمی کریں اور اسے نافذ کریں۔  
+* سماجی فاصلہ رکھنے سے متاثرہ لوگوں کی مالی امداد کریں۔
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Klíčové závěry
+# یاد رکھنے والی باتیں
 
-#### Propuknutí nákazy v Indii je důsledkem řady samostatných případů jejího zanesení z celého světa.  
+#### ہندوستان میں وباء پوری دنیا میں بہت سے علیحدہ شروعاتوں کا نتیجہ ہے۔  
 <br><br>
-#### V Singapuru urychlily sociologické faktory rozšíření na základě jednoho případu zanesení, z něhož se následně vyvinulo velké ohnisko nákazy. Oproti tomu došlo i k řadě případů zanesení, které se výrazně nerozšířily.
+#### سنگاپور میں، سماجی عوامل نے ایک شروعات کو تیز رفتاری سے بڑھا کر ایک بڑی وباء بنادیا، اس کے برعکس دوسری بہت شروعاتیں ایسی تھیں جو وسیع پیمانے پر نہیں پھیلیں۔
 <br><br>
-#### Ohniska ve většině asijských zemí mají podobnou historii: mnoho samostatných případů zanesení nákazy z jiných zemí, z nichž některé vedly k místnímu šíření. Tento model opakovaného zanášení v průběhu času zdůrazňuje potřebu mezinárodní a regionální spolupráce při účinném zvládání pandemie.
+#### ایشیا میں وباء کی زیادہ تر ممالک کی بھی یہی سرگزشت ہے: دیگر ممالک سے متعدد علیحدہ شروعاتیں، جن میں سے کچھ کے نتیجے میں مقامی طور پر پھیلاؤ ہوا۔ وقت کے ساتھ ساتھ متعدد شروعاتوں کی یہ ترتیب اس وباء کو پوری طرح کنٹرول کرنے کے لیے بین الاقوامی اور علاقائی تعاون کی ضرورت پر زور دیتی ہے۔
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -171,20 +172,20 @@ Toto opakování je jasným důkazem toho, že virus často překračuje mezist�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [سائنسی خراجِ تحسین](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
 
-Chtěli bychom ocenit úžasnou a rychlou práci všech vědců bojujících s touto nákazou.
-Analýzy tohoto typu jsou možné pouze na základě rychlého sdílení genomových dat a metadat.
+ہم ان تمام سائنسدانوں کی حیرت انگیز اور بروقت کاوشوں کو خراجِ تحسین پیش کرتے ہیں جو اس وباء کے معاملے میں شامل ہیں۔
+صرف جینومی ڈیٹا اور میٹا ڈیٹا کے تیز رفتار اشتراک سے ہی اس طرح تجزیے ممکن ہوئے۔
 <br><br>
-Konkrétní sekvence poskytnuté jednotlivými laboratořemi jsou [uvedeny zde](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
+ہر لیباریٹری کے ذریعہ فراہم کردہ خصوصی ترتیبات [یہاں درج ہیں](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
 <br><br>
-Dále děkujeme organizaci GISAID za poskytnutí platformy, přes kterou lze tyto údaje nahrávat a sdílet.
+ہم GISAID کے بھی انتہائی شکرگزار ہیں کہ انہوں نے ایک ایسا پلیٹ فارم مہیا کیا جس کے ذریعے ان ڈیٹا کو اپ لوڈ اور ان کا اشتراک کیا جاسکا۔
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-Chtěli bychom vyjádřit svůj vděk za data shromážděná těmito zdrojovými laboratořemi:
+ہم ان ابتدائی لیبز کی جانب سے جمع کردہ ڈیٹا کے لیے بھی شکر گزار ہیں:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres

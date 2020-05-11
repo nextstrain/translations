@@ -1,5 +1,5 @@
 ---
-title: Genomová analýza šíření nemoci COVID-19. Situační zpráva ze dne 8. 5. 2020.
+title: Genomic na pagsusuri sa pagkalat ng COVID-19. Ulat sa sitwasyon 2020-05-08.
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -17,12 +17,13 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: "Zajišťuje společnost Google"
+translators: "Inilaan ng Google"
 translatorLinks: "https://www.google.com"
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
-abstract: "Předkládaná týdenní zpráva využívá k sledování šíření nemoci COVID-19 veřejně dostupné genomové údaje. Tento týden se zaměříme na situaci v Asii. Popíšeme řadu oddělených, samostatných případů zanesení nákazy do Indie, souvislosti týkající se propuknutí nákazy mezi migrujícími pracovníky v Singapuru a převažující charakter mezinárodního šíření po regionu."
+
+abstract: "Ang lingguhang report na ito ay gumagamit ng genomic na datos na ibinahagi sa publiko upang subaybayan ang pagkalat ng COVID-19. Sa linggong ito, nakatuon kami sa Asya. Nag-uulat kami ng maraming magkakahiwalay at independiyenteng pagpasok sa India; konteksto sa paglaganap ng sakit sa mga migranteng manggagawa sa Singapore; at paglaganap ng pandaigdigang pagkalat sa buong rehiyon."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -30,135 +31,135 @@ abstract: "Předkládaná týdenní zpráva využívá k sledování šíření 
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Obsah](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Talaan ng mga Nilalaman](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Výchozí zdroje](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=2).     
-* [O těchto údajích](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=3).  
-* [Původ epidemie v Indii](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=4).  
-* [Pozadí opětovného nárůstu počtu případů v Singapuru](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=5).  
-* [Zanášení nákazy do Malajsie](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=6).  
-* [Časté šíření přes mezistátní hranice](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=7).    
-* [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/narratives/ncov/sit-rep/cs/2020-05-08?n=8).
+* [Mga sangguniang pinagbatayan](https://nextstrain.org/narratives/ncov/sit-rep/tl/2020-05-08?n=2).     
+* [Tungkol sa data na ito](https://nextstrain.org/narratives/ncov/sit-rep/tl/2020-05-08?n=3).  
+* [Mga pinagmulan ng epidemya sa India](https://nextstrain.org/narratives/ncov/sit-rep/tl/2020-05-08?n=4).  
+* [Pagsasakonteksto ng mga kaso ng pagbalik ng sakit sa Singapore](https://nextstrain.org/narratives/ncov/sit-rep/tl/2020-05-08?n=5).  
+* [Mga Pagpasok sa Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
+* [Madalas na pagkalat nang lampas sa mga pandaigdigang hangganan](https://nextstrain.org/narratives/ncov/sit-rep/tl/2020-05-08?n=7).    
+* [Siyentipikong kredito](https://nextstrain.org/narratives/ncov/sit-rep/tl/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Úvodní přehled
+# Ehekutibong buod
 
-Provedli jsme analýzu 2 226 veřejně dostupných genomů viru způsobujícího nemoc COVID-19. Vzájemným porovnáním těchto virových genomů můžeme popsat, jak původce nemoci COVID-19 postupuje světem a šíří se v rámci různých lokalit. Novinky tohoto týdne se zaměřují na šíření v Asii. Popisujeme v nich následující události:
+Sinuri namin ang 2,226 na genome ng COVID-19 na ibinahagi sa publiko.  Sa pamamagitan ng pagkukumpara sa mga viral na genome na ito sa isa't isa, maaari nating kilalanin kung paano umiikot sa buong mundo at kumakalat sa lokal ang COVID-19. Sa mga update ng linggong ito, nakatuon kami sa kamakailang pagkalat sa buong Asya. I-uulat namin ang:
 
-* Mnoho případů zanesení nákazy z celého světa do Dillí během března 2020  
-* Mnoho oddělených případů zanesení nákazy do Singapuru, z nichž většina se patrně dále nešířila  
-* Rozšíření velkého klastru případů v Singapuru, pravděpodobně vyvolané sociologickými faktory
-* Podobné modely mezinárodního šíření, které zdůrazňují naléhavou potřebu spolupráce
+* Maramihang pagpasok sa Delhi noong Marso 2020 mula sa buong mundo  
+* Maraming magkakahiwalay na pagpasok sa Singapore, kung saan karamihan ay tila hindi na kumalat pa  
+* Paglawak ng malaking kumpol ng mga kaso sa Singapore na malamang na dulot ng mga sosyolohikong dahilan
+* Mga magkakahalintulad na pattern ng pandaigdigang pagkalat na nagpapahiwatig ng kagyat na pangangailangan para sa sama-samang pagsisikap
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [Informační zdroje o nemoci COVID-19](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-Připravili jsme materiály dostupné online, které usnadňují interpretaci zde uváděných dat.
-#### Zdroje na webu Nextstrain  
-* [ZAČNĚTE ZDE: Jak číst fylogenetický strom](https://nextstrain.org/narratives/trees-background/cs).  
-* [Základní informace o koronavirech](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Běžné omyly a mýty](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [Mga Sanggunian sa COVID-19](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+Naghanda kami ng ilang sanggunian na magpapadali sa pagpapaliwanag ng datos na ipinakikita namin sa salaysay na ito.
+#### Mga Sanggunian ng Nextstrain  
+* [MAGSIMULA DITO: Paano basahin ang isang phylogeny](https://nextstrain.org/narratives/trees-background/tl).  
+* [Background sa mga coronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Mga karaniwang maling pagkaunawa](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### Externí zdroje  
-* [Zeptejte se odborníka a časté dotazy](https://covid19.fas.org/l/en).
-* [Situační zprávy Světové zdravotnické organizace (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [Zdroje publikované Střediskem pro kontrolu a prevenci nemocí (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [Informace o nemoci COVID-19 v deníku The New York Times](https://www.nytimes.com/news-event/coronavirus).
+#### Mga Panlabas na Sanggunian  
+* [Tanungin ang Siyentipiko at mga FAQ](https://covid19.fas.org/l/en).
+* [Mga Ulat sa Sitwasyon ng WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Mga Sanggunian ng CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Ang coverage ng NYTimes sa COVID-19](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Poznámka k odběru vzorků](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-V současnosti máme k dispozici sekvence ze vzorků odebraných v 28 zemích v Asii. To je neuvěřitelný úspěch – sekvenování neznámého, velkého RNA viru uprostřed pandemie je obtížné a lze jej provést pouze díky neskutečné práci a včasnému sdílení dat vědci a lékaři z celého světa.
+# [Isang paalala sa sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
+Kasalukuyan kaming ay mga sequence mula sa mga sample na kinuha sa 28 bansa sa Asya. Ito ay isang kahanga-hangang katuparan -- ang pag-sequence sa hindi kilala at malaking RNA virus sa gitna ng isang pandemya ay mahirap, at posible lamang sa pamamagitan ng kahanga-hangang pagsisikap at napapanahong pagbabahagi ng datos ng mga siyentipiko at doktor sa buong mundo.
 <br><br>
-I když nám tato data umožňují vyvodit mnoho užitečných charakteristik propuknutí nákazy a sledovat její šíření v reálném čase, je důležité zdůraznit, že naše závěry jsou limitovány dostupnými údaji.
+Habang pinahihintulutan kami ng datos na ito na ipaliwanag ang maraming kapaki-pakinabang na katangian ng paglaganap ng sakit at aktwal na subaybayan ang pagkalat nito, mahalagang bigyang-diin na limitado ang aming mga konklusyon ayon sa magagamit na datos.
 <br><br>
-Mapa například ukazuje relativně málo sekvencí ze Středního Východu. Důvodem rozhodně není to, že by se nemoc COVID-19 snad v těchto oblastech nešířila nebo že by zjištěné případy nebyly natolik zásadní, abychom se jim snažili porozumět. Z těchto oblastí především nemáme k dispozici dostatečné množství údajů. Velikost jednotlivých kruhů na mapě tedy neoznačuje skutečný rozsah nákazy, ale spíše kolik dat je aktuálně z dané oblasti k dispozici.
+Halimbawa, ipinakikita ng mapa ang napaka-kakaunting sequences mula sa Gitnang Silangan. Ito ay HINDI dahil ang COVID-19 ay hindi umiikot sa mga lugar na ito, o ang mga kasong ito ay hindi mahalagang maunawaan; sa halip, wala lang kaming gaanong datos mula sa mga lugar na ito. Ang sukat ng bawat bilog sa mapa ay nagpapahiwatig kung gaano karaming datos ang kasalukuyang magagamit mula sa lugar na iyon, kaysa sa tunay na sukat ng paglaganap ng sakit.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Mnoho samostatných případů zanesení nákazy do Dillí během března](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+# [Maraming magkakahiwalay na pagpasok sa Delhi noong Marso](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
-Mezi 1. březnem a 15. dubnem bylo v metropolitní oblasti Dillí odebráno a sekvenováno 38 virových genomů (viz zde).
+Sa pagita ng Marso 1-Abril 15, 38 viral genome mula sa lugar ng Delhi ay ginawang sample at pinagsunod-sunod (ipinakita rito).
 <br><br>
-Uprostřed stromu vidíme velký klastr úzce příbuzných případů. To odpovídá předpokladu o jediném případu zanesení, po kterém následovalo šíření mezi místním obyvatelstvem.
+Sa gitna ng puno, makikita natin ang malaking kumpol ng magkakalapit na nauugnay na mga kaso. Ito ay tumutugma sa isahang pagpasok, na sinundan ng lokal na pagkalat sa komunidad.
 <br><br>
-Nesmíme však zapomenout vzít v úvahu všechny souvislosti tohoto klastru.  
-Po celém stromu vidíme také roztroušený výskyt mnoha dalších malých klastrů a ojedinělých případů, které představují samostatné případy zanesení nákazy z celého světa.
-Nemáme dostatek údajů k tomu, abychom mohli říci, co následovalo po těchto dalších případech zanesení – zda nebo jak dalece se rozšířily. Můžeme však prohlásit, že zmíněný velký klastr případů představuje pouze část celého příběhu.
+Gayunman, mahalagang isaalang-alang ang konteksto ng kumpol na ito.  
+Nakakalat sa buong puno, nakikita rin namin ang maraming iba pang maliliit na kumpol at magkakahiwalay na kaso, na kumakatawan sa magkakahiwalay na pagpasok mula sa buong mundo.
+Wala kaming sapat na datos upang masabi kung anong naging kasunod ng iba pang pagpasok na ito -- kung o paano sila kumakalat. Subalit, masasabi namin na ang malaking kumpol ng mga kaso ay bahagi lang ng kuwento.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Pozadí opětovného nárůstu počtu případů nákazy virem SARS-CoV-2 v Singapuru](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [Pagsasakonteksto ng pagbalik ng SARS-CoV-2 sa Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
-Během posledních 10 týdnů byl virus SARS-CoV-2 zanesen do Singapuru mnohokrát a z různých míst.
+Sa nakaraang 10 linggo, ang SARS-CoV-2 ay pumasok na sa Singapore nang maraming bses, mula sa iba't ibang lokasyon.
 <br><br>
-Většina těchto případů zanesení vedla k omezenému dalšímu přenosu (jednotlivé případy nebo malé klastry na stromě).
+Karamihan sa mga pagpasok na ito ay nagdulot ng limitadong pagsulong ng transmisyon (isahang kaso o maliliit na kumpol sa puno).
 <br><br>
-Uprostřed stromu však vidíme jediný případ zanesení, který vedl k rozsáhlému následnému šíření.
-Tento velký kompaktní klastr je nejpříbuznější se vzorky z Indie a Filipín.
+Gayunman, sa gitna ng puno, makikita natin ang isahang pagpasok na humantong sa malawak na pagsulong ng transmisyon.
+Ang malaki at magkakakonektang kumpol na ito ay pinakamalapit na nauugnay sa mga sample mula sa India at sa Pilipinas.
 <br><br>
-Tato pozorování jsou v souladu s [nedávnými zprávami](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) o tom, že se virus v Singapuru rychle šíří mezi zranitelnými skupinami migrujících pracovníků žijících ve stísněných podmínkách.
+Kapareho ito ng [kamakailang mga ulat](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) na ang virus ay mabilis na kumakalat sa mahihina at nakakulong na mga populasyon ng mga migranteng manggagawa sa Singapore.
 <br><br>
-Tento závěr ukazuje, jak je rozsah šíření v rámci populace po prvotním zanesení nákazy závislý na sociologických faktorech, a zdůrazňuje, proč je zásadně důležité chránit zranitelné skupiny.
+Inilalarawan nito kung gaano kalawak na kumakalat ang isang pagpasok sa loob ng isang populasyon depende sa mga sosyolohikal na dahilan at binibigyang-diin kung napakahalagang protektahan ang mahihinang grupo.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Opakované zanesení nákazy do Malajsie](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [Paulit-ulit na mga pagpasok sa Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
-Na webu Nextstrain máme 14 sekvencí z Malajsie. Jednotlivé vzorky byly odebrány od konce ledna do konce března. Tyto sekvence se shlukují s několika různými klady, z nichž každý se vyskytoval většinou v různých asijských zemích. To napovídá, že do Malajsie byla nákaza z okolního regionu zanesena opakovaně.
+Mayroon kaming 14 na sequence mula sa Malaysia sa Nextstrain, na sinampol sa pagitan ng mga huling araw ng Enero at mga huling araw ng Marso. Ang mga sequence na ito ay nakagrupo sa ilang magkakaibang clade, kung saan ang bawat isa ay kadalasang umiikot sa iba pang mga bansa sa Asya. Iminumungkahi nito na nagkaroon ng maramihang pagkasok mula sa nakapaligid na rehiyon sa Malaysia.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Regionální šíření po celé Asii](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+# [Panrehiyong pagkalat sa buong Asya](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
-Podobný model se opakuje v řadě dalších zemí regionu: vícenásobné zanesení nákazy, přičemž většina případů zůstala dobře izolovaných, ale několik málo spustilo místní přenos. Doporučujeme vám, abyste si data prozkoumali sami v části „Explore the Data Yourself“. Jak je zde ukázáno, podobné charakteristické struktury budete pozorovat v Jordánsku, Japonsku, Thajsku a ve Spojených arabských emirátech. Obdobné struktury vidíme také v Kuvajtu, Gruzii, Tchaj-wanu a Vietnamu.
+Naulit ang kaparehong pattern sa maraming iba pang bansa sa rehiyon: maramihang pagpasok, kung saan marami ay mahusay na nakontrol, subalit may iilang pinagsimulan ng lokal na transmisyon. Hinihimok ka namin na "Ikaw Mismo ang Magsuri sa Datos". Katulad ng ipinakikita rito, maoobserbahan mo ang katulad na mga pattern sa Jordan, Japan, Thailand, at sa United Arab Emirates. Makakakita rin ng katulad na mga pattern sa Kuwait, Georgia, Taiwan, at Vietnam
 <br><br>
-Toto opakování je jasným důkazem toho, že virus často překračuje mezistátní hranice. Abychom tedy mohli epidemii účinně kontrolovat v jedné zemi, musíme pomocí koordinovaného mezinárodního úsilí dostat pandemii pod kontrolu ve všech zemích.
+Ang hindi pagbabago ng pattern na ito ay matibay na ebidensya na ang virus ay madalas na tumatawid sa mga pandaigdigang hangganan. Kung gayon, upang epektibong makontrol ang epidemya sa alinmang bansa, dapat nating kontrolin ang pandemya sa lahat ng bansa sa pamamagitan ng koordinadong pandaigdigang pagsisikap.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [Co můžete udělat vy](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
-#### ... jako běžný občan
-* Důsledně omezovat společenský kontakt, zejména pokud spadáte do ohrožené skupiny.
-* Nezapomínejte, že i když vy sami do silně ohrožené skupiny nepatříte, řada lidí kolem vás ano. Dodržováním těchto opatření chráníte ostatní.
-* Myjte si ruce, „jako byste právě nakrájeli silně pálivou papriku a chystali se vyměnit si kontaktní čočky“.  
-* Co nejvíce se zdržujte doma – zejména pokud jste nemocní. Pořiďte si zásoby pro případ, že budete muset zůstat v domácí karanténě.  
-* Jste-li zaměstnavatel, nabídněte všem zaměstnancům, u kterých je to možné, práci z domova.
+# [Ano ang maaari mong gawin](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+#### ...bilang indibidwal
+* Isagawa ang mahigpit na social distancing, lalo na kung ikaw ay nasa mahihinang grupo.
+* Tandaan na kahit hindi ka lubhang mahina, maraming taong nakapaligid sa iyo; sundin ang mga kasanayang ito upang protektahan ang iba.
+* Maghugas ng iyong mga kamay "na parang nagtadtad ka ng sili at kailangan mong magpalit ng contact lens."  
+* Manatili sa loob ng bahay hangga't maaari -- lalo na kung ikaw ay may sakit; maghanda ng mga karagdagang supply sakaling kailangan mong mag-self-quarantine.  
+* Kung isa kang employer, himukin ang mga empleyado mo na magtrabaho sa tahanan kung posible.
 
-#### ... jako představitel veřejné moci  
-* Zpřístupněte bezplatné a široce dostupné testování.  
-* Zaveďte přísná pravidla omezení společenského kontaktu (tzv. social distancing).  
-* Financujte a zavádějte rozsáhlé projekty trasování kontaktů.  
-* Podpořte finančně osoby postižené pravidly omezení společenského kontaktu.
+#### ...bilang isang opisyal  
+* Gawing available ang pagsusuri nang libre at malawakan.  
+* Maglagay ng matatag na mga pamamaraan ng social distancing sa lugar.  
+* Pondohan ang at magpatupad ng puspusang mga pagsisikap sa contact tracing.  
+* Pinansiyal na suportahan ang mga taong naapektuhan ng mga hakbang sa social distancing.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Klíčové závěry
+# Mga susing impormasyon na dapat tandaan
 
-#### Propuknutí nákazy v Indii je důsledkem řady samostatných případů jejího zanesení z celého světa.  
+#### Ang paglaganap ng sakit sa India ay ang resulta ng maraming magkakahiwalay na pagpasok mula sa buong mundo.  
 <br><br>
-#### V Singapuru urychlily sociologické faktory rozšíření na základě jednoho případu zanesení, z něhož se následně vyvinulo velké ohnisko nákazy. Oproti tomu došlo i k řadě případů zanesení, které se výrazně nerozšířily.
+#### Sa Singapore, pinabilis ng mga sosyolohikal na dahilan ang paglawak ng isang pagpasok upang maging malawak na paglaganap ng sakit, salungat sa maraming pagpasok sa bansa na hindi kumalat nang malawakan.
 <br><br>
-#### Ohniska ve většině asijských zemí mají podobnou historii: mnoho samostatných případů zanesení nákazy z jiných zemí, z nichž některé vedly k místnímu šíření. Tento model opakovaného zanášení v průběhu času zdůrazňuje potřebu mezinárodní a regionální spolupráce při účinném zvládání pandemie.
+#### Sa Asya, karamihan sa mga paglaganap ng sakit ay may katulad na kasaysayan: maraming magkakahiwalay na pagpasok mula sa ibang bansa, kung saan ang ilan ay nagresulta sa lokal na pagkalat. Ang pattern na ito ng maramihang pagpasok sa paglipas ng panahon ay nagbibigay-diin sa pangangailangan ng pandaigdigan at panrehiyong pagtutulungan para sa ganap na pagkontrol sa pandemya.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -171,20 +172,20 @@ Toto opakování je jasným důkazem toho, že virus často překračuje mezist�
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Siyentipikong kredito](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
 
-Chtěli bychom ocenit úžasnou a rychlou práci všech vědců bojujících s touto nákazou.
-Analýzy tohoto typu jsou možné pouze na základě rychlého sdílení genomových dat a metadat.
+Nais naming kilalanin ang kahanga-hanga at napapanahong pagsisikap na isinagawa ng lahat ng siyentipikong sangkot sa paglaganap ng sakit na ito.
+Tanging sa pamamagitan ng mabilis na pagbabahagi ng mga genomic na datos at metadata nagiging posible ang mga pagsusuring tulad nito.
 <br><br>
-Konkrétní sekvence poskytnuté jednotlivými laboratořemi jsou [uvedeny zde](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
+Ang mga ispesipikong sequence na inilaan ng bawat laboratoryo ay [nakalista rito](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
 <br><br>
-Dále děkujeme organizaci GISAID za poskytnutí platformy, přes kterou lze tyto údaje nahrávat a sdílet.
+Lubos din kaming nagpapasalamat sa GISAID sa paglalaan ng platform kung saan maaaring i-upload at ibahagi ang mga datos na ito.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-Chtěli bychom vyjádřit svůj vděk za data shromážděná těmito zdrojovými laboratořemi:
+Nagpapasalamat kami sa mga datos na nakalap ng mga laboratoryong pinanggalingan na ito:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
