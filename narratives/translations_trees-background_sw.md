@@ -1,5 +1,5 @@
 ---
-title: How to interpret phylogenetic trees
+title: Jinsi ya kufasiri michoro ya kimatawi ya kifilojenetiki
 authors:
   - Emma Hodcroft
   - Nicola Müller
@@ -15,9 +15,9 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; Chan Zuckerberg Initiative, CA, USA"
-date: "2020 March 13"
+date: "Machi 13, 2020"
 dataset: "https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country"
-abstract: "This narrative explains how to read and interpret the phylogenetic trees that inform genomic epidemiology. This website is optimized for display on desktop browsers."
+abstract: "Makala haya yanafafanua jinsi ya kusoma na kufasiri michoro ya kimatawi ya kifilojenetiki inayotumika katika uchunguzi wa kijeni kuhusu kuzuka na kusambaa kwa magonjwa. Tovuti hii inaweza kufunguliwa kwenye vivinjari vya kompyuta."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -25,18 +25,18 @@ abstract: "This narrative explains how to read and interpret the phylogenetic tr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Table of Contents](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
+# [Yaliyomo](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
 
-* [How are transmission networks related to phylogenetic trees](https://nextstrain.org/narratives/trees-background?n=2)?  
-* [How do I read a tree](https://nextstrain.org/narratives/trees-background?n=3)?  
-* [How does the "diversity" panel relate to the tree](https://nextstrain.org/narratives/trees-background?n=4)?   
-* [Measuring differences with genetic divergence](https://nextstrain.org/narratives/trees-background?n=5).  
-* [Measuring differences over time](https://nextstrain.org/narratives/trees-background?n=6).  
-* [Dating the start of an outbreak](https://nextstrain.org/narratives/trees-background?n=7)?  
-* [How should I interpret traits (colors) on the tree](https://nextstrain.org/narratives/trees-background?n=8)?  
-* [How does the map relate to the tree](https://nextstrain.org/narratives/trees-background?n=9)?  
-* [Advanced reading: uncertainty in trees](https://nextstrain.org/narratives/trees-background?n=10).  
-* [About the dataset](https://nextstrain.org/narratives/trees-background?n=11).  
+* [Je, njia za maambukizi zinahusiana vipi na michoro ya kimatawi ya kifilojenetiki](https://nextstrain.org/narratives/trees-background?n=2)?  
+* [Je, mchoro wa kimatawi wa kifilojenetiki unafasiriwa vipi](https://nextstrain.org/narratives/trees-background?n=3)?  
+* [Je, sehemu ya "utofauti" inahusiana vipi na mchoro wa kimatawi](https://nextstrain.org/narratives/trees-background?n=4)?   
+* [Kupima utofauti kwa kutumia mabadiliko ya kijeni](https://nextstrain.org/narratives/trees-background?n=5).  
+* [Kupima utofauti baada ya muda fulani](https://nextstrain.org/narratives/trees-background?n=6).  
+* [Ugonjwa ulilipuka lini](https://nextstrain.org/narratives/trees-background?n=7)?  
+* [Je, napaswa kufasiri vipi sifa (rangi) kwenye mchoro wa kimatawi](https://nextstrain.org/narratives/trees-background?n=8)?  
+* [Je, mchoro wa visanduku unahusiana vipi na ule wa kimatawi](https://nextstrain.org/narratives/trees-background?n=9)?  
+* [Kufasiri kwa kina: utata kwenye michoro ya kimatawi](https://nextstrain.org/narratives/trees-background?n=10).  
+* [Maelezo kuhusu  seti ya data  
 
 <!-- No right-side text -->
 
@@ -44,22 +44,22 @@ abstract: "This narrative explains how to read and interpret the phylogenetic tr
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [How are transmission networks related to phylogenetic trees?](https://nextstrain.org/ncov/2020-03-11?d=tree&p=full)
-Pathogens spread through rapid replication in one host followed by transmission to another host. An epidemic can only take off when one infection results in more than one subsequent infections.
+# [Je, njia za maambukizi zinahusiana vipi na michoro ya kimatawi ya kifilojenetiki?](https://nextstrain.org/ncov/2020-03-11?d=tree&p=full)
+Virusi husambaa kwa kujirudufisha haraka katika mwili wa mtu kisha vikasambazwa kwa mwingine. Mlipuko wa ugonjwa hutokea tu pale ambapo mtu mmoja aliyeambukizwa anapelekea kuwepo kwa zaidi ya kisa kimoja cha maambukizi.
 <br><br>
-As the pathogen replicates and spreads, its genome needs to be replicated many times and random mutations (copying mistakes) will accumulate in the genome; this is normal. Such random mutations can help to track the spread of the pathogen and learn about its transmission routes and dynamics.
+Kadri virusi vinavyojirudufisha na kusambaa, jeni yake inahitaji kuzalishwa mara nyingi na mabadiliko tofauti ya DNA (ikirudufisha kasoro) yatatokea kwenye jeni; hii ni hali ya kawaida. Mabadiliko haya tofauti ya DNA yanaweza kusaidia kufuatilia kusambaa kwa virusi na kupata maelezo zaidi kuhusu hali na njia zake za kusambaa.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# An example
+# Kwa mfano
 <div width="50%" margin="auto">
 <p>
 <img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
 </p>
 <p>
-The illustration above shows a sketch of a transmission tree. Each circle represents a case (infected person), with horizontal lines indicating the duration of their infection. Connected cases represent transmissions from one person to the next.
+Mchoro ulio hapa juu unaonyesha mfano wa mchoro wa kimatawi wa maambukizi. Kila duara linawakilisha kisa kimoja (mtu aliyeambukizwa), nayo mistari mlalo inaonyesha kipindi cha maambukizi. Visa vinavyohusiana vinawakilisha maambukizi kutoka kwa mtu mmoja hadi mwingine.
 <br> <br>
-Here, we see the full picture of the transmission tree. In practice, however, only a subset of cases are sampled (blue); the transmission tree is unknown and typically only rough estimates of case counts are available. Genome sequences allow us to infer parts of the transmission tree. In this example, three mutations (little diamonds) are indicated on the tree. Sequences that have the same mutations are more closely related, so these mutations allow us to group samples into clusters of closely related viruses that belong to the same transmission chains.
+Hapa, tunaona picha kamili ya mchoro wa kimatawi wa maambukizi. Katika hali halisi, hata hivyo, sampuli (samawati) hujumuisha visa vichache tu; mchoro wa kimatawi wa maambukizi haujulikani na kawaida makadirio ya idadi ya visa vya maambukizi ndio hutumika. Mfuatano wa kijeni hutuwezesha kubaini sehemu za mchoro wa kimatawi wa maambukizi. Katika mfano huu, mabadiliko tatu ya DNA (vijialmasi) yanaashiriwa kwenye mchoro wa kimatawi. Mifuatano yenye mabadiliko sawa ya DNA ina uhusiano wa karibu zaidi, hivyo mabadiliko haya ya DNA yanatuwezesha kuweka sampuli katika makundi ya virusi vinavyohusiana kwa karibu ambavyo mambukizi yake yanafanana.
 </p>
 </div>
 ```
@@ -68,31 +68,31 @@ Here, we see the full picture of the transmission tree. In practice, however, on
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [How do I read a tree?](https://nextstrain.org/ncov/2020-03-11)
+# [Je, mchoro wa kimatawi wa kifilojenetiki unafasiriwa vipi?](https://nextstrain.org/ncov/2020-03-11)
 
-The x axis of a tree represents the degree of difference (in time or genetic divergence -- we'll get to that next). The y axis just helps spread things out so we can see everything; it doesn't have any units of measurement.
+Mstari mlalo kwenye mchoro unawakilisha kiwango cha utofauti (baada ya muda fulani au mabadiliko ya kijeni -- tutaujadili). Mstari wima husaidia tu katika mpangilio ili vipengee vyote vionekane; hauna vipimo vyovyote.
 <br><br>
-The tips of the tree represent samples (i.e., blue cases from the last slide). The internal nodes represent cases that weren't sampled, but that we think were the source of all the cases descendant from them (i.e., the red nodes from the last slide). These relationships are inferred by analyzing the pattern of mutations observed in the sampled cases.
+Ncha za mchoro zinawakilisha sampuli (yaani, visa vya samawati kwenye slaidi iliyopita). Vinundu vya ndani vinawakilisha visa ambavyo havikujumuishwa kwenye sampuli, lakini vinaaminika kuwa vyanzo vya visa vyote vilivyo chini yake (yaani, vinundu vyekundu kwenye slaidi iliyopita). Uhusiano huu unabainishwa kwa kuchanganua mkondo wa mabadiliko ya DNA unaoonekana kwenye sampuli zilizopimwa.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-## An example
+## Kwa mfano
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
 <p>
-Above, we see an illustration with a phylogenetic tree on the left, where mutations are shown as colored circles. On the right are the corresponding sequences, also with mutations shown as colored circles. We can see that sequences that share the same mutations group together. When sequences appear linked by a flat vertical line, like A and B, this means there are no differences between them – their sequences are identical.
+Hapa juu, tunaona mchoro pamoja na mchoro wa kimatawi wa kifilojenetiki upande wa kushoto, ambapo mabadiliko ya DNA yanaonyeshwa kwa kutumia duara nyekundu. Upande wa kulia kuna mifuatano husika, pia mabadiliko ya DNA yanaonyeshwa kwa kutumia maduara yenye rangi. Tunaweza kuona kuwa mifuatano yenye mabadiliko sawa ya DNA inawekwa katika kikundi kimoja.Wakati mifuatano imeunganishwa na mstari wima, kama vile A na B, hii inamaanisha kuwa haina tofauti – mifuatano yao inafanana.
 <br><br>
-When a sequence sits on a long line on its own, like C or E, this means it has unique mutations not found in other sequences. The longer the line, the more mutations.
-A and B also have unique mutations (the green circle) not shared by the other sequences, but they are identical to each other.
+Wakati mfuatano uko kwenye mstari mrefu kivyake, kama vile C au E, hii inamaanisha kuwa mabadiliko yake ya DNA ni maalum na hayafanani na ya mfuatano mwingine wowote. Kadri mstari ulivyo mrefu ndivyo mabadiliko yalivyo zaidi.
+A na B pia zina mabadiliko maalum (mduara wa kijani) tofauti na mifuatano mingine, lakini zinafanana.
 <br><br>
-Based on this tree, we would conclude that A & B closely related to each other, and D & E are closely related to each other. A & B are more closely related to C than they are to D & E.
+Kulingana na mchoro huu wa kimatawi, tunaweza kusema kuwa A na B zinahusiana kwa karibu, nayo D na E zinahusiana kwa karibu. A na B zinahusiana kwa karibu zaidi na C ikilinganishwa na zinavyohusiana na D na E.
 </p>
 
-### Further reading  
-* [How to read a tree: tutorial from Arctic Network](https://artic.network/how-to-read-a-tree.html).  
-* [How to read a tree: video from Khan academy](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
+### Maelezo zaidi  
+* [Jinsi ya kufasiri mchoro wa kimatawi: mafunzo kutoka Arctic Network](https://artic.network/how-to-read-a-tree.html).  
+* [Jinsi ya kufasiri mchoro wa kimatawi: video kutoa shule ya Khan](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
 
 </div>
 
@@ -102,19 +102,19 @@ Based on this tree, we would conclude that A & B closely related to each other, 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [How does the "diversity" panel relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,entropy&c=gt-ORF1b_314&legend=open)
+# [Je, sehemu ya "utofauti" inahusiana vipi na mchoro wa kimatawi?](https://nextstrain.org/ncov/2020-03-11?d=tree,entropy&c=gt-ORF1b_314&legend=open)
 
-Let's take a look at the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared. Just as on the last page, we built an alignment of these viral sequences (you can see how all of the analyses mentioned here were done [on GitHub](https://github.com/nextstrain/ncov)).
+Hebu tuangalie mifuatano 169</tag> ya kwanza ya SARS-CoV-2 (virusi vinavyosababisha COVID-19) ambayo imetolewa kwa umma. Sawa na ukurasa uliotangulia, tulipanga mifuatano hii ya virusi (unaweza kuona jinsi uchunguzi wote uliotajwa hapa ulivyofanywa [kwenye GitHub](https://github.com/nextstrain/ncov)).
 <br><br>
-Here we're displaying the phylogenetic tree above a bar-chart showing the variation (i.e. mutations) in the genome.
-Without these mutations we couldn't build the tree, so the two are intimitely connected.
+Hapa tunaonyesha mchoro wa kimatawi wa kifilojenetiki juu ya chati ya miraba inaoonyesha tofauti (yaani, mabadiliko ya DNA) za kijeni.
+Bila mabadiliko haya ya DNA hatungeweza kupata mchoro wa kimatawi, hivyo hizi mbili zinahusiana kwa karibu sana.
 <br><br>
-In this "diversity" panel, the horizontal axis is each site in the viral genome (all thirty thousand or so of them!).
-The vertical axis indicates how much variability there is at each site.
+Katika sehemu hii ya "utofauti", mstari mlalo unawakilisha DNA ya virusi (zote takriban elfu thelathini!).
+Mstari wima unawakilisha tofauti iliyopo kila upande.
 <br><br>
-We've coloured the tree according to one of these mutations -- in this case codon 314 in the gene "ORF1b".
-There's no a priori reason to think this mutation is a functional mutation (i.e. conferring any biological change).
-It is precisely mutations such as this which we use to define the relationships between sequences and construct the tree.
+Tumetumia rangi kwenye mchoro kulingana na mojawapo ya mabadiliko haya ya DNA -- hapa, kodoni 314 kwenye jeni "ORF1b".
+Hakuna sababu yoyote kuonyesha kuwa mabadiliko haya ya DNA yanahusisha kuwepo kwa chembechembe mpya (yaani kusababisha mabadiliko ya kibiolojia).
+Mabadiliko ya aina hii haswa ndiyo hutumika kubaini uhusiano kati ya mifuatano na kuzalisha mchoro wa kimatawi.
 
 <!-- There is NO right-side text -->
 
@@ -122,63 +122,63 @@ It is precisely mutations such as this which we use to define the relationships 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Measuring differences with genetic divergence](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
-This is a phylogeny of the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared.
+# [Kupima utofauti kwa kutumia mabadiliko ya kijeni](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
+Huu ni uchunguzi wa kifilojenetiki wa mifuatano 169</tag> ya kwanza ya SARS-CoV-2 (virusi vinavyosababisha COVID-19) ambayo imetolewa kwa umma.
 <br><br>
-Here, the horizontal axis indicates divergence, which is the number of changes (mutations) in the genome, relative to the root of the tree (i.e., the start of the outbreak).
-Some sequences may have zero mutations -- meaning they are all identical to the root (center) of the tree.
-Other viruses have between one and eleven mutations.
+Hapa, mstari mlalo unaonyesha mabadiliko, yaani idadi yake (mabadiliko ya DNA) kwenye jeni, ikilinganishwa na mzizi wa mchoro (yaani, mwanzo wa mlipuko).
+Huenda baadhi ya mifuatano haina mabadiliko -- kumaanisha yote inafanana hadi kwenye mzizi  (katikati) wa mchoro.
+Virusi vingine vina kati ya mabadiliko moja hadi kumi na moja.
 <br><br>
-At the moment, this may not look much like a ‘tree’. Many of the sequences are identical – they sit together on vertical lines like A and B (some are on the left-most part of the tree).
-Others have unique or shared mutations and so sit on lines, or ‘branches’, going to the right.
-You can see how many mutations a branch has by hovering your mouse over it.
+Kwa sasa, huenda mchoro huu haufanani na wa ‘kimatawi’. Mifuatano mingi inafanana – ipo pamoja kwenye mistari wima kama vile A na B (baadhi yao ipo kushoto mwa mchoro wa kimatawi).
+Nyingine zina mabadiliko sawa au tofauti na hivyo zipo kwenye mistari, au ‘matawi’, upande wa kulia.
+Unaweza kuona idadi ya mabadiliko yaliyo kwenye kila tawi kwa kuelea kipanya chako juu ya tawi.
 
 <!-- There is NO right-side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Measuring differences over time](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
-We can also visualize how the virus has spread over time by using the sampling date as the x axis.
-Here, the x axis represents the sampling date of each virus. The tips' positions reflect the date those samples were taken. The dates of internal nodes -- the "missing cases" -- are inferred based on when their descendants were sampled and the rate at which the virus mutates.
+# [Kupima utofauti baada ya muda fulani](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
+Tunaweza pia kuona jinsi virusi vinavyosambaa baada ya muda fulani kwa kutumia tarehe ya sampuli kuwa mstari mlalo.
+Hapa, mstari mlalo unawakilisha tarehe ya sampuli ya kila virusi. Ncha zinaonyesha tarehe ambapo sampuli zilichukuliwa. Tarehe za vinundu vya ndani -- "visa ambavyo havijajumuishwa" -- vinabainishwa kulingana na wakati ambapo sampuli zilizo chini yake zilipimwa na kasi ya kubadilika kwa virusi.
 <br><br>
-Notice how many sequences that previously sat in a line (indicating identical genomes) are now spread apart in time.
-This happens when the rate at which the virus mutates is slightly slower than the rate at which is spreads.
-You can scroll up and down between the previous slide and this one, to see how the tree changes.
+Angalia idadi ya mifuatano ambayo awali ilikuwa kwenye mstari (kuonyesha kuwa inafanana kijeni) lakini sasa inaendelea kusonga baada ya muda.
+Hili hutokea wakati kasi ya virusi kubadilika iko chini kidogo ikilinganishwa na kasi yake ya kusambaa.
+Unaweza kusogeza juu na chini kati ya slaidi hii na iliyotangulia ili uone jinsi mchoro wa kimatawi unavyobadilika.
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Dating the start of an outbreak](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
+# [Kubaini ni lini ugonjwa ulizuka](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
 
-We can also use genomics to assign a date to when an outbreak started, even if this was before we realized it was happening.
-Because we can assign dates to each sample and node in the tree, we can use this to infer the date of the 'root' of the tree. This represents the "most recent common ancestor" of all the SARS-CoV-2 sequences we have so far. E.g., your grandparents are the "most recent common ancestors" of you and all of your first cousins.
+Tunaweza pia kutumia jeni kubaini tarehe ambapo mlipuko wa ugonjwa ulizuka, hata ikiwa ulizuka kabla bila kugunduliwa.
+Kwa sababu unaweza kuweka tarehe ya kila sampuli na kijinundu kwenye mchoro wa kimatawi, tunaweza kutumia maelezo haya kubaini tarehe ya 'mzizi' wa mchoro. Hii inawakilisha "babu wa kwanza kwa wote" wa mifuatano yote ya SARS-CoV-2 ambayo tunayo kwa sasa. Mf, babu na nyanya yako ndio "babu wa kwanza kwa wote" kwako na binamu wako wote wa kwanza.
 <br><br>
-If you mouse over the leftmost vertical line, you can see that the inferred start date is between mid-November and mid-December of 2019 for this particular outbreak.
+Ukieleza kipanya chako kwenye mstari wima ulio kushoto kabisa, unaweza kuona kuwa tarehe iliyobainishwa ya kuzuka kwa ugonjwa huu ni kati ya katikati mwa Novemba na katikati mwa Desemba mwaka wa 2019.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [How should I interpret traits (colors) on the tree?](https://nextstrain.org/ncov/2020-03-11)
-Phylogenetic trees often contain additional information, such as the location of each sample collection. From this, we can infer the locations of internal nodes (hypothesized intermediate, unsampled cases) using mathematical models. This can help us understand how the virus is moving from one location to the next.
+# [Je, napaswa kufasiri vipi sifa (rangi) kwenye mchoro wa kimatawi](https://nextstrain.org/ncov/2020-03-11)
+Michoro ya kimatawi ya kifilojenetiki mara nyingi huwa na maelezo ya ziada, kama vile mahali ambapo sampuli ilichukuliwa. Kutokana na haya, tunaweza kubaini mahali palipo vijinundu vya ndani (visa vya kati ambavyo havijathibitishwa na sampuli zake hazijachukuliwa) kwa kutumia mbinu za ukokotoaji. Hii inaweza kusaidia kuelewa jinsi virusi vinavyosambaa kutoka eneo moja hadi nyingine.
 <br><br>
-Interpreting these should, however, be done with caution, as the sampling and sequencing or lack thereof can significantly influence the interpretation.
+Hata hivyo, unapaswa kufasiri data hii kwa uangalifu, kwani kuwepo au kutokuwepo kwa sampuli na mifuatano kunaweza kuathiri ufasiri kwa kiasi kikubwa.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# An example
+# Kwa mfano
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
 </p>
 <p>
-On the left, we show a fully sampled phylogenetic tree, with samples from two different locations denoted by orange and blue. As we walk down the tree, we observe three instances where the color (location) switches from orange to blue. From this, we would conclude that there were three different introductions from the orange location to the blue location.
+Kushoto, tunaonyesha mchoro wa kimatawi wa kifilojenetiki ambao sampuli zote zimepimwa, kwa kutumia sampuli kutoka maeneo mawili tofauti yanayowakilishwa kwa rangi ya machungwa na samawati. Tukisonga chini, tunaona hali tatu ambapo rangi (inayowakilisha mahali) inabadilika kutoka rangi ya machungwa hadi samawati. Kutokana na hili, tunaweza kusema kuwa virusi vimesambazwa katika mara tatu kutoka eneo la rangi ya machungwa hadi eneo la samawati.
 <br><br>
-But, this interpretation relies on sampling: in the middle tree, we've removed one orange sample. We now observe only one switch from orange to blue, suggesting that there was only one introduction into blue that happened much earlier.
+Hata hivyo, ufasiri huu unategemea sampuli: katikati mwa mchoro wa kimatawi tumeondoa sampuli moja ya rangi ya uchungwa. Sasa tunaona rangi ya machungwa ikibadilika kuwa samawati mara moja tu, kuonyesha kuwa kulikuwa na msambao mara moja katika eneo la samawati uliofanyika mapema zaidi.
 <br><br>
-In the last example, we have only one sequence from orange, which could lead us to think that there was one introduction from blue into orange.
+Katika mfano wa mwisho, kuna mfuatano mmoja pekee kutoka eneo la rangi ya machungwa, ambao linaweza kutupelekea kuchukulia kuwa kulikuwa na kisa kimoja cha msambao kutoka eneo la samawati kwenda eneo la rangi ya uchungwa.
 <br><br>
-Thus, while these inferences can be invaluable, they also must be interpreted with caution.
+Hivyo, japo ufasiri huu ni muhimu, sharti uchukuliwe kwa uangalifu sana.
 </p>
 ```
 <!-- ############ SLIDE BREAK ############# -->
@@ -186,22 +186,22 @@ Thus, while these inferences can be invaluable, they also must be interpreted wi
 <!-- This is left-side text -->
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [How does the map relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)
+# [Je, mchoro wa visanduku unahusiana vipi na ule wa kimatawi?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)
 
-Here, we show the tree colored by the location of each sample (and inferred location for each internal node).
-If you click ['Explore the data'](https://nextstrain.org/ncov), you can play an animation of the inferred spread of the virus over the course of the outbreak.
+Hapa, tunaonyesha mchoro pamoja na mahali ambapo kila sampuli ilichukuliwa (na eneo lililobainishwa kwa kila kijinundu cha ndani).
+Ukibofya ['Angalia data'](https://nextstrain.org/ncov), unaweza kucheza uhuishaji wa msambao wa virusi katika kipindi cha mlipuko.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Advanced reading: uncertainty in trees](https://nextstrain.org/ncov/2020-03-11)
-Earlier, we talked about how internal nodes represent _hypothesized_ unsampled cases. In fact, all trees represent _hypotheses_ about how a pathogen has evolved and moved over time. The trees we present on Nextstrain are point estimates -- that is, the version of this history that maximizes the probability of observing the data that we do.
+# [Kufasiri kwa kina: utata kwenye michoro ya kimatawi](https://nextstrain.org/ncov/2020-03-11)
+Awali, tulizungumza kuhusu jinsi vijinundu vya ndani vinawakilisha visa ambavyo _havijathibitishwa_ na sampuli zake hazijachukuliwa Kwa kweli, michoro yote inawakilisha _nadharia tete_ kuhusu jinsi virusi vimebadilika na kusambazwa katika muda fulani. Michoro ya kimatawi tunayotumia kwenye Nextstrain ni ya kukadiria -- yaani, ni data inayoweza kurejelewa kuhusiana na tukio la sasa.
 <br><br>
-However, there is always uncertainty in these estimates. Generally speaking, parts of the tree that are densely sampled are more certain; areas that are sparsely sampled are less certain.
+Hata hivyo, makadirio hawa huwa si sahihi wakati wote. Kawaida, sehemu za mchoro wa kimatawi ambazo sampuli yake ni kubwa zina usahihi zaidi; sehemu ambazo sampuli yake ni ndogo zina usahihi wa chini.
 
 ```auspiceMainDisplayMarkdown
-# An illustration
+# Kielelezo
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Illustration of the uncertainty inherent in tree reconstruction" src="https://github.com/nextstrain/nextstrain.org/raw/c69bfd0750c284ff12f33682f8d82848e13d9e15/static-site/content/help/01-general/figures/hcov_densitree.png"/>
@@ -212,20 +212,20 @@ However, there is always uncertainty in these estimates. Generally speaking, par
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Mchango wa kisayansi](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, but particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Tungependa kutambua kazi nzuri na ya kufaa iliyofanywa na wanasayansi wote wanaohusika katika janga hili, lakini haswa wanaofanya kazi Uchina.
+Uchanganuzi kama huu unawezekana tu kupitia jitihada za kushiriki data na metadata ya kijeni.
 
 <br><br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+Pia tungependa kushukuru [GISAID](https://gisaid.org) kwa kutoa mfumo ambapo data hii inaweza kupakiwa na kutumwa.
 
 <!-- Do not need to translate insitutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Shukran zetu za dhati kwa kupokea data iliyokusanywa na maabara hii iliyohusika:
 
 * Arizona Department of Health Services
 * Auckland Hospital
@@ -353,19 +353,19 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Mchango wa kina wa kisanyansi](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Data hizi zilitumwa kupitia [GISAID](https://gisaid.org).
+Tunawashukuru na tunapongeza juhudi zao.
 
 <br><br>
 
-To the right we give specific sequences shared by each lab.
+Upande wa kulia, tunaoonyesha mifuatano mahsusi ambayo kila maabara ilituma.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Mifuatano ya kijeni ya SARS-CoV-2 ilitumwa vya kutosha na wanasayansi katika maabara hizi zilizohusika:
 
 * Arizona Department of Health Services
 	* USA/AZ1/2020
