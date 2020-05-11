@@ -1,5 +1,5 @@
 ---
-title: How to interpret phylogenetic trees
+title: Cách diễn giải cây phát sinh chủng loại
 authors:
   - Emma Hodcroft
   - Nicola Müller
@@ -15,9 +15,9 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; Chan Zuckerberg Initiative, CA, USA"
-date: "2020 March 13"
+date: "Ngày 13 tháng 3 năm 2020"
 dataset: "https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country"
-abstract: "This narrative explains how to read and interpret the phylogenetic trees that inform genomic epidemiology. This website is optimized for display on desktop browsers."
+abstract: "Bài tường thuật này trình bày cách đọc và diễn giải các cây phát sinh chủng loại để hiểu rõ về dịch tễ học bộ gen. Trang web này được tối ưu hóa để hiển thị trên các trình duyệt dùng cho máy tính để bàn."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -25,18 +25,18 @@ abstract: "This narrative explains how to read and interpret the phylogenetic tr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Table of Contents](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
+# [Mục lục](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
 
-* [How are transmission networks related to phylogenetic trees](https://nextstrain.org/narratives/trees-background?n=2)?  
-* [How do I read a tree](https://nextstrain.org/narratives/trees-background?n=3)?  
-* [How does the "diversity" panel relate to the tree](https://nextstrain.org/narratives/trees-background?n=4)?   
-* [Measuring differences with genetic divergence](https://nextstrain.org/narratives/trees-background?n=5).  
-* [Measuring differences over time](https://nextstrain.org/narratives/trees-background?n=6).  
-* [Dating the start of an outbreak](https://nextstrain.org/narratives/trees-background?n=7)?  
-* [How should I interpret traits (colors) on the tree](https://nextstrain.org/narratives/trees-background?n=8)?  
-* [How does the map relate to the tree](https://nextstrain.org/narratives/trees-background?n=9)?  
-* [Advanced reading: uncertainty in trees](https://nextstrain.org/narratives/trees-background?n=10).  
-* [About the dataset](https://nextstrain.org/narratives/trees-background?n=11).  
+* [Mạng lưới lây truyền liên quan đến cây phát sinh chủng loại như thế nào?](https://nextstrain.org/narratives/trees-background?n=2)  
+* [Làm sao để đọc hiểu cây phát sinh chủng loại?](https://nextstrain.org/narratives/trees-background?n=3)  
+* [Bảng "đa dạng" chủng loại liên quan đến cây phát sinh chủng loại như thế nào?](https://nextstrain.org/narratives/trees-background?n=4)   
+* [Đo lường sự khác biệt thông qua phân kỳ di truyền](https://nextstrain.org/narratives/trees-background?n=5).  
+* [Đo lường sự khác biệt theo thời gian](https://nextstrain.org/narratives/trees-background?n=6).  
+* [Xác định thời điểm bắt đầu bùng phát?](https://nextstrain.org/narratives/trees-background?n=7)  
+* [Nên diễn giải các đặc điểm (màu sắc) trên cây phát sinh chủng loại như thế nào?](https://nextstrain.org/narratives/trees-background?n=8)  
+* [Bản đồ liên quan đến cây phát sinh chủng loại như thế nào?](https://nextstrain.org/narratives/trees-background?n=9)  
+* [Đọc nâng cao: tính bất định trong cây phát sinh chủng loại](https://nextstrain.org/narratives/trees-background?n=10).  
+* [Giới thiệu về bộ dữ liệu](https://nextstrain.org/narratives/trees-background?n=11).  
 
 <!-- No right-side text -->
 
@@ -44,22 +44,22 @@ abstract: "This narrative explains how to read and interpret the phylogenetic tr
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [How are transmission networks related to phylogenetic trees?](https://nextstrain.org/ncov/2020-03-11?d=tree&p=full)
-Pathogens spread through rapid replication in one host followed by transmission to another host. An epidemic can only take off when one infection results in more than one subsequent infections.
+# [Mạng lưới lây truyền liên quan đến cây phát sinh chủng loại như thế nào?](https://nextstrain.org/ncov/2020-03-11?d=tree&p=full)
+Các mầm bệnh lây lan qua sự nhân bản nhanh chóng trong một vật chủ, kéo theo sự lây truyền sang vật chủ khác. Dịch bệnh chỉ có thể bùng phát khi một ca lây nhiễm dẫn đến nhiều ca lây nhiễm tiếp theo.
 <br><br>
-As the pathogen replicates and spreads, its genome needs to be replicated many times and random mutations (copying mistakes) will accumulate in the genome; this is normal. Such random mutations can help to track the spread of the pathogen and learn about its transmission routes and dynamics.
+Khi mầm bệnh nhân lên và lan rộng, bộ gen của mầm bệnh cần được nhân bản nhiều lần, đồng thời các đột biến ngẫu nhiên (lỗi sao chép) sẽ tích tụ trong bộ gen; điều này là bình thường. Các đột biến ngẫu nhiên như vậy có thể giúp truy dấu sự lây lan của mầm bệnh, cũng như tìm hiểu về các đường lây truyền và động lực học của mầm bệnh.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# An example
+# Ví dụ
 <div width="50%" margin="auto">
 <p>
 <img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
 </p>
 <p>
-The illustration above shows a sketch of a transmission tree. Each circle represents a case (infected person), with horizontal lines indicating the duration of their infection. Connected cases represent transmissions from one person to the next.
+Hình minh họa trên thể hiện bản vẽ phác của một sơ đồ cây lây truyền. Mỗi vòng tròn đại diện cho một ca nhiễm bệnh (người nhiễm bệnh), trong đó các đường ngang thể hiện thời gian lây nhiễm của họ. Các ca nhiễm bệnh có kết nối với nhau biểu thị các ca lây truyền từ người này sang người khác.
 <br> <br>
-Here, we see the full picture of the transmission tree. In practice, however, only a subset of cases are sampled (blue); the transmission tree is unknown and typically only rough estimates of case counts are available. Genome sequences allow us to infer parts of the transmission tree. In this example, three mutations (little diamonds) are indicated on the tree. Sequences that have the same mutations are more closely related, so these mutations allow us to group samples into clusters of closely related viruses that belong to the same transmission chains.
+Ở đây, chúng ta xem được hình ảnh đầy đủ của sơ đồ cây lây truyền. Tuy nhiên, trong thực tế, chỉ có một tập hợp con của các ca nhiễm bệnh được lấy mẫu (màu xanh lam); sơ đồ cây lây truyền thường còn nhiều ẩn số và chỉ bao hàm các ước tính sơ bộ về số ca nhiễm bệnh. Trình tự bộ gen cho phép chúng ta suy ra các phần của sơ đồ cây lây truyền. Trong ví dụ này, ba đột biến (hình kim cương nhỏ) được biểu thị trên sơ đồ cây lây truyền. Các chuỗi trình tự có đột biến giống nhau có liên quan chặt chẽ với nhau hơn, vì vậy các đột biến này cho phép chúng ta nhóm các mẫu thu được thành các cụm vi-rút có liên quan chặt chẽ với nhau và thuộc cùng một chuỗi lây truyền.
 </p>
 </div>
 ```
@@ -68,31 +68,31 @@ Here, we see the full picture of the transmission tree. In practice, however, on
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [How do I read a tree?](https://nextstrain.org/ncov/2020-03-11)
+# [Làm sao để đọc hiểu cây phát sinh chủng loại?](https://nextstrain.org/ncov/2020-03-11)
 
-The x axis of a tree represents the degree of difference (in time or genetic divergence -- we'll get to that next). The y axis just helps spread things out so we can see everything; it doesn't have any units of measurement.
+Trục x của cây biểu thị mức độ khác biệt (theo thời gian hoặc theo phân kỳ di truyền -- chúng ta sẽ bàn về vấn đề này ở phần sau). Trục y chỉ giúp dàn trải các sự việc để chúng ta xem được mọi đối tượng; trục này không có bất kỳ đơn vị đo lường nào.
 <br><br>
-The tips of the tree represent samples (i.e., blue cases from the last slide). The internal nodes represent cases that weren't sampled, but that we think were the source of all the cases descendant from them (i.e., the red nodes from the last slide). These relationships are inferred by analyzing the pattern of mutations observed in the sampled cases.
+Ngọn cây đại diện cho các mẫu vi-rút (từ các ca nhiễm bệnh màu xanh lam trong slide cuối). Các nút trong đại diện cho các ca nhiễm bệnh chưa được lấy mẫu, mà chúng tôi cho là nguồn gốc của tất cả các ca lây nhiễm xuất phát từ các ca này (các nút đỏ trong slide cuối). Chúng ta có thể suy ra các mối quan hệ này bằng cách phân tích dạng thức của các đột biến đã quan sát được trong các ca nhiễm bệnh được lấy mẫu.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-## An example
+## Ví dụ
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
 <p>
-Above, we see an illustration with a phylogenetic tree on the left, where mutations are shown as colored circles. On the right are the corresponding sequences, also with mutations shown as colored circles. We can see that sequences that share the same mutations group together. When sequences appear linked by a flat vertical line, like A and B, this means there are no differences between them – their sequences are identical.
+Ở trên, chúng ta thấy hình minh họa cây phát sinh chủng loại ở bên trái, trong đó các đột biến được hiển thị dưới dạng các vòng tròn có màu. Bên phải là các chuỗi trình tự tương ứng, cùng với các đột biến được thể hiện dưới dạng các vòng tròn có màu. Chúng ta có thể thấy rằng các chuỗi trình tự có cùng một nhóm đột biến. Khi các chuỗi trình tự được liên kết với nhau bằng một đường thẳng đứng, chẳng hạn như A và B, điều này có nghĩa là không có sự khác biệt nào giữa các trình tự này – chuỗi trình tự của các chủng này là giống hệt nhau.
 <br><br>
-When a sequence sits on a long line on its own, like C or E, this means it has unique mutations not found in other sequences. The longer the line, the more mutations.
-A and B also have unique mutations (the green circle) not shared by the other sequences, but they are identical to each other.
+Khi chỉ có một chuỗi trình tự nằm riêng trên một đường dài, chẳng hạn như C hoặc E, điều này có nghĩa là chuỗi trình tự này có các đột biến đặc thù mà không xuất hiện trên các chuỗi khác. Đường càng dài thì càng có nhiều đột biến.
+A và B cũng có các đột biến đặc thù (vòng tròn màu xanh lá) không xuất hiện trên các chuỗi trình tự khác. Tuy nhiên, các chuỗi trình tự này lại tương tự như nhau.
 <br><br>
-Based on this tree, we would conclude that A & B closely related to each other, and D & E are closely related to each other. A & B are more closely related to C than they are to D & E.
+Dựa trên cây này, chúng tôi có thể kết luận rằng A & B có liên quan chặt chẽ với nhau, cũng như D & E có liên quan chặt chẽ với nhau. A & B liên quan chặt chẽ với C hơn so với D & E.
 </p>
 
-### Further reading  
-* [How to read a tree: tutorial from Arctic Network](https://artic.network/how-to-read-a-tree.html).  
-* [How to read a tree: video from Khan academy](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
+### Đọc thêm  
+* [Cách đọc hiểu cây phát sinh chủng loại: hướng dẫn từ Arctic Network](https://artic.network/how-to-read-a-tree.html).  
+* [Cách đọc hiểu cây phát sinh chủng loại: video từ Học viện Khan](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
 
 </div>
 
@@ -102,19 +102,19 @@ Based on this tree, we would conclude that A & B closely related to each other, 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [How does the "diversity" panel relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,entropy&c=gt-ORF1b_314&legend=open)
+# [Bảng "đa dạng" chủng loại liên quan đến cây phát sinh chủng loại như thế nào?](https://nextstrain.org/ncov/2020-03-11?d=tree,entropy&c=gt-ORF1b_314&legend=open)
 
-Let's take a look at the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared. Just as on the last page, we built an alignment of these viral sequences (you can see how all of the analyses mentioned here were done [on GitHub](https://github.com/nextstrain/ncov)).
+Chúng ta hãy cùng xem 169 </tag> chủng SARS-CoV-2 (vi-rút gây COVID-19) đầu tiên được chia sẻ công khai. Như trình bày trên trang cuối, chúng tôi đã xây dựng mối quan hệ liên kết của các chuỗi trình tự vi-rút này (bạn có thể thấy tất cả các phân tích đề cập ở đây đã được thực hiện [trên GitHub](https://github.com/nextstrain/ncov)).
 <br><br>
-Here we're displaying the phylogenetic tree above a bar-chart showing the variation (i.e. mutations) in the genome.
-Without these mutations we couldn't build the tree, so the two are intimitely connected.
+Ở đây, chúng tôi đang thể hiện cây phát sinh chủng loại phía trên biểu đồ cột, trong đó có chỉ ra biến thể (tức là đột biến) trong bộ gen.
+Không có những đột biến này thì không xây dựng cây phát sinh chủng loại được, vì vậy chúng ta có thể thấy mối liên hệ mật thiết giữa hai yếu tố này.
 <br><br>
-In this "diversity" panel, the horizontal axis is each site in the viral genome (all thirty thousand or so of them!).
-The vertical axis indicates how much variability there is at each site.
+Trong bảng "đa dạng" chủng loại này, trục hoành thể hiện từng vị trí trong bộ gen của vi-rút (tổng cộng khoảng ba mươi nghìn vị trí!).
+Trục dọc thể hiện mức độ biến thể tại mỗi vị trí.
 <br><br>
-We've coloured the tree according to one of these mutations -- in this case codon 314 in the gene "ORF1b".
-There's no a priori reason to think this mutation is a functional mutation (i.e. conferring any biological change).
-It is precisely mutations such as this which we use to define the relationships between sequences and construct the tree.
+Chúng tôi đã tô màu cho cây theo một trong những đột biến này -- trong trường hợp này là codon 314 trong gen "ORF1b".
+Không có lý do khả dĩ nào để cho rằng đột biến này là đột biến chức năng (nghĩa là gây ra thay đổi sinh học bất kỳ).
+Đây chính xác là đột biến mà chúng ta dùng để xác định mối quan hệ giữa các chuỗi trình tự và xây dựng cây phát sinh chủng loại.
 
 <!-- There is NO right-side text -->
 
@@ -122,63 +122,63 @@ It is precisely mutations such as this which we use to define the relationships 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Measuring differences with genetic divergence](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
-This is a phylogeny of the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared.
+# [Đo lường sự khác biệt thông qua phân kỳ di truyền](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
+Đây là lịch sự phát triển của 169</tag> chủng SARS-CoV-2 (vi-rút gây COVID-19) đầu tiên được chia sẻ công khai.</tag>
 <br><br>
-Here, the horizontal axis indicates divergence, which is the number of changes (mutations) in the genome, relative to the root of the tree (i.e., the start of the outbreak).
-Some sequences may have zero mutations -- meaning they are all identical to the root (center) of the tree.
-Other viruses have between one and eleven mutations.
+Ở đây, trục hoành biểu thị sự phân kỳ, bao gồm số lượng các thay đổi (đột biến) trong bộ gen, trong mối tương quan với rễ cây phát sinh chủng loại (tức là thời điểm bắt đầu bùng phát).
+Một số chuỗi trình tự có thể có số lượng đột biến bằng không -- tức là toàn bộ chuỗi trình tự này đều giống hệt với rễ (trung tâm) của cây phát sinh chủng loại.
+Các vi-rút khác có từ một đến mười một đột biến.
 <br><br>
-At the moment, this may not look much like a ‘tree’. Many of the sequences are identical – they sit together on vertical lines like A and B (some are on the left-most part of the tree).
-Others have unique or shared mutations and so sit on lines, or ‘branches’, going to the right.
-You can see how many mutations a branch has by hovering your mouse over it.
+Hiện tại, bạn có thể thấy không giống "cây" cho lắm. Nhiều chuỗi trình tự giống hệt nhau – nằm cùng nhau trên các đường thẳng đứng như A và B (một số nằm ở phần ngoài cùng bên trái của cây).
+Các chuỗi trình tự khác có đột biến đặc thù hoặc đột biến chung và do đó nằm trên các đường, hoặc "nhánh", rẽ sang bên phải.
+Bạn có thể thấy một nhánh có bao nhiêu đột biến bằng cách di chuột qua nhánh đó.
 
 <!-- There is NO right-side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Measuring differences over time](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
-We can also visualize how the virus has spread over time by using the sampling date as the x axis.
-Here, the x axis represents the sampling date of each virus. The tips' positions reflect the date those samples were taken. The dates of internal nodes -- the "missing cases" -- are inferred based on when their descendants were sampled and the rate at which the virus mutates.
+# [Đo lường sự khác biệt theo thời gian](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
+Chúng ta cũng có thể hình dung cách thức vi-rút lan truyền theo thời gian bằng cách dùng ngày lấy mẫu làm trục x.
+Ở đây, trục x đại diện cho ngày lấy mẫu của từng loại vi-rút. Vị trí của các ngọn cây thể hiện ngày lấy mẫu. Có thể suy ra ngày lấy mẫu của các nút trong -- "các ca nhiễm bệnh mất dấu" -- dựa trên thời điểm lấy mẫu và tốc độ đột biến của các vi-rút hậu duệ.
 <br><br>
-Notice how many sequences that previously sat in a line (indicating identical genomes) are now spread apart in time.
-This happens when the rate at which the virus mutates is slightly slower than the rate at which is spreads.
-You can scroll up and down between the previous slide and this one, to see how the tree changes.
+Lưu ý xem có bao nhiêu chuỗi trình tự trước đây nằm trên một đường (biểu thị bộ gen giống hệt nhau) mà bây giờ đang tách ra và lan truyền theo thời gian.
+Điều này xảy ra khi tốc độ vi-rút đột biến chậm hơn một chút so với tốc độ lây lan.
+Bạn có thể cuộn lên xuống giữa slide trước và slide này để xem quá trình thay đổi của cây phát sinh chủng loại
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Dating the start of an outbreak](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
+# [Xác định ngày bắt đầu bùng phát](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
 
-We can also use genomics to assign a date to when an outbreak started, even if this was before we realized it was happening.
-Because we can assign dates to each sample and node in the tree, we can use this to infer the date of the 'root' of the tree. This represents the "most recent common ancestor" of all the SARS-CoV-2 sequences we have so far. E.g., your grandparents are the "most recent common ancestors" of you and all of your first cousins.
+Chúng ta cũng có thể sử dụng bộ gen để xác định ngày bắt đầu bùng phát, ngay cả khi trước khi chúng ta nhận thức được điều này đang xảy ra.
+Do có thể gán ngày cho từng mẫu và nút trên cây, chúng ta có thể sử dụng ngày này để suy ra ngày phát sinh "rễ" của cây. Điều này thể hiện "nhánh tổ tiên chung gần nhất" của tất cả các chuỗi trình tự SARS-CoV-2 cho đến nay. Chẳng hạn, ông bà của bạn là "tổ tiên chung gần nhất" của bạn và tất cả anh em họ đời đầu của bạn.
 <br><br>
-If you mouse over the leftmost vertical line, you can see that the inferred start date is between mid-November and mid-December of 2019 for this particular outbreak.
+Nếu di chuột qua đường thẳng đứng ngoài cùng bên trái, bạn có thể thấy ngày bắt đầu được suy ra là từ giữa tháng 11 đến giữa tháng 12 năm 2019 của đợt bùng phát đặc biệt này.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [How should I interpret traits (colors) on the tree?](https://nextstrain.org/ncov/2020-03-11)
-Phylogenetic trees often contain additional information, such as the location of each sample collection. From this, we can infer the locations of internal nodes (hypothesized intermediate, unsampled cases) using mathematical models. This can help us understand how the virus is moving from one location to the next.
+# [Nên diễn giải các đặc điểm (màu sắc) trên cây phát sinh chủng loại như thế nào?](https://nextstrain.org/ncov/2020-03-11)
+Cây phát sinh chủng loại thường chứa thông tin bổ sung, chẳng hạn như vị trí của mỗi lần lấy mẫu. Từ đây, chúng ta có thể suy ra vị trí của các nút trong (các ca nhiễm bệnh giả định, trung gian, chưa được lấy mẫu) bằng các mô hình toán học. Điều này giúp chúng ta hiểu được cách thức vi-rút di chuyển từ vị trí này sang vị trí khác.
 <br><br>
-Interpreting these should, however, be done with caution, as the sampling and sequencing or lack thereof can significantly influence the interpretation.
+Tuy nhiên, việc diễn giải những điều này phải được thực hiện một cách thận trọng, bởi việc thực hiện hay không thực hiện công tác lấy mẫu và giải trình tự có thể ảnh hưởng đáng kể đến kết quả diễn giải.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# An example
+# Ví dụ
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
 </p>
 <p>
-On the left, we show a fully sampled phylogenetic tree, with samples from two different locations denoted by orange and blue. As we walk down the tree, we observe three instances where the color (location) switches from orange to blue. From this, we would conclude that there were three different introductions from the orange location to the blue location.
+Ở bên trái, chúng tôi thể hiện một cây phát sinh chủng loại được lấy mẫu đầy đủ, trong đó các mẫu từ hai vị trí khác nhau được biểu thị bằng màu cam và màu xanh lam. Khi nhìn xuống dọc thân cây, chúng tôi quan sát được ba trường hợp trong đó màu sắc (vị trí) chuyển từ màu cam sang màu xanh lam. Từ đó, chúng tôi có thể kết luận rằng có ba sự kiện khởi phát khác nhau từ vị trí màu cam đến vị trí màu xanh lam.
 <br><br>
-But, this interpretation relies on sampling: in the middle tree, we've removed one orange sample. We now observe only one switch from orange to blue, suggesting that there was only one introduction into blue that happened much earlier.
+Tuy nhiên, cách diễn giải này phụ thuộc vào công tác lấy mẫu: ở phần giữa của cây, chúng tôi đã loại bỏ một mẫu màu cam. Bây giờ, chúng tôi chỉ quan sát một trường hợp chuyển đổi từ màu cam sang màu xanh lam. Điều này cho thấy rằng chỉ có một sự kiện khởi phát có màu xanh lam là xảy ra sớm hơn nhiều.
 <br><br>
-In the last example, we have only one sequence from orange, which could lead us to think that there was one introduction from blue into orange.
+Trong ví dụ cuối, chúng tôi chỉ còn một chuỗi trình tự từ màu cam. Điều này có thể khiến chúng ta nghĩ rằng có một sự kiện khởi phát từ màu xanh lam thành màu cam.
 <br><br>
-Thus, while these inferences can be invaluable, they also must be interpreted with caution.
+Bởi vậy, mặc dù kết quả suy luận này là rất có giá trị nhưng chúng ta cũng cần diễn giải một cách thận trọng.
 </p>
 ```
 <!-- ############ SLIDE BREAK ############# -->
@@ -186,22 +186,22 @@ Thus, while these inferences can be invaluable, they also must be interpreted wi
 <!-- This is left-side text -->
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [How does the map relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)
+# [Bản đồ liên quan đến cây phát sinh chủng loại như thế nào?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)
 
-Here, we show the tree colored by the location of each sample (and inferred location for each internal node).
-If you click ['Explore the data'](https://nextstrain.org/ncov), you can play an animation of the inferred spread of the virus over the course of the outbreak.
+Ở đây, chúng tôi tô màu cho cây theo vị trí của từng mẫu (và vị trí được suy ra cho mỗi nút trong).
+Nếu nhấp vào ["Khám phá dữ liệu"](https://nextstrain.org/ncov), bạn có thể phát một đoạn hoạt ảnh về quá trình lây lan giả định của vi-rút khi diễn ra đợt bùng phát.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Advanced reading: uncertainty in trees](https://nextstrain.org/ncov/2020-03-11)
-Earlier, we talked about how internal nodes represent _hypothesized_ unsampled cases. In fact, all trees represent _hypotheses_ about how a pathogen has evolved and moved over time. The trees we present on Nextstrain are point estimates -- that is, the version of this history that maximizes the probability of observing the data that we do.
+# [Đọc nâng cao: tính bất định trong cây phát sinh chủng loại](https://nextstrain.org/ncov/2020-03-11)
+Trước đây, chúng tôi đã đề cập về cách các nút trong được dùng để biểu thị các ca nhiễm _giả định_ và chưa được lấy mẫu. Trên thực tế, mọi cây phát sinh chủng loại đều biểu thị các _giả định_ về cách thức phát triển và di chuyển theo thời gian của một mầm bệnh. Các cây phát sinh chủng loại chúng tôi trình bày trên Nextstrain đều thể hiện các giá trị ước lượng điểm -- tức là thể hiện phiên bản lịch sử giúp tối đa hóa xác suất ghi nhận dữ liệu mà chúng tôi thu thập.
 <br><br>
-However, there is always uncertainty in these estimates. Generally speaking, parts of the tree that are densely sampled are more certain; areas that are sparsely sampled are less certain.
+Tuy nhiên, luôn có tính bất định trong các giá trị ước lượng này. Nhìn chung, phần nào của cây được lấy mẫu dày đặc thì sẽ ít bất định hơn; khu vực nào được lấy mẫu thưa thớt thì sẽ nhiều bất định hơn.
 
 ```auspiceMainDisplayMarkdown
-# An illustration
+# Minh họa
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Illustration of the uncertainty inherent in tree reconstruction" src="https://github.com/nextstrain/nextstrain.org/raw/c69bfd0750c284ff12f33682f8d82848e13d9e15/static-site/content/help/01-general/figures/hcov_densitree.png"/>
@@ -212,20 +212,20 @@ However, there is always uncertainty in these estimates. Generally speaking, par
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Ghi nhận công lao nghiên cứu khoa học](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, but particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Chúng tôi muốn ghi nhận các công trình nghiên cứu tuyệt vời và kịp thời liên quan đến dịch bệnh này của tất cả các nhà khoa học, mà đặc biệt là những người đang miệt mài làm việc tại Trung Quốc.
+Chính nhờ sự chia sẻ kịp thời các dữ liệu và siêu dữ liệu về bộ gen mà chúng tôi mới có thể thực hiện được các bài báo cáo phân tích này.
 
 <br><br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+Chúng tôi cũng gửi lời cảm ơn sâu sắc đến [GISAID](https://gisaid.org) đã cung cấp nền tảng tải lên và chia sẻ các dữ liệu này.
 
 <!-- Do not need to translate insitutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Chúng tôi rất cảm kích trước sự thu thập và chia sẻ dữ liệu của các phòng thí nghiệm sau:
 
 * Arizona Department of Health Services
 * Auckland Hospital
@@ -353,19 +353,19 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Ghi nhận công lao nghiên cứu khoa học chi tiết](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Những dữ liệu sau đã được chia sẻ qua [GISAID](https://gisaid.org).
+Chúng tôi rất cảm kích trước sự đóng góp của họ.
 
 <br><br>
 
-To the right we give specific sequences shared by each lab.
+Ở bên phải, chúng tôi trình bày từng chuỗi trình tự cụ thể được chia sẻ bởi mỗi phòng thí nghiệm.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Các bộ gen của SARS-CoV-2 được các nhà khoa học chia sẻ rộng rãi tại các phòng thí nghiệm sau đây:
 
 * Arizona Department of Health Services
 	* USA/AZ1/2020
