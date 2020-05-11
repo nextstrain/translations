@@ -102,7 +102,7 @@ abstract: "本周报告使用公开共享的基因组学数据来追踪COVID-19�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [新加坡案例数突发显著上升的背景分析](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [新加坡案例数突发显著上升背景分析](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
 在过去的10周内，SARS-CoV-2多次从多个不同地理位置的来源被输入到新加坡。
 <br><br>
