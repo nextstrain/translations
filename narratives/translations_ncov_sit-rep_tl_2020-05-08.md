@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.
+title: Genomic na pagsusuri sa pagkalat ng COVID-19. Ulat sa sitwasyon 2020-05-08.
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -17,13 +17,13 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
+translators: Inilaan ng Google
+translatorLinks: www.google.com
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
 
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
+abstract: "Ang lingguhang report na ito ay gumagamit ng genomic na datos na ibinahagi sa publiko upang subaybayan ang pagkalat ng COVID-19. Sa linggong ito, nakatuon kami sa Asya. Nag-uulat kami ng maraming magkakahiwalay at independiyenteng pagpasok sa India; konteksto sa paglaganap ng sakit sa mga migranteng manggagawa sa Singapore; at paglaganap ng pandaigdigang pagkalat sa buong rehiyon."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,135 +31,135 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [Talaan ng mga Nilalaman](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [Mga sangguniang pinagbatayan](https://nextstrain.org/narratives/ncov/sit-rep/tl/2020-05-08?n=2).     
+* [Tungkol sa data na ito](https://nextstrain.org/narratives/ncov/sit-rep/tl/2020-05-08?n=3).  
+* [Mga pinagmulan ng epidemya sa India](https://nextstrain.org/narratives/ncov/sit-rep/tl/2020-05-08?n=4).  
+* [Pagsasakonteksto ng mga kaso ng pagbalik ng sakit sa Singapore](https://nextstrain.org/narratives/ncov/sit-rep/tl/2020-05-08?n=5).  
+* [Mga Pagpasok sa Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
+* [Madalas na pagkalat nang lampas sa mga pandaigdigang hangganan](https://nextstrain.org/narratives/ncov/sit-rep/tl/2020-05-08?n=7).    
+* [Siyentipikong kredito](https://nextstrain.org/narratives/ncov/sit-rep/tl/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# Ehekutibong buod
 
-We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
+Sinuri namin ang 2,226 na genome ng COVID-19 na ibinahagi sa publiko.  Sa pamamagitan ng pagkukumpara sa mga viral na genome na ito sa isa't isa, maaari nating kilalanin kung paano umiikot sa buong mundo at kumakalat sa lokal ang COVID-19. Sa mga update ng linggong ito, nakatuon kami sa kamakailang pagkalat sa buong Asya. I-uulat namin ang:
 
-* Multiple introductions to Delhi during March 2020 from all over the world  
-* Many separate introductions to Singapore, most of which do not appear to have spread further  
-* Expansion of a large cluster of cases in Singapore likely driven by sociological factors
-* Similar patterns of international spread that emphasize the urgent need for cooperative efforts
+* Maramihang pagpasok sa Delhi noong Marso 2020 mula sa buong mundo  
+* Maraming magkakahiwalay na pagpasok sa Singapore, kung saan karamihan ay tila hindi na kumalat pa  
+* Paglawak ng malaking kumpol ng mga kaso sa Singapore na malamang na dulot ng mga sosyolohikong dahilan
+* Mga magkakahalintulad na pattern ng pandaigdigang pagkalat na nagpapahiwatig ng kagyat na pangangailangan para sa sama-samang pagsisikap
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [Mga Sanggunian sa COVID-19](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+Naghanda kami ng ilang sanggunian na magpapadali sa pagpapaliwanag ng datos na ipinakikita namin sa salaysay na ito.
+#### Mga Sanggunian ng Nextstrain  
+* [MAGSIMULA DITO: Paano basahin ang isang phylogeny](https://nextstrain.org/narratives/trees-background/).  
+* [Background sa mga coronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Mga karaniwang maling pagkaunawa](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+#### Mga Panlabas na Sanggunian  
+* [Tanungin ang Siyentipiko at mga FAQ](https://covid19.fas.org/l/en).
+* [Mga Ulat sa Sitwasyon ng WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Mga Sanggunian ng CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Ang coverage ng NYTimes sa COVID-19](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [A note on sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 28 countries in Asia. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [Isang paalala sa sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
+Kasalukuyan kaming ay mga sequence mula sa mga sample na kinuha sa 28 bansa sa Asya. Ito ay isang kahanga-hangang katuparan -- ang pag-sequence sa hindi kilala at malaking RNA virus sa gitna ng isang pandemya ay mahirap, at posible lamang sa pamamagitan ng kahanga-hangang pagsisikap at napapanahong pagbabahagi ng datos ng mga siyentipiko at doktor sa buong mundo.
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+Habang pinahihintulutan kami ng datos na ito na ipaliwanag ang maraming kapaki-pakinabang na katangian ng paglaganap ng sakit at aktwal na subaybayan ang pagkalat nito, mahalagang bigyang-diin na limitado ang aming mga konklusyon ayon sa magagamit na datos.
 <br><br>
-For example, the map shows very few sequences from the Middle East. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
+Halimbawa, ipinakikita ng mapa ang napaka-kakaunting sequences mula sa Gitnang Silangan. Ito ay HINDI dahil ang COVID-19 ay hindi umiikot sa mga lugar na ito, o ang mga kasong ito ay hindi mahalagang maunawaan; sa halip, wala lang kaming gaanong datos mula sa mga lugar na ito. Ang sukat ng bawat bilog sa mapa ay nagpapahiwatig kung gaano karaming datos ang kasalukuyang magagamit mula sa lugar na iyon, kaysa sa tunay na sukat ng paglaganap ng sakit.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Many separate introductions to Delhi during March](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+# [Maraming magkakahiwalay na pagpasok sa Delhi noong Marso](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
-Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
+Sa pagita ng Marso 1-Abril 15, 38 viral genome mula sa lugar ng Delhi ay ginawang sample at pinagsunod-sunod (ipinakita rito).
 <br><br>
-In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.
+Sa gitna ng puno, makikita natin ang malaking kumpol ng magkakalapit na nauugnay na mga kaso. Ito ay tumutugma sa isahang pagpasok, na sinundan ng lokal na pagkalat sa komunidad.
 <br><br>
-However, it is crucial to consider the context of this cluster.  
-Scattered across the tree, we also see many other small clusters and isolated cases, representing separate introductions from all over the world.
-We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.
+Gayunman, mahalagang isaalang-alang ang konteksto ng kumpol na ito.  
+Nakakalat sa buong puno, nakikita rin namin ang maraming iba pang maliliit na kumpol at magkakahiwalay na kaso, na kumakatawan sa magkakahiwalay na pagpasok mula sa buong mundo.
+Wala kaming sapat na datos upang masabi kung anong naging kasunod ng iba pang pagpasok na ito -- kung o paano sila kumakalat. Subalit, masasabi namin na ang malaking kumpol ng mga kaso ay bahagi lang ng kuwento.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Contextualizing the SARS-CoV-2 resurgence in Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [Pagsasakonteksto ng pagbalik ng SARS-CoV-2 sa Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
-In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
+Sa nakaraang 10 linggo, ang SARS-CoV-2 ay pumasok na sa Singapore nang maraming bses, mula sa iba't ibang lokasyon.
 <br><br>
-Most of these introductions have led to limited onward transmission (single cases or small clusters on the tree).
+Karamihan sa mga pagpasok na ito ay nagdulot ng limitadong pagsulong ng transmisyon (isahang kaso o maliliit na kumpol sa puno).
 <br><br>
-In the middle of the tree, however, we see a single introduction that led to extensive onward transmission.
-This large, cohesive cluster is most closely related to samples from India and the Philippines.
+Gayunman, sa gitna ng puno, makikita natin ang isahang pagpasok na humantong sa malawak na pagsulong ng transmisyon.
+Ang malaki at magkakakonektang kumpol na ito ay pinakamalapit na nauugnay sa mga sample mula sa India at sa Pilipinas.
 <br><br>
-This is consistent with [recent reports](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) that the virus is spreading rapidly among vulnerable, confined populations of migrant workers in Singapore.
+Kapareho ito ng [kamakailang mga ulat](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) na ang virus ay mabilis na kumakalat sa mahihina at nakakulong na mga populasyon ng mga migranteng manggagawa sa Singapore.
 <br><br>
-This illustrates how the extent to which an introduction spreads within a population depends on sociological factors and emphasizes why it is critically important to protect vulnerable groups.
+Inilalarawan nito kung gaano kalawak na kumakalat ang isang pagpasok sa loob ng isang populasyon depende sa mga sosyolohikal na dahilan at binibigyang-diin kung napakahalagang protektahan ang mahihinang grupo.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [Paulit-ulit na mga pagpasok sa Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
-We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
+Mayroon kaming 14 na sequence mula sa Malaysia sa Nextstrain, na sinampol sa pagitan ng mga huling araw ng Enero at mga huling araw ng Marso. Ang mga sequence na ito ay nakagrupo sa ilang magkakaibang clade, kung saan ang bawat isa ay kadalasang umiikot sa iba pang mga bansa sa Asya. Iminumungkahi nito na nagkaroon ng maramihang pagkasok mula sa nakapaligid na rehiyon sa Malaysia.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Regional spread across Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+# [Panrehiyong pagkalat sa buong Asya](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
-A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam
+Naulit ang kaparehong pattern sa maraming iba pang bansa sa rehiyon: maramihang pagpasok, kung saan marami ay mahusay na nakontrol, subalit may iilang pinagsimulan ng lokal na transmisyon. Hinihimok ka namin na "Ikaw Mismo ang Magsuri sa Datos". Katulad ng ipinakikita rito, maoobserbahan mo ang katulad na mga pattern sa Jordan, Japan, Thailand, at sa United Arab Emirates. Makakakita rin ng katulad na mga pattern sa Kuwait, Georgia, Taiwan, at Vietnam
 <br><br>
-The consistency of this pattern is strong evidence that the virus frequently crosses international borders. Thus, in order to effectively control the epidemic in any one country, we must control the pandemic across all countries through coordinated international efforts.
+Ang hindi pagbabago ng pattern na ito ay matibay na ebidensya na ang virus ay madalas na tumatawid sa mga pandaigdigang hangganan. Kung gayon, upang epektibong makontrol ang epidemya sa alinmang bansa, dapat nating kontrolin ang pandemya sa lahat ng bansa sa pamamagitan ng koordinadong pandaigdigang pagsisikap.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Ano ang maaari mong gawin](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+#### ...bilang indibidwal
+* Isagawa ang mahigpit na social distancing, lalo na kung ikaw ay nasa mahihinang grupo.
+* Tandaan na kahit hindi ka lubhang mahina, maraming taong nakapaligid sa iyo; sundin ang mga kasanayang ito upang protektahan ang iba.
+* Maghugas ng iyong mga kamay "na parang nagtadtad ka ng sili at kailangan mong magpalit ng contact lens."  
+* Manatili sa loob ng bahay hangga't maaari -- lalo na kung ikaw ay may sakit; maghanda ng mga karagdagang supply sakaling kailangan mong mag-self-quarantine.  
+* Kung isa kang employer, himukin ang mga empleyado mo na magtrabaho sa tahanan kung posible.
 
-#### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+#### ...bilang isang opisyal  
+* Gawing available ang pagsusuri nang libre at malawakan.  
+* Maglagay ng matatag na mga pamamaraan ng social distancing sa lugar.  
+* Pondohan ang at magpatupad ng puspusang mga pagsisikap sa contact tracing.  
+* Pinansiyal na suportahan ang mga taong naapektuhan ng mga hakbang sa social distancing.
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# Mga susing impormasyon na dapat tandaan
 
-#### The outbreak in India is the result of many separate introductions from around the world.  
+#### Ang paglaganap ng sakit sa India ay ang resulta ng maraming magkakahiwalay na pagpasok mula sa buong mundo.  
 <br><br>
-#### In Singapore, sociological factors accelerated the expansion of one introduction to become a large outbreak, in contrast to the many introductions which have not spread widely.
+#### Sa Singapore, pinabilis ng mga sosyolohikal na dahilan ang paglawak ng isang pagpasok upang maging malawak na paglaganap ng sakit, salungat sa maraming pagpasok sa bansa na hindi kumalat nang malawakan.
 <br><br>
-#### In Asia, most countries' outbreaks have a similar history: many separate introductions from other countries, some of which resulted in local spread. This pattern of multiple introductions over time emphasizes the need for international and regional cooperation to fully control the pandemic.
+#### Sa Asya, karamihan sa mga paglaganap ng sakit ay may katulad na kasaysayan: maraming magkakahiwalay na pagpasok mula sa ibang bansa, kung saan ang ilan ay nagresulta sa lokal na pagkalat. Ang pattern na ito ng maramihang pagpasok sa paglipas ng panahon ay nagbibigay-diin sa pangangailangan ng pandaigdigan at panrehiyong pagtutulungan para sa ganap na pagkontrol sa pandemya.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -172,20 +172,20 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [Siyentipikong kredito](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Nais naming kilalanin ang kahanga-hanga at napapanahong pagsisikap na isinagawa ng lahat ng siyentipikong sangkot sa paglaganap ng sakit na ito.
+Tanging sa pamamagitan ng mabilis na pagbabahagi ng mga genomic na datos at metadata nagiging posible ang mga pagsusuring tulad nito.
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
+Ang mga ispesipikong sequence na inilaan ng bawat laboratoryo ay [nakalista rito](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Lubos din kaming nagpapasalamat sa GISAID sa paglalaan ng platform kung saan maaaring i-upload at ibahagi ang mga datos na ito.
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Nagpapasalamat kami sa mga datos na nakalap ng mga laboratoryong pinanggalingan na ito:
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
