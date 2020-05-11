@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19 spread. Situation report 2020-05-08.
+title: 新型冠状病毒（COVID-19）传播情况的基因组学分析：状况报告 2020-05-08.
 authors:
   - Cassia Wagner
   - Sidney M. Bell
@@ -18,12 +18,14 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Zhehan Fu
 translatorLinks:
+  - https://zenithfzh.co
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
-
-abstract: "This weekly report uses publicly shared genomic data to track the spread of COVID-19. This week, we focus on Asia. We report many separate, independent introductions to India; context for the outbreak among migrant workers in Singapore; and the prevalence of international spread across the region."
+date: 2020年5月8日
+abstract: "本周报告使用公开共享的基因组学数据来追踪COVID-19疫情传播。本周我们关注亚洲的情况。我们报告了许多分散、独立的向印度地区的输入病例；在新加坡外来务工人员之间爆发传播的背景情况；以及该区域内跨国传播的普遍发生。"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,135 +33,134 @@ abstract: "This weekly report uses publicly shared genomic data to track the spr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text 1-->
-# [Table of Contents](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+# [目录](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [Background resources](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [About this data](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [Origins of the epidemic in India](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [Contextualizing the resurgence of cases in Singapore](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [Introductions to Malaysia](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [Frequent spread across international borders](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [Scientific credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
+* [关于数据](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
+* [印度疫情的起源](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
+* [新加坡案例数突发显著上升的背景分析](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
+* [输入进马来西亚的病例](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
+* [快速的跨境传播](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
+* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# Executive summary
+# 报告摘要
 
-We analyzed 2,226 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. In this week's updates, we focus on recent spread across Asia. We report:
+我们分析了2,226个公开共享的SARS-Cov-2基因组。通过这些病毒基因组间的相互比对，我们可以刻画COVID-19在世界和本地范围的传播过程。在本周的更新中，我们重点关注近期在亚洲的传播，包括以下内容：
 
-* Multiple introductions to Delhi during March 2020 from all over the world  
-* Many separate introductions to Singapore, most of which do not appear to have spread further  
-* Expansion of a large cluster of cases in Singapore likely driven by sociological factors
-* Similar patterns of international spread that emphasize the urgent need for cooperative efforts
+* 2020年3月间从世界各地向印度德里输入的多个病例  
+* 许多独立的向新加坡的输入，其中多数似乎并未造成进一步传播
+* 新加坡一个大的病例簇扩散似是由社会因素驱动的
+* 亚洲国家之间类似的病毒传播特征突出强调了跨国协同抗疫措施的紧迫性
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-We've prepared some resources that will make interpreting the data we present in this narrative easier.
-#### Nextstrain Resources  
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).  
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+# [COVID-19背景资料](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
+我们准备了一些有助于您理解本报告所提供数据的背景资料。 
+#### Nextstrain的资料  
+* [起点基础教程：如何解读系统发生树](https://nextstrain.org/narratives/trees-background/zh).  
+* [冠状病毒的背景知识（英文）](https://nextstrain.org/help/coronavirus/human-CoV).
+* [常见误区](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 #### External Resources  
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* [The NYTimes COVID-19 coverage](https://www.nytimes.com/news-event/coronavirus).
+* [向科学家提问 & 常见问题解答（英文）](https://covid19.fas.org/l/en).
+* [WHO的状况报告（英文）](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [美国CDC的资料（英文）](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [纽约时报对COVID-19的报道（英文）](https://www.nytimes.com/news-event/coronavirus).
 <!-- There is no right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [A note on sampling](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-We currently have sequences from samples taken in 28 countries in Asia. This is an incredible achievement -- sequencing an unknown, large RNA virus in the midst of a pandemic is difficult, and is only possible through the incredible work and timely sharing of data by scientists and physicians around the world.
+# [关于抽样过程的注记](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
+我们目前有采自亚洲28个国家的样本。这是一项令人难以置信的成就——在病毒尚流行期间对一种未知的大型RNA病毒进行测序是很困难的，只有通过世界各地的科学家和医生非凡的工作和及时的数据共享才得以实现。
 <br><br>
-While this data enables us to infer many useful characteristics of the outbreak and track its spread in real time, it's important to emphasize that our conclusions are limited by the available data.
+虽然这些数据使我们能够推断出这场疫情的许多有用的特征并实时跟踪其传播，但需要强调的是，我们的结论受到现有数据的限制。
 <br><br>
-For example, the map shows very few sequences from the Middle East. This is NOT because COVID-19 isn't circulating in these areas, or that these cases are not as crucial to understand; rather, we just don't have much data available from these areas. The size of each circle on the map indicates how much data is currently available from that area, rather than the true size of the outbreak.
-
+例如，地图上显示来自中东地区的序列很少。这并**不是**因为COVID-19并未在这些地区传播，也非因为对这些病例的理解并不重要，而仅是因为我们并未在这些地区获得足够可用数据。地图上每个圆圈的大小表示的是该区域当前有多少数据可用，而不是疫情的真实病例数量规模。
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Many separate introductions to Delhi during March](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
+# [3月间有许多独立的病例输入印度德里](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
 
-Between March 1-April 15, 38 viral genomes from the Delhi area were sampled and sequenced (shown here).
+在3月1日至4月15日之间，在德里地区采样并测序了38个病毒基因组（如此处所展示）。
 <br><br>
-In the middle of the tree, we see a sizable cluster of closely related cases. This is consistent with a single introduction, followed by local community spread.
+在树的中间，我们可以看到一个数量可观且联系紧密的病例簇。这和单一病例输入后本地社区传播的模式是一致的。
 <br><br>
-However, it is crucial to consider the context of this cluster.  
-Scattered across the tree, we also see many other small clusters and isolated cases, representing separate introductions from all over the world.
-We don't have enough data to say what followed these other introductions -- if or how far they spread. But, we can say that the large cluster of cases is only part of the story.
+然而，考虑这一簇病例的背景环境也是很关键的。
+我们也可以看到很多其他的小簇散布在树的各处，这些小簇代表了来自世界各地的独立输入病例。
+我们并没有足够的数据去推理出这些另外的输入导致的后果——是否继续传播以及传播了多远。但是，我们可以下结论的是，那个大的病例簇只是印度疫情的一部分。
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Contextualizing the SARS-CoV-2 resurgence in Singapore](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [新加坡案例数突发显著上升背景分析](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
 
-In the last 10 weeks, SARS-CoV-2 has been introduced to Singapore many times, from multiple locations.
+在过去的10周内，SARS-CoV-2多次从多个不同地理位置的来源被输入到新加坡。
 <br><br>
-Most of these introductions have led to limited onward transmission (single cases or small clusters on the tree).
+这些输入病例中大多数只造成了有限的后续传播（树上的表现是单一病例或者小型的簇）。
 <br><br>
-In the middle of the tree, however, we see a single introduction that led to extensive onward transmission.
-This large, cohesive cluster is most closely related to samples from India and the Philippines.
+然而在树的中部，我们可以看到一个单一的输入病例导致了大规模的后续传播。
+这个大型内聚的簇和来自印度和菲律宾的病例联系最为紧密。
 <br><br>
-This is consistent with [recent reports](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) that the virus is spreading rapidly among vulnerable, confined populations of migrant workers in Singapore.
+[纽约时报近期报道](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) 指出，新加坡有大量易感的、相对封闭聚集的外来务工者人群，并且病毒已经在他们中间快速传播。这和我们此处的观察是一致的。
 <br><br>
-This illustrates how the extent to which an introduction spreads within a population depends on sociological factors and emphasizes why it is critically important to protect vulnerable groups.
+这证实了外来输入病例在一个群体内的传播程度和社会因素相关，同时强调了为何保护易感人群至关重要。
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Repeated introductions to Malaysia](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
+# [在马来西亚反复发生的输入病例](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
 
-We have 14 sequences from Malaysia on Nextstrain, sampled between late January and late March. These sequences group with several different clades, each of which was circulating mostly in other Asian countries. This suggests that there have been multiple introductions from the surrounding region into Malaysia.
+我们在Nextstrain有14个来自马来西亚的基因序列，采集自一月下旬到三月下旬。这些序列和不同的支聚集在一起，这些支每一个都基本在亚洲其他国家传播。这间接表明了从周围地区有多个病例输入到了马来西亚。
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Regional spread across Asia](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
+# [亚洲国际间传播模式的相似性](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
 
-A similar pattern is repeated for many other countries in the region: multiple introductions, many of which were well-contained, but with a few that took off to spark local transmission. We encourage you to "Explore the Data Yourself". As shown here, you will observe similar patterns in Jordan, Japan, Thailand, and the United Arab Emirates. Similar patterns can also be seen for Kuwait, Georgia, Taiwan, and Vietnam
+发生在马来西亚的病毒传播模式在很多其他国家反复出现：多个输入病例，其中很多被有效控制，但是少数失控，成为本地大量传播的导火线。我们鼓励你“自行探索数据”。如同这里显示的，你将会在约旦、日本、泰国和阿拉伯联合酋长国观察到相似的模式。类似的模式也可以在科威特、格鲁吉亚、台湾和越南看到。
 <br><br>
-The consistency of this pattern is strong evidence that the virus frequently crosses international borders. Thus, in order to effectively control the epidemic in any one country, we must control the pandemic across all countries through coordinated international efforts.
+这种模式的一致性是病毒频繁跨境传播的强有力证据。因此，为了在任何单一国家有效控制疫情，我们都必须通过国际间协同合作的努力来控制病毒大流行。
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."  
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.  
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [你能做的](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
+#### ...个人可采取的行动
+* 保持严格的社交距离，尤其是高风险人群。
+* 请记住，即使你不属于高风险人群，你周围的许多人也可能属于高危人群；遵循这里列出的做法可以保护他人。
+* 仔细洗手，要像“刚切完辣椒但是要换隐形眼镜”时一样洗手。
+* 尽可能地留在家里，尤其是生病时；准备一些额外的补给物资，以备自我隔离。
+* 雇主请鼓励员工尽可能地在家办公。
 
 #### ...as an official  
-* Make testing free and broadly available.  
-* Put strong social distancing measures in place.  
-* Fund and implement extensive contact tracing efforts.  
-* Financially support those impacted by social distancing measures.
+* 免除检测费用，并尽可能扩大覆盖面。
+* 推行能够有力减少社交接触的措施。 
+* 资助和建立全面的病例追踪体系。  
+* 在经济上支持受到社交隔离措施影响的人。
 
 
 <!-- This is the right-side text -->
 
 ```auspiceMainDisplayMarkdown
-# Takeaways
+# 总结
 
-#### The outbreak in India is the result of many separate introductions from around the world.  
+#### 印度疫情爆发的原因是许多独立的来自世界其他地区的输入病例。
 <br><br>
-#### In Singapore, sociological factors accelerated the expansion of one introduction to become a large outbreak, in contrast to the many introductions which have not spread widely.
+#### 在新加坡，社会因素加剧了一个输入病例的后续传播，使其成为一场大爆发，而相比之下其他很多输入病例并没有造成广泛传播。
 <br><br>
-#### In Asia, most countries' outbreaks have a similar history: many separate introductions from other countries, some of which resulted in local spread. This pattern of multiple introductions over time emphasizes the need for international and regional cooperation to fully control the pandemic.
+#### 在亚洲，很多国家的疫情爆发有相似的历史：大量独立的来自他国的输入病例，其中一些导致了本地传播。这种长时间内多次境外输入的传播模式突出强调了跨国跨地区协作以彻底控制大流行的迫切需要。
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -174,18 +175,18 @@ The consistency of this pattern is strong evidence that the virus frequently cro
 <!-- This is left-side text -->
 # [Scientific credit](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+我们要感谢参与此次疫情研究的所有科学家所做的令人惊叹和很强时效性的工作。
+只有通过基因组数据和元数据的快速共享，才有可能进行这样的分析。
 <br><br>
-The specific sequences provided by each lab are [listed here](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
+[点击此处](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca) 查看每个实验室所提供的序列详情。
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+我们也感谢 GISAID 提供了上传和共享这些数据的平台。
 
 <!-- Do not need to translate institutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+非常感谢以下机构和实验室慷慨分享：
 
 * AIDS Vaccine Research Laboratories
 * ARS Algarve - Laboratorio Laura Ayres
