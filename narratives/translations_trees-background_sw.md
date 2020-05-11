@@ -27,16 +27,16 @@ abstract: "Makala haya yanafafanua jinsi ya kusoma na kufasiri michoro ya kimata
 <!-- This is left-side text -->
 # [Yaliyomo](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
 
-* [Je, njia za maambukizi zinahusiana vipi na michoro ya kimatawi ya kifilojenetiki](https://nextstrain.org/narratives/trees-background?n=2)?  
-* [Je, mchoro wa kimatawi wa kifilojenetiki unafasiriwa vipi](https://nextstrain.org/narratives/trees-background?n=3)?  
-* [Je, sehemu ya "utofauti" inahusiana vipi na mchoro wa kimatawi](https://nextstrain.org/narratives/trees-background?n=4)?   
-* [Kupima utofauti kwa kutumia mabadiliko ya kijeni](https://nextstrain.org/narratives/trees-background?n=5).  
-* [Kupima utofauti baada ya muda fulani](https://nextstrain.org/narratives/trees-background?n=6).  
-* [Ugonjwa ulilipuka lini](https://nextstrain.org/narratives/trees-background?n=7)?  
-* [Je, napaswa kufasiri vipi sifa (rangi) kwenye mchoro wa kimatawi](https://nextstrain.org/narratives/trees-background?n=8)?  
-* [Je, mchoro wa visanduku unahusiana vipi na ule wa kimatawi](https://nextstrain.org/narratives/trees-background?n=9)?  
-* [Kufasiri kwa kina: utata kwenye michoro ya kimatawi](https://nextstrain.org/narratives/trees-background?n=10).  
-* [Maelezo kuhusu  seti ya data  
+* [Je, njia za maambukizi zinahusiana vipi na michoro ya kimatawi ya kifilojenetiki](https://nextstrain.org/narratives/trees-background/sw?n=2)?  
+* [Je, mchoro wa kimatawi wa kifilojenetiki unafasiriwa vipi](https://nextstrain.org/narratives/trees-background/sw?n=3)?  
+* [Je, sehemu ya "utofauti" inahusiana vipi na mchoro wa kimatawi](https://nextstrain.org/narratives/trees-background/sw?n=4)?   
+* [Kupima utofauti kwa kutumia mabadiliko ya kijeni](https://nextstrain.org/narratives/trees-background/sw?n=5).  
+* [Kupima utofauti baada ya muda fulani](https://nextstrain.org/narratives/trees-background/sw?n=6).  
+* [Ugonjwa ulilipuka lini](https://nextstrain.org/narratives/trees-background/sw?n=7)?  
+* [Je, napaswa kufasiri vipi sifa (rangi) kwenye mchoro wa kimatawi](https://nextstrain.org/narratives/trees-background/sw?n=8)?  
+* [Je, mchoro wa visanduku unahusiana vipi na ule wa kimatawi](https://nextstrain.org/narratives/trees-background/sw?n=9)?  
+* [Kufasiri kwa kina: utata kwenye michoro ya kimatawi](https://nextstrain.org/narratives/trees-background/sw?n=10).  
+* [Maelezo kuhusu seti ya data](https://nextstrain.org/narratives/trees-background/sw?n=11)
 
 <!-- No right-side text -->
 
