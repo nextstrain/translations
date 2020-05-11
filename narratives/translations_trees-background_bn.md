@@ -1,5 +1,5 @@
 ---
-title: How to interpret phylogenetic trees
+title: জাতিগত বৃক্ষ কিভাবে ব্যাখ্যা করা যায় 
 authors:
   - Emma Hodcroft
   - Nicola Müller
@@ -15,9 +15,9 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; Chan Zuckerberg Initiative, CA, USA"
-date: "2020 March 13"
+date: "১৩ই মার্চ ২০২০"
 dataset: "https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country"
-abstract: "This narrative explains how to read and interpret the phylogenetic trees that inform genomic epidemiology. This website is optimized for display on desktop browsers."
+abstract: জাতিগত বৃক্ষ পড়ে এবং বুঝে কিভাবে বংশানুক্রমিক মহামারী সম্পর্কে অবগত হওয়া যায় এই বিবরণে তাহাই বর্ণিত হয়েছে।  এই ওয়েবসাইটটি ডেস্কটপ ব্রাউজারে প্রদর্শনের জন্য অপ্টিমাইজ করা হয়েছে।"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -25,18 +25,18 @@ abstract: "This narrative explains how to read and interpret the phylogenetic tr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Table of Contents](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
+# [সূচিপত্র](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
 
-* [How are transmission networks related to phylogenetic trees](https://nextstrain.org/narratives/trees-background?n=2)?  
-* [How do I read a tree](https://nextstrain.org/narratives/trees-background?n=3)?  
-* [How does the "diversity" panel relate to the tree](https://nextstrain.org/narratives/trees-background?n=4)?   
-* [Measuring differences with genetic divergence](https://nextstrain.org/narratives/trees-background?n=5).  
-* [Measuring differences over time](https://nextstrain.org/narratives/trees-background?n=6).  
-* [Dating the start of an outbreak](https://nextstrain.org/narratives/trees-background?n=7)?  
-* [How should I interpret traits (colors) on the tree](https://nextstrain.org/narratives/trees-background?n=8)?  
-* [How does the map relate to the tree](https://nextstrain.org/narratives/trees-background?n=9)?  
-* [Advanced reading: uncertainty in trees](https://nextstrain.org/narratives/trees-background?n=10).  
-* [About the dataset](https://nextstrain.org/narratives/trees-background?n=11).  
+* [জাতিগত (ফাইলোজেনেটিক) বৃক্ষের সাথে সংক্রমণ নেটওয়ার্ক কিভাবে সম্পর্কিত](https://nextstrain.org/narratives/trees-background?n=2)?  
+* [কিভাবে আমি এই বৃক্ষ বুঝতে পারিি](https://nextstrain.org/narratives/trees-background?n=3)?  
+* [এই বৃক্ষের সাথে "নানাবিধ " প্যানেল কিভাবে সম্পর্কিত](https://nextstrain.org/narratives/trees-background?n=4)?   
+* [বংশানুক্রমিক (জেনেটিক ) ভিন্নতার  মাধ্যমে পার্থক্য পরিমাপ করা](https://nextstrain.org/narratives/trees-background?n=5).  
+* [সময়ের সাপেক্ষে পার্থক্য পরিমাপ করা](https://nextstrain.org/narratives/trees-background?n=6).  
+* [একটি প্রাদুর্ভাবের সূচনা নিরুপন করা া](https://nextstrain.org/narratives/trees-background?n=7)?  
+* [আমি কিভাবে এই বৃক্ষের বৈশিষ্ট্যগুলির (রঙের) ব্যাখ্যা করতে পারি](https://nextstrain.org/narratives/trees-background?n=8)?  
+* [এই বৃক্ষের সাথে নকশাটি  কিভাবে সম্পর্কিত](https://nextstrain.org/narratives/trees-background?n=9)?  
+* [উচ্চতর পাঠ: বৃক্ষের ক্ষেত্রে অনিশ্চয়তা](https://nextstrain.org/narratives/trees-background?n=10).  
+* [এই ডাটাসেট বিষয়ে ](https://nextstrain.org/narratives/trees-background?n=11).  
 
 <!-- No right-side text -->
 
@@ -44,22 +44,22 @@ abstract: "This narrative explains how to read and interpret the phylogenetic tr
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [How are transmission networks related to phylogenetic trees?](https://nextstrain.org/ncov/2020-03-11?d=tree&p=full)
-Pathogens spread through rapid replication in one host followed by transmission to another host. An epidemic can only take off when one infection results in more than one subsequent infections.
+# [ফাইলোজেনেটিক বৃক্ষের সাথে সংক্রমণ নেটওয়ার্ক কিভাবে সম্পর্কিত?](https://nextstrain.org/ncov/2020-03-11?d=tree&p=full)
+রোগজীবাণু একজনের দেহে দ্রুত বংশবৃদ্ধির পর আরেকজনের দেহে সংক্রমণ করে  মহামারী শুধু তখনই দেখা দিতে পারে যখন একটি সংক্রমণ থেকে একাধিক সংক্রমণের সৃষ্টি হয়।
 <br><br>
-As the pathogen replicates and spreads, its genome needs to be replicated many times and random mutations (copying mistakes) will accumulate in the genome; this is normal. Such random mutations can help to track the spread of the pathogen and learn about its transmission routes and dynamics.
+রোগ জীবাণু বংশবৃদ্ধির  সময় এর বংশধারায়  অনেকগুলো প্রতিলিপি তৈরী করতে হয় এর ফলে বংশধারায় অনেকগুলি এলোপাথাড়ি পরিবর্তন হয় (কপিয়িং মিস্টেক ) ; এটা একটি স্বাভাবিক বিষয়।  এই এলোপাথাড়ি পরিবর্তন বিশ্লেষণের মাধ্যমে আমরা একটি জীবাণুর সংক্রমণ ট্র্যাক করা ও এর সংক্রমণের পথ ও গতিধারা সম্মন্ধে ধারণা করতে পারি। 
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# An example
+# একটি উদাহরণ
 <div width="50%" margin="auto">
 <p>
 <img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
 </p>
 <p>
-The illustration above shows a sketch of a transmission tree. Each circle represents a case (infected person), with horizontal lines indicating the duration of their infection. Connected cases represent transmissions from one person to the next.
+উপরের চিত্রে একটি সংক্রমণের বৃক্ষ এঁকে দেখানো হয়েছে। প্রতিটি বৃত্ত দিয়ে একটি কেস (আক্রান্ত ব্যক্তি), এবং অনুভূমিক রেখা দিয়ে তাদের আক্রান্ত হওয়ার সময়কাল বুঝানো হয়েছে। সংযুক্ত কেসগুলোর মাধ্যমে এক ব্যক্তি থেকে পরবর্তী ব্যক্তির সংক্রমিত হওয়া বুঝানো হয়েছে।
 <br> <br>
-Here, we see the full picture of the transmission tree. In practice, however, only a subset of cases are sampled (blue); the transmission tree is unknown and typically only rough estimates of case counts are available. Genome sequences allow us to infer parts of the transmission tree. In this example, three mutations (little diamonds) are indicated on the tree. Sequences that have the same mutations are more closely related, so these mutations allow us to group samples into clusters of closely related viruses that belong to the same transmission chains.
+এখানে, আমরা সংক্রমণ বৃক্ষের পরি পূর্ণ চিত্রটি দেখতে পাচ্ছি। কিন্তু বাস্তবে সব কেসের মাত্র আংশিক নমুনা সংগৃহিত হয় (নীল রঙে দেখানো হয়েছে ); সাধারণত সংক্রমণের বৃক্ষটি অজানা থেকে যায়'এবং প্রকৃতপক্ষে কেস সংখ্যার শুধু একটি আনুমানিক ধারণা পাওয়া যায়।  জেনোম সিকোয়েন্স আমাদেরকে সংক্রামক বৃক্ষ সম্পর্কে আংশিক ধারণা দিতে সাহায্য করে।  এই উদাহরণে, বৃক্ষে তিনটি মিউটেশন (তিনটি হীরকাকৃতি) দেখানো হয়েছে। সিকোয়েন্সে একই ধরণের পরিবর্তন হয়েছে এরকম জিন গুলি ওদিক সম্পর্কযুক্ত ; সুতরাং এই পরিবর্তণ ব্যবহার করে আমরা নমুনা ভাইরাস গুলিকে একই সংক্রমণ চেইনের আওতাভুক্ত গ্রূপে বিভক্ত করতে পারি। 
 </p>
 </div>
 ```
@@ -68,31 +68,31 @@ Here, we see the full picture of the transmission tree. In practice, however, on
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [How do I read a tree?](https://nextstrain.org/ncov/2020-03-11)
+# [কিভাবে আমি একটি বৃক্ষ পড়বো?](https://nextstrain.org/ncov/2020-03-11)
 
-The x axis of a tree represents the degree of difference (in time or genetic divergence -- we'll get to that next). The y axis just helps spread things out so we can see everything; it doesn't have any units of measurement.
+বৃক্ষের x অক্ষ পার্থক্যের মাত্রা নির্দেশ করে (সময়ে অথবা জেনেটিক ভিন্নতা  হিসেবে -- পরে আমরা এটি নিয়ে কথা বলবো).y অক্ষ শুধু জিনিসগুলোকে সম্প্রসারিত করে যাতে আমরা সবকিছু দেখতে পাই; এর কোনো পরিমাপের একক নেই।
 <br><br>
-The tips of the tree represent samples (i.e., blue cases from the last slide). The internal nodes represent cases that weren't sampled, but that we think were the source of all the cases descendant from them (i.e., the red nodes from the last slide). These relationships are inferred by analyzing the pattern of mutations observed in the sampled cases.
+বৃক্ষের উপরের প্রান্তগুলো নমুনা নির্দেশ করে (আগের স্লাইডের নীল কেসগুলো). অভ্যন্তরীণ নোডগুলো এমন কেসগুলোকে নির্দেশ করে যেগুলোর নমুনা সংগৃহীত হয়নি, কিন্তু আমরা মনে করি এগুলো থেকেই সকল কেসের উৎপত্তি (যেমন, সর্বশেষ স্লাইডের লাল নোডগুলো). সংগৃহিত নমুনাগুলোর পরিবর্তনের ধারা বিশ্লেষণের মাধ্যমে উপরোক্ত সম্পর্ক নির্ধারিত হয়েছে। 
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-## An example
+## একটি উদাহরণ
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
 <p>
-Above, we see an illustration with a phylogenetic tree on the left, where mutations are shown as colored circles. On the right are the corresponding sequences, also with mutations shown as colored circles. We can see that sequences that share the same mutations group together. When sequences appear linked by a flat vertical line, like A and B, this means there are no differences between them – their sequences are identical.
+উপরে বামপাশে আমরা ফাইলোজেনেটিক বৃক্ষের একটি চিত্র দেখতে পাচ্ছি, যেখানে মিউটেশনগুলো রঙিন বৃত্ত দিয়ে দেখানো হয়েছে। ডানপাশে সংশ্লিষ্ট সিকুয়েন্সগুলো দেখানো হয়েছে, এখানেও মিউটেশনগুলো রঙিন বৃত্ত দিয়ে দেখানো হয়েছে। আমরা দেখতে পাচ্ছি যে একই মিউটেশন ঘটেছে এমন সিকুয়েন্সগুলোকে একসাথে গ্রূপ  করা হয়েছে। যখন সিকুয়েন্সগুলোকে সোজা অনুভূমিক রেখা দিয়ে সংযুক্ত করে দেখানো হয়েছে, যেমন A ও B, এর অর্থ হলো তাদের মধ্যে কোনো পার্থক্য নেই - তাদের সিকুয়েন্স হুবহু একই।
 <br><br>
-When a sequence sits on a long line on its own, like C or E, this means it has unique mutations not found in other sequences. The longer the line, the more mutations.
-A and B also have unique mutations (the green circle) not shared by the other sequences, but they are identical to each other.
+যখন একটি সিকোয়েন্স একটি লম্বা রেখার উপর এককভাবে থাকে যেমন C অথবা E ; এর মানে হচ্ছে এগুলো অনন্য পরিবর্তণ যা অন্য কোন সিকোয়েন্স এ পাওয়া যায়  নি।  রেখাটি যত দীর্ঘ হবে, তত বেশি মিউটেশন ঘটেছে বুঝাবে।
+A এবং B তেও অনন্য মিউটেশন ঘটেছে (সবুজ বৃত্ত) যা অন্য কোনো সিকুয়েন্সে ঘটেনি, কিন্তু এরা একে অপরের থেকে অভিন্ন। 
 <br><br>
-Based on this tree, we would conclude that A & B closely related to each other, and D & E are closely related to each other. A & B are more closely related to C than they are to D & E.
+এই বৃক্ষের ভিত্তিতে আমরা সিদ্ধান্তে আসতে পারি যে A ও B একে অপরের সাথে ঘনিষ্ঠভাবে সম্পর্কযুক্ত, এবং D ও E একে অপরের সাথে ঘনিষ্ঠভাবে সম্পর্কযুক্ত। A ও B এর সাথে D ও E এর তুলনায় C এর অধিকতর ঘনিষ্ঠ সম্পর্ক রয়েছে।
 </p>
 
-### Further reading  
-* [How to read a tree: tutorial from Arctic Network](https://artic.network/how-to-read-a-tree.html).  
-* [How to read a tree: video from Khan academy](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
+### আরো পড়ার জন্য  
+* [কিভাবে একটি বৃক্ষ পড়তে হয়: আর্কটিক নেটওয়ার্কের টিউটোরিয়াল](https://artic.network/how-to-read-a-tree.html).  
+* [কিভাবে একটি বৃক্ষ পড়তে হয়: খান একাডেমির ভিডিও](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
 
 </div>
 
@@ -102,19 +102,19 @@ Based on this tree, we would conclude that A & B closely related to each other, 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [How does the "diversity" panel relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,entropy&c=gt-ORF1b_314&legend=open)
+# [এই বৃক্ষের সাথে "বিভিন্নত্য" প্যানেল কিভাবে সম্পর্কিত?](https://nextstrain.org/ncov/2020-03-11?d=tree,entropy&c=gt-ORF1b_314&legend=open)
 
-Let's take a look at the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared. Just as on the last page, we built an alignment of these viral sequences (you can see how all of the analyses mentioned here were done [on GitHub](https://github.com/nextstrain/ncov)).
+চলুন SARS-CoV-2 (COVID-19 সৃষ্টিকারী ভাইরাস) এর প্রথম 169টি</tag> প্রজাতি দেখে নেয়া যাক যা প্রকাশ্যে জনসাধারনের জন্য শেয়ার করা হয়েছে। আগের পৃষ্ঠার মতোই, আমরা এই ভাইরাল সিকুয়েন্সগুলোকে শ্রেণীবিন্যাস করেছি (এখানে উল্লেখকৃত সব বিশ্লেষণ কিভাবে করা হয়েছে তা আপনি [GitHub-এ](https://github.com/nextstrain/ncov)). দেখতে পারবেন
 <br><br>
-Here we're displaying the phylogenetic tree above a bar-chart showing the variation (i.e. mutations) in the genome.
-Without these mutations we couldn't build the tree, so the two are intimitely connected.
+এখানে আমরা একটি বার চার্টের উপরে একটি ফাইলোজেনেটিক বৃক্ষ দেখিয়েছি যা জেনেটিক ভিন্নতা প্রদর্শন করে। 
+এই মিউটেশনগুলো ছাড়া আমরা বৃক্ষটি তৈরি করতে পারতাম না, তাই এদের উভয়ের মধ্যে ঘনিষ্ঠ সম্পর্ক বিদ্যমান।
 <br><br>
-In this "diversity" panel, the horizontal axis is each site in the viral genome (all thirty thousand or so of them!).
-The vertical axis indicates how much variability there is at each site.
+এই "বিভিন্নতা" প্যানেলে, অনুভূমিক অক্ষটি হচ্ছে ভাইরাল জিনোমের প্রতিটি সাইট (ত্রিশ হাজার বা তার বেশি সংখ্যকের সবগুলো!)।
+প্রতিটি সাইটে কতটা ভিন্নতা রয়েছে সেটি উলম্ব অক্ষ নির্দেশ করে।
 <br><br>
-We've coloured the tree according to one of these mutations -- in this case codon 314 in the gene "ORF1b".
-There's no a priori reason to think this mutation is a functional mutation (i.e. conferring any biological change).
-It is precisely mutations such as this which we use to define the relationships between sequences and construct the tree.
+এই পরিবর্তন গুলোর একটি দিয়ে আমরা এই বৃক্ষকে রঙিন করেছি -- এক্ষেত্রে "ORF1b" জিনের কোডন 314 এর মাধ্যমে।
+এই মিউটেশনকে ফাংশনাল মিউটেশন (যেমন কোনো জৈবিক পরিবর্তন ঘটানো) মনে করার কোনো পূর্বানুমিত কারণ নেই।
+সুনির্দিষ্টভাবে ঠিক এটির মতো মিউটেশনই আমরা সিকুয়েন্সগুলোর মধ্যে সম্পর্ককে সংজ্ঞায়িত করতে এবং বৃক্ষটি গঠন করতে ব্যবহার করে থাকি।
 
 <!-- There is NO right-side text -->
 
@@ -122,63 +122,63 @@ It is precisely mutations such as this which we use to define the relationships 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Measuring differences with genetic divergence](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
-This is a phylogeny of the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared.
+# [জেনেটিক ববিভিন্নতার মাধ্যমে পার্থক্য পরিমাপ করা](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
+এটি SARS-CoV-2 (COVID-19 এর জন্য দায়ী ভাইরাস) এর প্রথম 169</tag> প্রজাতির একটি ফাইলোজেনি যা প্রকাশ্যে জনসাধারণের জন্যে শেয়ার করা হয়েছে।
 <br><br>
-Here, the horizontal axis indicates divergence, which is the number of changes (mutations) in the genome, relative to the root of the tree (i.e., the start of the outbreak).
-Some sequences may have zero mutations -- meaning they are all identical to the root (center) of the tree.
-Other viruses have between one and eleven mutations.
+এখানে, অনুভূমিক অক্ষ বিভিন্নতা নির্দেশ করে, যেটি হলো বৃক্ষের মূল (অর্থাৎ প্রাদুর্ভাবের শুরু) এর সাপেক্ষে জিনোমে পরিবর্তনের (মিউটেশন) সংখ্যা।
+কিছু সিকুয়েন্সের ক্ষেত্রে মিউটেশন সংখ্যা শূন্য হতে পারে -- এর অর্থ হলো এদের সবগুলোই বৃক্ষের মূলের (কেন্দ্রের) অভিন্ন ।
+অন্য ভাইরাস সমূহে এক থেকে এগারোবার মিউটেশন ঘটেছে।
 <br><br>
-At the moment, this may not look much like a ‘tree’. Many of the sequences are identical – they sit together on vertical lines like A and B (some are on the left-most part of the tree).
-Others have unique or shared mutations and so sit on lines, or ‘branches’, going to the right.
-You can see how many mutations a branch has by hovering your mouse over it.
+এই মুহূর্তে, এটিকে একটি ‘বৃক্ষ’-এর মত নাও দেখাতে পারে৷ অনেকগুলো সিকুয়েন্সই অভিন্ন - এগুলো A ও B এর মতো অনুভূমিক রেখায় একসাথে বসে (কিছু রয়েছে বৃক্ষের সর্ববামের অংশে)।
+অন্যগুলোর অনন্য বা শেয়ারকৃত মিউটেশন ঘটেছে এবং তাই রেখা বা ‘শাখাগুলোতে’, ডানদিকে বসেছে।
+একটি শাখায় কতটি মিউটেশন রয়েছে তা আপনি সেই শাখার উপর মাউসের পয়েন্টার রেখে দেখতে পারবেন।
 
 <!-- There is NO right-side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Measuring differences over time](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
-We can also visualize how the virus has spread over time by using the sampling date as the x axis.
-Here, the x axis represents the sampling date of each virus. The tips' positions reflect the date those samples were taken. The dates of internal nodes -- the "missing cases" -- are inferred based on when their descendants were sampled and the rate at which the virus mutates.
+# [সময়ের সাথে সাথে্ পার্থক্য পরিমাপ করা](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
+এছাড়াও আমরা X অক্ষে নমুনা সংগ্রহের তারিখ ব্যবহার করে সময়ের সাথে সাথে্ ভাইরাসটি কিভাবে ছড়িয়ে পড়েছে সেটিও দেখতে পারি।
+এখানে, X অক্ষে প্রতিটি ভাইরাসের নমুনা সংগ্রহের তারিখ দেখানো হয়েছে। প্রান্তগুলোর অবস্থান সেই নমুনাগুলো সংগ্রহের তারিখের প্রতিফলন দেখাচ্ছে । অভ্যন্তরীণ নোডগুলোর -- "হারিয়ে যাওয়া কেসগুলোর" -- তারিখ তাদের উত্তরপুরুষদের নমুনা কখন সংগ্রহ করা হয়েছে এবং ভাইরাসটি কি হারে রূপান্তরিত হয়েছে তার উপর ভিত্তি করে অনুমান করা হয়েছে।
 <br><br>
-Notice how many sequences that previously sat in a line (indicating identical genomes) are now spread apart in time.
-This happens when the rate at which the virus mutates is slightly slower than the rate at which is spreads.
-You can scroll up and down between the previous slide and this one, to see how the tree changes.
+লক্ষ্য করুন যে কতগুলো সিকুয়েন্স যেগুলো আগে একই রেখায় বসেছিল (অনুরূপ জিনোম নির্দেশ করতে) সেগুলো এখন সময়ের সাথে সাথে্ ছড়িয়ে ছিটিয়ে দেখাচ্ছে।
+এটি তখন ঘটে যখন ভাইরাস ছড়িয়ে পড়ার হারের চেয়ে ভাইরাসের মিউটেশন ঘটার হার কিছুটা ধীর হয়।
+আগের স্লাইড এবং বর্তমান স্লাইডে বৃক্ষটি কিভাবে পাল্টে গেছে তা দেখার জন্য আপনি উপরে নিচে স্ক্রল করতে পারেন।
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Dating the start of an outbreak](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
+# [প্রাদুর্ভাব শুরু হওয়ার দিন ক্ষণ নির্ধারণ করা](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
 
-We can also use genomics to assign a date to when an outbreak started, even if this was before we realized it was happening.
-Because we can assign dates to each sample and node in the tree, we can use this to infer the date of the 'root' of the tree. This represents the "most recent common ancestor" of all the SARS-CoV-2 sequences we have so far. E.g., your grandparents are the "most recent common ancestors" of you and all of your first cousins.
+এছাড়াও আমরা প্রাদুর্ভাব কখন শুরু হয়েছে তার তারিখ নির্ধারণের জন্য জিনোমিকস ব্যবহার করতে পারি, এমনকি যদি সেটা আমরা প্রাদুর্ভাবের বিষয়টি উপলব্ধি করতে পারার আগেও ঘটে থাকে।
+যেহেতু আমরা বৃক্ষের প্রতিটি নমুনা ও নোডে তারিখ বসাতে পারছি, আমরা এটি ব্যবহার করে বৃক্ষের ‘মূল’ এর তারিখ অনুমান করে নিতে পারি। এটি এখন পর্যন্ত আমাদের পাওয়া সব SARS-CoV-2 সিকুয়েন্সের “সর্বসাম্প্রতিক কমন পূর্বপুরুষ” নির্দেশ করে। যেমন, আপনার দাদা-দাদী আপনার এবং আপনার আপন চাচাতো ভাই-বোনদের সবার “সর্বসাম্প্রতিক কমন পূর্বপুরুষ”।
 <br><br>
-If you mouse over the leftmost vertical line, you can see that the inferred start date is between mid-November and mid-December of 2019 for this particular outbreak.
+যদি আপনি সর্ববামের উলম্ব রেখার উপর মাউস নিয়ে যান, তাহলে আপনি দেখতে পাবেন যে এই নির্দিষ্ট প্রাদুর্ভাবের জন্য অনুমিত শুরুর তারিখ হচ্ছে 2019 সালের নভেম্বরের মাঝামাঝি থেকে ডিসেম্বরের মাঝামাঝির মধ্যে।
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [How should I interpret traits (colors) on the tree?](https://nextstrain.org/ncov/2020-03-11)
-Phylogenetic trees often contain additional information, such as the location of each sample collection. From this, we can infer the locations of internal nodes (hypothesized intermediate, unsampled cases) using mathematical models. This can help us understand how the virus is moving from one location to the next.
+# [আমি কিভাবে এই বৃক্ষের বৈশিষ্ট্যগুলির (রঙের) অর্থ বুঝতে পারি](https://nextstrain.org/ncov/2020-03-11)
+ফাইলোজেনেটিক বৃক্ষে প্রায়শই বাড়তি কিছু তথ্য থাকে, যেমন প্রতিটি নমুনা সংগ্রহের স্থান। এটি থেকে, আমরা গাণিতিক মডেল ব্যবহার করে অভ্যন্তরীণ নোডগুলোর (অনুমিত মধ্যবর্তী, নমুনা না সংগৃহীত হওয়া কেস সমূহ) অবস্থানগুলো অনুমান করতে পারি। ভাইরাসটি এক স্থান থেকে পরের স্থানে কিভাবে ছড়িয়ে পড়ছে  তা বুঝতে এটি আমাদেরকে সাহায্য করতে পারেে।
 <br><br>
-Interpreting these should, however, be done with caution, as the sampling and sequencing or lack thereof can significantly influence the interpretation.
+যাহোক , এগুলোর ব্যাখ্যা করার ক্ষেত্রে সতর্কতা অবলম্বন করতে হবে, কারণ নমুনা সংগ্রহ ও সিকুয়েন্স করা অথবা এগুলোর ঘাটতির কারণে এগুলোর ব্যাখ্যা উল্লেখযোগ্যভাবে পরিবর্তিত হতে পারে।
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# An example
+# একটি উদাহরণ
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
 </p>
 <p>
-On the left, we show a fully sampled phylogenetic tree, with samples from two different locations denoted by orange and blue. As we walk down the tree, we observe three instances where the color (location) switches from orange to blue. From this, we would conclude that there were three different introductions from the orange location to the blue location.
+বাম পাশে, আমরা একটি সম্পূর্ণ নমুনা সংগ্রহকৃত ফাইলোজেনেটিক বৃক্ষ দেখিয়েছি, যেখানে দুটি ভিন্ন স্থান থেকে সংগৃহীত নমুনাগুলোকে কমলা ও নীল রঙে দেখানো হয়েছে। বৃক্ষটি ধরে নিচে নামতে থাকলে, আমরা দেখতে পাই যে তিনটি জায়গায় রঙ (স্থান) কমলা থেকে নীল হয়ে গেছে। এটি থেকে, আমরা এই সিদ্ধান্তে উপনীত হতে পারি যেে কমলা স্থান থেকে নীল স্থানে তিনবার ভিন্ন ভিন্ন ভাবে সংক্রমণ ঘটেছে।
 <br><br>
-But, this interpretation relies on sampling: in the middle tree, we've removed one orange sample. We now observe only one switch from orange to blue, suggesting that there was only one introduction into blue that happened much earlier.
+কিন্তু, এই ব্যাখ্যা নমুনার উপর নির্ভর করে: মাঝখানের বৃক্ষে, আমরা একটি কমলা নমুনা সরিয়ে ফেলেছি। আমরা এখন কমলা থেকে নীলে কেবল একবার পরিবর্তন হওয়া দেখতে পাচ্ছি, যা বুঝাতে চাচ্ছে যে নীল স্থানে কেবল একবার সংক্রমণ ঘটেছে যা বেশ আগে হয়েছিল।
 <br><br>
-In the last example, we have only one sequence from orange, which could lead us to think that there was one introduction from blue into orange.
+আগের উদাহরণে, আমরা কমলা থেকে কেবল একটি সিকুয়েন্স পাচ্ছি, যার ফলে আমাদের মনে হতে পারে যে নীল স্থান থেকে কমলা স্থানে একবার সংক্রমণ ঘটেছিল।
 <br><br>
-Thus, while these inferences can be invaluable, they also must be interpreted with caution.
+তাই, যদিও এই অনুমানগুলো অমূল্য হতে পারে, কিন্তু সেগুলোও অবশ্যই সতর্কতার সাথে ব্যাখ্যা করতে হবে।
 </p>
 ```
 <!-- ############ SLIDE BREAK ############# -->
@@ -186,22 +186,22 @@ Thus, while these inferences can be invaluable, they also must be interpreted wi
 <!-- This is left-side text -->
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [How does the map relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)
+# [এই বৃক্ষের সাথে ম্যাপটি কিভাবে সম্পর্কিত?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)
 
-Here, we show the tree colored by the location of each sample (and inferred location for each internal node).
-If you click ['Explore the data'](https://nextstrain.org/ncov), you can play an animation of the inferred spread of the virus over the course of the outbreak.
+এখানে, আমরা বৃক্ষটিকে প্রত্যেক নমুনা সংগ্রহের স্থানের ভিত্তিতে রঙ করেছি (এবং প্রত্যেকটি অভ্যন্তরীণ নোডের অবস্থান অনুমান করে নিয়েছি).
+যদি আপনি [‘ডাটা এক্সপ্লোর করুন’](https://nextstrain.org/ncov) অপশনে ক্লিক করেন, তাহলে আপনি প্রাদুর্ভাবের সময়ব্যাপী ভাইরাসটি কিভাবে ছড়িয়ে পড়েছে তা অনুমান করে দেখানো একটি অ্যানিমেশন খেলতে / দেখতে পারবেন।
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Advanced reading: uncertainty in trees](https://nextstrain.org/ncov/2020-03-11)
-Earlier, we talked about how internal nodes represent _hypothesized_ unsampled cases. In fact, all trees represent _hypotheses_ about how a pathogen has evolved and moved over time. The trees we present on Nextstrain are point estimates -- that is, the version of this history that maximizes the probability of observing the data that we do.
+# [উচ্চতর পাঠ: বৃক্ষের মাঝে অনিশ্চয়তা](https://nextstrain.org/ncov/2020-03-11)
+পূর্বে, আমরা আলোচনা করেছি যে অভ্যন্তরীণ নোডগুলো _অনুমিত_নমুনা  না সংগ্রহ করা কেসগুলোকে কিভাবে নির্দেশ করে। প্রকৃতপক্ষে, সবগুলো বৃক্ষেই _অনুমান করা হয়েছে_ যে কিভাবে একটি জীবাণু সময়ের সাথে সাথে বিকশিত হয়েছে এবং ছড়িয়ে পড়েছে তা নির্দেশ করা হয়েছে। আমরা Nextstrain-এ যে বৃক্ষগুলো দেখিয়েছি সেগুলো হলো অনুমিত বিন্দু -- অর্থাৎ, ইতিহাসের সেই সংস্করণ যা আমরা যে ডাটা পর্যবেক্ষণ করেছি তা ঘটার সবচেয়ে বেশি সম্ভাব্যতা নির্দেশ করে।
 <br><br>
-However, there is always uncertainty in these estimates. Generally speaking, parts of the tree that are densely sampled are more certain; areas that are sparsely sampled are less certain.
+তবে, এরূপ হিসাবের ক্ষেত্রে সব সময় অনিশ্চয়তা থেকে যায়। সাধারণভাবে বলতে গেলে, বৃক্ষটির যেসব অংশে খুব ঘনভাবে নমুনা সংগ্রহ করা হয়েছে সেগুলো অধিকতর নিশ্চিত; যেসব অঞ্চলে ছড়িয়ে ছিটিয়ে থাকা নমুনা দেখানো হয়েছে সেগুলো কম নিশ্চিত।
 
 ```auspiceMainDisplayMarkdown
-# An illustration
+# একটি চিত্রণ
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Illustration of the uncertainty inherent in tree reconstruction" src="https://github.com/nextstrain/nextstrain.org/raw/c69bfd0750c284ff12f33682f8d82848e13d9e15/static-site/content/help/01-general/figures/hcov_densitree.png"/>
@@ -212,20 +212,20 @@ However, there is always uncertainty in these estimates. Generally speaking, par
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [বিজ্ঞান ভিত্তিক  স্বীকৃতি](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, but particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+আমরা এই প্রাদুর্ভাব নিয়ে কাজ করে যাওয়া সব বিজ্ঞানীদের, বিশেষ করে চীনে যারা কাজ করছেন, তাদের অসাধারণ ও সময়োপযোগী কাজের জন্য স্বীকৃতি প্রদান করছি৷
+কেবল অতি দ্রুত জিনোমিক ডাটা ও মেটাডাটা শেয়ার করা ও বিশ্লেষণ করার কারণেই এটি সম্ভব হয়েছেে।
 
 <br><br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+এছাড়াও এই ডাটাগুলো আপলোড ও শেয়ার করার জন্য প্ল্যাটফর্ম সরবরাহ করায় [GISAID](https://gisaid.org) এর প্রতিও আমরা কৃতজ্ঞতা প্রকাশ করছি।
 
 <!-- Do not need to translate insitutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+এই উৎস ল্যাবগুলোর সংগৃহীত ডাটার জন্য আমরা কৃতজ্ঞ:
 
 * Arizona Department of Health Services
 * Auckland Hospital
@@ -353,19 +353,19 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [বিজ্ঞান ভিত্তিক বিশদ স্বীকৃতি](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+এই ডাটাগুলো [GISAID](https://gisaid.org). এর মাধ্যমে শেয়ার করা হয়েছে।
+আমরা কৃতজ্ঞচিত্তে তাদের অবদান স্বীকার করছি।
 
 <br><br>
 
-To the right we give specific sequences shared by each lab.
+ডান পাশে আমরা প্রত্যেক ল্যাবের শেয়ার করা সুনির্দিষ্ট সিকুয়েন্সগুলো দিয়েছি।
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+এই ল্যাবসমূহের বিজ্ঞানীরা বদান্যতার সাথে SARS-CoV-2 এর জিনোম শেয়ার করেছেন:
 
 * Arizona Department of Health Services
 	* USA/AZ1/2020
