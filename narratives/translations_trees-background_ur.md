@@ -1,2317 +1,1131 @@
 ---
-title: COVID-19 کے پھیلاؤ کا جینومی تجزیہ صورتحال کی رپورٹ 2020-05-08۔
+title: نسلی ارتقائی شجروں کی تشریح کیسے کریں
 authors:
-  - Cassia Wagner
-  - Sidney M. Bell
-  - Nicola Müller
   - Emma Hodcroft
+  - Nicola Müller
   - James Hadfield
+  - Sidney M. Bell
   - Richard Neher
   - Trevor Bedford
 authorLinks:
-  - https://bedford.io/team/cassia-wagner/
-  - https://twitter.com/sidneymbell
-  - https://bedford.io/team/nicola-mueller/
   - https://neherlab.org/emma-hodcroft.html
+  - https://bedford.io/team/nicola-mueller/
   - https://bedford.io/team/james-hadfield/
+  - https://twitter.com/sidneymbell
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
-affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: فراہم کردہ بذریعہ گوگل
-translatorLinks: www.google.com
-license: "CC-BY"  
-licenseLink: "https://creativecommons.org/licenses/by/4.0/"
-dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
-
-abstract: "یہ ہفتہ واری رپورٹ COVID-19 کے پھیلاؤ کا پتہ لگانے کے لیے عوامی طور پر اشتراک کردہ جینوم کے ڈیٹا کا استعمال کرتی ہے۔ اس ہفتے، ہم ایشیا پر مرکوز ہیں۔ ہم ہندوستان کے متعدد علیحدہ، آزادانہ ابتداء؛ سنگاپور میں تارکین وطن کارکنان کے درمیان وبا پھوٹ پڑنے کا تناظر؛ اور پورے خطے میں بین الاقوامی پھیلاؤ کی وسعت کی رپورٹ دیں گے۔"
+affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; Chan Zuckerberg Initiative, CA, USA"
+date: ’’13 مارچ 2020‘‘
+dataset: "https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country"
+abstract: ’’اس تذکرے میں یہ وضاحت کی گئی ہے کہ جینومی وبائیات سے آگاہ کرنے والے نسلی ارتقائی شجروں کو کیسے پڑھا اور ان کی تشریح کی جائے۔ اس ویب سائٹ کو ڈیسک ٹاپ براؤزرس پر ڈسپلے کے لیے بہتر بنایا گیا ہے۔‘‘
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
 <!-- Ensure that links always end in a 'letter' (. counts) If some kind of text doesn't follow them, it breaks the slide. -->
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
-<!-- This is left-side text 1-->
-# [فہرستِ مضامین](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
+<!-- This is left-side text -->
+# [فہرستِ مضامین](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
 
-* [پس منظر کے وسائل](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-05-08?n=2).     
-* [اس ڈیٹا کے بارے میں](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-05-08?n=3).  
-* [ہندوستان میں وباء کا آغاز](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-05-08?n=4).  
-* [سنگاپور میں پھر سے کیسز پھوٹ پڑنے کا تناظر](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-05-08?n=5).  
-* [ملیشیا میں آغاز](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-05-08?n=6).  
-* [بین الاقوامی سرحدوں کے پار بکثرت پھیلاؤ](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-05-08?n=7).    
-* [سائنسی خراجِ تحسین](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-05-08?n=8).
+* [ترسیلی نیٹ ورکس کس طرح نسلی ارتقائی شجروں سے متعلق ہیں](https://nextstrain.org/narratives/trees-background?n=2)؟  
+* [میں کسی شجرے کو کیسے پڑھوں](https://nextstrain.org/narratives/trees-background?n=3)؟  
+* [’’تنوع‘‘ کے پینل کا شجرے سے کیا تعلق ہے](https://nextstrain.org/narratives/trees-background?n=4)؟   
+* [جینیاتی انحراف کے فرق کی پیمائش](https://nextstrain.org/narratives/trees-background?n=5).  
+* [وقت کے ساتھ فرق کی پیمائش](https://nextstrain.org/narratives/trees-background?n=6).  
+* [وبا کے آغاز کی تاریخبندی](https://nextstrain.org/narratives/trees-background?n=7)؟  
+* [مجھے شجرے پر خصلتوں (رنگوں) کی تشریح کیسے کرنی چاہئے](https://nextstrain.org/narratives/trees-background?n=8)؟  
+* [نقشہ کس طرح شجرے سے متعلق ہوتا ہے](https://nextstrain.org/narratives/trees-background?n=9)؟  
+* [ایڈوانسڈ مطالعہ: شجروں کی غیر یقینی صورتحالی](https://nextstrain.org/narratives/trees-background?n=10).  
+* [ڈیٹا سیٹ کے بارے میں](https://nextstrain.org/narratives/trees-background?n=11).  
 
-<!-- This is right-side text -->
-```auspiceMainDisplayMarkdown
-# نمائندہ خلاصہ
-
-ہم نے COVID-19 کے عوامی طور پر اشترک کردہ 2,226 جینوم کا تجزیہ کیا۔ وائرس سے متعلق  ان جینومز کا ایک دوسرے کے ساتھ موازنہ کرکے، ہم نے یہ پتہ لگاسکتے ہیں کہ COVID-19 کس طرح پوری دنیا میں متحرک ہے اور مقامی طور پر پھیل رہا ہے۔ اس ہفتے کے اپ ڈیٹس میں، ہم نے پورے ایشیا میں حالیہ پھیلاؤ پر توجہ مرکوز کی۔ ہماری رپورٹ:
-
-* مارچ 2020 کے دوران پوری دنیا سے دہلی میں متعدد شروعاتیں  
-* سنگاپور میں متعدد علیحدہ شروعات، ان میں سے زیادہ تر مزید پھیلتے ہوئے نظر نہیں آئے  
-* سنگاپور میں کیسز والے وسیع گروہوں میں اضافہ جن کا سماجی عوامل سے تحریک یافتہ ہونے کا امکان ہے
-* بین الاقوامی پھیلاؤ کا ایک جیسا سلسلہ جو باہمی تعاون والی کوششوں کی فوری ضرورت پر زور دیتا ہے
-```
-
-
-<!-- ############ SLIDE BREAK ############# -->
-
-<!-- This is left-side text 2-->
-# [COVID-19 سے متعلق وسائل](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
-ہم نے چند وسائل تیار کیے ہیں جو ہمارے اس بیان میں پیش کردہ ڈیٹا کی تشریح کو آسان بنائیں گے۔
-#### Nextstrain وسائل  
-* [یہاں سے شروع کریں: نسلی ارتقاء کو کیسے پڑھیں](https://nextstrain.org/narratives/trees-background/).  
-* [کورونا وائرسز کا پس منظر](https://nextstrain.org/help/coronavirus/human-CoV).
-* [عام غلط فہمیاں](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
-
-#### بیرونی وسائل  
-* [سائنسداں سے پوچھیں اور اکثر پوچھے گئے سوالات (FAQs)](https://covid19.fas.org/l/en).
-* [WHO کی صورتحال سے متعلق رپورٹیں](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC کے وسائل](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
-* ](https://www.nytimes.com/news-event/coronavirus).NYTimes میں COVID-19 کا کوریج[
-<!-- There is no right-side text -->
+<!-- No right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [نمونہ بندی پر ایک نوٹ](https://nextstrain.org/ncov/asia/2020-05-08?c=country&r=country&d=map&p=grid&legend=closed)
-ابھی ہمارے پاس ایشیا کے 28 ممالک سے لیے گئے نمونوں کی ترتیب بندی ہے۔ یہ ایک حیرت انگیز حصولیابی ہے -- کسی وباء کے دوران ایک نامعلوم، بڑے RNA وائرس کی ترتیب بندی دشوار ہے، اور یہ صرف پوری دنیا کے سائنسدانوں اور معالجین کے محیرالعقل کام اور بروقت ڈیٹا کے اشتراک کے ذریعہ ہی ممکن ہے۔
+# [ترسیل کے نیٹ ورکس نسلی ارتقائی شجروں سے کیسے متعلق ہیں](https://nextstrain.org/ncov/2020-03-11?d=tree&p=full)؟
+مرض آور جرثومے ایک میزبان سے دوسرے میزبان میں ترسیل کے بعد تیز رفتار نقل کاری کے ذریعے پھیلتے ہیں۔ وبا صرف اسی صورت میں پھیل سکتی ہے جب ایک انفیکشن کے نتیجے میں ایک سے زیادہ مابعد کے انفیکشنز پیدا ہوں۔
 <br><br>
-چونکہ یہ ڈیٹا ہمیں وباء کی متعدد کارآمد خصوصیات کے بارے میں بروقت طور پر نتائج اخذ کرنے اور اس کے پھیلاؤ کا پتہ لگانے کا اہل بناتا ہے، لہذا اس بات پر زور دینا اہم ہے کہ ہمارے نتائج دستیاب ڈیٹا تک محدود ہیں۔
+چونکہ مرض آور جرثومے اپنی نقل بناتے اور پھیلتے ہیں، لہذا بہت زیادہ بار جینوم کی نقل بنتی ہے اور جینوم میں یہ بے ترتیب تغیرات (نقل سازی میں غلطیاں) جمع ہوتی جائیں گی؛ یہ معمول کی چیز ہے۔ ایسی بلاترتیب تغیرات سے مرض آور جرثومے کے پھیلنے کا پتہ لگانے اور اس کی ترسیل کے راستوں اور حرکیات کے بارے میں جاننے میں مدد مل سکتی ہے۔
+
+<!-- This is right-side text -->
+```auspiceMainDisplayMarkdown
+# ایک مثال
+<div width="50%" margin="auto">
+<p>
+<img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
+</p>
+<p>
+اوپر کی تصویر ترسیل کے شجرہ کا ایک خاکہ دکھاتی ہے۔ ہر دائرہ ایک کیس (متاثرہ فرد) کی نمائندگی کرتا ہے، جبکہ افقی لکیریں ان کے انفیکشن کے دورانیے کو ظاہر کرتی ہیں۔ اس سے جڑے ہوئے کیسز ایک فرد سے دوسرے میں ترسیل کو دکھاتے ہیں۔
+<br> <br>
+یہاں ہم ترسیل کے شجرہ کی مکمل تصویر دیکھ سکتے ہیں۔ تاہم عملی طور پر، کیسز کے صرف ایک ضمنی سیٹ کا نمونہ لیا جاتا ہے (نیلا)؛ ترسیل کا شحرہ نامعلوم ہے اور عام طور پر کیسز کی تعداد کے صرف سرسری تخمینے ہی دستیاب ہیں۔ جینوم کی ترتیب ہمیں ترسیل کے شجرہ کے اجزاء اخذ کرنے کی سہولت دیتے ہیں۔ اس مثال میں، شجرہ پر تین تغیرات (چھوٹے ہیرے) کو دکھایا گیا ہے۔ وہ سلسلے جن میں یکساں تغیرات ہیں وہ زیادہ قریبی تعلق رکھتے ہیں، لہذا یہ تغیرات ہمیں نمونوں کی گروپ بندی قریبی تعلق رکھنے والے وائرسز کے ایسے گروہ میں کرنے کا اہل بناتے ہیں جو ایک جیسے ترسیلی سلسلوں سے تعلق رکھتے ہیں۔
+</p>
+</div>
+```
+
+
+<!-- ############ SLIDE BREAK ############# -->
+
+<!-- This is left-side text -->
+# [میں کسی شجرے کو کیسے پڑھوں](https://nextstrain.org/ncov/2020-03-11)؟
+
+شجرے کا x محور فرق/اختلاف کے درجے کو دکھاتا ہے (وقتی یا جینیاتی انحراف میں -- ہم اس پر بعد میں آئیں گے). y محور بس چیزوں کو پھیلنے میں مدد دیتا ہے تاکہ ہم ہر چیز دیکھ سکیں؛ اس میں کوئی پیمائشی اکائیاں نہیں ہیں۔
 <br><br>
-مثال کے طور پر، نقشہ مشرق وسطی سے صرف چند ترتیب بندیوں کو دکھاتا ہے۔ یہ اس وجہ سے نہیں ہے کہ COVID-19 اس علاقے میں نہیں پھیل رہا، یا اس سبب سے کہ ان کیسز کو سمجھنا زیادہ اہم نہیں ہے؛ بلکہ، ہمارے پاس ان علاقوں سے زیادہ ڈیٹا نہیں ہے۔ نقشے پر ہر دائرے کی جسامت وباء کا حقیقی سائز دکھانے کے بجائے، یہ دکھاتا ہے کہ اس علاقے سے ابھی کتنا ڈیٹا دستیاب ہے۔
+شجرے کے سرے نمونوں کی نمائندگی کرتے ہیں (جیسے آخری سلائیڈ سے نیلے کیسز). اندرونی گانٹھیں اُن کیسز کی نمائندگی کرتی ہیں جن کے نمونے نہیں لیے گئے، لیکن ہمارے خیال میں وہی دیگر سامنے آنے والے تمام کیسز کا ماخذ تھے (یعنی آخری سلائیڈ سے سرخ گانٹھیں). ان تعلقات کا پتہ نمونہ لیے گئے کیسز میں مشاہدہ کردہ تغیرات کی ترتیب کے تجزیے سے چلتا ہے۔
+
+<!-- This is right-side text -->
+```auspiceMainDisplayMarkdown
+## ایک مثال
+<div width="50%" margin="auto">
+<p>
+<img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
+</p>
+<p>
+اوپر، ہمیں ایک خاکہ نظر آ رہا ہے جس کے بائیں حصے پر ایک نسلی ارتقائی شجرہ ہے، جہاں تغیرات کو رنگدار دائروں سے دکھایا گیا ہے۔ دائیں جانب مشابہ سلسلے ہیں، یہاں بھی تغیرات کو رنگدار دائروں سے دکھایا گیا ہے۔ ہم اُن سلسلوں کو دیکھ سکتے ہیں جو تغیرات کے ایک جیسے گروپ کا باہمی اشتراک کرتے ہیں۔ جب سلسلے ایک سپاٹ عمودی لکیر کے ذریعہ مربوط ہوتے ہوئے نظر آتے ہیں، جیسے کہ A اور B، تو اس کا مطلب ہوتا ہے کہ ان کے درمیان کوئی فرق یا اختلاف نہیں ہے - ان کے سلسلے مشابہ ہیں۔
+<br><br>
+جب کوئی سلسلہ ازخود ایک طویل لکیر پر آجاتا ہے، جیسے کہ C یا E، تو اس کا مطلب ہوتا ہے کہ اس میں ایسی منفرد تغیرات ہیں جو دیگر سلسلوں میں موجود نہیں ہیں۔ لکیر جتنی طویل ہوگی، تغیرات اتنے ہی زیادہ ہوں گے۔
+A اور B میں منفرد تغیرات ہیں (سبز دائرہ) جو دیگر سلسلوں سے مشترک نہیں ہیں، لیکن وہ ایک دوسرے سے مشابہ ہیں۔
+<br><br>
+اس شجرہ کی بنیاد پر، ہم یہ نتیجہ اخذ کریں گے کہ A اور B ایک دوسرے سےقریبی طور پر متعلق ہیں، اور D اور E ایک دوسرے سے قریبی طور پر متعلق ہیں۔ A اور B کا تعلق C سے زیادہ قریبی ہے بجائے D اور E کے۔
+</p>
+
+### مزید پڑھیں  
+* [شجرہ کو کیسے پڑھیں: آرکٹک نیٹ ورک سے ایک ٹیوٹوریل](https://artic.network/how-to-read-a-tree.html).  
+* [شہرہ کو کیسے پڑھیں: خان اکیڈمی سے ایک ٹیوٹوریل](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
+
+</div>
+
+```
+
+
+<!-- ############ SLIDE BREAK ############# -->
+
+<!-- This is left-side text -->
+# [’’تنوع‘‘ کا پینل شجرہ سے کیسے متعلق ہے](https://nextstrain.org/ncov/2020-03-11?d=tree,entropy&c=gt-ORF1b_314&legend=open)؟
+
+آئیے SARS-CoV-2 (وہ وائرس جو COVID-19 کا سبب ہے) کی اولین 169</tag> نسلوں کا جائزہ لیتے ہیں جن کے بارے میں عوامی طور پر بتایا گيا ہے۔ جیسا کہ پچھلے صفحے پر مذکور ہے، ہم نے وائرس کے ان سلسلوں کی ایک وابستگی قائم کی ہے (آپ دیکھ سکتے ہیں کہ یہاں درج تمام تجزیے کس طرح [GiTHub پر](https://github.com/nextstrain/ncov)).تیار کیے گئے ہیں
+<br><br>
+یہاں ہم ایک بار چارٹ کے اوپر نسلی ارتقائی شجرہ دکھا رہے ہیں جو جینوم میں اختلاف (یعنی تغیرات) کو ظاہر کر رہا ہے۔
+ان تغیرات کے بغیر ہم شجرہ نہیں بنا سکتے، لہذا یہ دونوں قریبی طور پر جڑے ہوئے ہیں۔
+<br><br>
+اس ’’تنوع‘‘ پینل میں، افقی محور وائرس کے جینوم میں ہر ایک مقام ہے (ان میں سے تمام تیس ہزار یا اس کے آس پاس!)۔
+عمودی محور ظاہر کرتا ہے کہ ہر مقام پر کتنی تغیر پذیری ہے۔
+<br><br>
+ہم نے ان تغیرات میں سے ایک کے مطابق شجرہ کو رنگ دیا ہے -- اس معاملے میں جین "ORF1b" میں codon 314۔
+یہ سوچنے کی کوئی ترجیحی وجہ نہیں ہے کہ یہ تغیر ایک عملی تغیر (یعنی کسی قسم کی حیاتیاتی تبدیلی کی توثیق)۔
+یہ یقینی تغیرات ہیں جیسے کہ یہ، جسے ہم سلسلوں کے درمیان تعلقات کی وضاحت کرنے اور شجرہ بنانے کے لیے استعمال کرتے ہیں۔
+
+<!-- There is NO right-side text -->
+
+
+<!-- ############ SLIDE BREAK ############# -->
+
+<!-- This is left-side text -->
+# [جینیاتی انحراف کے اختلافات کی پیمائش](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
+یہ SARS-CoV-2 (وہ وائرس جو COVID-19 کا سبب ہے) کے اولین 169</tag> نسلوں کا نسلی ارتقاء ہے جس کا عوامی طور پر پرچار کیا گیا ہے۔
+<br><br>
+یہاں، افقی محور انحراف کی نشاندہی کرتا ہے، جوکہ جینوم میں تبدیلیوں (تغیرات) کی تعداد ہے، جوکہ شجرہ کی جڑ (یعنی وبا کے آغاز) سے متعلق ہے۔
+بعض سلسلوں میں صفر تغیر ہو سکتا ہے -- یعنی یہ سب شجرہ کی جڑ (مرکز) سے مشابہ ہیں۔
+دیگر وائرسز میں ایک اور گیارہ کے درمیان تغیرات ہوئے ہیں۔
+<br><br>
+اس وقت، یہ بڑی حد تک ایک ’شجر‘ جیسا نہیں لگ سکتا ہے۔ بہت سے سلسلے ایک دوسرے کے مشابہ ہیں - یہ ایک ساتھ ایک عمودی لکیر جیسے کہ A اور B پرے ہیں (ان میں سے کچھ شجر کے انتہائی بائیں حصے پر ہیں)۔
+دیگر میں منفرد یا مشترکہ تغیرات ہیں لہذا وہ دائیں جارہی لکیروں یا ’شاخوں‘ پر ہیں۔
+آپ کسی شاخ پر اپنا ماؤس لاکر دیکھ سکتے ہیں کہ اس میں کتنے تغیرات ہیں۔
+
+<!-- There is NO right-side text -->
+
+<!-- ############ SLIDE BREAK ############# -->
+# [وقت کے ساتھ اختلافات کی پیمائش](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
+ہم x محور پر موجود نمونہ لینے کی تاریخ کا استعمال کرتے ہوئے یہ دیکھ سکتے ہیں کہ وقت کے ساتھ وائرس کیسے پھیلا ہے۔
+یہاں، x محور ہر وائرس کا نمونہ لینے تاریخ کی نمائندگی کرتا ہے۔ سِروں کی جگہیں اس تاریخ کی عکاسی کرتی ہیں جب نمونے لیے گئے تھے۔ اندرونی گانٹھوں کی تاریخیں -- ’’گمشدہ کیسز‘‘ -- کو اس بنیاد پر اخذ کیا جاتا ہے کہ ان کے بعد کی نسلوں کے نمونے کب لیے گئے اور وائس کے متغیر ہونے کی شرح کیا ہے۔
+<br><br>
+دیکھیں کہ پہلے ایک لکیر پر موجود کتنے سلسلے (مشابہ جینوم کو ظاہر کرنے والے) اب وقت کے ساتھ دور پھیلتے گئے ہیں۔
+یہ اس وقت ہوتا ہے جب وائرس میں تغیر کی شرح اس کے پھیلاؤ کی شرح سے سست ہوتی ہے۔
+آپ شجرہ میں ہونے والی تبدیلیوں کو دیکھنے کے لیے پچھلے اور موجودہ سلائیڈ کے درمیان اسکرول کرتے ہوئے اوپر نیچے جاسکتے ہیں۔
+<!-- There is NO right-side text -->
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [وبا کے آغاز کی تاریخ بندی کرنا](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
+
+ہم وبا کے آغاز کی تاریخ متعین کرنے کے لیے جینومیات کا استعمال کرسکتے ہیں، ایسی صورت میں بھی کہ یہ وقت سے بھی پہلے ہوئی ہو جب ہمیں اس کا ادراک ہوا تھا۔
+چونکہ ہم شجرہ میں ہر نمونے اور گانٹھ کے لیے تاریخیں متعین کرسکتے ہیں، لہذا اسے ہم شجرہ کی ’جڑ‘ کی تاریخ اخذ کرنے کے لیے استعمال کرسکتے ہیں۔ یہ ہمارے پاس موجود اب تک کے تمام SARS-CoV-2 سلسلوں کے ’’حالیہ تعین مشترکہ مورث اعلی‘‘ کی نمائندگی کرتا ہے۔ مثلاً آپ کے دادا دادی آپ اور آپ کے تمام فرسٹ کزنز کے ’’حالیہ تعین مشترکہ مورث اعلی‘‘ ہیں۔
+<br><br>
+اگر آپ انتہائی بائیں جانب عمودی لکیر پر ماؤس لے جائیں، تو آپ دیکھ سکتے ہیں کہ اس مخصوص وبا کی اخذ کردہ تاریخ آغاز وسط نومبر اور وسط دسمبر 2019 کے درمیان کی ہے۔
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [مارچ کے دوران دہلی میں متعدد شروعاتیں](https://nextstrain.org/ncov/asia/2020-05-08?c=division&d=tree,map&dmax=2020-04-15&dmin=2020-03-01&f_country=India&f_division=Delhi&p=full&r=country&m=div)
-
-1 مارچ سے 15 اپریل کے دوران، دہلی کے علاقے سے 38 وائرل جینومز کا نمونہ لیا گیا اور ان کی ترتیب بندی کی گئی (جسے یہاں دکھایا گیا ہے).
+# [مجھے شجرہ پر خصلتوں (رنگوں) کی تشریح کیسے کرنی ہوگی](https://nextstrain.org/ncov/2020-03-11)؟
+نسلی ارتقائی شجرہ اکثر اضافی معلومات پر مشتمل ہوتے ہیں، جیسے کہ ہر نمونے کو اکٹھا کرنے کا مقام۔ اس سے، ہم ریاضیاتی ماڈلز استعمال کرتے ہوئے اندرونی گانٹھوں کے جائے وقوع (قیاسی متوسط، بغیر نمونے والے کیسز) اخذ کرسکتے ہیں۔ اس سے ہمیں یہ سمجھنے میں مدد مل سکتی ہے کہ وائرس ایک مقام سے دوسرے کی جانب کیسے حرکت کر رہا ہے۔
 <br><br>
-شجر کے درمیان میں، ہمیں قریبی طور پر متعلقہ کیسز کا ایک خاصا بڑا گروہ نظر آرہا ہے۔ یہ ایک واحد شروعات سے ملتا جلتا ہے، اس کے بعد یہ مقامی کمیونٹی میں پھیلا۔
+تاہم، ان امور کی تشریح احتیاط سے کرنی چاہیئے، کیونکہ نمونہ بندی اور سلسلہ بندی یا ان کی غیر موجودگی سے تشریح پر نمایاں اثرات مرتب ہوسکتے ہیں۔
+
+<!-- This is right-side text -->
+```auspiceMainDisplayMarkdown
+# ایک مثال
+<div width="50%" margin="auto">
+<p>
+<img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
+</p>
+<p>
+بائیں جانب، ہم ایک مکمل نمونہ جاتی نسلی ارتقائی شجرہ دکھا رہے ہیں، جس میں دو مختلف مقامات سے نمونے لیے گئے ہیں جنہیں نارنجی اور نیلے رنگوں سے دکھایا گیا ہے۔ جوں جوں ہم شجرہ میں نیچے کی طرف جاتے ہیں، تو ہم تین ایسے مقامات پاتے ہیں جہاں رنگ (مقام) نارنجی سے بدل کر نیلا ہوجاتا ہے۔ اس سے، ہم یہ نتیجہ اخذ کریں گے کہ نارنجی مقام سے نیلے مقام کی جانب تین مختلف آغاز تھے۔
 <br><br>
-البتہ، اس گروہ کے تناظر پر غور کرنا انتہائی اہم ہے۔  
-ہمیں پورے شجرے پر پھیلے ہوئے، متعدد دیگر چھوٹے گروہ اور تنہا کیسز بھی نظر آرہے ہیں، جو پوری دنیا میں علیحدہ شروعات کی نمائندگی کرتے ہیں۔
-ہمارے پاس یہ بتانے کے لیے کافی ڈیٹا نہیں ہے کہ ان دیگر شروعاتوں کے پیچھے کیا ہے -- یہ کیوں یا کس حد تک پھیلے۔ لیکن، ہم یہ کہہ سکتے ہیں کہ، کیسز کا بڑا گروہ اس کہانی کا حصہ ہیں۔
-<!-- There is no right side text -->
+لیکن، یہ تشریح نمونہ بندی پر منحصر ہے: درخت کے وسط میں ہم نے ایک نارنجی نمونہ نکال دیا ہے۔ اب ہم نارنجی سے نیلے میں صرف ایک منتقلی دیکھتے ہیں، جو اس بات کا اشارہ ہے کہ نیلے میں منتقلی کا صرف ایک واقعہ موجود تھا جوکہ خاصا پہلے واقع ہوا تھا۔
+<br><br>
+گزشتہ مثال میں، ہمارے پاس نارنجی سے صرف ایک سلسلہ ہے، جو ہمیں یہ سوچنے پر مجبور کرسکتا ہے کہ نیلے سے نارنجی میں منتقلی ایک بار ہوئی تھی۔
+<br><br>
+پس، چونکہ یہ نتائج کافی اہم ہوسکتے ہیں، لہذا ان کی تشریح بھی لازماً احتیاط سے کی جانی چاہیئے۔
+</p>
+```
+<!-- ############ SLIDE BREAK ############# -->
 
-
+<!-- This is left-side text -->
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [سنگاپور میں SARS-CoV-2 کے دوبارہ پھوٹ پڑنے کے تناظر کا تعین](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&dmin=2020-02-26&f_country=China,Singapore,India,Philippines&p=full&legend=closed&r=division)
+# [نقشہ کس طرح شجرہ متعلق ہوتا ہے](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)؟
 
-گزشتہ 10 ہفتوں میں، سنگاپور میں SARS-CoV-2 بہت بار، متعدد مقامات سے شروع ہوا۔
-<br><br>
-مرض کی ان شروعاتوں میں زیادہ تر کی ترسیل بہت محدود پیمانے پر ہوئی (شجر میں واحد کیسز یا چھوٹے گروہ).
-<br><br>
-البتہ، شجر کے درمیان میں، ہمیں ایک واحد شروعات نظر آرہی ہے جس کی آگے ترسیل بہت بڑے پیمانے پر ہوئی ہے۔
-یہ بڑا، باہم پیوستہ گروہ ہندوستان اور فلپینس کے نمونوں سے زیادہ قریبی طور پر متعلق ہے۔
-<br><br>
-یہ [حالیہ رپورٹوں](https://www.nytimes.com/interactive/2020/04/28/world/asia/coronavirus-singapore-migrants.html) کے مطابق ہے کہ وائرس سنگاپور کے تارکین وطن غیر محفوظ، محبوس آبادیوں میں کافی تیزی سے پھیل رہا ہے۔
-<br><br>
-یہ اس بات کو دکھاتا ہے کہ کس طرح کسی آبادی میں ایک شروعات کے پھیلنے کی حد کا انحصار سماجی عوامل پر ہوتا ہے اور یہ اس بات پر زور دیتا ہے کہ غیر محفوظ گروپوں کا تحفظ کیوں انتہائی اہم ہے۔
-<!-- There is no right side text -->
+یہاں، ہم نے ہر نمونے کے مقام (اور ہر اندرونی گانٹھ کے لیے نتیجے کے طور پر حاصل کردہ مقام) کے لحاظ سے رنگ کیا ہوا شجرہ دکھایا ہے).
+اگر آپ [’ڈیٹا تلاش کریں‘](https://nextstrain.org/ncov) پر کلک کریں، تو آپ پوری وبا کے دوران وائرس کے نتیجہ کے طور پر حاصل کردہ پھیلاؤ کی ایک اینیمیشن چلا سکتے ہیں۔
 
 
 <!-- ############ SLIDE BREAK ############# -->
+
 <!-- This is left-side text -->
-# [ملیشیا میں مکرر شروعاتیں](https://nextstrain.org/ncov/asia/2020-05-08?f_country=Malaysia&d=tree,map&r=division)
-
-Nextstrain پر ہمارے پاس ملیشیا سے 14 ترتیب بندیاں ہیں، جن کا نمونہ اواخر جنوری اور اواخر مارچ میں لیا گيا تھا۔ یہ گروپ کی ترتیب بندی متعدد مختلف نوع کے ساتھ کرتی ہے، جن میں سے ہر ایک خاص طور پر دیگر ایشیائی ممالک میں گردش کر رہی تھیں۔ اس سے یہ بات سامنے آتی ہے کہ ملیشیا میں آس پاس کے علاقے سے متعدد شروعاتیں ہوئیں۔
-
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text -->
-# [پورے ایشیاء میں علاقائی پھیلاؤ](https://nextstrain.org/ncov/asia/2020-05-08?d=tree,map&f_country=Japan,Jordan,Thailand,United%20Arab%20Emirates)
-
-اس خطے کے متعدد دیگر ممالک میں اسی طرح کی ترتیب کا اعادہ ملتا ہے: متعدد شروعاتیں ہوئیں، جن میں سے کئی بہت اچھی طرح قابو میں یا محدود رہیں، لیکن چند نے مقامی ترسیل میں بہت زیادہ اضافہ کیا۔ ہم اس بات کے لیے آپ کی حوصلہ افزائی کرتے ہیں کہ آپ "خود سے ڈیٹا کی چھان بین کریں"۔ جیسا کہ یہاں دکھایا گيا ہے، آپ کو اُردن، جاپان، تھائی لینڈ، اور متحدہ عرب امارات میں بھی یہی ترتیبات ملیں گی۔ اسی طرح کی ترتیبات کویت، جارجیا، تائیوان، اور ویتنام مین بھی دیکھی جا سکتی ہیں۔
+# [ایڈوانسڈ مطالعہ: شجرہ کی غیر یقینی صورتحال](https://nextstrain.org/ncov/2020-03-11)
+پہلے، ہم نے اس پر بات کی تھی کہ اندرونی گانٹھیں کیسے قیاسی_غیر نمونہ جاتی کیسز_کی نمائندگی کرتی ہیں۔ درحقیقت، سبھی شجرے اس بارے میں قیاس کو پیش کرتے ہیں کہ مرض آور کا ارتقاء کیسے ہوا اور وقت کے ساتھ کیسے پھیلا۔ ہماری جانب سے Nextstrain پر پیش کردہ شجرہ نکتہ جاتی تخمینے ہیں -- جوکہ اُس تاریخ کا ورژن ہے جو ہماری طرح استعمال کیے گئے ڈیٹا کے مشاہدے کی امکانیت میں بہت زیادہ اضافہ کردیتا ہے۔
 <br><br>
-اس ترتیب کی یکسانیت اس بات کا ٹھوس ثبوت ہے کہ وائرس مسلسل بین الاقوامی سرحدیں پار کرتا رہا ہے۔ لہذا، ایک ملک میں وباء پر مؤثر کنٹرول کے لیے، یہ ضروری ہے کہ ہم مربوط بین الاقوامی کوششوں کے ذریعہ تمام ممالک میں وباء پر قابو پائیں۔
-<!-- There is no right side text -->
-
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text 13-->
-# [ہم کیا کر سکتے ہیں](https://nextstrain.org/ncov/2020-05-08?c=country&d=map&p=full)
-#### …بطور ایک فرد
-* سماجی فاصلہ رکھنے پر سختی سے عمل کریں، خاص طور پر اگر آپ غیر محفوظ گروپ میں ہیں۔
-* یہ یاد رکھیں کہ اگر آپ بہت زیادہ غیر محفوظ نہیں ہیں تو، آپ کے پاس بہت سے لوگ ایسے ہیں؛ دوسروں کو محفوظ رکھنے کے لیے ان طریقوں پر عمل کریں۔
-* اپنے ہاتھوں کو دھوئیں "جیسے کہ آپ نے ابھی بھی ہری مرچ کاٹی ہو اور آپ کو اپنا کانٹیکٹ لینس تبدیل کرنا ہو۔"  
-* جتنا زیادہ ممکن ہو گھر پر رہیں -- خاص طور اگر آپ بیمار ہوں؛ اضافی سپلائز تیار رکھیں کہ شاید آپ کو خود کو الگ تھلگ کرنے کی ضرورت پڑے۔  
-* اگر آپ آجر ہیں تو، جب بھی ممکن ہو گھر سے کام کرنے کے لیے اپنے ملازمین کی حوصلہ افزائی کریں۔
-
-#### ...بطور ایک عہدے دار  
-* جانچ کو مفت اور وسیع پیمانے پر دستیاب بنائیں۔  
-* سماجی فاصلہ رکھنے کے سخت اقدامات لاگو کریں۔  
-* رابطے کا سراغ لگانے کی جامع کوششوں کے لیے مالی فراہمی کریں اور اسے نافذ کریں۔  
-* سماجی فاصلہ رکھنے سے متاثرہ لوگوں کی مالی امداد کریں۔
-
-
-<!-- This is the right-side text -->
+تاہم، ان تخمینوں میں ہمیشہ ایک غیر یقینی صورتحال رہتی ہے۔ عام طور پر کہا جا سکتا ہے کہ، درخت کے وہ حصے جن میں کافی گھنے نمونے لیے گئے ہیں زیادہ یقینی ہیں؛ جبکہ وہ حصے جہاں کم نمونے ہیں وہ کم یقینی ہیں۔
 
 ```auspiceMainDisplayMarkdown
-# یاد رکھنے والی باتیں
-
-#### ہندوستان میں وباء پوری دنیا میں بہت سے علیحدہ شروعاتوں کا نتیجہ ہے۔  
-<br><br>
-#### سنگاپور میں، سماجی عوامل نے ایک شروعات کو تیز رفتاری سے بڑھا کر ایک بڑی وباء بنادیا، اس کے برعکس دوسری بہت شروعاتیں ایسی تھیں جو وسیع پیمانے پر نہیں پھیلیں۔
-<br><br>
-#### ایشیا میں وباء کی زیادہ تر ممالک کی بھی یہی سرگزشت ہے: دیگر ممالک سے متعدد علیحدہ شروعاتیں، جن میں سے کچھ کے نتیجے میں مقامی طور پر پھیلاؤ ہوا۔ وقت کے ساتھ ساتھ متعدد شروعاتوں کی یہ ترتیب اس وباء کو پوری طرح کنٹرول کرنے کے لیے بین الاقوامی اور علاقائی تعاون کی ضرورت پر زور دیتی ہے۔
+# ایک تصویری خاکہ
+<div width="50%" margin="auto">
+<p>
+<img width="700px" alt="Illustration of the uncertainty inherent in tree reconstruction" src="https://github.com/nextstrain/nextstrain.org/raw/c69bfd0750c284ff12f33682f8d82848e13d9e15/static-site/content/help/01-general/figures/hcov_densitree.png"/>
+</p>
+</div>
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 
-
-
-
-
-
-<!-- ############ SLIDE BREAK ############# -->
-
 <!-- This is left-side text -->
-# [سائنسی خراجِ تحسین](https://nextstrain.org/ncov/2020-05-06?d=map&c=author)
+# [سائنسی خراجِ تحسین](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-ہم ان تمام سائنسدانوں کی حیرت انگیز اور بروقت کاوشوں کو خراجِ تحسین پیش کرتے ہیں جو اس وباء کے معاملے میں شامل ہیں۔
+ہم اس وبا میں شریک تمام سائنسدانوں، لیکن خاص طور پر چین میں کام کرنے والے سائنسدانوں کی حیرت انگیز اور بروقت کاوشوں کو خراجِ تحسین پیش کرتے ہیں۔
 صرف جینومی ڈیٹا اور میٹا ڈیٹا کے تیز رفتار اشتراک سے ہی اس طرح تجزیے ممکن ہوئے۔
-<br><br>
-ہر لیباریٹری کے ذریعہ فراہم کردہ خصوصی ترتیبات [یہاں درج ہیں](https://github.com/nextstrain/ncov/commit/75edf84600fdf9ca6ef086d0aefd2978bc621eca).
-<br><br>
-ہم GISAID کے بھی انتہائی شکرگزار ہیں کہ انہوں نے ایک ایسا پلیٹ فارم مہیا کیا جس کے ذریعے ان ڈیٹا کو اپ لوڈ اور ان کا اشتراک کیا جاسکا۔
 
-<!-- Do not need to translate institutions names -->
+<br><br>
+
+ہم [GISAID](https://gisaid.org) کے بھی انتہائی شکرگزار ہیں کہ انہوں نے ایک پلیٹ فارم مہیا کیا جس کے ذریعے ان ڈیٹا کو اپ لوڈ اور ان کا اشتراک کیا جاسکا۔
+
+<!-- Do not need to translate insitutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
 ہم ان ابتدائی لیبز کی جانب سے جمع کردہ ڈیٹا کے لیے بھی شکر گزار ہیں:
 
-* AIDS Vaccine Research Laboratories
-* ARS Algarve - Laboratorio Laura Ayres
-* AZ Department of Health Services
-* AZ SPHL, Arizona Department of Health Services
-* Akershus University Hospital, Department for Microbiology and Infectious Disease Control
-* Alaska State Virology Laboratory
-* Andersen Lab, The Scripps Research Institute
 * Arizona Department of Health Services
-* Arizona State University Health Services
 * Auckland Hospital
 * BCCDC Public Health Laboratory
 * Bamrasnaradura Hospital
-* Beijing Institute of Microbiology and Epidemiology
-* Brian D. Allgood Army Community Hospital
 * Bundeswehr Institute of Microbiology
-* CH Barreiro Montijo
-* CH Compiegne Laboratoire de Biologie
-* CH Jean de Navarre Laboratoire de Biologie
-* CH VN Gaia - Espinho
-* CHBarreiro Montijo
-* CHMT
-* CHRU Bretonneau - Serv. Bacterio-Virol.
-* CHRU Pontchaillou - Laboratoire de Virologie
-* CHTMAD
-* CHU - Hopital Cavale Blanche - Labo. de Virologie
-* CHU Coimbra
-* CHU Coimbra - Pediatrico
-* CHU Gabriel Montpied
-* CHU Purpan - Laboratoire de Virologie - Institut Federatif de Biologie
-* CHUA - Faro
-* CHULC - H Curry Cabral
-* CHULC - H D Estefania
-* CMIP
 * CNR Virus des Infections Respiratoires - France SUD
-* COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS
 * CR&WISCO GENERAL HOSPITAL
-* CT-Dr. Katherine A. Kelley State Public Health Lab
-* Cabinet medical
-* Cadham Provincial Laboratory
 * California Department of Health
 * California Department of Public Health
-* Center for Virology, Medical University of Vienna
+* Center of Medical Microbiology, Virology, and Hospital Hygiene
 * Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Duesseldorf
 * Centers for Disease Control, R.O.C. (Taiwan)
-* Central Virology Laboratory
-* Centre Hositalier Universitaire de Rouen Laboratoire de Virologie
-* Centre Hospitalier Compiegne Laboratoire de Biologie
-* Centre Hospitalier Lucien Hussel
-* Centre Hospitalier Regional Universitaire de Nantes Laboratoire de Virologie
-* Centre Hospitalier Rene Dubois Laboratoire de Microbiologie - Bat A
-* Centre Hospitalier Saint Joseph Saint Luc
-* Centre Hospitalier de Bourg en Bresse
-* Centre Hospitalier de Macon
-* Centre Hospitalier de Valence
-* Centre Hospitalier des Vals d'Ardeche
 * Centre for Human and Zoonotic Virology (CHAZVY), College of Medicine University of Lagos/Lagos University Teaching Hospital (LUTH), part of the Laboratory Network of the Nigeria Centre for Disease Control (NCDC)
 * Centre for Infectious Diseases and Microbiology - Public Health
 * Centre for Infectious Diseases and Microbiology Laboratory Services
-* Centre for Infectious Diseases and Microbiology Public Health
-* Centre for Infectious Diseases and Microbiology- Public Health
 * Centro Hospital do Porto, E.P.E. - H. Geral de Santo Antonio
 * Centro Hospitalar e Universitario de Sao Joao, Porto
-* Chan-Zuckerberg Biohub
 * Charite Universitatsmedizin Berlin, Institute of Virology; Institut fur Mikrobiologie der Bundeswehr, Munich
-* Chiba Prefectural Institute of Public Health
-* Chiu Laboratory, University of California, San Francisco
-* Clinica Alemana de Santiago, Chile
-* Clinica Santa Maria, Santiago, Chile
-* Clinical Diagnostics Laboratory, Diagnostic & Experimental Pathology, Lilly Research Laboratories
-* Clinical Microbiology Lab
-* Clinique AVERAY LA BROUSTE, Med. Polyvalente
-* Connecticut State Department of Public Health
-* DC Public Health Lab/ Dept. of Forensic Sciences
-* Dasman Diabetes Institute
-* Dasman Diabetes Institute and Virology Laboratory Ministry of Health
-* Department for Virology, Molecular Biology and Genome Research, R. G. Lugar Center for Public Health Research,  National Center for Disease Control and Public Health (NCDC) of Georgia.
-* Department of Clinical Microbiology
-* Department of Clinical Pathology, Pamela Youde Nethersole Eastern Hospital
-* Department of Clinical Pathology, Tuen Mun Hospital
-* Department of Clinical Pathology, Tuen Mun Hospital, 23 Tsing Chung Koon Road, Tuen Mun, N.T.
 * Department of Infectious Diseases, Istituto Superiore di Sanita, Roma , Italy
-* Department of Infectious Diseases, Istituto Superiore di Sanita, Rome, Italy
 * Department of Infectious and Tropical Diseases, Bichat Claude Bernard Hospital, Paris
 * Department of Internal Medicine, Triemli Hospital
 * Department of Laboratory Medicine, National Taiwan University Hospital
-* Department of Medical Microbiology, University Malaya Medical Centre
-* Department of Microbiology, Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong SAR, China
 * Department of Microbiology, Institute for Viral Diseases, College of Medicine, Korea University
-* Department of Microbiology, PathWest QEII Medical Centre
-* Department of Pathology, Princess Margaret Hospital
 * Department of Pathology, Toshima Hospital
-* Department of Pathology, United Christian Hospital
-* Department of Pathology, University of Cambridge
 * Department of Virology III, National Institute of Infectious Diseases
 * Department of Virology and Immunology, University of Helsinki and Helsinki University Hospital, Huslab Finland
-* Department of Virus and Microbiological Special diagnostics, Statens Serum Institut, Copenhagen, Denmark.
 * Department of microbiology laboratory,Anhui Provincial Center for Disease Control and Prevention
 * Dept. of Pathology, National Institute of Infectious Diseases
 * Dept. of Virology III, National Institute of Infectious Diseases
 * Dienst Gezondheid & Jeugd Zuid-Holland Zuid
-* Division of Consolidated Laboratories
-* Division of Consolidated Laboratories Services
-* Division of Consolidated Laboratory Services
 * Division of Infectious Diseases, Department of Internal Medicine, Korea University College of Medicine
 * Division of Infectious Diseases, University Hospital Zurich
 * Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention
-* Dr. Georges-L.-Dumont University Hospital Centre
-* Dunedin Hospital
 * Dutch COVID-19 response team
-* E. Gulbja Laboratorija
-* EHPAD - Residences les Cedres
 * ErasmusMC
-* FL Bur. of Public Health Laboratories-Jacksonville
-* FL Bureau of Health Laboratories Tampa
-* FL Bureau of Public Health Laboratories-Miami
-* FL Bureau of Public Health Laboratories-Tampa
-* FUNDACION JIMENEZ DIAZ
-* Forde Hospital  Department of Microbiology
 * Foundation Elisabeth-Tweesteden Ziekenhuis
 * Foundation Pamm
 * Fujian Center for Disease Control and Prevention
-* Fundacion Jimenez Diaz
-* Furst Medical Laboratory
-* GA Department of Public Health
-* GA Department of Public Health Laboratory
-* GH Les Portes du Sud
-* Geelong Centre for Emerging Infectious Diseases
 * General Hospital of Central Theater Command of People's Liberation Army of China
-* Gorgas Memorial Institute for Health Studies
 * Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provincial Public Health
 * Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provinical Public Health
 * Guangdong Provincial Center for Diseases Control and Prevention;Guangdong Provincial Institute of Public Health
 * Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention
-* Gundersen Molecular Diagnostic Laboratory
-* Gundersen Molecular Diagnostics Laboratory
-* H Beatriz Angelo
-* H Braga
-* H Dr Nelio Mendonca - Funchal
-* H Dr. Nelio Mendonca - Funchal
-* H Evora
-* H Garcia de Orta
-* H Guimaraes
-* H Santarem
-* HI Dept. of Health, State Laboratories Division
-* HOSPITAL CLINIC
-* HOSPITAL DE CRUCES.
-* HOSPITAL GENERAL DE SEGOVIA
-* HOSPITAL SANTA MARIA NAI
-* HOSPITAL TXAGORRITXU
-* HOSPITAL UNIVERSITARIO LA PAZ
-* HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES
-* HSE Ilha Terceira - Angra do Heroismo
 * HUS Diagnostiikkakeskus, Hallinto
 * Hangzhou Center for Disease Control and Prevention
 * Hangzhou Center for Disease and Control Microbiology Lab
-* Hangzhou Center for Diseases Control and Prevention
 * Harborview Medical Center
-* Health Board Laboratory of Communicable Diseases
 * Hong Kong Department of Health
-* Hopital Instruction des Armees - BEGIN
-* Hopital Prive de l'Est Lyonnais
-* Hopital Robert Debre Laboratoire de Virologie
-* Hopital franco britannique - Laboratoire
-* Hopital franco britannique - Service des Urgences
-* Hopitaux universitaires de Geneve Laboratoire de Virologie
-* Hospital General Regional No.66, Ciudad Juarez, Chihuahua.
-* Hospital General y Universitario de Guadalajara
 * Hospital Israelita Albert Einstein
-* Hospital Prof. Doutor Fernando Fonseca, EPE
-* Hospital San Pedro
-* Hospital Sao Joaquim Beneficencia Portuguesa
-* Hospital Universitari Germans Trias i Pujol(HUGTiP)/Fundacio Lluita contra la SIDA (FLSida)/IRTA-CReSA
-* Hospital Universitari Vall d'Hebron (HUVH) - Vall d'Hebron Research Institute (VHIR)
-* Hospital Universitario 12 de Octubre
-* Hospital Universitario La Paz
-* Hospital Universitario Ramon y Cajal
-* Hospital Universitario Virgen de las Nieves
-* Hospital Universitario de Canarias
-* Hospital de Talca, Chile
-* Hospital of Southern Norway - Kristiansand, Department of Medical Microbiology
-* IA State Hygienic Laboratory
 * IL Department of Public Health Chicago Laboratory
-* IN State Department of Health Laboratory Services
 * INMI Lazzaro Spallanzani IRCCS
-* Illinois Department of Public Health Chicago Laboratory
 * Indian Council of Medical Research - National Institute of Virology
 * Indian Council of Medical Research-National Institute of Virology
-* Indian Council of Medical Research-National Institute of Virology, Microbial Containment Complex
-* Instirut Pasteur Dakar
-* Institut Medico legal- Hop R. Poincare
-* Institut Pasteur Dakar
-* Institut des Agents Infectieux (IAI) Hospices Civils de Lyon
-* Institut des Agents Infectieux (IAI), Hospices Civils de Lyon
-* Institut pasteur Dakar
-* Institute information  KU Leuven, Clinical and Epidemiological Virology
-* Institute of Microbiology Universidad San Francisco de Quito
-* Institute of Microbiology and Immunology, Faculty of Medicine, University of Ljubljana
-* Institute of Microbiology, Universidad San Francisco de Quito
 * Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College
 * Institute of Viral Disease Control and Prevention, China CDC
-* Institute of Virology, Biomedical Research Center of the Slovak Academy of Sciences, Bratislava; Public Health Authority of the Slovak Republic, Bratislava
-* Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran
 * Instituto Nacional de Enfermedades Respiratorias
-* Instituto Nacional de Salud
-* Instituto Nacional de Saude (INSA)
-* Instituto Sabin
-* Instituto de Diagnostico y Referencia Epidemiologicos
-* Ishikawa Prefectural Institute of Public Health and Environmental Science
-* JABER AL AHMAD AL SABAH HOSPITAL  KUWAIT CITY
-* Jaber Al Ahmad Al Sabah Hospital
-* Japanese Quarantine Stations
-* Jiangxi Province Center for Disease Control and Prevention
-* Jiangxi province Center for Disease Control and Prevention
-* Jingzhou Center for Disease Control and Prevention
-* KS Health and Environmental Laboratories
-* KU Leuven, Clincal and Epidemiological Virology
 * KU Leuven, Clinical and Epidemiological Virology
 * Klinik Hirslanden Zurich
-* Klinisk mikrobiologi, Region Vasterbotten
-* Kochi Prefectural Institute of Public Health
 * Korea Centers for Disease Control & Prevention (KCDC) Center for Laboratory Control of Infectious Diseases Division of Viral Diseases
-* L'Air du Temps
-* LA Office of Public Health Laboratories
-* LABM GH nord Essonne
-* LACEN RJ - Laboratorio Central de Saude Publica Noel Nutels
-* LACEN/ES - Laboratorio Central de Saude Publica do Espirito Santo
-* Lab voor klinische biologie
-* Labo BM - Site de Juvisy - Hopital General
-* Laboiratorio Fleury
 * Laboratoire National de Sante
-* Laboratoire National de Sante, Microbiology, Virology
-* Laboratoire Nationale de Sante, Microbiology, Virology
-* Laboratoire de Virologie Institut de Virologie - INSERM U 1109 Hopitaux Universitaires de Strasbourg
 * Laboratoire de Virologie, HUG
-* Laboratorio Central de Saude Publica Professor Goncalo Moniz  LACEN/BA
-* Laboratorio Estatal de Salud Publica del Estado de Mexico
-* Laboratorio Estatal de Salud Publica del Estado de Puebla
-* Laboratorio Estatal de Salud Publica del Estado de Queretaro
-* Laboratorio Hermes Pardini
-* Laboratorio Simili
-* Laboratorio de Ecologia de Doencas Transmissiveis na Amazonia, Instituto Leonidas e Maria Deane - Fiocruz Amazonia
-* Laboratorio de Referencia Nacional de Virus Respiratorio. Instituto Nacional de Salud. Peru
-* Laboratorio de Referencia Nacional de Virus Respiratorios. Instituto Nacional de Salud Peru
 * Laboratorio di Microbiologia e Virologia, Universita Vita-Salute San Raffaele, Milano
 * Laboratory Medicine
-* Laboratory of Infectious Diseases, Department of Biomedical and Clinical Sciences L. Sacco, University of Milan
-* Laboratory of Microbiology, Department of Medicine, National and Kapodistrian University of Athens, Greece
-* Laboratory of Molecular Genetics, 2nd Faculty of Medicine, Charles University in Prague, Prague, Czech Republic
-* Laboratory of Molecular Virology International Center for Genetic Engineering and Biotechnology (ICGEB)
-* Laboratory of Molecular Virology International Center fro Genetic Engineering and Biotechnology (ICGEB)
-* Laboratory of Molecular Virology, Pontificia Universidad Catolica de Chile
 * Lapland Central Hospital
-* Le Chateau de Seine-Port
-* MA State Public Health Laboratory
-* MD DOH Laboratories Administration
 * MHC Brabant Zuidoost
 * MHC Drente
 * MHC Flevoland
 * MHC Gooi & Vechtstreek
 * MHC Haaglanden
-* MHC Hart voor Brabant
 * MHC Kennemerland
 * MHC Rotterdam-Rijnmond
 * MHC Utrecht
 * MHC West-Brabant
-* MN PHL Division, Minnesota Department of Health
-* MO State Public Health Laboratory
 * MSHS Clinical Microbiology Laboratories
 * Massachusetts Department of Public Health
-* Mater Pathology
-* Max von Pettenkofer Institute, Virology, National Reference Center for Retroviruses, LMU Munich
-* Microbial Genomics Laboratory, Institut Pasteur Monteivdeo
-* Microbial Genomics Laboratory, Institut Pasteur Montevideo
-* Microbial Genomics Laboratory, Institut Pasteur Montevideo, Uruguay
-* Microbiological Diagnostic Unit Public Health Laboratory
-* Ministry of Health Turkey
-* Minnesota Department of Health, Public Health Laboratory
-* Molecular Biology and Biotechnology Lab II
-* Molecular Diagnostic Services
-* Molecular Diagnostic Services and FLowpath
 * Monash Medical Centre
-* Motol University Hospital
-* NC State Laboratory of Public Health
-* NE Public Health Laboratory
-* NH Department of Health and Human Services Public Health Labs
-* NH Dept. of Health and Human Services Public Health Labs
 * NHC Key laboratory of Enteric Pathogenic Microbiology, Institute of Pathogenic Microbiology
-* NIC Viral Respiratory Unit - Institut Pasteur of Algeria
-* NJ Public Health and Environmental Laboratories
-* NMIMR, Department of Virology
-* NRL for Influenza, Centrum Epidemiology and Microbiology of National Institute of Public Health, Czech Republic
-* NV State Public Health Laboratory
-* NV-Southern Nevada Public Health Laboratory
-* NYC Department of Health and Mental Hygiene
-* NYU Langone Health
 * National Centre for Infectious Diseases
-* National Influenza Center - Instituto Adolfo Lutz
 * National Influenza Center - National Institute of Hygiene and Epidemiology (NIHE)
-* National Influenza Center, Indian Council of Medical Research - National Institute of Virology
-* National Influenza Center, National Institute of Hygiene and Epidemiology (NIHE)
 * National Influenza Centre, National Public Health Laboratory, Kathmandu, Nepal
-* National Institute for Communicable Diseases of the National Health Laboratory Service
 * National Institute for Viral Disease Control and Prevention, China CDC
 * National Public Health Laboratory
 * National Public Health Laboratory, National Centre for Infectious Diseases
-* National Public Health Surveillance Laboratory, Vilnius, Lithuania
-* Nordland Hospital - Bodo,  Laboratory Department, Molecular Biology Unit
-* OH Department of Health Laboratory
-* OR State PHL-Virology/Immunology Section
-* Ochsner Health
-* Oregon State Public Health- Virology section
-* Oslo University Hospital, Department of Medical Microbiology
-* Ospedale Civile Castel Di Sangro
-* Ospedale Civile Giuseppe Mazzini
-* Ospedale Civile Giuseppe Mazzini, Teramo
-* Ospedale Regionale San Salvatore
-* Ospedale San Liberatore di Atri
-* Ostfold Hospital Trust -Kalnes Centre for Laboratory Medicine Section for gene technology and infection serology
-* PA Department of Health, Bureau of Laboratories
-* Parc des Dames
-* PathWest Laboratory Medicine WA
-* Pathology North
 * Pathology Queensland
-* Presidio Ospedaliero "S. Spirito" - PESCARA
-* Presidio ospedaliero "Santo Spirito"
-* Prince of Wales Hospital
 * Providence Regional Medical Center
-* Public Health Laboratory
-* Public Health Laboratory, Saudi CDC
-* Public Health Ontario
-* Public Health Ontario Laboratories
 * Public Health Ontario Laboratory
-* Queen Elizabeth II Health Science Centre
-* Queens Medical Centre, Clinical Microbiology Department / DeepSeq Nottingham
-* R. G. Lugar Center for Public Health Research,  National Center for Disease Control and Public Health (NCDC) of Georgia.
-* RI State Health Laboratories
-* RI State Health Laboratory
 * RIVM
-* Ramathibodi Hospital
-* Regional Virus Laboratory, Belfast
-* Residence Eleusis
-* Residence Villa Caroline
-* Residence de maintenon
-* Residence les Marines
 * Respiratory Virus Unit, Microbiology Services Colindale, Public Health England
-* Rockhampton Base Hospital
-* Roy Romanow Provincial Laboratory
-* Royal Darwin Hospital
-* Royal Darwin Hospital Pathology
-* Russian State Collection of Viruses
-* SC Dept of Health and Env. Control-Bureau of Laboratories
-* SYNLAB Eesti OU
-* Saitama Medical University
-* Saitama Medical University Hospital
-* Saitama Prefectural Institute of Public Health
-* Santa Clara County Public Health Department
 * Seattle Flu Study
-* Second Hospital of Anhui Medical University
-* Secretaria de Salud Medellin
-* Sentinelles network
 * Serology, Virology and OTDS Laboratories (SAViD), NSW Health Pathology Randwick
-* Service de Biologie Medicale - BP 125
-* Service de Biologie clinique
-* Service des Urgences
-* Servicio Microbiologia, Hospital Clinico Universitario, Valencia
 * Servicio Microbiologia. Hospital Clinico Universitario. Valencia.
-* Servicio Virosis Respiratorias-Departamento Virologia-INEI
-* Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia
-* Servicio de Microbiologia. Hospital Clinico Universitario de Valencia
-* Shandong Provincial Center for Disease Control and Prevention
-* Shanghai Public Health Clinical Center, Shanghai Medical College, Fudan University
 * Shenzhen Key Laboratory of Pathogen and Immunity, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital
-* Shenzhen Third People's Hospital
 * Singapore General Hospital
-* Singapore General Hospital, Molecular Laboratory, Division of Pathology
-* Sir M P Shah Government Medical College
-* Sir M P Shah Government Medical College, Jamnagar
 * Sorbonne Universite, Inserm et Assistance Publique-Hopitaux de Paris (Pitie Salpetriere)
-* South China Agricultural University
 * State Health Office Baden-Wuerttemberg
-* State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China 310003
-* State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China. 310003
-* State Key Laboratory for Emerging Infectious Diseases Department of Microbiology Li Ka Shing Faculty of Medicine The University of Hong Kong
-* State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University
-* Stavanger University Hospital, Department of Medical Microbiology
-* Sullivan Nicolaides Pathology
-* TGen North
-* TSGH-CP molecular lab
-* Tai Lung Veterinary Laboratory, Agriculture, Fisheries and Conservation Department
 * Taiwan Centers for Disease Control
-* Texas DSHS Lab Services
 * Texas Department of State Health Services
-* Texas Department of State Health Services Lab Services
 * The Central Hospital Of Wuhan
-* The Chaim Sheba Medical Center
 * The National Institute of Public Health Center for Epidemiology and Microbiology
-* The National Laboratory of Health, Environment and Food, Maribor, Slovenia
-* The National University Hospital of Iceland
-* The Ohio State University
-* The Ohio State University Wexner Medical Center
-* The Republican Research and Practical Center for Epidemiology and Microbiology
 * The University of Hong Kong - Shenzhen Hospital
 * Tianmen Center for Disease Control and Prevention
 * UCD National Virus Reference Laboratory
-* ULSS9 Distretto di Bussolengo
-* UT-Unified State Labs: Public Health Utah DOH
-* UW Virology Lab
-* Unilabs Laboratory Medicine
+* University of Washington Virology Lab
 * Union Hospital of Tongji Medical College, Huazhong University of Science and Technology
-* Universidade Federal do Rio de Janeiro
-* Universidade Federal do Rio de Janeiro - UFRJ
-* University Hospital Basel, Clinical Virology
-* University Hospital of Northern Norway, Department for Microbiology and Infectious Disease Control
-* University of Wisconsin - Madison AIDS Vaccine Research Laboratories
-* University of Wisconsin - Madison: Influenza Research Institute
-* University of Wisconsin-Madison AIDS Vaccine Research Laboratories
-* University of Wisconsin-Madison AIDS Vaccine Research Laboratory
-* University of Wisconsin-Madison, AIDS Vaccine Research Laboratories
-* Unknown
-* Utah Public Health Laboratory
-* VA DCLS
-* VA-Division of Consolidated Laboratory Services
-* Vaccine Research, Development and Application Center, Erciyes University
 * Valley Medical Center
-* Vestfold Hospital, Tonsberg  Department of Microbiology
-* Victorian Infectious Diseases Reference Laboratory (VIDRL)
-* Viral Respiratory Lab, National Institute for Biomedical Research (INRB)
-* Virginia Division of Consolidated Laboratories
-* Virginia Division of Consolidated Laboratory Services
-* ViroGenetics - BSL3 Laboratory of Virology; Human Genome Variation Research Group & Genomics Centre MCB; Bioinformatics Research Group  Department of Virology
-* Virological Research Group, Szentagothai Research Centre
-* Virological Research Group, Szentagothai Research Centre, University of Pecs
-* Virology Department, Royal Infirmary of Edinburgh, NHS Lothian
-* Virology Department, Royal Infirmary of Edinburgh, NHS Lothian / School of Biological Sciences, University of Edinburgh / Institute of Genetics and Molecular Medicine, University of Edinburgh
 * Virology Department, Sheffield Teaching Hospitals NHS Foundation Trust
-* Virology Laboratory, Department of Biomedical Sciences and Public Health, University Politecnica delle Marche
 * Virology Unit, Institut Pasteur du Cambodge.
-* Virology laboratory Ministry of Health Kuwait sequenced at Dasman Diabetes Institute
-* WA State Department of Health
-* WHO National Influenza Centre Russian Federation
-* Wadsworth Center, New York State Department of Health
-* Wadsworth Center, New York State Department.of Health
 * Wales Specialist Virology Centre
 * Washington State Department of Health
 * Washington State Public Health Lab
 * Weifang Center for Disease Control and Prevention
-* Wellington Hospital
 * West of Scotland Specialist Virology Centre, NHSGGC
-* West of Scotland Specialist Virology Centre, NHSGGC / MRC-University of Glasgow Centre for Virus Research
 * Wisconsin Department of Health Services
 * Wuhan Fourth Hospital
-* Wuhan Institute of Virology, Chinese Academy of Sciences
 * Wuhan Jinyintan Hospital
 * Wuhan Lung Hospital
-* Wyoming Public Health Laboratory
-* Yale COVID-19 Biorepository
-* Yale Clinical Virology Laboratory
 * Yongchuan District Center for Disease Control and Prevention
 * Zhejiang Provincial Center for Disease Control and Prevention
 * Zhongxian Center for Disease Control and Prevention
-* deCODE genetics
-* n/a
-* ACT Pathology, The Canberra Hospital
-* AIDS Vaccine Research Laboratories
-* ARS Algarve - Laboratorio Laura Ayres
-* AZ Department of Health Services
-* AZ SPHL, Arizona Department of Health Services
-* Akershus University Hospital, Department for Microbiology and Infectious Disease Control
-* Alaska State Virology Laboratory
-* Andersen Lab, The Scripps Research Institute
+
+```
+
+
+<!-- ############ SLIDE BREAK ############# -->
+
+<!-- This is left-side text -->
+# [تفصیلی سائنسی خراجِ تحسین](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+
+اس ڈیٹا کا اشتراک [GISAID](https://gisaid.org). کے ذریعے کیا گیا ہے۔
+ہم احسان مندی کے جذبے کے ساتھ ان کے تعاون کو سراہتے ہیں۔
+
+<br><br>
+
+دائیں جانب ہم ہر لیب کی جانب سے اشتراک کردہ مخصوص سلسلے دے رہے ہیں۔
+
+<!-- This is right-side text -->
+```auspiceMainDisplayMarkdown
+
+ان تحقیقاتی ڈیٹا کی لیبز کے سائنسدانوں نے SARS-CoV-2 کے جینومز کا فراخدلی سے اشتراک کیا:
+
 * Arizona Department of Health Services
-* Arizona State University Health Services
+	* USA/AZ1/2020
+
 * Auckland Hospital
+	* NewZealand/01/2020
+
 * BCCDC Public Health Laboratory
+	* Canada/BC_37_0-2/2020
+
 * Bamrasnaradura Hospital
+	* Nonthaburi/61/2020
+	* Nonthaburi/74/2020
+
 * Beijing Institute of Microbiology and Epidemiology
-* Brian D. Allgood Army Community Hospital
+	* pangolin/Guangdong/P2S/2019
+	* pangolin/Guangxi/P1E/2017
+	* pangolin/Guangxi/P2V/2017
+	* pangolin/Guangxi/P3B/2017
+	* pangolin/Guangxi/P4L/2017
+	* pangolin/Guangxi/P5E/2017
+	* pangolin/Guangxi/P5L/2017
+
 * Bundeswehr Institute of Microbiology
-* CH Barreiro Montijo
-* CH Compiegne Laboratoire de Biologie
-* CH Jean de Navarre Laboratoire de Biologie
-* CH Jeanne de Navarre Laboratoire de Biologie
-* CH VN Gaia - Espinho
-* CHBarreiro Montijo
-* CHMT
-* CHRU Bretonneau - Serv. Bacterio-Virol.
-* CHRU Pontchaillou - Laboratoire de Virologie
-* CHTMAD
-* CHU - Hopital Cavale Blanche - Labo. de Virologie
-* CHU Coimbra
-* CHU Coimbra - Pediatrico
-* CHU Gabriel Montpied
-* CHU Purpan - Laboratoire de Virologie - Institut Federatif de Biologie
-* CHUA - Faro
-* CHULC - H Curry Cabral
-* CHULC - H D Estefania
-* CMIP
+	* Germany/BavPat2/2020
+	* Germany/BavPat3/2020
+
 * CNR Virus des Infections Respiratoires - France SUD
-* COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS
+	* France/RA739/2020
+
 * CR&WISCO GENERAL HOSPITAL
-* CT-Dr. Katherine A. Kelley State Public Health Lab
-* Cabinet Medical
-* Cabinet medical
-* Cadham Provincial Laboratory
+	* Wuhan/HBCDC-HB-05/2020
+
 * California Department of Health
+	* USA/CA3/2020
+	* USA/CA4/2020
+	* USA/CA5/2020
+
 * California Department of Public Health
-* Center for Virology, Medical University of Vienna
+	* USA/CA-CDPH-UC1/2020
+	* USA/CA-CDPH-UC2/2020
+	* USA/CA-CDPH-UC3/2020
+	* USA/CA-CDPH-UC4/2020
+	* USA/CA-CDPH-UC5/2020
+	* USA/CA-CDPH-UC6/2020
+	* USA/CA-CDPH-UC7/2020
+	* USA/CA-CDPH-UC8/2020
+	* USA/CA-CDPH-UC9/2020
+	* USA/CA1/2020
+	* USA/CA2/2020
+	* USA/CA6/2020
+	* USA/CA7/2020
+	* USA/CA8/2020
+	* USA/CA9/2020
+	* USA/UC-CDPH-UC11/2020
+
+* Center of Medical Microbiology, Virology, and Hospital Hygiene
+	* Germany/NRW-01/2020
+	* Germany/NRW-02-1/2020
+	* Germany/NRW-03/2020
+	* Germany/NRW-04/2020
+
 * Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Duesseldorf
+	* Germany/NRW-011/2020
+	* Germany/NRW-05/2020
+	* Germany/NRW-06/2020
+	* Germany/NRW-07/2020
+	* Germany/NRW-08/2020
+	* Germany/NRW-09/2020
+	* Germany/NRW-10/2020
+
 * Centers for Disease Control, R.O.C. (Taiwan)
-* Central Virology Laboratory
-* Centre Hositalier Universitaire de Rouen Laboratoire de Virologie
-* Centre Hospitalier Compiegne Laboratoire de Biologie
-* Centre Hospitalier Lucien Hussel
-* Centre Hospitalier Regional Universitaire de Nantes Laboratoire de Virologie
-* Centre Hospitalier Rene Dubois Laboratoire de Microbiologie - Bat A
-* Centre Hospitalier Saint Joseph Saint Luc
-* Centre Hospitalier de Bourg en Bresse
-* Centre Hospitalier de Macon
-* Centre Hospitalier de Valence
-* Centre Hospitalier des Vals d'Ardeche
-* Centre for Dengue Research
+	* Taiwan/2/2020
+
 * Centre for Human and Zoonotic Virology (CHAZVY), College of Medicine University of Lagos/Lagos University Teaching Hospital (LUTH), part of the Laboratory Network of the Nigeria Centre for Disease Control (NCDC)
+	* Nigeria/Lagos01/2020
+
 * Centre for Infectious Diseases and Microbiology - Public Health
+	* Australia/NSW10/2020
+	* Australia/NSW12/2020
+	* Australia/NSW13/2020
+	* Australia/NSW14/2020
+
 * Centre for Infectious Diseases and Microbiology Laboratory Services
-* Centre for Infectious Diseases and Microbiology Public Health
+	* Australia/NSW01/2020
+	* Australia/NSW05/2020
+	* Australia/NSW06/2020
+	* Australia/NSW07/2020
+	* Australia/NSW08/2020
+	* Australia/NSW09/2020
+	* Sydney/2/2020
+
 * Centre for Infectious Diseases and Microbiology- Public Health
+	* Australia/NSW11/2020
+
 * Centro Hospital do Porto, E.P.E. - H. Geral de Santo Antonio
+	* Portugal/CV62/2020
+
 * Centro Hospitalar e Universitario de Sao Joao, Porto
-* Chan-Zuckerberg Biohub
+	* Portugal/CV63/2020
+
 * Charite Universitatsmedizin Berlin, Institute of Virology; Institut fur Mikrobiologie der Bundeswehr, Munich
-* Chiba Prefectural Institute of Public Health
-* Chiu Laboratory, University of California, San Francisco
-* Clinica Alemana de Santiago, Chile
-* Clinica Santa Maria, Santiago, Chile
-* Clinical Diagnostics Laboratory, Diagnostic & Experimental Pathology, Lilly Research Laboratories
-* Clinical Microbiology Lab
-* Clinique AVERAY LA BROUSTE, Med. Polyvalente
-* Connecticut State Department of Public Health
-* DC Public Health Lab/ Dept. of Forensic Sciences
-* Dasman Diabetes Institute
-* Dasman Diabetes Institute and Virology Laboratory Ministry of Health
-* Department for Virology, Molecular Biology and Genome Research, R. G. Lugar Center for Public Health Research,  National Center for Disease Control and Public Health (NCDC) of Georgia.
-* Department of Clinical Laboratory, the First People's Hospital of Yunnan Province
-* Department of Clinical Microbiology
-* Department of Clinical Pathology, Pamela Youde Nethersole Eastern Hospital
-* Department of Clinical Pathology, Tuen Mun Hospital
-* Department of Clinical Pathology, Tuen Mun Hospital, 23 Tsing Chung Koon Road, Tuen Mun, N.T.
+	* Germany/BavPat1/2020
+
 * Department of Infectious Diseases, Istituto Superiore di Sanita, Roma , Italy
+	* Italy/CDG1/2020
+
 * Department of Infectious Diseases, Istituto Superiore di Sanita, Rome, Italy
+	* Italy/SPL1/2020
+
 * Department of Infectious and Tropical Diseases, Bichat Claude Bernard Hospital, Paris
+	* France/IDF0372-isl/2020
+	* France/IDF0372/2020
+	* France/IDF0373/2020
+	* France/IDF0386-islP1/2020
+	* France/IDF0386-islP3/2020
+	* France/IDF0515-isl/2020
+	* France/IDF0515/2020
+	* France/IDF0571/2020
+
 * Department of Internal Medicine, Triemli Hospital
+	* Switzerland/1000477102/2020
+	* Switzerland/1000477377/2020
+
 * Department of Laboratory Medicine, National Taiwan University Hospital
-* Department of Medical Microbiology, University Malaya Medical Centre
-* Department of Microbiology, Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong SAR, China
+	* Taiwan/NTU01/2020
+	* Taiwan/NTU02/2020
+	* Taiwan/NTU03/2020
+
 * Department of Microbiology, Institute for Viral Diseases, College of Medicine, Korea University
-* Department of Microbiology, PathWest QEII Medical Centre
-* Department of Pathology, Princess Margaret Hospital
+	* SouthKorea/KUMC01/2020
+	* SouthKorea/KUMC02/2020
+	* SouthKorea/KUMC04/2020
+	* SouthKorea/KUMC06/2020
+
 * Department of Pathology, Toshima Hospital
-* Department of Pathology, United Christian Hospital
-* Department of Pathology, University of Cambridge
+	* Japan/TK/20-31-3/2020
+
 * Department of Virology III, National Institute of Infectious Diseases
+	* Japan/AI/I-004/2020
+
 * Department of Virology and Immunology, University of Helsinki and Helsinki University Hospital, Huslab Finland
-* Department of Virus and Microbiological Special diagnostics, Statens Serum Institut, Copenhagen, Denmark.
+	* Finland/FIN01032020/2020
+	* Finland/FIN03032020A/2020
+	* Finland/FIN03032020B/2020
+	* Finland/FIN03032020C/2020
+
 * Department of microbiology laboratory,Anhui Provincial Center for Disease Control and Prevention
+	* Anhui/SZ005/2020
+
 * Dept. of Pathology, National Institute of Infectious Diseases
+	* Japan/NA-20-05-1/2020
+	* Japan/OS-20-07-1/2020
+
 * Dept. of Virology III, National Institute of Infectious Diseases
+	* Japan/KY-V-029/2020
+	* Japan/TY-WK-012/2020
+	* Japan/TY-WK-501/2020
+	* Japan/TY-WK-521/2020
+
 * Dienst Gezondheid & Jeugd Zuid-Holland Zuid
-* District Surveillence Unit
-* Division of Consolidated Laboratories
-* Division of Consolidated Laboratories Services
-* Division of Consolidated Laboratory Services
+	* Netherlands/Hardinxveld_Giessendam_1364806/2020
+
 * Division of Infectious Diseases, Department of Internal Medicine, Korea University College of Medicine
+	* SouthKorea/KUMC03/2020
+	* SouthKorea/KUMC05/2020
+
 * Division of Infectious Diseases, University Hospital Zurich
+	* Switzerland/1000477796/2020
+	* Switzerland/1000477797/2020
+	* Switzerland/1000477806/2020
+
 * Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention
-* Dr. Georges-L.-Dumont University Hospital Centre
-* Dunedin Hospital
+	* SouthKorea/KCDC05/2020
+	* SouthKorea/KCDC06/2020
+	* SouthKorea/KCDC07/2020
+	* SouthKorea/KCDC12/2020
+	* SouthKorea/KCDC24/2020
+
 * Dutch COVID-19 response team
-* E. Gulbja Laboratorija
-* EHPAD - Residences les Cedres
+	* Netherlands/Gelderland_1/2020
+	* Netherlands/Limburg_2/2020
+	* Netherlands/Limburg_3/2020
+	* Netherlands/Limburg_4/2020
+	* Netherlands/Limburg_5/2020
+	* Netherlands/Limburg_6/2020
+	* Netherlands/NoordBrabant_1/2020
+	* Netherlands/NoordBrabant_10/2020
+	* Netherlands/NoordBrabant_11/2020
+	* Netherlands/NoordBrabant_12/2020
+	* Netherlands/NoordBrabant_13/2020
+	* Netherlands/NoordBrabant_14/2020
+	* Netherlands/NoordBrabant_15/2020
+	* Netherlands/NoordBrabant_16/2020
+	* Netherlands/NoordBrabant_17/2020
+	* Netherlands/NoordBrabant_18/2020
+	* Netherlands/NoordBrabant_19/2020
+	* Netherlands/NoordBrabant_2/2020
+	* Netherlands/NoordBrabant_20/2020
+	* Netherlands/NoordBrabant_21/2020
+	* Netherlands/NoordBrabant_22/2020
+	* Netherlands/NoordBrabant_23/2020
+	* Netherlands/NoordBrabant_24/2020
+	* Netherlands/NoordBrabant_25/2020
+	* Netherlands/NoordBrabant_26/2020
+	* Netherlands/NoordBrabant_27/2020
+	* Netherlands/NoordBrabant_28/2020
+	* Netherlands/NoordBrabant_29/2020
+	* Netherlands/NoordBrabant_3/2020
+	* Netherlands/NoordBrabant_30/2020
+	* Netherlands/NoordBrabant_31/2020
+	* Netherlands/NoordBrabant_32/2020
+	* Netherlands/NoordBrabant_33/2020
+	* Netherlands/NoordBrabant_34/2020
+	* Netherlands/NoordBrabant_35/2020
+	* Netherlands/NoordBrabant_36/2020
+	* Netherlands/NoordBrabant_37/2020
+	* Netherlands/NoordBrabant_38/2020
+	* Netherlands/NoordBrabant_39/2020
+	* Netherlands/NoordBrabant_4/2020
+	* Netherlands/NoordBrabant_5/2020
+	* Netherlands/NoordBrabant_6/2020
+	* Netherlands/NoordHolland_1/2020
+	* Netherlands/NoordHolland_2/2020
+	* Netherlands/Overijssel_1/2020
+	* Netherlands/Overijssel_2/2020
+	* Netherlands/Utrecht_1/2020
+	* Netherlands/Utrecht_10/2020
+	* Netherlands/Utrecht_11/2020
+	* Netherlands/Utrecht_12/2020
+	* Netherlands/Utrecht_13/2020
+	* Netherlands/Utrecht_14/2020
+	* Netherlands/Utrecht_15/2020
+	* Netherlands/Utrecht_16/2020
+	* Netherlands/Utrecht_2/2020
+	* Netherlands/Utrecht_3/2020
+	* Netherlands/Utrecht_4/2020
+	* Netherlands/Utrecht_5/2020
+	* Netherlands/Utrecht_6/2020
+	* Netherlands/Utrecht_7/2020
+	* Netherlands/Utrecht_8/2020
+	* Netherlands/ZuidHolland_1/2020
+	* Netherlands/ZuidHolland_10/2020
+	* Netherlands/ZuidHolland_11/2020
+	* Netherlands/ZuidHolland_13/2020
+	* Netherlands/ZuidHolland_14/2020
+	* Netherlands/ZuidHolland_15/2020
+	* Netherlands/ZuidHolland_16/2020
+	* Netherlands/ZuidHolland_17/2020
+	* Netherlands/ZuidHolland_18/2020
+	* Netherlands/ZuidHolland_19/2020
+	* Netherlands/ZuidHolland_2/2020
+	* Netherlands/ZuidHolland_20/2020
+	* Netherlands/ZuidHolland_21/2020
+	* Netherlands/ZuidHolland_22/2020
+	* Netherlands/ZuidHolland_23/2020
+	* Netherlands/ZuidHolland_24/2020
+	* Netherlands/ZuidHolland_5/2020
+	* Netherlands/ZuidHolland_6/2020
+	* Netherlands/ZuidHolland_7/2020
+	* Netherlands/ZuidHolland_8/2020
+	* Netherlands/ZuidHolland_9/2020
+
 * ErasmusMC
-* FL Bur. of Public Health Laboratories-Jacksonville
-* FL Bureau of Health Laboratories Tampa
-* FL Bureau of Public Health Laboratories-Miami
-* FL Bureau of Public Health Laboratories-Tampa
-* FSBSI "Chumakov Federal Scientific Center for Research and Development of Immune-and-Biological Products of Russian Academy of Sciences"
-* FUNDACION JIMENEZ DIAZ
-* Forde Hospital  Department of Microbiology
+	* Netherlands/Nieuwendijk_1363582/2020
+	* Netherlands/Rotterdam_1363790/2020
+
 * Foundation Elisabeth-Tweesteden Ziekenhuis
+	* Netherlands/Tilburg_1363354/2020
+	* Netherlands/Tilburg_1364286/2020
+
 * Foundation Pamm
+	* Netherlands/Berlicum_1363564/2020
+
 * Fujian Center for Disease Control and Prevention
-* Fundacion Jimenez Diaz
-* Furst Medical Laboratory
-* GA Department of Public Health
-* GA Department of Public Health Laboratory
-* GH Les Portes du Sud
-* GH Nord Essonne Service de Biologie clinique
-* Geelong Centre for Emerging Infectious Diseases
+	* Fujian/13/2020
+	* Fujian/8/2020
+
 * General Hospital of Central Theater Command of People's Liberation Army of China
-* Genomic Laboratory (GLAB) (Conjoint lab of Health Directorate of Istanbul and Istanbul Technical University)
-* Gorgas Memorial Institute for Health Studies
+	* Wuhan/WH01/2019
+	* Wuhan/WH02/2019
+	* Wuhan/WH03/2020
+	* Wuhan/WH04/2020
+
 * Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provincial Public Health
+	* Foshan/20SF207/2020
+	* Foshan/20SF210/2020
+	* Foshan/20SF211/2020
+	* Guangdong/20SF012/2020
+	* Guangdong/20SF013/2020
+	* Guangdong/20SF014/2020
+	* Guangdong/20SF025/2020
+	* Guangdong/20SF028/2020
+	* Guangdong/20SF040/2020
+
 * Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provinical Public Health
+	* Guangdong/20SF174/2020
+	* Guangzhou/20SF206/2020
+
 * Guangdong Provincial Center for Diseases Control and Prevention;Guangdong Provincial Institute of Public Health
+	* Guangdong/20SF201/2020
+
 * Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention
-* Gundersen Molecular Diagnostic Laboratory
-* Gundersen Molecular Diagnostics Laboratory
-* H Beatriz Angelo
-* H Braga
-* H Dr Nelio Mendonca - Funchal
-* H Dr. Nelio Mendonca - Funchal
-* H Evora
-* H Garcia de Orta
-* H Guimaraes
-* H Santarem
-* HI Dept. of Health, State Laboratories Division
-* HOSPITAL CLINIC
-* HOSPITAL DE CRUCES.
-* HOSPITAL GENERAL DE SEGOVIA
-* HOSPITAL SANTA MARIA NAI
-* HOSPITAL TXAGORRITXU
-* HOSPITAL UNIVERSITARIO LA PAZ
-* HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES
-* HSE Ilha Terceira - Angra do Heroismo
+	* Guangdong/2020XN4239-P0034/2020
+	* Guangdong/2020XN4243-P0035/2020
+	* Guangdong/2020XN4273-P0036/2020
+	* Guangdong/2020XN4276-P0037/2020
+	* Guangdong/2020XN4291-P0038/2020
+	* Guangdong/2020XN4373-P0039/2020
+	* Guangdong/2020XN4433-P0040/2020
+	* Guangdong/2020XN4448-P0002/2020
+	* Guangdong/2020XN4459-P0041/2020
+	* Guangdong/2020XN4475-P0042/2020
+	* Guangdong/DG-S2-P0054/2020
+	* Guangdong/DG-S41-P0056/2020
+	* Guangdong/DG-S6-P0055/2020
+	* Guangdong/DG-S9-P0045/2020
+	* Guangdong/FS-S29-P0051/2020
+	* Guangdong/FS-S30-P0052/2020
+	* Guangdong/FS-S34-P0015/2020
+	* Guangdong/FS-S42-P0046/2020
+	* Guangdong/FS-S48-P0047/2020
+	* Guangdong/FS-S50-P0053/2020
+	* Guangdong/GD2020012-P0022/2020
+	* Guangdong/GD2020016-P0011/2020
+	* Guangdong/GD2020080-P0010/2020
+	* Guangdong/GD2020085-P0043/2020
+	* Guangdong/GD2020086-P0021/2020
+	* Guangdong/GD2020087-P0008/2020
+	* Guangdong/GD2020115-P0009/2020
+	* Guangdong/GD2020134-P0031/2020
+	* Guangdong/GD2020139-P0007/2020
+	* Guangdong/GD2020227-P0029/2020
+	* Guangdong/GD2020233-P0027/2020
+	* Guangdong/GD2020234-P0023/2020
+	* Guangdong/GD2020241-P0013/2020
+	* Guangdong/GD2020246-P0028/2020
+	* Guangdong/GD2020258-P0018/2020
+	* Guangdong/GDFS2020052-P0025/2020
+	* Guangdong/GDFS2020054-P0005/2020
+	* Guangdong/GDFS2020056-P0044/2020
+	* Guangdong/GDFS2020127-P0026/2020
+	* Guangdong/GDSZ202004-P0004/2020
+	* Guangdong/GDSZ202008-P0020/2020
+	* Guangdong/GDSZ202009-P0032/2020
+	* Guangdong/GDSZ202013-P0014/2020
+	* Guangdong/GDSZ202015-P0019/2020
+	* Guangdong/GZ-S6-P0050/2020
+	* Guangdong/JM-S1-P0062/2020
+	* Guangdong/MM-S1-P0048/2020
+	* Guangdong/SZ-N128-P0057/2020
+	* Guangdong/SZ-N59-P0049/2020
+	* Guangdong/ZH-N22-P0059/2020
+	* Guangdong/ZH-S33-P0058/2020
+	* Guangdong/ZQ-S2-P0061/2020
+	* Guangdong/ZS-S6-P0060/2020
+
 * HUS Diagnostiikkakeskus, Hallinto
+	* Finland/FIN-25/2020
+
 * Hangzhou Center for Disease Control and Prevention
+	* Hangzhou/HZCDC0001/2020
+
 * Hangzhou Center for Disease and Control Microbiology Lab
-* Hangzhou Center for Diseases Control and Prevention
+	* Hangzhou/HZ-1/2020
+
 * Harborview Medical Center
-* Health Board Laboratory of Communicable Diseases
-* Health Sciences Technology Park, Avicena, 8, 18016 Granada. Spain
-* Hematology Laboratory, Section of Molecular Diagnostics, University Clinical Centre, Medical University of Gdansk
+	* USA/WA3-UW1/2020
+	* USA/WA9-UW6/2020
+
 * Hong Kong Department of Health
-* Hopital Instruction des Armees - BEGIN
-* Hopital Prive de l'Est Lyonnais
-* Hopital Robert Debre Laboratoire de Virologie
-* Hopital franco britannique - Laboratoire
-* Hopital franco britannique - Service des Urgences
-* Hopitaux universitaires de Geneve Laboratoire de Virologie
-* Hospital General Regional No.66, Ciudad Juarez, Chihuahua.
-* Hospital General y Universitario de Guadalajara
+	* HongKong/VB20024950/2020
+	* HongKong/VB20026565/2020
+	* HongKong/VM20001061/2020
+	* HongKong/case42_VM20002493/2020
+	* HongKong/case48_VM20002507/2020
+	* HongKong/case52_VM20002582/2020
+	* HongKong/case78_VM20002849/2020
+	* HongKong/case85_VM20002868/2020
+	* HongKong/case90_VM20002907/2020
+	* canine/HongKong/20-02756/2020
+
 * Hospital Israelita Albert Einstein
-* Hospital Prof. Doutor Fernando Fonseca, EPE
-* Hospital San Pedro
+	* Brazil/SPBR-01/2020
+	* Brazil/SPBR-02/2020
+	* Brazil/SPBR-03/2020
+
 * Hospital Sao Joaquim Beneficencia Portuguesa
-* Hospital Universitari Germans Trias i Pujol(HUGTiP)/Fundacio Lluita contra la SIDA (FLSida)/IRTA-CReSA
-* Hospital Universitari Vall d'Hebron (HUVH) - Vall d'Hebron Research Institute (VHIR)
-* Hospital Universitario 12 de Octubre
-* Hospital Universitario La Paz
-* Hospital Universitario Ramon y Cajal
-* Hospital Universitario Virgen de las Nieves
-* Hospital Universitario de Canarias
-* Hospital de Talca, Chile
-* Hospital of Southern Norway - Kristiansand, Department of Medical Microbiology
-* IA State Hygienic Laboratory
+	* Brazil/SPBR-04/2020
+	* Brazil/SPBR-05/2020
+	* Brazil/SPBR-06/2020
+
 * IL Department of Public Health Chicago Laboratory
-* IN State Department of Health Laboratory Services
+	* USA/IL1/2020
+	* USA/IL2/2020
+
 * INMI Lazzaro Spallanzani IRCCS
-* Illinois Department of Public Health Chicago Laboratory
+	* Italy/INMI1-cs/2020
+	* Italy/INMI1-isl/2020
+
 * Indian Council of Medical Research - National Institute of Virology
+	* India/1-27/2020
+
 * Indian Council of Medical Research-National Institute of Virology
-* Indian Council of Medical Research-National Institute of Virology, Microbial Containment Complex
-* Instirut Pasteur Dakar
-* Institut Medico legal- Hop R. Poincare
-* Institut Pasteur Dakar
-* Institut des Agents Infectieux (IAI) Hospices Civils de Lyon
-* Institut des Agents Infectieux (IAI), Hospices Civils de Lyon
-* Institut pasteur Dakar
-* Institute information  KU Leuven, Clinical and Epidemiological Virology
-* Institute of Microbiology Universidad San Francisco de Quito
-* Institute of Microbiology and Immunology, Faculty of Medicine, University of Ljubljana
-* Institute of Microbiology, Universidad San Francisco de Quito
+	* India/1-31/2020
+
 * Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College
+	* Wuhan/IPBCAMS-WH-01/2019
+	* Wuhan/IPBCAMS-WH-02/2019
+	* Wuhan/IPBCAMS-WH-03/2019
+	* Wuhan/IPBCAMS-WH-04/2019
+	* Wuhan/IPBCAMS-WH-05/2020
+
 * Institute of Viral Disease Control and Prevention, China CDC
-* Institute of Virology, Biomedical Research Center of the Slovak Academy of Sciences, Bratislava; Public Health Authority of the Slovak Republic, Bratislava
-* Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran
+	* Wuhan/IVDC-HB-envF13-20/2020
+	* Wuhan/IVDC-HB-envF13-21/2020
+	* Wuhan/IVDC-HB-envF13/2020
+	* Wuhan/IVDC-HB-envF54/2020
+
 * Instituto Nacional de Enfermedades Respiratorias
-* Instituto Nacional de Salud
-* Instituto Nacional de Saude (INSA)
-* Instituto Oswaldo Cruz FIOCRUZ - Laboratory of Respiratory Viruses and Measles (LVRS)
-* Instituto Sabin
-* Instituto de Diagnostico y Referencia Epidemiologicos
-* Ishikawa Prefectural Institute of Public Health and Environmental Science
-* JABER AL AHMAD AL SABAH HOSPITAL  KUWAIT CITY
-* Jaber Al Ahmad Al Sabah Hospital
-* Japanese Quarantine Stations
-* Jiangxi Province Center for Disease Control and Prevention
-* Jiangxi province Center for Disease Control and Prevention
+	* Mexico/CDMX/InDRE_01/2020
+
 * Jingzhou Center for Disease Control and Prevention
-* KS Health and Environmental Laboratories
-* KU Leuven, Clincal and Epidemiological Virology
+	* Jingzhou/HBCDC-HB-01/2020
+
 * KU Leuven, Clinical and Epidemiological Virology
+	* Belgium/GHB-03021/2020
+
 * Klinik Hirslanden Zurich
-* Klinisk mikrobiologi Orebro
-* Klinisk mikrobiologi och vardhygien Halmstad
-* Klinisk mikrobiologi, Region Vasterbotten
-* Kochi Prefectural Institute of Public Health
+	* Switzerland/1000477757/2020
+
 * Korea Centers for Disease Control & Prevention (KCDC) Center for Laboratory Control of Infectious Diseases Division of Viral Diseases
-* L'Air du Temps
-* LA Office of Public Health Laboratories
-* LABM GH nord Essonne
-* LABM GH nord Essonne de Longjumeau - BP 125
-* LACEN RJ - Laboratorio Central de Saude Publica Noel Nutels
-* LACEN-AL - Laboratorio Central de Alagoas
-* LACEN-BA - Laboratorio Central de Saude Publica Professor Goncalo Moniz
-* LACEN-SC - Laboratorio Central de Santa Catarina
-* LACEN/ES - Laboratorio Central de Saude Publica do Espirito Santo
-* Lab voor klinische biologie
-* Labo BM - Site de Juvisy - Hopital General
-* Laboiratorio Fleury
+	* SouthKorea/KCDC03/2020
+
 * Laboratoire National de Sante
-* Laboratoire National de Sante, Microbiology, Virology
-* Laboratoire Nationale de Sante, Microbiology, Virology
-* Laboratoire de Virologie Institut de Virologie - INSERM U 1109 Hopitaux Universitaires de Strasbourg
+	* Luxembourg/Lux1/2020
+
 * Laboratoire de Virologie, HUG
-* Laboratoriemedicin
-* Laboratorio Central de Saude Publica Professor Goncalo Moniz  LACEN/BA
-* Laboratorio Estatal de Salud Publica del Estado de Mexico
-* Laboratorio Estatal de Salud Publica del Estado de Puebla
-* Laboratorio Estatal de Salud Publica del Estado de Queretaro
-* Laboratorio Hermes Pardini
-* Laboratorio Simili
-* Laboratorio de Ecologia de Doencas Transmissiveis na Amazonia, Instituto Leonidas e Maria Deane - Fiocruz Amazonia
-* Laboratorio de Referencia Nacional de Virus Respiratorio. Instituto Nacional de Salud. Peru
-* Laboratorio de Referencia Nacional de Virus Respiratorios. Instituto Nacional de Salud Peru
+	* Switzerland/AG0361/2020
+	* Switzerland/BL0902/2020
+	* Switzerland/GE3121/2020
+	* Switzerland/GE3895/2020
+	* Switzerland/GE5373/2020
+	* Switzerland/GE9586/2020
+	* Switzerland/TI9486/2020
+	* Switzerland/VD5615/2020
+
 * Laboratorio di Microbiologia e Virologia, Universita Vita-Salute San Raffaele, Milano
+	* Italy/UniSR1/2020
+
 * Laboratory Medicine
-* Laboratory of Infectious Diseases, Department of Biomedical and Clinical Sciences L. Sacco, University of Milan
-* Laboratory of Microbiology, Department of Medicine, National and Kapodistrian University of Athens, Greece
-* Laboratory of Microbiology, Medical School, National and Kapodistrian University of Athens
-* Laboratory of Molecular Biology, Diagnostyka sp. z o.o.
-* Laboratory of Molecular Genetics, 2nd Faculty of Medicine, Charles University in Prague, Prague, Czech Republic
-* Laboratory of Molecular Virology International Center for Genetic Engineering and Biotechnology (ICGEB)
-* Laboratory of Molecular Virology International Center fro Genetic Engineering and Biotechnology (ICGEB)
-* Laboratory of Molecular Virology, Pontificia Universidad Catolica de Chile
+	* Taiwan/CGMH-CGU-01/2020
+
 * Lapland Central Hospital
-* Le Chateau de Seine-Port
-* MA State Public Health Laboratory
-* MD DOH Laboratories Administration
+	* Finland/1/2020
+
 * MHC Brabant Zuidoost
+	* Netherlands/Eindhoven_1363782/2020
+
 * MHC Drente
+	* Netherlands/Dalen_1363624/2020
+
 * MHC Flevoland
+	* Netherlands/Zeewolde_1365080/2020
+
 * MHC Gooi & Vechtstreek
+	* Netherlands/Blaricum_1364780/2020
+	* Netherlands/Naarden_1364774/2020
+
 * MHC Haaglanden
+	* Netherlands/Nootdorp_1364222/2020
+
 * MHC Hart voor Brabant
+	* Netherlands/Oisterwijk_1364072/2020
+
 * MHC Kennemerland
+	* Netherlands/Haarlem_1363688/2020
+
 * MHC Rotterdam-Rijnmond
+	* Netherlands/Rotterdam_1364040/2020
+
 * MHC Utrecht
+	* Netherlands/Utrecht_1363564/2020
+	* Netherlands/Utrecht_1363628/2020
+	* Netherlands/Utrecht_1364066/2020
+
 * MHC West-Brabant
-* MN PHL Division, Minnesota Department of Health
-* MO State Public Health Laboratory
-* MRCG at LSHTM Genomics Lab
-* MRCG at LSHTM Genomics lab
-* MRCG at LSHTM Geomics lab
+	* Netherlands/Andel_1365066/2020
+	* Netherlands/Helmond_1363548/2020
+
 * MSHS Clinical Microbiology Laboratories
-* Maison de Sante du Val d'Ormois
+	* USA/NY1-PV08001/2020
+
 * Massachusetts Department of Public Health
-* Mater Pathology
-* Max von Pettenkofer Institute, Virology, National Reference Center for Retroviruses, LMU Munich
-* Microbial Genomics Laboratory, Institut Pasteur Monteivdeo
-* Microbial Genomics Laboratory, Institut Pasteur Montevideo
-* Microbial Genomics Laboratory, Institut Pasteur Montevideo, Uruguay
-* Microbiological Diagnostic Unit Public Health Laboratory
-* Ministry of Health Turkey
-* Ministry of Public Health (MoPH)
-* Minnesota Department of Health, Public Health Laboratory
-* Molecular Biology and Biotechnology Lab II
-* Molecular Diagnostic Services
-* Molecular Diagnostic Services and FLowpath
+	* USA/MA1/2020
+
 * Monash Medical Centre
-* Motol University Hospital
-* NC State Laboratory of Public Health
-* NE Public Health Laboratory
-* NH Department of Health and Human Services Public Health Labs
-* NH Dept. of Health and Human Services Public Health Labs
+	* Australia/VIC01/2020
+
 * NHC Key laboratory of Enteric Pathogenic Microbiology, Institute of Pathogenic Microbiology
-* NIC Viral Respiratory Unit - Institut Pasteur of Algeria
-* NJ Public Health and Environmental Laboratories
-* NMIMR, Department of Virology
-* NRL for Influenza, Centrum Epidemiology and Microbiology of National Institute of Public Health, Czech Republic
-* NV State Public Health Laboratory
-* NV-Southern Nevada Public Health Laboratory
-* NYC Department of Health and Mental Hygiene
-* NYU Langone Health
+	* Jiangsu/JS01/2020
+	* Jiangsu/JS02/2020
+	* Jiangsu/JS03/2020
+
 * National Centre for Infectious Diseases
-* National Influenza Center - Instituto Adolfo Lutz
+	* Singapore/12/2020
+	* Singapore/13/2020
+	* Singapore/14/2020
+	* Singapore/3/2020
+	* Singapore/4/2020
+
 * National Influenza Center - National Institute of Hygiene and Epidemiology (NIHE)
-* National Influenza Center, Indian Council of Medical Research - National Institute of Virology
-* National Influenza Center, National Institute of Hygiene and Epidemiology (NIHE)
+	* Vietnam/VR03-38142/2020
+
 * National Influenza Centre, National Public Health Laboratory, Kathmandu, Nepal
-* National Institute for Communicable Diseases of the National Health Laboratory Service
+	* Nepal/61/2020
+
 * National Institute for Viral Disease Control and Prevention, China CDC
+	* Beijing/IVDC-BJ-005/2020
+	* Chongqing/IVDC-CQ-001/2020
+	* Henan/IVDC-HeN-002/2020
+	* Jiangsu/IVDC-JS-001/2020
+	* Jiangxi/IVDC-JX-002/2020
+	* Shandong/IVDC-SD-001/2020
+	* Shanghai/IVDC-SH-001/2020
+	* Sichuan/IVDC-SC-001/2020
+	* Wuhan/IVDC-HB-01/2019
+	* Wuhan/IVDC-HB-04/2020
+	* Wuhan/IVDC-HB-05/2019
+	* Yunnan/IVDC-YN-003/2020
+
 * National Public Health Laboratory
+	* Singapore/11/2020
+
 * National Public Health Laboratory, National Centre for Infectious Diseases
-* National Public Health Surveillance Laboratory, Vilnius, Lithuania
-* Nebraska Public Health Laboratory
-* NewYork-Presbyterian & Mason Lab
-* Nordland Hospital - Bodo,  Laboratory Department, Molecular Biology Unit
-* OH Department of Health Laboratory
-* OR State PHL-Virology/Immunology Section
-* Ochsner Health
-* Oregon State Public Health- Virology section
-* Oslo University Hospital, Department of Medical Microbiology
-* Ospedale Civile Castel Di Sangro
-* Ospedale Civile Giuseppe Mazzini
-* Ospedale Civile Giuseppe Mazzini, Teramo
-* Ospedale Civile S. Liberatore di Atri
-* Ospedale Regionale San Salvatore
-* Ospedale San Liberatore di Atri
-* Ostfold Hospital Trust -Kalnes Centre for Laboratory Medicine Section for gene technology and infection serology
-* PA Department of Health, Bureau of Laboratories
-* Parc des Dames
-* PathWest Laboratory Medicine WA
-* Pathology North
+	* Singapore/10/2020
+	* Singapore/7/2020
+	* Singapore/8/2020
+	* Singapore/9/2020
+
 * Pathology Queensland
-* Presidio Ospedaliero "S. Spirito" - PESCARA
-* Presidio Ospedaliero Santo Spirito
-* Presidio ospedaliero "Santo Spirito"
-* Prince of Wales Hospital
+	* Australia/QLD01/2020
+	* Australia/QLD02/2020
+	* Australia/QLD03/2020
+	* Australia/QLD04/2020
+	* Australia/QLD09/2020
+
 * Providence Regional Medical Center
-* Public Health Laboratory
-* Public Health Laboratory, Saudi CDC
-* Public Health Ontario
-* Public Health Ontario Laboratories
+	* USA/WA1/2020
+
 * Public Health Ontario Laboratory
-* Queen Elizabeth II Health Science Centre
-* Queens Medical Centre, Clinical Microbiology Department / DeepSeq Nottingham
-* R. G. Lugar Center for Public Health Research,  National Center for Disease Control and Public Health (NCDC) of Georgia.
-* RI State Health Laboratories
-* RI State Health Laboratory
+	* Canada/ON-PHL2445/2020
+	* Canada/ON-VIDO-01/2020
+
 * RIVM
-* Ramathibodi Hospital
-* Regional Virus Laboratory, Belfast
-* Residence Eleusis
-* Residence Villa Caroline
-* Residence de maintenon
-* Residence les Marines
+	* Netherlands/Delft_1363424/2020
+	* Netherlands/Diemen_1363454/2020
+	* Netherlands/Loon_op_zand_1363512/2020
+	* Netherlands/Oss_1363500/2020
+	* NetherlandsL/Houten_1363498/2020
+
 * Respiratory Virus Unit, Microbiology Services Colindale, Public Health England
-* Rockhampton Base Hospital
-* Roy Romanow Provincial Laboratory
-* Royal Darwin Hospital
-* Royal Darwin Hospital Pathology
-* Russian State Collection of Viruses
-* SC Dept of Health and Env. Control-Bureau of Laboratories
-* SRC VB "Vector", "Collection of microorganisms" Department.
-* SYNLAB Eesti OU
-* Saitama Medical University
-* Saitama Medical University Hospital
-* Saitama Prefectural Institute of Public Health
-* Santa Clara County Public Health Department
+	* England/01/2020
+	* England/02/2020
+	* England/09c/2020
+	* England/200641094/2020
+	* England/200690245/2020
+	* England/200690300/2020
+	* England/200690306/2020
+	* England/200690756/2020
+	* England/200940527/2020
+	* England/200960041/2020
+	* England/200960515/2020
+	* England/200981386/2020
+	* England/200990002/2020
+	* England/200990006/2020
+	* England/200990660/2020
+	* England/200990723/2020
+	* England/200990724/2020
+	* England/200990725/2020
+	* England/200991076/2020
+	* England/201000003/2020
+	* England/201040081/2020
+	* England/201040141/2020
+
 * Seattle Flu Study
+	* USA/WA-S2/2020
+	* USA/WA-S3/2020
+
 * Second Hospital of Anhui Medical University
-* Secretaria de Salud Medellin
-* Sentinelles network
+	* Hefei/2/2020
+
 * Serology, Virology and OTDS Laboratories (SAViD), NSW Health Pathology Randwick
-* Service de Biologie Medicale - BP 125
-* Service de Biologie clinique
-* Service des Urgences
-* Servicio Microbiologia, Hospital Clinico Universitario, Valencia
+	* Sydney/3/2020
+
 * Servicio Microbiologia. Hospital Clinico Universitario. Valencia.
-* Servicio Virosis Respiratorias-Departamento Virologia-INEI
-* Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia
-* Servicio de Microbiologia. Hospital Clinico Universitario de Valencia
-* Shandong First Medical University & Shandong Academy of Medical Sciences
-* Shandong Provincial Center for Disease Control and Prevention
-* Shanghai Public Health Clinical Center, Shanghai Medical College, Fudan University
+	* Spain/Valencia1/2020
+	* Spain/Valencia2/2020
+
 * Shenzhen Key Laboratory of Pathogen and Immunity, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital
+	* Shenzhen/SZTH-002/2020
+	* Shenzhen/SZTH-003/2020
+	* Shenzhen/SZTH-004/2020
+
 * Shenzhen Third People's Hospital
+	* Shenzhen/SZTH-001/2020
+
 * Singapore General Hospital
+	* Singapore/1/2020
+	* Singapore/2/2020
+
 * Singapore General Hospital, Molecular Laboratory, Division of Pathology
-* Sir M P Shah Government Medical College
-* Sir M P Shah Government Medical College, Jamnagar
+	* Singapore/5/2020
+	* Singapore/6/2020
+
 * Sorbonne Universite, Inserm et Assistance Publique-Hopitaux de Paris (Pitie Salpetriere)
+	* France/IDF0626/2020
+
 * South China Agricultural University
+	* pangolin/Guandong/1/2019
+
 * State Health Office Baden-Wuerttemberg
-* State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China 310003
-* State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China. 310003
-* State Key Laboratory for Emerging Infectious Diseases Department of Microbiology Li Ka Shing Faculty of Medicine The University of Hong Kong
-* State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University
-* State Research Center of Virology and Biotechnology VECTOR, Department of Collection of Microorganisms
-* Stavanger University Hospital, Department of Medical Microbiology
-* Sullivan Nicolaides Pathology
-* TGen North
-* TSGH-CP molecular lab
-* Tai Lung Veterinary Laboratory, Agriculture, Fisheries and Conservation Department
+	* Germany/Baden-Wuerttemberg-1/2020
+
 * Taiwan Centers for Disease Control
-* Texas DSHS Lab Services
+	* Taiwan/3/2020
+	* Taiwan/4/2020
+
 * Texas Department of State Health Services
-* Texas Department of State Health Services Lab Services
+	* USA/TX1/2020
+
 * The Central Hospital Of Wuhan
-* The Chaim Sheba Medical Center
-* The First Affiliated Hospital of Guangzhou Medical University
+	* Wuhan/HBCDC-HB-02/2020
+
 * The National Institute of Public Health Center for Epidemiology and Microbiology
-* The National Laboratory of Health, Environment and Food, Maribor, Slovenia
-* The National University Hospital of Iceland
-* The Ohio State University
-* The Ohio State University Wexner Medical Center
-* The Public Health Agency of Sweden
-* The Republican Research and Practical Center for Epidemiology and Microbiology
+	* CzechRepublic/951/2020
+
 * The University of Hong Kong - Shenzhen Hospital
+	* Shenzhen/HKU-SZ-002/2020
+	* Shenzhen/HKU-SZ-005/2020
+
 * Tianmen Center for Disease Control and Prevention
+	* Tianmen/HBCDC-HB-07/2020
+
 * UCD National Virus Reference Laboratory
-* UCSF Clinical Microbiology Laboratory
-* ULSS9 Distretto di Bussolengo
-* UT-Unified State Labs: Public Health Utah DOH
+	* Ireland/COR-20134/2020
+
 * UW Virology Lab
-* Unilabs Laboratory Medicine
-* Unilabs Skovde
+	* USA/WA-UW15/2020
+	* USA/WA-UW16/2020
+	* USA/WA-UW17/2020
+	* USA/WA-UW18/2020
+	* USA/WA-UW19/2020
+	* USA/WA-UW20/2020
+	* USA/WA-UW21/2020
+	* USA/WA11-UW7/2020
+	* USA/WA12-UW8/2020
+	* USA/WA13-UW9/2020
+	* USA/WA14-UW10/2020
+	* USA/WA15-UW11/2020
+	* USA/WA16-UW12/2020
+	* USA/WA17-UW13/2020
+	* USA/WA18-UW14/2020
+
 * Union Hospital of Tongji Medical College, Huazhong University of Science and Technology
-* Universidade Federal do Rio de Janeiro
-* Universidade Federal do Rio de Janeiro - UFRJ
-* University Hospital Basel, Clinical Virology
-* University Hospital of Northern Norway, Department for Microbiology and Infectious Disease Control
-* University Hospitals of Geneva Laboratory of Virology
-* University of Wisconsin - Madison AIDS Vaccine Research Laboratories
-* University of Wisconsin - Madison: Influenza Research Institute
-* University of Wisconsin-Madison AIDS Vaccine Research Laboratories
-* University of Wisconsin-Madison AIDS Vaccine Research Laboratory
-* University of Wisconsin-Madison, AIDS Vaccine Research Laboratories
+	* Wuhan/HBCDC-HB-03/2020
+	* Wuhan/HBCDC-HB-04/2020
+
 * Unknown
-* Utah Public Health Laboratory
-* VA DCLS
-* VA-Division of Consolidated Laboratory Services
-* Vaccine Research, Development and Application Center, Erciyes University
+	* Netherlands/Coevorden_1363618/2020
+
 * Valley Medical Center
-* Vestfold Hospital, Tonsberg  Department of Microbiology
-* Victorian Infectious Diseases Reference Laboratory (VIDRL)
-* Viral Respiratory Lab, National Institute for Biomedical Research (INRB)
-* Virginia Division of Consolidated Laboratories
-* Virginia Division of Consolidated Laboratory Services
-* ViroGenetics - BSL3 Laboratory of Virology; Human Genome Variation Research Group & Genomics Centre MCB; Bioinformatics Research Group  Department of Virology
-* ViroGenetics - BSL3 Laboratory of Virology; Human Genome Variation Research Group & Genomics Centre MCB; Bioinformatics Research Group; Wojewodzka Stacja Sanitarno-Epidemiologiczna w Krakowie
-* Virological Research Group, Szentagothai Research Centre
-* Virological Research Group, Szentagothai Research Centre, University of Pecs
-* Virology Department, Royal Infirmary of Edinburgh, NHS Lothian
-* Virology Department, Royal Infirmary of Edinburgh, NHS Lothian / School of Biological Sciences, University of Edinburgh / Institute of Genetics and Molecular Medicine, University of Edinburgh
+	* USA/WA8-UW5/2020
+
 * Virology Department, Sheffield Teaching Hospitals NHS Foundation Trust
-* Virology Laboratory, Department of Biomedical Sciences and Public Health, University Politecnica delle Marche
+	* England/Sheff01/2020
+	* England/Sheff02/2020
+
 * Virology Unit, Institut Pasteur du Cambodge.
-* Virology laboratory Ministry of Health Kuwait sequenced at Dasman Diabetes Institute
+	* Cambodia/0012/2020
+
 * WA State Department of Health
-* WHO National Influenza Centre Russian Federation
-* Wadsworth Center, New York State Department of Health
-* Wadsworth Center, New York State Department.of Health
+	* USA/WA1-A12/2020
+
 * Wales Specialist Virology Centre
+	* Wales/PHW03/2020
+	* Wales/PHW05/2020
+	* Wales/PHW1/2020
+	* Wales/PHW2/2020
+
 * Washington State Department of Health
+	* USA/WA1-F6/2020
+	* USA/WA2/2020
+
 * Washington State Public Health Lab
+	* USA/WA4-UW2/2020
+	* USA/WA6-UW3/2020
+	* USA/WA7-UW4/2020
+
 * Weifang Center for Disease Control and Prevention
-* Wellington Hospital
+	* China/WF0001/2020
+	* China/WF0002/2020
+	* China/WF0003/2020
+	* China/WF0004/2020
+	* China/WF0006/2020
+	* China/WF0009/2020
+	* China/WF0012/2020
+	* China/WF0014/2020
+	* China/WF0015/2020
+	* China/WF0016/2020
+	* China/WF0017/2020
+	* China/WF0018/2020
+	* China/WF0019/2020
+	* China/WF0020/2020
+	* China/WF0021/2020
+	* China/WF0023/2020
+	* China/WF0024/2020
+	* China/WF0026/2020
+	* China/WF0028/2020
+	* China/WF0029/2020
+
 * West of Scotland Specialist Virology Centre, NHSGGC
-* West of Scotland Specialist Virology Centre, NHSGGC / MRC-University of Glasgow Centre for Virus Research
+	* Scotland/CVR01/2020
+	* Scotland/CVR02/2020
+	* Scotland/CVR03/2020
+	* Scotland/CVR04/2020
+	* Scotland/CVR05/2020
+
 * Wisconsin Department of Health Services
+	* USA/WI1/2020
+
 * Wuhan Fourth Hospital
+	* Wuhan/WH05/2020
+
 * Wuhan Institute of Virology, Chinese Academy of Sciences
+	* bat/Yunnan/RaTG13/2013
+
 * Wuhan Jinyintan Hospital
+	* Wuhan/HBCDC-HB-01/2019
+	* Wuhan/HBCDC-HB-02/2019
+	* Wuhan/HBCDC-HB-03/2019
+	* Wuhan/HBCDC-HB-04/2019
+	* Wuhan/WIV02/2019
+	* Wuhan/WIV04/2019
+	* Wuhan/WIV05/2019
+	* Wuhan/WIV06/2019
+	* Wuhan/WIV07/2019
+
 * Wuhan Lung Hospital
-* Wyoming Public Health Laboratory
-* Yale COVID-19 Biorepository
-* Yale Clinical Virology Laboratory
+	* Wuhan/HBCDC-HB-06/2020
+
 * Yongchuan District Center for Disease Control and Prevention
+	* Chongqing/YC01/2020
+
 * Zhejiang Provincial Center for Disease Control and Prevention
+	* Zhejiang/WZ-01/2020
+	* Zhejiang/WZ-02/2020
+
 * Zhongxian Center for Disease Control and Prevention
-* deCODE genetics
-* n/a
-* ACT Pathology, The Canberra Hospital
-* AIDS Vaccine Research Laboratories
-* ARS Algarve - Laboratorio Laura Ayres
-* AZ Department of Health Services
-* AZ SPHL, Arizona Department of Health Services
-* Akershus University Hospital, Department for Microbiology and Infectious Disease Control
-* Alaska State Virology Laboratory
-* Andersen Lab, The Scripps Research Institute
-* Andersen lab at Scripps Research
-* Area de Salud Alajuela Sur
-* Area de Salud Orotina
-* Arizona Department of Health Services
-* Arizona State University Health Services
-* Auckland Hospital
-* BCCDC Public Health Laboratory
-* Bamrasnaradura Hospital
-* Beijing Institute of Microbiology and Epidemiology
-* Bethany Hospital
-* Biolab Diagnostic Laboratories
-* Brian D. Allgood Army Community Hospital
-* Bundeswehr Institute of Microbiology
-* CH Barreiro Montijo
-* CH Compiegne Laboratoire de Biologie
-* CH Jean de Navarre Laboratoire de Biologie
-* CH Jeanne de Navarre Laboratoire de Biologie
-* CH VN Gaia - Espinho
-* CHBarreiro Montijo
-* CHMT
-* CHRU Bretonneau - Serv. Bacterio-Virol.
-* CHRU Pontchaillou - Laboratoire de Virologie
-* CHTMAD
-* CHU - Hopital Cavale Blanche - Labo. de Virologie
-* CHU Coimbra
-* CHU Coimbra - Pediatrico
-* CHU Gabriel Montpied
-* CHU Purpan - Laboratoire de Virologie - Institut Federatif de Biologie
-* CHUA - Faro
-* CHULC - H Curry Cabral
-* CHULC - H D Estefania
-* CMIP
-* CNR Virus des Infections Respiratoires - France SUD
-* COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS
-* COOPESAIN
-* CR&WISCO GENERAL HOSPITAL
-* CT-Dr. Katherine A. Kelley State Public Health Lab
-* Cabinet Medical
-* Cabinet medical
-* Cadham Provincial Laboratory
-* California Department of Health
-* California Department of Public Health
-* Center for Disease prevetion and Control of PLA
-* Center for Virology, Medical University of Vienna
-* Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Duesseldorf
-* Center of Scientific Excellence for Influenza Viruses, National Research Centre (NRC), Egypt.
-* Center of Scientific Excellence for Influenza Viruses,National Research Centre (NRC), Egypt.
-* Centers for Disease Control and Prevention of Lishui
-* Centers for Disease Control, R.O.C. (Taiwan)
-* Central Public Health Laboratory/Octavio Magalhaes Institute (IOM) from the Ezequiel Dias Foundation (FUNED)
-* Central Virology Laboratory
-* Central chest Institute of Thailand
-* Centre Hositalier Universitaire de Rouen Laboratoire de Virologie
-* Centre Hospitalier Compiegne Laboratoire de Biologie
-* Centre Hospitalier Lucien Hussel
-* Centre Hospitalier Regional Universitaire de Nantes Laboratoire de Virologie
-* Centre Hospitalier Rene Dubois Laboratoire de Microbiologie - Bat A
-* Centre Hospitalier Saint Joseph Saint Luc
-* Centre Hospitalier de Bourg en Bresse
-* Centre Hospitalier de Macon
-* Centre Hospitalier de Valence
-* Centre Hospitalier des Vals d'Ardeche
-* Centre for Dengue Research
-* Centre for Human and Zoonotic Virology (CHAZVY), College of Medicine University of Lagos/Lagos University Teaching Hospital (LUTH), part of the Laboratory Network of the Nigeria Centre for Disease Control (NCDC)
-* Centre for Infectious Diseases and Microbiology - Public Health
-* Centre for Infectious Diseases and Microbiology Laboratory Services
-* Centre for Infectious Diseases and Microbiology Public Health
-* Centre for Infectious Diseases and Microbiology- Public Health
-* Centro Hospital do Porto, E.P.E. - H. Geral de Santo Antonio
-* Centro Hospitalar e Universitario de Sao Joao, Porto
-* Charite Universitatsmedizin Berlin, Institute of Virology; Institut fur Mikrobiologie der Bundeswehr, Munich
-* Chiba Prefectural Institute of Public Health
-* Chiu Laboratory, University of California, San Francisco
-* Clinica Alemana de Santiago, Chile
-* Clinica Santa Maria, Santiago, Chile
-* Clinical Diagnostics Laboratory, Diagnostic & Experimental Pathology, Lilly Research Laboratories
-* Clinical Microbiology Lab
-* Clinique AVERAY LA BROUSTE, Med. Polyvalente
-* Connecticut State Department of Public Health
-* DC Public Health Lab/ Dept. of Forensic Sciences
-* Dasman Diabetes Institute
-* Dasman Diabetes Institute and Virology Laboratory Ministry of Health
-* Departamento de Biologia y genetica molecular, IACA Laboratorios.
-* Department for Virology, Molecular Biology and Genome Research, R. G. Lugar Center for Public Health Research,  National Center for Disease Control and Public Health (NCDC) of Georgia.
-* Department of Clinical Laboratory, the First People's Hospital of Yunnan Province
-* Department of Clinical Microbiology
-* Department of Clinical Microbiology, Copenhagen University Hospital, Hvidovre, Kettegaard Alle 30, 2650 Hvidovre.
-* Department of Clinical Pathology, Pamela Youde Nethersole Eastern Hospital
-* Department of Clinical Pathology, Tuen Mun Hospital
-* Department of Clinical Pathology, Tuen Mun Hospital, 23 Tsing Chung Koon Road, Tuen Mun, N.T.
-* Department of Infectious Diseases, Istituto Superiore di Sanita, Roma , Italy
-* Department of Infectious Diseases, Istituto Superiore di Sanita, Rome, Italy
-* Department of Infectious and Tropical Diseases, Bichat Claude Bernard Hospital, Paris
-* Department of Internal Medicine, Triemli Hospital
-* Department of Laboratory Medicine, National Taiwan University Hospital
-* Department of Medical Microbiology, University Malaya Medical Centre
-* Department of MicroBiology,Gandhi Medical College and Hospital,Secendrabad,Hyderabad,India
-* Department of Microbiology, Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong SAR, China
-* Department of Microbiology, Gandhi Medical College and Hospital, Secendrabad, Hyderabad, India
-* Department of Microbiology, Institute for Viral Diseases, College of Medicine, Korea University
-* Department of Microbiology, PathWest QEII Medical Centre
-* Department of Microbiology,Gandhi Medical College and Hospital
-* Department of Pathology, Princess Margaret Hospital
-* Department of Pathology, Toshima Hospital
-* Department of Pathology, United Christian Hospital
-* Department of Pathology, University of Cambridge
-* Department of Virology III, National Institute of Infectious Diseases
-* Department of Virology and Immunology, University of Helsinki and Helsinki University Hospital, Huslab Finland
-* Department of Virus and Microbiological Special Diagnostics, Statens Serum Institut, Copenhagen, Denmark, Artillerivej 5, 2300 Copenahgen S
-* Department of Virus and Microbiological Special diagnostics, Statens Serum Institut, Copenhagen, Denmark.
-* Department of microbiology laboratory,Anhui Provincial Center for Disease Control and Prevention
-* Dept. of Pathology, National Institute of Infectious Diseases
-* Dept. of Virology III, National Institute of Infectious Diseases
-* Dienst Gezondheid & Jeugd Zuid-Holland Zuid
-* District Surveillence Unit
-* Division of Consolidated Laboratories
-* Division of Consolidated Laboratories Services
-* Division of Consolidated Laboratory Services
-* Division of Infectious Diseases, Department of Internal Medicine, Korea University College of Medicine
-* Division of Infectious Diseases, University Hospital Zurich
-* Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention
-* Dr. Georges-L.-Dumont University Hospital Centre
-* Dunedin Hospital
-* Dutch COVID-19 response team
-* E. Gulbja Laboratorija
-* EBAIS Concepcion Norte
-* EHPAD - Residences les Cedres
-* ErasmusMC
-* FL Bur. of Public Health Laboratories-Jacksonville
-* FL Bureau of Health Laboratories Tampa
-* FL Bureau of Public Health Laboratories-Miami
-* FL Bureau of Public Health Laboratories-Tampa
-* FSBSI "Chumakov Federal Scientific Center for Research and Development of Immune-and-Biological Products of Russian Academy of Sciences"
-* FUNDACION JIMENEZ DIAZ
-* Forde Hospital  Department of Microbiology
-* Foundation Elisabeth-Tweesteden Ziekenhuis
-* Foundation Pamm
-* Fujian Center for Disease Control and Prevention
-* Fundacion Jimenez Diaz
-* Furst Medical Laboratory
-* GA Department of Public Health
-* GA Department of Public Health Laboratory
-* GH Les Portes du Sud
-* GH Nord Essonne Service de Biologie clinique
-* Geelong Centre for Emerging Infectious Diseases
-* General Hospital of Central Theater Command of People's Liberation Army of China
-* General Intensive Care Unit, Raymond Poincare Hospital (AP-HP), Lab Inflammation & Infection, U1173 University Paris Saclay-UVSQ/INSERM, Garches, France.
-* Genomic Laboratory (GLAB) (Conjoint lab of Health Directorate of Istanbul and Istanbul Technical University)
-* Gorgas Memorial Institute for Health Studies
-* Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provincial Public Health
-* Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provinical Public Health
-* Guangdong Provincial Center for Diseases Control and Prevention;Guangdong Provincial Institute of Public Health
-* Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention
-* Gundersen Molecular Diagnostic Laboratory
-* Gundersen Molecular Diagnostics Laboratory
-* H Beatriz Angelo
-* H Braga
-* H Dr Nelio Mendonca - Funchal
-* H Dr. Nelio Mendonca - Funchal
-* H Evora
-* H Garcia de Orta
-* H Guimaraes
-* H Santarem
-* HI Dept. of Health, State Laboratories Division
-* HOSPITAL CLINIC
-* HOSPITAL DE CRUCES.
-* HOSPITAL GENERAL DE SEGOVIA
-* HOSPITAL SANTA MARIA NAI
-* HOSPITAL TXAGORRITXU
-* HOSPITAL UNIVERSITARIO LA PAZ
-* HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES
-* HS mikrobiologi virus
-* HSE Ilha Terceira - Angra do Heroismo
-* HUS Diagnostiikkakeskus, Hallinto
-* Hangzhou Center for Disease Control and Prevention
-* Hangzhou Center for Disease and Control Microbiology Lab
-* Hangzhou Center for Diseases Control and Prevention
-* Harborview Medical Center
-* Health Board Laboratory of Communicable Diseases
-* Health Sciences Technology Park, Avicena, 8, 18016 Granada. Spain
-* Hellenic Pasteur Institute, Public Health Laboratories
-* Hematology Laboratory, Section of Molecular Diagnostics, University Clinical Centre, Medical University of Gdansk
-* Hong Kong Department of Health
-* Hopital Instruction des Armees - BEGIN
-* Hopital Prive de l'Est Lyonnais
-* Hopital Robert Debre Laboratoire de Virologie
-* Hopital franco britannique - Laboratoire
-* Hopital franco britannique - Service des Urgences
-* Hopitaux universitaires de Geneve Laboratoire de Virologie
-* Hospital AZ Rivierenland
-* Hospital General Regional No.66, Ciudad Juarez, Chihuahua.
-* Hospital General y Universitario de Guadalajara
-* Hospital Israelita Albert Einstein
-* Hospital Prof. Doutor Fernando Fonseca, EPE
-* Hospital San Pedro
-* Hospital San Vicente de Paul
-* Hospital Sao Joaquim Beneficencia Portuguesa
-* Hospital Universitari Germans Trias i Pujol(HUGTiP)/Fundacio Lluita contra la SIDA (FLSida)/IRTA-CReSA
-* Hospital Universitari Vall d'Hebron (HUVH) - Vall d'Hebron Research Institute (VHIR)
-* Hospital Universitario 12 de Octubre
-* Hospital Universitario La Paz
-* Hospital Universitario Ramon y Cajal
-* Hospital Universitario Virgen de las Nieves
-* Hospital Universitario de Canarias
-* Hospital de Talca, Chile
-* Hospital of Southern Norway - Kristiansand, Department of Medical Microbiology
-* IA State Hygienic Laboratory
-* ICMR-National Institute of Cholera and Enteric Diseases
-* IL Department of Public Health Chicago Laboratory
-* IN State Department of Health Laboratory Services
-* INMI Lazzaro Spallanzani IRCCS
-* Illinois Department of Public Health Chicago Laboratory
-* Indian Council of Medical Research - National Institute of Virology
-* Indian Council of Medical Research-National Institute of Virology
-* Indian Council of Medical Research-National Institute of Virology, Microbial Containment Complex
-* Instirut Pasteur Dakar
-* Institut Medico legal- Hop R. Poincare
-* Institut Pasteur Dakar
-* Institut des Agents Infectieux (IAI) Hospices Civils de Lyon
-* Institut des Agents Infectieux (IAI), Hospices Civils de Lyon
-* Institut pasteur Dakar
-* Institute for Medical Research,  Infectious Disease Research Centre,  National Institutes of Health,  Ministry of Health Malaysia
-* Institute for Medical Research, Infectious Disease Research Centre, National Institutes of Health, Ministry of Health Malaysia
-* Institute for Public Health
-* Institute information  KU Leuven, Clinical and Epidemiological Virology
-* Institute of Microbiology Universidad San Francisco de Quito
-* Institute of Microbiology and Immunology, Faculty of Medicine, University of Ljubljana
-* Institute of Microbiology, Universidad San Francisco de Quito
-* Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College
-* Institute of Viral Disease Control and Prevention, China CDC
-* Institute of Virology, Biomedical Research Center of the Slovak Academy of Sciences, Bratislava; Public Health Authority of the Slovak Republic, Bratislava
-* Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran
-* Instituto Nacional de Enfermedades Respiratorias
-* Instituto Nacional de Salud
-* Instituto Nacional de Saude (INSA)
-* Instituto Oswaldo Cruz FIOCRUZ - Laboratory of Respiratory Viruses and Measles (LVRS)
-* Instituto Sabin
-* Instituto de Diagnostico y Referencia Epidemiologicos
-* Ishikawa Prefectural Institute of Public Health and Environmental Science
-* JABER AL AHMAD AL SABAH HOSPITAL  KUWAIT CITY
-* Jaber Al Ahmad Al Sabah Hospital
-* Japanese Quarantine Stations
-* Jiangxi Province Center for Disease Control and Prevention
-* Jiangxi province Center for Disease Control and Prevention
-* Jingzhou Center for Disease Control and Prevention
-* Johns Hopkins Hospital Department of Pathology
-* KS Health and Environmental Laboratories
-* KU Leuven, Clincal and Epidemiological Virology
-* KU Leuven, Clinical and Epidemiological Virology
-* Klinik Hirslanden Zurich
-* Klinisk mikrobiologi Orebro
-* Klinisk mikrobiologi och vardhygien Halmstad
-* Klinisk mikrobiologi, Region Vasterbotten
-* Kochi Prefectural Institute of Public Health
-* Korea Centers for Disease Control & Prevention (KCDC) Center for Laboratory Control of Infectious Diseases Division of Viral Diseases
-* L'Air du Temps
-* LA Office of Public Health Laboratories
-* LABM GH nord Essonne
-* LABM GH nord Essonne de Longjumeau - BP 125
-* LACEN RJ - Laboratorio Central de Saude Publica Noel Nutels
-* LACEN-AL - Laboratorio Central de Alagoas
-* LACEN-BA - Laboratorio Central de Saude Publica Professor Goncalo Moniz
-* LACEN-SC - Laboratorio Central de Santa Catarina
-* LACEN/ES - Laboratorio Central de Saude Publica do Espirito Santo
-* Lab voor klinische biologie
-* Labo BM - Site de Juvisy - Hopital General
-* Laboiratorio Fleury
-* Laboratoire National de Sante
-* Laboratoire National de Sante, Microbiology, Virology
-* Laboratoire Nationale de Sante, Microbiology, Virology
-* Laboratoire de Virologie Institut de Virologie - INSERM U 1109 Hopitaux Universitaires de Strasbourg
-* Laboratoire de Virologie, HUG
-* Laboratoriemedicin
-* Laboratorio Analisis Clinicos, Unidad de Servicios Diagnosticos, Swiss Medical Group
-* Laboratorio Central de Saude Publica Professor Goncalo Moniz  LACEN/BA
-* Laboratorio Estatal de Salud Publica del Estado de Mexico
-* Laboratorio Estatal de Salud Publica del Estado de Puebla
-* Laboratorio Estatal de Salud Publica del Estado de Queretaro
-* Laboratorio Hermes Pardini
-* Laboratorio Simili
-* Laboratorio de Ecologia de Doencas Transmissiveis na Amazonia, Instituto Leonidas e Maria Deane - Fiocruz Amazonia
-* Laboratorio de Referencia Nacional de Virus Respiratorio. Instituto Nacional de Salud. Peru
-* Laboratorio de Referencia Nacional de Virus Respiratorios. Instituto Nacional de Salud Peru
-* Laboratorio de Virologia del Hospital de Ninos Dr. Ricardo Gutierrez
-* Laboratorio di Microbiologia e Virologia, Universita Vita-Salute San Raffaele, Milano
-* Laboratory Medicine
-* Laboratory of Infectious Diseases, Department of Biomedical and Clinical Sciences L. Sacco, University of Milan
-* Laboratory of Microbiology, Department of Medicine, National and Kapodistrian University of Athens, Greece
-* Laboratory of Microbiology, Medical School, National and Kapodistrian University of Athens
-* Laboratory of Molecular Biology, Diagnostyka sp. z o.o.
-* Laboratory of Molecular Genetics, 2nd Faculty of Medicine, Charles University in Prague, Prague, Czech Republic
-* Laboratory of Molecular Virology International Center for Genetic Engineering and Biotechnology (ICGEB)
-* Laboratory of Molecular Virology International Center fro Genetic Engineering and Biotechnology (ICGEB)
-* Laboratory of Molecular Virology, Pontificia Universidad Catolica de Chile
-* Lapland Central Hospital
-* Le Chateau de Seine-Port
-* Lung Center of the Philippines
-* MA State Public Health Laboratory
-* MD DOH Laboratories Administration
-* MHC Brabant Zuidoost
-* MHC Drente
-* MHC Flevoland
-* MHC Gooi & Vechtstreek
-* MHC Haaglanden
-* MHC Hart voor Brabant
-* MHC Kennemerland
-* MHC Rotterdam-Rijnmond
-* MHC Utrecht
-* MHC West-Brabant
-* MN PHL Division, Minnesota Department of Health
-* MO State Public Health Laboratory
-* MRCG at LSHTM Genomics Lab
-* MRCG at LSHTM Genomics lab
-* MRCG at LSHTM Geomics lab
-* MSHS Clinical Microbiology Laboratories
-* Maison de Sante du Val d'Ormois
-* Makati Medical Center
-* Massachusetts Department of Public Health
-* Mater Pathology
-* Max von Pettenkofer Institute, Virology, National Reference Center for Retroviruses, LMU Munich
-* Microbial Genomics Laboratory, Institut Pasteur Monteivdeo
-* Microbial Genomics Laboratory, Institut Pasteur Montevideo
-* Microbial Genomics Laboratory, Institut Pasteur Montevideo, Uruguay
-* Microbiological Diagnostic Unit Public Health Laboratory
-* Microbiology, Virology and Biemergency Laboratory-ASST FBF Sacco
-* Ministry of Health Turkey
-* Ministry of Public Health (MoPH)
-* Minnesota Department of Health, Public Health Laboratory
-* Molecular Biology and Biotechnology Lab II
-* Molecular Diagnostic Services
-* Molecular Diagnostic Services and FLowpath
-* Molecular Pathology Division, Department of Pathology, Hong Kong Sanatorium & Hospital
-* Monash Medical Centre
-* Motol University Hospital
-* NC State Laboratory of Public Health
-* NE Public Health Laboratory
-* NH Department of Health and Human Services Public Health Labs
-* NH Dept. of Health and Human Services Public Health Labs
-* NHC Key laboratory of Enteric Pathogenic Microbiology, Institute of Pathogenic Microbiology
-* NIC Viral Respiratory Unit - Institut Pasteur of Algeria
-* NJ Public Health and Environmental Laboratories
-* NMIMR, Department of Virology
-* NRL for Influenza, Centrum Epidemiology and Microbiology of National Institute of Public Health, Czech Republic
-* NV State Public Health Laboratory
-* NV-Southern Nevada Public Health Laboratory
-* NYC Department of Health and Mental Hygiene
-* NYU Langone Health
-* National Centre for Infectious Diseases
-* National Influenza Center - Instituto Adolfo Lutz
-* National Influenza Center - National Institute of Hygiene and Epidemiology (NIHE)
-* National Influenza Center, Indian Council of Medical Research - National Institute of Virology
-* National Influenza Center, National Institute of Hygiene and Epidemiology (NIHE)
-* National Influenza Centre, National Public Health Laboratory, Kathmandu, Nepal
-* National Institute for Communicable Diseases of the National Health Laboratory Service
-* National Institute for Viral Disease Control and Prevention, China CDC
-* National Institutes of Health, University of the Philippines Manila
-* National Public Health Laboratory
-* National Public Health Laboratory, National Centre for Infectious Diseases
-* National Public Health Surveillance Laboratory, Vilnius, Lithuania
-* Nebraska Public Health Laboratory
-* NewYork-Presbyterian & Mason Lab
-* Nordland Hospital - Bodo,  Laboratory Department, Molecular Biology Unit
-* OH Department of Health Laboratory
-* OR State PHL-Virology/Immunology Section
-* OSU Wexner Medical Center
-* Ochsner Health
-* Oregon State Public Health- Virology section
-* Oslo University Hospital, Department of Medical Microbiology
-* Ospedale Civile Castel Di Sangro
-* Ospedale Civile Giuseppe Mazzini
-* Ospedale Civile Giuseppe Mazzini, Teramo
-* Ospedale Civile S. Liberatore di Atri
-* Ospedale Regionale San Salvatore
-* Ospedale San Liberatore di Atri
-* Ostfold Hospital Trust -Kalnes Centre for Laboratory Medicine Section for gene technology and infection serology
-* PA Department of Health, Bureau of Laboratories
-* Parc des Dames
-* Pasig City General Hospital
-* PathWest Laboratory Medicine WA
-* Pathology North
-* Pathology Queensland
-* Praram 9 Hospital
-* Presidio Ospedaliero "S. Spirito" - PESCARA
-* Presidio Ospedaliero Santo Spirito
-* Presidio ospedaliero "Santo Spirito"
-* Prince of Wales Hospital
-* Providence Regional Medical Center
-* Public Health Laboratory
-* Public Health Laboratory, Saudi CDC
-* Public Health Ontario Laboratories
-* Public Health Ontario Laboratory
-* Puerto Rico Department of Health
-* Queen Elizabeth II Health Science Centre
-* Queens Medical Centre, Clinical Microbiology Department / DeepSeq Nottingham
-* R. G. Lugar Center for Public Health Research,  National Center for Disease Control and Public Health (NCDC) of Georgia.
-* RI State Health Laboratories
-* RI State Health Laboratory
-* RIVM
-* Rady's Childrens Hospital
-* Ramathibodi Hospital
-* Regional Virus Laboratory, Belfast
-* Research Institute for Tropical Medicine
-* Residence Eleusis
-* Residence Villa Caroline
-* Residence de maintenon
-* Residence les Marines
-* Respiratory Virus Unit, Microbiology Services Colindale, Public Health England
-* Rizal Medical Center
-* Robert Garry lab
-* Rockhampton Base Hospital
-* Roy Romanow Provincial Laboratory
-* Royal Darwin Hospital
-* Royal Darwin Hospital Pathology
-* Russian State Collection of Viruses
-* SC Dept of Health and Env. Control-Bureau of Laboratories
-* SYNLAB Eesti OU
-* Saitama Medical University
-* Saitama Medical University Hospital
-* Saitama Prefectural Institute of Public Health
-* Santa Clara County Public Health Department
-* Seattle Flu Study
-* Second Hospital of Anhui Medical University
-* Secretaria de Salud Medellin
-* Sentinelles network
-* Serology, Virology and OTDS Laboratories (SAViD), NSW Health Pathology Randwick
-* Service de Biologie Medicale - BP 125
-* Service de Biologie clinique
-* Service des Urgences
-* Servicio Microbiologia, Hospital Clinico Universitario, Valencia
-* Servicio Microbiologia. Hospital Clinico Universitario. Valencia.
-* Servicio Virosis Respiratorias-Departamento Virologia-INEI
-* Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia
-* Servicio de Microbiologia. Hospital Clinico Universitario de Valencia
-* Shandong First Medical University & Shandong Academy of Medical Sciences
-* Shandong Provincial Center for Disease Control and Prevention
-* Shanghai Public Health Clinical Center, Shanghai Medical College, Fudan University
-* Shenzhen Key Laboratory of Pathogen and Immunity, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital
-* Shenzhen Third People's Hospital
-* Singapore General Hospital
-* Singapore General Hospital, Molecular Laboratory, Division of Pathology
-* Sir M P Shah Government Medical College
-* Sir M P Shah Government Medical College, Jamnagar
-* Sorbonne Universite, Inserm et Assistance Publique-Hopitaux de Paris (Pitie Salpetriere)
-* South China Agricultural University
-* State Health Office Baden-Wuerttemberg
-* State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China 310003
-* State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China. 310003
-* State Key Laboratory for Emerging Infectious Diseases Department of Microbiology Li Ka Shing Faculty of Medicine The University of Hong Kong
-* State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University
-* State Research Center of Virology and Biotechnology VECTOR, Department of Collection of Microorganisms
-* Stavanger University Hospital, Department of Medical Microbiology
-* Sullivan Nicolaides Pathology
-* TGen North
-* TSGH-CP molecular lab
-* Tai Lung Veterinary Laboratory, Agriculture, Fisheries and Conservation Department
-* Taiwan Centers for Disease Control
-* Texas DSHS Lab Services
-* Texas Department of State Health Services
-* Texas Department of State Health Services Lab Services
-* The Central Hospital Of Wuhan
-* The Chaim Sheba Medical Center
-* The First Affiliated Hospital of Guangzhou Medical University
-* The National Institute of Public Health Center for Epidemiology and Microbiology
-* The National Laboratory of Health, Environment and Food, Maribor, Slovenia
-* The National University Hospital of Iceland
-* The Ohio State University
-* The Ohio State University Wexner Medical Center
-* The Public Health Agency of Sweden
-* The Republican Research and Practical Center for Epidemiology and Microbiology
-* The University of Hong Kong - Shenzhen Hospital
-* Tianmen Center for Disease Control and Prevention
-* UCD National Virus Reference Laboratory
-* UCSF Clinical Microbiology Laboratory
-* ULSS9 Distretto di Bussolengo
-* UT-Unified State Labs: Public Health Utah DOH
-* UW Virology Lab
-* Unilabs Laboratory Medicine
-* Unilabs Skovde
-* Union Hospital of Tongji Medical College, Huazhong University of Science and Technology
-* Universidade Federal do Rio de Janeiro
-* Universidade Federal do Rio de Janeiro - UFRJ
-* University Hospital Basel, Clinical Virology
-* University Hospital of Northern Norway, Department for Microbiology and Infectious Disease Control
-* University Hospitals of Geneva Laboratory of Virology
-* University of Wisconsin - Madison AIDS Vaccine Research Laboratories
-* University of Wisconsin - Madison: Influenza Research Institute
-* University of Wisconsin-Madison AIDS Vaccine Research Laboratories
-* University of Wisconsin-Madison AIDS Vaccine Research Laboratory
-* University of Wisconsin-Madison, AIDS Vaccine Research Laboratories
-* Unknown
-* Utah Public Health Laboratory
-* VA DCLS
-* VA-Division of Consolidated Laboratory Services
-* Vaccine Research, Development and Application Center, Erciyes University
-* Valley Medical Center
-* Vestfold Hospital, Tonsberg  Department of Microbiology
-* Veterans Memorial Medical Center
-* Victorian Infectious Diseases Reference Laboratory (VIDRL)
-* Viral Respiratory Lab, National Institute for Biomedical Research (INRB)
-* Virginia Division of Consolidated Laboratories
-* Virginia Division of Consolidated Laboratory Services
-* ViroGenetics - BSL3 Laboratory of Virology; Human Genome Variation Research Group & Genomics Centre MCB; Bioinformatics Research Group  Department of Virology
-* ViroGenetics - BSL3 Laboratory of Virology; Human Genome Variation Research Group & Genomics Centre MCB; Bioinformatics Research Group; Wojewodzka Stacja Sanitarno-Epidemiologiczna w Krakowie
-* Virological Research Group, Szentagothai Research Centre
-* Virological Research Group, Szentagothai Research Centre, University of Pecs
-* Virology Department, Royal Infirmary of Edinburgh, NHS Lothian
-* Virology Department, Royal Infirmary of Edinburgh, NHS Lothian / School of Biological Sciences, University of Edinburgh / Institute of Genetics and Molecular Medicine, University of Edinburgh
-* Virology Department, Sheffield Teaching Hospitals NHS Foundation Trust
-* Virology Department, Sheffield Teaching Hospitals NHS Foundation Trust / Virology Department, Sheffield Teaching Hospitals NHS Foundation Trust
-* Virology Laboratory, Department of Biomedical Sciences and Public Health, University Politecnica delle Marche
-* Virology Unit, Institut Pasteur du Cambodge.
-* Virology laboratory Ministry of Health Kuwait sequenced at Dasman Diabetes Institute
-* WA State Department of Health
-* WHO National Influenza Centre Russian Federation
-* Wadsworth Center, New York State Department of Health
-* Wadsworth Center, New York State Department.of Health
-* Wales Specialist Virology Centre
-* Washington State Department of Health
-* Washington State Public Health Lab
-* Weifang Center for Disease Control and Prevention
-* Wellington Hospital
-* West of Scotland Specialist Virology Centre, NHSGGC
-* West of Scotland Specialist Virology Centre, NHSGGC / MRC-University of Glasgow Centre for Virus Research
-* Wildlife Conservation Society, Bronx Zoo
-* Wisconsin Department of Health Services
-* Wuhan Fourth Hospital
-* Wuhan Institute of Virology, Chinese Academy of Sciences
-* Wuhan Jinyintan Hospital
-* Wuhan Lung Hospital
-* Wyoming Public Health Laboratory
-* Yale COVID-19 Biorepository
-* Yale Clinical Virology Laboratory
-* Yongchuan District Center for Disease Control and Prevention
-* Zhejiang Provincial Center for Disease Control and Prevention
-* Zhongxian Center for Disease Control and Prevention
-* deCODE genetics
-* n/a
-* ACT Pathology, The Canberra Hospital
-* AIDS Vaccine Research Laboratories
-* ARS Algarve - Laboratorio Laura Ayres
-* AZ Department of Health Services
-* AZ SPHL, Arizona Department of Health Services
-* Akershus University Hospital, Department for Microbiology and Infectious Disease Control
-* Alaska State Virology Laboratory
-* Andersen Lab, The Scripps Research Institute
-* Andersen lab at Scripps Research
-* Area de Salud Alajuela Sur
-* Area de Salud Orotina
-* Arizona Department of Health Services
-* Arizona State University Health Services
-* Auckland Hospital
-* B.J. Medical College and Civil hospital
-* BCCDC Public Health Laboratory
-* Bamrasnaradura Hospital
-* Bamrasnaradura hospital
-* Beijing Institute of Microbiology and Epidemiology
-* Bethany Hospital
-* Biolab Diagnostic Laboratories
-* Bozeman Health Deaconess Hospital
-* Bozeman Water Reclamation Facility
-* Brian D. Allgood Army Community Hospital
-* Bundeswehr Institute of Microbiology
-* CH Barreiro Montijo
-* CH Compiegne Laboratoire de Biologie
-* CH Jean de Navarre Laboratoire de Biologie
-* CH Jeanne de Navarre Laboratoire de Biologie
-* CH VN Gaia - Espinho
-* CHBarreiro Montijo
-* CHMT
-* CHRU Bretonneau - Serv. Bacterio-Virol.
-* CHRU Pontchaillou - Laboratoire de Virologie
-* CHTMAD
-* CHU - Hopital Cavale Blanche - Labo. de Virologie
-* CHU Coimbra
-* CHU Coimbra - Pediatrico
-* CHU Gabriel Montpied
-* CHU Purpan - Laboratoire de Virologie - Institut Federatif de Biologie
-* CHUA - Faro
-* CHULC - H Curry Cabral
-* CHULC - H D Estefania
-* CMIP
-* CNR Virus des Infections Respiratoires - France SUD
-* COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS
-* COOPESAIN
-* CR&WISCO GENERAL HOSPITAL
-* CT-Dr. Katherine A. Kelley State Public Health Lab
-* Cabinet Medical
-* Cabinet medical
-* Cadham Provincial Laboratory
-* California Department of Health
-* California Department of Public Health
-* Center for Virology, Medical University of Vienna
-* Center of Medical Microbiology, Virology, and Hospital Hygiene, University of Duesseldorf
-* Center of Scientific Excellence for Influenza Viruses, National Research Centre (NRC), Egypt.
-* Center of Scientific Excellence for Influenza Viruses,National Research Centre (NRC), Egypt.
-* Centers for Disease Control and Prevention of Lishui
-* Centers for Disease Control, R.O.C. (Taiwan)
-* Central Public Health Laboratory/Octavio Magalhaes Institute (IOM) from the Ezequiel Dias Foundation (FUNED)
-* Central Virology Laboratory
-* Central Virology Laboratory, Israel Ministry of Health
-* Central chest Institute of Thailand
-* Centre Hositalier Universitaire de Rouen Laboratoire de Virologie
-* Centre Hospitalier Compiegne Laboratoire de Biologie
-* Centre Hospitalier Lucien Hussel
-* Centre Hospitalier Regional Universitaire de Nantes Laboratoire de Virologie
-* Centre Hospitalier Rene Dubois Laboratoire de Microbiologie - Bat A
-* Centre Hospitalier Saint Joseph Saint Luc
-* Centre Hospitalier de Bourg en Bresse
-* Centre Hospitalier de Macon
-* Centre Hospitalier de Valence
-* Centre Hospitalier des Vals d'Ardeche
-* Centre for Dengue Research
-* Centre for Human and Zoonotic Virology (CHAZVY), College of Medicine University of Lagos/Lagos University Teaching Hospital (LUTH), part of the Laboratory Network of the Nigeria Centre for Disease Control (NCDC)
-* Centre for Infectious Diseases and Microbiology - Public Health
-* Centre for Infectious Diseases and Microbiology Laboratory Services
-* Centre for Infectious Diseases and Microbiology Public Health
-* Centre for Infectious Diseases and Microbiology- Public Health
-* Centro Hospital do Porto, E.P.E. - H. Geral de Santo Antonio
-* Centro Hospitalar e Universitario de Sao Joao, Porto
-* Charite Universitatsmedizin Berlin, Institute of Virology; Institut fur Mikrobiologie der Bundeswehr, Munich
-* Chiba Prefectural Institute of Public Health
-* Chinese PLA Institute for Disease Control and Prevention
-* Chiu Laboratory, University of California, San Francisco
-* Clinica Alemana de Santiago, Chile
-* Clinica Santa Maria, Santiago, Chile
-* Clinical Diagnostics Laboratory, Diagnostic & Experimental Pathology, Lilly Research Laboratories
-* Clinical Microbiology Lab
-* Clinique AVERAY LA BROUSTE, Med. Polyvalente
-* Connecticut State Department of Public Health
-* County of Santa Clara Public Health
-* County of Santa Clara Public Health Department
-* DC Public Health Lab Dept of Forensic Science
-* DC Public Health Lab/ Dept. of Forensic Sciences
-* Dasman Diabetes Institute
-* Dasman Diabetes Institute and Virology Laboratory Ministry of Health
-* Departamento de Biologia y genetica molecular, IACA Laboratorios.
-* Department for Virology, Molecular Biology and Genome Research, R. G. Lugar Center for Public Health Research, National Center for Disease Control and Public Health (NCDC) of Georgia.
-* Department of Clinical Laboratory, the First People's Hospital of Yunnan Province
-* Department of Clinical Microbiology
-* Department of Clinical Microbiology, Copenhagen University Hospital, Hvidovre, Kettegaard Alle 30, 2650 Hvidovre.
-* Department of Clinical Pathology, Pamela Youde Nethersole Eastern Hospital
-* Department of Clinical Pathology, Tuen Mun Hospital
-* Department of Clinical Pathology, Tuen Mun Hospital, 23 Tsing Chung Koon Road, Tuen Mun, N.T.
-* Department of Infectious Diseases, Istituto Superiore di Sanita, Roma , Italy
-* Department of Infectious Diseases, Istituto Superiore di Sanita, Rome, Italy
-* Department of Infectious and Tropical Diseases, Bichat Claude Bernard Hospital, Paris
-* Department of Internal Medicine, Triemli Hospital
-* Department of Laboratory Medicine, National Taiwan University Hospital
-* Department of Medical Microbiology, University Malaya Medical Centre
-* Department of MicroBiology,Gandhi Medical College and Hospital,Secendrabad,Hyderabad,India
-* Department of Microbiology, Faculty of Medicine, The Chinese University of Hong Kong, Hong Kong SAR, China
-* Department of Microbiology, Gandhi Medical College and Hospital, Secendrabad, Hyderabad, India
-* Department of Microbiology, Institute for Viral Diseases, College of Medicine, Korea University
-* Department of Microbiology, PathWest QEII Medical Centre
-* Department of Microbiology,Gandhi Medical College and Hospital
-* Department of Pathology, Princess Margaret Hospital
-* Department of Pathology, Toshima Hospital
-* Department of Pathology, United Christian Hospital
-* Department of Pathology, University of Cambridge
-* Department of Virology III, National Institute of Infectious Diseases
-* Department of Virology and Immunology, University of Helsinki and Helsinki University Hospital, Huslab Finland
-* Department of Virus and Microbiological Special Diagnostics, Statens Serum Institut, Copenhagen, Denmark, Artillerivej 5, 2300 Copenahgen S
-* Department of Virus and Microbiological Special diagnostics, Statens Serum Institut, Copenhagen, Denmark.
-* Department of microbiology laboratory,Anhui Provincial Center for Disease Control and Prevention
-* Dept. of Pathology, National Institute of Infectious Diseases
-* Dept. of Virology III, National Institute of Infectious Diseases
-* Diagnostic- and Research Institute of Pathology, Medical University of Graz
-* Dienst Gezondheid & Jeugd Zuid-Holland Zuid
-* District Surveillance Unit
-* District Surveillence Unit
-* Division of Consolidated Laboratories
-* Division of Consolidated Laboratories Services
-* Division of Consolidated Laboratory Services
-* Division of Infectious Diseases, Department of Internal Medicine, Korea University College of Medicine
-* Division of Infectious Diseases, University Hospital Zurich
-* Division of Viral Diseases, Center for Laboratory Control of Infectious Diseases, Korea Centers for Diseases Control and Prevention
-* Dr. Georges-L.-Dumont University Hospital Centre
-* Dunedin Hospital
-* Dutch COVID-19 response team
-* E. Gulbja Laboratorija
-* EBAIS Concepcion Norte
-* EHPAD - Residences les Cedres
-* Ecole nationale veterinaire d'Alfort-laboratoire de sante animale Anses UMR 1161 de virologie ENVA-Anses-INRAE
-* Ektorps Vardcentral
-* ErasmusMC
-* FL Bur. of Public Health Laboratories-Jacksonville
-* FL Bureau of Health Laboratories Tampa
-* FL Bureau of Public Health Laboratories-Miami
-* FL Bureau of Public Health Laboratories-Tampa
-* FSBSI "Chumakov Federal Scientific Center for Research and Development of Immune-and-Biological Products of Russian Academy of Sciences"
-* FUNDACION JIMENEZ DIAZ
-* Florida Bureau of Public Health Laboratories
-* Follinge Halsocentral
-* Forde Hospital Department of Microbiology
-* Foundation Elisabeth-Tweesteden Ziekenhuis
-* Foundation Pamm
-* Fujian Center for Disease Control and Prevention
-* Fundacion Jimenez Diaz
-* Furst Medical Laboratory
-* GA Department of Public Health
-* GA Department of Public Health Laboratory
-* GH Les Portes du Sud
-* GH Nord Essonne Service de Biologie clinique
-* Geelong Centre for Emerging Infectious Diseases
-* General Hospital of Central Theater Command of People's Liberation Army of China
-* General Intensive Care Unit, Raymond Poincare Hospital (AP-HP), Lab Inflammation & Infection, U1173 University Paris Saclay-UVSQ/INSERM, Garches, France.
-* Genomic Laboratory (GLAB) (Conjoint lab of Health Directorate of Istanbul and Istanbul Technical University)
-* Genomics and Computational Biology Lab, Scientific Research Institute of Physical-Chemical Medicine, FMBA of Russia
-* Gorgas Memorial Institute for Health Studies
-* Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provincial Public Health
-* Guangdong Provincial Center for Diseases Control and Prevention; Guangdong Provinical Public Health
-* Guangdong Provincial Center for Diseases Control and Prevention;Guangdong Provincial Institute of Public Health
-* Guangdong Provincial Institution of Public Health, Guangdong Provinical Center for Disease Control and Prevention
-* Gujarat Biotechnology Research Centre
-* Gundersen Molecular Diagnostic Laboratory
-* Gundersen Molecular Diagnostics Laboratory
-* H Beatriz Angelo
-* H Braga
-* H Dr Nelio Mendonca - Funchal
-* H Dr. Nelio Mendonca - Funchal
-* H Evora
-* H Garcia de Orta
-* H Guimaraes
-* H Santarem
-* HI Dept. of Health, State Laboratories Division
-* HOSPITAL CLINIC
-* HOSPITAL DE CRUCES.
-* HOSPITAL GENERAL DE SEGOVIA
-* HOSPITAL SANTA MARIA NAI
-* HOSPITAL TXAGORRITXU
-* HOSPITAL UNIVERSITARIO LA PAZ
-* HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES
-* HS mikrobiologi virus
-* HSE Ilha Terceira - Angra do Heroismo
-* HUS Diagnostiikkakeskus, Hallinto
-* Hangzhou Center for Disease Control and Prevention
-* Hangzhou Center for Disease and Control Microbiology Lab
-* Hangzhou Center for Diseases Control and Prevention
-* Harborview Medical Center
-* Health Board Laboratory of Communicable Diseases
-* Health Sciences Technology Park, Avicena, 8, 18016 Granada. Spain
-* Hellenic Pasteur Institute, Public Health Laboratories
-* Hematology Laboratory, Section of Molecular Diagnostics, University Clinical Centre, Medical University of Gdansk
-* Hong Kong Department of Health
-* Hopital Instruction des Armees - BEGIN
-* Hopital Prive de l'Est Lyonnais
-* Hopital Robert Debre Laboratoire de Virologie
-* Hopital franco britannique - Laboratoire
-* Hopital franco britannique - Service des Urgences
-* Hopitaux universitaires de Geneve Laboratoire de Virologie
-* Hornefors Halsocentral
-* Hospital AZ Rivierenland
-* Hospital General Regional No.66, Ciudad Juarez, Chihuahua.
-* Hospital General y Universitario de Guadalajara
-* Hospital Israelita Albert Einstein
-* Hospital Prof. Doutor Fernando Fonseca, EPE
-* Hospital San Pedro
-* Hospital San Vicente de Paul
-* Hospital Sao Joaquim Beneficencia Portuguesa
-* Hospital Universitari Germans Trias i Pujol(HUGTiP)/Fundacio Lluita contra la SIDA (FLSida)/IRTA-CReSA
-* Hospital Universitari Vall d'Hebron (HUVH) - Vall d'Hebron Research Institute (VHIR)
-* Hospital Universitario 12 de Octubre
-* Hospital Universitario La Paz
-* Hospital Universitario Ramon y Cajal
-* Hospital Universitario Virgen de las Nieves
-* Hospital Universitario de Canarias
-* Hospital de Talca, Chile
-* Hospital of Southern Norway - Kristiansand, Department of Medical Microbiology
-* Houston Methodist Hospital
-* IA State Hygienic Laboratory
-* ICMR-National Institute of Cholera and Enteric Diseases
-* IL Department of Public Health Chicago Laboratory
-* IN State Department of Health Laboratory Services
-* INMI Lazzaro Spallanzani IRCCS
-* Illinois Department of Public Health Chicago Laboratory
-* Indian Council of Medical Research - National Institute of Virology
-* Indian Council of Medical Research-National Institute of Virology
-* Indian Council of Medical Research-National Institute of Virology, Microbial Containment Complex
-* Instirut Pasteur Dakar
-* Institut Medico legal- Hop R. Poincare
-* Institut Pasteur Dakar
-* Institut des Agents Infectieux (IAI) Hospices Civils de Lyon
-* Institut des Agents Infectieux (IAI), Hospices Civils de Lyon
-* Institut pasteur Dakar
-* Institute for Medical Research, Infectious Disease Research Centre, National Institutes of Health, Ministry of Health Malaysia
-* Institute for Public Health
-* Institute information KU Leuven, Clinical and Epidemiological Virology
-* Institute of Microbiology Universidad San Francisco de Quito
-* Institute of Microbiology and Immunology, Faculty of Medicine, University of Ljubljana
-* Institute of Microbiology, Universidad San Francisco de Quito
-* Institute of Pathogen Biology, Chinese Academy of Medical Sciences & Peking Union Medical College
-* Institute of Viral Disease Control and Prevention, China CDC
-* Institute of Virology, Biomedical Research Center of the Slovak Academy of Sciences, Bratislava; Public Health Authority of the Slovak Republic, Bratislava
-* Instituto Nacional de Ciencias Medicas y Nutricion Salvador Zubiran
-* Instituto Nacional de Enfermedades Respiratorias
-* Instituto Nacional de Salud
-* Instituto Nacional de Saude (INSA)
-* Instituto Oswaldo Cruz FIOCRUZ - Laboratory of Respiratory Viruses and Measles (LVRS)
-* Instituto Sabin
-* Instituto de Diagnostico y Referencia Epidemiologicos
-* Ishikawa Prefectural Institute of Public Health and Environmental Science
-* JABER AL AHMAD AL SABAH HOSPITAL KUWAIT CITY
-* Jaber Al Ahmad Al Sabah Hospital
-* Japanese Quarantine Stations
-* Jiangxi Province Center for Disease Control and Prevention
-* Jiangxi province Center for Disease Control and Prevention
-* Jingzhou Center for Disease Control and Prevention
-* Johns Hopkins Hospital Department of Pathology
-* KRISP, KZN Research Innovation and Sequencing Platform
-* KS Health and Environmental Laboratories
-* KU Leuven, Clincal and Epidemiological Virology
-* KU Leuven, Clinical and Epidemiological Virology
-* Klinik Hirslanden Zurich
-* Klinisk mikrobiologi Orebro
-* Klinisk mikrobiologi och vardhygien Halmstad
-* Klinisk mikrobiologi, Region Vasterbotten
-* Knivsta VC
-* Kochi Prefectural Institute of Public Health
-* Korea Centers for Disease Control & Prevention (KCDC) Center for Laboratory Control of Infectious Diseases Division of Viral Diseases
-* Kristianstadkliniken
-* Krokoms Halsocentral
-* Kungsholmsdoktorn
-* Kungsors VC
-* L'Air du Temps
-* LA Office of Public Health Laboratories
-* LA office of Public Health Laboratories
-* LABM GH nord Essonne
-* LABM GH nord Essonne de Longjumeau - BP 125
-* LACEN RJ - Laboratorio Central de Saude Publica Noel Nutels
-* LACEN-AL - Laboratorio Central de Alagoas
-* LACEN-BA - Laboratorio Central de Saude Publica Professor Goncalo Moniz
-* LACEN-SC - Laboratorio Central de Santa Catarina
-* LACEN/ES - Laboratorio Central de Saude Publica do Espirito Santo
-* LSUHS Emerging Viral Threat Laboratory
-* Lab voor klinische biologie
-* Labo BM - Site de Juvisy - Hopital General
-* Laboiratorio Fleury
-* Laboratoire National de Sante
-* Laboratoire National de Sante, Microbiology, Virology
-* Laboratoire Nationale de Sante, Microbiology, Virology
-* Laboratoire de Virologie Institut de Virologie - INSERM U 1109 Hopitaux Universitaires de Strasbourg
-* Laboratoire de Virologie, HUG
-* Laboratoire de microbiologie, Hopital de Verdun
-* Laboratoriemedicin
-* Laboratorio Analisis Clinicos, Unidad de Servicios Diagnosticos, Swiss Medical Group
-* Laboratorio Central de Saude Publica Professor Goncalo Moniz LACEN/BA
-* Laboratorio Estatal de Salud Publica del Estado de Mexico
-* Laboratorio Estatal de Salud Publica del Estado de Puebla
-* Laboratorio Estatal de Salud Publica del Estado de Queretaro
-* Laboratorio Hermes Pardini
-* Laboratorio Simili
-* Laboratorio de Ecologia de Doencas Transmissiveis na Amazonia, Instituto Leonidas e Maria Deane - Fiocruz Amazonia
-* Laboratorio de Referencia Nacional de Virus Respiratorio. Instituto Nacional de Salud. Peru
-* Laboratorio de Referencia Nacional de Virus Respiratorios. Instituto Nacional de Salud Peru
-* Laboratorio de Virologia del Hospital de Ninos Dr. Ricardo Gutierrez
-* Laboratorio di Microbiologia e Virologia, Universita Vita-Salute San Raffaele, Milano
-* Laboratory Medicine
-* Laboratory of Applied Genetics
-* Laboratory of Genomics & Bioinformatics, Institute of Immunology and Experimental Therapy, Polish Academy of Sciences Oddzia Mikrobiologii Wojewodzkiej Stacji Sanitarno Epidemiologiczna
-* Laboratory of Infectious Diseases, Department of Biomedical and Clinical Sciences L. Sacco, University of Milan
-* Laboratory of Microbiology, Department of Medicine, National and Kapodistrian University of Athens, Greece
-* Laboratory of Microbiology, Medical School, National and Kapodistrian University of Athens
-* Laboratory of Molecular Biology, Diagnostyka sp. z o.o.
-* Laboratory of Molecular Genetics, 2nd Faculty of Medicine, Charles University in Prague, Prague, Czech Republic
-* Laboratory of Molecular Virology International Center for Genetic Engineering and Biotechnology (ICGEB)
-* Laboratory of Molecular Virology International Center fro Genetic Engineering and Biotechnology (ICGEB)
-* Laboratory of Molecular Virology, Pontificia Universidad Catolica de Chile
-* Lakargruppen
-* Lapland Central Hospital
-* Latvijas Infektologijas centrs
-* Le Chateau de Seine-Port
-* Lednicky Laboratory at Emerging Pathogens Institute
-* Lednicky Laboratory, Emerging Pathogens Institute, University of Florida
-* Lednicky Laboratory, Emerging Pathogens Institute, University of Florida.
-* Lundens VC
-* Lung Center of the Philippines
-* MA State Public Health Laboratory
-* MD DOH Laboratories Administration
-* MHC Brabant Zuidoost
-* MHC Drente
-* MHC Flevoland
-* MHC Gooi & Vechtstreek
-* MHC Haaglanden
-* MHC Hart voor Brabant
-* MHC Kennemerland
-* MHC Rotterdam-Rijnmond
-* MHC Utrecht
-* MHC West-Brabant
-* MN PHL Division, Minnesota Department of Health
-* MO State Public Health Laboratory
-* MRCG at LSHTM Genomics Lab
-* MRCG at LSHTM Genomics lab
-* MRCG at LSHTM Geomics lab
-* MSHS Clinical Microbiology Laboratories
-* Maison de Sante du Val d'Ormois
-* Makati Medical Center
-* Massachusetts Department of Public Health
-* Mater Pathology
-* Max von Pettenkofer Institute, Virology, National Reference Center for Retroviruses, LMU Munchen
-* Max von Pettenkofer Institute, Virology, National Reference Center for Retroviruses, LMU Munich
-* Medistra Hospital Jakarta
-* Michigan Department of Health and Human Services, Bureau of Laboratories
-* Microbial Genomics Laboratory, Institut Pasteur Monteivdeo
-* Microbial Genomics Laboratory, Institut Pasteur Montevideo
-* Microbial Genomics Laboratory, Institut Pasteur Montevideo, Uruguay
-* Microbiological Diagnostic Unit Public Health Laboratory
-* Microbiology, Virology and Biemergency Laboratory-ASST FBF Sacco
-* Ministry of Health Turkey
-* Ministry of Public Health (MoPH)
-* Minnesota Department of Health, Public Health Laboratory
-* Mitra Keluarga Kelapa Gading Hospital
-* Mohammed Bin Rashid University of Medicine and Health Sciences
-* Molecular Biology and Biotechnology Lab II
-* Molecular Diagnostic Services
-* Molecular Diagnostic Services and FLowpath
-* Molecular Pathology Division, Department of Pathology, Hong Kong Sanatorium & Hospital
-* Monash Medical Centre
-* Motol University Hospital
-* NC State Laboratory of Public Health
-* NE Public Health Laboratory
-* NH Department of Health and Human Services Public Health Labs
-* NH Dept. of Health and Human Services Public Health Labs
-* NHC Key laboratory of Enteric Pathogenic Microbiology, Institute of Pathogenic Microbiology
-* NIC Viral Respiratory Unit - Institut Pasteur of Algeria
-* NJ Public Health and Environmental Laboratories
-* NMIMR, Department of Virology
-* NRL for Influenza, Centrum Epidemiology and Microbiology of National Institute of Public Health, Czech Republic
-* NV State Public Health Laboratory
-* NV-Southern Nevada Public Health Laboratory
-* NYC Department of Health and Mental Hygiene
-* NYU Langone Health
-* Narhalsan Backa vardcentral
-* Narhalsan Molnlycke, Barn och ungdomsmedicin
-* Narhalsan Sjobo vardcentral
-* National Centre for Disease control (NCDC)
-* National Centre for Disease control (NCDC), CSIR-Institute of Genomics and Integrative Biology (CSIR-IGIB)
-* National Centre for Infectious Diseases
-* National Hospital of Tropical Diseases
-* National Influenza Center - Instituto Adolfo Lutz
-* National Influenza Center - National Institute of Hygiene and Epidemiology (NIHE)
-* National Influenza Center, Indian Council of Medical Research - National Institute of Virology
-* National Influenza Center, National Institute of Hygiene and Epidemiology (NIHE)
-* National Influenza Centre, National Public Health Laboratory, Kathmandu, Nepal
-* National Institute for Communicable Diseases of the National Health Laboratory Service
-* National Institute for Viral Disease Control and Prevention, China CDC
-* National Institutes of Health, University of the Philippines Manila
-* National Public Health Laboratory
-* National Public Health Laboratory, National Centre for Infectious Diseases
-* National Public Health Surveillance Laboratory, Vilnius, Lithuania
-* National Virology Reference Laboratory
-* Nebraska Public Health Laboratory
-* NewYork-Presbyterian & Mason Lab
-* Nordland Hospital - Bodo, Laboratory Department, Molecular Biology Unit
-* OH Department of Health Laboratory
-* OR State PHL-Virology/Immunology Section
-* OSU Wexner Medical Center
-* Ochsner Health
-* Omtanken Grimmered
-* Oregon State Public Health- Virology section
-* Oslo University Hospital, Department of Medical Microbiology
-* Ospedale Civile Castel Di Sangro
-* Ospedale Civile Giuseppe Mazzini
-* Ospedale Civile Giuseppe Mazzini, Teramo
-* Ospedale Civile S. Liberatore di Atri
-* Ospedale Regionale San Salvatore
-* Ospedale SS Annunziata
-* Ospedale San Liberatore di Atri
-* Ostfold Hospital Trust -Kalnes Centre for Laboratory Medicine Section for gene technology and infection serology
-* PA Department of Health, Bureau of Laboratories
-* Panyanunthaphikkhu Chonprathan Medical Center (PCMC)
-* Parc des Dames
-* Pasig City General Hospital
-* PathWest Laboratory Medicine WA
-* Pathology North
-* Pathology Queensland
-* Praram 9 Hospital
-* Presidio Ospedaliero "S. Spirito" - PESCARA
-* Presidio Ospedaliero Santo Spirito
-* Presidio ospedaliero "Santo Spirito"
-* Prince Charles Hospital
-* Prince of Wales Hospital
-* Providence Regional Medical Center
-* Public Health Laboratory
-* Public Health Laboratory, Saudi CDC
-* Public Health Ontario Laboratories
-* Public Health Ontario Laboratory
-* Puerto Rico Department of Health
-* Pusat Pertamina Hospital
-* Queen Elizabeth II Health Science Centre
-* Queens Medical Centre, Clinical Microbiology Department / DeepSeq Nottingham
-* R. G. Lugar Center for Public Health Research, National Center for Disease Control and Public Health (NCDC) of Georgia.
-* RI State Health Laboratories
-* RI State Health Laboratory
-* RIVM
-* RS Pondok Indah Hospital Pondok Indah
-* RSA/RP Villa San Giovanni - Gruppo Edos
-* RSUD Dr. Soetomo
-* Rady's Childrens Hospital
-* Ramathibodi Hospital
-* Ramkhamhaeng Hospital
-* Regional Virus Laboratory, Belfast
-* Research Institute for Tropical Medicine
-* Residence Eleusis
-* Residence Villa Caroline
-* Residence de maintenon
-* Residence les Marines
-* Respiratory Virus Unit, Microbiology Services Colindale, Public Health England
-* Rizal Medical Center
-* Robert Garry lab
-* Rockhampton Base Hospital
-* Roy Romanow Provincial Laboratory
-* Royal Brisbane and Women's Hospital
-* Royal Darwin Hospital
-* Royal Darwin Hospital Pathology
-* Russian State Collection of Viruses
-* SC Dept of Health and Env. Control-Bureau of Laboratories
-* SERVIZIO DI IGIENE E SANITA PUBBLICA ASL Teramo
-* SYNLAB Eesti OU
-* Saitama Medical University
-* Saitama Medical University Hospital
-* Saitama Prefectural Institute of Public Health
-* Santa Clara County Public Health Department
-* Saroledens Familjelakare
-* Seattle Flu Study
-* Second Hospital of Anhui Medical University
-* Secretaria de Salud Medellin
-* Sentinelles network
-* Serology, Virology and OTDS Laboratories (SAViD), NSW Health Pathology Randwick
-* Service de Biologie Medicale - BP 125
-* Service de Biologie clinique
-* Service des Urgences
-* Servicio Microbiologia, Hospital Clinico Universitario, Valencia
-* Servicio Microbiologia. Hospital Clinico Universitario. Valencia.
-* Servicio Virosis Respiratorias-Departamento Virologia-INEI
-* Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia
-* Servicio de Microbiologia. Hospital Clinico Universitario de Valencia
-* Servicio de Microbiologia. Hospital Universitario Doctor Peset
-* Servizio di Igiene, Epidemiologia e Sanita Pubblica (SIESP) Avezzano
-* Servizio di igiene epidemiologia e sanita pubblica (Siesp) Chieti
-* Shandong First Medical University & Shandong Academy of Medical Sciences
-* Shandong Provincial Center for Disease Control and Prevention
-* Shanghai Public Health Clinical Center, Shanghai Medical College, Fudan University
-* Shenzhen Key Laboratory of Pathogen and Immunity, National Clinical Research Center for Infectious Disease, Shenzhen Third People's Hospital
-* Shenzhen Third People's Hospital
-* Siloam Hospitals
-* Singapore General Hospital
-* Singapore General Hospital, Molecular Laboratory, Division of Pathology
-* Sir M P Shah Government Medical College
-* Sir M P Shah Government Medical College, Jamnagar
-* Sorbonne Universite, Inserm et Assistance Publique-Hopitaux de Paris (Pitie Salpetriere)
-* South China Agricultural University
-* State Health Office Baden-Wuerttemberg
-* State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China 310003
-* State Key Laboratory for Diagnosis and Treatment of Infectious Diseases, National Clinical Research Center for Infectious Diseases, First Affiliated Hospital, Zhejiang University School of Medicine, Hangzhou, China. 310003
-* State Key Laboratory for Emerging Infectious Diseases Department of Microbiology Li Ka Shing Faculty of Medicine The University of Hong Kong
-* State Key Laboratory of Respiratory Disease, National Clinical Research Center for Respiratory Disease, Guangzhou Institute of Respiratory Health, the First Affiliated Hospital of Guangzhou Medical University
-* State Research Center of Virology and Biotechnology VECTOR, Department of Collection of Microorganisms
-* Stavanger University Hospital, Department of Medical Microbiology
-* Sullivan Nicolaides Pathology
-* Surbrunns VC
-* Svardsjo VC
-* T.C. Saglk Bakanlg Adyaman Il Saglk Mudurlugu Adyaman Egitim Ve Arastrma Hastanesi
-* TGen North
-* TSGH-CP molecular lab
-* Tai Lung Veterinary Laboratory, Agriculture, Fisheries and Conservation Department
-* Taiwan Centers for Disease Control
-* Texas DSHS Lab Services
-* Texas Department of State Health Services
-* Texas Department of State Health Services Lab Services
-* Thammasat University Hospital
-* The Central Hospital Of Wuhan
-* The Chaim Sheba Medical Center
-* The First Affiliated Hospital of Guangzhou Medical University
-* The National Institute of Public Health Center for Epidemiology and Microbiology
-* The National Laboratory of Health, Environment and Food, Maribor, Slovenia
-* The National University Hospital of Iceland
-* The Ohio State University
-* The Ohio State University Wexner Medical Center
-* The Public Health Agency of Sweden
-* The Republican Research and Practical Center for Epidemiology and Microbiology
-* The University of Hong Kong - Shenzhen Hospital
-* Tianmen Center for Disease Control and Prevention
-* Trollbackens VC
-* UCD National Virus Reference Laboratory
-* UCSF Clinical Microbiology Laboratory
-* ULSS9 Distretto di Bussolengo
-* UPMC Clinical Laboratory
-* US VI Department of Health
-* UT-Unified State Labs: Public Health Utah DOH
-* UW Virology Lab
-* Ulltuna Vardcentral
-* Unilabs Laboratory Medicine
-* Unilabs Skovde
-* Union Hospital of Tongji Medical College, Huazhong University of Science and Technology
-* Universidade Federal do Rio de Janeiro
-* Universidade Federal do Rio de Janeiro - UFRJ
-* University Hospital Basel, Clinical Virology
-* University Hospital of Northern Norway, Department for Microbiology and Infectious Disease Control
-* University Hospitals of Geneva Laboratory of Virology
-* University of Wisconsin - Madison AIDS Vaccine Research Laboratories
-* University of Wisconsin - Madison: Influenza Research Institute
-* University of Wisconsin-Madison AIDS Vaccine Research Laboratories
-* University of Wisconsin-Madison AIDS Vaccine Research Laboratory
-* University of Wisconsin-Madison, AIDS Vaccine Research Laboratories
-* Unknown
-* Uppsala Narakut Aleris
-* Utah Public Health Laboratory
-* VA DCLS
-* VA-Division of Consolidated Laboratory Services
-* Vaccine Research, Development and Application Center, Erciyes University
-* Valley Medical Center
-* Vestfold Hospital, Tonsberg Department of Microbiology
-* Veterans Memorial Medical Center
-* Veterinary Specialized Institue Kraljevo
-* Victoria Vard och Halsa
-* Victorian Infectious Diseases Reference Laboratory (VIDRL)
-* Villa Serena del Dr. Leonardo Petruzzi
-* Viral Respiratory Lab, National Institute for Biomedical Research (INRB)
-* Virginia Division of Consolidated Laboratories
-* Virginia Division of Consolidated Laboratory Services
-* ViroGenetics - BSL3 Laboratory of Virology; Human Genome Variation Research Group & Genomics Centre MCB; Bioinformatics Research Group Department of Virology
-* ViroGenetics - BSL3 Laboratory of Virology; Human Genome Variation Research Group & Genomics Centre MCB; Bioinformatics Research Group; Wojewodzka Stacja Sanitarno-Epidemiologiczna w Krakowie
-* Virological Research Group, Szentagothai Research Centre
-* Virological Research Group, Szentagothai Research Centre, University of Pecs
-* Virology Department, Royal Infirmary of Edinburgh, NHS Lothian
-* Virology Department, Royal Infirmary of Edinburgh, NHS Lothian / School of Biological Sciences, University of Edinburgh / Institute of Genetics and Molecular Medicine, University of Edinburgh
-* Virology Department, Sheffield Teaching Hospitals NHS Foundation Trust
-* Virology Department, Sheffield Teaching Hospitals NHS Foundation Trust / Virology Department, Sheffield Teaching Hospitals NHS Foundation Trust
-* Virology Laboratory, Department of Biomedical Sciences and Public Health, University Politecnica delle Marche
-* Virology Unit, Institut Pasteur du Cambodge.
-* Virology laboratory Ministry of Health Kuwait sequenced at Dasman Diabetes Institute
-* WA State Department of Health
-* WHO National Influenza Centre Russian Federation
-* Wadsworth Center, New York State Department of Health
-* Wadsworth Center, New York State Department.of Health
-* Wales Specialist Virology Centre
-* Washington State Department of Health
-* Washington State Public Health Lab
-* Weifang Center for Disease Control and Prevention
-* Wellington Hospital
-* West of Scotland Specialist Virology Centre, NHSGGC
-* West of Scotland Specialist Virology Centre, NHSGGC / MRC-University of Glasgow Centre for Virus Research
-* Wildlife Conservation Society, Bronx Zoo
-* Wisconsin Department of Health Services
-* Wuhan Fourth Hospital
-* Wuhan Institute of Virology, Chinese Academy of Sciences
-* Wuhan Jinyintan Hospital
-* Wuhan Lung Hospital
-* Wyoming Public Health Laboratory
-* Yale COVID-19 Biorepository
-* Yale Clinical Virology Laboratory
-* Yale Clinical virology
-* Yongchuan District Center for Disease Control and Prevention
-* Zhejiang Provincial Center for Disease Control and Prevention
-* Zhongxian Center for Disease Control and Prevention
-* deCODE genetics
+	* Chongqing/ZX01/2020
+
+
 ```
