@@ -66,9 +66,9 @@ abstract: "この週次レポートでは、公開されたゲノムデータを
 # [COVID-19 に関する資料](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
 このレポートで紹介するデータを理解するための資料を用意しています。
 #### Nextstrain Resources  
-* [最初にご覧下さい: 系統樹の読み方](https://nextstrain.org/narratives/trees-background/).  
+* [最初にご覧下さい: 系統樹の読み方](https://nextstrain.org/narratives/trees-background/ja).  
 * [コロナウイルスの背景](https://nextstrain.org/help/coronavirus/human-CoV).
-* [よくある誤解](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [よくある誤解](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-03-13?n=11).
 
 #### External Resources  
 * [「Ask a Scientist」とよくある質問と答え](https://covid19.fas.org/l/en).
