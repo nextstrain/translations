@@ -17,8 +17,8 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: Inilaan ng Google
-translatorLinks: www.google.com
+translators: "Inilaan ng Google"
+translatorLinks: "https://www.google.com"
 license: "CC-BY"  
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/asia/2020-05-08?d=map&legend=closed&f_region=Asia"
@@ -60,7 +60,7 @@ Sinuri namin ang 2,226 na genome ng COVID-19 na ibinahagi sa publiko.  Sa pamama
 # [Mga Sanggunian sa COVID-19](https://nextstrain.org/ncov/asia/2020-05-08?d=tree&p=full&legend=closed&f_region=Asia)
 Naghanda kami ng ilang sanggunian na magpapadali sa pagpapaliwanag ng datos na ipinakikita namin sa salaysay na ito.
 #### Mga Sanggunian ng Nextstrain  
-* [MAGSIMULA DITO: Paano basahin ang isang phylogeny](https://nextstrain.org/narratives/trees-background/).  
+* [MAGSIMULA DITO: Paano basahin ang isang phylogeny](https://nextstrain.org/narratives/trees-background/tl).  
 * [Background sa mga coronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
 * [Mga karaniwang maling pagkaunawa](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
