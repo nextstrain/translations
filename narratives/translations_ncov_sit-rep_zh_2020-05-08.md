@@ -37,13 +37,13 @@ abstract: "本周报告使用公开共享的基因组学数据来追踪 COVID-19
 <!-- This is left-side text 1-->
 # [目录](https://nextstrain.org/ncov/2020-05-08?d=tree,map&p=grid)
 
-* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=2).     
-* [关于数据](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=3).  
-* [印度疫情的起源](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=4).  
-* [新加坡案例数突发显著上升的背景分析](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=5).  
-* [输入进马来西亚的病例](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=6).  
-* [快速的跨境传播](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=7).    
-* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/2020-05-08?n=8).
+* [背景资料](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-08?n=2).     
+* [关于数据](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-08?n=3).  
+* [印度疫情的起源](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-08?n=4).  
+* [新加坡案例数突发显著上升的背景分析](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-08?n=5).  
+* [输入进马来西亚的病例](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-08?n=6).  
+* [快速的跨境传播](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-08?n=7).    
+* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-05-08?n=8).
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -66,7 +66,7 @@ abstract: "本周报告使用公开共享的基因组学数据来追踪 COVID-19
 #### Nextstrain 的资料  
 * [起点基础教程：如何解读系统发生树](https://nextstrain.org/narratives/trees-background/zh).  
 * [冠状病毒的背景知识（英文）](https://nextstrain.org/help/coronavirus/human-CoV).
-* [常见误区](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [常见误区](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-13?n=11).
 
 #### External Resources  
 * [向科学家提问 & 常见问题解答（英文）](https://covid19.fas.org/l/en).
