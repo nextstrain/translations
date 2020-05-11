@@ -36,7 +36,7 @@ abstract: "Makala haya yanafafanua jinsi ya kusoma na kufasiri michoro ya kimata
 * [Je, napaswa kufasiri vipi sifa (rangi) kwenye mchoro wa kimatawi](https://nextstrain.org/narratives/trees-background/sw?n=8)?  
 * [Je, mchoro wa visanduku unahusiana vipi na ule wa kimatawi](https://nextstrain.org/narratives/trees-background/sw?n=9)?  
 * [Kufasiri kwa kina: utata kwenye michoro ya kimatawi](https://nextstrain.org/narratives/trees-background/sw?n=10).  
-* [Maelezo kuhusu seti ya data](https://nextstrain.org/narratives/trees-background/sw?n=11)
+* [Maelezo kuhusu seti ya data](https://nextstrain.org/narratives/trees-background/sw?n=11).
 
 <!-- No right-side text -->
 
