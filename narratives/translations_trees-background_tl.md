@@ -27,16 +27,16 @@ abstract: "Ang salaysay na ito ay nagpapaliwanag kung paano basahin at ipaliwana
 <!-- This is left-side text -->
 # [Talaan ng mga Nilalaman](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
 
-* [Paano nauugnay ang mga network ng transmisyon sa mga phylogenetic tree](https://nextstrain.org/narratives/trees-background?n=2)?  
-* [Paano ko babasahin ang isang puno](https://nextstrain.org/narratives/trees-background?n=3)?  
-* [Paano nauugnay ang panel ng "pagkakaiba-iba" sa puno](https://nextstrain.org/narratives/trees-background?n=4)?   
-* [Pagsusukat ng mga kaibahan gamit ang genetic na pagkakaiba-iba](https://nextstrain.org/narratives/trees-background?n=5).  
-* [Pagsusukat ng mga kaibahan sa paglipas ng panahon](https://nextstrain.org/narratives/trees-background?n=6).  
-* [Paglalagay ng petsa ng umpisa ng pagkalat](https://nextstrain.org/narratives/trees-background?n=7)?  
-* [Paano ko ipaliliwanag ang mga katangian (mga kulay) sa puno](https://nextstrain.org/narratives/trees-background?n=8)?  
-* [Paano nauugnay ang mapa sa puno](https://nextstrain.org/narratives/trees-background?n=9)?  
-* [Abanteng pagbabasa: kawalang-katiyakan sa mga puno](https://nextstrain.org/narratives/trees-background?n=10).  
-* [Tungkol sa dataset](https://nextstrain.org/narratives/trees-background?n=11).  
+* [Paano nauugnay ang mga network ng transmisyon sa mga phylogenetic tree](https://nextstrain.org/narratives/trees-background/tl?n=2)? 
+* [Paano ko babasahin ang isang puno](https://nextstrain.org/narratives/trees-background/tl?n=3)?  
+* [Paano nauugnay ang panel ng "pagkakaiba-iba" sa puno](https://nextstrain.org/narratives/trees-background/tl?n=4)?   
+* [Pagsusukat ng mga kaibahan gamit ang genetic na pagkakaiba-iba](https://nextstrain.org/narratives/trees-background/tl?n=5).  
+* [Pagsusukat ng mga kaibahan sa paglipas ng panahon](https://nextstrain.org/narratives/trees-background/tl?n=6).  
+* [Paglalagay ng petsa ng umpisa ng pagkalat](https://nextstrain.org/narratives/trees-background/tl?n=7)?  
+* [Paano ko ipaliliwanag ang mga katangian (mga kulay) sa puno](https://nextstrain.org/narratives/trees-background/tl?n=8)?  
+* [Paano nauugnay ang mapa sa puno](https://nextstrain.org/narratives/trees-background/tl?n=9)?  
+* [Abanteng pagbabasa: kawalang-katiyakan sa mga puno](https://nextstrain.org/narratives/trees-background/tl?n=10).  
+* [Tungkol sa dataset](https://nextstrain.org/narratives/trees-background/tl?n=11).  
 
 <!-- No right-side text -->
 
