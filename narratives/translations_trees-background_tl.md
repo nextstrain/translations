@@ -1,5 +1,5 @@
 ---
-title: How to interpret phylogenetic trees
+title: Paano ipaliwanag ang mga phylogenetic tree
 authors:
   - Emma Hodcroft
   - Nicola Müller
@@ -15,9 +15,9 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; Chan Zuckerberg Initiative, CA, USA"
-date: "2020 March 13"
+date: "Marso 13, 2020"
 dataset: "https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country"
-abstract: "This narrative explains how to read and interpret the phylogenetic trees that inform genomic epidemiology. This website is optimized for display on desktop browsers."
+abstract: "Ang salaysay na ito ay nagpapaliwanag kung paano basahin at ipaliwanag ang mga phylogenetic tree na nagpapaalam ng genomic na epidemyolohiya. Ang website na ito ay pinahusay upang makita sa mga browser ng desktop."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -25,18 +25,18 @@ abstract: "This narrative explains how to read and interpret the phylogenetic tr
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Table of Contents](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
+# [Talaan ng mga Nilalaman](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
 
-* [How are transmission networks related to phylogenetic trees](https://nextstrain.org/narratives/trees-background?n=2)?  
-* [How do I read a tree](https://nextstrain.org/narratives/trees-background?n=3)?  
-* [How does the "diversity" panel relate to the tree](https://nextstrain.org/narratives/trees-background?n=4)?   
-* [Measuring differences with genetic divergence](https://nextstrain.org/narratives/trees-background?n=5).  
-* [Measuring differences over time](https://nextstrain.org/narratives/trees-background?n=6).  
-* [Dating the start of an outbreak](https://nextstrain.org/narratives/trees-background?n=7)?  
-* [How should I interpret traits (colors) on the tree](https://nextstrain.org/narratives/trees-background?n=8)?  
-* [How does the map relate to the tree](https://nextstrain.org/narratives/trees-background?n=9)?  
-* [Advanced reading: uncertainty in trees](https://nextstrain.org/narratives/trees-background?n=10).  
-* [About the dataset](https://nextstrain.org/narratives/trees-background?n=11).  
+* [Paano nauugnay ang mga network ng transmisyon sa mga phylogenetic tree](https://nextstrain.org/narratives/trees-background?n=2)?  
+* [Paano ko babasahin ang isang puno](https://nextstrain.org/narratives/trees-background?n=3)?  
+* [Paano nauugnay ang panel ng "pagkakaiba-iba" sa puno](https://nextstrain.org/narratives/trees-background?n=4)?   
+* [Pagsusukat ng mga kaibahan gamit ang genetic na pagkakaiba-iba](https://nextstrain.org/narratives/trees-background?n=5).  
+* [Pagsusukat ng mga kaibahan sa paglipas ng panahon](https://nextstrain.org/narratives/trees-background?n=6).  
+* [Paglalagay ng petsa ng umpisa ng pagkalat](https://nextstrain.org/narratives/trees-background?n=7)?  
+* [Paano ko ipaliliwanag ang mga katangian (mga kulay) sa puno](https://nextstrain.org/narratives/trees-background?n=8)?  
+* [Paano nauugnay ang mapa sa puno](https://nextstrain.org/narratives/trees-background?n=9)?  
+* [Abanteng pagbabasa: kawalang-katiyakan sa mga puno](https://nextstrain.org/narratives/trees-background?n=10).  
+* [Tungkol sa dataset](https://nextstrain.org/narratives/trees-background?n=11).  
 
 <!-- No right-side text -->
 
@@ -44,22 +44,22 @@ abstract: "This narrative explains how to read and interpret the phylogenetic tr
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [How are transmission networks related to phylogenetic trees?](https://nextstrain.org/ncov/2020-03-11?d=tree&p=full)
-Pathogens spread through rapid replication in one host followed by transmission to another host. An epidemic can only take off when one infection results in more than one subsequent infections.
+# [Paano nauugnay ang mga network ng transmisyon sa mga phylogenetic tree?](https://nextstrain.org/ncov/2020-03-11?d=tree&p=full)
+Ang mga pathogen ay kumakalat sa pamamagitan ng mabilis na pagdami sa isang host kasunod ng transmisyon sa isa pang host. Maaari lang kumalat ang epidemya kapag ang isang impeksyon ay nagresulta sa mahigit isang kasunod na impeksyon.
 <br><br>
-As the pathogen replicates and spreads, its genome needs to be replicated many times and random mutations (copying mistakes) will accumulate in the genome; this is normal. Such random mutations can help to track the spread of the pathogen and learn about its transmission routes and dynamics.
+Habang ang pathogen ay kinokopya at kumakalat, ang genome nito ay kailangang paramihin nang maraming ulit at ang random na mutation (maling pagkopya) ay maiipon sa genome; normal ito. Ang mga ganitong random na mutation ay makatutulong upang masubaybayan ang pagkalat ng pathogen at malaman ang tungkol sa mga ruta ng transmisyon at pagbabagu-bago nito.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# An example
+# Isang halimbawa
 <div width="50%" margin="auto">
 <p>
 <img width="500px" alt="cartoon showing how transmission tree and phylogenetic tree relate" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/infection_tree_combined.png"/>
 </p>
 <p>
-The illustration above shows a sketch of a transmission tree. Each circle represents a case (infected person), with horizontal lines indicating the duration of their infection. Connected cases represent transmissions from one person to the next.
+Ang ilustrasyon sa itaas ay nagpapakita ng sketch ng puno ng transmisyon. Bawat bilog ay kumakatawan sa isang kaso (taong nahawa), na may pahalang na mga linya na nagpapahiwatig ng tagal ng kanilang pagkakahawa. Ang magkakakonektang kaso ay kumakatawan sa mga transmisyon mula sa isang tao patungo sa susunod.
 <br> <br>
-Here, we see the full picture of the transmission tree. In practice, however, only a subset of cases are sampled (blue); the transmission tree is unknown and typically only rough estimates of case counts are available. Genome sequences allow us to infer parts of the transmission tree. In this example, three mutations (little diamonds) are indicated on the tree. Sequences that have the same mutations are more closely related, so these mutations allow us to group samples into clusters of closely related viruses that belong to the same transmission chains.
+Dito, nakikita natin ang buong larawan ng puno ng transmisyon. Gayunpaman, ang totoo ay isang subset ng mga kaso lamang ang sinampol (asul); hindi alam ang puno ng transmisyon at karaniwang mga tantiya lamang ng mga bilang ng kaso ang available. Ang pagkakasunod-sunod ng genome ay nagpapahintulot sa atin na ipahiwatig ang mga bahagi ng puno ng transmisyon. Sa halimbawang ito, tatlong mutation (maliliit na diyamante) ang ipinahihiwatig sa puno. Ang mga pagkakasunod-sunod na may parehong mutation ay mas malapit na magkakaugnay, kaya ang mga mutation na ito ay nagpapahintulot sa atin na igrupo ang mga sample sa mga bungkos ng malapit na magkakaugnay sa mga virus na kabilang sa parehong mga kawing ng transmisyon.
 </p>
 </div>
 ```
@@ -68,31 +68,31 @@ Here, we see the full picture of the transmission tree. In practice, however, on
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [How do I read a tree?](https://nextstrain.org/ncov/2020-03-11)
+# [Paano ko babasahin ang isang puno?](https://nextstrain.org/ncov/2020-03-11)
 
-The x axis of a tree represents the degree of difference (in time or genetic divergence -- we'll get to that next). The y axis just helps spread things out so we can see everything; it doesn't have any units of measurement.
+Ang x axis ng puno ay kumakatawan sa antas ng pagkakaiba (sa oras o genetic na kaibahan -- darating tayo diyan sa susunod). Ang y axis ay tumutulong lang para ilatag ang mga bagay-bagay upang makita natin ang lahat; wala itong anumang mga yunit ng sukat.
 <br><br>
-The tips of the tree represent samples (i.e., blue cases from the last slide). The internal nodes represent cases that weren't sampled, but that we think were the source of all the cases descendant from them (i.e., the red nodes from the last slide). These relationships are inferred by analyzing the pattern of mutations observed in the sampled cases.
+Ang mga dulo ng puno ay kumakatawan sa mga sample (lalo na ang, asul na mga kaso mula sa huling slide). Ang panloob na buko ay kumakatawan sa mga kaso na hindi sinampol, pero sa tingin namin ay pinanggalingan ng lahat ng kasong nagmula sa mga iyon (lalo na ang, mga pulang buko mula sa huling slide). Ang mga ugnayang ito ay ipinahihiwatig sa pamamagitan ng pagsusuri sa pattern ng mga mutation na naobserbahan sa mga sinampol na kaso.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-## An example
+## Isang halimbawa
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Example phylogeny where all or only a subset of cases are included in the final phylogeny" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/toy_alignment_tree.png"/>
 </p>
 <p>
-Above, we see an illustration with a phylogenetic tree on the left, where mutations are shown as colored circles. On the right are the corresponding sequences, also with mutations shown as colored circles. We can see that sequences that share the same mutations group together. When sequences appear linked by a flat vertical line, like A and B, this means there are no differences between them – their sequences are identical.
+Sa itaas, makikita natin ang isang ilustrasyon gamit ang phylogenetic tree sa kaliwa, kung saan ang mga mutation ay ipinakikita bilang may kulay na mga bilog. Sa kanan ay may katumbas na mga pagkakasunod-sunod, kasama ng mga mutation na ipinakikita bilang mga may kulay na bilog. Makikita natin ang mga pagkakasunod-sunod na magkakasama sa parehong mga grupo ng mutation. Kapag ang mga pagkakasunod-sunod ay lumitaw na pinag-uugnay ng pantay na patayong linya, tulad ng A at B, nangangahulugan ito na walang pagkakaiba sa pagitan ng mga iyon – ang kanilang pagkakasunod-sunod ay magkakapareho.
 <br><br>
-When a sequence sits on a long line on its own, like C or E, this means it has unique mutations not found in other sequences. The longer the line, the more mutations.
-A and B also have unique mutations (the green circle) not shared by the other sequences, but they are identical to each other.
+Kapag ang pagkakasunod-sunod ay nakaayos mismo sa mahabang linya nang walang ibang kasama, tulad ng C o E, nangangahulugan ito na mayroon itong kakaibang mga mutation na hindi makikita sa iba pang mga pagkasunod-sunod. Mas mahaba ang linya, mas maraming mutation.
+Ang A at B ay mayroon ding kakaibang mga mutation (ang berdeng bilog) na hindi kapareho ng sa ibang pagkakasunod-sunod, subalit magkakahawig sila sa isa't isa.
 <br><br>
-Based on this tree, we would conclude that A & B closely related to each other, and D & E are closely related to each other. A & B are more closely related to C than they are to D & E.
+Batay sa puno na ito, maipagpapalagay natin na ang A & B ay malapit na magkakaugnay sa isa't isa, at ang D & E ay malapit na magkakaugnay sa isa't isa. Ang A & B ay mas malapit na kaugnay ng C kaysa ng D & E.
 </p>
 
-### Further reading  
-* [How to read a tree: tutorial from Arctic Network](https://artic.network/how-to-read-a-tree.html).  
-* [How to read a tree: video from Khan academy](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
+### Karagdagang pagbabasa  
+* [Paano magbasa ng isang puno: tutoryal mula sa Arctic Network](https://artic.network/how-to-read-a-tree.html).  
+* [Paano magbasa ng isang puno: video mula sa Khan academy](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
 
 </div>
 
@@ -102,19 +102,19 @@ Based on this tree, we would conclude that A & B closely related to each other, 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [How does the "diversity" panel relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,entropy&c=gt-ORF1b_314&legend=open)
+# [Paano nauugnay ang panel ng "pagkakaiba-iba" sa puno?](https://nextstrain.org/ncov/2020-03-11?d=tree,entropy&c=gt-ORF1b_314&legend=open)
 
-Let's take a look at the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared. Just as on the last page, we built an alignment of these viral sequences (you can see how all of the analyses mentioned here were done [on GitHub](https://github.com/nextstrain/ncov)).
+Tingnan natin ang unang 169</tag> na strain ng SARS-CoV-2 (ang virus na nagdudulot ng COVID-19) na naibahagi na sa publiko. Katulad ng nasa huling pahina, gumawa kami ng paghahanay ng mga viral na pagkakasunod-sunod na ito (makikita mo kung paanong ang lahat ng pagsusuring binanggit dito ay ginawa [sa GitHub](https://github.com/nextstrain/ncov)).
 <br><br>
-Here we're displaying the phylogenetic tree above a bar-chart showing the variation (i.e. mutations) in the genome.
-Without these mutations we couldn't build the tree, so the two are intimitely connected.
+Dito ay ipinakikita namin ang phylogenetic tree sa itaas ng bar-chart na nagpapakita ng pagkakaiba (lalo na ang mga mutation) sa genome.
+Kung wala ang mga mutation na ito, hindi namin mabubuo ang puno, kaya ang dalawa ay malapit na magkakonekta.
 <br><br>
-In this "diversity" panel, the horizontal axis is each site in the viral genome (all thirty thousand or so of them!).
-The vertical axis indicates how much variability there is at each site.
+Dito sa panel ng "pagkakaiba-iba", ang pahalang na axis ay bawat site sa viral genome (lahat ng tatlumpung libo o higit pa sa mga iyon!).
+Ang patayong axis ay nagpapaliwanag kung gaano karaming pagkakaiba ang mayroon sa bawat site.
 <br><br>
-We've coloured the tree according to one of these mutations -- in this case codon 314 in the gene "ORF1b".
-There's no a priori reason to think this mutation is a functional mutation (i.e. conferring any biological change).
-It is precisely mutations such as this which we use to define the relationships between sequences and construct the tree.
+Kinulayan namin ang puno alinsunod sa isa sa mga mutation na ito -- sa kasong ito ay codon 314 sa gene "ORF1b".
+Walang paunang dahilan para isipin na ang mutation na ito ay isang gumaganang mutation (lalo na ang pagsangguni sa anumang biyolohikal na pagbabago).
+Ang mga mutation na tulad nito ang partikular na ginagamit natin para kilalanin ang mga ugnayan sa pagitan ng mga pagkakasunod-sunod at gumawa ng puno.
 
 <!-- There is NO right-side text -->
 
@@ -122,63 +122,63 @@ It is precisely mutations such as this which we use to define the relationships 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Measuring differences with genetic divergence](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
-This is a phylogeny of the first 169</tag> strains of SARS-CoV-2 (the virus that causes COVID-19) that have been publicly shared.
+# [Pagsusukat ng mga kaibahan gamit ang genetic na pagkakaiba-iba](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&m=div)
+Mayroong phylogeny sa unang 169</tag> na strain ng SARS-CoV-2 (ang virus na nagdudulot ng COVID-19) na naibahagi na sa publiko.
 <br><br>
-Here, the horizontal axis indicates divergence, which is the number of changes (mutations) in the genome, relative to the root of the tree (i.e., the start of the outbreak).
-Some sequences may have zero mutations -- meaning they are all identical to the root (center) of the tree.
-Other viruses have between one and eleven mutations.
+Dito, ipinahihiwatig ng pahalang na axis ang pagkakaiba-iba, na bilang ng mga pagbabago (mga mutation) sa genome, na kaugnay ng ugat ng puno (lalo na, ang simula ng paglaganap ng sakit).
+Ilan sa mga pagkakasunod-sunod ay maaaring walang mutation -- nangangahulugan ito na ang lahat ay katulad ng sa ugat (sentro) ng puno.
+Ang ibang virus ay nasa pagitan ng isa at labing-isang mutation.
 <br><br>
-At the moment, this may not look much like a ‘tree’. Many of the sequences are identical – they sit together on vertical lines like A and B (some are on the left-most part of the tree).
-Others have unique or shared mutations and so sit on lines, or ‘branches’, going to the right.
-You can see how many mutations a branch has by hovering your mouse over it.
+Sa sandaling ito, maaaaring hindi ito gaanong magmukhang ‘puno’. Marami sa mga pagkakasunod-sunod ay magkakapareho – magkakasama sila sa mga patayo na linya tulad ng A at B (ang ilan ay nasa pinakakaliwang bahagi ng puno).
+Ang iba ay may kakaiba o magkakaparehong mutation at kung gayon ay matatagpuan sa mga linya, o ‘mga sanga’, patungo sa kanan.
+Makikita mo kung gaano karaming mutation mayroon ang isang sanga sa pamamagitan ng pagtatapat ng mouse mo sa ibabaw nito.
 
 <!-- There is NO right-side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Measuring differences over time](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
-We can also visualize how the virus has spread over time by using the sampling date as the x axis.
-Here, the x axis represents the sampling date of each virus. The tips' positions reflect the date those samples were taken. The dates of internal nodes -- the "missing cases" -- are inferred based on when their descendants were sampled and the rate at which the virus mutates.
+# [Pagsusukat ng mga kaibahan sa paglipas ng panahon](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
+Maaari rin nating ilarawan sa isip kung paano kumakalat ang virus sa paglipas ng panahon sa pamamagitan ng paggamit ng petsa ng pagsasampol bilang x axis.
+Dito, ang x axis ay kumakatawan sa petsa ng pagsasampol ng bawat virus. Ang mga posisyon ng mga dulo ay nagpapakita ng petsa kung kailan kinuha ang mga sample na iyon. Ang mga petsa ng panloob na mga buko -- ang "nawawalang mga kaso" -- ay ipinaliliwanag batay sa kung kailan sinampol ang mga nagmula sa mga ito at ang bilis ng pag-mutate ng virus.
 <br><br>
-Notice how many sequences that previously sat in a line (indicating identical genomes) are now spread apart in time.
-This happens when the rate at which the virus mutates is slightly slower than the rate at which is spreads.
-You can scroll up and down between the previous slide and this one, to see how the tree changes.
+Pansinin kung gaano karaming pagkakasunod-sunod na dating makikita sa isang linya (na nagpapahiwatig ng magkakatulad na genome) na ngayon ay nakakumalat na sa paglipas ng panahon.
+Nangyayari ito kapag ang antas kung saan nabubuo ang virus ay medyo mas mababa kaysa sa bilis ng pagkalat nito.
+Maaari lang mag-scroll pataas at pababa sa pagitan ng naunang slide at ng slide na ito, para makita kung paano nagbabago ang puno.
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Dating the start of an outbreak](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
+# [Paglalagay ng petsa sa umpisa ng pagkalat](https://nextstrain.org/ncov/2020-03-11?c=num_date&d=tree&legend=open)
 
-We can also use genomics to assign a date to when an outbreak started, even if this was before we realized it was happening.
-Because we can assign dates to each sample and node in the tree, we can use this to infer the date of the 'root' of the tree. This represents the "most recent common ancestor" of all the SARS-CoV-2 sequences we have so far. E.g., your grandparents are the "most recent common ancestors" of you and all of your first cousins.
+Maaari mo ring gamitin ang genomics upang italaga ang petsa kung kailan nagsimula ang pagkalat, kahit na ito ay bago pa namin malaman na nangyayari ito.
+Dahil maaari kaming magtalaga ng mga petsa sa bawat sample at buko sa puno, maaari naming gamitin ito upang ipahiwatig ang petsa ng 'ugat' ng puno. Kinakatawan nito ang "pinakahuling karaniwang ninuno" ng lahat ng pagkakasunod-sunod ng SARS-CoV-2 na mayroon kami sa ngayon. Hal., ang mga lolo't lola mo ang "pinakahuling parehong mga ninuno" mo at ng lahat ng pinsang-buo mo.
 <br><br>
-If you mouse over the leftmost vertical line, you can see that the inferred start date is between mid-November and mid-December of 2019 for this particular outbreak.
+Kapag itinapat mo ang mouse mo sa pinakakaliwang patayong linya, makikita mo na ang ipinahihiwatig na petsa ng simula ay nasa pagitan ng kalagitnaan ng Nobyembre at kalagitnaan ng Disyembre ng 2019 para sa partikular na paglaganap ng sakit na ito.
 
 <!-- There is NO right-side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [How should I interpret traits (colors) on the tree?](https://nextstrain.org/ncov/2020-03-11)
-Phylogenetic trees often contain additional information, such as the location of each sample collection. From this, we can infer the locations of internal nodes (hypothesized intermediate, unsampled cases) using mathematical models. This can help us understand how the virus is moving from one location to the next.
+# [Paano ko ipaliliwanag ang mga katangian (mga kulay) sa puno?](https://nextstrain.org/ncov/2020-03-11)
+Ang mga phylogenetic tree ay madalas na naglalaman ng karagdagang impormasyon, tulad ng lokasyon ng bawat koleksyon ng sample. Mula rito, maaari naming ipaliwanag ang mga lokasyon ng panloob na mga buko (ipinagpalagay na tagapamagitan, hindi sinampol na mga kaso) gamit ang mga matematikal na modelo. Makatutulong ito sa amin na maunawaan kung paano kumikilos ang virus mula sa isang lugar patungo sa kabila.
 <br><br>
-Interpreting these should, however, be done with caution, as the sampling and sequencing or lack thereof can significantly influence the interpretation.
+Gayunpaman, ang paglalarawan ng mga ay dapat isagawa nang may pag-iingat, dahil ang pagsa-sample at pagsusunod-sunod o kawalan nito ay maaaring magkaroon ng malaking epekto sa interpretasyon.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-# An example
+# Isang halimbawa
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Illustration showing how sampling effects interpretation of viral spread" src="https://github.com/nextstrain/nextstrain.org/raw/master/static-site/content/help/01-general/figures/introductions.png"/>
 </p>
 <p>
-On the left, we show a fully sampled phylogenetic tree, with samples from two different locations denoted by orange and blue. As we walk down the tree, we observe three instances where the color (location) switches from orange to blue. From this, we would conclude that there were three different introductions from the orange location to the blue location.
+Sa kaliwa, ipinakikita namin ang ganap na sinampol na phylogenetic tree, kasama ang mga sample mula sa dalawang magkaibang lokasyon na tinutukoy ng kahel at asul. Habang binabaybay natin pababa ng puno, makikita natin ang tatlong halimbawa kung saan ang kulay (lokasyon) ay nag-iba mula sa kahel patungo sa asul. Mula rito, pinagtibay namin na may tatlong magkakaibang introdusyon mula sa kahel na lokasyon patungo sa asul na lokasyon.
 <br><br>
-But, this interpretation relies on sampling: in the middle tree, we've removed one orange sample. We now observe only one switch from orange to blue, suggesting that there was only one introduction into blue that happened much earlier.
+Subalit ang interpretasyon na ito ay umaasa sa sampling: sa gitnang puno, tinatanggal namin ang isang kahel na sample. Ngayon ay inoobserbahan na lang namin ang isang pagbabago mula sa kahel patungo sa asul, na nagmumungkahi na may iisang introdusyon lamang patungo sa asul na naganap nang mas maaga.
 <br><br>
-In the last example, we have only one sequence from orange, which could lead us to think that there was one introduction from blue into orange.
+Sa huling halimbawa, mayroon lang kaming isang pagkakasunod-sunod mula sa kahel, na maaaring humantong sa aming pag-iisip na may iisang introduksyon mula sa asul patungo sa kahel.
 <br><br>
-Thus, while these inferences can be invaluable, they also must be interpreted with caution.
+Kaya, habang maaaring maging napakahalaga ng mga paliwanag na ito, dapat din silang ipaliwanag nang maingat.
 </p>
 ```
 <!-- ############ SLIDE BREAK ############# -->
@@ -186,22 +186,22 @@ Thus, while these inferences can be invaluable, they also must be interpreted wi
 <!-- This is left-side text -->
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [How does the map relate to the tree?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)
+# [Paano nauugnay ang mapa sa puno?](https://nextstrain.org/ncov/2020-03-11?d=tree,map&legend=closed)
 
-Here, we show the tree colored by the location of each sample (and inferred location for each internal node).
-If you click ['Explore the data'](https://nextstrain.org/ncov), you can play an animation of the inferred spread of the virus over the course of the outbreak.
+Dito, ipinakikita namin ang punong may kulay ayon sa lokasyon ng bawat sample (at ang ipinahiwatig na lokasyon ng bawat panloob na buko).
+Kapag pinindot mo ang ['Aralin pa ang datos'](https://nextstrain.org/ncov), maaari mong i-play ang animation ng ipinahiwatig na pagkalat ng virus sa buong panahon ng paglaganap ng sakit.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Advanced reading: uncertainty in trees](https://nextstrain.org/ncov/2020-03-11)
-Earlier, we talked about how internal nodes represent _hypothesized_ unsampled cases. In fact, all trees represent _hypotheses_ about how a pathogen has evolved and moved over time. The trees we present on Nextstrain are point estimates -- that is, the version of this history that maximizes the probability of observing the data that we do.
+# [Abanteng pagbabasa: kawalang-katiyakan sa mga puno](https://nextstrain.org/ncov/2020-03-11)
+Kanina, pinag-usapan natin ang tungkol sa kung paano kinakatawan ng mga panloob na buko ang_ipinagpalagay_ na hindi sinampol na mga kaso. Sa katunayan, lahat ng puno ay kumakatwan sa _mga palagay_ tungkol sa kung paano nagbabago ang pathogen at kumikilos sa paglipas ng panahon. Ang mga puno na aming ipinakita sa Nextstrain ay mga tantiyang punto -- ibig sabihin, ang bersyon ng kasaysayang nito na sumasagpang sa probabilidad ng pagmamasid sa datos na aming ginagawa.
 <br><br>
-However, there is always uncertainty in these estimates. Generally speaking, parts of the tree that are densely sampled are more certain; areas that are sparsely sampled are less certain.
+Gayunman, laging mayroong walang katiyakan sa mga tantiyang ito. Sa pangkalahatang pananalita, ang mga bahagi ng puno na maraming sinampol ay mas tiyak; ang mga lugar na mas madalang sinampol ay mas hindi tiyak.
 
 ```auspiceMainDisplayMarkdown
-# An illustration
+# Isang ilustrasyon
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Illustration of the uncertainty inherent in tree reconstruction" src="https://github.com/nextstrain/nextstrain.org/raw/c69bfd0750c284ff12f33682f8d82848e13d9e15/static-site/content/help/01-general/figures/hcov_densitree.png"/>
@@ -212,20 +212,20 @@ However, there is always uncertainty in these estimates. Generally speaking, par
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Siyentipikong kredito](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak, but particularly those working in China.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Nais naming kilalanin ang kahanga-hanga at napapanahong trabaho na isinagawa ng lahat ng siyentipikong sangkot sa paglaganap ng sakit na ito, lalo na ang mga nagtatrabaho sa China.
+Tanging sa pamamagitan lamang ng mabilis na pagbabahagi ng mga genomic na datos at metadata nagiging posible ang mga pagsusuring tulad nito.
 
 <br><br>
 
-We also gratefully acknowledge [GISAID](https://gisaid.org) for providing the platform through which these data can be uploaded and shared.
+Lubos din kaming nagpapasalamat sa [GISAID](https://gisaid.org) sa paglalaan ng platform kung saan maaaring i-upload at ibahagi ang mga datos na ito.
 
 <!-- Do not need to translate insitutions names -->
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-We are grateful for the data gathered by these originating labs:
+Nagpapasalamat kami sa mga datos na kinalap ng mga laboratoryong pinanggalingan na ito:
 
 * Arizona Department of Health Services
 * Auckland Hospital
@@ -353,19 +353,19 @@ We are grateful for the data gathered by these originating labs:
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Detailed scientific credit](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
+# [Detalyadong siyentipikong kredito](https://nextstrain.org/ncov/2020-03-05?d=map&c=author)
 
-These data were shared via [GISAID](https://gisaid.org).
-We gratefully acknowledge their contributions.
+Ang mga datos na ito na ibinahagi sa pamamagitan ng [GISAID](https://gisaid.org).
+Lubos kaming nagpapasalamat sa kanilang mga kontribusyon.
 
 <br><br>
 
-To the right we give specific sequences shared by each lab.
+Sa kanan ay ibinibigay namin ang espesipikong pagkakasunod-sunod na ibinahagi ng bawat laboratoryo.
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
 
-The SARS-CoV-2 genomes were generously shared by scientists at these submitting labs:
+Ang mga genome ng SARS-CoV-2 ay malayang ibinahagi ng mga siyentipiko sa mga nagsusumiteng laboratoryo na ito:
 
 * Arizona Department of Health Services
 	* USA/AZ1/2020
