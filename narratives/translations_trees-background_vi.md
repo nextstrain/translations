@@ -27,16 +27,16 @@ abstract: "Bài tường thuật này trình bày cách đọc và diễn giải
 <!-- This is left-side text -->
 # [Mục lục](https://nextstrain.org/ncov/2020-03-11?d=tree&legend=open&c=country)
 
-* [Mạng lưới lây truyền liên quan đến cây phát sinh chủng loại như thế nào?](https://nextstrain.org/narratives/trees-background?n=2)  
-* [Làm sao để đọc hiểu cây phát sinh chủng loại?](https://nextstrain.org/narratives/trees-background?n=3)  
-* [Bảng "đa dạng" chủng loại liên quan đến cây phát sinh chủng loại như thế nào?](https://nextstrain.org/narratives/trees-background?n=4)   
-* [Đo lường sự khác biệt thông qua phân kỳ di truyền](https://nextstrain.org/narratives/trees-background?n=5).  
-* [Đo lường sự khác biệt theo thời gian](https://nextstrain.org/narratives/trees-background?n=6).  
-* [Xác định thời điểm bắt đầu bùng phát?](https://nextstrain.org/narratives/trees-background?n=7)  
-* [Nên diễn giải các đặc điểm (màu sắc) trên cây phát sinh chủng loại như thế nào?](https://nextstrain.org/narratives/trees-background?n=8)  
-* [Bản đồ liên quan đến cây phát sinh chủng loại như thế nào?](https://nextstrain.org/narratives/trees-background?n=9)  
-* [Đọc nâng cao: tính bất định trong cây phát sinh chủng loại](https://nextstrain.org/narratives/trees-background?n=10).  
-* [Giới thiệu về bộ dữ liệu](https://nextstrain.org/narratives/trees-background?n=11).  
+* [Mạng lưới lây truyền liên quan đến cây phát sinh chủng loại như thế nào](https://nextstrain.org/narratives/trees-background/vi?n=2)? 
+* [Làm sao để đọc hiểu cây phát sinh chủng loại](https://nextstrain.org/narratives/trees-background/vi?n=3)?
+* [Bảng "đa dạng" chủng loại liên quan đến cây phát sinh chủng loại như thế nào](https://nextstrain.org/narratives/trees-background/vi?n=4)?
+* [Đo lường sự khác biệt thông qua phân kỳ di truyền](https://nextstrain.org/narratives/trees-background/vi?n=5).  
+* [Đo lường sự khác biệt theo thời gian](https://nextstrain.org/narratives/trees-background/vi?n=6).  
+* [Xác định thời điểm bắt đầu bùng phát](https://nextstrain.org/narratives/trees-background/vi?n=7)?
+* [Nên diễn giải các đặc điểm (màu sắc) trên cây phát sinh chủng loại như thế nào](https://nextstrain.org/narratives/trees-background/vi?n=8)?
+* [Bản đồ liên quan đến cây phát sinh chủng loại như thế nào](https://nextstrain.org/narratives/trees-background/vi?n=9)?
+* [Đọc nâng cao: tính bất định trong cây phát sinh chủng loại](https://nextstrain.org/narratives/trees-background/vi?n=10).  
+* [Giới thiệu về bộ dữ liệu](https://nextstrain.org/narratives/trees-background/vi?n=11).  
 
 <!-- No right-side text -->
 
