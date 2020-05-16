@@ -109,7 +109,7 @@ Você também pode encontrar <a href="https://nextstrain.org/ncov-sit-reps/">tod
 
 SARS-CoV-2, o vírus que causa a doença COVID-19, é um [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Como outros coronaviruses, SARS-CoV-2 possui o genoma codificado em RNA (ao invés de DNA).
 <br><br>
-Viruses infect cells because they need to borrow cellular machinery to replicate. For RNA viruses, this process is quite error-prone, as most RNA polymerases (the molecular machines that make copies of RNA) aren't able to proofread and correct their work. This leads to frequent mutations in the viral genome; these are normal and expected.
+Vírus infectam células porque eles precisam pegar a maquinaria celular emprestada para replicar (reproduzir). Para os vírus de RNA, esse processo é batante propenso a erro, como a maioria das RNA polimerases (as máquinas moleculares que fazem cópias de RNA) não são capazes de revisar e corrigir o seu trabalho. Isso leva a mutações frequentes no genoma viral; Isso é normal e experado.
 <br><br>
 Importantly, the vast majority of these mutations either "break" the virus such that it can't transmit and/or replicate anymore, or don't change the virus at all because of [redundant encoding](https://en.wikipedia.org/wiki/Synonymous_substitution).
 This means that the mutations don't change the proteins, and therefore function, of the virus in any way.
