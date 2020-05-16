@@ -44,20 +44,20 @@ abstract: " تستخدم نقارير الحالة من Nextstrain  البيان
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
+# [مصادر كوفيد-19](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/).
-* [Explanatory Twitter threads](https://bedford.io/misc/twitter/).
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+#### مصادر Nextstrain 
+* [ابدأ هنا: كيف تقرأ شجرة التصنيف الجيني](https://nextstrain.org/narratives/trees-background/).
+* [تقارير حالة سابقة](https://nextstrain.org/ncov-sit-reps/).
+* [ثريدات تويتر توضيحية](https://bedford.io/misc/twitter/).
+* [خلفية علمية عن فيروسات كورونا](https://nextstrain.org/help/coronavirus/human-CoV).
+* [مفاهيم عامة خاطئةC](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources
-* [How coronavirus mutations and spreads (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+#### مصادر خارجية
+* [كيف تظهروتنتشر طفرات فيروسات كورونا (صحيفة نيويورك تايمز)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [اسأل عالما والاسئلة الشائعة](https://covid19.fas.org/l/en).
+* [تقارير منظمة الصحة العالمية](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [مصادر مركز مكافحة الامراض الامريكي](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
