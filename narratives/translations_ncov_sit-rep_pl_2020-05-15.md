@@ -152,7 +152,7 @@ Co ważne, znaczna większość tych mutacji albo "łamie" wirusa, tak że nie j
 <!-- może coś lepszego zamiast - nadmiarowe kodowanie?-->
 To oznacza, że mutacje nie zmieniają białek, a w związku z tym funkcji wirusa w żadnen sposób.
 Inne mutacje mogą modyfikować białko wirusa tylko w niewielkim stopniu, ale nie wpływają na funkcję w żaden sposób.
-Rzadko, zmiana w kodzie genetycznym wirusa może pomóc mu lepiej się replikować czy infekować nowe komórki, ale niemal wszystkie takie zmiany mają jedynie niewielki efekt.
+Rzadko, zmiana w kodzie genetycznym wirusa może pomóc mu lepiej się replikować czy przenosić, ale niemal wszystkie takie zmiany mają jedynie niewielki efekt.
 
 <!-- SARS-CoV-2, the virus that causes the disease COVID-19, is a [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
 <br><br>
@@ -193,34 +193,67 @@ For a more in-depth explanation of these concepts, we recommend [this visual exp
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [The evolutionary rate of SARS-CoV-2 is typical for a coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
+# [Tempo zmian ewolucyjnych SARS-CoV-2 jest typowe dla koronawirusa](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
 
-Because viral genomes inevitably change, these differences tend to accumulate at a steady rate over time.
+Ponieważ genomy wirusów nieuchronnie się zmieniają, te zmiany gromadzą się w stałym tempie.
+<br><br>
+Tutaj, na osi x pokazano datę kolekcji danej próby. Oś y pokazuje *całkowitą liczbę* mutacji, o jaką każdy wirus jest odległy od korzenia drzewa. Każda próba jest pokolorowana według daty kiedy została pobrana.
+<br><br>
+Chciaż widzimy kilka odstających próbek, średnio zmiany gromadzą się w tempie ~24 podstawień na rok. To oznacza, że jeśli jedna linia wirusa byłaby transmitowana od jednej osoby do kolejnej przez cały rok, oczekiwalibyśmy, że genom tego wirusa zgromadziłby w przybliżeniu 24 substytucje do końca roku.
+Cały genom SARS-CoV-2 ma ~30,000 nukleotydów, to odpowiada w przybliżeniu ~1 mutacji na 1,000 nukleotydów w ciągu roku.
+<br><br>
+Dla porównania, wirus grypy gromadzi ~2 mutacje na 1,000 nukleotydów w ciągu roku; HIV gromadzi średnio ~4 mutacje na 1,000 nukleotydów w ciągu roku.
+
+<!-- Because viral genomes inevitably change, these differences tend to accumulate at a steady rate over time.
 <br><br>
 Here, the x axis shows the date that each sample was collected. The y axis shows the *total number* of mutations each strain is away from the root of the tree. Each sample is colored by the date it was collected.
 <br><br>
 While there are certainly some outliers, on average, we see changes accumulate at a rate of ~24 substitutions per year. This means that if a single viral lineage were transmitting from one person to the next for a full year, we'd expect its entire genome to accumulate roughly 24 substitutions by the end of the year.
 As the whole SARS-CoV-2 genome is ~30,000 bases, this corresponds to roughly ~1 mutation per 1,000 bases in a year.
 <br><br>
-For context, influenza would average ~2 mutations per 1,000 bases per year; HIV would average ~4 mutations per 1,000 bases per year.
+For context, influenza would average ~2 mutations per 1,000 bases per year; HIV would average ~4 mutations per 1,000 bases per year.-->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [As far as we know, there is only 1 strain of SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
+# [Na ile nam wiadomo, jest tylko jeden szczep SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
 
-There have been many reports about multiple "strains" of SARS-CoV-2.
+Pojawiło się wiele raportów dotyczących wielu "szczepów" SARS-CoV-2.
+Po pierwsze, wyjaśnienie: kiedy wirusolodzy używają słowa "szczep", jest to często przydatne określenie, które pozwala nam odnieść się do tej samej grupy próbek (np. nasze określenia kladów, pokazane tutaj). To *nie* sugeruje żadnych funkcjonalnych różnic.
+<br><br>
+Poza tym, "szczep" może być używany w celu odniesienia się do genotypów wirusa, które są funkcjolanie odrębne, biologicznie (np. patogeniczność/ciężkość choroby) i/lub epidemiologicznie (np. zdolność przenoszenia się).<!-- lepsze słowo na transmissibility? -->
+Co ważne, ustalenie czy dwa genotypy *są* faktycznie funkcjonalnie odrębne wymaga więcej danych doświadczalnych, klinicznych i epidemiologicznych niż obecnie posiadamy.
+<br><br>
+Jedna z najbardziej głośnych hipotez dotyczących szczepów SARS-CoV-2 porównuje dwa możliwe szczepy "D614" i "G614".
+
+<!-- There have been many reports about multiple "strains" of SARS-CoV-2.
 First, a clarification: when virologists use the word "strain," it's often just as a useful label so we can all refer to the same group of samples (e.g., our clade labels, shown here). This does *not* imply any known functional difference.
 <br><br>
 Separately, "strain" can be used to refer to viral genotypes that are functionally distinct, either biologically (e.g., pathogenicity/disease severity) and/or epidemiologically (e.g., transmissibility).
 Importantly, though, determining whether two genotypes actually *are* functionally distinct requires much more experimental, clinical and epidemiological data than we currently have.
 <br><br>
-One of the most prominent hypotheses about SARS-CoV-2 strains compares possible "D614" vs "G614" strains.
+One of the most prominent hypotheses about SARS-CoV-2 strains compares possible "D614" vs "G614" strains.-->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [D614G may be related to transmissibility, but could also be explained by geography](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [D614G może być związany ze zdolnością przenoszenia się, ale może być również tłumaczony geografią](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
 
+[Niedawny preprint](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) sugeruje, że pojedyncza mutacja, D614G (z aminokwasu "D" do "G" w pozycji 614 w białku "S" (od 'spike')), może być odpowiedzialna za zwiększoną łatwością przenoszenia się SARS-CoV-2.
+<br><br>
+W wielu obszarach geograficznych, względna częstość 614D w porównaniu z 614G wzrasta z czasem. 
+Jeśli pewien genotyp prowadzi do zwiększonej zdolności przenoszenia, możemy oczekiwać, że jego częstość będzie wzrastać z czasem.
+<br><br>
+Dla tej pozycji, widzimy kilka geograficznych obszarów gdzie początkowo większość krążących linii wirusa miało allel D; potem, ten stan się odwraca tak że większość linii ma allel "G".
+To *może* być oznaka, że G jest nieco "lepszy" niż D (np., jeśli wirusy z mutacją G miały nieco wyższy R0 dzięki zwiększonej łatwości przenoszenia się).
+<br><br>
+Niemniej jednak, to może byc również jednynie efekt uboczny naturalnej historii pandemii.
+Wcześnie podczas pandemii, większość wariantów wirusa eksportowanych z Chin miało allel D. Później, większość wirusów z Włoch miało allel G. Niedawno, zaobserwowaliśmy ogólnie więcej eksportu wirusa z Europy niż z Azji (chociaż pewien błąd próbkowania również może grać tu rolę).
+Wobec tego, być może pewien gentyp miał po prostu więcej szczęścia i rozprzestrzenił się gwałtownie ponieważ dotarł tam pierwszy. 
+<br><br>
+Debata trwa na temat zasadności tych dwóch hipotez. Należałoby ostrożnie je od siebie oddzielić, ale nie ma jeszcze naukowego konsensusu w tym temacie. Więcej szczegółowych wyjaśnień [można zobaczyć w tym wątku](https://twitter.com/trvrb/status/1257825352660877313).
+
+
+<!-- [D614G may be related to transmissibility, but could also be explained by geography]
 [A recent pre-print](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) suggests that a single mutation, D614G (from amino acid "D" to "G" at site 614 in the "S" ('spike') protein), may be responsible for increasing the transmissibility of SARS-CoV-2.
 <br><br>
 In many geographic areas, the relative frequency of 614D compared to 614G increased over time.
@@ -234,7 +267,7 @@ However, this could also just be a side effect of the natural history of the pan
 Early on in the pandemic, most strains exported from China had a D allele. Later, most strains from Italy had a G allele. Recently, we've seen more exportation from Europe than from Asia overall (although there's certainly some sampling bias at play here, as well).
 Thus, it could just be that this particular genotype got lucky, and spread so rapidly because it got there first.
 <br><br>
-There's a fair amount of debate regarding the relative merits of these two hypotheses. It'll be important to carefully tease these apart, but we don't have scientific consensus on this issue yet. For a more detailed explanation, [see this thread](https://twitter.com/trvrb/status/1257825352660877313).
+There's a fair amount of debate regarding the relative merits of these two hypotheses. It'll be important to carefully tease these apart, but we don't have scientific consensus on this issue yet. For a more detailed explanation, [see this thread](https://twitter.com/trvrb/status/1257825352660877313).-->
 
 
 <!-- ############ SLIDE BREAK ############# -->
