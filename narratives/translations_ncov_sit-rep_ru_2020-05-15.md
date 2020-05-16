@@ -149,15 +149,15 @@ SARS-CoV-2, вирус вызывающий болезнь COVID-19, относ�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [As far as we know, there is only 1 strain of SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
+# [Насколько нам известно, существует только один штамм SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
 
-There have been many reports about multiple "strains" of SARS-CoV-2.
-First, a clarification: when virologists use the word "strain," it's often just as a useful label so we can all refer to the same group of samples (e.g., our clade labels, shown here). This does *not* imply any known functional difference.
+За прошедшее время было множество сообщений о различных "штаммах" SARS-CoV-2. 
+Во-первых, уточнение: когда вирусологи используют слово "штамм", это часто попросту является удобным ярлыком, чтобы сослаться к одной группе образцов (например, наши обозначения отдельных ветвей на этой диаграмме). Это не означает, что они обладают какими-либо известными функциональными различиями.  
 <br><br>
-Separately, "strain" can be used to refer to viral genotypes that are functionally distinct, either biologically (e.g., pathogenicity/disease severity) and/or epidemiologically (e.g., transmissibility).
-Importantly, though, determining whether two genotypes actually *are* functionally distinct requires much more experimental, clinical and epidemiological data than we currently have.
+Напротив, слово "штамм" может использоваться, когда мы говорим о вирусных генотипах, которые являются функционально различными, в плане биологических (например, патогенность/тяжесть болезни) и/или эпидемиологических характеристик (например, способность к передаче). 
+Что важно, чтобы определить являются ли 2 генотипа собственно функционально различными, требуется гораздо больше эксперементальных, клинических и эпидемиологических данных, чем те, которыми мы обладаем. 
 <br><br>
-One of the most prominent hypotheses about SARS-CoV-2 strains compares possible "D614" vs "G614" strains.
+Одна из наиболее известных гипотез о штаммах SARS-CoV-2 сравнивает вероятные штаммы "D614" и "G614".
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -199,15 +199,15 @@ There's a fair amount of debate regarding the relative merits of these two hypot
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
-# Takeaways  
+# Выводы  
 
-#### Viruses naturally acquire mutations as they replicate. This is normal. Mutations can also help us trace the course of epidemics.  
+#### Вирусы приобретают мутации естественным путем по мере их размножения. Это норма. Мутации также могут помочь нам с отслеживанием курса эпидемии.  
 
-#### SARS-CoV-2 mutation rate is very typical for coronaviruses.
+#### Частота мутаций SARS-CoV-2 является типичной для коронавирусов.
 
-#### As far as we know, there is only 1 functional "strain" of SARS-CoV-2.  
+#### Насколько мы знаем, существует только один функциональный "штамм" SARS-CoV-2.  
 
-#### Teasing apart the biological impact of specific mutations is tricky -- many perceived differences can be attributed to chance and epidemiological factors.  
+#### Разобраться в биологическом эффекте специфической мутации сложно -- многие предполагаемые отличия могут быть обусловлены чистой случаностью и эпидемиологическими факторами.   
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
