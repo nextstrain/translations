@@ -74,8 +74,8 @@ Przeanalizowaliśmy 5,193</tag> publicznie dostępnych genomów SARS-CoV-2. Por�
 # Przerwa w Raportach Sytuacyjnych
 <!--# Situation Report Hiatus-->
 <p>
-Na początku pandemii, nie było jasne jak SARS-CoV-2 przemieszcza się pomiędzy krajami, gdzie krążył lokalnie i jak ogniska epidemii były ze sobą powiązane.
-W ciągu ostatnich czterech miesięcy zajmowaliśmy się tymi pytaniami - i innymi - w naszych tygodniowych Raportach Sytuacyjnych. Na tym stadium pandemii, jest jasne, że niektóre główne wzory są w dużym stopniu zgodne pomiędzy regionami i krajami: 
+Na początku pandemii nie było jasne jak SARS-CoV-2 przemieszcza się pomiędzy krajami, gdzie krążył lokalnie i jak ogniska epidemii były ze sobą powiązane.
+W ciągu ostatnich czterech miesięcy zajmowaliśmy się tymi pytaniami - i innymi - w naszych tygodniowych Raportach Sytuacyjnych. Na tym stadium pandemii jest jasne, że niektóre główne wzory są w dużym stopniu zgodne pomiędzy regionami i krajami: 
 <!-- Early in the pandemic, it was unclear how SARS-CoV-2 was moving between countries, where it was circulating locally, and how localized outbreaks were related.
 Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  -->
 </p>
@@ -98,11 +98,11 @@ Over the last four months, we've tackled these questions - and more - in our wee
 - Eventually, these local outbreaks send off sparks of their own, spreading to new locations.  -->
 <p/>
 
-Nie jest zaskoczeniem, że widzimy taki wzrór w krajach, które doświadczają pierwszej fali infekcji. Co bardziej alarmujące, również obserwujemy ten wzór po reintrodujcach wirusa do krajów, gdzie początkowy szczyt zachorowań minął kilka miesięcy wcześniej.
-Ostatecznie, ten wzór załamuje się jedynie gdy kraj jest w stanie efektywnie testować, śledzić i izolować przypadki w trybie natychmiastowym.
+Nie jest zaskoczeniem, że widzimy taki wzór w krajach, które doświadczają pierwszej fali infekcji. Co bardziej alarmujące, obserwujemy ten wzór również po reintrodukcjach wirusa do krajów, gdzie początkowy szczyt zachorowań minął kilka miesięcy wcześniej.
+Ostatecznie, ten wzór załamuje się jedynie, gdy kraj jest w stanie efektywnie testować, śledzić i izolować przypadki w trybie natychmiastowym.
 <br><br>
 
-To oznacza, że wybuchy epidemii na świecie są ściśle powiązane i walka przeciwko COVID-19 zawsze będzie globalna --nie możemy pokonać wirusa w żadnym miejscu dopóki nie będziemy go zwalczać wszędzie. 
+To oznacza, że wybuchy epidemii na świecie są ściśle powiązane i walka przeciwko COVID-19 zawsze będzie globalna -- nie możemy pokonać wirusa w żadnym miejscu dopóki nie będziemy go zwalczać wszędzie. 
 <br><br>
 
 Na tym stadium pandemii, epidemiologia genomiczna jest pilnie potrzebna w lokalnych <!-- i hiperlokalnych??? --> społecznościach poprzez lokalne służby zdrowia publicznego.
@@ -111,7 +111,7 @@ Na tym stadium pandemii, epidemiologia genomiczna jest pilnie potrzebna w lokaln
 W związku z tym, będzie to nasz ostatni tygodniowy Raport Sytuacyjny na jakiś czas, chociaż nadal chcemy wspierać podobne raporty z lokalnych służb zrowia.
 <br><br>
 
-Będziemy oczywiście kontynuować codzienne aktualizacje dla globalnej i regionalnych sytuacji gdy nowe sekwencje będą dostępne.
+Będziemy oczywiście kontynuować codzienne aktualizacje dla globalnej i regionalnych sytuacji, gdy nowe sekwencje będą dostępne.
 Kiedy dane pokażą coś nowego, opublikujemy dodatkowe Raporty Sytuacyjne.
 Wszystkie aktualizacje będą publikowane na [koncie Nextstrain na twitterze](https://twitter.com/nextstrain) (jak zawsze).
 <br><br>
@@ -146,11 +146,11 @@ You can also find <a href="https://nextstrain.org/ncov-sit-reps/">all of our pre
 
 SARS-CoV-2, wirus który wywołuje COVID-19, jest [koronawirusem](https://nextstrain.org/help/coronavirus/human-CoV). Jak inne koronawirusy, SARS-CoV-2 ma genom zakodowany na RNA (a nie DNA).
 <br><br>
-Wirusy infekują komórki, ponieważ muszą pożyczyć maszynerii komórkowej aby się zreplikować. U wirusów RNA, ten proces jest dość podatny na błędy, ponieważ większość polimeraz RNA (molekularne maszyny, które wykonują kopie RNA) nie są w stanie sprawdzić i poprawić tego co zrobiły. To prowadzi do częstych mutacji w genomie wirusa; są one całkowicie normalne i spodziewane.
+Wirusy infekują komórki, ponieważ muszą pożyczać maszynerię komórkową, aby się zreplikować. U wirusów RNA ten proces jest dość podatny na błędy, ponieważ większość polimeraz RNA (czyli molekularnych maszyn, które wykonują kopie RNA) nie jest w stanie sprawdzić i poprawić tego, co zrobiły. To prowadzi do częstych mutacji w genomie wirusa; są one całkowicie normalne i spodziewane.
 <br><br>
-Co ważne, znaczna większość tych mutacji albo "łamie" wirusa, tak że nie jest on w stanie przenieść się i/lub zreplikować, lub nie zmieniają wirusa w ogóle ze względu na [nadmiarowe kodowanie](https://en.wikipedia.org/wiki/Synonymous_substitution).
-<!-- może coś lepszego zamiast - nadmiarowe kodowanie?-->
-To oznacza, że mutacje nie zmieniają białek, a w związku z tym funkcji wirusa w żadnen sposób.
+Co ważne, znaczna większość tych mutacji albo "łamie" wirusa tak, że nie jest on w stanie przenieść się i/lub zreplikować, lub nie zmieniają wirusa w ogóle ze względu na [wielokrotne kodowanie](https://en.wikipedia.org/wiki/Synonymous_substitution).
+<!-- może coś lepszego zamiast - nadmiarowe kodowanie? - chciałoby się napisać "ze względu na zdegenerowany kod, ale wiadomo, ludzie nie zrozumieją. zmieniłam na wielokrotne, zobacz, co myślisz - M-->
+To oznacza, że mutacje nie zmieniają białek, a w związku z tym funkcji wirusa w żaden sposób.
 Inne mutacje mogą modyfikować białko wirusa tylko w niewielkim stopniu, ale nie wpływają na funkcję w żaden sposób.
 Rzadko, zmiana w kodzie genetycznym wirusa może pomóc mu lepiej się replikować czy przenosić, ale niemal wszystkie takie zmiany mają jedynie niewielki efekt.
 
@@ -170,13 +170,13 @@ Rarely, a change in the genetic code of a virus can help it to replicate and/or 
 Te zmiany w genomach pomiędzy wirusami mogą być użyte jako "okruchy chleba" aby śledzić historię danej próbki.
 Tak jak osoby w twojej rodzinie dzielą unikatowe kombinacje cech genetycznych, blisko spokrewnione próbki wirusa dzielą unikatowe kombinacje mutacji genetycznych.
 <br><br>
-Na przykład tutaj pokazujemy wirusowe "drzewo rodzinne" z każdą próbką pokolorowaną według aminokwasu obecnego w specyficznej lokalizacji na genomie wirusa (gene "ORF3a", pozycja 57).
+Na przykład tutaj pokazujemy wirusowe "drzewo rodzinne" z każdą próbką pokolorowaną według aminokwasu obecnego w specyficznej lokalizacji na genomie wirusa (gen "ORF3a", pozycja 57).
 <br><br>
 Zaznaczając próbki z Nowego Jorku, widzimy, że wiekszość przypadków z Nowego Jorku i Europy ma aminokwas histydynę ("H"), a nie glutaminę ("Q") w tej pozycji. To, w powiązaniu z wszystkimi innymi pozycjami w genomie, mówi nam, że te wszystkie przypadki są blisko ze sobą spokrewnione.
 <br><br>
 Możesz również sprawdzić pozycję w genie "ORF3a" podkreśloną na wykresie na dole po lewej stronie.
 <br><br>
-Do bardziej szczegółowych wyjaśnień tych pojęć polecamy [to wizualne wytłumaczenie](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) autorstwa Jonathana Corum i Carla Zimmera.
+Do bardziej szczegółowych wyjaśnień tych pojęć polecamy [to wizualne wytłumaczenie](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) autorstwa Jonathana Coruma i Carla Zimmera.
 
 
 <!-- These differences in the genomes between viruses can be used as "bread crumbs" to trace the history of a given sample.
@@ -197,7 +197,7 @@ For a more in-depth explanation of these concepts, we recommend [this visual exp
 
 Ponieważ genomy wirusów nieuchronnie się zmieniają, te zmiany gromadzą się w stałym tempie.
 <br><br>
-Tutaj, na osi x pokazano datę kolekcji danej próby. Oś y pokazuje *całkowitą liczbę* mutacji, o jaką każdy wirus jest odległy od korzenia drzewa. Każda próba jest pokolorowana według daty kiedy została pobrana.
+Tutaj na osi x pokazano datę kolekcji danej próby. Oś y pokazuje *całkowitą liczbę* mutacji, o jaką każdy wirus jest odległy od korzenia drzewa. Każda próba jest pokolorowana według daty kiedy została pobrana.
 <br><br>
 Chciaż widzimy kilka odstających próbek, średnio zmiany gromadzą się w tempie ~24 podstawień na rok. To oznacza, że jeśli jedna linia wirusa byłaby transmitowana od jednej osoby do kolejnej przez cały rok, oczekiwalibyśmy, że genom tego wirusa zgromadziłby w przybliżeniu 24 substytucje do końca roku.
 Cały genom SARS-CoV-2 ma ~30,000 nukleotydów, to odpowiada w przybliżeniu ~1 mutacji na 1,000 nukleotydów w ciągu roku.
@@ -220,10 +220,10 @@ For context, influenza would average ~2 mutations per 1,000 bases per year; HIV 
 Pojawiło się wiele raportów dotyczących wielu "szczepów" SARS-CoV-2.
 Po pierwsze, wyjaśnienie: kiedy wirusolodzy używają słowa "szczep", jest to często przydatne określenie, które pozwala nam odnieść się do tej samej grupy próbek (np. nasze określenia kladów, pokazane tutaj). To *nie* sugeruje żadnych funkcjonalnych różnic.
 <br><br>
-Poza tym, "szczep" może być używany w celu odniesienia się do genotypów wirusa, które są funkcjolanie odrębne, biologicznie (np. patogeniczność/ciężkość choroby) i/lub epidemiologicznie (np. zdolność przenoszenia się).<!-- lepsze słowo na transmissibility? -->
-Co ważne, ustalenie czy dwa genotypy *są* faktycznie funkcjonalnie odrębne wymaga więcej danych doświadczalnych, klinicznych i epidemiologicznych niż obecnie posiadamy.
+Poza tym, "szczep" może być używany w celu odniesienia się do genotypów wirusa, które są funkcjolanie odrębne, biologicznie (np. patogeniczność/ciężkość choroby) i/lub epidemiologicznie (np. zdolność rozprzestrzeniania się).<!-- lepsze słowo na transmissibility? - zmieniłam z przemieszczania na rozprzestrzenianie - M-->
+Co ważne, ustalenie czy dwa genotypy *są* faktycznie funkcjonalnie odrębne wymaga więcej danych doświadczalnych, klinicznych i epidemiologicznych, niż obecnie posiadamy.
 <br><br>
-Jedna z najbardziej głośnych hipotez dotyczących szczepów SARS-CoV-2 porównuje dwa możliwe szczepy "D614" i "G614".
+Jedna z najgłośniejszych hipotez dotyczących szczepów SARS-CoV-2 porównuje dwa możliwe szczepy "D614" i "G614".
 
 <!-- There have been many reports about multiple "strains" of SARS-CoV-2.
 First, a clarification: when virologists use the word "strain," it's often just as a useful label so we can all refer to the same group of samples (e.g., our clade labels, shown here). This does *not* imply any known functional difference.
@@ -236,19 +236,19 @@ One of the most prominent hypotheses about SARS-CoV-2 strains compares possible 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [D614G może być związany ze zdolnością przenoszenia się, ale może być również tłumaczony geografią](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [D614G może być związany ze zdolnością rozprzetrzeniania się, ale może być również tłumaczony geografią](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
 
-[Niedawny preprint](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) sugeruje, że pojedyncza mutacja, D614G (z aminokwasu "D" do "G" w pozycji 614 w białku "S" (od 'spike')), może być odpowiedzialna za zwiększoną łatwością przenoszenia się SARS-CoV-2.
+[Niedawny preprint](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) sugeruje, że pojedyncza mutacja, D614G (z aminokwasu "D" do "G" w pozycji 614 w białku "S" (od 'spike')), może być odpowiedzialna za zwiększoną łatwość przenoszenia się SARS-CoV-2.
 <br><br>
-W wielu obszarach geograficznych, względna częstość 614D w porównaniu z 614G wzrasta z czasem. 
-Jeśli pewien genotyp prowadzi do zwiększonej zdolności przenoszenia, możemy oczekiwać, że jego częstość będzie wzrastać z czasem.
+W wielu obszarach geograficznych względna częstość 614D w porównaniu z 614G wzrasta z czasem. 
+Jeśli pewien genotyp prowadzi do zwiększonej zdolności rozprzestrzeniania, możemy oczekiwać, że jego częstość będzie wzrastać z czasem.
 <br><br>
-Dla tej pozycji, widzimy kilka geograficznych obszarów gdzie początkowo większość krążących linii wirusa miało allel D; potem, ten stan się odwraca tak że większość linii ma allel G.
-To *może* być oznaka, że G jest nieco "lepszy" niż D (np., jeśli wirusy z mutacją G miały nieco wyższy R0 dzięki zwiększonej łatwości przenoszenia się).
+Dla tej pozycji widzimy kilka geograficznych obszarów, gdzie początkowo większość krążących linii wirusa miało allel D; potem ten stan się odwraca tak, że większość linii ma allel G.
+To *może* być oznaka, że G jest nieco "lepszy" niż D (np. jeśli wirusy z mutacją G miały nieco wyższy R0 dzięki zwiększonej łatwości rozprzestrzeniania się).
 <br><br>
 Niemniej jednak, to może byc również jednynie efekt uboczny naturalnej historii pandemii.
-Wcześnie podczas pandemii, większość wariantów wirusa eksportowanych z Chin miało allel D. Później, większość wirusów z Włoch miało allel G. Niedawno, zaobserwowaliśmy ogólnie więcej eksportu wirusa z Europy niż z Azji (chociaż pewien błąd próbkowania również może grać tu rolę).
-Wobec tego, być może pewien genotyp miał po prostu więcej szczęścia i rozprzestrzenił się gwałtownie ponieważ dotarł tam pierwszy. 
+Wcześnie podczas pandemii większość wariantów wirusa eksportowanych z Chin miało allel D. Później, większość wirusów z Włoch miało allel G. Niedawno, zaobserwowaliśmy ogólnie więcej eksportu wirusa z Europy niż z Azji (chociaż pewien błąd próbkowania również może grać tu rolę).
+Wobec tego, być może pewien genotyp miał po prostu więcej szczęścia i rozprzestrzenił się gwałtownie, ponieważ dotarł tam pierwszy. 
 <br><br>
 Debata trwa na temat zasadności tych dwóch hipotez. Należałoby ostrożnie je od siebie oddzielić, ale nie ma jeszcze naukowego konsensusu w tym temacie. Więcej szczegółowych wyjaśnień [można zobaczyć w tym wątku](https://twitter.com/trvrb/status/1257825352660877313).
 
@@ -291,7 +291,7 @@ There's a fair amount of debate regarding the relative merits of these two hypot
 ```auspiceMainDisplayMarkdown
 # Konkluzje 
 
-#### Wirusy naturalnie gromadzą mutacje kiedy replikują się. Jest to normalne. Mutacje mogą też pomagać nam w śledzeniu przebiegu epidemii.
+#### Wirusy naturalnie gromadzą mutacje, kiedy się replikują. Jest to normalne. Mutacje mogą też pomagać nam w śledzeniu przebiegu epidemii.
 
 #### Tempo mutacji wirusa SARS-CoV-2 jest typowe dla koronawirusów.
 
@@ -314,7 +314,7 @@ There's a fair amount of debate regarding the relative merits of these two hypot
 <!-- This is left-side text -->
 # [Podziękowania](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
 
-Wyrażamy podziękowania dla wszystkich naukowców zaangażowanych w ten wybuch pandemii za wspaniałą i śpieszną pracę. Analizy takie jak ta nie byłyby możliwe gdyby nie natychmiastowe publikowanie zsekwencjonowanych genomów oraz metadanych z nimi związanych.
+Wyrażamy podziękowania dla wszystkich naukowców zaangażowanych w ten wybuch pandemii za wspaniałą i śpieszną pracę. Analizy takie jak ta nie byłyby możliwe, gdyby nie natychmiastowe publikowanie zsekwencjonowanych genomów oraz metadanych z nimi związanych.
 <br><br>
 **Zachęcamy aby kliknąć na 'Explore the Data Yourself' i przewinąć na dół aby zobaczyć pełną listę autorów;  można sprawdzić autora każdej sekwencji klikając na nią na drzewie.**
 <br><br>
