@@ -25,7 +25,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "Os relatórios de situação da Nextstrain utilizam dados genômics compartilhados publicamente para rastrear a disseminação e a evolução do SARS-CoV-2. Esta seman, damos uma visão geral das mutações virais e o que elas significam (e não significam) para a pandemia de COVID-19."
+abstract: "Os informes da Nextstrain utilizam dados genômics compartilhados publicamente para rastrear a disseminação e a evolução do SARS-CoV-2. Esta seman, damos uma visão geral das mutações virais e o que elas significam (e não significam) para a pandemia de COVID-19."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -46,20 +46,20 @@ nós analisamos 5.193 genomas de COVID-19 compartilhados publicamente. Ao compar
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
+# [Fontes sobre a COVID-19](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
 #### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/).
-* [Explanatory Twitter threads](https://bedford.io/misc/twitter/).
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [COMECE AQUI: Como interpretar árvores filogenéticas](https://nextstrain.org/narratives/trees-background/).
+* [Informes anteriores](https://nextstrain.org/ncov-sit-reps/).
+* [Tópicos explicativos do Twitter](https://bedford.io/misc/twitter/).
+* [Informações acerca dos coronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Equívocos comuns](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 #### External Resources
-* [How coronavirus mutations and spreads (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+* [Como os coronavirus mutam e se espalham (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [Pergunte a um cientista & Perguntas Frequentes](https://covid19.fas.org/l/en).
+* [Relatórios de situação da OMS](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Materiais do CDC (Centro de Controle de Doenças/EUA)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
