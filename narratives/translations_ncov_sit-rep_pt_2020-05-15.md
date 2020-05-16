@@ -37,10 +37,10 @@ abstract: "Os relatórios de situação da Nextstrain utilizam dados genômics c
 
 nós analisamos 5.193 genomas de COVID-19 compartilhados publicamente. Ao comparar esses genomas virais entre si, nós podemos caracterizar como o SARS-CoV-2 está evoluindo e se movendo em todo o mundo. Esta semana, nós focamos nas mutações virais. Nós cobrimos:
 <br><br>
-* Where viral mutations come from (they're normal)  
-* The rate of mutation in SARS-CoV-2 (very typical)
-* How many strains of SARS-CoV-2 are circulating (as far as we know: 1)  
-* How geography and epidemiology contribute to perceived differences in viral genotypes (this is tricky)
+* De onde as mutações virais vem (elas são normais)  
+* A taxa de mutação no SARS-CoV-2 (muito típica)
+* Quantas cepas de SARS-CoV-2 estão circulando (até onde sabemos: 1)  
+* Como a geografia e a epidemiologia contribuem para as diferenças percebidas nos genótipos virais (isso é complicado)
 
 
 <!-- ############ SLIDE BREAK ############# -->
