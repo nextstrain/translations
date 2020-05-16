@@ -115,18 +115,18 @@ abstract: " تستخدم نقارير الحالة من Nextstrain  البيان
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Variation in viruses' genetic code is useful for tracing outbreaks](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
+# التنوع في الشيفرة الجينية للفيروسات مفيد في تتبع الانتشار الوبائي](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
 
-These differences in the genomes between viruses can be used as "bread crumbs" to trace the history of a given sample.
-Just as the people in your family share unique combinations of genetic characteristics, closely related viral samples share unique combinations of genetic mutations.
+يمكن أن تستخدم هذه التغيرات في الجينومات "كفتات الخبز" في تتبع تاريخ عينة معينة. 
+تماماً كما أن الاشخاص في عائلتك يتشاركون مجموعات من الخصائص الجينية الفريدة، فعينات الفيروس القريبة من بعضها بشكل كبير تتشارك مجموعات من الطفرات الجينية الفريدة. 
 <br><br>
-For example, here we show the viral "family tree" with each sample colored by which amino acid is present at a specific location in the viral genome (gene "ORF1a", site 57).
+على سبيل المثال، نظهر هنا شجرة عائلة فيروسية حيث أن كل كل عينة ملونة تبعاً لكل حمض أميني موجود في موقع محدد في الجينوم الفيروسي  ( الجين " اطار القراءة الاول (ORF1( ، الموقع 57).
 <br><br>
-Highlighting samples from New York, we see that most of the cases from New York and Europe have the amino acid Histidine ("H") rather than Glutamine ("Q") at this position. This, in combination with all the other sites in the genome, tells us that these cases are all closely related to each other.
+بتظليل العينات من نيويورك، نستطيع أن نشاهد أن معظم الحالات من نيويورك ومن أوروبا تمتلك الحمض الاميني هيستيدين (H) وليس جلوتامين (Q) على هذا الموقع. هذا بالاضافة الى مواقع أخرى في هذا الجينوم فهي تخبرنا بأن جميع هذه الحالات مرتبطة جدا ببعضها البعض 
 <br><br>
-You can also see the position in gene "ORF3a" highlighted on the chart at the bottom of the left.
+يمكنك ايضاً مشاهدة الموقع في جين " اطار القراءة الثالث أ" والمظلل على الشريط في الجانب السفلي الأيسر
 <br><br>
-For a more in-depth explanation of these concepts, we recommend [this visual explanation](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
+من أجل توضيح أعمق لهذه المفاهيم، نوصي  [هذا التوضيح المرئي](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
 
 
 <!-- ############ SLIDE BREAK ############# -->
