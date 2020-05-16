@@ -147,15 +147,15 @@ Para contextualizar, o vírus da gripe teria em média ~2 mutações por 1.000 b
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [As far as we know, there is only 1 strain of SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
+# [Até onde sabemos, existe apenas 1 cepa de SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
 
-There have been many reports about multiple "strains" of SARS-CoV-2.
-First, a clarification: when virologists use the word "strain," it's often just as a useful label so we can all refer to the same group of samples (e.g., our clade labels, shown here). This does *not* imply any known functional difference.
+Houve muitos relatos sobre várias "cepas" de SARS-CoV-2.
+Primeiro, um esclarecimento: quando virologistas usam a palavra "cepa", geralmente é apenas um rótulo útil para que todos possamos nos referir ao mesmo grupo de amostras (por exemplo, nossos rótulos do grupo, mostrados aqui). Isso *não* implica qualquer diferença funcional conhecida.
 <br><br>
-Separately, "strain" can be used to refer to viral genotypes that are functionally distinct, either biologically (e.g., pathogenicity/disease severity) and/or epidemiologically (e.g., transmissibility).
-Importantly, though, determining whether two genotypes actually *are* functionally distinct requires much more experimental, clinical and epidemiological data than we currently have.
+Separadamente, "cepa" pode ser usada para se referir a genótipos virais que são funcionalmente distintos, seja biologicamente (por exemplo, patogenicidade/gravidade da doença) e/ou epidemiologicamente (por exemplo, transmissibilidade).
+É importante ressaltar que determinar se dois genótipos *são* funcionalmente distintos requer muito mais dados experimentais, clínicos e epidemiológicos do que os que temos atualmente.
 <br><br>
-One of the most prominent hypotheses about SARS-CoV-2 strains compares possible "D614" vs "G614" strains.
+Uma das hipóteses mais proeminentes sobre as cepas de SARS-CoV-2 compara possíveis cepas "D614" vs "G614".
 
 
 <!-- ############ SLIDE BREAK ############# -->
