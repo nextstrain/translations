@@ -19,7 +19,9 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
   - Varvara Kozyreva
+  -
 translatorLinks:
+  - https://www.linkedin.com/in/varvara-kozyreva-374aa877/
   - 
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
@@ -118,18 +120,18 @@ SARS-CoV-2, вирус вызывающий болезнь COVID-19, относ�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Variation in viruses' genetic code is useful for tracing outbreaks](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
+# [Вариации в генетическом коде вируса полезны для отслеживания вспышек](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
 
-These differences in the genomes between viruses can be used as "bread crumbs" to trace the history of a given sample.
-Just as the people in your family share unique combinations of genetic characteristics, closely related viral samples share unique combinations of genetic mutations.
+Эти различия между геномами вируса могут быть использованы как "хлебные крошки", чтобы отследить историю данного образца. 
+Точно так же, как твои родственники разделяют уникальные комбинации генетических характеристик, так и близкородственные вирусные образцы делять уникальные комбинации генетических мутаций.
 <br><br>
-For example, here we show the viral "family tree" with each sample colored by which amino acid is present at a specific location in the viral genome (gene "ORF1a", site 57).
+Например, здесь мы показываем вирусное "семейное дерево" в котором каждый образец расскрашен в соответствии с аминокислотой найденной в определенном локусе вирусного генома (в данном случае в гене "ORF1a", участок 57)
 <br><br>
-Highlighting samples from New York, we see that most of the cases from New York and Europe have the amino acid Histidine ("H") rather than Glutamine ("Q") at this position. This, in combination with all the other sites in the genome, tells us that these cases are all closely related to each other.
+Если мы выделим образцы из Нью Йорка, мы увидим, что большинство случаев из Нью Йорка и Европы в этой позиции имеют аминокислоту гистидин ("H") вместо глутамина ("Q"). Этот участок генома в комбинации с другими участками говорит нам, что данные случаи тесно связаны между собой.  
 <br><br>
-You can also see the position in gene "ORF3a" highlighted on the chart at the bottom of the left.
+Вы также можете видеть позицию в гене "ORF3a", выделенную на диаграмме внизу слева.
 <br><br>
-For a more in-depth explanation of these concepts, we recommend [this visual explanation](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
+Для более глубокого объяснения этих концепций мы советуем [данное наглядное описание](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) от Jonathan Corum и Carl Zimmer.
 
 
 <!-- ############ SLIDE BREAK ############# -->
