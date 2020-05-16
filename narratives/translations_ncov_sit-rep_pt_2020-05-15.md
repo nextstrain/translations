@@ -111,10 +111,10 @@ SARS-CoV-2, o vírus que causa a doença COVID-19, é um [coronavirus](https://n
 <br><br>
 Vírus infectam células porque eles precisam pegar a maquinaria celular emprestada para replicar (reproduzir). Para os vírus de RNA, esse processo é batante propenso a erro, como a maioria das RNA polimerases (as máquinas moleculares que fazem cópias de RNA) não são capazes de revisar e corrigir o seu trabalho. Isso leva a mutações frequentes no genoma viral; Isso é normal e experado.
 <br><br>
-Importantly, the vast majority of these mutations either "break" the virus such that it can't transmit and/or replicate anymore, or don't change the virus at all because of [redundant encoding](https://en.wikipedia.org/wiki/Synonymous_substitution).
-This means that the mutations don't change the proteins, and therefore function, of the virus in any way.
-Other changes may modify a protein of the virus very slightly, but not impact the function at all.
-Rarely, a change in the genetic code of a virus can help it to replicate and/or transmit better, but nearly all of these changes still have only a tiny effect.
+É importante ressaltar que a grande maioria dessas mutações "quebra" o vírus de modo que ele não pode mais transmitir e/ou replicar, ou essas mutações não mudam o vírus por causa da [codificação redundante](https://pt.wikipedia.org/wiki/Substitui%C3%A7%C3%A3o_sin%C3%B4nima).
+Isso significa que as mutações não mudam as proteínas, e consequentemente a funão, do vírus de qualquer forma.
+Outras mudanças podem modificar a proteína do vírus muito levement, mas não impactam na função.
+Raramente, uma mudança no código genético do vírus pode ajudá-lo a replicar e/ou transmitir melhor, mas quase todas essas mudanças ainda têm apenas um pequeno efeito.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
