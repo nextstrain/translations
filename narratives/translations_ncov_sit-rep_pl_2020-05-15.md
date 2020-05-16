@@ -170,7 +170,7 @@ Rarely, a change in the genetic code of a virus can help it to replicate and/or 
 Te zmiany w genomach pomiędzy wirusami mogą być użyte jako "okruchy chleba" aby sledzić historię danej próbki.
 Tak jak osoby w twojej rodzinie dzielą unikatowe kombinacje cech genetycznych, blisko spokrewnione próbki wirusa dzielą unikatowe kombinacje mutacji genetycznych.
 <br><br>
-Na przykład tutaj pokazujemy wirusowe "drzewo rodzinne" z każdą próbką pokolorowaną według aminokwasu obecnego w specyficznej lokalizacji na genomie wirusa (gene "ORF1a", pozycja 57).
+Na przykład tutaj pokazujemy wirusowe "drzewo rodzinne" z każdą próbką pokolorowaną według aminokwasu obecnego w specyficznej lokalizacji na genomie wirusa (gene "ORF3a", pozycja 57).
 <br><br>
 Zaznaczając próbki z Nowego Jorku, widzimy, że wiekszość przypadków z Nowego Jorku i Europy ma aminokwas histydynę ("H"), a nie glutaminę ("Q") w tej pozycji. To, w powiązaniu z wszystkimi innymi pozycjami w genomie, mówi nam, że te wszystkie przypadki są blisko ze sobą spokrewnione.
 <br><br>
