@@ -23,7 +23,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: " تخدم نقارير الحالة من Nextstrain  البيانات الجينومية التي يتم مشاركتها للعموم من أجل تتبع انتشار وتطور سارس-كو-في-2. تقرير هذا الاسبوع يقدم عرضا للطفرات الفيروسية وماذا تعني أو لا تعني بالنسبة لجائحة كوفيد-19."
+abstract: " تستخدم نقارير الحالة من Nextstrain  البيانات الجينومية التي يتم مشاركتها للعموم من أجل تتبع انتشار وتطور سارس-كو-في-2. نقدم في تقرير هذا الاسبوع عرضاً للطفرات الفيروسية وماذا يمكن أن تعني أو لا تعني بالنسبة لجائحة كوفيد-19."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,14 +31,14 @@ abstract: " تخدم نقارير الحالة من Nextstrain  البيانات
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Executive summary](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [الملخص التنفيذي](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
 
-We analyzed 5,193 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is evolving and moving around the world. This week, we focus on viral mutations. We cover:
+قمنا هنا بتحليل جينومات 5139 فيروس تم مشاركتها للعموم. من خلال مقارنة هذه الجينومات ببعضها البعض، نستطيع أن نحدد كيف يتطور فيروس سارس-كو-في-2 وكيف يتنقل حول العالم. نركز في تقرير هذا الاسبوع على الطفرات الفيروسية. ونوثق ما يلي: 
 <br><br>
-* Where viral mutations come from (they're normal)  
-* The rate of mutation in SARS-CoV-2 (very typical)
-* How many strains of SARS-CoV-2 are circulating (as far as we know: 1)  
-* How geography and epidemiology contribute to perceived differences in viral genotypes (this is tricky)
+* من أين تأتي الطفرات الفيروسية (وهي طبيعية) 
+* معدل حدوث الطفرات في سارس-كو-في-2 (معدل تقليدي جداً)
+* كم سلالة من فيروس سارس-كو-في-2 تدور في العالم (هناك سلالة وحدة على حد علمنا) 
+* كيف للجغرافيا وعلم الاوبئة أن يساهما في  اختلافات ملموسة في الانواع الجينية الفيروسية (هذا مخادع)
 
 
 <!-- ############ SLIDE BREAK ############# -->
