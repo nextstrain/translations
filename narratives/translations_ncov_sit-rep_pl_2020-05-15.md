@@ -236,7 +236,7 @@ One of the most prominent hypotheses about SARS-CoV-2 strains compares possible 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [D614G może być związany ze zdolnością rozprzetrzeniania się, ale może być również tłumaczony geografią](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [D614G może być związany ze zdolnością rozprzestrzeniania się, ale może być również tłumaczony geografią](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
 
 [Niedawny preprint](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) sugeruje, że pojedyncza mutacja, D614G (z aminokwasu "D" do "G" w pozycji 614 w białku "S" (od 'spike')), może być odpowiedzialna za zwiększoną łatwość przenoszenia się SARS-CoV-2.
 <br><br>
