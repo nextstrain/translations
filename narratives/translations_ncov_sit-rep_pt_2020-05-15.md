@@ -66,8 +66,8 @@ nós analisamos 5.193 genomas de COVID-19 compartilhados publicamente. Ao compar
 
 # Situation Report Hiatus
 <p>
-Early in the pandemic, it was unclear how SARS-CoV-2 was moving between countries, where it was circulating locally, and how localized outbreaks were related.
-Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
+No inicio da pandemia, não estava claro como o SARS-CoV-2 estava se movendo entre os países, onde estava circulando localmente, e como os surtos localizados estavam relacionados.
+Nos últimos quatro meses, nós abordamos estas questões - e mais - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
 </p>
 <p/>
 
