@@ -27,7 +27,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: " تستخدم تقارير الحالة من Nextstrain  البيانات الجينومية التي يتم مشاركتها للعموم من أجل تتبع إنتشار وتطور سارس-كو-في-2. نقدم في تقرير هذا الأسبوع عرضاً للطفرات الفيروسية وماذا يمكن أن تعني (أو لا تعني) بالنسبة لجائحة كوفيد-19."
+abstract: " تستخدم تقارير الحالة من نيكست سترين البيانات الجينومية التي يتم مشاركتها للعموم من أجل تتبع إنتشار وتطور سارس-كو-في-2. نقدم في تقرير هذا الأسبوع عرضاً للطفرات الفيروسية وماذا يمكن أن تعني (أو لا تعني) بالنسبة لجائحة كوفيد-19."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
