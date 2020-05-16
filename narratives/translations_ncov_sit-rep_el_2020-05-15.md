@@ -103,7 +103,7 @@ abstract: "Οι αναφορές κατάστασης του Nextstrain χρησ
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Αλλαγές στα ιικά γονιδιώματα μέσα στο χρόνο είναι φυσιολογικέςChanges in viral genomes over time are normal](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
+# [Αλλαγές στα ιικά γονιδιώματα μέσα στο χρόνο είναι φυσιολογικές](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
 Ο SARS-CoV-2, ο ιός που προκαλεί την ασθένεια COVID-19, είναι ένας [κορωνοϊός](https://nextstrain.org/help/coronavirus/human-CoV).Όπως και οι υπόλοιποι κορωνοϊοί, ο SARS-CoV-2 έχει ένα γονιδίωμα κωδικοποιημένο σε RNA (αντί σε DNA).
 <br><br>
@@ -116,7 +116,7 @@ abstract: "Οι αναφορές κατάστασης του Nextstrain χρησ
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Η ποικιλομορφία στο γενετικό κώδικα των ιών είναι χρίσιμη για την ιχνηλάτιση επιδημιώνVariation in viruses' genetic code is useful for tracing outbreaks](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
+# [Η ποικιλομορφία στο γενετικό κώδικα των ιών είναι χρίσιμη για την ιχνηλάτιση επιδημιών](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
 
 Οι διαφορές αυτές στα γονιδιώματα των ιών μπορούν να χρησιμοποιηθούν σαν "ψίχουλα ψωμιού" στην ιχνηλάτηση της ιστορίας ενός δείγματος.
 Όπως μοιράζεστε μοναδικούς συνδυασμούς γενετικών χαρακτηριστικών με τα μέλη της οικογένειάς σας, έτσι και τα στενά συνδεδεμένα ιικά γονιδιώματα μοιράζονται μοναδικούς συνδυασμούς γενετικών μεταλλάξεων.
