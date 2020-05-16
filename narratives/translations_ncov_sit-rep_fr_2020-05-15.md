@@ -42,8 +42,8 @@ abstract: "Ce rapport hebdomadaire utilise des données génomiques partagées p
 Nous avons analysé 5193 génomes de COVID-19 partagés publiquement. En comparant ces génomes viraux les uns aux autres, nous pouvons caractériser la façon dont COVID-19 se déplace dans le monde et se propage localement. Cette semaine, nous nous concentrons sur les mutations du virus et rapportons:
 <br><br>
 * D'où viennent les mutations du virus (elles sont normales)
-* Le taux de mutation du SRAS-CoV-2 (très caractéristique)
-* Combien de souches de SRAS-CoV-2 circulent (pour autant que nous sachions : 1)
+* Le taux de mutation du SARS-CoV-2 (très caractéristique)
+* Combien de souches de SARS-CoV-2 circulent (pour autant que nous sachions : 1)
 * Comment la géographie et l'épidémiologie contribuent aux différences perçues dans les génotypes viraux (c'est délicat)
 
 
@@ -138,7 +138,7 @@ Comme les génomes viraux changent inévitablement, ces différences ont tendanc
 Ici, l'axe des x indique la date à laquelle chaque échantillon a été prélevé. L'axe des y montre le *nombre total* de mutations de chaque souche par rapport à la racine de l'arbre. Chaque échantillon est coloré selon la date à laquelle il a été prélevé.
 <br><br>
 Bien qu'il y ait certainement quelques valeurs aberrantes, nous voyons en moyenne les changements s'accumuler à un rythme d'environ 24 substitutions par an. Cela signifie que si une seule lignée virale se transmettait d'une personne à l'autre pendant une année complète, nous nous attendrions à ce que l'ensemble de son génome accumule environ 24 substitutions d'ici la fin de l'année.
-Comme l'ensemble du génome du SRAS-CoV-2 compte environ 30 000 bases, cela correspond à environ une mutation pour 1 000 bases en un an.
+Comme l'ensemble du génome du SARS-CoV-2 compte environ 30 000 bases, cela correspond à environ une mutation pour 1 000 bases en un an.
 <br><br>
 Pour comparaison, la grippe présente une moyenne d'environ 2 mutations pour 1 000 bases par an ; le VIH présente une moyenne d'environ 4 mutations pour 1 000 bases par an.
 
