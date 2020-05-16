@@ -67,38 +67,39 @@ nós analisamos 5.193 genomas de COVID-19 compartilhados publicamente. Ao compar
 # Situation Report Hiatus
 <p>
 No inicio da pandemia, não estava claro como o SARS-CoV-2 estava se movendo entre os países, onde estava circulando localmente, e como os surtos localizados estavam relacionados.
-Nos últimos quatro meses, nós abordamos estas questões - e mais - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
+Nos últimos quatro meses, nós abordamos estas questões - e outras - nos nossos relatórios de situação semanais. Nesta fase da pandemia, é claro que alguns padrões chave são amplamente consistentes nas regiões e países:  
 </p>
 <p/>
 
-- Outbreaks across even distant parts of the world are deeply intertwined.<p/>
+- Surtos em partes distantes do mundo estão profundamente interligados.<p/>
 
-- Through human migration and travel, the virus has been introduced to most communities multiple times.<p/>  
+- Através da migração humana e viagens, o vírus foi introduzido na maioria das comunidades várias vezes.<p/>  
 
-- Once these "sparks" land in a new community, many fizzle out without causing widespread transmission. Subject to local conditions and a bit of chance, some of these sparks grow into local outbreaks.<p/>  
+- Uma vez que essas "faíscas" chegam a uma nova comudade, muitas fracassam sem causar transmissão generalizada. Sugeitos às condições locais e um pouco de chance, algumas desss faíscas crescem em surtos locais.<p/>  
 
-- Eventually, these local outbreaks send off sparks of their own, spreading to new locations.  
+- Eventualmente, esses surtos locais emitem faíscas por conta própria, disceminando o vírus para novas localidades.  
 <p/>
 
-Unsurprisingly, we see this pattern in countries experiencing their first wave of infections. More alarmingly, we also see this pattern after re-introductions of the virus to countries where the initial peak passed months beforehand.
-Ultimately, this pattern is only broken when a country is able to effectively test, trace, and isolate cases immediately.
+De maneira esperada, nós vemos esse padrão em países que estão esperimentando sua primeira onda de infecções. Mais alarmante, também vemos esse padrão após a reintrodução do vírus em países onde o pico iniccial passou meses antes.
+Por fim, esse padrão só é quebrado quando um país é capaz de testar, rastrear e isolar efetivamente os casos imediatamente.
 <br><br>
 
-This means that outbreaks across the world are deeply connected, and the battle against COVID-19 will always be global -- we can't conquer the virus anywhere without addressing it everywhere.
+Isso significa que surtos em todo o mundo estão profundamente conectados e a batalha contra o COVID-19 será sempre global -- não podemos conquistar o vírus em qualquer lugar sem enviá-lo a qualquer lugar.
 <br><br>
 
-At this stage of the pandemic, genomic epidemiology is most urgently needed within local and hyperlocal communities through local public health offices.
+Nesta fase da pandemia, a epidemiologia genômica é mais urgentemente necessária nas comunidades locais e hiperlocais, por meio dos escritórios locais de saúde pública.
 <br><br>
 
-As such, this will be our last weekly Situation Report for a while, though we aim to support similar reports from local public health officials.
+Como tal, este será o nosso último relatório da situação semanal por um tempo, embora nosso objetivo seja apoiar relatórios semelhantes de autoridades locais de saúde pública.
 <br><br>
 
-We will, of course, continue daily updates to the global & regional builds as new sequences are made available.
-When the big-picture data says something new, we'll also issue additional Situation Reports.
-All of these updates will be posted to the [Nextstrain twitter account](https://twitter.com/nextstrain) (as always).  
+Nós vamos, é claro, continuar com atualizações diárias das compilações globais e regionais à medida que novas seqüências forem disponibilizadas.
+
+Quando When os dados revelarem alguma coisa nova, também emitiremos relatórios de situação adicionais.
+Todas essas atualizações serão postadas na [conta do twitter do Nextstrain](https://twitter.com/nextstrain) (como sempre).  
 <br><br>
 
-You can also find <a href="https://nextstrain.org/ncov-sit-reps/">all of our previous Situation Reports here</a>.
+Você também pode encontrar <a href="https://nextstrain.org/ncov-sit-reps/">todos os nossos relatórios de situação anteriores aqui</a>.
 
 ```
 
