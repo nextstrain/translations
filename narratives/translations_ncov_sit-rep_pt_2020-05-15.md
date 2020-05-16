@@ -35,7 +35,7 @@ abstract: "Os relatórios de situação da Nextstrain utilizam dados genômics c
 <!-- This is left-side text -->
 # [Índice](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
 
-nós analisamos 5.193 genomas de COVID-19 compartilhados publicamente. Ao comparar esses genomas virais entre si, nós podemos caracterizar como o SARS-CoV-2 está evoluindo e se movendo em todo o mundo. Esta semana, nós focamos nas mutações virais. Nós abordamos:
+Nós analisamos 5.193 genomas de COVID-19 compartilhados publicamente. Ao comparar esses genomas virais entre si, nós podemos caracterizar como o SARS-CoV-2 está evoluindo e se movendo em todo o mundo. Esta semana, nós focamos nas mutações virais. Nós abordamos:
 <br><br>
 * De onde as mutações virais vem (elas são normais)  
 * A taxa de mutação no SARS-CoV-2 (muito típica)
@@ -48,14 +48,14 @@ nós analisamos 5.193 genomas de COVID-19 compartilhados publicamente. Ao compar
 <!-- This is left-side text 2-->
 # [Fontes sobre a COVID-19](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
-#### Nextstrain Resources
+#### Materiais da Nextstrain
 * [COMECE AQUI: Como interpretar árvores filogenéticas](https://nextstrain.org/narratives/trees-background/).
 * [Informes anteriores](https://nextstrain.org/ncov-sit-reps/).
 * [Tópicos explicativos do Twitter](https://bedford.io/misc/twitter/).
 * [Informações acerca dos coronavírus](https://nextstrain.org/help/coronavirus/human-CoV).
 * [Equívocos comuns](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources
+#### Materiais Externos
 * [Como os coronavírus mutam e se espalham (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
 * [Pergunte a um cientista & Perguntas Frequentes](https://covid19.fas.org/l/en).
 * [Relatórios de situação da OMS](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
@@ -64,7 +64,7 @@ nós analisamos 5.193 genomas de COVID-19 compartilhados publicamente. Ao compar
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Situation Report Hiatus
+# Hiato no Relatório de Situação
 <p>
 No inicio da pandemia, não estava claro como o SARS-CoV-2 estava se movendo entre os países, onde estava circulando localmente, e como os surtos localizados estavam relacionados.
 Nos últimos quatro meses, nós abordamos estas questões - e outras - nos nossos relatórios de situação semanais. Nesta fase da pandemia, é claro que alguns padrões chave são amplamente consistentes nas regiões e países:  
@@ -75,16 +75,16 @@ Nos últimos quatro meses, nós abordamos estas questões - e outras - nos nosso
 
 - Através da migração humana e viagens, o vírus foi introduzido na maioria das comunidades várias vezes.<p/>  
 
-- Uma vez que essas "faíscas" chegam a uma nova comudade, muitas fracassam sem causar transmissão generalizada. Sugeitos às condições locais e um pouco de chance, algumas desss faíscas crescem em surtos locais.<p/>  
+- Uma vez que essas "faíscas" chegam a uma nova comudade, muitas desaparecem sem causar transmissão generalizada. Sugeitos às condições locais e um pouco de chance, algumas desss faíscas crescem em surtos locais.<p/>  
 
 - Eventualmente, esses surtos locais emitem faíscas por conta própria, disceminando o vírus para novas localidades.  
 <p/>
 
-De maneira esperada, nós vemos esse padrão em países que estão esperimentando sua primeira onda de infecções. Mais alarmante, também vemos esse padrão após a reintrodução do vírus em países onde o pico iniccial passou meses antes.
+De maneira esperada, nós vemos esse padrão em países que estão esperimentando sua primeira onda de infecções. Mais alarmante, também vemos esse padrão após a reintrodução do vírus em países onde o pico inicial passou meses antes.
 Por fim, esse padrão só é quebrado quando um país é capaz de testar, rastrear e isolar efetivamente os casos imediatamente.
 <br><br>
 
-Isso significa que surtos em todo o mundo estão profundamente conectados e a batalha contra o COVID-19 será sempre global -- não podemos conquistar o vírus em qualquer lugar sem enviá-lo a qualquer lugar.
+Isso significa que surtos em todo o mundo estão profundamente conectados e a batalha contra o COVID-19 será sempre global -- não podemos conquistar o vírus em qualquer lugar sem abordá-lo em todos os lugares.
 <br><br>
 
 Nesta fase da pandemia, a epidemiologia genômica é mais urgentemente necessária nas comunidades locais e hiperlocais, por meio dos escritórios locais de saúde pública.
@@ -109,12 +109,12 @@ Você também pode encontrar <a href="https://nextstrain.org/ncov-sit-reps/">tod
 
 SARS-CoV-2, o vírus que causa a doença COVID-19, é um [coronavírus](https://nextstrain.org/help/coronavirus/human-CoV). Como outros coronavírus, SARS-CoV-2 possui o genoma codificado em RNA (ao invés de DNA).
 <br><br>
-Vírus infectam células porque eles precisam pegar a maquinaria celular emprestada para replicar (reproduzir). Para os vírus de RNA, esse processo é batante propenso a erro, como a maioria das RNA polimerases (as máquinas moleculares que fazem cópias de RNA) não são capazes de revisar e corrigir o seu trabalho. Isso leva a mutações frequentes no genoma viral; Isso é normal e experado.
+Vírus infectam células porque eles precisam pegar a maquinaria celular emprestada para replicar (reproduzir). Para os vírus de RNA, esse processo é batante propenso a erro porque a maioria das RNA polimerases (as máquinas moleculares que fazem cópias de RNA) não são capazes de revisar e corrigir o seu trabalho. Isso leva a mutações frequentes no genoma viral; Isso é normal e experado.
 <br><br>
-É importante ressaltar que a grande maioria dessas mutações "quebra" o vírus de modo que ele não pode mais transmitir e/ou replicar, ou essas mutações não mudam o vírus por causa da [codificação redundante](https://pt.wikipedia.org/wiki/Substitui%C3%A7%C3%A3o_sin%C3%B4nima).
-Isso significa que as mutações não mudam as proteínas, e consequentemente a funão, do vírus de qualquer forma.
-Outras mudanças podem modificar a proteína do vírus muito levement, mas não impactam na função.
-Raramente, uma mudança no código genético do vírus pode ajudá-lo a replicar e/ou transmitir melhor, mas quase todas essas mudanças ainda têm apenas um pequeno efeito.
+É importante ressaltar que a grande maioria dessas mutações "quebra" o vírus de modo que ele não pode mais se transmitir e/ou replicar, ou essas mutações não mudam o vírus por causa da [codificação redundante](https://pt.wikipedia.org/wiki/Substitui%C3%A7%C3%A3o_sin%C3%B4nima).
+Isso significa que as mutações não mudam as proteínas e, consequentemente, a função do vírus de qualquer forma.
+Outras mudanças podem modificar a proteína do vírus muito levemente, mas não impactam na função.
+Raramente, uma mudança no código genético do vírus pode ajudá-lo a replicar e/ou se transmitir melhor, mas quase todas essas mudanças ainda têm apenas um pequeno efeito.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
