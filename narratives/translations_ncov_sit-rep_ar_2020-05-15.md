@@ -55,7 +55,7 @@ abstract: " تستخدم تقارير الحالة من Nextstrain  البيان
 * [تقارير حالة سابقة](https://nextstrain.org/ncov-sit-reps/).
 * [ثريدات تويتر توضيحية](https://bedford.io/misc/twitter/).
 * [خلفية علمية عن فيروسات كورونا](https://nextstrain.org/help/coronavirus/human-CoV).
-* [مفاهيم عامة خاطئةC](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-03-13?n=11).
+* [مفاهيم عامة خاطئة](https://nextstrain.org/narratives/ncov/sit-rep/ar/2020-03-13?n=11).
 
 #### مصادر خارجية
 * [كيف تظهروتنتشر طفرات فيروسات كورونا (صحيفة نيويورك تايمز)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
