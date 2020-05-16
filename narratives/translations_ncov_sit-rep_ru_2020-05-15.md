@@ -136,16 +136,16 @@ SARS-CoV-2, вирус вызывающий болезнь COVID-19, относ�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [The evolutionary rate of SARS-CoV-2 is typical for a coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
+# [Скорость эволюции SARS-CoV-2 является типичной для коронавируса](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
 
-Because viral genomes inevitably change, these differences tend to accumulate at a steady rate over time.
+Поскольку вирусные геномы неминуемо подвержены изменениям, эти различия накапливаются со временем со стабильной частотой.
 <br><br>
-Here, the x axis shows the date that each sample was collected. The y axis shows the *total number* of mutations each strain is away from the root of the tree. Each sample is colored by the date it was collected.
+Здесь на оси X показана дата сбора каждого образца. На оси Y показано *общее количество* мутаций которые отделяют каждый штамм от корня дерева. Каждый образец раскрашен в соответсвии с датой когда он был собран. 
 <br><br>
-While there are certainly some outliers, on average, we see changes accumulate at a rate of ~24 substitutions per year. This means that if a single viral lineage were transmitting from one person to the next for a full year, we'd expect its entire genome to accumulate roughly 24 substitutions by the end of the year.
-As the whole SARS-CoV-2 genome is ~30,000 bases, this corresponds to roughly ~1 mutation per 1,000 bases in a year.
+Несмотря на то, что определенно существуют некоторые исключения, в среднем, изменения аккумулируются с частотой ~24 замены в год. Это значит, что если единичная вирусная линия передавалась от человека к человеку в течении целого года, то мы будем ожидать, что весь ее геном аккумулирует приблизительно 24 замен к концу года. 
+Поскольку целый геном SARS-CoV-2 содержит ~30,000 основания, это соответствует приблизительно ~1-ой мутации на 1,000 оснований в год.
 <br><br>
-For context, influenza would average ~2 mutations per 1,000 bases per year; HIV would average ~4 mutations per 1,000 bases per year.
+Для сравнения, вирус гриппа в среднем аккумулирует ~2 мутации на 1,000 оснований в год; ВИЧ аккумулирует ~4 мутации на 1,000 оснований в год.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
