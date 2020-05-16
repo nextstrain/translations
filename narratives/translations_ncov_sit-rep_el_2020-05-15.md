@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19. Situation report 2020-05-15.
+title: Γονιδιωματική ανάλυση της εξάπλωσης του COVID-19. Αναφορά κατάστασης 15/05/2020.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -18,12 +18,16 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Sofia Paraskevopoulou
+  - Sotiris Salloumis
 translatorLinks:
+  - https://github.com/akifoss
+  - https://github.com/codergr
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "Nextstrain Situation Reports use publicly shared genomic data to track the spread and evolution of SARS-CoV-2. This week, we give an overview of viral mutations and what they mean (and don't mean) for the COVID-19 pandemic."
+abstract: "Οι αναφορές κατάστασης του Nextstrain χρησιμοποιούν δεδομένα που είναι δημοσίως διαθέσιμα για την ιχνηλάτηση της εξάπλωσης και της εξέλιξης του SARS-CoV-2. Αυτή την εβοδμάδα παραθέτουμε μια γενική εικόνα των ιικών μεταλλάξεων και της σημασίας τους (ή μη) σχετικά με την πανδημία COVID-19."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,188 +35,183 @@ abstract: "Nextstrain Situation Reports use publicly shared genomic data to trac
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Executive summary](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Περίληψη](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
 
-We analyzed 5,193 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is evolving and moving around the world. This week, we focus on viral mutations. We cover:
+Έχουμε αναλύσει 5.193 δημοσίως διαθέσιμα γονιδιώματα COVID-19. Συγκρίνοντας αυτά τα ιικά γονιδιώματα μεταξύ τους μπορούμε να κατανοήσουμε πώς ο COVID-19 μετακινείται στην υφήλιο. Αυτή την εβδομάδα εστιάζουμε στις ιικές μεταλλάξεις. Καλύπτουμε:
 <br><br>
-* Where viral mutations come from (they're normal)  
-* The rate of mutation in SARS-CoV-2 (very typical)
-* How many strains of SARS-CoV-2 are circulating (as far as we know: 1)  
-* How geography and epidemiology contribute to perceived differences in viral genotypes (this is tricky)
+* Από πού προέρχονται οι ιικές μεταλλάξεις (είναι φυσιολογικές) 
+* Το ρυθμό μετάλλαξης του SARS-CoV-2 (πολύ κοινός)
+* Πόσα στελέχη του SARS-CoV-2 βρίσκονται σε εξάπλωση (απ'όσο γνωρίζουμε είναι ένα)
+* Πώς η γεωγραφία και η επιδημιολογία συνεισφέρουν στις διαφορές που παρατηρούμε στους ιικούς γονότυπους (αυτό είναι περίπλοκο)
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
+# [Πηγές COVID-19](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/).
-* [Explanatory Twitter threads](https://bedford.io/misc/twitter/).
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+#### Πηγές Nextstrain
+* [ΞΕΚΙΝΗΣΤΕ ΕΔΩ: Πώς να ερμηνεύσετε ένα φυλογενετικό δέντρο](https://nextstrain.org/narratives/trees-background/el).
+* [Προηγούμενες αναφορές κατάστασης](https://nextstrain.org/ncov-sit-reps/).
+* [Επεξηγηματικά Twitter threads](https://bedford.io/misc/twitter/).
+* [Βασικές γνώσεις σχετικά με τους κορωνοϊούς](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Συχνές παρερμηνείες](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources
-* [How coronavirus mutations and spreads (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+#### Εξωτερικοί σύνδεσμοι
+* [Πώς μεταλλάσεται και διασπείρεται ο κορωνοϊός (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [Ρωτήστε έναν επιστήμονα & Συχνές ερωτήσεις](https://covid19.fas.org/l/en).
+* [Αναφορές κατάστασης του ΠΟΥ](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Πηγές CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
 # Situation Report Hiatus
+# Χάσμα στις αναφορές κατάστασης
 <p>
-Early in the pandemic, it was unclear how SARS-CoV-2 was moving between countries, where it was circulating locally, and how localized outbreaks were related.
-Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
+Από της αρχή της πανδημίας δεν ήταν ξεκάθαρο το πώς ο SARS-CoV-2 μετακινούνταν μεταξύ των χωρών, σε ποια μέρη κυκλοφορούσε τοπικά και πώς οι τοπικές επιδημίες σχετίζονταν μεταξύ τους.
+Τους τελευταίους τέσσερις μήνες ασχοληθήκαμε με αυτές τις ερωτήσεις - κι ακόμα περισσότερες - στις εβδομαδιαίες αναφορές κατάστασης. Σε αυτό το στάδιο της πανδημίας είναι ξεκάθαρο ότι κάποια μοτίβα διασποράς είναι ίδια μεταξύ περιοχών και χωρών:
 </p>
 <p/>
 
-- Outbreaks across even distant parts of the world are deeply intertwined.<p/>
-
-- Through human migration and travel, the virus has been introduced to most communities multiple times.<p/>  
-
-- Once these "sparks" land in a new community, many fizzle out without causing widespread transmission. Subject to local conditions and a bit of chance, some of these sparks grow into local outbreaks.<p/>  
-
-- Eventually, these local outbreaks send off sparks of their own, spreading to new locations.  
+- Επιδημίες μεταξύ ακόμα και απομακρυσμένων περιοχών του κόσμου είναι βαθιά συνυφασμένες.<p/>
+- Μέσω ανθρώπινης μεταφοράς και ταξιδίων, ο ιός έχει εισαχθεί στις περισσότερες κοινότητες πολλαπλές φορές.<p/>
+- Από τη στιγμή που αυτές οι "σπίθες" εισέρχονται σε μια νέα κοινότητα, πολλές από αυτές κατευνάζονται χωρίς να προκαλέσουν εκτεταμένη διασπορά. Κάποιες από αυτές ωστόσο, λόγω των υποκείμενων τοπικών συνθηκών και της τυχαιότητας, μεγαλώνουν και έχουν ως αποτέλεσμα τοπικές επιδημίες.<p/>
+- Τελικά, αυτές οι τοπικές επιδημίες μετατρέπονται οι ίδιες σε πηγές τέτοιων σπιθών και διασπείρουν τον ιό σε νέες τοποθεσίες.
 <p/>
 
-Unsurprisingly, we see this pattern in countries experiencing their first wave of infections. More alarmingly, we also see this pattern after re-introductions of the virus to countries where the initial peak passed months beforehand.
-Ultimately, this pattern is only broken when a country is able to effectively test, trace, and isolate cases immediately.
+Δε μας εκπλήσσει το γεγονός ότι παρατηρούμε το μοτίβο αυτό σε χώρες που αντιμετωπίζουν το πρώτο κύμα μολύνσεων. Το πιο ανησυχητικό είναι ότι βλέπουμε αυτό το μοτίβο ακόμα και μετά από επανεισαγωγές του ιού σε χώρες που το αρχικό τους κύμα είχε περάσει μήνες πριν.
+Τελικά, αυτό το μοτίβο ανατρέπεται μόνο όταν μια χώρα είναι σε θέση να πραγματοποιήσει εκτεταμένους ελέγχους (test), να ιχνηλατίσει (trace) και να απομονώσει (isolate) άμεσα τα αντίστοιχα κρούσματα.
 <br><br>
 
-This means that outbreaks across the world are deeply connected, and the battle against COVID-19 will always be global -- we can't conquer the virus anywhere without addressing it everywhere.
+Αυτό σημάινει πως οι επιδημίες σε όλα τα μέρη του κόσμου είναι βαθιά συνδεδεμένες και η μάχη κατά του COVID-19 θα είναι πάντα παγκόσμια -- δεν μπορούμε να νικήσουμε τον ιό πουθενά χωρίς να τον έχουμε χειριστεί παντού.
 <br><br>
 
-At this stage of the pandemic, genomic epidemiology is most urgently needed within local and hyperlocal communities through local public health offices.
+Σε αυτό το στάδιο της πανδημίας, η γονιδιωματική επιδημιολογία είναι κατεπειγόντως απαραίτητη σε τοπικές αλλά και ευρύτερες κοινότητες μέσω των αντίστοιχων γραφείων δημόσιας υγείας.
 <br><br>
 
-As such, this will be our last weekly Situation Report for a while, though we aim to support similar reports from local public health officials.
+Έτσι, αυτή θα είναι η τελευταία μας αναφορά κατάστασης για ένα διάστημα, αν και ο στόχος μας είναι να υποστηρίξουμε αντίστοιχες αναφορές από τοπικά γραφεία δημόσιας υγείας.
 <br><br>
 
-We will, of course, continue daily updates to the global & regional builds as new sequences are made available.
-When the big-picture data says something new, we'll also issue additional Situation Reports.
-All of these updates will be posted to the [Nextstrain twitter account](https://twitter.com/nextstrain) (as always).  
+Βεβαίως θα συνεχίσουμε να παρέχουμε καθημερινές ενημερώσεις σε παγκόσμια και τοπικά επίπεδα καθώς νέες αλληλουχίες διατίθενται συνεχώς.
+Όταν η ευρύτερη εικόνα των δεδομένων καταδεικνύει κάτι καινούριο, θα εκδίδουμε επιπρόσθετες αναφορές κατάστασης.
+Όλες οι ενημερώσεις θα δημοσιεύονται στο [λογαριασμό twitter του Nextstrain](https://twitter.com/nextstrain) (όπως πάντα).
 <br><br>
 
-You can also find <a href="https://nextstrain.org/ncov-sit-reps/">all of our previous Situation Reports here</a>.
+Μπορείτε επίσης να βρείτε εδώ <a href="https://nextstrain.org/ncov-sit-reps/"> όλες τις προηγούμενες αναφορές κατάστασης</a>.
 
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Changes in viral genomes over time are normal](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
+# [Αλλαγές στα ιικά γονιδιώματα μέσα στο χρόνο είναι φυσιολογικέςChanges in viral genomes over time are normal](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-SARS-CoV-2, the virus that causes the disease COVID-19, is a [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
+Ο SARS-CoV-2, ο ιός που προκαλεί την ασθένεια COVID-19, είναι ένας [κορωνοϊός](https://nextstrain.org/help/coronavirus/human-CoV).Όπως και οι υπόλοιποι κορωνοϊοί, ο SARS-CoV-2 έχει ένα γονιδίωμα κωδικοποιημένο σε RNA (αντί σε DNA).
 <br><br>
-Viruses infect cells because they need to borrow cellular machinery to replicate. For RNA viruses, this process is quite error-prone, as most RNA polymerases (the molecular machines that make copies of RNA) aren't able to proofread and correct their work. This leads to frequent mutations in the viral genome; these are normal and expected.
+Οι ιοί μολύνουν κύτταρα επειδή χρειάζεται να δανειστούν κυτταρικούς μηχανισμούς για την αντιγραφή τους. Για τους RNA ιούς, αυτή η διαδικασία ενέχει αρκετά λάθη, καθώς οι περισσότερες ιικές RNA πολυμεράσες (οι μοριακές μηχανές που αντιγράφουν το RNA) δεν είναι ικανές να επανεξετάσουν και να διορθώσουν τη δουλειά τους. Αυτό οδηγεί σε συχνές μεταλλάξεις στο ιικό γονιδίωμα, οι οποίες είναι φυσιολογικές και αναμενόμενες.
 <br><br>
-Importantly, the vast majority of these mutations either "break" the virus such that it can't transmit and/or replicate anymore, or don't change the virus at all because of [redundant encoding](https://en.wikipedia.org/wiki/Synonymous_substitution).
-This means that the mutations don't change the proteins, and therefore function, of the virus in any way.
-Other changes may modify a protein of the virus very slightly, but not impact the function at all.
-Rarely, a change in the genetic code of a virus can help it to replicate and/or transmit better, but nearly all of these changes still have only a tiny effect.
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text -->
-# [Variation in viruses' genetic code is useful for tracing outbreaks](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
-
-These differences in the genomes between viruses can be used as "bread crumbs" to trace the history of a given sample.
-Just as the people in your family share unique combinations of genetic characteristics, closely related viral samples share unique combinations of genetic mutations.
-<br><br>
-For example, here we show the viral "family tree" with each sample colored by which amino acid is present at a specific location in the viral genome (gene "ORF1a", site 57).
-<br><br>
-Highlighting samples from New York, we see that most of the cases from New York and Europe have the amino acid Histidine ("H") rather than Glutamine ("Q") at this position. This, in combination with all the other sites in the genome, tells us that these cases are all closely related to each other.
-<br><br>
-You can also see the position in gene "ORF3a" highlighted on the chart at the bottom of the left.
-<br><br>
-For a more in-depth explanation of these concepts, we recommend [this visual explanation](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
-
+Είναι σημαντικό να τονίσουμε ότι η μεγάλη πλειοψηφία των μεταλλάξεων αυτών "σπάει" τον ιό ώστε να μην μπορεί να διασπαρεί ή να αντιγραφεί πια, ή δεν αλλάζουν καθόλου τον ιό λόγω [πλεονάζουσας κωδικοποίησης](https://en.wikipedia.org/wiki/Synonymous_substitution).
+Αυτό σημαίνει ότι αυτές οι μεταλλάξεις δεν αλλάζουν τις πρωτεΐνες, άρα και τη λειτουργία, του ιού με κανέναν τρόπο. 
+Άλλες αλλαγές μπορεί να τροποποιήσουν ελαφρώς μια πρωτεΐνη του ιού, αλλά χωρίς να έχουν κανέναν αντίκτυπο στη λειτουργία.
+Σπανίως, μια αλλαγή στο γενετικό κώδικα ενός ιού μπορεί να τον βοηθήσει να αντιγράφεται ή/και να διασπείρεται πιο αποτελεσματικά, αλλά σχεδόν όλες αυτές οι αλλαγές έχουν μόνο μικρή επίδραση.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [The evolutionary rate of SARS-CoV-2 is typical for a coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
+# [Η ποικιλομορφία στο γενετικό κώδικα των ιών είναι χρίσιμη για την ιχνηλάτιση επιδημιώνVariation in viruses' genetic code is useful for tracing outbreaks](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
 
-Because viral genomes inevitably change, these differences tend to accumulate at a steady rate over time.
+Οι διαφορές αυτές στα γονιδιώματα των ιών μπορούν να χρησιμοποιηθούν σαν "ψίχουλα ψωμιού" στην ιχνηλάτηση της ιστορίας ενός δείγματος.
+Όπως μοιράζεστε μοναδικούς συνδυασμούς γενετικών χαρακτηριστικών με τα μέλη της οικογένειάς σας, έτσι και τα στενά συνδεδεμένα ιικά γονιδιώματα μοιράζονται μοναδικούς συνδυασμούς γενετικών μεταλλάξεων.
 <br><br>
-Here, the x axis shows the date that each sample was collected. The y axis shows the *total number* of mutations each strain is away from the root of the tree. Each sample is colored by the date it was collected.
+Για παράδειγμα, εδώ βλέπετε το ιικό γενεαλογικό δέντρο με κάθε ένα δείγμα χρωματισμένο ανάλογα με το αμινοξύ σε μια συγκεκριμένη θέση στο ιικό γονιδίωμα (γονίδιο "ORF1a", θέση 57).
 <br><br>
-While there are certainly some outliers, on average, we see changes accumulate at a rate of ~24 substitutions per year. This means that if a single viral lineage were transmitting from one person to the next for a full year, we'd expect its entire genome to accumulate roughly 24 substitutions by the end of the year.
-As the whole SARS-CoV-2 genome is ~30,000 bases, this corresponds to roughly ~1 mutation per 1,000 bases in a year.
+Με επισήμανση των δειγμάτων από τη Νέα Υόρκη, βλέπουμε ότι τα περισσότερα κρούσματα της Νέας Υόρκης και της Ευρώπης έχουν το αμινοξύ Ιστιδίνη ("Η") παρά τη Γλουταμίνη ("Q") σε αυτή τη θέση. Το γεγονός αυτό, σε συνδυασμό με όλες τις υπόλοιπες θέσεις του γονιδιώματος, μας λέει πως τα κρούσματα αυτά είναι στενά συνδεδεμένα μεταξύ τους.
 <br><br>
-For context, influenza would average ~2 mutations per 1,000 bases per year; HIV would average ~4 mutations per 1,000 bases per year.
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text -->
-# [As far as we know, there is only 1 strain of SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
-
-There have been many reports about multiple "strains" of SARS-CoV-2.
-First, a clarification: when virologists use the word "strain," it's often just as a useful label so we can all refer to the same group of samples (e.g., our clade labels, shown here). This does *not* imply any known functional difference.
+Μπορείτε επίσης να δείτε τη θέση το γονίδιο "ORF3a" που έχουμε επισημάνει στο διάγραμμα κάτω αριστερά.
 <br><br>
-Separately, "strain" can be used to refer to viral genotypes that are functionally distinct, either biologically (e.g., pathogenicity/disease severity) and/or epidemiologically (e.g., transmissibility).
-Importantly, though, determining whether two genotypes actually *are* functionally distinct requires much more experimental, clinical and epidemiological data than we currently have.
-<br><br>
-One of the most prominent hypotheses about SARS-CoV-2 strains compares possible "D614" vs "G614" strains.
+Για μια πιο λεπτομερή εξήγηση όλων αυτών των εννοιών, σας προτείνουμε [αυτή την οπτική επεξήγηση](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) από τους Jonathan Corum και Carl Zimmer.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [D614G may be related to transmissibility, but could also be explained by geography](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [Ο εξελικτικός ρυθμός του SARS-CoV-2 είναι τυπικός για έναν κορωνοϊό The evolutionary rate of SARS-CoV-2 is typical for a coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
 
-[A recent pre-print](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) suggests that a single mutation, D614G (from amino acid "D" to "G" at site 614 in the "S" ('spike') protein), may be responsible for increasing the transmissibility of SARS-CoV-2.
+Επειδή τα ιικά γονιδιώματα αλλάζουν αναπόφευκτα, αυτές οι διαφορές έχουν την τάση να συσσωρεύονται με ένα σταθερό ρυθμό μέσα στο χρόνο.
 <br><br>
-In many geographic areas, the relative frequency of 614D compared to 614G increased over time.
-If a certain genotype leads to better transmissibility, we would expect it's frequency to increase over time.
-There are, however, other explanations to why the relative frequency of some genotypes would increase over time.
+Εδώ, ο άξονας χ δείχνει την ημερομηνία που λήφθηκε καθένα δείγμα. Ο άξονας ψ δείχνει το *συνολικό αριθμό* μεταλλάξεων που κάθε 
+εχος βρίσκεται μακριά από τη ρίζα του δέντρου. Κάθε δείγμα είναι χρωματισμένο ανάλογα με την ημερομηνία λήψης του.
 <br><br>
-For this site, we see a number of geographic locations where initially, most viral lineages in circulation had the D allele; later, this balance flips such that most lineages have the G allele.
-This *could* be a hallmark of G being slightly "fitter" than D (e.g., if viruses with the G mutation had a slightly higher R0 through increased transmissibility).
+Ενώ υπάρχουν κάποιες ακραίες περιπτώσεις, κατά μέσο όρο βλέπουμε ότι οι αλλαγές συσσωρεύονται με ένα ρυθμό της τάξης των ~24 αντικαταστάσεων ανά χρόνο. Αυτό σημαίνει ότι αν μια μοναδική ιική γενεαλογία διασπείρονταν από έναν άνθρωπο στον επόμενο για διάστημα ενός χρόνου, θα περιμέναμε να δούμε περίπου 23 αντικαταστάσεις σε ολόκληρο το γονιδίωμα μέχρι τα τέλη του χρόνου.
+Καθώς ολόκληρο το ιικό γονιδίωμα του SARS-CoV-2 είναι ~30.000 βάσεις, το παραπάνω αντιστοιχεί χονδρικά σε ~1 μετάλλαξη ανά 1.000 βάσεις το χρόνο.
 <br><br>
-However, this could also just be a side effect of the natural history of the pandemic.
-Early on in the pandemic, most strains exported from China had a D allele. Later, most strains from Italy had a G allele. Recently, we've seen more exportation from Europe than from Asia overall (although there's certainly some sampling bias at play here, as well).
-Thus, it could just be that this particular genotype got lucky, and spread so rapidly because it got there first.
+Τοποθετώντας το σε ένα γενικό πλαίσιο, κατά μέσο όρο ο ιός της γρίπης υπολογίζεται ότι έχει ~2 μεταλλάξεις ανά 1.000 βάσεις το χρόνο και ο ιός του AIDS (ΗΙV) ~4 μεταλλάξεις ανά 1.000 βάσεις το χρόνο. 
+
+<!-- ############ SLIDE BREAK ############# -->
+<!-- This is left-side text -->
+# [Απ'όσο γνωρίζουμε υπάρχει μόνο 1 στέλεχος SARS-CoV-2 As far as we know, there is only 1 strain of SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
+
+Κυκλοφόρησαν διάφορες αναφορές σχετικά με πολλαπλά "στελέχη" του SARS-CoV-2.
+Να κάνουμε εδώ μια διευκρίνιση: όταν οι ιολόγοι χρησιμοποιούν τον όρο "στέλεχος", αυτός είναι συχνά απλά μια χρίσημη ετικέτα ώστε να μπορούμε όλοι να αναφερόμαστε στην ίδια ομάδα δειγμάτων (π.χ. οι ετικέτες που έχουμε στα κλαδιά όπως φαίνεται εδώ). Αυτό *δεν* συνεπάγεται ότι έχουν λειτουργική διαφοροποίηση.
 <br><br>
-There's a fair amount of debate regarding the relative merits of these two hypotheses. It'll be important to carefully tease these apart, but we don't have scientific consensus on this issue yet. For a more detailed explanation, [see this thread](https://twitter.com/trvrb/status/1257825352660877313).
+Ξεχωριστά, ο όρος "στέλεχος" μπορεί να χρησιμοποιηθεί ως αναφορά σε ιικούς γονότυπους που είναι λειτουργικά διακριτοί, είτε βιολογικά (π.χ. παθογένεια/σοβαρότητα της ασθένειας) ή/και επιδημιολογικά (π.χ. μεταδοτικότητα).
+Ωστόσο, είναι σημαντικό να αναφέρουμε πως ο προσδιορισμός δύο γονότυπων που *είναι* λειτουργικά διακριτοί απαιτεί πολύ περισσότερη πειραματικά, κλινικά και επιδημιολογικά δεδομένα από όσα έχουμε αυτή τη στιγμή.
+<br><br>
+Μια από τις πιο προεξέχουσες υποθέσεις σχετικά με τα στελέχη του SARS-CoV-2 συγκρίνει τα πιθανά στελέχη "D614" και "G614".
+
+<!-- ############ SLIDE BREAK ############# -->
+<!-- This is left-side text -->
+# [Η μετάλλαξη D614G μπορεί να σχετίζεται με τη μεταδοτικότητα, αλλά μπορεί να εξηγηθεί επίσης από τη γεωγραφία D614G may be related to transmissibility, but could also be explained by geography](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+
+[Μια πρόσφατη μελέτη](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) προτείνει ότι μια μοναδική μετάλλαξη, η D614G (από την αλλαγή αμινοξέος "D" σε "G" στη θέση 614 της "S" ('spike') πρωτεΐνης), είναι ενδεχομένως υπεύθυνη για την αύξηση της μεταδοτικότητας του SARS-CoV-2.
+<br><br>
+Σε πολλές γεωγραφικές περιοχές, η σχετική συχνότητα της 614D σε σχέση με την 614G αυξήθηκε μέσα στο χρόνο.
+Εάν ένας συγκεκριμένος γονότυπος οδηγεί σε καλύτερη μεταδοτικότητα, θα αναμένουμε πως η συχνότητά του θα αυξηθεί μέσα στο χρόνο.
+Υπάρχουν, ωστόσο, άλλες εξηγήσεις σχετικά με το γιατί η σχετική συχνότητα ορισμένων γονότυπων μπορεί να αυξηθεί μέσα στο χρόνο.
+<br><br>
+Σε αυτή τη θέση βλέπουμε έναν αριθμό γεωγραφικών περιοχών που αρχικά οι περισσότερες ιικές γενεαλογίες που βρίσκονταν σε κυκλοφορία είχαν το αλληλόμορφο D. Στη συνέχεια, αυτή η ισορροπία ανατράπηκε έτσι που οι περισσότερες γενεαλογίες είχαν το αλληλόμορφο G.
+Αυτό θα *μπορούσε* να είναι ένα σημάδι ότι ο γονότυπος G είναι ελάχιστα "καλύτερος" σε σχέση με τον D (π.χ. εάν οι ιοί με τη μετάλλαξη G είχαν ελάχιστα υψηλότερο R0 μέσω αυξημένης μεταδοτικότητας).
+<br><br>
+Ωστόσο, αυτό θα μπορούσε να είναι απλά μια παρενέργεια της φυσικής ιστορίας της πανδημίας.
+Από την αρχή της πανδημίας, τα περισσότερα στελέχη που εξήχθησαν από την Κίνα είχαν το αλληλόμορφο D. Αργότερα, τα περισσότερα στελέχη από την Ιταλία είχαν το αλληλόμορφο G. Πρόσφατα παρατηρήσαμε συνολικά μεγαλύτερη εξαγωγή του ιού από την Ευρώπη παρά από την Ασία (ωστόσο εδώ σίγουρα υπάρχει επίσης κάποια μεροληψία ως προς τη δειγματοληψία).
+Έτσι, θα μπορούσε απλά να ισχύει ότι αυτός ο συγκεκριμένος γονότυπος απλά στάθηκε τυχερός και μεταδόθηκε τόσο γρήγορα επειδή βρέθηκε πρώτος εκεί.
+<br><br>
+Γίνεται μεγάλη κουβέντα δημοσίως σε σχέση με τα σχετικά πλεονεκτήματα αυτών των δύο υποθέσεων. Θα είναι σημαντικό να ξεχωρίσουμε προσεκτικά αυτές τις υποθέσεις μεταξύ τους, αλλά δεν έχουμε ακόμα επιστημονική ομοφωνία στο ζήτημα αυτό. Για μια πιο λεπτομερή εξήγηση, [δείτε αυτό το thread](https://twitter.com/trvrb/status/1257825352660877313).
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Τί μπορείτε να κάνετε](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+#### ...ο καθένας ξεχωριστά
+* Τηρείτε τα μέτρα κοινωνικής απόστασης, ειδικά εάν ανήκετε σε ευπαθή ομάδα.
+* Να θυμάστε πως ακόμα κι αν εσείς δεν ανήκετε σε ευπαθή ομάδα, πολλοί άνθρωποι γύρω σας ανήκουν σε κάποια ευπαθή ομάδα. Ακολουθήστε τις αντίστοιχες πρακτικές ώστε να τους προστατέψετε.
+* Πλένετε τα χέρια σας "σα να έχετε κόψει μια καυτερή πιπεριά και πρέπει να αλλάξετε φακούς επαφής".
+* Μείνετε στο σπίτι όσο γίνεται περισσότερο -- ειδικά εάν είστε άρρωστοι. Προμηθευτείτε επιπλέον ποσότητες τροφίμων σε περίπτωση που χρειαστεί να μπείτε σε καραντίνα.
+* Εάν είστε εργοδότης, ενθαρρύνετε τους εργαζομένους σας να δουλεύουν από το σπίτι όσο αυτό είναι δυνατό.
 
-#### ...as an official
-* Make testing free and broadly available.
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing efforts.
-* Financially support those impacted by social distancing measures.
+#### ...η πολιτεία
+* Κάνετε εκτεταμένους και δωρεάν ελέγχους για τον εντοπισμό του ιού.
+* Εφαρμόστε ισχυρά μέτρα κοινωνικής απόστασης. 
+* Χρηματοδοτήστε και υλοποιήστε προσπάθειες ιχνηλάτησης.
+* Υποστηρίξτε οικονομικά αυτούς που πλήγονται από τα μέτρα αποκλεισμού.
 
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
-# Takeaways  
+# Συμπεράσματα  
 
-#### Viruses naturally acquire mutations as they replicate. This is normal. Mutations can also help us trace the course of epidemics.  
-
-#### SARS-CoV-2 mutation rate is very typical for coronaviruses.
-
-#### As far as we know, there is only 1 functional "strain" of SARS-CoV-2.  
-
-#### Teasing apart the biological impact of specific mutations is tricky -- many perceived differences can be attributed to chance and epidemiological factors.  
+#### Οι ιοί αποκτούν φυσικά μεταλλάξεις κατά την αντιγραφή τους. Αυτό είναι φυσιολογικό. Οι μεταλλάξεις μπορούν να μας βοηθήσουν να ιχνηλατίσουμε την πορεία των επιδημιών.
+#### Ο ρυθμός μετάλλαξης του SARS-CoV-2 είναι πολύ τυπικός για κορωνοϊούς.
+#### Απ'όσο γνωρίζουμε μέχρι τώρα, υπάρχει μόνο 1 λειτουργικό "στέλεχος" του ιού SARS-CoV-2. 
+#### Ο διαχωρισμός του βιολογικού αντίκτυπου συγκεκριμένων μεταλλάξεων είναι περίπλοκος -- πολλές διαφορές που αντιλαμβανόμαστε μπορούν να αποδοθούν στην τυχαιότητα και σε επιδημιολογικούς παράγοντες
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
+# [Επιστημονικές ευχαριστίες](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Θα θέλαμε να ευχαριστήσουμε την υπέροχη και συνεχή προσπάθεια όλων των επιστημόνων που έχουν εργαστεί σε αυτήν την πανδημία. 
+Μόνο μέσα από τον άμεσο διαμοιρασμό γονιδιακών δεδομένων και μεταδεδομένων είναι δυνατό να πραγματοποιηθούν αναλύσεις σαν κι αυτήν.
 <br><br>
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+**Σας ενθαρρύνουμε να κάνετε κλικ στο 'Explore the Data Yourself' (Εξερευνήστε τα δεδομένα μόνοι σας) και με κύληση προς τα κάτω να δείτε τη λίστα με όλους τους συγγραφείς. Ο συγγραφέας κάθε ξεχωριστής αλληλουχίας γίνεται ορατός αφότου επιλέξετε την αντίστοιχη αλληλουχία στο δέντρο.**
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Επίσης ευχαριστούμε θερμά την GISAID που παρέχει τη διαδικτυακή πλατφόρμα διαμοιρασμού των δεδομένων.
