@@ -62,41 +62,41 @@ abstract: " تستخدم نقارير الحالة من Nextstrain  البيان
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Situation Report Hiatus
+# توقف تقارير الحالة
 <p>
-Early in the pandemic, it was unclear how SARS-CoV-2 was moving between countries, where it was circulating locally, and how localized outbreaks were related.
-Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
+مع البدايات المبكرة للجائحة، لم يكن من الواضح كيف يتحرك أو يتنقل فيروس سارس-كو-في-2 بين الدول، وأين كان يدور محلياً، وكيف كانت ترتبط الانتشارات الوبائية المحلية. 
+قمنا خلال الاربعة أشهر الماضية بمعالجة هذه الاسئلة وغيرها من خلال تقارير الحالة الاسبوعية الخاصة بنا. في هذا المرحلة من الجائحة، من الواضح أن بعض أنماط الانتشار الواسع هي متوافقة بشكل كبير بين المناطق والدول. Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
 </p>
 <p/>
 
-- Outbreaks across even distant parts of the world are deeply intertwined.<p/>
+- الانتشارات الوبائية حتى بين الاجزاء البعيدة من العالم متداخلة بعمق.<p/>
 
-- Through human migration and travel, the virus has been introduced to most communities multiple times.<p/>  
+- من خلال السفر والهجرة البشرية، تم ادخال الفيروس الى معظم المجتمعات عدة مرات.<p/>  
 
-- Once these "sparks" land in a new community, many fizzle out without causing widespread transmission. Subject to local conditions and a bit of chance, some of these sparks grow into local outbreaks.<p/>  
+- بمجرد ان تهبط هذه الشرارات في مجتمع جديد، العدديد منها يتلاشى دون التسبب بانتشارات وبائية واسعة. اعتمادا على ظروف محلية وقليلاً من الحظ بعض هذه الشرارات نمت الى انتشارات وبائية محلية.<p/>  
 
-- Eventually, these local outbreaks send off sparks of their own, spreading to new locations.  
+- بالنهاية، ارسلت هذا الانتشارات الوبائية المحلية شراراتها لتنتشر في مواقع جديدة.  
 <p/>
 
-Unsurprisingly, we see this pattern in countries experiencing their first wave of infections. More alarmingly, we also see this pattern after re-introductions of the virus to countries where the initial peak passed months beforehand.
-Ultimately, this pattern is only broken when a country is able to effectively test, trace, and isolate cases immediately.
+من غير المفاجي أن نرى هذا النمط في الدول التي اختبرت الموجة الاولى من العدوى. وما يدق ناقوس الخطر،  هو اننا نرى ايضاً هذا النمط بعد اعادات ادخال للفيروس الى دول تجاوزت قمة منحنى العدوى الاولى قبل اشهر من ذلك. 
+في النتيجة، هذا النمط با يمكن كسره فقط الا من خلال لأأن تكون الدولة قادرة على كفاء الفحص، لبتتبع، والعزل الفوري للحالات. 
 <br><br>
 
-This means that outbreaks across the world are deeply connected, and the battle against COVID-19 will always be global -- we can't conquer the virus anywhere without addressing it everywhere.
+هذا يعني أن الانتشارات الوبائية في العالم مترابطة بعمق، وأن المعركة ضد كوفيد-19 هي دائما معركة عالمية--وهذا يعني أنه لا يمكننا محاصرة الفيروس في أي مكان بدون متابعته في كل مكان.
 <br><br>
 
-At this stage of the pandemic, genomic epidemiology is most urgently needed within local and hyperlocal communities through local public health offices.
+في هذه المرحلة من الجائحة، علم الاوبئة الجينومي هو الاكثر حاجة ملحة في المجتمعات المحلية وما فوقها من خلال مكاتب الصحة العامة المحلية
 <br><br>
 
-As such, this will be our last weekly Situation Report for a while, though we aim to support similar reports from local public health officials.
+وعلى هذا الاساس، سيكون هذا هو تقريرنا الاخير لفترة من الوقت، على الرغم بأننا نهدف لدعم تقارير مشابهة من مختصي الصحة العامة 
 <br><br>
 
-We will, of course, continue daily updates to the global & regional builds as new sequences are made available.
-When the big-picture data says something new, we'll also issue additional Situation Reports.
-All of these updates will be posted to the [Nextstrain twitter account](https://twitter.com/nextstrain) (as always).  
+وبالطبع سنستمر بالتحديث اليومي للبناءات (اشجار التصنيف الجيني) المحلية والعالمية مع توفر تسلسلات جينومية جديدة.
+في حال أن صورة البيانات الكبيرة أوحت بشيء جديد فسنقوم باصدار تقارير حالة اضافية. 
+كل تلك التقارير سيتم نشرها على  [موقع Nextstrain  على تويتر](https://twitter.com/nextstrain) (as always).  
 <br><br>
 
-You can also find <a href="https://nextstrain.org/ncov-sit-reps/">all of our previous Situation Reports here</a>.
+يمكنك أيضاً أن تجد <a href="https://nextstrain.org/ncov-sit-reps/"> كل تقارير الحالى السابقة هنا</a>.
 
 ```
 
