@@ -27,7 +27,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "Raporty Nextsrain wykorzystują publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się i ewolucji SARS-CoV-2. W tym tygodniu dokonujemy przeglądu mutacji wirusa i tłumaczymy co one oznaczają (a co nie) dla pandemii COVID-19."
+abstract: "Raporty Nextstrain wykorzystują publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się i ewolucji SARS-CoV-2. W tym tygodniu dokonujemy przeglądu mutacji wirusa i tłumaczymy co one oznaczają (a co nie) dla pandemii COVID-19."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -39,7 +39,7 @@ abstract: "Raporty Nextsrain wykorzystują publicznie dostępne dane genomowe w 
 
 Przeanalizowaliśmy 5,193</tag> publicznie dostępnych genomów SARS-CoV-2. Porównując je, potrafimy ocenić, w jaki sposób wirus COVID-19 ewoluuje i rozprzestrzenia się po świecie. W tym tygodniu koncentrujemy się na mutacjach wirusa. Opisujemy:
 <br><br>
-* Jak pojawiają się mutacje wirusowe (w sposób naturalny)
+* Jak pojawiają się mutacje wirusowe (jest to normalne)
 * Tempo mutacji u SARS-CoV-2 (bardzo typowe)
 * Ile szczepów SARS-CoV-2 krąży po świecie (na ile nam wiadomo: 1)
 * Jak geografia i epidemiologia przyczyniają się do odbieranych różnic w genotypach wirusa (to jest trudne)
@@ -142,22 +142,44 @@ You can also find <a href="https://nextstrain.org/ncov-sit-reps/">all of our pre
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Changes in viral genomes over time are normal](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
+# [Zmiany w genomie wirusa w czasie są normalne](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-SARS-CoV-2, the virus that causes the disease COVID-19, is a [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
+SARS-CoV-2, wirus który wywołuje COVID-19, jest [koronawirusem](https://nextstrain.org/help/coronavirus/human-CoV). Jak inne koronawirusy, SARS-CoV-2 ma genom zakodowany w RNA (a nie DNA).
+<br><br>
+Wirusy infekują komórki, ponieważ muszą pożyczyć maszynerii komórkowej aby się zreplikować. U wirusów RNA, ten proces jest dość podatny na błędy, ponieważ większość polimeraz RNA (molekularne maszyny, które wykonują kopie RNA) nie są w stanie sprawdzić i poprawić tego co zrobiły. To prowadzi do częstych mutacji w genomie wirusa; są one całkowicie normalne i spodziewane.
+<br><br>
+Co ważne, znaczna większość tych mutacji albo "łamie" wirusa, tak że nie jest on w stanie przenieść się i/lub zreplikować, lub nie zmieniają wirusa w ogóle ze względu na [nadmiarowe kodowanie](https://en.wikipedia.org/wiki/Synonymous_substitution).
+<!-- może coś lepszego zamiast - nadmiarowe kodowanie?-->
+To oznacza, że mutacje nie zmieniają białek, a w związku z tym funkcji wirusa w żadnen sposób.
+Inne mutacje mogą modyfikować białko wirusa tylko w niewielkim stopniu, ale nie wpływają na funkcję w żaden sposób.
+Rzadko, zmiana w kodzie genetycznym wirusa może pomóc mu lepiej się replikować czy infekować nowe komórki, ale niemal wszystkie takie zmiany mają jedynie niewielki efekt.
+
+<!-- SARS-CoV-2, the virus that causes the disease COVID-19, is a [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
 <br><br>
 Viruses infect cells because they need to borrow cellular machinery to replicate. For RNA viruses, this process is quite error-prone, as most RNA polymerases (the molecular machines that make copies of RNA) aren't able to proofread and correct their work. This leads to frequent mutations in the viral genome; these are normal and expected.
 <br><br>
 Importantly, the vast majority of these mutations either "break" the virus such that it can't transmit and/or replicate anymore, or don't change the virus at all because of [redundant encoding](https://en.wikipedia.org/wiki/Synonymous_substitution).
 This means that the mutations don't change the proteins, and therefore function, of the virus in any way.
 Other changes may modify a protein of the virus very slightly, but not impact the function at all.
-Rarely, a change in the genetic code of a virus can help it to replicate and/or transmit better, but nearly all of these changes still have only a tiny effect.
+Rarely, a change in the genetic code of a virus can help it to replicate and/or transmit better, but nearly all of these changes still have only a tiny effect.-->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Variation in viruses' genetic code is useful for tracing outbreaks](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
+# [Zmienność w kodzie genetycznym wirusa jest przydatne do śledzenia epidemii](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
 
-These differences in the genomes between viruses can be used as "bread crumbs" to trace the history of a given sample.
+Te zmiany w genomach pomiędzy wirusami mogą być użyte jako "okruchy chleba" aby sledzić historię danej próbki.
+Tak jak osoby w twojej rodzinie dzielą unikatowe kombinacje cech genetycznych, blisko spokrewnione próbki wirusa dzielą unikatowe kombinacje mutacji genetycznych.
+<br><br>
+Na przykład tutaj pokazujemy wirusowe "drzewo rodzinne" z każdą próbką pokolorowaną według aminokwasu obecnego w specyficznej lokalizacji na genomie wirusa (gene "ORF1a", pozycja 57).
+<br><br>
+Zaznaczając próbki z Nowego Jorku, widzimy, że wiekszość przypadków z Nowego Jorku i Europy ma aminokwas histydynę ("H"), a nie glutaminę ("Q") w tej pozycji. To, w powiązaniu z wszystkimi innymi pozycjami w genomie, mówi nam, że te wszystkie przypadki są blisko ze sobą spokrewnione.
+<br><br>
+Możesz również sprawdzić pozycję w genie "ORF3a" podkreśloną na wykresie na dole po lewej stronie.
+<br><br>
+Do bardziej szczegółowych wyjaśnień tych pojęć polecamy [to wizualne wytłumaczenie](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) autorstwa Jonathana Corum i Carla Zimmera.
+
+
+<!-- These differences in the genomes between viruses can be used as "bread crumbs" to trace the history of a given sample.
 Just as the people in your family share unique combinations of genetic characteristics, closely related viral samples share unique combinations of genetic mutations.
 <br><br>
 For example, here we show the viral "family tree" with each sample colored by which amino acid is present at a specific location in the viral genome (gene "ORF1a", site 57).
@@ -166,7 +188,7 @@ Highlighting samples from New York, we see that most of the cases from New York 
 <br><br>
 You can also see the position in gene "ORF3a" highlighted on the chart at the bottom of the left.
 <br><br>
-For a more in-depth explanation of these concepts, we recommend [this visual explanation](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
+For a more in-depth explanation of these concepts, we recommend [this visual explanation](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.-->
 
 
 <!-- ############ SLIDE BREAK ############# -->
