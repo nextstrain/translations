@@ -107,7 +107,7 @@ Você também pode encontrar <a href="https://nextstrain.org/ncov-sit-reps/">tod
 <!-- This is left-side text -->
 # [Mudanças no genoma viral ao longo do tempo são normais](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-SARS-CoV-2, the virus that causes the disease COVID-19, is a [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
+SARS-CoV-2, o vírus que causa a doença COVID-19, é um [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Como outros coronaviruses, SARS-CoV-2 possui o genoma codificado em RNA (ao invés de DNA).
 <br><br>
 Viruses infect cells because they need to borrow cellular machinery to replicate. For RNA viruses, this process is quite error-prone, as most RNA polymerases (the molecular machines that make copies of RNA) aren't able to proofread and correct their work. This leads to frequent mutations in the viral genome; these are normal and expected.
 <br><br>
