@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19. Situation report 2020-05-15.
+title: Análise genômica da COVID-19. Relatório da situação até 15-05-2020.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
