@@ -66,7 +66,6 @@ abstract: "Οι αναφορές κατάστασης του Nextstrain χρησ
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Situation Report Hiatus
 # Χάσμα στις αναφορές κατάστασης
 <p>
 Από της αρχή της πανδημίας δεν ήταν ξεκάθαρο το πώς ο SARS-CoV-2 μετακινούνταν μεταξύ των χωρών, σε ποια μέρη κυκλοφορούσε τοπικά και πώς οι τοπικές επιδημίες σχετίζονταν μεταξύ τους.
@@ -133,7 +132,7 @@ abstract: "Οι αναφορές κατάστασης του Nextstrain χρησ
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Ο εξελικτικός ρυθμός του SARS-CoV-2 είναι τυπικός για έναν κορωνοϊό The evolutionary rate of SARS-CoV-2 is typical for a coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
+# [Ο εξελικτικός ρυθμός του SARS-CoV-2 είναι τυπικός για έναν κορωνοϊό](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
 
 Επειδή τα ιικά γονιδιώματα αλλάζουν αναπόφευκτα, αυτές οι διαφορές έχουν την τάση να συσσωρεύονται με ένα σταθερό ρυθμό μέσα στο χρόνο.
 <br><br>
@@ -147,7 +146,7 @@ abstract: "Οι αναφορές κατάστασης του Nextstrain χρησ
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Απ'όσο γνωρίζουμε υπάρχει μόνο 1 στέλεχος SARS-CoV-2 As far as we know, there is only 1 strain of SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
+# [Απ'όσο γνωρίζουμε υπάρχει μόνο 1 στέλεχος SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
 
 Κυκλοφόρησαν διάφορες αναφορές σχετικά με πολλαπλά "στελέχη" του SARS-CoV-2.
 Να κάνουμε εδώ μια διευκρίνιση: όταν οι ιολόγοι χρησιμοποιούν τον όρο "στέλεχος", αυτός είναι συχνά απλά μια χρίσημη ετικέτα ώστε να μπορούμε όλοι να αναφερόμαστε στην ίδια ομάδα δειγμάτων (π.χ. οι ετικέτες που έχουμε στα κλαδιά όπως φαίνεται εδώ). Αυτό *δεν* συνεπάγεται ότι έχουν λειτουργική διαφοροποίηση.
@@ -159,7 +158,7 @@ abstract: "Οι αναφορές κατάστασης του Nextstrain χρησ
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Η μετάλλαξη D614G μπορεί να σχετίζεται με τη μεταδοτικότητα, αλλά μπορεί να εξηγηθεί επίσης από τη γεωγραφία D614G may be related to transmissibility, but could also be explained by geography](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [Η μετάλλαξη D614G μπορεί να σχετίζεται με τη μεταδοτικότητα, αλλά μπορεί να εξηγηθεί επίσης από τη γεωγραφία](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
 
 [Μια πρόσφατη μελέτη](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) προτείνει ότι μια μοναδική μετάλλαξη, η D614G (από την αλλαγή αμινοξέος "D" σε "G" στη θέση 614 της "S" ('spike') πρωτεΐνης), είναι ενδεχομένως υπεύθυνη για την αύξηση της μεταδοτικότητας του SARS-CoV-2.
 <br><br>
