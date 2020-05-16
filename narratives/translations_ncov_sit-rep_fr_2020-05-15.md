@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19. Situation report 2020-05-15.
+title: Analyse génomique de la propagation de COVID-19. Rapport de situation 2020-05-15.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -18,12 +18,18 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+    - Maxime Morin
+    - Meriem El Karoui
+    - Etienne Simon-Loriere
 translatorLinks:
+    - https://twitter.com/Maijin212
+    - https://twitter.com/MEKLab
+    - https://twitter.com/simonlorierelab
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "Nextstrain Situation Reports use publicly shared genomic data to track the spread and evolution of SARS-CoV-2. This week, we give an overview of viral mutations and what they mean (and don't mean) for the COVID-19 pandemic."
+abstract: "Ce rapport hebdomadaire utilise des données génomiques partagées publiquement pour suivre la propagation de COVID-19. Cette semaine, nous donnons un aperçu des mutations virales et de ce qu'elles signifient (et ne signifient pas) pour la pandémie de COVID-19."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,188 +37,182 @@ abstract: "Nextstrain Situation Reports use publicly shared genomic data to trac
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Executive summary](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Résumé exécutif](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
 
-We analyzed 5,193 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is evolving and moving around the world. This week, we focus on viral mutations. We cover:
+Nous avons analysé 5193 génomes de COVID-19 partagés publiquement. En comparant ces génomes viraux les uns aux autres, nous pouvons caractériser la façon dont COVID-19 se déplace dans le monde et se propage localement. Cette semaine, nous nous concentrons sur les mutations du virus et rapportons:
 <br><br>
-* Where viral mutations come from (they're normal)  
-* The rate of mutation in SARS-CoV-2 (very typical)
-* How many strains of SARS-CoV-2 are circulating (as far as we know: 1)  
-* How geography and epidemiology contribute to perceived differences in viral genotypes (this is tricky)
+* D'où viennent les mutations du virus (elles sont normales)
+* Le taux de mutation du SRAS-CoV-2 (très caractéristique)
+* Combien de souches de SRAS-CoV-2 circulent (pour autant que nous sachions : 1)
+* Comment la géographie et l'épidémiologie contribuent aux différences perçues dans les génotypes viraux (c'est délicat)
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
+# [Ressources sur COVID-19](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/).
-* [Explanatory Twitter threads](https://bedford.io/misc/twitter/).
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+#### Ressources Nextstrain
+* [COMMENCEZ ICI: Comment lire les phylogénies](https://nextstrain.org/narratives/trees-background/).
+* [Rapports de situation précédents](https://nextstrain.org/ncov-sit-reps/).
+* [Fils de discussion explicatif sur Twitter](https://bedford.io/misc/twitter/).
+* [Informations sur les coronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Idées Reçues](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources
-* [How coronavirus mutations and spreads (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+#### Ressources externes
+* [La couverture COVID-19 du New York Times](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [Demandez à un scientifique et FAQ](https://covid19.fas.org/l/en).
+* [Rapports de situation de l'OMS](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Ressources du CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Situation Report Hiatus
+# Pause dans la publication des rapports de situation 
 <p>
-Early in the pandemic, it was unclear how SARS-CoV-2 was moving between countries, where it was circulating locally, and how localized outbreaks were related.
-Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
+Au début de la pandémie, on ne savait pas très bien comment SARS-CoV-2 se déplaçait entre les pays, où il circulait localement et comment les épidémies localisées étaient liées.
+Au cours des quatre derniers mois, nous avons abordé ces questions - et bien d'autres - dans nos rapports de situation hebdomadaires. À ce stade de la pandémie, il est clair que certains schémas généraux sont largement reproduits dans toutes les régions et tous les pays :  
 </p>
 <p/>
 
-- Outbreaks across even distant parts of the world are deeply intertwined.<p/>
+- Les épidémies, même dans des régions éloignées du monde, sont profondément imbriquées les unes dans les autres.<p/>
 
-- Through human migration and travel, the virus has been introduced to most communities multiple times.<p/>  
+- Le virus a été introduit à plusieurs reprises dans la plupart des communautés par le biais des migrations humaines et des voyages.<p/>  
 
-- Once these "sparks" land in a new community, many fizzle out without causing widespread transmission. Subject to local conditions and a bit of chance, some of these sparks grow into local outbreaks.<p/>  
+- Une fois que ces "étincelles" ont atterri dans une nouvelle communauté, beaucoup s'éteignent sans provoquer de transmission à grande échelle. Les conditions locales et un peu de hasard font que certaines de ces étincelles se transforment en épidémies locales.  
 
-- Eventually, these local outbreaks send off sparks of their own, spreading to new locations.  
+- Ces épidémies locales finissent par produire leurs propres étincelles, qui se propagent à de nouveaux endroits.  
 <p/>
 
-Unsurprisingly, we see this pattern in countries experiencing their first wave of infections. More alarmingly, we also see this pattern after re-introductions of the virus to countries where the initial peak passed months beforehand.
-Ultimately, this pattern is only broken when a country is able to effectively test, trace, and isolate cases immediately.
+Il n'est pas surprenant que nous observions ce schéma dans les pays qui connaissent leur première vague d'infections. Plus alarmant encore, nous observons également ce schéma après les réintroductions du virus dans des pays où le pic initial était passé des mois auparavant.
+En fin de compte, ce schéma n'est rompu que lorsqu'un pays est en mesure de tester, de tracer et d'isoler les cas de manière efficace et immédiate.
 <br><br>
 
-This means that outbreaks across the world are deeply connected, and the battle against COVID-19 will always be global -- we can't conquer the virus anywhere without addressing it everywhere.
+Cela signifie que les épidémies dans le monde entier sont profondément connectées, et que la bataille contre COVID-19 sera toujours mondiale - nous ne pouvons pas conquérir le virus quelque part sans l'aborder partout.
+
+<br><br>
+Bien entendu, nous continuerons à mettre à jour quotidiennement les analyses mondiales et régionales au fur et à mesure que de nouvelles séquences seront disponibles.
+Lorsque les données disponibles apporteront de nouveaux éléments, nous publierons également des rapports de situation supplémentaires.
+Toutes ces mises à jour seront publiées sur le [compte twitter Nextstrain](https://twitter.com/nextstrain) (comme toujours). 
 <br><br>
 
-At this stage of the pandemic, genomic epidemiology is most urgently needed within local and hyperlocal communities through local public health offices.
-<br><br>
-
-As such, this will be our last weekly Situation Report for a while, though we aim to support similar reports from local public health officials.
-<br><br>
-
-We will, of course, continue daily updates to the global & regional builds as new sequences are made available.
-When the big-picture data says something new, we'll also issue additional Situation Reports.
-All of these updates will be posted to the [Nextstrain twitter account](https://twitter.com/nextstrain) (as always).  
-<br><br>
-
-You can also find <a href="https://nextstrain.org/ncov-sit-reps/">all of our previous Situation Reports here</a>.
+Vous pouvez également retrouver <a href="https://nextstrain.org/ncov-sit-reps/">tous nos précédents rapports de situation ici</a>.
 
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Changes in viral genomes over time are normal](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
+# [Les changements dans les génomes viraux au fil du temps sont normaux](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-SARS-CoV-2, the virus that causes the disease COVID-19, is a [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
+Le SARS-CoV-2, le virus qui provoque la maladie COVID-19, est un [coronavirus] (https://nextstrain.org/help/coronavirus/human-CoV). Comme les autres coronavirus, le SARS-CoV-2 a un génome à ARN (plutôt que à ADN).
 <br><br>
-Viruses infect cells because they need to borrow cellular machinery to replicate. For RNA viruses, this process is quite error-prone, as most RNA polymerases (the molecular machines that make copies of RNA) aren't able to proofread and correct their work. This leads to frequent mutations in the viral genome; these are normal and expected.
+Les virus infectent les cellules parce qu'ils ont besoin d'utiliser la machinerie cellulaire pour se répliquer. Pour les virus à ARN, ce processus est très sujet à l'erreur, car la plupart des polymérases à ARN (les machines moléculaires qui font des copies d'ARN) ne sont pas capables de relire et de corriger leur travail. Cela entraîne de fréquentes mutations du génome viral ; celles-ci sont normales et attendues.
 <br><br>
-Importantly, the vast majority of these mutations either "break" the virus such that it can't transmit and/or replicate anymore, or don't change the virus at all because of [redundant encoding](https://en.wikipedia.org/wiki/Synonymous_substitution).
-This means that the mutations don't change the proteins, and therefore function, of the virus in any way.
-Other changes may modify a protein of the virus very slightly, but not impact the function at all.
-Rarely, a change in the genetic code of a virus can help it to replicate and/or transmit better, but nearly all of these changes still have only a tiny effect.
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text -->
-# [Variation in viruses' genetic code is useful for tracing outbreaks](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
-
-These differences in the genomes between viruses can be used as "bread crumbs" to trace the history of a given sample.
-Just as the people in your family share unique combinations of genetic characteristics, closely related viral samples share unique combinations of genetic mutations.
-<br><br>
-For example, here we show the viral "family tree" with each sample colored by which amino acid is present at a specific location in the viral genome (gene "ORF3a", site 57).
-<br><br>
-Highlighting samples from New York, we see that most of the cases from New York and Europe have the amino acid Histidine ("H") rather than Glutamine ("Q") at this position. This, in combination with all the other sites in the genome, tells us that these cases are all closely related to each other.
-<br><br>
-You can also see the position in gene "ORF3a" highlighted on the chart at the bottom of the left.
-<br><br>
-For a more in-depth explanation of these concepts, we recommend [this visual explanation](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
-
+Il est important de noter que la grande majorité de ces mutations soit "cassent" le virus de sorte qu'il ne peut plus se transmettre et/ou se répliquer, soit ne le modifient pas du tout à cause d'un [codage redondant](https://en.wikipedia.org/wiki/Synonymous_substitution).
+Cela signifie que les mutations ne changent en rien les protéines, et donc la fonction, du virus.
+D'autres changements peuvent modifier très légèrement une protéine du virus, mais n'ont aucun impact sur la fonction.
+Rarement, une modification du code génétique d'un virus peut l'aider à mieux se répliquer et/ou à mieux transmettre, mais presque tous ces changements n'ont encore qu'un effet minime.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [The evolutionary rate of SARS-CoV-2 is typical for a coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
+# [La variation du code génétique des virus est utile pour le traçage des foyers épidémiques](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
 
-Because viral genomes inevitably change, these differences tend to accumulate at a steady rate over time.
+Ces différences dans les génomes entre les virus peuvent être utilisées comme des "miettes de pain" pour retracer l'histoire d'un échantillon donné.
+Tout comme les membres de votre famille partagent des combinaisons uniques de caractéristiques génétiques, des échantillons viraux étroitement liés partagent des combinaisons uniques de mutations génétiques.
 <br><br>
-Here, the x axis shows the date that each sample was collected. The y axis shows the *total number* of mutations each strain is away from the root of the tree. Each sample is colored by the date it was collected.
+Par exemple, nous montrons ici l'"arbre généalogique" viral avec chaque échantillon coloré en fonction de l'acide aminé présent à un endroit spécifique du génome viral (gène "ORF1a", site 57).
 <br><br>
-While there are certainly some outliers, on average, we see changes accumulate at a rate of ~24 substitutions per year. This means that if a single viral lineage were transmitting from one person to the next for a full year, we'd expect its entire genome to accumulate roughly 24 substitutions by the end of the year.
-As the whole SARS-CoV-2 genome is ~30,000 bases, this corresponds to roughly ~1 mutation per 1,000 bases in a year.
+En mettant en évidence les échantillons de New York, on constate que la plupart des cas de New York et d'Europe ont l'acide aminé Histidine ("H") plutôt que Glutamine ("Q") à cette position. Ceci, en combinaison avec tous les autres sites du génome, nous indique que ces cas sont tous étroitement liés les uns aux autres.
 <br><br>
-For context, influenza would average ~2 mutations per 1,000 bases per year; HIV would average ~4 mutations per 1,000 bases per year.
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text -->
-# [As far as we know, there is only 1 strain of SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
-
-There have been many reports about multiple "strains" of SARS-CoV-2.
-First, a clarification: when virologists use the word "strain," it's often just as a useful label so we can all refer to the same group of samples (e.g., our clade labels, shown here). This does *not* imply any known functional difference.
+Vous pouvez également voir la position du gène "ORF3a" en surbrillance dans le tableau en bas à gauche.
 <br><br>
-Separately, "strain" can be used to refer to viral genotypes that are functionally distinct, either biologically (e.g., pathogenicity/disease severity) and/or epidemiologically (e.g., transmissibility).
-Importantly, though, determining whether two genotypes actually *are* functionally distinct requires much more experimental, clinical and epidemiological data than we currently have.
-<br><br>
-One of the most prominent hypotheses about SARS-CoV-2 strains compares possible "D614" vs "G614" strains.
+Pour une explication plus approfondie de ces concepts, nous vous recommandons [cette explication visuelle](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) par Jonathan Corum et Carl Zimmer.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [D614G may be related to transmissibility, but could also be explained by geography](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [La vitesse d'évolution du SARS-CoV-2 est typique pour un coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
 
-[A recent pre-print](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) suggests that a single mutation, D614G (from amino acid "D" to "G" at site 614 in the "S" ('spike') protein), may be responsible for increasing the transmissibility of SARS-CoV-2.
+Comme les génomes viraux changent inévitablement, ces différences ont tendance à s'accumuler à un rythme régulier au fil du temps.
 <br><br>
-In many geographic areas, the relative frequency of 614D compared to 614G increased over time.
-If a certain genotype leads to better transmissibility, we would expect it's frequency to increase over time.
-There are, however, other explanations to why the relative frequency of some genotypes would increase over time.
+Ici, l'axe des x indique la date à laquelle chaque échantillon a été prélevé. L'axe des y montre le *nombre total* de mutations de chaque souche par rapport à la racine de l'arbre. Chaque échantillon est coloré selon la date à laquelle il a été prélevé.
 <br><br>
-For this site, we see a number of geographic locations where initially, most viral lineages in circulation had the D allele; later, this balance flips such that most lineages have the G allele.
-This *could* be a hallmark of G being slightly "fitter" than D (e.g., if viruses with the G mutation had a slightly higher R0 through increased transmissibility).
+Bien qu'il y ait certainement quelques valeurs aberrantes, nous voyons en moyenne les changements s'accumuler à un rythme d'environ 24 substitutions par an. Cela signifie que si une seule lignée virale se transmettait d'une personne à l'autre pendant une année complète, nous nous attendrions à ce que l'ensemble de son génome accumule environ 24 substitutions d'ici la fin de l'année.
+Comme l'ensemble du génome du SRAS-CoV-2 compte environ 30 000 bases, cela correspond à environ une mutation pour 1 000 bases en un an.
 <br><br>
-However, this could also just be a side effect of the natural history of the pandemic.
-Early on in the pandemic, most strains exported from China had a D allele. Later, most strains from Italy had a G allele. Recently, we've seen more exportation from Europe than from Asia overall (although there's certainly some sampling bias at play here, as well).
-Thus, it could just be that this particular genotype got lucky, and spread so rapidly because it got there first.
+Pour comparaison, la grippe présente une moyenne d'environ 2 mutations pour 1 000 bases par an ; le VIH présente une moyenne d'environ 4 mutations pour 1 000 bases par an.
+
+<!-- ############ SLIDE BREAK ############# -->
+<!-- This is left-side text -->
+# [Pour autant que nous sachions, il n'existe qu'une seule souche de SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
+
+Il y a eu de nombreux rapports sur de multiples "souches" de SARS-CoV-2.
+Tout d'abord, une précision : lorsque les virologistes utilisent le mot "souche", c'est souvent juste une étiquette utile pour que nous puissions tous nous référer au même groupe d'échantillons (par exemple, nos étiquettes de clade, présentées ici). Cela n'implique *pas* de différence fonctionnelle connue.
 <br><br>
-There's a fair amount of debate regarding the relative merits of these two hypotheses. It'll be important to carefully tease these apart, but we don't have scientific consensus on this issue yet. For a more detailed explanation, [see this thread](https://twitter.com/trvrb/status/1257825352660877313).
+Séparément, le terme "souche" peut être utilisé pour désigner des génotypes viraux qui sont fonctionnellement distincts, soit biologiquement (par exemple, pathogénicité/gravité de la maladie) et/ou épidémiologiquement (par exemple, transmissibilité).
+Il est toutefois important de noter que pour déterminer si deux génotypes *sont* réellement fonctionnellement distincts, il faut disposer de beaucoup plus de données expérimentales, cliniques et épidémiologiques que celles dont nous disposons actuellement.
+<br><br>
+L'une des principales hypothèses concernant les souches du SARS-CoV-2 compare les souches possibles "D614" et "G614".
+
+
+<!-- ############ SLIDE BREAK ############# -->
+<!-- This is left-side text -->
+# [D614G peut être lié à la transmissibilité, mais pourrait aussi s'expliquer par la géographie](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+
+[Un préimprimé récent](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) suggère qu'une seule mutation, D614G (de l'acide aminé "D" à "G" au site 614 dans la protéine "S" ("spike")), pourrait être responsable de l'augmentation de la transmissibilité du SARS-CoV-2.
+<br><br>
+Dans de nombreuses zones géographiques, la fréquence relative du 614D par rapport au 614G a augmenté avec le temps.
+Si un certain génotype conduit à une meilleure transmissibilité, on peut s'attendre à ce que sa fréquence augmente avec le temps.
+Il existe cependant d'autres explications à l'augmentation de la fréquence relative de certains génotypes au fil du temps.
+<br><br>
+Pour ce site, nous voyons un certain nombre d'emplacements géographiques où, initialement, la plupart des lignées virales en circulation avaient l'allèle D ; plus tard, cette balance s'inverse de telle sorte que la plupart des lignées ont l'allèle G.
+Ceci *pourrait* être la marque d'une "meilleure aptitude" de G par rapport à D (par exemple, si les virus avec la mutation G avaient un R0 légèrement plus élevé en raison d'une transmissibilité accrue).
+<br><br>
+Cependant, cela pourrait aussi n'être qu'un effet secondaire de l'histoire naturelle de la pandémie.
+Au début de la pandémie, la plupart des souches exportées de Chine avaient un allèle D. Plus tard, la plupart des souches provenant d'Italie avaient un allèle G. Récemment, nous avons vu plus d'exportations en provenance d'Europe que d'Asie en général (bien qu'il y ait certainement un biais d'échantillonnage en jeu ici aussi).
+Il se peut donc que ce génotype particulier ait eu de la chance et se soit répandu si rapidement simplement parce qu'il est arrivé le premier.
+<br><br>
+Les mérites relatifs de ces deux hypothèses font l'objet de nombreux débats. Il sera important de les examiner attentivement, mais nous n'avons pas encore de consensus scientifique sur cette question. Pour une explication plus détaillée, [voir ce fil de discussion](https://twitter.com/trvrb/status/1257825352660877313).
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Mesures que vous pouvez prendre](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+#### ...en tant que particulier
+* Réduisez drastiquement le nombre de personnes avec lesquelles vous êtes en contact chaque jour, surtout si vous faites partie d'un groupe vulnérable.
+* N'oubliez pas que même si vous ne faites pas partie de ces personnes vulnérables, de nombreuses personnes autour de vous le sont ; suivez ces pratiques pour protéger les autres.
+* Lavez-vous les mains "comme si vous veniez de couper un piment et que vous deviez changer une lentille de contact".
+* Restez à la maison si vous êtes malade ; soyez prêt à vous procurer quelques provisions supplémentaires au cas où vous auriez besoin de vous mettre en quarantaine.
+* Si vous êtes un employeur, encouragez vos employés à rester chez eux lorsqu'ils sont malades (et soutenez-les financièrement).
 
-#### ...as an official
-* Make testing free and broadly available.
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing efforts.
-* Financially support those impacted by social distancing measures.
+#### ...en tant qu'autorité responsable
+* Rendre les tests gratuits et largement disponibles.
+* Mettre en place des mesures de distanciation sociale.
+* Financer et mettre en œuvre de vastes efforts de "contact tracing" (traçage des contacts).
+* Soutenir financièrement les personnes touchées par les mesures de distanciation sociale.
 
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
-# Takeaways  
+# En résumé  
 
-#### Viruses naturally acquire mutations as they replicate. This is normal. Mutations can also help us trace the course of epidemics.  
+#### Les virus acquièrent naturellement des mutations au fur et à mesure qu'ils se répliquent. C'est normal. Les mutations peuvent également nous aider à suivre le cours des épidémies.
 
-#### SARS-CoV-2 mutation rate is very typical for coronaviruses.
+#### Le taux de mutation du SARS-CoV-2 est tout à fait caractéristique des coronavirus.
 
-#### As far as we know, there is only 1 functional "strain" of SARS-CoV-2.  
+#### Pour autant que nous sachions, il n'existe qu'une seule "souche" fonctionnelle de SARS-CoV-2.  
 
-#### Teasing apart the biological impact of specific mutations is tricky -- many perceived differences can be attributed to chance and epidemiological factors.  
+#### Il est difficile de distinguer l'impact biologique de mutations spécifiques, car de nombreuses différences perçues peuvent être attribuées au hasard et à des facteurs épidémiologiques.
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
+# [Crédit scientifique](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Nous tenons à souligner le superbe travail accompli si rapidement par tous les scientifiques impliqués dans cette épidémie.
+Ce n'est que par le partage rapide des données génomiques et des métadonnées que de telles analyses sont possibles.
 <br><br>
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+**Nous vous encourageons à cliquer sur "Explore the Data Yourself" et à faire défiler la liste complète des auteurs ; l'auteur de chaque séquence individuelle est disponible en le sélectionnant sur l'arbre.**
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Nous remercions également [GISAID](https://gisaid.org) d'avoir fourni la plate-forme à travers laquelle ces données peuvent être téléchargées et partagées.
