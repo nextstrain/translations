@@ -52,11 +52,11 @@ nós analisamos 5.193 genomas de COVID-19 compartilhados publicamente. Ao compar
 * [COMECE AQUI: Como interpretar árvores filogenéticas](https://nextstrain.org/narratives/trees-background/).
 * [Informes anteriores](https://nextstrain.org/ncov-sit-reps/).
 * [Tópicos explicativos do Twitter](https://bedford.io/misc/twitter/).
-* [Informações acerca dos coronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Informações acerca dos coronavírus](https://nextstrain.org/help/coronavirus/human-CoV).
 * [Equívocos comuns](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
 #### External Resources
-* [Como os coronavirus mutam e se espalham (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [Como os coronavírus mutam e se espalham (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
 * [Pergunte a um cientista & Perguntas Frequentes](https://covid19.fas.org/l/en).
 * [Relatórios de situação da OMS](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [Materiais do CDC (Centro de Controle de Doenças/EUA)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
@@ -107,7 +107,7 @@ Você também pode encontrar <a href="https://nextstrain.org/ncov-sit-reps/">tod
 <!-- This is left-side text -->
 # [Mudanças no genoma viral ao longo do tempo são normais](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-SARS-CoV-2, o vírus que causa a doença COVID-19, é um [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Como outros coronaviruses, SARS-CoV-2 possui o genoma codificado em RNA (ao invés de DNA).
+SARS-CoV-2, o vírus que causa a doença COVID-19, é um [coronavírus](https://nextstrain.org/help/coronavirus/human-CoV). Como outros coronavírus, SARS-CoV-2 possui o genoma codificado em RNA (ao invés de DNA).
 <br><br>
 Vírus infectam células porque eles precisam pegar a maquinaria celular emprestada para replicar (reproduzir). Para os vírus de RNA, esse processo é batante propenso a erro, como a maioria das RNA polimerases (as máquinas moleculares que fazem cópias de RNA) não são capazes de revisar e corrigir o seu trabalho. Isso leva a mutações frequentes no genoma viral; Isso é normal e experado.
 <br><br>
@@ -134,7 +134,7 @@ Para uma explicação mais aprofundada desses conceitos, recomendamos [Essa expl
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [A taxa evolutiva do SARS-CoV-2 é típica para um coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
+# [A taxa evolutiva do SARS-CoV-2 é típica para um coronavírus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
 
 Como os genomas virais mudam inevitavelmente, essas diferenças tendem a se acumular a uma taxa constante ao longo do tempo.
 <br><br>
@@ -196,25 +196,24 @@ Há muito debate sobre os méritos relativos dessas duas hipóteses. Será impor
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
-# Takeaways  
+# Conclusões  
 
-#### Viruses naturally acquire mutations as they replicate. This is normal. Mutations can also help us trace the course of epidemics.  
+#### Os vírus adquirem mutações naturalmente à medida que se replicam. Isto é normal. Mutações também podem nos ajudar a rastrear o curso das epidemias.
 
-#### SARS-CoV-2 mutation rate is very typical for coronaviruses.
+#### A taxa de mutação SARS-CoV-2 é muito típica para os coronavírus.
 
-#### As far as we know, there is only 1 functional "strain" of SARS-CoV-2.  
+#### Até onde sabemos, existe apenas 1 "cepa" funcional de SARS-CoV-2. 
 
-#### Teasing apart the biological impact of specific mutations is tricky -- many perceived differences can be attributed to chance and epidemiological factors.  
+#### Separar o impacto biológico de mutações específicas é complicado - muitas diferenças percebidas podem ser atribuídas ao acaso e a fatores epidemiológicos. 
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
+# [Crédito científico](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Gostaríamos de reconhecer o trabalho incrível e oportuno realizado por todos os cientistas envolvidos nesse surto. Somente com o compartilhamento rápido de dados genômicos e de metadados é que análises como essa são possíveis.
 <br><br>
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+**Nós encoragamos vocÊ a clicar em 'Explore the Data Yourself' e role para baixo para obter uma lista completa de autores; o autor de cada sequência individual está disponível selecionando-o na árvore.**
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Também agradecemos a GISAID por fornecer a plataforma pela qual esses dados podem ser inseridos e compartilhados.
