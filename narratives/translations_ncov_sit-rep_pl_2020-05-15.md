@@ -272,42 +272,51 @@ There's a fair amount of debate regarding the relative merits of these two hypot
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Co ty możesz zrobić](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+#### ...jako jednostka
+* Stosuj ścisłą izolację społeczną, zwłaszcza, jeśli jesteś w grupie podwyższonego ryzyka.
+* Pamiętaj, że nawet jeśli nie jesteś szczególnie narażona/y, wiele osób wokół ciebie jest; postępuj zgodnie z tymi praktykami, aby chronić innych.
+* Myj ręcę "jakbyś właśnie pokroił papryczkę jalapeno i musiał zmienić soczewkę kontaktową".  
+* Zostań w domu na tyle, na ile to możliwe -- szczególnie jeśli jesteś chora/y; przygotuj trochę zapasów w razie potrzeby przebycia kwarantanny.  
+* Jeśli jesteś pracodawcą, zachęć swoich pracowników, aby pracowali z domu, gdziekolwiek jest to możliwe.
 
-#### ...as an official
-* Make testing free and broadly available.
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing efforts.
-* Financially support those impacted by social distancing measures.
+#### ...jako urzędnik 
+* Spraw, aby testy na obecność wirusa były darmowe i szeroko dostępne. 
+* Wprowadź regulacje ograniczające bezpośrednie kontakty. 
+* Sfinansuj i wprowadź badania kontaktów na dużą skalę.  
+* Wspomóź finansowo tych, którzy najbardziej ucierpią w wyniku dystansowania społecznego.
 
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
-# Takeaways  
+# Konkluzje 
 
-#### Viruses naturally acquire mutations as they replicate. This is normal. Mutations can also help us trace the course of epidemics.  
+#### Wirusy naturalnie gromadzą mutacje podczas gdy ulegają replikacji. Jest to normalne. Mutacje mogą też pomagać nam w śledzeniu przebiegu epidemii.
+
+#### Tempo mutacji wirusa SARS-CoV-2 jest typowe dla koronawirusów.
+
+#### Na ile nam wiadomo, istnieje tylko 1 funkcjonalny "szczep" SARS-CoV-2.
+
+#### Rozdzielenie biologicznych efektów specyficznych mutacji jest trudne -- wiele obserwowanych różnic może być wynikiem przypadku i czynników epidemiologicznych.
+
+
+<!-- #### Viruses naturally acquire mutations as they replicate. This is normal. Mutations can also help us trace the course of epidemics.  
 
 #### SARS-CoV-2 mutation rate is very typical for coronaviruses.
 
 #### As far as we know, there is only 1 functional "strain" of SARS-CoV-2.  
 
-#### Teasing apart the biological impact of specific mutations is tricky -- many perceived differences can be attributed to chance and epidemiological factors.  
+#### Teasing apart the biological impact of specific mutations is tricky -- many perceived differences can be attributed to chance and epidemiological factors.  -->
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
+# [Podziękowania](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Wyrażamy podziękowania dla wszystkich naukowców zaangażowanych w ten wybuch pandemii za wspaniałą i śpieszną pracę. Analizy takie jak ta nie byłyby możliwe gdyby nie natychmiastowe publikowanie zsekwencjonowanych genomów oraz metadanych z nimi związanych.
 <br><br>
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+** Zachęcamy aby kliknąć na 'Explore the Data Yourself' i przewinąć na dół aby zobaczyć pełną listę autorów;  można sprawdzić autora każdej sekwencji klikając na nią na drzewie.**
+<!-- **We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**-->
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Ponadto szczególnie dziękujemy GISAID za udostępnienie platformy do wymiany tego typu danych.
