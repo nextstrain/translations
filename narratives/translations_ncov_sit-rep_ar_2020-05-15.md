@@ -102,16 +102,16 @@ abstract: " تستخدم نقارير الحالة من Nextstrain  البيان
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Changes in viral genomes over time are normal](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
+# [التغيرات في الجنومات الفيروسية مع الوقت هو أمر طبيعي](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-SARS-CoV-2, the virus that causes the disease COVID-19, is a [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
+سارس-كو-في-2 والمسبب لمرض كوفيد-19 هو [فيروس كورونا](https://nextstrain.org/help/coronavirus/human-CoV). مثل بقية فيروسات كورونا فان سارس-كو-في-2 يمتلك جينوم مشفر في RNA وليس DNA. 
 <br><br>
-Viruses infect cells because they need to borrow cellular machinery to replicate. For RNA viruses, this process is quite error-prone, as most RNA polymerases (the molecular machines that make copies of RNA) aren't able to proofread and correct their work. This leads to frequent mutations in the viral genome; these are normal and expected.
+تصيب الفيروسات الخلايا لأنها تحتاج لأن تقترض الاليات الخلوية من أجل أ تتضاعف. هذه العملية بالنسبة لفيروسات RNA هي مرتبطة ببحزث أخطأ بشكل شائع، حيث أن معظم انزيمات بلمرة RNA ( وهي الالات الخلوية التي تستخدم لبناء نسخ جديدة من RNA) غير قادرة على تدقيق القراءة وتصحيح اعمالها. وهذذا سيقود الى طفرات متكررة في الجينوم الفيروسي: وهذا طبيعي ومتوقع. 
 <br><br>
-Importantly, the vast majority of these mutations either "break" the virus such that it can't transmit and/or replicate anymore, or don't change the virus at all because of [redundant encoding](https://en.wikipedia.org/wiki/Synonymous_substitution).
-This means that the mutations don't change the proteins, and therefore function, of the virus in any way.
-Other changes may modify a protein of the virus very slightly, but not impact the function at all.
-Rarely, a change in the genetic code of a virus can help it to replicate and/or transmit better, but nearly all of these changes still have only a tiny effect.
+من المهم معرفته أن الغالبية الساحقة من هذه الطفرات هي اما انها تؤدي لتدمير الفيروس حيث أنها لا تستطيع الانتقال و-أو - التضاعف أكثر من ذلك، أو أنها لا تسبب أي تغير على الفيروس اطلاقاً بسبب [التشفير المتذبذب](https://en.wikipedia.org/wiki/Synonymous_substitution).
+وهذا يعني بأن هذه الطفرات لا تسبب تغيير على البروتينات، وكذلك على وظيفتها لدى الفيروسات بأي طريقة. 
+بعض التغيرات الاخرى ممكن أن تعدل قليلا في البروتين الفيروسي، بدون أن تؤثر نهائياً في وظيفته. 
+وفي حالات نادرة، يساعد التغير في الشيفرة الجينية للفيروس على التضاعف و-أو الانتشار بشكل أفضل، ولكن تقريبا كل هذه التغيرات ما زالت تمتلك تأثيرات قلية فقط.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
