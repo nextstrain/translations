@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19. Situation report 2020-05-15.
+title: Геномный анализ распространения COVID-19. Ситуационный отчет от 2020-05-15.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -18,12 +18,14 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Varvara Kozyreva
 translatorLinks:
+  - 
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "Nextstrain Situation Reports use publicly shared genomic data to track the spread and evolution of SARS-CoV-2. This week, we give an overview of viral mutations and what they mean (and don't mean) for the COVID-19 pandemic."
+abstract: "Отчет проекта Nextstrain использует общедоступные геномные данные для отслеживания распространения и эволюции SARS-CoV-2. На этой неделе мы представяем обзор о вирусных мутациях и о том что они значат (или не значат) в плане пандемии COVID-19."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,14 +33,15 @@ abstract: "Nextstrain Situation Reports use publicly shared genomic data to trac
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Executive summary](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Резюме](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
 
-We analyzed 5,193 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is evolving and moving around the world. This week, we focus on viral mutations. We cover:
+Мы проанализировали 5,193 общедоступных генома COVID-19. Сопоставив эти вирусные геномы друг с другом, мы можем охарактеризовать эволюцию и всемирное распространение SARS-CoV-2. На этой неделе мы фокусируемся на вирусных мутациях. Мы охватим следующее:
+недавнем распространении вируса в Азии и сообщаем о следующем:
 <br><br>
-* Where viral mutations come from (they're normal)  
-* The rate of mutation in SARS-CoV-2 (very typical)
-* How many strains of SARS-CoV-2 are circulating (as far as we know: 1)  
-* How geography and epidemiology contribute to perceived differences in viral genotypes (this is tricky)
+* Как появляются мутации (нормальный процесс)
+* Частота мутаций в SARS-CoV-2 (совершенно обычная)
+* Сколько штамов SARS-CoV-2 находится в циркуляции (насколько мы знаем- один)  
+* Как география и эпидемиология влияют на представления о разнице в вирусных генотипах (что запутано)
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -62,27 +65,27 @@ We analyzed 5,193 publicly shared COVID-19 genomes. By comparing these viral gen
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Situation Report Hiatus
+# Перерыв в ситуационных отчетах
 <p>
-Early in the pandemic, it was unclear how SARS-CoV-2 was moving between countries, where it was circulating locally, and how localized outbreaks were related.
-Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
+На ранних этапах пандемии было неясно как SARS-CoV-2 распространяется между странами, где он циркулирут локально, и как местные вспышки связаны между собой.
+За прошедшие 4 месяца, мы ответили на эти и другие вопросы в нашем Ситуационном Отчете. На данной стадии пандемии понятно, что некоторые общие мотивы по большей части повторяются в разных регионах и странах: 
 </p>
 <p/>
 
-- Outbreaks across even distant parts of the world are deeply intertwined.<p/>
+- Вспышки между даже очень удаленными друг от друга частями света глубоко взаимосвязанны.<p/>
 
-- Through human migration and travel, the virus has been introduced to most communities multiple times.<p/>  
+- По средством человеческой миграции и путешествий вирус был неоднократно занесен в большинство местных популяций.<p/>  
 
-- Once these "sparks" land in a new community, many fizzle out without causing widespread transmission. Subject to local conditions and a bit of chance, some of these sparks grow into local outbreaks.<p/>  
+- После того как эти "искры" попали в новые местные популяции, многие из них выдохлись так и не вызвав широкой передачи. В зависимости от местных условий и немного от шанса, некоторые из этих искор переросли в местные вспышки.<p/>  
 
-- Eventually, these local outbreaks send off sparks of their own, spreading to new locations.  
+- В конечном счете, эти локальные вспышки разослали свои собственные искры, распространившись в новые местности.
 <p/>
 
-Unsurprisingly, we see this pattern in countries experiencing their first wave of infections. More alarmingly, we also see this pattern after re-introductions of the virus to countries where the initial peak passed months beforehand.
-Ultimately, this pattern is only broken when a country is able to effectively test, trace, and isolate cases immediately.
+Неудивительно, что мы наблюдаем такую закономерность в странах которые переживают свою первую волну инфекций. Что вызывает большую тревогу, так это то, что мы также видим такие тенденции после повторного заноса вируса в страны, в которых первоначальный пик уже прошел несколько месяцев до этого.  
+В итоге, такой мотив может быть прерван только когда страна способна эффективно тестировать, отслеживать и немедленно изолировать случаи. 
 <br><br>
 
-This means that outbreaks across the world are deeply connected, and the battle against COVID-19 will always be global -- we can't conquer the virus anywhere without addressing it everywhere.
+Это означает, что вспышки по всему миру глубоко связаны, и что борьба с COVID-19 будет всегда международной- мы не можем победить вирус в отдельной взятой стране если мы не победим его повсюду.
 <br><br>
 
 At this stage of the pandemic, genomic epidemiology is most urgently needed within local and hyperlocal communities through local public health offices.
