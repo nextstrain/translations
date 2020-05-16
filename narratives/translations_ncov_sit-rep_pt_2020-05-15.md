@@ -129,16 +129,16 @@ Destacando amostras de Nova York, vemos que a maioria dos casos de Nova York e d
 <br><br>
 Você também pode ver a posição no gene "ORF3a" destacada no gráfico na parte inferior esquerda.
 <br><br>
-Para uma explicação mais aprofundada desses conceitos, recomendamos [Essa explicação visual](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
+Para uma explicação mais aprofundada desses conceitos, recomendamos [Essa explicação visual](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) de Jonathan Corum e Carl Zimmer.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [The evolutionary rate of SARS-CoV-2 is typical for a coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
+# [A taxa evolutiva do SARS-CoV-2 é típica para um coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
 
-Because viral genomes inevitably change, these differences tend to accumulate at a steady rate over time.
+Como os genomas virais mudam inevitavelmente, essas diferenças tendem a se acumular a uma taxa constante ao longo do tempo.
 <br><br>
-Here, the x axis shows the date that each sample was collected. The y axis shows the *total number* of mutations each strain is away from the root of the tree. Each sample is colored by the date it was collected.
+Aqui, o eixo x mostra a data em que cada amostra foi coletada. O eixo y mostra o *número total* de mutações que cada cepa está distante da raiz da árvore. Cada amostra é colorida pela data em que foi coletada.
 <br><br>
 While there are certainly some outliers, on average, we see changes accumulate at a rate of ~24 substitutions per year. This means that if a single viral lineage were transmitting from one person to the next for a full year, we'd expect its entire genome to accumulate roughly 24 substitutions by the end of the year.
 As the whole SARS-CoV-2 genome is ~30,000 bases, this corresponds to roughly ~1 mutation per 1,000 bases in a year.
