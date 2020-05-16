@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19. Situation report 2020-05-15.
+title: التحليل الجينومي  لكوفيد-19. تقرير حالة. 15 ايار 2020
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -23,7 +23,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "Nextstrain Situation Reports use publicly shared genomic data to track the spread and evolution of SARS-CoV-2. This week, we give an overview of viral mutations and what they mean (and don't mean) for the COVID-19 pandemic."
+abstract: " تخدم نقارير الحالة من Nextstrain  البيانات الجينومية التي يتم مشاركتها للعموم من أجل تتبع انتشار وتطور سارس-كو-في-2. تقرير هذا الاسبوع يقدم عرضا للطفرات الفيروسية وماذا تعني أو لا تعني بالنسبة لجائحة كوفيد-19."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
