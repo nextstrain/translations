@@ -160,22 +160,21 @@ Uma das hipóteses mais proeminentes sobre as cepas de SARS-CoV-2 compara possí
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [D614G may be related to transmissibility, but could also be explained by geography](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [D614G pode estar relacionada à transmissibilidade, mas também pode ser explicada pela geografia](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
 
-[A recent pre-print](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) suggests that a single mutation, D614G (from amino acid "D" to "G" at site 614 in the "S" ('spike') protein), may be responsible for increasing the transmissibility of SARS-CoV-2.
+[um pre-print recente](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) sugere que uma única mutação, D614G (do aminácido "D" para "G" no sítio 614 na proteína "S" ('spike')), pode ser responsável por aumentar a capassidade de transmissão do SARS-CoV-2.
 <br><br>
-In many geographic areas, the relative frequency of 614D compared to 614G increased over time.
-If a certain genotype leads to better transmissibility, we would expect it's frequency to increase over time.
-There are, however, other explanations to why the relative frequency of some genotypes would increase over time.
+Em diferentes áreas geográficas, a frequência relativa de 614D comparada com 614G aumentou ao longo do tempo.
+Se um determinado genótipo leva a uma capacidade de transmissão melhor, nós experaríamos que a sua frequência aumentasse ao longo do tempo.
+Existem, porém, outras explicações para o aumento da frequencia relativa de alguns genótipos ao longo do tempo.
 <br><br>
-For this site, we see a number of geographic locations where initially, most viral lineages in circulation had the D allele; later, this balance flips such that most lineages have the G allele.
-This *could* be a hallmark of G being slightly "fitter" than D (e.g., if viruses with the G mutation had a slightly higher R0 through increased transmissibility).
+Para este sítio, vemos várias localizações geográficas em que, inicialmente, a maioria das linhagens virais em circulação tinha o alelo D; mais tarde, esse equilíbrio muda de tal forma que a maioria das linhagens possui o alelo G.
+Isso *poderia* ser uma característica de G ser um pouco "mais apto" que D (por exemplo, se os vírus com a mutação G tiveram um R0 um pouco mais alto por meio de aumento da capacidade de transmissão).
 <br><br>
-However, this could also just be a side effect of the natural history of the pandemic.
-Early on in the pandemic, most strains exported from China had a D allele. Later, most strains from Italy had a G allele. Recently, we've seen more exportation from Europe than from Asia overall (although there's certainly some sampling bias at play here, as well).
-Thus, it could just be that this particular genotype got lucky, and spread so rapidly because it got there first.
+No entanto, isso também poderia ser apenas um efeito colateral da história natural da pandemia.
+No início da pandemia, a maioria das cepas exportadas da China tinha um alelo D. Mais tarde, a maioria das cepas da Itália tinha um alelo G. Recentemente, vimos mais exportações da Europa do que da Ásia em geral (embora certamente haja algum viés de amostragem em jogo aqui).Assim, pode ser que esse genótipo em particular tenha sorte e se espalhe tão rapidamente porque chegou primeiro.
 <br><br>
-There's a fair amount of debate regarding the relative merits of these two hypotheses. It'll be important to carefully tease these apart, but we don't have scientific consensus on this issue yet. For a more detailed explanation, [see this thread](https://twitter.com/trvrb/status/1257825352660877313).
+Há uma boa quantidade de debates sobre os méritos relativos dessas duas hipóteses. Será importante separá-las cuidadosamente, mas ainda não temos consenso científico sobre esse assunto. Para uma explicação mais detalhada, [veja esta discussão](https://twitter.com/trvrb/status/1257825352660877313).
 
 
 <!-- ############ SLIDE BREAK ############# -->
