@@ -99,7 +99,7 @@ Quando When os dados revelarem alguma coisa nova, também emitiremos relatórios
 Todas essas atualizações serão postadas na [conta do twitter do Nextstrain](https://twitter.com/nextstrain) (como sempre).  
 <br><br>
 
-Você também pode encontrar <a href="https://nextstrain.org/ncov-sit-reps/">todos os nossos relatórios de situação anteriores aqui</a>.
+Você também pode encontrar <a href="https://nextstrain.org/ncov-sit-reps/">todos os nossos relatórios de situação anteriores aqui </a>.
 
 ```
 
