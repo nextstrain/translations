@@ -174,24 +174,24 @@ Isso *poderia* ser uma característica de G ser um pouco "mais apto" que D (por 
 No entanto, isso também poderia ser apenas um efeito colateral da história natural da pandemia.
 No início da pandemia, a maioria das cepas exportadas da China tinha um alelo D. Mais tarde, a maioria das cepas da Itália tinha um alelo G. Recentemente, vimos mais exportações da Europa do que da Ásia em geral (embora certamente haja algum viés de amostragem em jogo aqui).Assim, pode ser que esse genótipo em particular tenha sorte e se espalhe tão rapidamente porque chegou primeiro.
 <br><br>
-Há uma boa quantidade de debates sobre os méritos relativos dessas duas hipóteses. Será importante separá-las cuidadosamente, mas ainda não temos consenso científico sobre esse assunto. Para uma explicação mais detalhada, [veja esta discussão](https://twitter.com/trvrb/status/1257825352660877313).
+Há muito debate sobre os méritos relativos dessas duas hipóteses. Será importante separá-las cuidadosamente, mas ainda não temos consenso científico sobre esse assunto. Para uma explicação mais detalhada, [veja esta discussão](https://twitter.com/trvrb/status/1257825352660877313).
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [O que nós podemos fazer?](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+#### ... como indivíduo
+* Pratique distanciamento social estrito, especialmente se você faz parte de algum grupo de risco.
+* Lembre-se que mesmo que você não seja super vulnerável, muitas pessoas ao seu redor são. Siga essas práticas também para proteger os outros.
+* Lave suas mãos "como se você tivesse acabado de cortar pimenta e precisasse colocar suas lentes de contato".  
+* Fique em casa o máximo possível — especialmente se estiver doente; e esteja preparado com alguns suprimentos extras para caso precise se colocar em quarentena voluntária.  
+* Se você é um empregador, encoraje seus funcionários a trabalharem de casa sempre que possível.
 
-#### ...as an official
-* Make testing free and broadly available.
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing efforts.
-* Financially support those impacted by social distancing measures.
+#### ... como funcionário do governo
+* Torne os testes gratuitos e amplamente disponíveis.  
+* Coloque fortes medidas de distanciamento social em prática.  
+* Financie e implemente esforços para o rastreamento de contatos de infectados.
+* Apoie financeiramente os impactados por medidas de distanciamento social.
 
 
 <!-- This is the right-side text -->
