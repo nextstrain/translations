@@ -144,7 +144,7 @@ You can also find <a href="https://nextstrain.org/ncov-sit-reps/">all of our pre
 <!-- This is left-side text -->
 # [Zmiany w genomie wirusa w czasie są normalne](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-SARS-CoV-2, wirus który wywołuje COVID-19, jest [koronawirusem](https://nextstrain.org/help/coronavirus/human-CoV). Jak inne koronawirusy, SARS-CoV-2 ma genom zakodowany w RNA (a nie DNA).
+SARS-CoV-2, wirus który wywołuje COVID-19, jest [koronawirusem](https://nextstrain.org/help/coronavirus/human-CoV). Jak inne koronawirusy, SARS-CoV-2 ma genom zakodowany na RNA (a nie DNA).
 <br><br>
 Wirusy infekują komórki, ponieważ muszą pożyczyć maszynerii komórkowej aby się zreplikować. U wirusów RNA, ten proces jest dość podatny na błędy, ponieważ większość polimeraz RNA (molekularne maszyny, które wykonują kopie RNA) nie są w stanie sprawdzić i poprawić tego co zrobiły. To prowadzi do częstych mutacji w genomie wirusa; są one całkowicie normalne i spodziewane.
 <br><br>
@@ -165,9 +165,9 @@ Rarely, a change in the genetic code of a virus can help it to replicate and/or 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Zmienność w kodzie genetycznym wirusa jest przydatne do śledzenia epidemii](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
+# [Zmienność w kodzie genetycznym wirusa jest przydatna do śledzenia epidemii](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
 
-Te zmiany w genomach pomiędzy wirusami mogą być użyte jako "okruchy chleba" aby sledzić historię danej próbki.
+Te zmiany w genomach pomiędzy wirusami mogą być użyte jako "okruchy chleba" aby śledzić historię danej próbki.
 Tak jak osoby w twojej rodzinie dzielą unikatowe kombinacje cech genetycznych, blisko spokrewnione próbki wirusa dzielą unikatowe kombinacje mutacji genetycznych.
 <br><br>
 Na przykład tutaj pokazujemy wirusowe "drzewo rodzinne" z każdą próbką pokolorowaną według aminokwasu obecnego w specyficznej lokalizacji na genomie wirusa (gene "ORF3a", pozycja 57).
@@ -243,12 +243,12 @@ One of the most prominent hypotheses about SARS-CoV-2 strains compares possible 
 W wielu obszarach geograficznych, względna częstość 614D w porównaniu z 614G wzrasta z czasem. 
 Jeśli pewien genotyp prowadzi do zwiększonej zdolności przenoszenia, możemy oczekiwać, że jego częstość będzie wzrastać z czasem.
 <br><br>
-Dla tej pozycji, widzimy kilka geograficznych obszarów gdzie początkowo większość krążących linii wirusa miało allel D; potem, ten stan się odwraca tak że większość linii ma allel "G".
+Dla tej pozycji, widzimy kilka geograficznych obszarów gdzie początkowo większość krążących linii wirusa miało allel D; potem, ten stan się odwraca tak że większość linii ma allel G.
 To *może* być oznaka, że G jest nieco "lepszy" niż D (np., jeśli wirusy z mutacją G miały nieco wyższy R0 dzięki zwiększonej łatwości przenoszenia się).
 <br><br>
 Niemniej jednak, to może byc również jednynie efekt uboczny naturalnej historii pandemii.
 Wcześnie podczas pandemii, większość wariantów wirusa eksportowanych z Chin miało allel D. Później, większość wirusów z Włoch miało allel G. Niedawno, zaobserwowaliśmy ogólnie więcej eksportu wirusa z Europy niż z Azji (chociaż pewien błąd próbkowania również może grać tu rolę).
-Wobec tego, być może pewien gentyp miał po prostu więcej szczęścia i rozprzestrzenił się gwałtownie ponieważ dotarł tam pierwszy. 
+Wobec tego, być może pewien genotyp miał po prostu więcej szczęścia i rozprzestrzenił się gwałtownie ponieważ dotarł tam pierwszy. 
 <br><br>
 Debata trwa na temat zasadności tych dwóch hipotez. Należałoby ostrożnie je od siebie oddzielić, ale nie ma jeszcze naukowego konsensusu w tym temacie. Więcej szczegółowych wyjaśnień [można zobaczyć w tym wątku](https://twitter.com/trvrb/status/1257825352660877313).
 
@@ -291,7 +291,7 @@ There's a fair amount of debate regarding the relative merits of these two hypot
 ```auspiceMainDisplayMarkdown
 # Konkluzje 
 
-#### Wirusy naturalnie gromadzą mutacje podczas gdy ulegają replikacji. Jest to normalne. Mutacje mogą też pomagać nam w śledzeniu przebiegu epidemii.
+#### Wirusy naturalnie gromadzą mutacje kiedy replikują się. Jest to normalne. Mutacje mogą też pomagać nam w śledzeniu przebiegu epidemii.
 
 #### Tempo mutacji wirusa SARS-CoV-2 jest typowe dla koronawirusów.
 
@@ -316,7 +316,7 @@ There's a fair amount of debate regarding the relative merits of these two hypot
 
 Wyrażamy podziękowania dla wszystkich naukowców zaangażowanych w ten wybuch pandemii za wspaniałą i śpieszną pracę. Analizy takie jak ta nie byłyby możliwe gdyby nie natychmiastowe publikowanie zsekwencjonowanych genomów oraz metadanych z nimi związanych.
 <br><br>
-** Zachęcamy aby kliknąć na 'Explore the Data Yourself' i przewinąć na dół aby zobaczyć pełną listę autorów;  można sprawdzić autora każdej sekwencji klikając na nią na drzewie.**
-<!-- **We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**-->
+**Zachęcamy aby kliknąć na 'Explore the Data Yourself' i przewinąć na dół aby zobaczyć pełną listę autorów;  można sprawdzić autora każdej sekwencji klikając na nią na drzewie.**
 <br><br>
 Ponadto szczególnie dziękujemy GISAID za udostępnienie platformy do wymiany tego typu danych.
+<!-- We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.-->
