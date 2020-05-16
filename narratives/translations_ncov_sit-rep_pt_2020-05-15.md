@@ -95,7 +95,7 @@ Como tal, este será o nosso último relatório da situação semanal por um tem
 
 Nós vamos, é claro, continuar com atualizações diárias das compilações globais e regionais à medida que novas seqüências forem disponibilizadas.
 
-Quando When os dados revelarem alguma coisa nova, também emitiremos relatórios de situação adicionais.
+Quando os dados revelarem alguma coisa nova, também emitiremos relatórios de situação adicionais.
 Todas essas atualizações serão postadas na [conta do twitter do Nextstrain](https://twitter.com/nextstrain) (como sempre).  
 <br><br>
 
