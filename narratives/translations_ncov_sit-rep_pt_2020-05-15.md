@@ -118,18 +118,18 @@ Raramente, uma mudança no código genético do vírus pode ajudá-lo a replicar
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Variation in viruses' genetic code is useful for tracing outbreaks](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
+# [Variação no código genético viral é útil para o rastreamento de surtos](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
 
-These differences in the genomes between viruses can be used as "bread crumbs" to trace the history of a given sample.
-Just as the people in your family share unique combinations of genetic characteristics, closely related viral samples share unique combinations of genetic mutations.
+Essas diferenças nos genomas entre vírus podem ser usadas como "migalhas de pão" para rastrear o histórico de uma determinada amostra.
+Assim como as pessoas da sua família compartilham combinações únicas de características genéticas, amostras virais estreitamente relacionadas compartilham combinações únicas de mutações genéticas.
 <br><br>
-For example, here we show the viral "family tree" with each sample colored by which amino acid is present at a specific location in the viral genome (gene "ORF3a", site 57).
+Por exemplo, aqui mostramos a "árvore genealógica" viral com cada amostra colorida pelo tipo de aminoácido que está presente em um local específico no genoma viral (gene "ORF3a", sítio 57).
 <br><br>
-Highlighting samples from New York, we see that most of the cases from New York and Europe have the amino acid Histidine ("H") rather than Glutamine ("Q") at this position. This, in combination with all the other sites in the genome, tells us that these cases are all closely related to each other.
+Destacando amostras de Nova York, vemos que a maioria dos casos de Nova York e da Europa tem o aminoácido Histidina ("H") em vez de Glutamina ("Q") nessa posição. Isso, combinado com todos os outros sítios do genoma, nos diz que esses casos estão todos intimamente relacionados entre si.
 <br><br>
-You can also see the position in gene "ORF3a" highlighted on the chart at the bottom of the left.
+Você também pode ver a posição no gene "ORF3a" destacada no gráfico na parte inferior esquerda.
 <br><br>
-For a more in-depth explanation of these concepts, we recommend [this visual explanation](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
+Para uma explicação mais aprofundada desses conceitos, recomendamos [Essa explicação visual](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
 
 
 <!-- ############ SLIDE BREAK ############# -->
