@@ -23,7 +23,8 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: " تستخدم تقارير الحالة من Nextstrain البيانات الجينومية التي يتم مشاركتها للعموم من أجل تتبع انتشار وتطور سارس-كو-في-2. نقدم في تقرير هذا الاسبوع عرضاً للطفرات الفيروسية وماذا يمكن أن تعني (أو لا تعني) بالنسبة لجائحة كوفيد-19."
+abstract: " تستخدم تقارير الحالة من Nextstrain البيانات الجينومية التي يتم مشاركتها للعموم من أجل تتبع انتشار وتطور سارس-كو-في-2. نقدم في تقرير هذا الاسبوع عرضاً للطفرات الفيروسية وماذا يمكن أن تعني (أو لا تعني) بالنسبة لجائحة كوفيد-19.   
+"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -144,75 +145,73 @@ abstract: " تستخدم تقارير الحالة من Nextstrain البيان�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [As far as we know, there is only 1 strain of SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
+# [على حد علمنا ، هناك سلالة واحدة فقط من SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
 
-There have been many reports about multiple "strains" of SARS-CoV-2.
-First, a clarification: when virologists use the word "strain," it's often just as a useful label so we can all refer to the same group of samples (e.g., our clade labels, shown here). This does *not* imply any known functional difference.
+كانت هناك العديد من التقارير حول "سلالات" متعددة من SARS-CoV-2. أولاً ، للتوضيح: عندما يستخدم علماء الفيروسات كلمة "سلالة" ، غالبًا ما تكون مجرد اشارة  مرجعية مفيدة حتى نتمكن من الرجوع إلى نفس المجموعة من العينات (على سبيل المثال ، الكلمة clade لدينا ، الموضحة هنا،  وتعني تجمع عنقودي لبعض الطفرات). هذا لا يعني أي فرق وظيفي معروف.
 <br><br>
-Separately, "strain" can be used to refer to viral genotypes that are functionally distinct, either biologically (e.g., pathogenicity/disease severity) and/or epidemiologically (e.g., transmissibility).
-Importantly, though, determining whether two genotypes actually *are* functionally distinct requires much more experimental, clinical and epidemiological data than we currently have.
+بشكل منفصل ، يمكن استخدام "سلالة" للإشارة إلى الأنماط الجينية الفيروسية المتميزة وظيفياً ، إما بيولوجيًا (على سبيل المثال ، المرضية / او شدة المرض اللذي تتسبب به) و / أو وبائيًا (على سبيل المثال ، قابلية الانتقال). والأهم من ذلك ، تحديد ما إذا كان هناك نوعان وراثيان بالفعل  من  الفيروس  * متميزان من الناحية الوظيفية * يتطلب بيانات تجريبية وسريرية ووبائية أكثر بكثير مما لدينا حاليًا.
 <br><br>
-One of the most prominent hypotheses about SARS-CoV-2 strains compares possible "D614" vs "G614" strains.
+تقارن واحدة من أبرز الفرضيات حول سلالات سارس CoV-2 الطفرة "D614" بالطفرة "G614".
+
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [D614G may be related to transmissibility, but could also be explained by geography](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [قد تتعلق D614G بقابلية النقل ، ولكن يمكن أيضًا تفسيرها بالجغرافيا
+](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
 
-[A recent pre-print](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) suggests that a single mutation, D614G (from amino acid "D" to "G" at site 614 in the "S" ('spike') protein), may be responsible for increasing the transmissibility of SARS-CoV-2.
+[في منشور غير مدقق](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) تم اقتراح الطفرة D614G (تغير الحمض الأميني "D" إلى "G" في الموقع 614 من الجينوم وتحديدا  في بروتين "S") بأنها قد تكون مسؤولة عن زيادة قابلية انتقال SARS-CoV-2
 <br><br>
-In many geographic areas, the relative frequency of 614D compared to 614G increased over time.
-If a certain genotype leads to better transmissibility, we would expect it's frequency to increase over time.
-There are, however, other explanations to why the relative frequency of some genotypes would increase over time.
+في العديد من المناطق الجغرافية ، زاد الحدوث النسبي للطفرة 614D مقارنة بـ 614G مع مرور الوقت. إذا أدى نوع معين من الطفرات الجينية إلى قابلية انتقال أفضل للفيروس، فإننا نتوقع أن يزداد تواترها بمرور الوقت. ومع ذلك ، هناك تفسيرات أخرى لسبب زيادة التكرار النسبي لبعض الأنماط الجينية مع مرور الوقت.
 <br><br>
-For this site, we see a number of geographic locations where initially, most viral lineages in circulation had the D allele; later, this balance flips such that most lineages have the G allele.
-This *could* be a hallmark of G being slightly "fitter" than D (e.g., if viruses with the G mutation had a slightly higher R0 through increased transmissibility).
+بالنسبة  لموقع هذه الطفرة في الجينوم ، نرى عددًا من المواقع الجغرافية حيث كان لدى معظم الفيروسات المتفشية في البداية الحمض الأميني  D ؛ في وقت لاحق ، يتغير هذا التوازن بحيث تحتوي معظم الفيروسات على الحمض الأميني G. يمكن أن يكون هذا * سمة مميزة للفيروس الحامل الحمض الأميني G كونه "أكثر قدرة على الانتشار" قليلاً من الفيروس الحامل للحمض الأميني D (على سبيل المثال ، إذا كانت الفيروسات ذات الطفرة G لديها  R0  أعلى قليلاً من خلال زيادة قابلية الانتقال).
+
+R0 هو يعرق برقم الاستساخ، ويعني عدد الاصابات التي يحدثها فيروس واحد بين اشخاص معرضين للاصابة
 <br><br>
-However, this could also just be a side effect of the natural history of the pandemic.
-Early on in the pandemic, most strains exported from China had a D allele. Later, most strains from Italy had a G allele. Recently, we've seen more exportation from Europe than from Asia overall (although there's certainly some sampling bias at play here, as well).
-Thus, it could just be that this particular genotype got lucky, and spread so rapidly because it got there first.
+ومع ذلك ، يمكن أن يكون هذا أيضًا مجرد تأثير جانبي للتاريخ الطبيعي للوباء. في وقت مبكر من الوباء ، كانت معظم السلالات المصدرة من الصين لديها الحمض الأميني D. في وقت لاحق ، كان لدى معظم السلالات من إيطاليا الحمض الأميني G. لقد شهدنا مؤخرًا انتشارا للفيروس من أوروبا أكثر من الانتشار من آسيا بشكل عام (على الرغم من وجود بعض التحيز في العينات هنا أيضًا).
+وبالتالي ، يمكن أن يكون هذا النوع الجيني المحدد محظوظًا ، وينتشر بسرعة كبيرة لأنه وصل إلى هناك أولاً.
 <br><br>
-There's a fair amount of debate regarding the relative merits of these two hypotheses. It'll be important to carefully tease these apart, but we don't have scientific consensus on this issue yet. For a more detailed explanation, [see this thread](https://twitter.com/trvrb/status/1257825352660877313).
+هناك قدر لا بأس به من الجدل بشأن المزايا النسبية لهاتين الفرضيتين. سيكون من المهم أن نفرّق بين هذين الموضوعين بعناية ، ولكن ليس لدينا إجماع علمي حول هذه المسألة حتى الآن. للمزيد من التفاصيل  [انظر هنا](https://twitter.com/trvrb/status/1257825352660877313)
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [ماذا تفعل](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+#### ...كفرد في المجتمع
+* قم بالتقيد بالحجر الصحي، تحديدا إذا كنت في مجموعة هي عرضة للوباء
+* تذكر ،  حتى لو لم تكن عرضة  للوباء،  فهناك  العديد من الأشخاص حولنا قد يكونون.  فتقيد بالحجر لحمايتهم 
+* اغسل بديك "كانك تريد تغيير عدساتك اللاصقة بعد ان قمت بتقطيع الفلفل"
+* ابق في المنزل قدر ما تستطيع -- بشكل مخصوص إذا كنت مريضا، كن مستعدا وتزود باحتياجات اضافية في حال اضطررت للحجر الذاتي.
+* إذا كنت رب عمل، شجع موظفيك على العمل من البيت ان كان ذلك ممكنا
 
-#### ...as an official
-* Make testing free and broadly available.
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing efforts.
-* Financially support those impacted by social distancing measures.
-
+#### ...كشخص في موقع مسؤولية
+* اجعل الفحوصات مجانية ومتوفرة بكثرة
+* ضع تدابير التباعد الاجتماعي وتابع تنفيذها بفعالية على ارض الواقع
+* قم بتمويل وتطبيق جهود متابعة التواصل المكثفة. 
+* ادعم ماديا أولئك المتضررين مم التباعد الاجتماعي ( العمالة الذين يعملون بنظام الوقت الساعي، اولئك الذين يعتنون بالكبار والأطفال, والمشاريع الصغيرة،...الخ).
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
-# Takeaways  
+# الاستنتاجات والحقائق الحالية 
 
-#### Viruses naturally acquire mutations as they replicate. This is normal. Mutations can also help us trace the course of epidemics.  
+#### تكتسب الفيروسات بشكل طبيعي طفرات أثناء تكاثرها. هذا امر طبيعي. يمكن أن تساعد الطفرات أيضًا في تتبع مسار الأوبئة.  
 
-#### SARS-CoV-2 mutation rate is very typical for coronaviruses.
+#### معدل طفرات SARS-CoV-2 نموذجي جدًا للفيروسات التاجية.
 
-#### As far as we know, there is only 1 functional "strain" of SARS-CoV-2.  
+#### على حد علمنا ، لا يوجد سوى "سلالة" وظيفية واحدة من SARS-CoV-2  
 
-#### Teasing apart the biological impact of specific mutations is tricky -- many perceived differences can be attributed to chance and epidemiological factors.  
+#### إن تحليل التأثير البيولوجي لطفرات معينة أمر صعب - يمكن أن تعزى العديد من الاختلافات الملحوظة إلى عوامل الصدفة والوبائيات. 
+
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
+# [الحقوق العلمية ](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+نود أن نشيد بالعمل الرائع وفي الوقت المناسب الذي قام به جميع العلماء المشاركين.لا يمكن إجراء تحليلات مثل هذه التحليلات، الا من خلال التقاسم السريع للبيانات الجينية والبيانات الوصفية. 
 <br><br>
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+**نشجعك على النقر فوق "استكشف البيانات بنفسك" وتحريك الشاشة للأسفل للحصول على قائمة كاملة بالمؤلفين ؛ مؤلف كل تسلسل  متاح بمجرد التأشير عليه على الشجرة**
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+كما نثمن بقوة ونشكر [GISAID](https://gisaid.org) على تزويدهم لنا بمنصتهم والتي تم من خلالها تحميل وتحليل البيانات. نقدر جهودهم الكبيرة لصيانة واتاحة هذه المنصة لمشاركة السلاسل الحيوة للفيروس
+
