@@ -140,10 +140,10 @@ Como os genomas virais mudam inevitavelmente, essas diferenças tendem a se acum
 <br><br>
 Aqui, o eixo x mostra a data em que cada amostra foi coletada. O eixo y mostra o *número total* de mutações que cada cepa está distante da raiz da árvore. Cada amostra é colorida pela data em que foi coletada.
 <br><br>
-While there are certainly some outliers, on average, we see changes accumulate at a rate of ~24 substitutions per year. This means that if a single viral lineage were transmitting from one person to the next for a full year, we'd expect its entire genome to accumulate roughly 24 substitutions by the end of the year.
-As the whole SARS-CoV-2 genome is ~30,000 bases, this corresponds to roughly ~1 mutation per 1,000 bases in a year.
+Embora haja certamente alguns pontos fora da curva, em média, vemos mudanças acumuladas a uma taxa de ~ 24 substituições por ano. Isso significa que, se uma única linhagem viral estiver sendo transmitida de uma pessoa para outra por um ano inteiro, esperamos que todo o seu genoma acumule cerca de 24 substituições até o final do ano.
+Como todo o genoma da SARS-CoV-2 é de ~ 30.000 bases, isso corresponde a aproximadamente ~ 1 mutação por 1.000 bases em um ano.
 <br><br>
-For context, influenza would average ~2 mutations per 1,000 bases per year; HIV would average ~4 mutations per 1,000 bases per year.
+Para contextualizar, o vírus da gripe teria em média ~2 mutações por 1.000 bases por ano; O HIV teria em média ~4 mutações por 1.000 bases por ano.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
