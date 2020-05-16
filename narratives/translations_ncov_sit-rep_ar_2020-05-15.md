@@ -62,85 +62,85 @@ abstract: " تستخدم نقارير الحالة من Nextstrain  البيان
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# توقف تقارير الحالة
+# Situation Report Hiatus
 <p>
-مع البدايات المبكرة للجائحة، لم يكن من الواضح كيف يتحرك أو يتنقل فيروس سارس-كو-في-2 بين الدول، وأين كان يدور محلياً، وكيف كانت ترتبط الانتشارات الوبائية المحلية. 
-قمنا خلال الاربعة أشهر الماضية بمعالجة هذه الاسئلة وغيرها من خلال تقارير الحالة الاسبوعية الخاصة بنا. في هذا المرحلة من الجائحة، من الواضح أن بعض أنماط الانتشار الواسع هي متوافقة بشكل كبير بين المناطق والدول. Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
+Early in the pandemic, it was unclear how SARS-CoV-2 was moving between countries, where it was circulating locally, and how localized outbreaks were related.
+Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
 </p>
 <p/>
 
-- الانتشارات الوبائية حتى بين الاجزاء البعيدة من العالم متداخلة بعمق.<p/>
+- Outbreaks across even distant parts of the world are deeply intertwined.<p/>
 
-- من خلال السفر والهجرة البشرية، تم ادخال الفيروس الى معظم المجتمعات عدة مرات.<p/>  
+- Through human migration and travel, the virus has been introduced to most communities multiple times.<p/>  
 
-- بمجرد ان تهبط هذه الشرارات في مجتمع جديد، العدديد منها يتلاشى دون التسبب بانتشارات وبائية واسعة. اعتمادا على ظروف محلية وقليلاً من الحظ بعض هذه الشرارات نمت الى انتشارات وبائية محلية.<p/>  
+- Once these "sparks" land in a new community, many fizzle out without causing widespread transmission. Subject to local conditions and a bit of chance, some of these sparks grow into local outbreaks.<p/>  
 
-- بالنهاية، ارسلت هذا الانتشارات الوبائية المحلية شراراتها لتنتشر في مواقع جديدة.  
+- Eventually, these local outbreaks send off sparks of their own, spreading to new locations.  
 <p/>
 
-من غير المفاجي أن نرى هذا النمط في الدول التي اختبرت الموجة الاولى من العدوى. وما يدق ناقوس الخطر،  هو اننا نرى ايضاً هذا النمط بعد اعادات ادخال للفيروس الى دول تجاوزت قمة منحنى العدوى الاولى قبل اشهر من ذلك. 
-في النتيجة، هذا النمط با يمكن كسره فقط الا من خلال لأأن تكون الدولة قادرة على كفاء الفحص، لبتتبع، والعزل الفوري للحالات. 
+Unsurprisingly, we see this pattern in countries experiencing their first wave of infections. More alarmingly, we also see this pattern after re-introductions of the virus to countries where the initial peak passed months beforehand.
+Ultimately, this pattern is only broken when a country is able to effectively test, trace, and isolate cases immediately.
 <br><br>
 
-هذا يعني أن الانتشارات الوبائية في العالم مترابطة بعمق، وأن المعركة ضد كوفيد-19 هي دائما معركة عالمية--وهذا يعني أنه لا يمكننا محاصرة الفيروس في أي مكان بدون متابعته في كل مكان.
+This means that outbreaks across the world are deeply connected, and the battle against COVID-19 will always be global -- we can't conquer the virus anywhere without addressing it everywhere.
 <br><br>
 
-في هذه المرحلة من الجائحة، علم الاوبئة الجينومي هو الاكثر حاجة ملحة في المجتمعات المحلية وما فوقها من خلال مكاتب الصحة العامة المحلية
+At this stage of the pandemic, genomic epidemiology is most urgently needed within local and hyperlocal communities through local public health offices.
 <br><br>
 
-وعلى هذا الاساس، سيكون هذا هو تقريرنا الاخير لفترة من الوقت، على الرغم بأننا نهدف لدعم تقارير مشابهة من مختصي الصحة العامة 
+As such, this will be our last weekly Situation Report for a while, though we aim to support similar reports from local public health officials.
 <br><br>
 
-وبالطبع سنستمر بالتحديث اليومي للبناءات (اشجار التصنيف الجيني) المحلية والعالمية مع توفر تسلسلات جينومية جديدة.
-في حال أن صورة البيانات الكبيرة أوحت بشيء جديد فسنقوم باصدار تقارير حالة اضافية. 
-كل تلك التقارير سيتم نشرها على  [موقع Nextstrain  على تويتر](https://twitter.com/nextstrain) (as always).  
+We will, of course, continue daily updates to the global & regional builds as new sequences are made available.
+When the big-picture data says something new, we'll also issue additional Situation Reports.
+All of these updates will be posted to the [Nextstrain twitter account](https://twitter.com/nextstrain) (as always).  
 <br><br>
 
-يمكنك أيضاً أن تجد <a href="https://nextstrain.org/ncov-sit-reps/"> كل تقارير الحالى السابقة هنا</a>.
+You can also find <a href="https://nextstrain.org/ncov-sit-reps/">all of our previous Situation Reports here</a>.
 
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [التغيرات في الجنومات الفيروسية مع الوقت هو أمر طبيعي](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
+# [Changes in viral genomes over time are normal](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-سارس-كو-في-2 والمسبب لمرض كوفيد-19 هو [فيروس كورونا](https://nextstrain.org/help/coronavirus/human-CoV). مثل بقية فيروسات كورونا فان سارس-كو-في-2 يمتلك جينوم مشفر في RNA وليس DNA. 
+SARS-CoV-2, the virus that causes the disease COVID-19, is a [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
 <br><br>
-تصيب الفيروسات الخلايا لأنها تحتاج لأن تقترض الاليات الخلوية من أجل أ تتضاعف. هذه العملية بالنسبة لفيروسات RNA هي مرتبطة ببحزث أخطأ بشكل شائع، حيث أن معظم انزيمات بلمرة RNA ( وهي الالات الخلوية التي تستخدم لبناء نسخ جديدة من RNA) غير قادرة على تدقيق القراءة وتصحيح اعمالها. وهذذا سيقود الى طفرات متكررة في الجينوم الفيروسي: وهذا طبيعي ومتوقع. 
+Viruses infect cells because they need to borrow cellular machinery to replicate. For RNA viruses, this process is quite error-prone, as most RNA polymerases (the molecular machines that make copies of RNA) aren't able to proofread and correct their work. This leads to frequent mutations in the viral genome; these are normal and expected.
 <br><br>
-من المهم معرفته أن الغالبية الساحقة من هذه الطفرات هي اما انها تؤدي لتدمير الفيروس حيث أنها لا تستطيع الانتقال و-أو - التضاعف أكثر من ذلك، أو أنها لا تسبب أي تغير على الفيروس اطلاقاً بسبب [التشفير المتذبذب](https://en.wikipedia.org/wiki/Synonymous_substitution).
-وهذا يعني بأن هذه الطفرات لا تسبب تغيير على البروتينات، وكذلك على وظيفتها لدى الفيروسات بأي طريقة. 
-بعض التغيرات الاخرى ممكن أن تعدل قليلا في البروتين الفيروسي، بدون أن تؤثر نهائياً في وظيفته. 
-وفي حالات نادرة، يساعد التغير في الشيفرة الجينية للفيروس على التضاعف و-أو الانتشار بشكل أفضل، ولكن تقريبا كل هذه التغيرات ما زالت تمتلك تأثيرات قلية فقط.
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text -->
-# التنوع في الشيفرة الجينية للفيروسات مفيد في تتبع الانتشار الوبائي](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
-
-يمكن أن تستخدم هذه التغيرات في الجينومات "كفتات الخبز" في تتبع تاريخ عينة معينة. 
-تماماً كما أن الاشخاص في عائلتك يتشاركون مجموعات من الخصائص الجينية الفريدة، فعينات الفيروس القريبة من بعضها بشكل كبير تتشارك مجموعات من الطفرات الجينية الفريدة. 
-<br><br>
-على سبيل المثال، نظهر هنا شجرة عائلة فيروسية حيث أن كل كل عينة ملونة تبعاً لكل حمض أميني موجود في موقع محدد في الجينوم الفيروسي  ( الجين " اطار القراءة الاول (ORF1( ، الموقع 57).
-<br><br>
-بتظليل العينات من نيويورك، نستطيع أن نشاهد أن معظم الحالات من نيويورك ومن أوروبا تمتلك الحمض الاميني هيستيدين (H) وليس جلوتامين (Q) على هذا الموقع. هذا بالاضافة الى مواقع أخرى في هذا الجينوم فهي تخبرنا بأن جميع هذه الحالات مرتبطة جدا ببعضها البعض 
-<br><br>
-يمكنك ايضاً مشاهدة الموقع في جين " اطار القراءة الثالث أ" والمظلل على الشريط في الجانب السفلي الأيسر
-<br><br>
-من أجل توضيح أعمق لهذه المفاهيم، نوصي  [هذا التوضيح المرئي](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
-
+Importantly, the vast majority of these mutations either "break" the virus such that it can't transmit and/or replicate anymore, or don't change the virus at all because of [redundant encoding](https://en.wikipedia.org/wiki/Synonymous_substitution).
+This means that the mutations don't change the proteins, and therefore function, of the virus in any way.
+Other changes may modify a protein of the virus very slightly, but not impact the function at all.
+Rarely, a change in the genetic code of a virus can help it to replicate and/or transmit better, but nearly all of these changes still have only a tiny effect.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [The evolutionary rate of SARS-CoV-2 is typical for a coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
+# [Variation in viruses' genetic code is useful for tracing outbreaks](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
 
-Because viral genomes inevitably change, these differences tend to accumulate at a steady rate over time.
+These differences in the genomes between viruses can be used as "bread crumbs" to trace the history of a given sample.
+Just as the people in your family share unique combinations of genetic characteristics, closely related viral samples share unique combinations of genetic mutations.
 <br><br>
-Here, the x axis shows the date that each sample was collected. The y axis shows the *total number* of mutations each strain is away from the root of the tree. Each sample is colored by the date it was collected.
+For example, here we show the viral "family tree" with each sample colored by which amino acid is present at a specific location in the viral genome (gene "ORF1a", site 57).
 <br><br>
-While there are certainly some outliers, on average, we see changes accumulate at a rate of ~24 substitutions per year. This means that if a single viral lineage were transmitting from one person to the next for a full year, we'd expect its entire genome to accumulate roughly 24 substitutions by the end of the year.
-As the whole SARS-CoV-2 genome is ~30,000 bases, this corresponds to roughly ~1 mutation per 1,000 bases in a year.
+Highlighting samples from New York, we see that most of the cases from New York and Europe have the amino acid Histidine ("H") rather than Glutamine ("Q") at this position. This, in combination with all the other sites in the genome, tells us that these cases are all closely related to each other.
 <br><br>
-For context, influenza would average ~2 mutations per 1,000 bases per year; HIV would average ~4 mutations per 1,000 bases per year.
+You can also see the position in gene "ORF3a" highlighted on the chart at the bottom of the left.
+<br><br>
+For a more in-depth explanation of these concepts, we recommend [this visual explanation](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
+
+
+<!-- ############ SLIDE BREAK ############# -->
+<!-- This is left-side text -->
+# [المعدل التطوري لـ SARS-CoV-2 نموذجي للفيروسات التاجية (كورونا)](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
+
+لأن الجينومات الفيروسية تتغير بشكل حتمي ، تميل هذه الاختلافات إلى التراكم بمعدل ثابت بمرور الوقت.
+<br><br>
+هنا ، يوضح المحور السيني التاريخ الذي تم فيه جمع كل عينة. يُظهر المحور الصادي * العدد الإجمالي * لطفرات كل سلالة بالمقارنة بأصل  الشجرة. تم تلوين كل عينة بتاريخ جمعها.
+<br><br>
+في حين أن هناك بالتأكيد بعض القيم الخارجة عن معدل القيم الأخرى ، على صعيد المعدل ، نرى التغييرات تتراكم بمعدل ~ 24 طفرة سنويًا. هذا يعني أنه إذا كان النسل الفيروسي الواحد ينتقل من شخص إلى آخر لمدة عام كامل ، فإننا نتوقع أن يراكم الجينوم بأكمله تقريبًا 24 طفرة بحلول نهاية العام. بما أن جينوم SARS-CoV-2 بأكمله يبلغ حوالي 30.000 قاعدة نيتروجينية ، فإن هذا يتوافق مع ما يقرب من طفرة واحدة لكل 1000 قاعدة نيتروجينية في السنة.
+<br><br>
+لتقريب الصورة ، يبلغ متوسط طفرات فيروس الإنفلونزا تقريبا طفرتين لكل 1000 قاعدة نيتروجينة في الجينوم في السنة ؛ بينما يبلغ متوسط طفرات فيروس نقص المناعة البشرية حوالي 4 طفرات لكل 1000 قاعدة نيتروجينية في السنة.
+
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
