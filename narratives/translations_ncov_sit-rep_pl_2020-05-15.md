@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19. Situation report 2020-05-15.
+title: Analiza genomiczna COVID-19. Raport sytuacyjny 2020-05-15.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -18,12 +18,16 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
+  - Anna Fijarczyk
+  - Marta Niedzicka
 translatorLinks:
+  - https://twitter.com/afijarczyk
+  - https://www.researchgate.net/profile/Marta_Niedzicka
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "Nextstrain Situation Reports use publicly shared genomic data to track the spread and evolution of SARS-CoV-2. This week, we give an overview of viral mutations and what they mean (and don't mean) for the COVID-19 pandemic."
+abstract: "Raporty Nextsrain wykorzystują publicznie dostępne dane genomowe w celu śledzenia rozprzestrzeniania się i ewolucji SARS-CoV-2. W tym tygodniu dokonujemy przeglądu mutacji wirusa i tłumaczymy co one oznaczają (a co nie) dla pandemii COVID-19."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,29 +35,34 @@ abstract: "Nextstrain Situation Reports use publicly shared genomic data to trac
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Executive summary](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Streszczenie wykonawcze](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
 
-We analyzed 5,193 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is evolving and moving around the world. This week, we focus on viral mutations. We cover:
+Przeanalizowaliśmy 5,193</tag> publicznie dostępnych genomów SARS-CoV-2. Porównując je, potrafimy ocenić, w jaki sposób wirus COVID-19 ewoluuje i rozprzestrzenia się po świecie. W tym tygodniu koncentrujemy się na mutacjach wirusa. Opisujemy:
 <br><br>
-* Where viral mutations come from (they're normal)  
+* Jak pojawiają się mutacje wirusowe (w sposób naturalny)
+* Tempo mutacji u SARS-CoV-2 (bardzo typowe)
+* Ile szczepów SARS-CoV-2 krąży po świecie (na ile nam wiadomo: 1)
+* Jak geografia i epidemiologia przyczyniają się do odbieranych różnic w genotypach wirusa (to jest trudne)
+
+<!-- * Where viral mutations come from (they're normal)  
 * The rate of mutation in SARS-CoV-2 (very typical)
 * How many strains of SARS-CoV-2 are circulating (as far as we know: 1)  
-* How geography and epidemiology contribute to perceived differences in viral genotypes (this is tricky)
+* How geography and epidemiology contribute to perceived differences in viral genotypes (this is tricky)-->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
+# [Materiały o COVID-19](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/).
+#### Materiały Nextstrain
+* [ZACZNIJ TUTAJ: Jak interpretować drzewa filogenetyczne](https://nextstrain.org/narratives/trees-background/pl).
+* [Poprzednie raporty](https://nextstrain.org/ncov-sit-reps/).
 * [Explanatory Twitter threads](https://bedford.io/misc/twitter/).
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Przesądy](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources
+#### Inne materiały
 * [How coronavirus mutations and spreads (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
 * [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
 * [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
@@ -62,23 +71,54 @@ We analyzed 5,193 publicly shared COVID-19 genomes. By comparing these viral gen
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Situation Report Hiatus
+# Przerwa w Raportach Sytuacyjnych
+<!--# Situation Report Hiatus-->
 <p>
-Early in the pandemic, it was unclear how SARS-CoV-2 was moving between countries, where it was circulating locally, and how localized outbreaks were related.
-Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
+Na początku pandemii, nie było jasne jak SARS-CoV-2 przemieszcza się pomiędzy krajami, gdzie krążył lokalnie i jak ogniska epidemii były ze sobą powiązane.
+W ciągu ostatnich czterech miesięcy zajmowaliśmy się tymi pytaniami - i innymi - w naszych tygodniowych Raportach Sytuacyjnych. Na tym stadium pandemii, jest jasne, że niektóre główne wzory są w dużym stopniu zgodne pomiędzy regionami i krajami: 
+<!-- Early in the pandemic, it was unclear how SARS-CoV-2 was moving between countries, where it was circulating locally, and how localized outbreaks were related.
+Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  -->
 </p>
 <p/>
 
-- Outbreaks across even distant parts of the world are deeply intertwined.<p/>
+- Wybuchy epidemii nawet w odległych częściach świata są głęboko powiązane.<p/>
+
+- Dzięki podróżom i migracjom człowieka, wirus został zaintrodukowany wielokrotnie do większości społeczności.<p/>
+
+- Gdy tylko te "iskry" znajdą się w nowej społeczności, wiele z nich wypala się nie prowadząc do dalszych transmisji. W zależności od lokalnej sytuacji i czynników losowych, niektóre z tych "iskier" inicjują lokalne ogniska epidemii.</p>
+
+- Ostatecznie wiele z tych lokalnych ognisk epidemii stanowi źródło do dalszych transmisji i rozprzestrzenia się do nowych obszarów.<p/>
+
+<!-- - Outbreaks across even distant parts of the world are deeply intertwined.<p/>
 
 - Through human migration and travel, the virus has been introduced to most communities multiple times.<p/>  
 
 - Once these "sparks" land in a new community, many fizzle out without causing widespread transmission. Subject to local conditions and a bit of chance, some of these sparks grow into local outbreaks.<p/>  
 
-- Eventually, these local outbreaks send off sparks of their own, spreading to new locations.  
+- Eventually, these local outbreaks send off sparks of their own, spreading to new locations.  -->
 <p/>
 
-Unsurprisingly, we see this pattern in countries experiencing their first wave of infections. More alarmingly, we also see this pattern after re-introductions of the virus to countries where the initial peak passed months beforehand.
+Nie jest zaskoczeniem, że widzimy taki wzrór w krajach, które doświadczają pierwszej fali infekcji. Co bardziej alarmujące, również obserwujemy ten wzór po reintrodujcach wirusa do krajów, gdzie początkowy szczyt zachorowań minął kilka miesięcy wcześniej.
+Ostatecznie, ten wzór załamuje się jedynie gdy kraj jest w stanie efektywnie testować, śledzić i izolować przypadki w trybie natychmiastowym.
+<br><br>
+
+To oznacza, że wybuchy epidemii na świecie są ściśle powiązane i walka przeciwko COVID-19 zawsze będzie globalna --nie możemy pokonać wirusa w żadnym miejscu dopóki nie będziemy go zwalczać wszędzie. 
+<br><br>
+
+Na tym stadium pandemii, epidemiologia genomiczna jest pilnie potrzebna w lokalnych <!-- i hiperlokalnych??? --> społecznościach poprzez lokalne służby zdrowia publicznego.
+<br><br>
+
+W związku z tym, będzie to nasz ostatni tygodniowy Raport Sytuacyjny na jakiś czas, chociaż nadal chcemy wspierać podobne raporty z lokalnych służb zrowia.
+<br><br>
+
+Będziemy oczywiście kontynuować codzienne aktualizacje dla globalnej i regionalnych sytuacji gdy nowe sekwencje będą dostępne.
+Kiedy dane pokażą coś nowego, opublikujemy dodatkowe Raporty Sytuacyjne.
+Wszystkie aktualizacje będą publikowane na [koncie Nextstrain na twitterze](https://twitter.com/nextstrain) (jak zawsze).
+<br><br>
+
+Możesz również znaleźć <a href="https://nextstrain.org/ncov-sit-reps/">wszystkie nasze wcześniejsze Raporty Sytuacyjne tutaj</a>.
+
+<!-- Unsurprisingly, we see this pattern in countries experiencing their first wave of infections. More alarmingly, we also see this pattern after re-introductions of the virus to countries where the initial peak passed months beforehand.
 Ultimately, this pattern is only broken when a country is able to effectively test, trace, and isolate cases immediately.
 <br><br>
 
@@ -96,7 +136,7 @@ When the big-picture data says something new, we'll also issue additional Situat
 All of these updates will be posted to the [Nextstrain twitter account](https://twitter.com/nextstrain) (as always).  
 <br><br>
 
-You can also find <a href="https://nextstrain.org/ncov-sit-reps/">all of our previous Situation Reports here</a>.
+You can also find <a href="https://nextstrain.org/ncov-sit-reps/">all of our previous Situation Reports here</a>.-->
 
 ```
 
