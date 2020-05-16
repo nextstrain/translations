@@ -108,7 +108,7 @@ To oznacza, że wybuchy epidemii na świecie są ściśle powiązane i walka prz
 Na tym stadium pandemii, epidemiologia genomiczna jest pilnie potrzebna w lokalnych <!-- i hiperlokalnych??? --> społecznościach poprzez lokalne służby zdrowia publicznego.
 <br><br>
 
-W związku z tym, będzie to nasz ostatni tygodniowy Raport Sytuacyjny na jakiś czas, chociaż nadal chcemy wspierać podobne raporty z lokalnych służb zrowia.
+W związku z tym, będzie to nasz ostatni tygodniowy Raport Sytuacyjny na jakiś czas, chociaż nadal chcemy wspierać podobne raporty lokalnych służb zrowia.
 <br><br>
 
 Będziemy oczywiście kontynuować codzienne aktualizacje dla globalnej i regionalnych sytuacji, gdy nowe sekwencje będą dostępne.
@@ -148,7 +148,7 @@ SARS-CoV-2, wirus który wywołuje COVID-19, jest [koronawirusem](https://nextst
 <br><br>
 Wirusy infekują komórki, ponieważ muszą pożyczać maszynerię komórkową, aby się zreplikować. U wirusów RNA ten proces jest dość podatny na błędy, ponieważ większość polimeraz RNA (czyli molekularnych maszyn, które wykonują kopie RNA) nie jest w stanie sprawdzić i poprawić tego, co zrobiły. To prowadzi do częstych mutacji w genomie wirusa; są one całkowicie normalne i spodziewane.
 <br><br>
-Co ważne, znaczna większość tych mutacji albo "łamie" wirusa tak, że nie jest on w stanie przenieść się i/lub zreplikować, lub nie zmieniają wirusa w ogóle ze względu na [wielokrotne kodowanie](https://en.wikipedia.org/wiki/Synonymous_substitution).
+Co ważne, znaczna większość tych mutacji albo "łamie" wirusa tak, że nie jest on w stanie przenieść się i/lub zreplikować, lub nie zmieniają wirusa w ogóle ze względu na [zdegenerowany kod genetyczny](https://en.wikipedia.org/wiki/Synonymous_substitution).
 <!-- może coś lepszego zamiast - nadmiarowe kodowanie? - chciałoby się napisać "ze względu na zdegenerowany kod, ale wiadomo, ludzie nie zrozumieją. zmieniłam na wielokrotne, zobacz, co myślisz - M-->
 To oznacza, że mutacje nie zmieniają białek, a w związku z tym funkcji wirusa w żaden sposób.
 Inne mutacje mogą modyfikować białko wirusa tylko w niewielkim stopniu, ale nie wpływają na funkcję w żaden sposób.
@@ -236,7 +236,7 @@ One of the most prominent hypotheses about SARS-CoV-2 strains compares possible 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [D614G może być związany ze zdolnością rozprzestrzeniania się, ale może być również tłumaczony geografią](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [D614G może być związana ze zdolnością rozprzestrzeniania się, ale może być również tłumaczona geografią](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
 
 [Niedawny preprint](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) sugeruje, że pojedyncza mutacja, D614G (z aminokwasu "D" do "G" w pozycji 614 w białku "S" (od 'spike')), może być odpowiedzialna za zwiększoną łatwość przenoszenia się SARS-CoV-2.
 <br><br>
@@ -246,7 +246,7 @@ Jeśli pewien genotyp prowadzi do zwiększonej zdolności rozprzestrzeniania, mo
 Dla tej pozycji widzimy kilka geograficznych obszarów, gdzie początkowo większość krążących linii wirusa miało allel D; potem ten stan się odwraca tak, że większość linii ma allel G.
 To *może* być oznaka, że G jest nieco "lepszy" niż D (np. jeśli wirusy z mutacją G miały nieco wyższy R0 dzięki zwiększonej łatwości rozprzestrzeniania się).
 <br><br>
-Niemniej jednak, to może byc również jednynie efekt uboczny naturalnej historii pandemii.
+Niemniej jednak, to może być również jednynie efekt uboczny naturalnej historii pandemii.
 Wcześnie podczas pandemii większość wariantów wirusa eksportowanych z Chin miało allel D. Później, większość wirusów z Włoch miało allel G. Niedawno, zaobserwowaliśmy ogólnie więcej eksportu wirusa z Europy niż z Azji (chociaż pewien błąd próbkowania również może grać tu rolę).
 Wobec tego, być może pewien genotyp miał po prostu więcej szczęścia i rozprzestrzenił się gwałtownie, ponieważ dotarł tam pierwszy. 
 <br><br>
