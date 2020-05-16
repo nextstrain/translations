@@ -25,7 +25,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "Os relatórios de situação da Nextstrain utilizam dados genômics compartilhados publicamente para rastrear a disseminação e a evolução do SARS-CoV-2. Esta seman, damos uma visão geral das mutações virais e o que elas significam (e não significam) para a pandemia de COVID-19."
+abstract: "Os relatórios de situação da Nextstrain utilizam dados genômics compartilhados publicamente para rastrear a disseminação e a evolução do SARS-CoV-2. Esta semana, damos uma visão geral das mutações virais e o que elas significam (e não significam) para a pandemia de COVID-19."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -33,9 +33,9 @@ abstract: "Os relatórios de situação da Nextstrain utilizam dados genômics c
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Sumário executivo](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Índice](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
 
-nós analisamos 5.193 genomas de COVID-19 compartilhados publicamente. Ao comparar esses genomas virais entre si, nós podemos caracterizar como o SARS-CoV-2 está evoluindo e se movendo em todo o mundo. Esta semana, nós focamos nas mutações virais. Nós cobrimos:
+nós analisamos 5.193 genomas de COVID-19 compartilhados publicamente. Ao comparar esses genomas virais entre si, nós podemos caracterizar como o SARS-CoV-2 está evoluindo e se movendo em todo o mundo. Esta semana, nós focamos nas mutações virais. Nós abordamos:
 <br><br>
 * De onde as mutações virais vem (elas são normais)  
 * A taxa de mutação no SARS-CoV-2 (muito típica)
