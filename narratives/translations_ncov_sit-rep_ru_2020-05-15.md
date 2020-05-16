@@ -105,16 +105,16 @@ abstract: "Отчет проекта Nextstrain использует общед�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Changes in viral genomes over time are normal](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
+# [Изменения в вирусных геномах на протяжении времени- норма](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-SARS-CoV-2, the virus that causes the disease COVID-19, is a [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
+SARS-CoV-2, вирус вызывающий болезнь COVID-19, относится к [коронавирусам](https://nextstrain.org/help/coronavirus/human-CoV). Как и другие коронавирусы, SARS-CoV-2 обладает геномом закодированным в РНК (нежели в ДНК).
 <br><br>
-Viruses infect cells because they need to borrow cellular machinery to replicate. For RNA viruses, this process is quite error-prone, as most RNA polymerases (the molecular machines that make copies of RNA) aren't able to proofread and correct their work. This leads to frequent mutations in the viral genome; these are normal and expected.
+Вирусы инфицируют клетки, поскольку им нужно позаимствовать клеточный аппарат для размножения. У РНК-вирусов этот процесс значительно подвержен ошибкам, поскольку большинство РНК-полимераз (молекул, которые делают копии РНК) не способны проверять ошибки и корректировать свою работу. Это приводит к частым мутациям в вирусном геноме; эти мутации являются нормальными и ожидаемыми. 
 <br><br>
-Importantly, the vast majority of these mutations either "break" the virus such that it can't transmit and/or replicate anymore, or don't change the virus at all because of [redundant encoding](https://en.wikipedia.org/wiki/Synonymous_substitution).
-This means that the mutations don't change the proteins, and therefore function, of the virus in any way.
-Other changes may modify a protein of the virus very slightly, but not impact the function at all.
-Rarely, a change in the genetic code of a virus can help it to replicate and/or transmit better, but nearly all of these changes still have only a tiny effect.
+Что важно, абсолютное большинство этих мутаций или "ломают" вирус настолько, что он больше не может передаваться и/или размножаться, или же никак не изменяют вирус из-за [вырожденности генетического кода](https://en.wikipedia.org/wiki/Synonymous_substitution).
+Это означает, что мутации не изменяют белки, и оттого никак не влияют на функции вируса. 
+Другие мутации могут слегка изменить белок вируса, при этом никак не повлияв на его функции. 
+Редко, изменение в генетическом коде вируса может поспособствать его репликации и/или улучшить передачу, но почти все из этих изменений по-прежнему обладают весьма незначительным эффектом.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
