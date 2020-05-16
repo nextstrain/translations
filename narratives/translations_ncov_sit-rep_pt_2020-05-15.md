@@ -35,7 +35,7 @@ abstract: "Os relatórios de situação da Nextstrain utilizam dados genômics c
 <!-- This is left-side text -->
 # [Executive summary](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
 
-We analyzed 5,193 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is evolving and moving around the world. This week, we focus on viral mutations. We cover:
+nós analisamos 5.193 genomas de COVID-19 compartilhados publicamente. Ao comparar esses genomas virais entre si, nós podemos caracterizar como o SARS-CoV-2 está evoluindo e se movendo em todo o mundo. Esta semana, nós focamos nas mutações virais. Nós cobrimos:
 <br><br>
 * Where viral mutations come from (they're normal)  
 * The rate of mutation in SARS-CoV-2 (very typical)
