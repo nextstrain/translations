@@ -25,7 +25,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "Os informes da Nextstrain utilizam dados genômics compartilhados publicamente para rastrear a disseminação e a evolução do SARS-CoV-2. Esta seman, damos uma visão geral das mutações virais e o que elas significam (e não significam) para a pandemia de COVID-19."
+abstract: "Os relatórios de situação da Nextstrain utilizam dados genômics compartilhados publicamente para rastrear a disseminação e a evolução do SARS-CoV-2. Esta seman, damos uma visão geral das mutações virais e o que elas significam (e não significam) para a pandemia de COVID-19."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -214,6 +214,6 @@ Há muito debate sobre os méritos relativos dessas duas hipóteses. Será impor
 
 Gostaríamos de reconhecer o trabalho incrível e oportuno realizado por todos os cientistas envolvidos nesse surto. Somente com o compartilhamento rápido de dados genômicos e de metadados é que análises como essa são possíveis.
 <br><br>
-**Nós encoragamos vocÊ a clicar em 'Explore the Data Yourself' e role para baixo para obter uma lista completa de autores; o autor de cada sequência individual está disponível selecionando-o na árvore.**
+**Nós encorajamos você a clicar em 'Explore the Data Yourself' e role para baixo para obter uma lista completa de autores; o autor de cada sequência individual está disponível selecionando-o na árvore.**
 <br><br>
 Também agradecemos a GISAID por fornecer a plataforma pela qual esses dados podem ser inseridos e compartilhados.
