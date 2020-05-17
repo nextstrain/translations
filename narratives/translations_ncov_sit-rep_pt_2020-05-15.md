@@ -125,7 +125,7 @@ Assim como as pessoas da sua família compartilham combinações únicas de cara
 <br><br>
 Por exemplo, aqui mostramos a "árvore genealógica" viral com cada amostra colorida pelo tipo de aminoácido que está presente em um local específico no genoma viral (gene "ORF3a", sítio 57).
 <br><br>
-Destacando amostras de Nova York, vemos que a maioria dos casos de Nova York e da Europa tem o aminoácido Histidina ("H") em vez de Glutamina ("Q") nessa posição. Isso, combinado com todos os outros sítios do genoma, nos diz que esses casos estão todos intimamente relacionados entre si.
+Destacando amostras de Nova York, vemos que a maioria dos casos de Nova York e da Europa tem o aminoácido Histidina ("H") em vez de Glutamina ("Q") nessa posição. Isso, em combinação com todos os outros sítios do genoma, nos diz que esses casos estão todos intimamente relacionados entre si.
 <br><br>
 Você também pode ver a posição no gene "ORF3a" destacada no gráfico na parte inferior esquerda.
 <br><br>
@@ -162,17 +162,17 @@ Uma das hipóteses mais proeminentes sobre as cepas de SARS-CoV-2 compara possí
 <!-- This is left-side text -->
 # [D614G pode estar relacionada à transmissibilidade, mas também pode ser explicada pela geografia](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
 
-[um pre-print recente](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) sugere que uma única mutação, D614G (do aminácido "D" para "G" no sítio 614 na proteína "S" ('spike')), pode ser responsável por aumentar a capassidade de transmissão do SARS-CoV-2.
+[Um pre-print recente](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) sugere que uma única mutação, D614G (do aminácido "D" para "G" no sítio 614 na proteína "S" ('spike')), pode ser responsável por aumentar a capacidade de transmissão do SARS-CoV-2.
 <br><br>
 Em diferentes áreas geográficas, a frequência relativa de 614D comparada com 614G aumentou ao longo do tempo.
-Se um determinado genótipo leva a uma capacidade de transmissão melhor, nós experaríamos que a sua frequência aumentasse ao longo do tempo.
+Se um determinado genótipo leva a uma melhor capacidade de transmissão, nós experaríamos que a sua frequência aumentasse ao longo do tempo.
 Existem, porém, outras explicações para o aumento da frequencia relativa de alguns genótipos ao longo do tempo.
 <br><br>
 Para este sítio, vemos várias localizações geográficas em que, inicialmente, a maioria das linhagens virais em circulação tinha o alelo D; mais tarde, esse equilíbrio muda de tal forma que a maioria das linhagens possui o alelo G.
 Isso *poderia* ser uma característica de G ser um pouco "mais apto" que D (por exemplo, se os vírus com a mutação G tiveram um R0 um pouco mais alto por meio de aumento da capacidade de transmissão).
 <br><br>
 No entanto, isso também poderia ser apenas um efeito colateral da história natural da pandemia.
-No início da pandemia, a maioria das cepas exportadas da China tinha um alelo D. Mais tarde, a maioria das cepas da Itália tinha um alelo G. Recentemente, vimos mais exportações da Europa do que da Ásia em geral (embora certamente haja algum viés de amostragem em jogo aqui).Assim, pode ser que esse genótipo em particular tenha sorte e se espalhe tão rapidamente porque chegou primeiro.
+No início da pandemia, a maioria das cepas exportadas da China tinha um alelo D. Mais tarde, a maioria das cepas da Itália tinha um alelo G. Recentemente, vimos mais exportações da Europa do que da Ásia em geral (embora certamente haja algum viés de amostragem em jogo aqui). Assim, pode ser que esse genótipo em particular tenha sorte e se espalhe tão rapidamente porque chegou primeiro.
 <br><br>
 Há muito debate sobre os méritos relativos dessas duas hipóteses. Será importante separá-las cuidadosamente, mas ainda não temos consenso científico sobre esse assunto. Para uma explicação mais detalhada, [veja esta discussão](https://twitter.com/trvrb/status/1257825352660877313).
 
