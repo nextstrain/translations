@@ -156,62 +156,61 @@ Eine der bekanntesten Hypothesen zu SARS-CoV-2-Stämmen vergleicht mögliche "D6
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [D614G may be related to transmissibility, but could also be explained by geography](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [D614G kann mit der Übertragbarkeit zusammenhängen, könnte aber auch geografisch erklärt werden](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
 
-[A recent pre-print](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) suggests that a single mutation, D614G (from amino acid "D" to "G" at site 614 in the "S" ('spike') protein), may be responsible for increasing the transmissibility of SARS-CoV-2.
+[Ein kuerzlich veroeffentlicher Vordruck](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) deutet auf eine einzelne Mutation im D614G Stamm hin (Aminosaeure "D" zu "G" an der Stelle 614 im "S" ('spike') Protein), die fuer die hohe Uebertragbarkeit von SARS-CoV-2 verantwortlich ist.
 <br><br>
-In many geographic areas, the relative frequency of 614D compared to 614G increased over time.
-If a certain genotype leads to better transmissibility, we would expect it's frequency to increase over time.
-There are, however, other explanations to why the relative frequency of some genotypes would increase over time.
+In vielen geografischen Regionen hat die relative Haeufigkeit von 614D im Vergleich zu 614G ueber die Zeit zugenommen.
+Falls ein bestimmter Genotyp zu einer besseren Uebertragbarkeit fuehren kann, wuerden wir eine Zunahme in der Haeufigkeit ueber die Zeit erwarten. 
+Es gibt aber auch noch andere Erklaerungsversuche, warum die relative Haeufigkeit von einigen Genotypen ueber die Zeit zunimmt.
 <br><br>
-For this site, we see a number of geographic locations where initially, most viral lineages in circulation had the D allele; later, this balance flips such that most lineages have the G allele.
-This *could* be a hallmark of G being slightly "fitter" than D (e.g., if viruses with the G mutation had a slightly higher R0 through increased transmissibility).
+Auf dieser Seite sehen wir eine Anzahl an geografischen Lokalisationen, wo zu Beginn viele viralen Linien mit dem D-Allel im Umlauf waren; Spaeter dreht sich das Gleichgewicht und die meisten Linien weisen das G-Allel auf.
+Das *koennte* ein Kennzeichen dafuer sein, dass G etwas "fitter" ist als D (z.B. wenn Viren mit der G-Mutation ein leicht erhoehtes R0 durch eine zunehmende Uebertragbarkeit aufweisen).
 <br><br>
-However, this could also just be a side effect of the natural history of the pandemic.
-Early on in the pandemic, most strains exported from China had a D allele. Later, most strains from Italy had a G allele. Recently, we've seen more exportation from Europe than from Asia overall (although there's certainly some sampling bias at play here, as well).
-Thus, it could just be that this particular genotype got lucky, and spread so rapidly because it got there first.
+Aber das koennte auch nur ein Nebeneffekt der natuerlichen Historie der Pandemie sein.
+Am Anfang der Pandemie hatten die meisten Staemme aus Chine das D-Allel. Spaeter hatten die meisten Staemme aus Italien das G-Allel. Neuerdings sehen wir mehrere Ausfuehrungen des Virus aus Europa als aus Asien (wobei dies auch an einem Fehler in der Beprobung unter anderem liegen kann).
+Daher koennte es auch einfach nur sein, dass gerade dieser Genotyp Glueck hatte und sich dort schneller hat ausbreiten koennen, weil er zuerst angekommen ist.
 <br><br>
-There's a fair amount of debate regarding the relative merits of these two hypotheses. It'll be important to carefully tease these apart, but we don't have scientific consensus on this issue yet. For a more detailed explanation, [see this thread](https://twitter.com/trvrb/status/1257825352660877313).
+Über die relativen Vorzüge dieser beiden Hypothesen wird viel diskutiert. Es wird wichtig sein, diese sorgfältig auseinanderzuhalten, aber wir haben noch keinen wissenschaftlichen Konsens zu diesem Thema. Für eine detailliertere Erklärung [koennen unter](https://twitter.com/trvrb/status/1257825352660877313) gefunden werden.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Was Sie tun koennen](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+#### ...als Einzelperson
+* Praktizieren Sie raeumliche Distanzierung, besonders wenn Sie zu einer Risikogruppe gehoeren.
+* Bedenken Sie, dass selbst wenn Sie nicht zu einer Risikogruppe gehoeren, Leute in Ihrer Umgebung dies eventuell tun. Halten Sie sich an die Anweisungen, um Andere zu schuetzen.
+* Haendewaschen "like you just chopped a jalapeno and have to change a contact lens."
+* Bleiben Sie zuhause, so viel wie es geht - besonders wenn Sie krank sind; bereiten Sie sich mit Vorraeten auf eine eventuelle Selbst-Quarantaene vor.
+* Als Arbeitgeber raten Sie Ihren Angestellten, von zuhause aus zu arbeiten, wenn moeglich.
 
-#### ...as an official
-* Make testing free and broadly available.
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing efforts.
-* Financially support those impacted by social distancing measures.
+#### ...als Amtsperson
+* Machen Sie Tests kostenlos und weitlaeufig verfuegbar.
+* Fordern Sie strikte Massnahmen zur rauemlichen Distanzierung.
+* Finanzieren und implementieren Sie umfangreiche Kontaktverfolgungen.
+* Unterstuetzen Sie all diejenigen finanziell, die aufgrund von Massnahmen zur rauemlichen Distanzierung negativ betroffen sind.
 
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
-# Takeaways  
+# Zusammenfassung  
 
-#### Viruses naturally acquire mutations as they replicate. This is normal. Mutations can also help us trace the course of epidemics.  
+#### Es ist natuerlich, dass Viren mutieren wenn sie sich replizieren. Das ist normal. Mutationen koennen uns helfen den Werdegang von Epidemien besser zu verfolgen.  
 
-#### SARS-CoV-2 mutation rate is very typical for coronaviruses.
+#### Die SARS-CoV-2-Mutationsrate ist sehr typisch fuer Coronaviren.
 
-#### As far as we know, there is only 1 functional "strain" of SARS-CoV-2.  
+#### Soweit uns bekannt ist gibt es nur einen funktionellen "Stamm" des SARS-CoV-2.  
 
-#### Teasing apart the biological impact of specific mutations is tricky -- many perceived differences can be attributed to chance and epidemiological factors.  
+#### Es ist schwierig, die biologischen Auswirkungen bestimmter Mutationen auseinanderzuhalten - viele wahrgenommene Unterschiede können auf zufällige und epidemiologische Faktoren zurückgeführt werden.  
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
+# [Wissenschaftliche Danksagung](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Wir moechten uns recht herzlich bei allen Forschern fuer deren Zeit und wunderbares Engagement bedanken, die in dieser Epidemie ihren unentbehrlichen Beitrag leisten. Nur durch das schnelle Teilen von Genom- und Metadaten sind Analysen wie diese moeglich.
 <br><br>
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+**Wir empfehlen, dass Sie auf 'Explore the Data Yourself' klicken und herunterscrollen, um eine komplette Liste der Autoren zu finden; Der Autor jeder einzelnen Sequenz ist verfugbar durch Auswahl im Baum.**
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Zudem moechten wir uns recht herzlich bei GISAID fuer die Bereitstellung der Plattform bedanken, durch die diese Daten geteilt und hochgeladen werden koennen.
