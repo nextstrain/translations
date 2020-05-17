@@ -130,28 +130,28 @@ Fuer naehere Informationen hierzu empfehlen wir [diese visuelle Erklaerung](http
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [The evolutionary rate of SARS-CoV-2 is typical for a coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
+# [Die Evolutionsrate des SARS-CoV-2 ist typisch fuer einen Coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
 
-Because viral genomes inevitably change, these differences tend to accumulate at a steady rate over time.
+Weil Virusgenome sich unausweichlich veraendern, tendieren diese Unterschied zur Akkumulation mit einer konstante Rate ueber die Zeit. 
 <br><br>
-Here, the x axis shows the date that each sample was collected. The y axis shows the *total number* of mutations each strain is away from the root of the tree. Each sample is colored by the date it was collected.
+Im Folgenden zeigt die x-Achse das Datum, an dem jede Probe genommen worden ist. Die y-Achse zeigt die * Gesamtzahl * der Mutationen, die jeder Stamm von der Wurzel des Baumes entfernt ist. Jede Probe ist je nach Probennahmedatum eingefaerbt.
 <br><br>
-While there are certainly some outliers, on average, we see changes accumulate at a rate of ~24 substitutions per year. This means that if a single viral lineage were transmitting from one person to the next for a full year, we'd expect its entire genome to accumulate roughly 24 substitutions by the end of the year.
-As the whole SARS-CoV-2 genome is ~30,000 bases, this corresponds to roughly ~1 mutation per 1,000 bases in a year.
+Obwohl es definitv einige Ausreisser gibt, sehen wir im Mittel die Veraenderungen mit einer Rate von ~24 Ersetzungen pro Jahr kumulieren. Das bedeutet, wenn eine virale Linie von einer Person zur anderen in einem Jahr uebertragen wird, erwarten wir, dass das gesamte Genome ungefaehr 24 Veraenderungen akkumulieren wird bis zum Jahresende.
+Da das gesamte SARS-CoV-2-Genom ungefaehr aus 30.000 Basen besteht, beudetet dies ungefaehr 1 Mutation pro 1000 Basen in einem Jahr.
 <br><br>
-For context, influenza would average ~2 mutations per 1,000 bases per year; HIV would average ~4 mutations per 1,000 bases per year.
+Fuer den Kontext, Influenza wuerde ungefaehr 2 Mutationen pro 1000 Basen pro Jahr aufweisen; HIV 4 Mutationen pro 1000 Basen pro Jahr.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [As far as we know, there is only 1 strain of SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
+# [Soweit bekannt gibt es nur einen Stamm des SARS-CoV-2s](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
 
-There have been many reports about multiple "strains" of SARS-CoV-2.
-First, a clarification: when virologists use the word "strain," it's often just as a useful label so we can all refer to the same group of samples (e.g., our clade labels, shown here). This does *not* imply any known functional difference.
+Es gab viele Berichte ueber mehrere "SARS-CoV-2-Staemme".
+Zunaechst eine Klarstellung: wenn Virologen das Wort "Stamm" benutzten, dient es meist nur als eine hilfreiche Kennzeichnung, um auf Proben einer gleichen Gruppe verweisen zu koennen (z.B. die Kladekennzeichnung hier). Dies impliziert *keinem* bekannten Funktionsunterschied. 
 <br><br>
-Separately, "strain" can be used to refer to viral genotypes that are functionally distinct, either biologically (e.g., pathogenicity/disease severity) and/or epidemiologically (e.g., transmissibility).
-Importantly, though, determining whether two genotypes actually *are* functionally distinct requires much more experimental, clinical and epidemiological data than we currently have.
+Unabhaengig davon kann das Wort "Stamm" dazu gebraucht werden, um auf virale Genotypen, die entweder biologisch (z.B. Pathogenitaet/Krankheitsschwere) und/oder epidemiologisch (e.g. Uebertragbarkeit) funktionell verschieden sind, verweisen zu koennen.
+Um aber bestimmen zu koennen, ob 2 Genotypen tatsaechlich funktionell unterschiedlich sind, braucht es viel mehr experimentelle, klinische und epidemiologische Daten als wir derzeit zur Verfuegung haben. 
 <br><br>
-One of the most prominent hypotheses about SARS-CoV-2 strains compares possible "D614" vs "G614" strains.
+Eine der bekanntesten Hypothesen zu SARS-CoV-2-Stämmen vergleicht mögliche "D614" - mit "G614" -Stämmen.
 
 
 <!-- ############ SLIDE BREAK ############# -->
