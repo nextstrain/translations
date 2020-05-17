@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19. Situation report 2020-05-15.
+title: Genomische Analyse der Verbreitung von COVID-19. Lagebericht vom 2020-05-15.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -17,13 +17,13 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
+translators: Elisabeth Hirth
+translatorLinks: https://bsse.ethz.ch/department/people/detail-person.MjM4ODcw.TGlzdC8yNjY5LDEwNjI4NTM0MDk=.html
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "Nextstrain Situation Reports use publicly shared genomic data to track the spread and evolution of SARS-CoV-2. This week, we give an overview of viral mutations and what they mean (and don't mean) for the COVID-19 pandemic."
+abstract: "Die Nextstrain Lageberichte nutzen oeffentlich zugaengliche genomische Daten, um die Verbreitung und die Entwicklung von SARS-CoV-2 zu verfolgen. Diese Woche geben wir einen Ueberblick ueber die Virusmutationen und was diese fuer die COVID-19-Pandemie bedeuten (oder auch nicht bedeuten)."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,102 +31,101 @@ abstract: "Nextstrain Situation Reports use publicly shared genomic data to trac
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Executive summary](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Inhaltsverzeichnis](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
 
-We analyzed 5,193 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is evolving and moving around the world. This week, we focus on viral mutations. We cover:
+Wie haben 5.193 oeffentlich zugaengliche COVID-19 Genome analysiert. Durch das Vergleichen dieser Virengenome untereinander koennen wir die Entwicklung und die weltweite Verbreitung von SARS-CoV-2 charakterisieren. Diese Woche fokusieren wir den Bericht auf die Virusmutationsn. Wir berichten ueber:
 <br><br>
-* Where viral mutations come from (they're normal)  
-* The rate of mutation in SARS-CoV-2 (very typical)
-* How many strains of SARS-CoV-2 are circulating (as far as we know: 1)  
-* How geography and epidemiology contribute to perceived differences in viral genotypes (this is tricky)
+* den Ursprung der Virusmutationen (sie sind normal)  
+* die Mutationsrate in SARS-CoV-2 (sehr typisch)
+* wie viele SARS-CoV-2-Staemme sich derzeit im Umlauf befinden (so weit wir wissen: 1)  
+* wie Geografie und Epidemiologie zu wahrgenommenen Unterschiede in viralen Genotypen beitraegt (das ist komplex)
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
+# [COVID-19 Quellen](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/).
-* [Explanatory Twitter threads](https://bedford.io/misc/twitter/).
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+#### Nextstrain Quellen
+* [BEGINNEN SIE HIER: Wie phylogenetische Bäume zu interpretieren sind](https://nextstrain.org/narratives/trees-background/).
+* [gruehere Lageberichte](https://nextstrain.org/ncov-sit-reps/).
+* [Erlaeuternde Twitter threads](https://bedford.io/misc/twitter/).
+* [Hintergrundwissen zu Coronaviren](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources
-* [How coronavirus mutations and spreads (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+#### Externe Quellen
+* [Wie Coronaviren mutieren und verbreiten (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [Fragen Sie einen Wissenschaftler & FAQs](https://covid19.fas.org/l/en).
+* [Lageberichte der Weltgesundheitsorganisation WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [CDC Quellen](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Situation Report Hiatus
+# Lagebericht-Pause
 <p>
-Early in the pandemic, it was unclear how SARS-CoV-2 was moving between countries, where it was circulating locally, and how localized outbreaks were related.
-Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
+Zu Beginn der Pandemie war es unklar, wie SARS-CoV-2 sich zwischen Laendern bewegt, wo es lokal zirkuliert und wie oertliche Ausbrueche miteinander verwandt sind.
+Innerhalb der letzten vier Monaten, wir haben versucht diese Fragen - und daruber hinaus - in unseren woechentlichen Lageberichten zu loesen. Zum jetzigen Stand der Pandemie zeigt sich, dass einige Grundzuege der Pandemie groesstenteils in Regionen und Laendern konsistent ist:
 </p>
 <p/>
 
-- Outbreaks across even distant parts of the world are deeply intertwined.<p/>
+- Ausbrüche auch in fernen Teilen der Welt sind tief miteinander verflochten.<p/>
 
-- Through human migration and travel, the virus has been introduced to most communities multiple times.<p/>  
+- Durch Migrationsbewegungen und Reisen wurde das Virus mehrfach in die meisten Gemeinden eingeschleppt.<p/>  
 
-- Once these "sparks" land in a new community, many fizzle out without causing widespread transmission. Subject to local conditions and a bit of chance, some of these sparks grow into local outbreaks.<p/>  
+- Sobald diese Initialzuender in einer neuen Gemeinde angekommen sind, verpuffen die meisten ohne eine grossflaechige Ausbreitung zu induzieren. Abhaengig von lokalen Bedingungen und auch etwas zufaellig entwickeln sich einige dieser Zuendfunken in kommunlae Epidemien.<p/>  
 
-- Eventually, these local outbreaks send off sparks of their own, spreading to new locations.  
+- Irgendwann senden diese oertlichen Epidemien eigenen Initialzuender aus und verbreiten sich dadurch in neue Orte.
 <p/>
 
-Unsurprisingly, we see this pattern in countries experiencing their first wave of infections. More alarmingly, we also see this pattern after re-introductions of the virus to countries where the initial peak passed months beforehand.
-Ultimately, this pattern is only broken when a country is able to effectively test, trace, and isolate cases immediately.
+Nicht ueberraschend sehen wir dieses Muster in Laendern, die gerade due erste Welle an Infektionen durchmachen. Alarmierend ist, dass dieses Muster nach Wiedereinschleppung des Virus in Laender, die die erste Welle vor Monaten durchgemacht haben, wieder sichtbar ist.
+Schliesslich wird dieses Muster nur dann durchbrochen, wenn ein Land faehig ist effektiv zu testen, Faelle nachzuverfolgen und sofort zu isolieren.
 <br><br>
 
-This means that outbreaks across the world are deeply connected, and the battle against COVID-19 will always be global -- we can't conquer the virus anywhere without addressing it everywhere.
+Das bedeutet, dass Epidemien weltweit tiefgruendig miteinender verbunden sind und der Kampf gegen COVID-19 ein globaler ist - wir koennen das Virus nicht irgendwo bekaempfen ohne es ueberall anzugehen.
 <br><br>
 
-At this stage of the pandemic, genomic epidemiology is most urgently needed within local and hyperlocal communities through local public health offices.
+Zum jetzigen Stand der Pandemie ist genomische Epidemiologie innerhalb (hyper-)lokaler Gemeinden durch oertliche Gesundheitsaemter wichtiger denn je. 
 <br><br>
 
-As such, this will be our last weekly Situation Report for a while, though we aim to support similar reports from local public health officials.
+Daher wird dieser Bericht unser letzter wochentlicher Lagebericht fuer eine Weilse sein, waehrend wir versuchen aehnliche Berichterstattung durch oertliche Gesundheitsminister zu unterstuetzen.
 <br><br>
 
-We will, of course, continue daily updates to the global & regional builds as new sequences are made available.
-When the big-picture data says something new, we'll also issue additional Situation Reports.
-All of these updates will be posted to the [Nextstrain twitter account](https://twitter.com/nextstrain) (as always).  
+Natuerlich werden wir weiterhin taegliche Updates zu den globalen und regionalen Entwicklungen geben sobald neue Sequenzierungsdaten verfuegbar sind.
+Wenn das Gesamtbild innerhalb der Daten etwas neues aussagt, wird es neue Lageberichte geben.
+Alle Update sind unter dem [Nextstrain twitter account](https://twitter.com/nextstrain) auffindbar (wie immer).  
 <br><br>
 
-You can also find <a href="https://nextstrain.org/ncov-sit-reps/">all of our previous Situation Reports here</a>.
+Ausserdem koennen alle frueheren Lageberichte unter <a href="https://nextstrain.org/ncov-sit-reps/"> gefunden werden.</a>.
 
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Changes in viral genomes over time are normal](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
+# [Zeitliche Veraenderungen in Virengenome ist normal](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-SARS-CoV-2, the virus that causes the disease COVID-19, is a [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
+SARS-CoV-2, das Virus, das die Krankheit COVID-19 verursacht, ist ein [Coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Wie andere Coronaviren ist das SARS-CoV-2-Genome in RNA kodiert (eher als DNA).
 <br><br>
-Viruses infect cells because they need to borrow cellular machinery to replicate. For RNA viruses, this process is quite error-prone, as most RNA polymerases (the molecular machines that make copies of RNA) aren't able to proofread and correct their work. This leads to frequent mutations in the viral genome; these are normal and expected.
+Viren infizieren Zellen, weil sie deren zellulaere Maschinerie zur Replikation benoetigen. Fuer RNA-Viren ist dieser Prozess sehr fehleranfaellig, da die meisten RNA-Polymerasen (die molekulare Einheit, die RNA vervielfaeltigt) keine Korrekturfunktion besitzen und somit ihre Produkte nicht korrigieren koennen. Das fuerht zu haeufigen Mutationen innerhalb des Virusgenoms, welche normal und erwartet sind.
 <br><br>
-Importantly, the vast majority of these mutations either "break" the virus such that it can't transmit and/or replicate anymore, or don't change the virus at all because of [redundant encoding](https://en.wikipedia.org/wiki/Synonymous_substitution).
-This means that the mutations don't change the proteins, and therefore function, of the virus in any way.
-Other changes may modify a protein of the virus very slightly, but not impact the function at all.
-Rarely, a change in the genetic code of a virus can help it to replicate and/or transmit better, but nearly all of these changes still have only a tiny effect.
+Darueber hinaus fuehrt der Grossteil der Mutationen zu funktionslosen Viren, sodass diese sich nicht mehr replizieren und/oder uebertragen werden koennen oder das Virus nicht veraendern  aufgrund von [redundanter Codierung](https://en.wikipedia.org/wiki/Synonymous_substitution).
+Das bedeutet, dass die Mutationen nicht die Proteinen, und somit die Funktion, des Virus irgendwie aendern. 
+Andere Veraenderungen koennen ein Protein des Virus leicht veraendern, aber das hat keinen Einfluss auf die Funktion.
+Selten kann eine Veraenderung im genetischen Code des Virus zu einer besseren Replikation oder Transmission fuehren, aber trotzdem haben all diese Veraenderungen nur einen kleinen Effekt.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Variation in viruses' genetic code is useful for tracing outbreaks](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
+# [Variationen im genetischen Code eines Virus ist nuetzlich um Epidemien verfolgen zu koennen](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
 
-These differences in the genomes between viruses can be used as "bread crumbs" to trace the history of a given sample.
-Just as the people in your family share unique combinations of genetic characteristics, closely related viral samples share unique combinations of genetic mutations.
+Diese Unterschiede zwischen den Viren in den Genomen kann dazu genutzt werden, um die Historie einer bestimmten Probe verfolgen zu koennen. So wie Familienangehoerige einzigartige Kombinationen an genetischen Charakteristiken teilen, gibt es einmalige genetische Mutationskombinationen in nah verwandten Virusisolaten. 
 <br><br>
-For example, here we show the viral "family tree" with each sample colored by which amino acid is present at a specific location in the viral genome (gene "ORF3a", site 57).
+Zum Beispiel zeigen wir hier den viralen "Familienstammbaum", wobei jede Probe je nach Lokalisation einer Aminosaeure in einer bestimmten Position im Virusgenom eingefaerbt worden ist (Gen "ORF3a", Seite 57).
 <br><br>
-Highlighting samples from New York, we see that most of the cases from New York and Europe have the amino acid Histidine ("H") rather than Glutamine ("Q") at this position. This, in combination with all the other sites in the genome, tells us that these cases are all closely related to each other.
+Hebt man Proben aus New York hervor, sieht man, dass die meisten Faelle aus New York und Europa bevorzugt die Aminosaeure Histidin ("H") als Glutamin ("Q") an dieser Prosition aufweisen. Das zeigt - zusammen mit allen anderen Stellen im Genom - dass diese Faelle nah verwandt miteinander sind.
 <br><br>
-You can also see the position in gene "ORF3a" highlighted on the chart at the bottom of the left.
+Ausserdem ist die Position des Gens "ORF3a" in der Abbildung links unten hervorgehoben.
 <br><br>
-For a more in-depth explanation of these concepts, we recommend [this visual explanation](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
+Fuer naehere Informationen hierzu empfehlen wir [diese visuelle Erklaerung](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) von Jonathan Corum und Carl Zimmer.
 
 
 <!-- ############ SLIDE BREAK ############# -->
