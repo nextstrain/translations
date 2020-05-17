@@ -53,11 +53,11 @@ Nous avons analysé 5193 génomes de COVID-19 partagés publiquement. En compara
 # [Ressources sur COVID-19](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
 #### Ressources Nextstrain
-* [COMMENCEZ ICI: Comment lire les phylogénies](https://nextstrain.org/narratives/trees-background/).
+* [COMMENCEZ ICI: Comment lire les phylogénies](https://nextstrain.org/narratives/trees-background/fr).
 * [Rapports de situation précédents](https://nextstrain.org/ncov-sit-reps/).
 * [Fils de discussion explicatif sur Twitter](https://bedford.io/misc/twitter/).
 * [Informations sur les coronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Idées Reçues](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Idées Reçues](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-03-13?n=11).
 
 #### Ressources externes
 * [La couverture COVID-19 du New York Times](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
@@ -104,7 +104,7 @@ Vous pouvez également retrouver <a href="https://nextstrain.org/ncov-sit-reps/"
 <!-- This is left-side text -->
 # [Les changements dans les génomes viraux au fil du temps sont normaux](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-Le SARS-CoV-2, le virus qui provoque la maladie COVID-19, est un [coronavirus] (https://nextstrain.org/help/coronavirus/human-CoV). Comme les autres coronavirus, le SARS-CoV-2 a un génome à ARN (plutôt que à ADN).
+Le SARS-CoV-2, le virus qui provoque la maladie COVID-19, est un [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Comme les autres coronavirus, le SARS-CoV-2 a un génome à ARN (plutôt que à ADN).
 <br><br>
 Les virus infectent les cellules parce qu'ils ont besoin d'utiliser la machinerie cellulaire pour se répliquer. Pour les virus à ARN, ce processus est très sujet à l'erreur, car la plupart des polymérases à ARN (les machines moléculaires qui font des copies d'ARN) ne sont pas capables de relire et de corriger leur travail. Cela entraîne de fréquentes mutations du génome viral ; celles-ci sont normales et attendues.
 <br><br>
@@ -120,7 +120,7 @@ Rarement, une modification du code génétique d'un virus peut l'aider à mieux 
 Ces différences dans les génomes entre les virus peuvent être utilisées comme des "miettes de pain" pour retracer l'histoire d'un échantillon donné.
 Tout comme les membres de votre famille partagent des combinaisons uniques de caractéristiques génétiques, des échantillons viraux étroitement liés partagent des combinaisons uniques de mutations génétiques.
 <br><br>
-Par exemple, nous montrons ici l'"arbre généalogique" viral avec chaque échantillon coloré en fonction de l'acide aminé présent à un endroit spécifique du génome viral (gène "ORF1a", site 57).
+Par exemple, nous montrons ici l'"arbre généalogique" viral avec chaque échantillon coloré en fonction de l'acide aminé présent à un endroit spécifique du génome viral (gène "ORF3a", site 57).
 <br><br>
 En mettant en évidence les échantillons de New York, on constate que la plupart des cas de New York et d'Europe ont l'acide aminé Histidine ("H") plutôt que Glutamine ("Q") à cette position. Ceci, en combinaison avec tous les autres sites du génome, nous indique que ces cas sont tous étroitement liés les uns aux autres.
 <br><br>
