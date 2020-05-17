@@ -19,8 +19,10 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators:
   - Miguel Andrade
+  - Talita Amado
 translatorLinks:
   - https://www.linkedin.com/in/miguel-andrade-10500025/
+  - https://twitter.com/amadotalita
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
@@ -49,11 +51,11 @@ Nós analisamos 5.193 genomas de COVID-19 compartilhados publicamente. Ao compar
 # [Fontes sobre a COVID-19](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
 #### Materiais da Nextstrain
-* [COMECE AQUI: Como interpretar árvores filogenéticas](https://nextstrain.org/narratives/trees-background/).
+* [COMECE AQUI: Como interpretar árvores filogenéticas](https://nextstrain.org/narratives/trees-background/pt).
 * [Informes anteriores](https://nextstrain.org/ncov-sit-reps/).
 * [Tópicos explicativos do Twitter](https://bedford.io/misc/twitter/).
 * [Informações acerca dos coronavírus](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Equívocos comuns](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Equívocos comuns](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-03-13?n=11).
 
 #### Materiais Externos
 * [Como os coronavírus mutam e se espalham (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
