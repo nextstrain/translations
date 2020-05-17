@@ -179,8 +179,8 @@ Há muito debate sobre os méritos relativos dessas duas hipóteses. Será impor
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [O que nós podemos fazer?](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
-#### ... como indivíduo
+# [O que você pode fazer?](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+#### ... como um indivíduo
 * Pratique distanciamento social estrito, especialmente se você faz parte de algum grupo de risco.
 * Lembre-se que mesmo que você não seja super vulnerável, muitas pessoas ao seu redor são. Siga essas práticas também para proteger os outros.
 * Lave suas mãos "como se você tivesse acabado de cortar pimenta e precisasse colocar suas lentes de contato".  
@@ -214,6 +214,6 @@ Há muito debate sobre os méritos relativos dessas duas hipóteses. Será impor
 
 Gostaríamos de reconhecer o trabalho incrível e oportuno realizado por todos os cientistas envolvidos nesse surto. Somente com o compartilhamento rápido de dados genômicos e de metadados é que análises como essa são possíveis.
 <br><br>
-**Nós encorajamos você a clicar em 'Explore the Data Yourself' e role para baixo para obter uma lista completa de autores; o autor de cada sequência individual está disponível selecionando-o na árvore.**
+**Nós encorajamos você a clicar em 'Explore os dados' e role para baixo para obter uma lista completa de autores; o autor de cada sequência individual está disponível selecionando-o na árvore.**
 <br><br>
 Também agradecemos a GISAID por fornecer a plataforma pela qual esses dados podem ser inseridos e compartilhados.
