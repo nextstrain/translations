@@ -60,7 +60,7 @@ Przeanalizowaliśmy 5,193</tag> publicznie dostępnych genomów SARS-CoV-2. Por�
 * [Poprzednie raporty](https://nextstrain.org/ncov-sit-reps/).
 * [Explanatory Twitter threads](https://bedford.io/misc/twitter/).
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Przesądy](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Przesądy](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-03-13?n=11).
 
 #### Inne materiały
 * [How coronavirus mutations and spreads (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
