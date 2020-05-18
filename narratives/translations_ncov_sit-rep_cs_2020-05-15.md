@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19. Situation report 2020-05-15.
+title: Genomová analýza šíření nemoci COVID-19. Situační zpráva ze dne 15. 5. 2020.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -17,13 +17,13 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
+translators: Zajišťuje společnost Google
+translatorLinks: www.google.com
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "Nextstrain Situation Reports use publicly shared genomic data to track the spread and evolution of SARS-CoV-2. This week, we give an overview of viral mutations and what they mean (and don't mean) for the COVID-19 pandemic."
+abstract: „Situační zprávy Nextstrain využívají veřejně dostupné genomové údaje ke sledování šíření a evolučního vývoje viru SARS-CoV-2. V tomto týdnu uvádíme přehled mutací viru a jaký mají (či naopak nemají) význam v rámci pandemie nemoci COVID-19.“
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,188 +31,190 @@ abstract: "Nextstrain Situation Reports use publicly shared genomic data to trac
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Executive summary](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Úvodní přehled](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
 
-We analyzed 5,193 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is evolving and moving around the world. This week, we focus on viral mutations. We cover:
+Provedli jsme analýzu 5 193 veřejně dostupných genomů viru způsobujícího nemoc COVID-19. Vzájemným porovnáním těchto virových genomů můžeme popsat, jak se virus SARS-CoV-2 vyvíjí a postupuje světem. Tento týden se zaměříme na mutace viru. Budeme se zabývat těmito tématy:
 <br><br>
-* Where viral mutations come from (they're normal)  
-* The rate of mutation in SARS-CoV-2 (very typical)
-* How many strains of SARS-CoV-2 are circulating (as far as we know: 1)  
-* How geography and epidemiology contribute to perceived differences in viral genotypes (this is tricky)
+* Odkud se mutace viru berou (není to nic nenormálního)  
+* Rychlost mutace viru SARS-CoV-2 (naprosto typická)
+* Kolik kmenů viru SARS-CoV-2 se kolem nás vyskytuje (pokud je nám známo: 1)  
+* Jak k pozorovaným rozdílům ve virových genotypech přispívají geografické a epidemiologické faktory (odpověď není jednoduchá)
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
+# [Informační zdroje o nemoci COVID-19](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/).
-* [Explanatory Twitter threads](https://bedford.io/misc/twitter/).
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+#### Zdroje na webu Nextstrain
+* [ZAČNĚTE ZDE: Jak číst fylogenetický strom](https://nextstrain.org/narratives/trees-background/).
+* [Předchozí situační zprávy](https://nextstrain.org/ncov-sit-reps/).
+* [Výkladová diskusní vlákna na Twitteru](https://bedford.io/misc/twitter/).
+* [Základní informace o koronavirech](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Běžné omyly a mýty](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources
-* [How coronavirus mutations and spreads (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+#### Externí zdroje
+* [Jak koronavirus mutuje a jak se šíří (NY Times)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [Zeptejte se odborníka a časté dotazy](https://covid19.fas.org/l/en).
+* [Situační zprávy Světové zdravotnické organizace (WHO)](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Zdroje publikované Střediskem pro kontrolu a prevenci nemocí (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Situation Report Hiatus
+# Přerušení vydávání situačních zpráv
 <p>
-Early in the pandemic, it was unclear how SARS-CoV-2 was moving between countries, where it was circulating locally, and how localized outbreaks were related.
-Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
+Na samém počátku pandemie nebylo jasné, jak se SARS-CoV-2 pohybuje mezi zeměmi, kde koluje lokálně a jak spolu souvisí jednotlivá lokalizovaná ohniska.
+Tyto a další otázky jsme řešili během posledních čtyř měsíců v našich týdenních situačních zprávách. V této fázi pandemie je zřejmé, že některé obecné charakteristiky jsou do značné míry shodné napříč regiony a zeměmi:  
 </p>
 <p/>
 
-- Outbreaks across even distant parts of the world are deeply intertwined.<p/>
+– Ohniska nákazy i ve vzdálených částech světa jsou hluboce provázána.<p/>
 
-- Through human migration and travel, the virus has been introduced to most communities multiple times.<p/>  
+– Díky lidské migraci a cestování byl virus do většiny komunit zanesen opakovaně.<p/>  
 
-- Once these "sparks" land in a new community, many fizzle out without causing widespread transmission. Subject to local conditions and a bit of chance, some of these sparks grow into local outbreaks.<p/>  
+– Jakmile tyto „zárodky“ proniknou do nové komunity, řada z nich odezní, aniž by způsobily rozsáhlé šíření. V závislosti na místních podmínkách a s určitým přispěním náhody se některé z těchto zárodků rozrostou v místní ohniska nákazy.<p/>  
 
-- Eventually, these local outbreaks send off sparks of their own, spreading to new locations.  
+– Nakonec tato lokální ohniska vysílají své vlastní zárodky a šíří se na nová místa.  
 <p/>
 
-Unsurprisingly, we see this pattern in countries experiencing their first wave of infections. More alarmingly, we also see this pattern after re-introductions of the virus to countries where the initial peak passed months beforehand.
-Ultimately, this pattern is only broken when a country is able to effectively test, trace, and isolate cases immediately.
+Není překvapením, že tento model vidíme v zemích, které zažívají první vlnu infekce. Znepokojivější je, že stejný model vidíme i po opětovném zanesení viru do zemí, kde k prvotnímu vrcholu epidemie došlo o měsíce dříve.
+V konečném výsledku dochází k narušení tohoto modelu pouze tehdy, když je země schopna okamžitě účinně testovat, sledovat a izolovat jednotlivé případy.
 <br><br>
 
-This means that outbreaks across the world are deeply connected, and the battle against COVID-19 will always be global -- we can't conquer the virus anywhere without addressing it everywhere.
+To znamená, že ohniska po celém světě jsou těsně provázána a bitva proti nemoci COVID-19 bude vždy globální – virus nemůžeme nikde porazit, aniž bychom s ním bojovali úplně všude.
 <br><br>
 
-At this stage of the pandemic, genomic epidemiology is most urgently needed within local and hyperlocal communities through local public health offices.
+V této fázi pandemie je genomová epidemiologie naléhavě potřebná v lokálních a hyperlokálních komunitách prostřednictvím místních zdravotnických orgánů.
 <br><br>
 
-As such, this will be our last weekly Situation Report for a while, though we aim to support similar reports from local public health officials.
+Toto je tedy naše poslední týdenní situační zpráva, i když si klademe za cíl podporovat publikování podobných zpráv místními orgány ochrany veřejného zdraví.
 <br><br>
 
-We will, of course, continue daily updates to the global & regional builds as new sequences are made available.
-When the big-picture data says something new, we'll also issue additional Situation Reports.
-All of these updates will be posted to the [Nextstrain twitter account](https://twitter.com/nextstrain) (as always).  
+Budeme samozřejmě pokračovat v každodenních aktualizacích globálních a regionálních sestav, jakmile budou k dispozici nové sekvence.
+Když nám tato obecná data napoví něco nového, vydáme i další situační zprávy.
+Všechny takové novinky budou zveřejněny na [twitterovém účtu Nextstrain](https://twitter.com/nextstrain) (jako vždy).  
 <br><br>
 
-You can also find <a href="https://nextstrain.org/ncov-sit-reps/">all of our previous Situation Reports here</a>.
+Naše předchozí situační zprávy najdete také <a href="https://nextstrain.org/ncov-sit-reps/">zde</a>.
 
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Changes in viral genomes over time are normal](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
+# [Změny ve virovém genomu v čase jsou normální](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-SARS-CoV-2, the virus that causes the disease COVID-19, is a [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
+Virus SARS-CoV-2, původce nemoci COVID-19, je takzvaný [koronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Stejně jako u jiných koronavirů je i u SARS-CoV-2 nositelem genetické informace RNA (ne tedy DNA)..
 <br><br>
-Viruses infect cells because they need to borrow cellular machinery to replicate. For RNA viruses, this process is quite error-prone, as most RNA polymerases (the molecular machines that make copies of RNA) aren't able to proofread and correct their work. This leads to frequent mutations in the viral genome; these are normal and expected.
+Viry infikují buňky, protože potřebují využít buněčný mechanismus k replikaci. U RNA virů je tento proces výrazně náchylný k chybám, protože většina RNA polymeráz (molekulární „stroje“, které vytvářejí kopie RNA) není schopna svou práci kontrolovat a opravovat. To vede k častým mutacím ve virovém genomu, což je normální a očekávaný proces.
 <br><br>
-Importantly, the vast majority of these mutations either "break" the virus such that it can't transmit and/or replicate anymore, or don't change the virus at all because of [redundant encoding](https://en.wikipedia.org/wiki/Synonymous_substitution).
-This means that the mutations don't change the proteins, and therefore function, of the virus in any way.
-Other changes may modify a protein of the virus very slightly, but not impact the function at all.
-Rarely, a change in the genetic code of a virus can help it to replicate and/or transmit better, but nearly all of these changes still have only a tiny effect.
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text -->
-# [Variation in viruses' genetic code is useful for tracing outbreaks](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
-
-These differences in the genomes between viruses can be used as "bread crumbs" to trace the history of a given sample.
-Just as the people in your family share unique combinations of genetic characteristics, closely related viral samples share unique combinations of genetic mutations.
-<br><br>
-For example, here we show the viral "family tree" with each sample colored by which amino acid is present at a specific location in the viral genome (gene "ORF1a", site 57).
-<br><br>
-Highlighting samples from New York, we see that most of the cases from New York and Europe have the amino acid Histidine ("H") rather than Glutamine ("Q") at this position. This, in combination with all the other sites in the genome, tells us that these cases are all closely related to each other.
-<br><br>
-You can also see the position in gene "ORF3a" highlighted on the chart at the bottom of the left.
-<br><br>
-For a more in-depth explanation of these concepts, we recommend [this visual explanation](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
-
+Důležité je, že velká většina těchto mutací buď virus „poškodí“ tak, že se již nedokáže přenášet nebo replikovat, nebo díky [redundantnímu kódování](https://en.wikipedia.org/wiki/Synonymous_substitution). virus nezmění vůbec.
+To znamená, že mutace žádným způsobem nezmění proteiny, a tedy ani funkci viru.
+Jiné změny mohou sice protein viru velmi nepatrně modifikovat, ale funkci vůbec neovlivní.
+Ve vzácných případech může změna v genetickém kódu pomoci viru se lépe replikovat nebo přenášet, ale téměř všechny takové změny mají stále jen nepatrný účinek.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [The evolutionary rate of SARS-CoV-2 is typical for a coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
+# [Variace v genetickém kódu virů jsou užitečné při trasování ohnisek nákazy](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
 
-Because viral genomes inevitably change, these differences tend to accumulate at a steady rate over time.
+Tyto rozdíly v genomech mezi viry lze použít jako „drobečky v pohádkách“ při trasování historie daného vzorku.
+Stejně jako lidé ve vaší rodině sdílejí jedinečné kombinace genetických charakteristik, blízce příbuzné virové vzorky sdílejí jedinečné kombinace genetických mutací.
 <br><br>
-Here, the x axis shows the date that each sample was collected. The y axis shows the *total number* of mutations each strain is away from the root of the tree. Each sample is colored by the date it was collected.
+Například zde zobrazujeme virový „rodokmen“, v němž jsou jednotlivé vzorky označeny barvou udávající, která aminokyselina je ve virovém genomu přítomna na určitém místě (gen „ORF3a“, pozice 57)).
 <br><br>
-While there are certainly some outliers, on average, we see changes accumulate at a rate of ~24 substitutions per year. This means that if a single viral lineage were transmitting from one person to the next for a full year, we'd expect its entire genome to accumulate roughly 24 substitutions by the end of the year.
-As the whole SARS-CoV-2 genome is ~30,000 bases, this corresponds to roughly ~1 mutation per 1,000 bases in a year.
+Vybereme-li vzorky z New Yorku, vidíme, že většina případů z New Yorku a Evropy má v této pozici častěji aminokyselinu Histidin (H) než Glutamin (Q). V kombinaci se všemi ostatními místy v genomu nám to říká, že všechny tyto případy jsou úzce příbuzné.
 <br><br>
-For context, influenza would average ~2 mutations per 1,000 bases per year; HIV would average ~4 mutations per 1,000 bases per year.
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text -->
-# [As far as we know, there is only 1 strain of SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
-
-There have been many reports about multiple "strains" of SARS-CoV-2.
-First, a clarification: when virologists use the word "strain," it's often just as a useful label so we can all refer to the same group of samples (e.g., our clade labels, shown here). This does *not* imply any known functional difference.
+Tuto pozici v genu ORF3a můžete také vidět zvýrazněnou na grafu v dolní části vlevo.
 <br><br>
-Separately, "strain" can be used to refer to viral genotypes that are functionally distinct, either biologically (e.g., pathogenicity/disease severity) and/or epidemiologically (e.g., transmissibility).
-Importantly, though, determining whether two genotypes actually *are* functionally distinct requires much more experimental, clinical and epidemiological data than we currently have.
-<br><br>
-One of the most prominent hypotheses about SARS-CoV-2 strains compares possible "D614" vs "G614" strains.
+K podrobnějšímu vysvětlení uvedených konceptů doporučujeme využít tento [vizuální výklad](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) Jonathana Coruma a Carla Zimmera.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [D614G may be related to transmissibility, but could also be explained by geography](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [Evoluční rychlost SARS-CoV-2 je typická pro koronaviry](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
 
-[A recent pre-print](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) suggests that a single mutation, D614G (from amino acid "D" to "G" at site 614 in the "S" ('spike') protein), may be responsible for increasing the transmissibility of SARS-CoV-2.
+Protože se virové genomy nevyhnutelně mění, mají tyto rozdíly tendenci se v průběhu času akumulovat ustálenou rychlostí.
 <br><br>
-In many geographic areas, the relative frequency of 614D compared to 614G increased over time.
-If a certain genotype leads to better transmissibility, we would expect it's frequency to increase over time.
-There are, however, other explanations to why the relative frequency of some genotypes would increase over time.
+Osa x zde udává datum odběru jednotlivých vzorků. Osa y udává *celkový počet* mutací, o které se jednotlivé kmeny vzdalují od kořene stromu. Každý vzorek je označen barvou podle data, kdy byl odebrán.
 <br><br>
-For this site, we see a number of geographic locations where initially, most viral lineages in circulation had the D allele; later, this balance flips such that most lineages have the G allele.
-This *could* be a hallmark of G being slightly "fitter" than D (e.g., if viruses with the G mutation had a slightly higher R0 through increased transmissibility).
+I když se zde samozřejmě vyskytují nějaké odlehlé hodnoty, v průměru vidíme změny hromadící se rychlostí cca 24 substitucí za rok. To znamená, že kdyby se jedna virová linie celý rok přenášela z jedné osoby na druhou, očekávali bychom, že do konce roku se v celém jejím genomu akumuluje zhruba 24 substitucí.
+Protože celková velikost genomu SARS-CoV-2 je cca 30 000 bází, odpovídá to zhruba 1 mutaci na 1 000 bází za rok.
 <br><br>
-However, this could also just be a side effect of the natural history of the pandemic.
-Early on in the pandemic, most strains exported from China had a D allele. Later, most strains from Italy had a G allele. Recently, we've seen more exportation from Europe than from Asia overall (although there's certainly some sampling bias at play here, as well).
-Thus, it could just be that this particular genotype got lucky, and spread so rapidly because it got there first.
+Pro srovnání, virus chřipky vykazuje průměrně cca 2 mutace na 1 000 bází za rok a virus HIV vykazuje průměrně 4 mutace na 1 000 bází za rok.
+
+<!-- ############ SLIDE BREAK ############# -->
+<!-- This is left-side text -->
+# [Pokud víme, zatím existuje pouze 1 kmen viru SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
+
+Objevuje se řada zpráv o více „kmenech“ SARS-CoV-2.
+Nejprve si ujasníme pojmy: když virologové používají slovo „kmen“, je to často jen užitečná identifikační nálepka, takže se můžeme všichni odvolávat na stejnou skupinu vzorků (např. naše „nálepky“ uváděné zde u jednotlivých kladů). Z toho ale *nevyplývá* žádný známý funkční rozdíl.
 <br><br>
-There's a fair amount of debate regarding the relative merits of these two hypotheses. It'll be important to carefully tease these apart, but we don't have scientific consensus on this issue yet. For a more detailed explanation, [see this thread](https://twitter.com/trvrb/status/1257825352660877313).
+Jinak může být „kmen“ používán k označení virových genotypů, které jsou funkčně odlišné, buď biologicky (např. patogenita / závažnost onemocnění) nebo epidemiologicky (např. přenosnost).
+Důležité však je, že zjistit, zda dva genotypy skutečně *jsou* z funkčního hlediska odlišné, vyžaduje mnohem více experimentálních, klinických a epidemiologických údajů, než máme v současnosti k dispozici.
+<br><br>
+Jedna z nejvýznamnějších hypotéz o kmenech SARS-CoV-2 porovnává možné kmeny D614 a G614.
+
+
+<!-- ############ SLIDE BREAK ############# -->
+<!-- This is left-side text -->
+# [D614G sice může souviset s přenosností, ale lze jej také vysvětlit geografickými faktory](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+
+[Nedávno zveřejněný článek](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1), který zatím neprošel kritickým posouzením vědeckou komunitou, naznačuje, že za zvýšení přenosnosti viru SARS-CoV-2 může být odpovědná jediná mutace, a to D614G (z aminokyseliny D na G v pozici 614 v proteinu S („spike“)).
+<br><br>
+V mnoha geografických oblastech se relativní četnost výskytu 614D ve srovnání s 614G postupem času zvyšovala.
+Pokud určitý genotyp vede k vyšší přenosnosti, očekáváme, že se jeho četnost v průběhu času zvyšuje.
+Existují však i jiná vysvětlení, proč by se relativní četnost některých genotypů časem mohla zvyšovat.
+<br><br>
+U této pozice vidíme řadu geografických lokalit, kde zpočátku měla většina vyskytujících se virových linií alelu D, později se ale tato rovnováha změnila tak, že většina linií má alelu G.
+To by *mohla být* známka toho, že G je mírně „vhodnější“ než D (např. kdyby viry s G mutací měly díky vyšší přenosnosti mírně vyšší koeficient R0).
+<br><br>
+Může to však být jen vedlejším účinkem přirozené historie pandemie.
+Na počátku pandemie měla většina kmenů šířících se z Číny alelu D. Později měla většina kmenů z Itálie alelu G. V poslední době obecně pozorujeme vyšší podíl šíření viru z Evropy než z Asie (i když zde určitě hraje jistou roli i bias vzorku neboli nereprezentativní vzorkování).
+Mohlo by to tedy být i tak, že tento konkrétní genotyp měl prostě štěstí a rozšířil se tak rychle, protože se na dané místo dostal jako první.
+<br><br>
+V současnosti probíhá poměrně intenzivní debata o relativních přednostech těchto dvou hypotéz. Bude důležité je pečlivě rozklíčovat, zatím ale v této otázce neexistuje vědecký konsenzus. Podrobnější výklad najdete v [tomto vlákně](https://twitter.com/trvrb/status/1257825352660877313).
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Co můžete udělat vy](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+#### ... jako běžný občan
+* Důsledně omezovat společenský kontakt, zejména pokud spadáte do ohrožené skupiny.
+* Nezapomínejte, že i když vy sami do silně ohrožené skupiny nepatříte, řada lidí kolem vás ano. Dodržováním těchto opatření chráníte ostatní.
+* Myjte si ruce, „jako byste právě nakrájeli silně pálivou papriku a chystali se vyměnit si kontaktní čočky“.
+* Co nejvíce se zdržujte doma – zejména pokud jste nemocní. Pořiďte si zásoby pro případ, že budete muset zůstat v domácí karanténě.
+* Jste-li zaměstnavatel, nabídněte všem zaměstnancům, u kterých je to možné, práci z domova.
 
-#### ...as an official
-* Make testing free and broadly available.
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing efforts.
-* Financially support those impacted by social distancing measures.
+#### ... jako představitel veřejné moci
+* Zpřístupněte bezplatné a široce dostupné testování.
+* Zaveďte přísná pravidla omezení společenského kontaktu (tzv. social distancing).
+* Financujte a zavádějte rozsáhlé projekty trasování kontaktů.
+* Podpořte finančně osoby postižené pravidly omezení společenského kontaktu.
 
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
-# Takeaways  
+# Klíčové závěry  
 
-#### Viruses naturally acquire mutations as they replicate. This is normal. Mutations can also help us trace the course of epidemics.  
+#### Ve virech během replikace přirozeně dochází k mutacím. To je normální jev. Mutace nám mimo jiné umožňují trasovat postup epidemií.  
 
-#### SARS-CoV-2 mutation rate is very typical for coronaviruses.
+#### Rychlost mutace SARS-CoV-2 je pro koronaviry zcela typická.
 
-#### As far as we know, there is only 1 functional "strain" of SARS-CoV-2.  
+#### Pokud víme, zatím existuje pouze 1 funkční „kmen“ viru SARS-CoV-2.  
 
-#### Teasing apart the biological impact of specific mutations is tricky -- many perceived differences can be attributed to chance and epidemiological factors.  
+#### Rozklíčování biologického dopadu konkrétních mutací je složité – mnoho zaznamenaných rozdílů lze připsat náhodě a epidemiologickým faktorům.  
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
+# [Poděkování vědeckým pracovníkům a institucím](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Chtěli bychom ocenit úžasnou a rychlou práci všech vědců bojujících s touto nákazou.
+Analýzy tohoto typu jsou možné pouze na základě rychlého sdílení genomových dat a metadat.
 <br><br>
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+**Doporučujeme vám kliknout na odkaz „Explore the Data Yourself“, kde po posunutí stránky dolů najdete úplný seznam autorů. Autor každé jednotlivé sekvence je k dispozici po jejím výběru na stromě.**
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Dále děkujeme organizaci GISAID za poskytnutí platformy, přes kterou lze tyto údaje nahrávat a sdílet.
+
+
