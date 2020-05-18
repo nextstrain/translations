@@ -17,8 +17,8 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: Inilaan ng Google
-translatorLinks: www.google.com
+translators: "Inilaan ng Google"
+translatorLinks: "https://www.google.com"
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
@@ -47,7 +47,7 @@ Sinuri namin ang 5,193 na genome ng COVID-19 na ibinahagi sa publiko. Sa pamamag
 # [Mga Sanggunian sa COVID-19](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
 #### Mga Sanggunian ng Nextstrain
-* [MAGSIMULA RITO: Paano basahin ang isang phylogeny](https://nextstrain.org/narratives/trees-background/).
+* [MAGSIMULA RITO: Paano basahin ang isang phylogeny](https://nextstrain.org/narratives/trees-background/tl).
 * [Mga Dating Ulat sa Sitwasyon](https://nextstrain.org/ncov-sit-reps/).
 * [Mga thread sa Twitter na Nagpapaliwanag](https://bedford.io/misc/twitter/).
 * [Background sa mga coronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
@@ -120,7 +120,7 @@ Madalang mangyari na ang pagbabago sa genetic code ng virus ay nakatutulong dito
 Ang mga pagkakaibang ito sa mga genome sa pagitan ng mga virus ay maaaring gamitin bilang "palatandaan" upang subaybayan ang kasaysayan ng ibinigay na sample.
 Tulad ng mga tao sa inyong pamilya na may parehong natatanging mga kumbinasyon ng mga katangiang genetic, ang malapit na magkakaugnay na mga viral sample ay may parehong natatanging kumbinasyon ng mga genetic mutation.
 <br><br>
-Halimbawa, ipinakikita namin dito ang viral "family tree" kung saan ang bawat sample ay may kulay kung saan ang amino acid ay naroroon sa espesipikong lokasyon sa viral genome (gene "ORF1a", site 57).
+Halimbawa, ipinakikita namin dito ang viral "family tree" kung saan ang bawat sample ay may kulay kung saan ang amino acid ay naroroon sa espesipikong lokasyon sa viral genome (gene "ORF3a", site 57).
 <br><br>
 Sa pagtuon sa mga sample mula sa New York, nakikita namin na karamihan ng mga kaso mula sa New York at Europa ay may amino acid Histidine ("H") imbes na Glutamine ("Q") sa posisyong ito. Kapag isinama sa lahat ng iba pang site sa genome, sinasabi nito sa atin na ang mga kasong ito ay malapit na magkakaugnay sa isa't isa.
 <br><br>
@@ -161,7 +161,7 @@ Isa sa mga pinakaprominenteng hypothesis tungkol sa mga strain ng SARS-CoV-2 ay 
 
 [Ipinahihiwatig ng kamakailang pre-print](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) na ang isahang mutation, ang D614G (mula sa amino acid "D" tungo sa "G" sa site 614 sa "S" ('spike') protein), ang maaaring responsable sa pagtaas ng kakayahang maipasa ng SARS-CoV-2.
 <br><br>
-Sa maraming heograpikong lugar, ang nauugnay na dalas ng 614D kumpara sa 614G ay nadagdagan sa paglipas ng panahon.
+Sa maraming heograpikong lugar, ang nauugnay na dalas ng 614G kumpara sa 614D ay nadagdagan sa paglipas ng panahon.
 Kapag ang isang partikular na genotype ay humahantong sa mas mahusay na kakayahang maipasa, aasahan natin na madaragdagan ang dalas nito sa paglipas ng panahon.
 Gayunman, may iba pang mga paliwanag kung bakit ang nauugnay na dalas ng ilang genotype ay nadaragdagan sa paglipas ng panahon.
 <br><br>
