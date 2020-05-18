@@ -111,25 +111,24 @@ abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 
 <br><br>
 病毒之所以会感染细胞，是因为它需要借用细胞中的工具来自我复制。RNA病毒的自我复制过程是非常容易出错的，因为大多数RNA聚合酶（能够复制RNA的分子）没有校对功能，不能自我纠错。这会导致病毒基因组中出现频繁的突变，这是正常现象，也是我们意料之中的。
 <br><br>
-重要的是，大部分的突变要么会“破坏”病毒，让它不能传播和/或复制，要么不会产生任何影响，由于[基因组编码的冗余性](https://en.wikipedia.org/wiki/Synonymous_substitution)。
+重要的是，大部分的突变要么会“破坏”病毒，让它不能传播和/或复制，要么则由于[基因组编码的冗余性](https://en.wikipedia.org/wiki/Synonymous_substitution)而不会产生任何影响。
 也就是说，这样的突变在任何意义上都不会改变病毒的蛋白质乃至其功能。
 还有一些突变可能会非常轻微地改变病毒的蛋白质，但不会对其功能产生任何影响。
-在非常罕见的情况下，遗传密码中的改变会帮助病毒更好地复制和/或传播，但几乎所有这类改变都仍只能造成非常轻微的影响。
+在非常罕见的情况下，遗传密码中的改变会帮助病毒更好地复制和/或传播，但几乎所有这类改变都仍只能造成非常小的影响。
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Variation in viruses' genetic code is useful for tracing outbreaks](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
-
-These differences in the genomes between viruses can be used as "bread crumbs" to trace the history of a given sample.
-Just as the people in your family share unique combinations of genetic characteristics, closely related viral samples share unique combinations of genetic mutations.
+# [病毒遗传密码中的变异有助于追踪疫情走向](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
+病毒基因组中的不同突变就像是糖果屋故事里的面包屑，可以用来追踪某个病毒样本的历史。
+就像同一家庭中的成员会在遗传特征上共同表现出某一独特的排列组合方式一样，亲缘关系接近的病毒样本会共有一套独特的基因突变的排列组合。
 <br><br>
-For example, here we show the viral "family tree" with each sample colored by which amino acid is present at a specific location in the viral genome (gene "ORF3a", site 57).
+举例来说，这里我们展示一幅病毒的“家谱图”，其中每个样本的颜色代表该病毒基因组的一个特定位点（“ORF3a”基因的57号位）的氨基酸种类。
 <br><br>
-Highlighting samples from New York, we see that most of the cases from New York and Europe have the amino acid Histidine ("H") rather than Glutamine ("Q") at this position. This, in combination with all the other sites in the genome, tells us that these cases are all closely related to each other.
+图中高亮的是来自纽约的样本，我们看到，大多数来自纽约和欧洲的样本在这个位点上的氨基酸是组氨酸（H），而不是谷氨酰胺（Q）。这个信息，再加上病毒基因组中其他位点的信息，可以告诉我们，这些病毒彼此之间的亲缘关系都很近。
 <br><br>
-You can also see the position in gene "ORF3a" highlighted on the chart at the bottom of the left.
+在下方的图表中，您也可以看到ORF3a基因中的这个位点被高亮了出来。
 <br><br>
-For a more in-depth explanation of these concepts, we recommend [this visual explanation](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
+如果您想深入理解这些概念，我们推荐Jonathan Corum和Carl Zimmer的这篇[可视化的解读（英文）](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html)。
 
 
 <!-- ############ SLIDE BREAK ############# -->
