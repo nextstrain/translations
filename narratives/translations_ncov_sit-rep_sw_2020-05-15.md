@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19. Situation report 2020-05-15.
+title: Uchanganuzi wa kijeni kuhusu kusambaa kwa COVID-19. Ripoti ya 2020-05-15 kuhusu hali ilivyo.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -17,13 +17,13 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
+translators: Imetolewa na Google
+translatorLinks: www.google.com
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "Nextstrain Situation Reports use publicly shared genomic data to track the spread and evolution of SARS-CoV-2. This week, we give an overview of viral mutations and what they mean (and don't mean) for the COVID-19 pandemic."
+abstract: "Ripoti za Nextstrain kuhusu Hali Ilivyo hutumia data ya kijeni inayoonyeshwa kwa umma kufuatilia kusambaa na mabadiliko ya kijeni ya SARS-CoV-2. Wiki hii, tunatoa muhtasari wa mabadiliko ya kijeni ya virusi na yanavyoathiri (na yasivyoathiri) kusambaa kwa janga la COVID-19."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,188 +31,190 @@ abstract: "Nextstrain Situation Reports use publicly shared genomic data to trac
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Executive summary](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Muhtasari](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
 
-We analyzed 5,193 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is evolving and moving around the world. This week, we focus on viral mutations. We cover:
+Tulichunguza jeni 5,193 za COVID-19 zinazoonyeshwa kwa umma. Kwa kulinganisha jeni hizi za virusi moja kwa nyingine, tunaweza kufafanua jinsi SARS-CoV-2 inavyobadilika kijeni na kusambaa ulimwenguni. Wiki hii, tunaangazia mabadiliko ya kijeni ya virusi. Tunaangazia:
 <br><br>
-* Where viral mutations come from (they're normal)  
-* The rate of mutation in SARS-CoV-2 (very typical)
-* How many strains of SARS-CoV-2 are circulating (as far as we know: 1)  
-* How geography and epidemiology contribute to perceived differences in viral genotypes (this is tricky)
+* Chanzo cha mabadiliko ya kijeni ya virusi (ni ya kawaida)  
+* Kasi ya mabadiliko ya kijeni kwa virusi vya SARS-CoV-2 (kawaida sana)
+* Idadi ya aina za SARS-CoV-2 zinazoambukizwa (kulingana na uchunguzi wetu: 1)  
+* Jinsi vigezo vya kijiografia na kiepidimiolojia vinavyoathiri ufasiri wa aina tofauti za jeni za virusi (inahitaji uchanganuzi wa kina)
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
+# [Nyenzo za COVID-19](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/).
-* [Explanatory Twitter threads](https://bedford.io/misc/twitter/).
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+#### Nyenzo za Nextstrain
+* [ANZIA HAPA: Jinsi ya kufasiri mchoro wa kimatawi wa kifilojenetiki](https://nextstrain.org/narratives/trees-background/).
+* [Ripoti za Awali kuhusu Hali Ilivyo](https://nextstrain.org/ncov-sit-reps/).
+* [Maelezo Fafanuzi kwenye Twitter](https://bedford.io/misc/twitter/).
+* [Utangulizi kuhusu virusi vya corona](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Dhana potovu](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources
-* [How coronavirus mutations and spreads (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+#### Nyenzo Zingine
+* [Jinsi virusi vya korona vinavyobadilika kijeni na kusambaa (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [Muulize Mwanasayansi na Maswali Yanayoulizwa Sana](https://covid19.fas.org/l/en).
+* [Ripoti za Shirika la Afya Duniani kuhusu Hali Ilivyo](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Nyenzo za CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Situation Report Hiatus
+# Kusitishwa kwa Ripoti kuhusu Hali Ilivyo
 <p>
-Early in the pandemic, it was unclear how SARS-CoV-2 was moving between countries, where it was circulating locally, and how localized outbreaks were related.
-Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
+Janga lilipozuka, haikufahamika jinsi virusi vya SARS-CoV-2 vilikuwa vikisambaa kati ya nchi tofauti, eneo ambako vilikuwa vikisambaa na jinsi kusambaa kwake katika maeneo tofauti kulikuwa kunahusiana.
+Katika miezi minne iliyopita, tumeshughulikia masuala haya - na zaidi - katika Ripoti zetu za kila wiki kuhusu Hali Ilivyo. Kulingana na hali ya janga ilivyo kwa sasa, ni bayana kuwa linasambaa kwa njia sawa katika maeneo na nchi tofauti:  
 </p>
 <p/>
 
-- Outbreaks across even distant parts of the world are deeply intertwined.<p/>
+- Milipuko hata katika maeneo yaliyo mbalimbali ulimwenguni inaonekana kuwa na chanzo sawa.<p/>
 
-- Through human migration and travel, the virus has been introduced to most communities multiple times.<p/>  
+- Watu wengi katika jamii nyingi wameambukizwa virusi hivi kutokana na watu kuhama na kusafiri.<p/>  
 
-- Once these "sparks" land in a new community, many fizzle out without causing widespread transmission. Subject to local conditions and a bit of chance, some of these sparks grow into local outbreaks.<p/>  
+- "Milipuko" hii inapozuka katika eneo ambalo halijaathiriwa, huishia kufifia bila kusababisha maambukizi ya watu wengi. Baadhi ya milipuko hii huishia kuwa maambukizi ya kieneo kutegemea hali na uwezekano wa kusambaa katika eneo fulani.<p/>  
 
-- Eventually, these local outbreaks send off sparks of their own, spreading to new locations.  
+- Hatimaye, maambukizi ya kieneo huzalisha maambukizi zaidi, ambayo husambaa katika maeneo mapya ambayo hayajaathirika.  
 <p/>
 
-Unsurprisingly, we see this pattern in countries experiencing their first wave of infections. More alarmingly, we also see this pattern after re-introductions of the virus to countries where the initial peak passed months beforehand.
-Ultimately, this pattern is only broken when a country is able to effectively test, trace, and isolate cases immediately.
+Haishangazi kuona mkondo huu huu katika nchi zinazoripoti maambukizi kwa mara ya kwanza. La kutia wasiwasi zaidi, tunaona pia mkondo huu baada ya visa vipya kuripotiwa katika nchi ambako maambukizi ya mwanzo yaliripotiwa miezi ya awali.
+Mwishowe, mkondo huu hukomeshwa tu ikiwa nchi itaweza kutekeleza kwa ufanisi shughuli za kupima, kufuatilia na kutenga waathiriwa papo hapo.
 <br><br>
 
-This means that outbreaks across the world are deeply connected, and the battle against COVID-19 will always be global -- we can't conquer the virus anywhere without addressing it everywhere.
+Hii inamaananisha kuwa milipuko kote duniani ina chanzo sawa, na vita dhidi ya COVID-19 vinasalia kuwa vya nchi zote -- hatuwezi kushinda virusi hivi popote bila kupigana navyo kila mahali.
 <br><br>
 
-At this stage of the pandemic, genomic epidemiology is most urgently needed within local and hyperlocal communities through local public health offices.
+Kulingana na hali ya janga ilivyo kwa sasa, epidimiolojia ya kijeni inahitajika kwa haraka sana katika jamii na eneo fulani kupitia ofisi za afya za umma za eneo.
 <br><br>
 
-As such, this will be our last weekly Situation Report for a while, though we aim to support similar reports from local public health officials.
+Hivyo basi, kwa muda, hii itakuwa Ripoti yetu ya mwisho ya kila wiki kuhusu Hali Ilivyo, hata hivyo tunanuia kutoa usaidizi kuhusu ripoti sawa zinazotolewa na maafisa wa afya wa umma wa eneo.
 <br><br>
 
-We will, of course, continue daily updates to the global & regional builds as new sequences are made available.
-When the big-picture data says something new, we'll also issue additional Situation Reports.
-All of these updates will be posted to the [Nextstrain twitter account](https://twitter.com/nextstrain) (as always).  
+Bila shaka, tutaendelea kutoa taarifa kila siku kuhusu uchunguzi wa eneo na nchi zote kadri mifuatano mipya inapopatikana.
+Endapo kuna mapya kwenye data ya jumla, tutatoa pia Ripoti za ziada za Hali Ilivyo.
+Maelezo haya yote mapya yatachapishwa kwenye [akaunti ya twitter ya Nextstrain](https://twitter.com/nextstrain) (kama kawaida).  
 <br><br>
 
-You can also find <a href="https://nextstrain.org/ncov-sit-reps/">all of our previous Situation Reports here</a>.
+Unaweza pia kupata <a href="https://nextstrain.org/ncov-sit-reps/">Ripoti zetu zote za awali kuhusu Hali Ilivyo hapa</a>.
 
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Changes in viral genomes over time are normal](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
+# [Ni kawaida kwa mabadiliko ya kijeni ya virusi kutokea baada ya muda](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-SARS-CoV-2, the virus that causes the disease COVID-19, is a [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
+SARS-CoV-2, virusi vinavyosababisha COVID-19, ni [virusi vya corona](https://nextstrain.org/help/coronavirus/human-CoV). Sawa na virusi vingine vya corona, jeni za SARS-CoV-2 zinapatikana kwenye RNA (badala ya DNA).
 <br><br>
-Viruses infect cells because they need to borrow cellular machinery to replicate. For RNA viruses, this process is quite error-prone, as most RNA polymerases (the molecular machines that make copies of RNA) aren't able to proofread and correct their work. This leads to frequent mutations in the viral genome; these are normal and expected.
+Virusi huvamia seli kufyonza molekuli za seli inazohitaji kujirudufisha. Kwa virusi vya RNA, mchakato huu hukumbwa na dosari nyingi, kwa sababu polima nyingi za RNA (molekuli zinazorudufisha RNA) haziwezi kukagua na kurekebisha kasoro ya urudufishaji. Hili husababisha mabadiliko mengi ya jeni za virusi; ni ya kawaida na yanatarajiwa.
 <br><br>
-Importantly, the vast majority of these mutations either "break" the virus such that it can't transmit and/or replicate anymore, or don't change the virus at all because of [redundant encoding](https://en.wikipedia.org/wiki/Synonymous_substitution).
-This means that the mutations don't change the proteins, and therefore function, of the virus in any way.
-Other changes may modify a protein of the virus very slightly, but not impact the function at all.
-Rarely, a change in the genetic code of a virus can help it to replicate and/or transmit better, but nearly all of these changes still have only a tiny effect.
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text -->
-# [Variation in viruses' genetic code is useful for tracing outbreaks](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
-
-These differences in the genomes between viruses can be used as "bread crumbs" to trace the history of a given sample.
-Just as the people in your family share unique combinations of genetic characteristics, closely related viral samples share unique combinations of genetic mutations.
-<br><br>
-For example, here we show the viral "family tree" with each sample colored by which amino acid is present at a specific location in the viral genome (gene "ORF1a", site 57).
-<br><br>
-Highlighting samples from New York, we see that most of the cases from New York and Europe have the amino acid Histidine ("H") rather than Glutamine ("Q") at this position. This, in combination with all the other sites in the genome, tells us that these cases are all closely related to each other.
-<br><br>
-You can also see the position in gene "ORF3a" highlighted on the chart at the bottom of the left.
-<br><br>
-For a more in-depth explanation of these concepts, we recommend [this visual explanation](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
-
+Cha muhimu ni kuwa, mengi kati ya mabadiliko haya ya kijeni "husaga" virusi kiasi kwamba haviwezi kusambaa na/au kujirudufisha tena, au hayabadilishi virusi kwa njia yoyote kutokana na [urudufishaji wa protini](https://en.wikipedia.org/wiki/Synonymous_substitution).
+Hii ina maana kuwa, mabadiliko ya kijeni hayabadilishi muundo wa protini na hivyo hayaathiri makali ya virusi kwa njia yoyote.
+Mabadiliko mengine hubadilisha protini kidogo tu, lakini hayaathiri makali ya virusi kamwe.
+Ni nadra kwa mabadiliko ya mfuatano wa kijeni wa virusi kusaidia virusi kujirudufisha na/au kusambaa haraka zaidi, lakini karibu mabadiliko haya yote bado yana athari ndogo.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [The evolutionary rate of SARS-CoV-2 is typical for a coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
+# [Tofauti za mifuatano ya kijeni ya virusi ni muhimu katika kufuatilia milipuko](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
 
-Because viral genomes inevitably change, these differences tend to accumulate at a steady rate over time.
+Tofauti hizi za kijeni za virusi zinaweza kutumika kuwa "vidokezo" vya kufuatilia historia ya sampuli fulani.
+Kama vile wanafamilia wana sifa sawa za kijeni zilizo mahsusi kwao, virusi vinavyohusiana kwa ukaribu vina mabadiliko sawa ya kijeni yaliyo mahsusi kwao.
 <br><br>
-Here, the x axis shows the date that each sample was collected. The y axis shows the *total number* of mutations each strain is away from the root of the tree. Each sample is colored by the date it was collected.
+Kwa mfano, hapa tunaonyesha "mchoro wa kimatawi" wa virusi ambapo kila sampuli inalingana na asidi amino inayopatikana mahali mahsusi katika mfuatano wa kijeni wa virusi (jeni ya "ORF1a", inapatikana 57).
 <br><br>
-While there are certainly some outliers, on average, we see changes accumulate at a rate of ~24 substitutions per year. This means that if a single viral lineage were transmitting from one person to the next for a full year, we'd expect its entire genome to accumulate roughly 24 substitutions by the end of the year.
-As the whole SARS-CoV-2 genome is ~30,000 bases, this corresponds to roughly ~1 mutation per 1,000 bases in a year.
+Kwa kuangazia sampuli kutoka New York, tunaona kuwa visa vingi vilivyoripotiwa New York na Ulaya vina asidi amino ya aina ya Histidine ("H") badala ya Glutamine ("Q") katika sehemu hii. Hii, pamoja na sehemu zingine zote kwenye mfuatano, zinatuarifu kuwa visa hivi vyote vinahusiana kwa ukaribu.
 <br><br>
-For context, influenza would average ~2 mutations per 1,000 bases per year; HIV would average ~4 mutations per 1,000 bases per year.
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text -->
-# [As far as we know, there is only 1 strain of SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
-
-There have been many reports about multiple "strains" of SARS-CoV-2.
-First, a clarification: when virologists use the word "strain," it's often just as a useful label so we can all refer to the same group of samples (e.g., our clade labels, shown here). This does *not* imply any known functional difference.
+Unaweza pia kuona kuwa nafasi kwenye jeni ya "ORF3a" imeangaziwa kwenye chati upande wa chini kushoto.
 <br><br>
-Separately, "strain" can be used to refer to viral genotypes that are functionally distinct, either biologically (e.g., pathogenicity/disease severity) and/or epidemiologically (e.g., transmissibility).
-Importantly, though, determining whether two genotypes actually *are* functionally distinct requires much more experimental, clinical and epidemiological data than we currently have.
-<br><br>
-One of the most prominent hypotheses about SARS-CoV-2 strains compares possible "D614" vs "G614" strains.
+Ili upate ufafanuzi wa kina kuhusu dhana hizi, tunapendekeza [ufafanuzi huu wa kimchoro](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) uliotolewa na Jonathan Corum na Carl Zimmer.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [D614G may be related to transmissibility, but could also be explained by geography](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [Kasi ya mabadiliko ya kijeni ya SARS-CoV-2 ni ya kawaida kwa virusi vya corona](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
 
-[A recent pre-print](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) suggests that a single mutation, D614G (from amino acid "D" to "G" at site 614 in the "S" ('spike') protein), may be responsible for increasing the transmissibility of SARS-CoV-2.
+Kwa sababu mifuatano ya kijeni hatimaye hubadilika, mabadiliko haya huelekea kuwa na kasi thabiti baada ya muda.
 <br><br>
-In many geographic areas, the relative frequency of 614D compared to 614G increased over time.
-If a certain genotype leads to better transmissibility, we would expect it's frequency to increase over time.
-There are, however, other explanations to why the relative frequency of some genotypes would increase over time.
+Hapa, mstari mlalo unaonyesha tarehe ambapo kila sampuli ilikusanywa. Mstari wima unaonyesha *idadi jumla* ya mabadiliko ya kijeni kwa kila aina kutoka kwenye chanzo cha mchoro wa kimatawi. Kila sampuli inalingana na tarehe ilipokusanywa.
 <br><br>
-For this site, we see a number of geographic locations where initially, most viral lineages in circulation had the D allele; later, this balance flips such that most lineages have the G allele.
-This *could* be a hallmark of G being slightly "fitter" than D (e.g., if viruses with the G mutation had a slightly higher R0 through increased transmissibility).
+Japo kuna nyingine tofauti, kwa wastani, tunaona kuwa idadi ya mabadiliko ni takriban 24 kila mwaka. Hii inamaanisha kuwa, ikiwa aina moja ya virusi ilikuwa inasambaa kutoka mtu mmoja hadi mwingine kwa mwaka moja, tunatarajia kuwa mfuatano wake wote wa kijeni utakuwa umebadilika mara 24 kufikia mwisho wa mwaka.
+Kwa kuwa SARS-CoV-2 ina takriban molekuli 30,000 za kijeni, hii inamaanisha kuwa kuna takriban mabadiliko 1 kwa kila molekuli 1,000 za kijeni kila mwaka.
 <br><br>
-However, this could also just be a side effect of the natural history of the pandemic.
-Early on in the pandemic, most strains exported from China had a D allele. Later, most strains from Italy had a G allele. Recently, we've seen more exportation from Europe than from Asia overall (although there's certainly some sampling bias at play here, as well).
-Thus, it could just be that this particular genotype got lucky, and spread so rapidly because it got there first.
+Kimuktadha, mafua yana takriban mabadiliko 2 kwa kila molekuli 1,000 za kijeni kila mwaka; UKIMWI una takriban mabadiliko 4 kwa kila molekuli 1,000 za kijeni kila mwaka.
+
+<!-- ############ SLIDE BREAK ############# -->
+<!-- This is left-side text -->
+# [Kulingana na uchunguzi wetu, kuna aina 1 tu ya SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
+
+Kumekuwepo na ripoti nyingi kuhusu "aina" mbalimbali za SARS-CoV-2.
+Kwanza, ili kuondoa utata: wataalamu wa virusi wanapotumia neno "aina," kawaida hutumika kama lebo kurejelea kikundi fulani cha sampuli (mf., lebo zetu za wazawa, zimeonyeshwa hapa). Hii *haimaanishi* tofauti yoyote ya kibiolojia au kiepidimiolojia inayojulikana.
 <br><br>
-There's a fair amount of debate regarding the relative merits of these two hypotheses. It'll be important to carefully tease these apart, but we don't have scientific consensus on this issue yet. For a more detailed explanation, [see this thread](https://twitter.com/trvrb/status/1257825352660877313).
+Kwa upande mwingine, neno "aina" linaweza kutumika kurejelea jeni za virusi ambazo ni tofauti kibiolojia (mf., kusababisha ugonjwa/ukali wa ugonjwa) na/au kiepidimiolojia (mf., kusambaa).
+Cha muhimu hata hivyo, ili uweze kubaini ikiwa aina mbili za jeni *zinafanana* kibiolojia au kiepidimiolojia unahitaji data zaidi ya utafiti, kliniki na epidimiolojia ikilinganishwa na data tuliyonayo kwa sasa.
+<br><br>
+Mojawapo kati ya nadharia maarufu zaidi za aina za SARS-CoV-2 inalinganisha aina za "D614" na "G614".
+
+
+<!-- ############ SLIDE BREAK ############# -->
+<!-- This is left-side text -->
+# [D614G inaweza kuhusishwa na kusambaa, lakini pia inaweza kufasiriwa kijiografia](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+
+[Uchunguzi wa hivi majuzi](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) unapendekeza kuwa badilko moja la kijeni, D614G (kutoka asidi amino "D" hadi "G" kwenye sehemu ya 614 katika protini ya "S" ('spike')), huenda ndilo linasababisha kuongezeka kwa msambao wa SARS-CoV-2.
+<br><br>
+Katika maeneo mengi ya kijiografia, 614D iliongezeka baada ya muda ikilinganishwa na 614G.
+Ikiwa aina fulani ya jeni inasababisha kuongezeka kwa msambao, tunatarajia iongezeke baada ya muda.
+Hata hivyo, kuna fafanuzi nyinginezo kuhusu kuongeza kwa aina fulani za jeni baada ya muda.
+<br><br>
+Kwa sehemu hii, tunaona maeneo tofauti ya kijiografia ambako mwanzoni, mifuatano mingi ya virusi vinavyosambaa ilikuwa na molekuli ya D; baadaye, mifuatano hii inabadilika na nyingi yazo inaishia kuwa na molekuli ya G.
+*Huenda hiki* kikawa kigezo cha kuchukulia kuwa G ni "thabiti" zaidi kuliko D (mf., ikiwa virusi vyenye mabadiliko ya kijeni ya G vilikuwa na R0 ya juu kidogo kupitia msambao zaidi).
+<br><br>
+Hata hivyo, huenda hii pia ikawa athari ya historia kuhusu chanzo cha janga.
+Janga lilipoanza, aina nyingi zilizoenea kutoka Uchina zilikuwa na molekuli ya D. Baadaye, aina nyingi kutoka Italia zilikuwa na molekuli ya G. Hivi majuzi, kwa jumla tumeona visa zaidi kutoka Ulaya kuliko Esia (japo pia kuna mapendeleo).
+Hivyo, inawezekana aina hii ya jeni ilijitokeza tu, kisha ikasambaa kwa kasi zaidi kwa kuwa ilizuka mapema.
+<br><br>
+Kuna mijadala mingi kuhusu mashiko ya nadharia hizi mbili. Ni muhimu kuzitathmini kwa makini kila moja kivyake, lakini bado hakuna maafikiano ya kisayansi kuhusu hili. Kwa ufafanuzi wa kina zaidi, [angalia mazungumzo haya](https://twitter.com/trvrb/status/1257825352660877313).
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Wajibu wako](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+#### ...kibinafsi
+* Kaa mbali na watu, haswa ikiwa uko katika hatari ya kuambukizwa.
+* Kumbuka kuwa hata ikiwa huko hatarini zaidi, watu wengi karibu nawe wako hatarini; zingatia desturi hizi ili uwalinde wengine.
+* Nawa mikono yako "kana kwamba umemaliza kukata pilipili na unahitaji kubadilisha lenzi ya macho."
+* Kaa nyumbani kadri uwezavyo -- haswa ikiwa wewe ni mgonjwa; nunua bidhaa utakazotumia kwa muda mrefu endapo utahitaji kujitenga.
+* Ikiwa wewe ni mwajiri, ruhusu waajiriwa wako wafanyie kazi nyumbani ikiwa inawezekana.
 
-#### ...as an official
-* Make testing free and broadly available.
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing efforts.
-* Financially support those impacted by social distancing measures.
+#### ...kama afisa wa serikali
+* Ondoa malipo ya vipimo na uanzishe upimaji kote.
+* Weka sheria madhubuti za kutotangamana.
+* Fadhili na utekeleze ufuatiliaji wa kina wa watu waliotangamana na aliyeathirika.
+* Toa msaada wa kifedha kwa walioathiriwa na sheria ya kutotangamana.
 
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
-# Takeaways  
+# Hoja za kukumbuka  
 
-#### Viruses naturally acquire mutations as they replicate. This is normal. Mutations can also help us trace the course of epidemics.  
+#### Virusi hubadilika kijeni wakati wa kujirudufisha. Hii ni kawaida. Mabadiliko ya kijeni yanaweza kutusaidia kufuatilia mwelekeo wa janga.  
 
-#### SARS-CoV-2 mutation rate is very typical for coronaviruses.
+#### Kasi ya mabadiliko ya kijeni ya SARS-CoV-2 ni sawa na ya virusi vya corona.
 
-#### As far as we know, there is only 1 functional "strain" of SARS-CoV-2.  
+#### Kulingana na uchunguzi wetu, kuna "aina" 1 tu ya SARS-CoV-2.  
 
-#### Teasing apart the biological impact of specific mutations is tricky -- many perceived differences can be attributed to chance and epidemiological factors.  
+#### Ni vigumu kutathmini athari za kibiolojia kutokana na mabadiliko mahsusi ya kijeni -- tofauti nyingi zinazoaminika zinategemea vigezo vya kiepidimiolojia na kujitokeza kivyake.  
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
+# [Mchango wa wanasayansi](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Tungependa kutambua juhudi na kazi nzuri ya wanasayansi wote wanaohusika katika janga hili.
+Uchunganuzi kama huu unawezekana tu kupitia kushiriki data na metadata ya kijeni kwa wakati.
 <br><br>
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+**Tunakuhimiza ubofye 'Tathmini Data Mwenyewe' kisha usogeze chini ili uone orodha kamili ya wataalamu; jina la mtaalamu husika kwa kila mfuatano linapatikana kwa kuuteua kwenye mchoro wa kimatawi.**
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Pia tunatoa shukrani kwa GISAID kwa kutoa mfumo ambapo data hizi zinaweza kupakiwa na kutumwa.
+
+
