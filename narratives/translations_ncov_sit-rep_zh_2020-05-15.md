@@ -19,8 +19,10 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators: 
   - Fengjun Zhang
+  - 李雪莹
 translatorLinks:
   - https://twitter.com/fengjun_zhang
+  - https://xueyingcli.weebly.com/
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
@@ -105,14 +107,14 @@ abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 
 <!-- This is left-side text -->
 # [病毒基因组随时间而改变实属正常](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-导致 COVID-19 疾病的病毒，SARS-CoV-2，是一个 [冠状病毒科](https://nextstrain.org/help/coronavirus/human-CoV) 的病毒. Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
+导致 COVID-19 的致病病毒，新冠病毒SARS-CoV-2，是一个 [冠状病毒科](https://nextstrain.org/help/coronavirus/human-CoV) 的病毒。 新冠病毒和其他冠状病毒一样，是由RNA而非DNA编码的病毒。
 <br><br>
-Viruses infect cells because they need to borrow cellular machinery to replicate. For RNA viruses, this process is quite error-prone, as most RNA polymerases (the molecular machines that make copies of RNA) aren't able to proofread and correct their work. This leads to frequent mutations in the viral genome; these are normal and expected.
+病毒之所以会感染细胞，是因为它需要借用细胞中的工具来自我复制。RNA病毒的自我复制过程是非常容易出错的，因为大多数RNA聚合酶（能够复制RNA的分子）没有校对功能，不能自我纠错。这会导致病毒基因组中出现频繁的突变，这是正常现象，也是我们意料之中的。
 <br><br>
-Importantly, the vast majority of these mutations either "break" the virus such that it can't transmit and/or replicate anymore, or don't change the virus at all because of [redundant encoding](https://en.wikipedia.org/wiki/Synonymous_substitution).
-This means that the mutations don't change the proteins, and therefore function, of the virus in any way.
-Other changes may modify a protein of the virus very slightly, but not impact the function at all.
-Rarely, a change in the genetic code of a virus can help it to replicate and/or transmit better, but nearly all of these changes still have only a tiny effect.
+重要的是，大部分的突变要么会“破坏”病毒，让它不能传播和/或复制，要么不会产生任何影响，由于[基因组编码的冗余性](https://en.wikipedia.org/wiki/Synonymous_substitution)。
+也就是说，这样的突变在任何意义上都不会改变病毒的蛋白质乃至其功能。
+还有一些突变可能会非常轻微地改变病毒的蛋白质，但不会对其功能产生任何影响。
+在非常罕见的情况下，遗传密码中的改变会帮助病毒更好地复制和/或传播，但几乎所有这类改变都仍只能造成非常轻微的影响。
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
