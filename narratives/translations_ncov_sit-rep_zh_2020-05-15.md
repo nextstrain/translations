@@ -27,7 +27,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 的传播和演化。这周我们将对病毒的碱基突变加以概述，并总结突变能为我们理解这场全球大流行的 COVID-19 疫情提供什么信息（和不能提供什么信息）。"
+abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 的传播和演化。这周我们将对病毒的碱基突变加以概述，并总结突变对于我们理解这场全球大流行的 COVID-19 疫情意味着什么（和不能意味什么）。"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -94,7 +94,7 @@ abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 
 因此，这将是一段时期内我们的最后一份周报，但我们计划为各地的公共卫生机构发布类似的报告提供支持工作。
 <br><br>
 
-当然，我们还会持续每日更新，当有新序列发布时，我们会更新网站上全球和各地域的病毒系统发生树。
+当然，我们还会持续每日更新，当有新序列发布时，我们会更新网站上全球和各地域的数据分析。
 如果数据的整体趋势能够告诉我们新的信息，我们也会再发布额外的状况报告。
 所有的信息更新将会（一如既往地）第一时间发布在 [Nextstrain 的推特账号](https://twitter.com/nextstrain) 。  
 <br><br>
