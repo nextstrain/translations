@@ -18,7 +18,7 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators: Zajišťuje společnost Google
-translatorLinks: www.google.com
+translatorLinks: https://www.google.com/
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
@@ -47,7 +47,7 @@ Provedli jsme analýzu 5 193 veřejně dostupných genomů viru způsobujícího
 # [Informační zdroje o nemoci COVID-19](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
 #### Zdroje na webu Nextstrain
-* [ZAČNĚTE ZDE: Jak číst fylogenetický strom](https://nextstrain.org/narratives/trees-background/).
+* [ZAČNĚTE ZDE: Jak číst fylogenetický strom](https://nextstrain.org/narratives/trees-background/cs).
 * [Předchozí situační zprávy](https://nextstrain.org/ncov-sit-reps/).
 * [Výkladová diskusní vlákna na Twitteru](https://bedford.io/misc/twitter/).
 * [Základní informace o koronavirech](https://nextstrain.org/help/coronavirus/human-CoV).
