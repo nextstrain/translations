@@ -148,37 +148,30 @@ abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 
 <!-- This is left-side text -->
 # [据我们所见，新冠病毒只有一个毒株](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
 
-现在有很多关于新冠病毒的多种“毒株（strain）”的报道。There have been many reports about multiple "strains" of SARS-CoV-2.
-首先要澄清，病毒学家使用“毒株”一词时，它常常只是一个有用的标签，让我们都能够指称同一组样本（比如此图中的演化支（clade）标签），它*不能*代表任何已知的功能上的不同。
-First, a clarification: when virologists use the word "strain," it's often just as a useful label so we can all refer to the same group of samples (e.g., our clade labels, shown here). This does *not* imply any known functional difference.
+现在有很多关于新冠病毒的多种“毒株（strain）”的报道。
+首先我们要澄清，当病毒学家使用“毒株”一词时，常常只是用它来作为一个标签，让大家都能够指称同一组样本（比如此图中的演化支（clade）的标签），它*不*表示我们已知这些样本有任何功能上的不同。
 <br><br>
-此外，“毒株”可以被用来指代病毒的基因型，在功能上有显著差异的不同基因型的病毒，要么是在生物学上（如致病性和所致疾病的严重程度），和/或流行病学上（如传播力）。
-Separately, "strain" can be used to refer to viral genotypes that are functionally distinct, either biologically (e.g., pathogenicity/disease severity) and/or epidemiologically (e.g., transmissibility).
-然而，重要的是，决定两种基因型*是否*实际上在功能上有明显的差异，需要更多实验室、临床和流行病学数据，我们目前所有的数据还远远不够。
-Importantly, though, determining whether two genotypes actually *are* functionally distinct requires much more experimental, clinical and epidemiological data than we currently have.
+此外，“毒株”可以被用来指代在功能上具有显著差异的不同基因型的病毒，包括在生物学上（如致病性/所致疾病的严重程度）和/或流行病学上（如传播力）上的差异。
+但重要的是，要确定两种基因型是否在功能上确实*存在*明显的差异，需要更多实验室、临床和流行病学的数据，而我们目前所有的数据还远远不够。
 <br><br>
-其中，对新冠病毒毒株的最显要的假说，是说有可能存在“D614”和“G614”两种毒株。
-One of the most prominent hypotheses about SARS-CoV-2 strains compares possible "D614" vs "G614" strains.
-
+关于新冠病毒毒株的最引人注目的假说之一，是对可能存在的“D614”和“G614”两种毒株进行了比较。
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [D614G突变可能与传播力有关，但也可以被地理所解释 may be related to transmissibility, but could also be explained by geography](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [D614G突变可能与病毒传播力有关，但也可以由地理因素来解释](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
 
-[最近的一篇预印本论文](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) 暗示，点突变D614G（S蛋白，也称棘突蛋白的614号位点的氨基酸从D到G的突变）可能与新冠病毒传播力的提高有关。suggests that a single mutation, D614G (from amino acid "D" to "G" at site 614 in the "S" ('spike') protein), may be responsible for increasing the transmissibility of SARS-CoV-2.
+[最近的一篇预印本论文](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) 暗示，有一个叫D614G的点突变（S蛋白“棘突蛋白”614号位点的氨基酸从D到G的突变）可能与新冠病毒传播力的提高有关。
 <br><br>
-In many geographic areas, the relative frequency of 614D compared to 614G increased over time.
-If a certain genotype leads to better transmissibility, we would expect it's frequency to increase over time.
-There are, however, other explanations to why the relative frequency of some genotypes would increase over time.
+在很多地区，614D相对于614G所出现的频率随时间所升高。如果某个基因型能够导致病毒传播力的提高，我们会预期它的频率随时间升高。然而，一个基因型的相对频率随时间所升高的现象，也可能有其他的解释。
 <br><br>
-For this site, we see a number of geographic locations where initially, most viral lineages in circulation had the D allele; later, this balance flips such that most lineages have the G allele.
-This *could* be a hallmark of G being slightly "fitter" than D (e.g., if viruses with the G mutation had a slightly higher R0 through increased transmissibility).
+对于这个位点，我们看到在很多地区，一开始流行的病毒谱系中大多数具有D型等位基因，而后来情况出现了反转，大多数的病毒谱系有G型等位基因。
+这个现象*有可能*是G型比D型稍微地“更适应”的标志，比如说，有G型突变的病毒由于传播力提高而具有了稍高一点的R0值。
 <br><br>
-However, this could also just be a side effect of the natural history of the pandemic.
-Early on in the pandemic, most strains exported from China had a D allele. Later, most strains from Italy had a G allele. Recently, we've seen more exportation from Europe than from Asia overall (although there's certainly some sampling bias at play here, as well).
-Thus, it could just be that this particular genotype got lucky, and spread so rapidly because it got there first.
+但是，这也可能只是此次全球大流行的疫情的自然历史的副产物。
+在病毒大流行的早期，大多数从中国输出的病毒毒株有D型等位基因。后来，大多数来自意大利的病毒有G型。最近，我们看到从欧洲输出的病毒总体上比从亚洲输出的更多（虽然其中也确实有一些取样偏差的因素存在）。
+所以，这个基因型可能只是比较幸运，因为它是率先传到这些地区的，所以传播得很快。
 <br><br>
-There's a fair amount of debate regarding the relative merits of these two hypotheses. It'll be important to carefully tease these apart, but we don't have scientific consensus on this issue yet. For a more detailed explanation, [see this thread](https://twitter.com/trvrb/status/1257825352660877313).
+关于这两种假说相对的意义，现在有很多的争论。重要的是，我们需要严谨地区分这两种可能性，但是科学界目前还没有就此达成统一的意见。更详尽的解释请参见[这条推文](https://twitter.com/trvrb/status/1257825352660877313)。
 
 
 <!-- ############ SLIDE BREAK ############# -->
