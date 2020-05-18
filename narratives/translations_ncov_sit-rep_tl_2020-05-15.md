@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19. Situation report 2020-05-15.
+title: Genomic na pagsusuri ng COVID-19. Ulat sa sitwasyon 2020-05-15.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -17,13 +17,13 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
+translators: Inilaan ng Google
+translatorLinks: www.google.com
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "Nextstrain Situation Reports use publicly shared genomic data to track the spread and evolution of SARS-CoV-2. This week, we give an overview of viral mutations and what they mean (and don't mean) for the COVID-19 pandemic."
+abstract: "Ang Mga Ulat sa Sitwasyon ng Nextstrain ay gumagamit ng genomic na datos na ibinahagi sa publiko upang subaybayan ang pagkalat at ebolusyon ng SARS-CoV-2. Ngayong linggong ito, nagbibigay kami ng overview ng mga viral mutation at kung ano ang pakahulugan nila (at hindi ipinakakahulugan) para sa pandemya ng COVID-19."
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,188 +31,190 @@ abstract: "Nextstrain Situation Reports use publicly shared genomic data to trac
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Executive summary](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [Ehekutibong buod](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
 
-We analyzed 5,193 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is evolving and moving around the world. This week, we focus on viral mutations. We cover:
+Sinuri namin ang 5,193 na genome ng COVID-19 na ibinahagi sa publiko. Sa pamamagitan ng pagkukumpara sa mga viral na genome na ito sa isa't isa, maaari nating kilalanin kung paano nagbabago at kumikilos sa buong mundo ang SARS-CoV-2. Sa linggong ito, nakatuon kami sa mga viral mutation. Sasaklawin namin:
 <br><br>
-* Where viral mutations come from (they're normal)  
-* The rate of mutation in SARS-CoV-2 (very typical)
-* How many strains of SARS-CoV-2 are circulating (as far as we know: 1)  
-* How geography and epidemiology contribute to perceived differences in viral genotypes (this is tricky)
+* Kung saan nanggagaling ang mga viral mutation (normal ang mga iyon)  
+* Ang rate ng mutation sa SARS-CoV-2 (napakakaraniwan)
+* Kung ilang strain ng SARS-CoV-2 ang umiikot (sa pagkakaalam namin: 1)  
+* Kung paano naaapektuhan ng heograpiya at epidemyolohiya ang ipinagpapalagay na mga pagkakaiba sa mga viral genotype (nakakalito ito)
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
+# [Mga Sanggunian sa COVID-19](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/).
-* [Explanatory Twitter threads](https://bedford.io/misc/twitter/).
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+#### Mga Sanggunian ng Nextstrain
+* [MAGSIMULA RITO: Paano basahin ang isang phylogeny](https://nextstrain.org/narratives/trees-background/).
+* [Mga Dating Ulat sa Sitwasyon](https://nextstrain.org/ncov-sit-reps/).
+* [Mga thread sa Twitter na Nagpapaliwanag](https://bedford.io/misc/twitter/).
+* [Background sa mga coronavirus](https://nextstrain.org/help/coronavirus/human-CoV).
+* [Mga karaniwang maling pagkaunawa](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources
-* [How coronavirus mutations and spreads (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+#### Mga Panlabas na Sanggunian
+* [Paano ang mga mutation at pagkalat ng coronavirus (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [Magtanong sa Siyentipiko at mga FAQ](https://covid19.fas.org/l/en).
+* [Mga Ulat sa Sitwasyon ng WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [Mga Sanggunian ng CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Situation Report Hiatus
+# Pansamantalang Paghinto ng Ulat sa Sitwasyon
 <p>
-Early in the pandemic, it was unclear how SARS-CoV-2 was moving between countries, where it was circulating locally, and how localized outbreaks were related.
-Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
+Noong mga unang araw ng pandemic, hindi malinaw kung paanong nagpapalipat-lipat ang SARS-CoV-2 sa pagitan ng mga bansa, kung saan ito lokal na umiikot, at kung paano ang mga ugnayan ng mga lokal na pagkalat ng sakit.
+Sa nakaraang apat na buwan, tinalakay namin ang mga tanong na ito at marami pang iba sa aming lingguhang Mga Ulat sa Sitwasyon. Sa yugtong ito ng pandemya, malinaw na ang ilan sa mga broad-stroke pattern ay malawakang magkakapareho sa iba't ibang rehiyon at bansa:  
 </p>
 <p/>
 
-- Outbreaks across even distant parts of the world are deeply intertwined.<p/>
+- Ang mga pagkalat ng sakit kahit sa malalayong parte ng daigdig ay malalim na magkakaugnay.<p/>
 
-- Through human migration and travel, the virus has been introduced to most communities multiple times.<p/>  
+- Dahil sa paglipat at pagbiyahe ng tao, ang mga virus ay naipasok na sa halos lahat ng komunidad nang maraming beses.<p/>  
 
-- Once these "sparks" land in a new community, many fizzle out without causing widespread transmission. Subject to local conditions and a bit of chance, some of these sparks grow into local outbreaks.<p/>  
+- Sa oras na ang "diklap" na ito ay tumama sa bagong komunidad, marami ang kusang nawawala nang hindi nagdudulot ng malawakang transmisyon. Depende sa mga lokal na kalagayan at kaunting tsansa, ang ilan sa mga diklap an ito ay lumalala bilang lokal na mga pagkalat ng sakit.<p/>  
 
-- Eventually, these local outbreaks send off sparks of their own, spreading to new locations.  
+- Kalaunan, ang mga lokal na pagkalat ng sakit na ito ay pinagmumulan na rin ng mga diklap, na kumakalat patungo sa mga bagong lokasyon.  
 <p/>
 
-Unsurprisingly, we see this pattern in countries experiencing their first wave of infections. More alarmingly, we also see this pattern after re-introductions of the virus to countries where the initial peak passed months beforehand.
-Ultimately, this pattern is only broken when a country is able to effectively test, trace, and isolate cases immediately.
+Hindi nakakagulat na nakikita namin ang pattern na ito sa mga bansang nakakaranas ng kanilang unang alon ng mga impeksyon. Ang mas nakakaalarma, nakikita rin namin ang pattern na ito pagkatapos ng muling pagpasok ng virus sa mga bansa kung saan ilang buwan na ang nakalilipas mula nang maabot ang inisyal na rurok.
+Sa huli, ang pattern na ito ay mabubuwang lamang kapag ang bansa ay may kakayahang epektibong masuri, masubaybayan at maihiwalay agad ang mga kaso.
 <br><br>
 
-This means that outbreaks across the world are deeply connected, and the battle against COVID-19 will always be global -- we can't conquer the virus anywhere without addressing it everywhere.
+Nangangahulugan ito na ang paglaganap ng sakit sa buong mundo ay malalim na magkakakonekta, at ang digmaan laban sa COVID-19 ay laging magiging pandaigdigan -- hindi natin matatalo ang virus kahit saan nang hindi ito tinutugunan sa lahat ng dako.
 <br><br>
 
-At this stage of the pandemic, genomic epidemiology is most urgently needed within local and hyperlocal communities through local public health offices.
+Sa yugtong ito ng pandemya, ang genomic na epidemyolohiya ay pinakakailangang-kailangan sa loob ng lokal at pinakamaliliit na lokal na komunidad sa pamamagitan ng pampublikong mga opisinang pangkalusugan.
 <br><br>
 
-As such, this will be our last weekly Situation Report for a while, though we aim to support similar reports from local public health officials.
+Dahil dito, ito ang aming magiging huling lingguhang Ulat sa Sitwasyon sa loob ng ilang panahon, bagama't layunin naming suportahan ang katulad na mga ulat mula sa mga opisyal ng lokal na pampublikong kalusugan.
 <br><br>
 
-We will, of course, continue daily updates to the global & regional builds as new sequences are made available.
-When the big-picture data says something new, we'll also issue additional Situation Reports.
-All of these updates will be posted to the [Nextstrain twitter account](https://twitter.com/nextstrain) (as always).  
+Siyempre, ipagpapatuloy namin ang araw-araw na pag-a-update sa pandaigdigan at panrehiyong saklaw habang nagiging available ang mga bagong sequence.
+Kapag may sinasabing bago ang data ng malaking larawan, magbibigay din kami ng karagdagang mga Ulat sa Sitwasyon.
+Ang lahat ng update na ito ay ipapaskil sa [twitter account ng Nexstrain](https://twitter.com/nextstrain) (tulad ng laging ginagawa).  
 <br><br>
 
-You can also find <a href="https://nextstrain.org/ncov-sit-reps/">all of our previous Situation Reports here</a>.
+Makikita mo rin ang <a href="https://nextstrain.org/ncov-sit-reps/">lahat ng aming dating Ulat sa Sitwasyon dito</a>.
 
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Changes in viral genomes over time are normal](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
+# [Ang mga pagbabago sa mga viral genome sa paglipas ng panahon ay normal](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-SARS-CoV-2, the virus that causes the disease COVID-19, is a [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
+Ang SARS-CoV-2, ang virus na nagdudulot ng sakit na COVID-19, ay isang [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Tulad ng iba pang coronavirus, ang SARS-CoV-2 ay may genome na naka-encode sa RNA (sa halip na DNA).
 <br><br>
-Viruses infect cells because they need to borrow cellular machinery to replicate. For RNA viruses, this process is quite error-prone, as most RNA polymerases (the molecular machines that make copies of RNA) aren't able to proofread and correct their work. This leads to frequent mutations in the viral genome; these are normal and expected.
+Hinahawahan ng mga virus ang mga selyula dahil kailangan nilang manghiram ng cellular machinery para magparami. Para sa mga RNA virus, napakalaking tsana na magkaroon ng error ang prosesong ito, dahil karamihan ng RNA polymerases (ang mga molecular machine na gumagawa ng kopya ng RNA) ay walang kakayahang mag-proofread at magwasto ng kanilang gawa. Nagdudulot ito ng madalas na mutation sa viral genome; ang mga ito ay normal at inaasahan.
 <br><br>
-Importantly, the vast majority of these mutations either "break" the virus such that it can't transmit and/or replicate anymore, or don't change the virus at all because of [redundant encoding](https://en.wikipedia.org/wiki/Synonymous_substitution).
-This means that the mutations don't change the proteins, and therefore function, of the virus in any way.
-Other changes may modify a protein of the virus very slightly, but not impact the function at all.
-Rarely, a change in the genetic code of a virus can help it to replicate and/or transmit better, but nearly all of these changes still have only a tiny effect.
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text -->
-# [Variation in viruses' genetic code is useful for tracing outbreaks](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
-
-These differences in the genomes between viruses can be used as "bread crumbs" to trace the history of a given sample.
-Just as the people in your family share unique combinations of genetic characteristics, closely related viral samples share unique combinations of genetic mutations.
-<br><br>
-For example, here we show the viral "family tree" with each sample colored by which amino acid is present at a specific location in the viral genome (gene "ORF1a", site 57).
-<br><br>
-Highlighting samples from New York, we see that most of the cases from New York and Europe have the amino acid Histidine ("H") rather than Glutamine ("Q") at this position. This, in combination with all the other sites in the genome, tells us that these cases are all closely related to each other.
-<br><br>
-You can also see the position in gene "ORF3a" highlighted on the chart at the bottom of the left.
-<br><br>
-For a more in-depth explanation of these concepts, we recommend [this visual explanation](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
-
+Mahalagang tandaan na ang malawak na karamihan ng mga mutation na ito ay "sumisira" sa virus sa paraang hindi na ito makalilipat at/o makapagpaparami, o hindi nito mababago ang virus dahil sa [paulit-ulit na encoding](https://en.wikipedia.org/wiki/Synonymous_substitution).
+Nangangahulugan ito na hindi nababago ng mga mutation ang mga protina, at gayundin ang function ng virus sa anumang paraan.
+Maaaring baguhin ng ibang mga pagbabago ang protina ng virus nang napakakaunti, subalit hindi ito kailanman nakakaapekto sa function.
+Madalang mangyari na ang pagbabago sa genetic code ng virus ay nakatutulong dito upang mas madaling magparami at/o lumipat, subalit halos lahat ng pagbabagong ito ay mayroon lamang maliit na epekto.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [The evolutionary rate of SARS-CoV-2 is typical for a coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
+# [Ang pagkakaiba-iba sa genetic code ng mga virus ay kapaki-pakinabang sa pagsubaybay sa pagkalat ng sakit](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
 
-Because viral genomes inevitably change, these differences tend to accumulate at a steady rate over time.
+Ang mga pagkakaibang ito sa mga genome sa pagitan ng mga virus ay maaaring gamitin bilang "palatandaan" upang subaybayan ang kasaysayan ng ibinigay na sample.
+Tulad ng mga tao sa inyong pamilya na may parehong natatanging mga kumbinasyon ng mga katangiang genetic, ang malapit na magkakaugnay na mga viral sample ay may parehong natatanging kumbinasyon ng mga genetic mutation.
 <br><br>
-Here, the x axis shows the date that each sample was collected. The y axis shows the *total number* of mutations each strain is away from the root of the tree. Each sample is colored by the date it was collected.
+Halimbawa, ipinakikita namin dito ang viral "family tree" kung saan ang bawat sample ay may kulay kung saan ang amino acid ay naroroon sa espesipikong lokasyon sa viral genome (gene "ORF1a", site 57).
 <br><br>
-While there are certainly some outliers, on average, we see changes accumulate at a rate of ~24 substitutions per year. This means that if a single viral lineage were transmitting from one person to the next for a full year, we'd expect its entire genome to accumulate roughly 24 substitutions by the end of the year.
-As the whole SARS-CoV-2 genome is ~30,000 bases, this corresponds to roughly ~1 mutation per 1,000 bases in a year.
+Sa pagtuon sa mga sample mula sa New York, nakikita namin na karamihan ng mga kaso mula sa New York at Europa ay may amino acid Histidine ("H") imbes na Glutamine ("Q") sa posisyong ito. Kapag isinama sa lahat ng iba pang site sa genome, sinasabi nito sa atin na ang mga kasong ito ay malapit na magkakaugnay sa isa't isa.
 <br><br>
-For context, influenza would average ~2 mutations per 1,000 bases per year; HIV would average ~4 mutations per 1,000 bases per year.
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text -->
-# [As far as we know, there is only 1 strain of SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
-
-There have been many reports about multiple "strains" of SARS-CoV-2.
-First, a clarification: when virologists use the word "strain," it's often just as a useful label so we can all refer to the same group of samples (e.g., our clade labels, shown here). This does *not* imply any known functional difference.
+Makikita mo rin ang posisyon sa gene "ORF3a" na naka-highlight sa tsart sa ibabang kaliwa.
 <br><br>
-Separately, "strain" can be used to refer to viral genotypes that are functionally distinct, either biologically (e.g., pathogenicity/disease severity) and/or epidemiologically (e.g., transmissibility).
-Importantly, though, determining whether two genotypes actually *are* functionally distinct requires much more experimental, clinical and epidemiological data than we currently have.
-<br><br>
-One of the most prominent hypotheses about SARS-CoV-2 strains compares possible "D614" vs "G614" strains.
+Para sa mas malalim na paliwanag sa mga konseptong ito, nirerekomenda namin [ang biswal na paliwanag na ito](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) nina Jonathan Corum at Carl Zimmer.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [D614G may be related to transmissibility, but could also be explained by geography](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [Ang evolutionary rate ng SARS-CoV-2 ay karaniwan sa coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
 
-[A recent pre-print](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) suggests that a single mutation, D614G (from amino acid "D" to "G" at site 614 in the "S" ('spike') protein), may be responsible for increasing the transmissibility of SARS-CoV-2.
+Dahil hindi maiiwasan ang pagbabago ng mga viral genome, ang mga pagkakaibang ito ay may tendensiyang maipon nang may hindi nababagong bilis sa paglipas ng panahon.
 <br><br>
-In many geographic areas, the relative frequency of 614D compared to 614G increased over time.
-If a certain genotype leads to better transmissibility, we would expect it's frequency to increase over time.
-There are, however, other explanations to why the relative frequency of some genotypes would increase over time.
+Dito, ipinakikita ng x axis ang petsa kung kailan nakolekta ang bawat sample. Ipinakikita ng y axis ang *kabuuang bilang* ng mga mutation na layo ng bawat strain mula sa ugat ng puno. Ang bawat sample ay kinulayan ayon sa petsa kung kailan ito nakolekta.
 <br><br>
-For this site, we see a number of geographic locations where initially, most viral lineages in circulation had the D allele; later, this balance flips such that most lineages have the G allele.
-This *could* be a hallmark of G being slightly "fitter" than D (e.g., if viruses with the G mutation had a slightly higher R0 through increased transmissibility).
+Habang tiyak na may ilang lubhang naiiba, karaniwang nakikita nating naiipon ang mga pagbabago sa bilis na ~24 na substitusyon kada taon. Nangangahulugan ito na kapag ang isahang viral lineage ay nagpapalipat-lipat mula sa isang tao patungo sa ibang tao sa buong taon, aasahan natin na ang buong genome nito ay makakaipon ng halos 24 na substitusyon sa katapusan ng taon.
+Habang ang kabuuang SARS-CoV-2 genome ay ~30,000 bases, ito ay katumbas ng halos ~1 mutation kada 1,000 base sa isang taon.
 <br><br>
-However, this could also just be a side effect of the natural history of the pandemic.
-Early on in the pandemic, most strains exported from China had a D allele. Later, most strains from Italy had a G allele. Recently, we've seen more exportation from Europe than from Asia overall (although there's certainly some sampling bias at play here, as well).
-Thus, it could just be that this particular genotype got lucky, and spread so rapidly because it got there first.
+Para sa konteksto, ang trangkaso ay magkakaroon ng katamtamang ~2 mutation kada 1,000 base kada taon; Ang HIV ay magkakaroon ng katamtamang ~4 mutation kada 1,000 base kada taon.
+
+<!-- ############ SLIDE BREAK ############# -->
+<!-- This is left-side text -->
+# [Sa pagkakaalam namin, may 1 lamang na strain ng SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
+
+Nagkaroon ng maraming report tungkol sa maraming "strain" ng SARS-CoV-2.
+Una, ang paglilinaw: kapag ang mga virologist ay gumagamit ng salitang "strain," madalas na kapaki-pakinabang na label lamang ito upang matukoy natin ang parehong grupo ng mga sample (hal., ang ating mga clade label, na ipinakikita rito). Ito ay *hindi* nagpapahiwatig ng anumang tukoy na pagkakaiba sa paggana.
 <br><br>
-There's a fair amount of debate regarding the relative merits of these two hypotheses. It'll be important to carefully tease these apart, but we don't have scientific consensus on this issue yet. For a more detailed explanation, [see this thread](https://twitter.com/trvrb/status/1257825352660877313).
+Bukod pa rito, ang "strain" ay maaaring gamitin upang tukuyin ang mga viral genotype na magkakaiba ang paggana, na alinman sa biological (hal., pathogenicity/kalalaan ng sakit) at/o epidemiological (hal., kakayahang maipasa).
+Pero mahalagang tandaan na ang pagtukoy kung ang dalawang genotype, sa katunayan, *ay* magkaiba ang paggana ay nangangailangan ng higit na mas eksperimental, klinikal at epidemyolohikal na data kaysa sa mayroon tayo sa kasalukuyan.
+<br><br>
+Isa sa mga pinakaprominenteng hypothesis tungkol sa mga strain ng SARS-CoV-2 ay nagkukumpara sa mga posibleng "D614" vs "G614" strain.
+
+
+<!-- ############ SLIDE BREAK ############# -->
+<!-- This is left-side text -->
+# [Ang D614G ay maaaring nauugnay sa kakayahang maipasa, subalit maaari ring maipaliwanag ng heograpiya](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+
+[Ipinahihiwatig ng kamakailang pre-print](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) na ang isahang mutation, ang D614G (mula sa amino acid "D" tungo sa "G" sa site 614 sa "S" ('spike') protein), ang maaaring responsable sa pagtaas ng kakayahang maipasa ng SARS-CoV-2.
+<br><br>
+Sa maraming heograpikong lugar, ang nauugnay na dalas ng 614D kumpara sa 614G ay nadagdagan sa paglipas ng panahon.
+Kapag ang isang partikular na genotype ay humahantong sa mas mahusay na kakayahang maipasa, aasahan natin na madaragdagan ang dalas nito sa paglipas ng panahon.
+Gayunman, may iba pang mga paliwanag kung bakit ang nauugnay na dalas ng ilang genotype ay nadaragdagan sa paglipas ng panahon.
+<br><br>
+Para sa site na ito, nakikita natin ang maraming heograpikong lokasyon kung saan ang karamihan sa mga viral lineage na kumalat noong una ay nagkaroon ng D allele; sa kalaunan, nababaliktad ang balanseng ito kaya't karamihan sa mga lineage ay may G allele.
+Ito ay *maaaring* maging palatandaan ng G na bahayang "naaangkop" kaysa sa D (iyon ay, kung ang mga virus na may G mutation ay medyo mas mataas sa R0 sa pamamagitan ng mas mataas na kakayahang maipasa).
+<br><br>
+Gayunman, maaaring side effect lang ito ng likas na kasaysayan ng pandemya.
+Noong mga unang araw ng pandemya, karamihan sa mga strain na nai-export mula sa China ay may D allele. Kalaunan, karamihan ng mga strain mula sa Italya ay may G allele. Kamakailan, nakita namin na mas maraming pag-export mula sa Europa kaysa sa Asya sa pangkalahatan (kahit na tiyak na may kaunting sampling bias din na dahilan nito).
+Kaya, maaaring masuwerte lang ang partikular na genotype na ito, at kumalat nang napakabilis dahil ito ang unang nakarating doon.
+<br><br>
+Mayroong marami-raming debate kaugnay ng kinauukulang merito ng dalawang hypothesis na ito. Mahalagang maingat na himayin ang mga ito, subalit wala pang espesipikong napagkasunduan kaugnay ng usaping ito. Para sa mas detalyadong paliwanag, [tingnan ang thread na ito](https://twitter.com/trvrb/status/1257825352660877313).
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [Ano ang maaari mong gawin](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+#### ...bilang indibidwal
+* Magpatupad ng mahigpit na social distancing, lalo na kung ikaw ay nasa mahihinang grupo.
+* Tandaan na kahit hindi ka lubhang mahina, maraming ganito sa mga taong nakapaligid sa iyo; sundin ang mga kasanayang ito upang protektahan ang iba.
+* Hugasan ang iyong mga kamay "na parang nagtadtad ka ng sili at kailangan mong magpalit ng contact lens."
+* Manatili sa loob ng bahay hangga't maaari -- lalo na kung ikaw ay may sakit; maghanda ng mga karagdagang supply sakaling kailanganin mong mag-self-quarantine.
+* Kung isa kang employer, hikayatin ang mga empleyado mo na magtrabaho sa tahanan kung posible.
 
-#### ...as an official
-* Make testing free and broadly available.
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing efforts.
-* Financially support those impacted by social distancing measures.
+#### ...bilang isang opisyal
+* Gawing libre at malawak na available ang testing.
+* Magpatupad ng matatag na mga pamamaraan ng social distancing.
+* Pondohan ang at magpatupad ng puspusang mga pagsisikap sa contact tracing.
+* Pinansiyal na suportahan ang mga taong naapektuhan ng mga hakbang sa social distancing.
 
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
-# Takeaways  
+# Mga susing impormasyon na dapat tandaan  
 
-#### Viruses naturally acquire mutations as they replicate. This is normal. Mutations can also help us trace the course of epidemics.  
+#### Ang mga virus ay kadalasang nagkakaroon ng mutation habang sila ay nagpaparami. Normal lang ito. Makatutulong din sa atin ang mga mutation sa pagsubaybay sa kurso ng mga epidemya.  
 
-#### SARS-CoV-2 mutation rate is very typical for coronaviruses.
+#### Ang bilis ng SARS-CoV-2 mutation ay napakakaraniwan sa mga coronavirus.
 
-#### As far as we know, there is only 1 functional "strain" of SARS-CoV-2.  
+#### Sa pagkakaalam namin, may 1 lamang na gumaganang "strain" ng SARS-CoV-2.  
 
-#### Teasing apart the biological impact of specific mutations is tricky -- many perceived differences can be attributed to chance and epidemiological factors.  
+#### Ang paghihimay sa bayolohikal na epekto ng mga ispesipikong mutation ay nakakalito -- karamihan sa mga ipinagpapalagay na pagkakaiba ay maaaring maiugnay sa pagkakataon at mga epidemiological na salik.  
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
+# [Siyentipikong kredito](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Nais naming kilalanin ang kahanga-hanga at napapanahong pagsisikap na isinagawa ng lahat ng siyentipikong sangkot sa paglaganap ng sakit na ito.
+Tanging sa pamamagitan ng mabilis na pagbabahagi ng mga genomic na datos at metadata nagiging posible ang mga pagsusuring tulad nito.
 <br><br>
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+**Hinihimok ka namin na i-click ang 'Ikaw Mismo ang Magsiyasat ng Data' at mag-scroll pababa para sa kumpletong listahan ng mga may-akda; ang may-akda ng bawat indibidwal na sequence ay available sa pamamagitan ng pagpili nito sa puno.**
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+Lubos din kaming nagpapasalamat sa GISAID sa paglalaan ng platform kung saan maaaring i-upload at ibahagi ang mga datos na ito.
+
+
