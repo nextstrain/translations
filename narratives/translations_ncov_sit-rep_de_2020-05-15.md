@@ -55,7 +55,7 @@ Wir haben 5.193 oeffentlich zugaengliche SARS-CoV-2 Genome analysiert. Durch Ver
 * [Fruehere Lageberichte](https://nextstrain.org/ncov-sit-reps/).
 * [Erlaeuternde Twitter threads](https://bedford.io/misc/twitter/).
 * [Hintergrundwissen zu Coronaviren](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+* [Haeufige Fehlannahmen](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-03-13?n=11).
 
 #### Externe Quellen
 * [Wie das Coronavirus mutiert und sich ausbreitet (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
@@ -98,7 +98,7 @@ Daher wird dieser Bericht unser letzter wochentlicher Lagebericht fuer eine Weil
 Natuerlich werden wir weiterhin taegliche Updates zu den globalen und regionalen Entwicklungen geben, sobald neue Sequenzierungsdaten verfuegbar sind. Wenn das Gesamtbild innerhalb der Daten etwas Neues aussagt, wird es zusaetzlich Lageberichte geben. Alle Updates sind unter dem [Nextstrain Twitter-Account](https://twitter.com/nextstrain) auffindbar (wie gehabtt).  
 <br><br>
 
-Ausserdem koennen Sie alle frueheren Lageberichte unter <a href="https://nextstrain.org/ncov-sit-reps/"> finden.</a>.
+Ausserdem koennen Sie alle frueheren Lageberichte unter <a href="https://nextstrain.org/ncov-sit-reps/"> finden</a>.
 
 ```
 
