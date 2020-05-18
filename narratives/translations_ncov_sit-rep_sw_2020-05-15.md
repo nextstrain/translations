@@ -18,7 +18,7 @@ authorLinks:
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators: Imetolewa na Google
-translatorLinks: www.google.com
+translatorLinks: https://www.google.com/
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
@@ -47,7 +47,7 @@ Tulichunguza jeni 5,193 za COVID-19 zinazoonyeshwa kwa umma. Kwa kulinganisha je
 # [Nyenzo za COVID-19](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
 #### Nyenzo za Nextstrain
-* [ANZIA HAPA: Jinsi ya kufasiri mchoro wa kimatawi wa kifilojenetiki](https://nextstrain.org/narratives/trees-background/).
+* [ANZIA HAPA: Jinsi ya kufasiri mchoro wa kimatawi wa kifilojenetiki](https://nextstrain.org/narratives/trees-background/sw).
 * [Ripoti za Awali kuhusu Hali Ilivyo](https://nextstrain.org/ncov-sit-reps/).
 * [Maelezo Fafanuzi kwenye Twitter](https://bedford.io/misc/twitter/).
 * [Utangulizi kuhusu virusi vya corona](https://nextstrain.org/help/coronavirus/human-CoV).
