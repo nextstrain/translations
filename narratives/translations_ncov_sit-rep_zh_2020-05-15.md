@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19. Situation report 2020-05-15.
+title: 新型冠状病毒（COVID-19）传播情况的基因组学分析：状况报告 2020-05-15.
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -17,13 +17,15 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
+translators: 
+  - Fengjun Zhang
 translatorLinks:
+  - https://twitter.com/fengjun_zhang
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "Nextstrain Situation Reports use publicly shared genomic data to track the spread and evolution of SARS-CoV-2. This week, we give an overview of viral mutations and what they mean (and don't mean) for the COVID-19 pandemic."
+abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 的传播和演化。这周我们将总结病毒的碱基突变和这些突变给 COVID-19 大流行可能带来的（和不可能带来的）影响。"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,33 +33,32 @@ abstract: "Nextstrain Situation Reports use publicly shared genomic data to trac
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Executive summary](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [报告摘要](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
 
-We analyzed 5,193 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is evolving and moving around the world. This week, we focus on viral mutations. We cover:
+我们分析了 5,193 个公开共享的 SARS-Cov-2 基因组。通过这些病毒基因组间的相互比对，我们可以了解 COVID-19 在世界和本地范围的传播过程。在本周的更新中，我们重点关注病毒的碱基变异，报告包括以下内容：
 <br><br>
-* Where viral mutations come from (they're normal)  
-* The rate of mutation in SARS-CoV-2 (very typical)
-* How many strains of SARS-CoV-2 are circulating (as far as we know: 1)  
-* How geography and epidemiology contribute to perceived differences in viral genotypes (this is tricky)
-
+* 什么是碱基突变的来源（DNA碱基突变是一个自然过程）  
+* SARS-CoV-2 的碱基突变速率 （也没有很惊人）
+* 有多少 SARS-CoV-2 的病毒株正在传播（我们目前已知只有一株）  
+* 地理文化和实际发生的疫情，对病毒的基因型带来怎样的显著影响（关于这一点非常难说）
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
+# [COVID-19 背景资料](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/).
-* [Explanatory Twitter threads](https://bedford.io/misc/twitter/).
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+#### Nextstrain 的资料
+* [起点基础教程：如何解读系统发生树](https://nextstrain.org/narratives/trees-background/zh).
+* [之前的疫情状况报告](https://nextstrain.org/ncov-sit-reps/).
+* [详细解说（英文推特帖）](https://bedford.io/misc/twitter/).
+* [冠状病毒的背景知识（英文）](https://nextstrain.org/help/coronavirus/human-CoV).
+* [常见误区](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-13?n=11).
 
-#### External Resources
-* [How coronavirus mutations and spreads (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+#### 外部资源
+* [冠状病毒家族如何突变碱基，如何传播（纽约时报英文）](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [向科学家提问 & 常见问题解答（英文）](https://covid19.fas.org/l/en).
+* [WHO 的状况报告（英文）](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [美国 CDC 的资料（英文）](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
