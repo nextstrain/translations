@@ -27,7 +27,7 @@ license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 的传播和演化。这周我们将总结病毒的碱基突变和这些突变给 COVID-19 大流行可能带来的（和不可能带来的）影响。"
+abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 的传播和演化。这周我们将对病毒的碱基突变加以概述，并总结突变对于我们理解这场全球大流行的 COVID-19 疫情意味着什么（和不能意味什么）。"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -37,12 +37,12 @@ abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 
 <!-- This is left-side text -->
 # [报告摘要](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
 
-我们分析了 5,193 个公开共享的 SARS-Cov-2 基因组。通过这些病毒基因组间的相互比对，我们可以了解 COVID-19 在世界和本地范围的传播过程。在本周的更新中，我们重点关注病毒的碱基变异，报告包括以下内容：
+我们分析了 5,193 个公开共享的 SARS-Cov-2 基因组。通过这些病毒基因组间的相互比对，我们可以了解 COVID-19 在世界范围的演化和传播过程。在本周的更新中，我们重点关注病毒的碱基突变。报告包括以下内容：
 <br><br>
-* 什么是碱基突变的来源（DNA碱基突变是一个自然过程）  
-* SARS-CoV-2 的碱基突变速率 （也没有很惊人）
+* 什么是碱基突变的来源（碱基突变是一个自然过程）  
+* SARS-CoV-2 的碱基突变速率 （非常典型）
 * 有多少 SARS-CoV-2 的病毒株正在传播（我们目前已知只有一株）  
-* 地理文化和实际发生的疫情，对病毒的基因型带来怎样的显著影响（关于这一点非常难说）
+* 地理和流行病学因素如何影响我们所看到的病毒基因型之间的不同（关于这一点非常难说）
 
 <!-- ############ SLIDE BREAK ############# -->
 
@@ -52,12 +52,12 @@ abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 
 #### Nextstrain 的资料
 * [起点基础教程：如何解读系统发生树](https://nextstrain.org/narratives/trees-background/zh).
 * [之前的疫情状况报告](https://nextstrain.org/ncov-sit-reps/).
-* [详细解说（英文推特帖）](https://bedford.io/misc/twitter/).
+* [解说推文汇总（英文）](https://bedford.io/misc/twitter/).
 * [冠状病毒的背景知识（英文）](https://nextstrain.org/help/coronavirus/human-CoV).
 * [常见误区](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-03-13?n=11).
 
 #### 外部资源
-* [冠状病毒家族如何突变碱基，如何传播（纽约时报英文）](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [冠状病毒如何突变和传播（纽约时报英文）](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
 * [向科学家提问 & 常见问题解答（英文）](https://covid19.fas.org/l/en).
 * [WHO 的状况报告（英文）](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
 * [美国 CDC 的资料（英文）](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
@@ -65,41 +65,41 @@ abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# 状况报告间章
+# 状况报告暂停更新
 <p>
-在疫情早期，我们并不清楚 SARS-CoV-2 如何在国家之间传播，也不知它如何在地区内蔓延，更不知已呈现爆发的地区疫情来源。
-之前的四个月，我们在状况报告里连续追踪了以下（及更多其他）问题，而现在的疫情阶段，我们已清楚病毒是如何在国家和地区之间，打破一些边境后蔓延的模式。
+在疫情早期，我们并不清楚 SARS-CoV-2 如何在国家之间传播，也不知哪里发生了本地传播，更不知已呈现爆发的各地疫情之间的关联。
+之前的四个月，我们在状况报告里解答了以上（及更多其他）问题。而疫情发展到现在这个阶段，我们能够很清楚地看到，一些总体的趋势在各个国家和地区都是大体上一致的：
 </p>
 <p/>
 
-- 即使是全世界相隔遥远的地区，疫情爆发也显著地存在相互影响。<p/>
+- 即使是世界上相隔遥远的地区，疫情也深层次地交织在一起。<p/>
 
-- 通过人类的移动和旅行，病毒是被重复多次传入大部分国家。<p/>  
+- 经由人类的迁移和旅行，病毒被重复多次地传入了大部分的社区。<p/>  
 
-- 在这些小型的“火种”流入新社区之后，许多并未引起广泛传播便自己消失了。然而在某些地区特征和偶然可能性下，一些“火种”演变成为地区性的疫情爆发。<p/>  
+- 这些小型的“火种”在流入新社区之后，许多并未引起广泛传播便自己消失了。然而在某些本地条件下，再加上一点点的偶然性，一些“火种”演变成为了地区性的疫情爆发。<p/>  
 
-- 最后，这些地区性的爆发形成了自己的“火种”，接着又向其他新的地域传播下去。  
+- 最后，各地爆发的疫情也自己迸发出“火种”，接着把病毒传到新的地域。  
 <p/>
 
-我们在第一轮经历感染潮的国家中发现这样的传播模式实属情有可原，但需要警惕的是，我们在一些离最初疫情爆发后几个月，再次传入新病例的国家中，也观察到这样的传播模式。
-最终，只在有效地实施病毒检测，病例追踪和及时隔离的国家中，这样的模式才被打破。
+我们在经历第一轮感染潮的国家中发现这样的传播模式实属情有可原，但需要警惕的是，在一些离最初的疫情爆发已有几个月，现在经历了病例的重新输入的国家中，我们也观察到这样的传播模式。
+归根结底，只有当一个国家能够有效地实施病毒检测、病例追踪和及时隔离时，这样的模式才会被打破。
 <br><br>
 
-这表示全世界的疫情爆发都紧密地联系在一起，这场与 COVID-19 抗争的战疫将会是全球性的，若不督促世界上的每一处角落都重视，我们最终会战胜不了它。
+这表示全世界的疫情都紧密地联系在一起。这场与 COVID-19 抗争的战疫将会是全球性的，若不在世界上的每一处角落都解决这个问题，我们在任何一个地方都战胜不了它。
 <br><br>
 
-在疫情发展的这个阶段，结合地理的流行病学是各地域以及更细分的地域内，社区人群最紧迫需要从当地公共卫生机构知道的。
+在疫情发展的这个阶段，最急需基因组流行病学分析的地方，是当地的公共卫生机构对于本地乃至超本地社区的分析。
 <br><br>
 
-因此，这将是我们这阶段最后一份周报，不过我们依旧会提供蕾丝的报告给各地域的公共卫生机构。
+因此，这将是一段时期内我们的最后一份周报，但我们计划为各地的公共卫生机构发布类似的报告提供支持工作。
 <br><br>
 
-我们当然会继续我们的每日更新，一旦有心绪发布，我们就会更新我们网站上全球和各地域的病毒信息。
-如果之后的疫情中发生什么发规模的新事件，我们也会再撰写额外的状况报告。
-所有的这些信息更新将会第一时间发布在 [Nextstrain 的英文官方推特账号](https://twitter.com/nextstrain) 。  
+当然，我们还会持续每日更新，当有新序列发布时，我们会更新网站上全球和各地域的病毒系统发生树。
+如果数据的整体趋势能够告诉我们新的信息，我们也会再发布额外的状况报告。
+所有的信息更新将会（一如既往地）第一时间发布在 [Nextstrain 的推特账号](https://twitter.com/nextstrain) 。  
 <br><br>
 
-你也可以在 <a href="https://nextstrain.org/ncov-sit-reps/">这里</a> 找到我们所有的状况报告。
+您也可以在 <a href="https://nextstrain.org/ncov-sit-reps/">这里</a> 找到我们所有的状况报告。
 
 ```
 
@@ -107,7 +107,7 @@ abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 
 <!-- This is left-side text -->
 # [病毒基因组随时间而改变实属正常](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-导致 COVID-19 的致病病毒，新冠病毒SARS-CoV-2，是一个 [冠状病毒科](https://nextstrain.org/help/coronavirus/human-CoV) 的病毒。 新冠病毒和其他冠状病毒一样，是由RNA而非DNA编码的病毒。
+COVID-19 的致病病毒，新冠病毒 SARS-CoV-2，属于[冠状病毒](https://nextstrain.org/help/coronavirus/human-CoV)。新冠病毒和其他冠状病毒一样，是由RNA而非DNA编码的病毒。
 <br><br>
 病毒之所以会感染细胞，是因为它需要借用细胞中的工具来自我复制。RNA病毒的自我复制过程是非常容易出错的，因为大多数RNA聚合酶（能够复制RNA的分子）没有校对功能，不能自我纠错。这会导致病毒基因组中出现频繁的突变，这是正常现象，也是我们意料之中的。
 <br><br>
