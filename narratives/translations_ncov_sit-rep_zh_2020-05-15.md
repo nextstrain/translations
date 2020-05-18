@@ -133,16 +133,16 @@ abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [The evolutionary rate of SARS-CoV-2 is typical for a coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
+# [新冠病毒具有冠状病毒的典型演化速率](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
 
-Because viral genomes inevitably change, these differences tend to accumulate at a steady rate over time.
+因为病毒的基因组会不可避免地发生改变，这些改变也会随着时间在基因组中稳定地积累。
 <br><br>
-Here, the x axis shows the date that each sample was collected. The y axis shows the *total number* of mutations each strain is away from the root of the tree. Each sample is colored by the date it was collected.
+在此图中，横轴显示样本的采集日期，纵轴显示各样本与根部序列相比所积累的突变*总数*。样本点的颜色代表采样日期。
 <br><br>
-While there are certainly some outliers, on average, we see changes accumulate at a rate of ~24 substitutions per year. This means that if a single viral lineage were transmitting from one person to the next for a full year, we'd expect its entire genome to accumulate roughly 24 substitutions by the end of the year.
-As the whole SARS-CoV-2 genome is ~30,000 bases, this corresponds to roughly ~1 mutation per 1,000 bases in a year.
+虽然数据中当然会有一些异常值，但是平均起来，我们看到突变积累的速率是每年约 24 个点突变（substitution）。意思是，假设有一个病毒在人群之中持续传播一年，我们预期一年之后，它的基因组中大约会积累 24 个点突变。
+而新冠病毒基因组的全长是约 30,000 个碱基，这粗略地对应于每年每 1000 个碱基中大约产生 1 个突变。
 <br><br>
-For context, influenza would average ~2 mutations per 1,000 bases per year; HIV would average ~4 mutations per 1,000 bases per year.
+这里提供一些背景数据：流感病毒每年每 1000 个碱基中平均有约 2 个突变，HIV每年每 1000 个碱基中平均有约 4 个突变。
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
