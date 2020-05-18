@@ -63,49 +63,49 @@ abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Situation Report Hiatus
+# 状况报告间章
 <p>
-Early in the pandemic, it was unclear how SARS-CoV-2 was moving between countries, where it was circulating locally, and how localized outbreaks were related.
-Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
+在疫情早期，我们并不清楚 SARS-CoV-2 如何在国家之间传播，也不知它如何在地区内蔓延，更不知已呈现爆发的地区疫情来源。
+之前的四个月，我们在状况报告里连续追踪了以下（及更多其他）问题，而现在的疫情阶段，我们已清楚病毒是如何在国家和地区之间，打破一些边境后蔓延的模式。
 </p>
 <p/>
 
-- Outbreaks across even distant parts of the world are deeply intertwined.<p/>
+- 即使是全世界相隔遥远的地区，疫情爆发也显著地存在相互影响。<p/>
 
-- Through human migration and travel, the virus has been introduced to most communities multiple times.<p/>  
+- 通过人类的移动和旅行，病毒是被重复多次传入大部分国家。<p/>  
 
-- Once these "sparks" land in a new community, many fizzle out without causing widespread transmission. Subject to local conditions and a bit of chance, some of these sparks grow into local outbreaks.<p/>  
+- 在这些小型的“火种”流入新社区之后，许多并未引起广泛传播便自己消失了。然而在某些地区特征和偶然可能性下，一些“火种”演变成为地区性的疫情爆发。<p/>  
 
-- Eventually, these local outbreaks send off sparks of their own, spreading to new locations.  
+- 最后，这些地区性的爆发形成了自己的“火种”，接着又向其他新的地域传播下去。  
 <p/>
 
-Unsurprisingly, we see this pattern in countries experiencing their first wave of infections. More alarmingly, we also see this pattern after re-introductions of the virus to countries where the initial peak passed months beforehand.
-Ultimately, this pattern is only broken when a country is able to effectively test, trace, and isolate cases immediately.
+我们在第一轮经历感染潮的国家中发现这样的传播模式实属情有可原，但需要警惕的是，我们在一些离最初疫情爆发后几个月，再次传入新病例的国家中，也观察到这样的传播模式。
+最终，只在有效地实施病毒检测，病例追踪和及时隔离的国家中，这样的模式才被打破。
 <br><br>
 
-This means that outbreaks across the world are deeply connected, and the battle against COVID-19 will always be global -- we can't conquer the virus anywhere without addressing it everywhere.
+这表示全世界的疫情爆发都紧密地联系在一起，这场与 COVID-19 抗争的战疫将会是全球性的，若不督促世界上的每一处角落都重视，我们最终会战胜不了它。
 <br><br>
 
-At this stage of the pandemic, genomic epidemiology is most urgently needed within local and hyperlocal communities through local public health offices.
+在疫情发展的这个阶段，结合地理的流行病学是各地域以及更细分的地域内，社区人群最紧迫需要从当地公共卫生机构知道的。
 <br><br>
 
-As such, this will be our last weekly Situation Report for a while, though we aim to support similar reports from local public health officials.
+因此，这将是我们这阶段最后一份周报，不过我们依旧会提供蕾丝的报告给各地域的公共卫生机构。
 <br><br>
 
-We will, of course, continue daily updates to the global & regional builds as new sequences are made available.
-When the big-picture data says something new, we'll also issue additional Situation Reports.
-All of these updates will be posted to the [Nextstrain twitter account](https://twitter.com/nextstrain) (as always).  
+我们当然会继续我们的每日更新，一旦有心绪发布，我们就会更新我们网站上全球和各地域的病毒信息。
+如果之后的疫情中发生什么发规模的新事件，我们也会再撰写额外的状况报告。
+所有的这些信息更新将会第一时间发布在 [Nextstrain 的英文官方推特账号](https://twitter.com/nextstrain) 。  
 <br><br>
 
-You can also find <a href="https://nextstrain.org/ncov-sit-reps/">all of our previous Situation Reports here</a>.
+你也可以在 <a href="https://nextstrain.org/ncov-sit-reps/">这里</a> 找到我们所有的状况报告。
 
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Changes in viral genomes over time are normal](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
+# [病毒基因组随时间而改变实属正常](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-SARS-CoV-2, the virus that causes the disease COVID-19, is a [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
+导致 COVID-19 疾病的病毒，SARS-CoV-2，是一个 [冠状病毒科](https://nextstrain.org/help/coronavirus/human-CoV) 的病毒. Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
 <br><br>
 Viruses infect cells because they need to borrow cellular machinery to replicate. For RNA viruses, this process is quite error-prone, as most RNA polymerases (the molecular machines that make copies of RNA) aren't able to proofread and correct their work. This leads to frequent mutations in the viral genome; these are normal and expected.
 <br><br>
