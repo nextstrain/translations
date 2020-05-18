@@ -1,5 +1,5 @@
 ---
-title: Genomic analysis of COVID-19. Situation report 2020-05-15.
+title: COVID-19 का जीनोमिक विश्लेषण। स्थिति रिपोर्ट 2020-05-15।
 authors:
   - Sidney M. Bell
   - Emma Hodcroft
@@ -17,13 +17,13 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators:
-translatorLinks:
+translators: Google द्वारा प्रदत्त
+translatorLinks: www.google.com
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
 
-abstract: "Nextstrain Situation Reports use publicly shared genomic data to track the spread and evolution of SARS-CoV-2. This week, we give an overview of viral mutations and what they mean (and don't mean) for the COVID-19 pandemic."
+abstract: "Nextstrain स्थिति रिपोर्टों में SARS-CoV-2 के प्रसार और विकास को ट्रैक करने के लिए सार्वजनिक रूप से साझा किए गए जीनोमिक डेटा का उपयोग किया जाता है। इस सप्ताह, हम वायरल उत्परिवर्तनों और COVID-19 वैश्विक महामारी के लिए उनका क्या अर्थ है (और क्या अर्थ नहीं है) का अवलोकन प्रदान कर रहे हैं।"
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
@@ -31,188 +31,190 @@ abstract: "Nextstrain Situation Reports use publicly shared genomic data to trac
 <!-- numbers can be tagged ilke this: 161</tag> - this is just for us to help find them to update! Just leave in the </tag> bit. -->
 
 <!-- This is left-side text -->
-# [Executive summary](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
+# [कार्यकारी सारांश](https://nextstrain.org/ncov/2020-05-14?d=tree,entropy&p=grid)
 
-We analyzed 5,193 publicly shared COVID-19 genomes. By comparing these viral genomes to each other, we can characterize how SARS-CoV-2 is evolving and moving around the world. This week, we focus on viral mutations. We cover:
+हमने सार्वजनिक रूप से साझा किए गए 5,193 COVID-19 जीनोमों का विश्लेषण किया। इन वायरल जीनोमों की एक-दूसरे से तुलना करके, हम यह बता सकते हैं कि SARS-CoV-2 कैसे विकसित हो रहा है और दुनिया भर में इसका प्रसार किस तरह से हो रहा है। इस सप्ताह, हम वायरल उत्परिवर्तनों पर ध्यान केंद्रित कर रहेे हैं। हम इनकी रिपोर्ट दे रहे हैं:
 <br><br>
-* Where viral mutations come from (they're normal)  
-* The rate of mutation in SARS-CoV-2 (very typical)
-* How many strains of SARS-CoV-2 are circulating (as far as we know: 1)  
-* How geography and epidemiology contribute to perceived differences in viral genotypes (this is tricky)
+* वायरल उत्परिवर्तन कहाँ से आए (वे सामान्य हैं)  
+* SARS-CoV-2 में उत्परिवर्तन की दर (बहुत विशिष्ट)
+* SARS-CoV-2 के कितने उपभेद घूम रहे हैं (जहाँ तक हम जानते हैं: 1)  
+* भूगोल और महामारी विज्ञान वायरल, जीनोटाइप में कथित अंतरों में किस प्रकार योगदान देते हैं (इसे समझना थोड़ा मुश्किल है)
 
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text 2-->
-# [COVID-19 Resources](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
+# [COVID-19 संसाधन](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/).
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/).
-* [Explanatory Twitter threads](https://bedford.io/misc/twitter/).
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV).
-* [Common misconceptions](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
+#### Nextstrain संसाधन
+* [यहां आरंभ करें: जातिवृत्त कैसे पढ़ें](https://nextstrain.org/narratives/trees-background/).
+* [पिछली स्थिति रिपोर्टें](https://nextstrain.org/ncov-sit-reps/).
+* [व्याख्यात्मक Twitter सूत्र](https://bedford.io/misc/twitter/).
+* [कोरोना वायरसों की पृष्ठभूमि](https://nextstrain.org/help/coronavirus/human-CoV).
+* [आम गलत-धारणाएं](https://nextstrain.org/narratives/ncov/sit-rep/2020-03-13?n=11).
 
-#### External Resources
-* [How coronavirus mutations and spreads (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-* [Ask a Scientist & FAQs](https://covid19.fas.org/l/en).
-* [WHO Situation Reports](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
-* [CDC Resources](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+#### बाहरी संसाधन
+* [कोरोना वायरस उत्परिवर्तन और इसका प्रसार (NYTimes)](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
+* [एक वैज्ञानिक से पूछें एवं बहुधा पूछे जाने वाले प्रश्न (FAQs)](https://covid19.fas.org/l/en).
+* [WHO स्थिति रिपोर्टें](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports).
+* [CDC संसाधन](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Situation Report Hiatus
+# स्थिति रिपोर्ट अभाव
 <p>
-Early in the pandemic, it was unclear how SARS-CoV-2 was moving between countries, where it was circulating locally, and how localized outbreaks were related.
-Over the last four months, we've tackled these questions - and more - in our weekly Situation Reports. At this stage of the pandemic, it's clear that some broad-strokes patterns are largely consistent across regions and countries:  
+वैश्विक महामारी की शुरूआत में, यह स्पष्ट नहीं था कि SARS-CoV-2 देशों के बीच कैसे प्रसारित हो रहा था, स्थानीय स्तर पर यह कहाँ प्रसारित हो रहा था, और स्थानीयकृत प्रकोप कैसे संबंधित थे।
+पिछले चार महीनों में, हमने इन प्रश्नों - और भी बहुत कुछ - को अपनी साप्ताहिक स्थिति रिपोर्टों में समाविष्ट किया है। वैश्विक महामारी के इस पड़ाव पर, यह स्पष्ट है कि कुछ व्यापक-स्ट्रोक पैटर्न विभिन्न क्षेत्रों और देशों में काफी हद तक एक जैसे हैं:  
 </p>
 <p/>
 
-- Outbreaks across even distant parts of the world are deeply intertwined.<p/>
+- दुनिया के दूर के हिस्सों में भी प्रकोप एक-दूसरे से गहराई से गुंथे हैं। <p/>
 
-- Through human migration and travel, the virus has been introduced to most communities multiple times.<p/>  
+- मानव प्रवास और यात्रा के माध्यम से, वायरस अधिकांश समुदायों के साथ अनेकानेक बार संपर्क में आया है।<p/>  
 
-- Once these "sparks" land in a new community, many fizzle out without causing widespread transmission. Subject to local conditions and a bit of chance, some of these sparks grow into local outbreaks.<p/>  
+- एक बार जब ये "स्पार्क्स" किसी नए समुदाय में आते हैं, तब अनेक व्यापक प्रसारण कारित किए बिना ही बेजान हो जाते हैं। स्थानीय परिस्थितियों और थोड़े से संयोग के अधीन, इनमें से कुछ स्पार्क्स स्थानीय प्रकोपों के रूप में बढ़ते हैं।<p/>  
 
-- Eventually, these local outbreaks send off sparks of their own, spreading to new locations.  
+- अन्तत:, ये स्थानीय प्रकोप अपने स्वयं के स्पार्क्स भेजते हैं, और नए स्थानों पर फैलते हैं।  
 <p/>
 
-Unsurprisingly, we see this pattern in countries experiencing their first wave of infections. More alarmingly, we also see this pattern after re-introductions of the virus to countries where the initial peak passed months beforehand.
-Ultimately, this pattern is only broken when a country is able to effectively test, trace, and isolate cases immediately.
+अप्रत्याशित रूप से, इस पैटर्न को हम संक्रमण की अपनी पहली लहर का अनुभव करने वाले देशों में देखते हैं। अधिक चिंताजनक रूप से, हम इस पैटर्न को उन देशों में वायरस के पुन: परिचय के बाद भी देखते हैं, जहाँ शुरूआती शिखर महीनों पहले निकल चुका था।
+अन्ततः, यह पैटर्न केवल तभी टूटता है जब कोई देश तुरंत मामलों का प्रभावी ढंग से परीक्षण, उन्हें ट्रेस और अलग करने में सक्षम होता है।
 <br><br>
 
-This means that outbreaks across the world are deeply connected, and the battle against COVID-19 will always be global -- we can't conquer the virus anywhere without addressing it everywhere.
+इसका अर्थ है कि दुनिया भर के प्रकोप गहराई से जुड़े हैं, और COVID-19 के विरुद्ध लड़ाई हमेशा वैश्विक होगी -- इसे हर जगह संबोधित किए बिना हम कहीं भी वायरस को जीत नहीं सकते हैं।
 <br><br>
 
-At this stage of the pandemic, genomic epidemiology is most urgently needed within local and hyperlocal communities through local public health offices.
+वैश्विक महामारी के इस पड़ाव पर, स्थानीय सार्वजनिक स्वास्थ्य कार्यालयों के माध्यम से स्थानीय और हाइपरलोकल समुदायों के भीतर जीनोमिक महामारी विज्ञान की तत्काल आवश्यकता है।
 <br><br>
 
-As such, this will be our last weekly Situation Report for a while, though we aim to support similar reports from local public health officials.
+वैसे तोे, यह कुछ समय के लिए हमारी अंतिम साप्ताहिक स्थिति रिपोर्ट होगी, हालांकि हमारा उद्देश्य स्थानीय सार्वजनिक स्वास्थ्य अधिकारियों की इसी तरह की रिपोर्टों का समर्थन करना है।
 <br><br>
 
-We will, of course, continue daily updates to the global & regional builds as new sequences are made available.
-When the big-picture data says something new, we'll also issue additional Situation Reports.
-All of these updates will be posted to the [Nextstrain twitter account](https://twitter.com/nextstrain) (as always).  
+निश्चित रूप से, हम वैश्विक और क्षेत्रीय बिल्ड में दैनिक अपडेट जारी रखेंगे, जैसे-जैसे नए क्रम उपलब्ध होते जाएँगे।
+जब व्यापक दृष्टिकोण के डेटा से हमें कोई नई जानकारी प्राप्त होगी, तो हम अतिरिक्त स्थिति रिपोर्ट भी जारी करेंगे।
+ये सभी अपडेट[Nextstrain twitter खाते](https://twitter.com/nextstrain) पर (हमेशा की तरह डाले जाएंगे).  
 <br><br>
 
-You can also find <a href="https://nextstrain.org/ncov-sit-reps/">all of our previous Situation Reports here</a>.
+आप <a href="https://nextstrain.org/ncov-sit-reps/">पर हमारी पिछली सभी स्थिति रिपोर्ट भी पा सकते हैं</a>।
 
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [Changes in viral genomes over time are normal](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
+# [समय के साथ वायरल जीनोम में परिवर्तन सामान्य हैं](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
-SARS-CoV-2, the virus that causes the disease COVID-19, is a [coronavirus](https://nextstrain.org/help/coronavirus/human-CoV). Like other coronaviruses, SARS-CoV-2 has a genome encoded in RNA (rather than DNA).
+SARS-CoV-2, वह वायरस जो COVID-19 रोग का कारण बनता है, एक [कोरोना वायरस है](https://nextstrain.org/help/coronavirus/human-CoV). अन्य कोरोना वायरस की तरह, SARS-CoV-2 में RNA में एक जीनोम एनकोड किया गया है (डीएनए के बजाय)).
 <br><br>
-Viruses infect cells because they need to borrow cellular machinery to replicate. For RNA viruses, this process is quite error-prone, as most RNA polymerases (the molecular machines that make copies of RNA) aren't able to proofread and correct their work. This leads to frequent mutations in the viral genome; these are normal and expected.
+वायरस कोशिकाओं को संक्रमित करते हैं क्योंकि उन्हें दोहराने के लिए कोशिकीय तंत्र को उधार लेने की आवश्यकता होती है। आरएनए वायरसों के लिए, यह प्रक्रिया काफी त्रुटिपूर्ण है, क्योंकि अधिकांश आरएनए पॉलीमरेज (आणविक मशीनें जो आरएनए की प्रतियाँ बनाती हैं) अपने काम को सही करने और ठीक करने में सक्षम नहीं होती हैं। यह वायरल जीनोम में लगातार उत्परिवर्तन की ओर जाता है; ये सामान्य और अपेक्षित हैं।
 <br><br>
-Importantly, the vast majority of these mutations either "break" the virus such that it can't transmit and/or replicate anymore, or don't change the virus at all because of [redundant encoding](https://en.wikipedia.org/wiki/Synonymous_substitution).
-This means that the mutations don't change the proteins, and therefore function, of the virus in any way.
-Other changes may modify a protein of the virus very slightly, but not impact the function at all.
-Rarely, a change in the genetic code of a virus can help it to replicate and/or transmit better, but nearly all of these changes still have only a tiny effect.
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text -->
-# [Variation in viruses' genetic code is useful for tracing outbreaks](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
-
-These differences in the genomes between viruses can be used as "bread crumbs" to trace the history of a given sample.
-Just as the people in your family share unique combinations of genetic characteristics, closely related viral samples share unique combinations of genetic mutations.
-<br><br>
-For example, here we show the viral "family tree" with each sample colored by which amino acid is present at a specific location in the viral genome (gene "ORF1a", site 57).
-<br><br>
-Highlighting samples from New York, we see that most of the cases from New York and Europe have the amino acid Histidine ("H") rather than Glutamine ("Q") at this position. This, in combination with all the other sites in the genome, tells us that these cases are all closely related to each other.
-<br><br>
-You can also see the position in gene "ORF3a" highlighted on the chart at the bottom of the left.
-<br><br>
-For a more in-depth explanation of these concepts, we recommend [this visual explanation](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) by Jonathan Corum and Carl Zimmer.
-
+महत्त्वपूर्ण रूप से, इनमें से अधिकांश उत्परिवर्तन या तो वायरस को "तोड़" देते हैं, ताकि यह संचारित न हो और/या फिर कोई प्रतिकृति न बना सके, या फिर [ निरर्थक एन्कोडिंग](https://en.wikipedia.org/wiki/Synonymous_substitution). के कारण वायरस को बिल्कुल भी नहीं बदलते।
+इसका अर्थ यह है कि उत्परिवर्तन प्रोटीनों, और इस तरह, वायरस के कार्य को, किसी भी तरह परिवर्तित नहीं करते हैं।
+अन्य परिवर्तन वायरस के एक प्रोटीन को बहुत थोड़ा संशोधित कर सकते हैं, लेकिन कार्य को बिल्कुल प्रभावित नहीं करते।
+विरले मामलों में, किसी वायरस के आनुवंशिक कोड में बदलाव से इसे बेहतर ढंग से दोहराने और/या संचारित होने में मदद मिल सकती है, लेकिन इन सभी परिवर्तनों का फिर भी एक अल्प प्रभाव ही रहता है।
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [The evolutionary rate of SARS-CoV-2 is typical for a coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
+# [वायरसों के जेनेटिक कोड में भिन्नता, प्रकोप का पता लगाने के लिए उपयोगी होती है](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
 
-Because viral genomes inevitably change, these differences tend to accumulate at a steady rate over time.
+अलग-अलग वायरसों के जीनोम केे बीच में इन अंतरों को, किसी दिए गए नमूने के इतिहास का पता लगाने के लिए, "छूटे हुए अवशेष" के रूप में प्रयुक्त किया जा सकता है।
+जिस तरह आपके परिवार के लोग आनुवांशिक विशेषताओं के अनूठे संयोजनों को साझा करते हैं, ठीक उसी तरह निकटता से संबंधित वायरल नमूने आनुवांशिक उत्परिवर्तन के अद्वितीय संयोजनों को साझा करते हैं।
 <br><br>
-Here, the x axis shows the date that each sample was collected. The y axis shows the *total number* of mutations each strain is away from the root of the tree. Each sample is colored by the date it was collected.
+उदाहरण के लिए, यहाँ पर हम प्रत्येक नमूने के साथ वायरल "पारिवारिक वृक्ष" दिखाते हैं, जिसके द्वारा अमीनो एसिड वायरल जीनोम (जीन "ORF1a", साइट 57). में एक विशिष्ट स्थान पर मौजूद रहता है
 <br><br>
-While there are certainly some outliers, on average, we see changes accumulate at a rate of ~24 substitutions per year. This means that if a single viral lineage were transmitting from one person to the next for a full year, we'd expect its entire genome to accumulate roughly 24 substitutions by the end of the year.
-As the whole SARS-CoV-2 genome is ~30,000 bases, this corresponds to roughly ~1 mutation per 1,000 bases in a year.
+न्यूयॉर्क केे नमूनों को उजागर करते हुए, हम देखते हैं कि न्यूयॉर्क और यूरोप के अधिकांश मामलों में इस स्थिति में ग्लूटामाइन ("क्यू") के बदले अमीनो एसिड हिस्टिडीन ("एच") है। यह, जीनोम में अन्य सभी स्थलों के साथ संयोजन में, हमें बताता है कि ये सभी मामले एक-दूसरे के साथ निकटता से संबंधित हैं।
 <br><br>
-For context, influenza would average ~2 mutations per 1,000 bases per year; HIV would average ~4 mutations per 1,000 bases per year.
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text -->
-# [As far as we know, there is only 1 strain of SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
-
-There have been many reports about multiple "strains" of SARS-CoV-2.
-First, a clarification: when virologists use the word "strain," it's often just as a useful label so we can all refer to the same group of samples (e.g., our clade labels, shown here). This does *not* imply any known functional difference.
+आप चार्ट पर बाईं ओर नीचे हाइलाइट किए गए जीन "ORF3a" में भी स्थिति देख सकते हैं।
 <br><br>
-Separately, "strain" can be used to refer to viral genotypes that are functionally distinct, either biologically (e.g., pathogenicity/disease severity) and/or epidemiologically (e.g., transmissibility).
-Importantly, though, determining whether two genotypes actually *are* functionally distinct requires much more experimental, clinical and epidemiological data than we currently have.
-<br><br>
-One of the most prominent hypotheses about SARS-CoV-2 strains compares possible "D614" vs "G614" strains.
+इन अवधारणाओं की अधिक गहन व्याख्या के लिए, हम जोनाथन कोरम और कार्ल ज़िमर द्वारा [इस दृश्य स्पष्टीकरण](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) का परामर्श देंगे।
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [D614G may be related to transmissibility, but could also be explained by geography](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [ SARS-CoV-2 की विकास दर कोरोना वायरस के लिए प्रारूपिक है](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
 
-[A recent pre-print](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) suggests that a single mutation, D614G (from amino acid "D" to "G" at site 614 in the "S" ('spike') protein), may be responsible for increasing the transmissibility of SARS-CoV-2.
+चूंकि वायरल जीनोम अनिवार्य रूप से बदलते हैं, समय के साथ ये अंतर स्थिर दर पर संचित होते हैं।
 <br><br>
-In many geographic areas, the relative frequency of 614D compared to 614G increased over time.
-If a certain genotype leads to better transmissibility, we would expect it's frequency to increase over time.
-There are, however, other explanations to why the relative frequency of some genotypes would increase over time.
+यहाँ, x अक्ष प्रत्येक नमूने को एकत्रित किए जाने की तिथि दर्शाता है। Y अक्ष उत्परिवर्तनों की *कुल संख्या*  दिखाता है, प्रत्येक विभेद वृक्ष के मूल से दूर होता है। प्रत्येक नमूने को उस तिथि के अनुसार रंग दिया जाता है, जिस दिन इसे एकत्र किया गया था।
 <br><br>
-For this site, we see a number of geographic locations where initially, most viral lineages in circulation had the D allele; later, this balance flips such that most lineages have the G allele.
-This *could* be a hallmark of G being slightly "fitter" than D (e.g., if viruses with the G mutation had a slightly higher R0 through increased transmissibility).
+वैसे तो इसमें कुछ मामले निश्चित रूप से सामान्य से बहुत अधिक हैं, लेकिन औसतन, हम देखते हैं कि प्रति वर्ष ~24 प्रतिस्थापनों की दर से परिवर्तन होता है। इसका अर्थ यह है कि अगर एक एकल वायरल वंश, एक व्यक्ति से दूसरे व्यक्ति तक एक पूरे वर्ष के लिए प्रेषित हो रहा था, हम वर्ष के अंत तक इसके पूरे जीनोम को लगभग 24 प्रतिस्थापनों को संचित करने की आशा करेंगे।
+जैसे संपूर्ण SARS-CoV-2 जीनोम में ~30,000 बेस हैं, तो यह एक वर्ष में लगभग ~1 उत्परिवर्तन प्रति 1,000 बेस के तदनुरूप होता है।
 <br><br>
-However, this could also just be a side effect of the natural history of the pandemic.
-Early on in the pandemic, most strains exported from China had a D allele. Later, most strains from Italy had a G allele. Recently, we've seen more exportation from Europe than from Asia overall (although there's certainly some sampling bias at play here, as well).
-Thus, it could just be that this particular genotype got lucky, and spread so rapidly because it got there first.
+संदर्भ के लिए, इन्फ्लूएंजा प्रति वर्ष ~2 उत्परिवर्तन प्रति 1,000 बेस  औसत रहता होगा; एचआईवी प्रति वर्ष ~4 उत्परिवर्तन प्रति 1,000 बेस औसत रहता होगा।
+
+<!-- ############ SLIDE BREAK ############# -->
+<!-- This is left-side text -->
+# [जहाँ तक हम जानते हैं, SARS-CoV-2 का केवल 1 उपभेद है।](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
+
+SARS-CoV-2 के कई "उपभेदों" के बारे में अनेक रिपोर्टें मिली हैं।
+सबसे पहले, एक स्पष्टीकरण: जब वायरोलॉजिस्ट "विभेद" शब्द का उपयोग करते हैं, तब यह अक्सर एक उपयोगी लेबल के रूप में होता है, ताकि हम सभी नमूनों के एक ही समूह को संदर्भित करें (उदाहरण के लिए, यहाँ दिखाए हमारे क्लैड लेबल). यह किसी* भी ज्ञात कार्यात्मक अंतर का संकेत *नहीं करता।
 <br><br>
-There's a fair amount of debate regarding the relative merits of these two hypotheses. It'll be important to carefully tease these apart, but we don't have scientific consensus on this issue yet. For a more detailed explanation, [see this thread](https://twitter.com/trvrb/status/1257825352660877313).
+अलग से, "विभेद" का उपयोग वायरल जीनोटाइप्स को संदर्भित करने के लिए किया जा सकता है जो कार्यात्मक रूप से भिन्न हों, या तो जैविक रूप से (जैसे, रोगजनक/रोग की गंभीरता) और/या महामारी विज्ञान के अनुसार (जैसे, प्रसार्यता).
+महत्त्वपूर्ण रूप से, हालांकि, यह निर्धारित करने के लिए कि क्या वास्तव में दो जीनोटाइप्स कार्यात्मक रूप से भिन्न *हैं, * वर्तमान में हमारे पास जो है उससेे कहीं अधिक प्रयोगात्मक, नैदानिक और महामारी विज्ञान संबंधी डेटा की आवश्यकता है।
+<br><br>
+SARS-CoV-2 उपभेदों के बारे में सबसे प्रमुख परिकल्पनाओं में संभावित "D614" बनाम "G614" उपभेदों की तुलना है।
+
+
+<!-- ############ SLIDE BREAK ############# -->
+<!-- This is left-side text -->
+# [D614G प्रसारण क्षमता से संबंधित हो सकता है, लेकिन भूगोल द्वारा भी इसे समझाया जा सकता है](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+
+[एक हाल का प्री-प्रिंट](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) बताता है कि एक एकल उत्परिवर्तन, D614G ("S" ('स्पाइक') प्रोटीन में स्थल 614 पर एमिनो एसिड "D" से "G"), SARS-CoV-2 की प्रसारण क्षमता को बढ़ाने के लिए ज़िम्मेदार हो सकता है।
+<br><br>
+अनेक भौगोलिक क्षेत्रों में, 614G की तुलना में 614D की सापेक्षिक आवृत्ति समय के साथ बढ़ी।
+यदि एक निश्चित जीनोटाइप बेहतर संप्रेषण की ओर जाता है, तो हम अपेक्षा करेंगे कि समय के साथ इसकी आवृत्ति बढ़े।
+यद्यपि, समय के साथ कुछ जीनोटाइप की सापेक्षिक आवृत्ति बढ़ने के कारणों के बारे में दूसरी व्याख्याएँ हैं।
+<br><br>
+इस स्थल के लिए, हम अनेक भौगोलिक स्थानों को देखते हैं जहाँ शुरू में, वायरल वंश डी एलेले ही अधिकांश परिसंचरण में था; बाद में, यह संतुलन इस तरह से बदल गया कि अधिकांश वंशावली में जी एलेले आ गया।
+यह डी की तुलना में जी के थोड़ा "अधिक स्वस्थ" *होने * का प्रमाणांकन हो सकता है (जैसे, बढ़े हुए प्रसार्यता के माध्यम से यदि जी उत्परिवर्तन वाले वायरस का थोड़ा अधिक R0 रहे).
+<br><br>
+तथापि, यह वैश्विक महामारी के प्राकृतिक इतिहास का सिर्फ एक दुष्प्रभाव हो सकता है।
+वैश्विक महामारी की शुरूआत में, चीन से निर्यात किए गए अधिकांश उपभेदों में डी एलेले था। बाद में, इटली के अधिकांश उपभेदों में एक जी एलेले था। हाल ही में, समग्र रूप में हमने यूरोप से एशिया की तुलना में अधिक निर्यात देखा है (हालाँकि यहाँ निश्चित रूप से आंकड़ों में कुछ अशुद्धि भी रही है).
+इस प्रकार, बस यह हो सकता है कि यह विशेष जीनोटाइप भाग्यशाली था, और वहाँ पहले पहुँचने के कारण ही इतनी तेजी से फैल गया।
+<br><br>
+इन दो परिकल्पनाओं के सापेक्ष गुणों के बारे में उचित मात्रा में बहस हो रही है। इन्हें ध्यान से सुलझाकर अलग करना महत्त्वपूर्ण होगा, परन्तु इस मुद्दे पर अभी तक हमारे पास वैज्ञानिक सहमति नहीं है। अधिक विस्तृत विवरण के लिए,[इस सूत्र को देखें](https://twitter.com/trvrb/status/1257825352660877313).
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 13-->
-# [What you can do](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
-#### ...as an individual
-* Practice strict social distancing, especially if you are in a vulnerable group.
-* Remember that even if you are not super vulnerable, many people around you are; follow these practices to protect others.
-* Wash your hands "like you just chopped a jalapeno and have to change a contact lens."
-* Stay home as much as possible -- especially  if you are sick; be prepared with extra supplies in case you need to self-quarantine.
-* If you are an employer, encourage your employees to work from home wherever possible.
+# [आप क्या कर सकते हैं](https://nextstrain.org/ncov/2020-05-14?c=country&d=map&p=full)
+#### ...एक व्यक्ति के रूप में
+* सामाजिक दूरी का कड़ाई से पालन करें, विशेष रूप से यदि आप किसी संवेदनशील समूह का भाग हों।
+* याद रखें कि भले ही आप अति-संवेदनशील न हों, पर आपके इर्द-गिर्द के कई लोग हैं; दूसरों की सुरक्षा के लिए इन अभ्यासों का पालन करें।
+* अपने हाथ यह मानकर धोएं कि "आपने अभी-अभी तीखी मिर्च काटी है और आपको अपना कॉन्टेक्ट लेंस बदलना है।"
+* जितना हो सके घर पर ही रहें -- विशेष रूप से यदि आप बीमार हों; अतिरिक्त आवश्यक वस्तुएं जुटाकर तैयार रहें, यदि आपको स्व-संगरोध (सेल्फ़-क्वॉरन्टीन) में जाना पड़ा तो काम आएंगी।
+* यदि आप एक नियोक्ता हैं, तो जहां कहीं संभव हो वहां अपने कर्मचारियों को घर से काम करने के लिए प्रोत्साहित करें।
 
-#### ...as an official
-* Make testing free and broadly available.
-* Put strong social distancing measures in place.
-* Fund and implement extensive contact tracing efforts.
-* Financially support those impacted by social distancing measures.
+#### ...एक अधिकारी के रूप में
+* परीक्षण को निःशुल्क और व्यापक रूप से उपलब्ध बनाएं।
+* सामाजिक दूरी के कड़े उपाय लागू करें।
+* संपर्क का पता लगाने के व्यापक प्रयासों का वित्तपोषण करें और उन्हें क्रियान्वित करें।
+* सामाजिक दूरी के उपायों से प्रभावित लोगों की वित्तीय सहायता करें।
 
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
-# Takeaways  
+# याद रखने योग्य मुख्य बिंदु  
 
-#### Viruses naturally acquire mutations as they replicate. This is normal. Mutations can also help us trace the course of epidemics.  
+#### वायरस दोहराने पर स्वाभाविक रूप से उत्परिवर्तन प्राप्त करते हैं। यह सामान्य है। उत्परिवर्तन, वैश्विक महामारी के प्रवाह का पता लगाने में भी हमारे लिए सहायक हो सकते हैं।  
 
-#### SARS-CoV-2 mutation rate is very typical for coronaviruses.
+#### SARS-CoV-2 उत्परिवर्तन दर कोरोना वायरसों के लिए बहुत प्रारूपिक है।
 
-#### As far as we know, there is only 1 functional "strain" of SARS-CoV-2.  
+#### जहाँ तक हम जानते हैं, SARS-CoV-2 का केवल 1 क्रियाशील "उपभेद" है।  
 
-#### Teasing apart the biological impact of specific mutations is tricky -- many perceived differences can be attributed to chance and epidemiological factors.  
+#### विशिष्ट उत्परिवर्तनों के जैविक प्रभाव को सुलझाना कठिन है -- कई कथित मतभेदों के लिए संयोग और महामारी विज्ञान से जुड़े कारकों को उत्तरदायी ठहराया जा सकता है।  
 ```
 
 <!-- ############ SLIDE BREAK ############# -->
 
 <!-- This is left-side text -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
+# [वैज्ञानिक श्रेय](https://nextstrain.org/ncov/global/2020-05-14?d=tree&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+हम इस प्रकोप में कार्यरत सभी वैज्ञानिकों द्वारा किए गए अद्भुत और समयबद्ध कार्य का आभार प्रकट करना चाहते हैं।
+जीनोमिक आंकड़ों और मेटा-आंकड़ों को द्रुत गति से साझा करने के माध्यम से ही इस प्रकार के विश्लेषण संभव हो पाते हैं।
 <br><br>
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+**लेखकों की पूरी सूची के लिए हम आपको 'स्वयं डेटा का अन्वेषण करें' पर क्लिक करने और नीचे स्क्रॉल करने के लिए प्रोत्साहित करेंगे; प्रत्येक व्यक्तिगत अनुक्रम के लेखक वृक्ष पर उसे चुनने पर उपलब्ध होंगे।**
 <br><br>
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+हम GISAID के भी अत्यंत आभारी हैं जिन्होंने हमें वह प्लेटफ़ॉर्म दिया जिसके माध्यम से इन आंकड़ों को अपलोड और साझा किया जा सकता है।
+
+
