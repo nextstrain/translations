@@ -17,8 +17,8 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://bedford.io/team/trevor-bedford/
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
-translators: Được cung cấp bởi Google
-translatorLinks: www.google.com
+translators: "Được cung cấp bởi Google"
+translatorLinks: "https://www.google.com"
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-05-14?d=tree&l=clock&legend=closed"
@@ -47,7 +47,7 @@ Chúng tôi đã tiến hành phân tích 5.193 bộ gen COVID-19 được chia 
 # [Tài nguyên về COVID-19](https://nextstrain.org/ncov/global/2020-05-14?d=tree&p=full&legend=closed)
 
 #### Tài nguyên của Nextstrain
-* [BẮT ĐẦU Ở ĐÂY: Cách đọc hiểu cây phát sinh chủng loại](https://nextstrain.org/narratives/trees-background/).
+* [BẮT ĐẦU Ở ĐÂY: Cách đọc hiểu cây phát sinh chủng loại](https://nextstrain.org/narratives/trees-background/vi).
 * [Các báo cáo hiện trạng trước đây](https://nextstrain.org/ncov-sit-reps/).
 * [Các thảo luận mang tính giải thích trên Twitter](https://bedford.io/misc/twitter/).
 * [Bối cảnh về vi-rút corona](https://nextstrain.org/help/coronavirus/human-CoV).
@@ -161,7 +161,7 @@ Một trong những giả thuyết nổi bật nhất về các chủng SARS-CoV
 
 [Một ấn phẩm sơ bộ gần đây](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) cho thấy đột biến đơn lẻ D614G (từ axit amin "D" đến "G" tại vị trí 614 trong cấu trúc protein "S" ('spike')) có thể là yếu tố chịu trách nhiệm làm tăng khả năng lây truyền của SARS-CoV-2.
 <br><br>
-Tại nhiều khu vực địa lý, tần suất tương đối của 614D so với 614G tăng theo thời gian.
+Tại nhiều khu vực địa lý, tần suất tương đối của 614G so với 614D tăng theo thời gian.
 Nếu phát hiện thấy một kiểu gen nhất định có khả năng lây truyền cao hơn, tần suất của kiểu gen đó được dự kiến sẽ tăng theo thời gian.
 Tuy nhiên, có những cách giải thích khác đối với việc gia tăng tần suất tương đối theo thời gian này của một số kiểu gen.
 <br><br>
