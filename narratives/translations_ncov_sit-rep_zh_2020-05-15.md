@@ -146,22 +146,26 @@ abstract: "本报告使用公开共享的基因组学数据来追踪 SARS-CoV-2 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [As far as we know, there is only 1 strain of SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
+# [据我们所见，新冠病毒只有一个毒株](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
 
-There have been many reports about multiple "strains" of SARS-CoV-2.
+现在有很多关于新冠病毒的多种“毒株（strain）”的报道。There have been many reports about multiple "strains" of SARS-CoV-2.
+首先要澄清，病毒学家使用“毒株”一词时，它常常只是一个有用的标签，让我们都能够指称同一组样本（比如此图中的演化支（clade）标签），它*不能*代表任何已知的功能上的不同。
 First, a clarification: when virologists use the word "strain," it's often just as a useful label so we can all refer to the same group of samples (e.g., our clade labels, shown here). This does *not* imply any known functional difference.
 <br><br>
+此外，“毒株”可以被用来指代病毒的基因型，在功能上有显著差异的不同基因型的病毒，要么是在生物学上（如致病性和所致疾病的严重程度），和/或流行病学上（如传播力）。
 Separately, "strain" can be used to refer to viral genotypes that are functionally distinct, either biologically (e.g., pathogenicity/disease severity) and/or epidemiologically (e.g., transmissibility).
+然而，重要的是，决定两种基因型*是否*实际上在功能上有明显的差异，需要更多实验室、临床和流行病学数据，我们目前所有的数据还远远不够。
 Importantly, though, determining whether two genotypes actually *are* functionally distinct requires much more experimental, clinical and epidemiological data than we currently have.
 <br><br>
+其中，对新冠病毒毒株的最显要的假说，是说有可能存在“D614”和“G614”两种毒株。
 One of the most prominent hypotheses about SARS-CoV-2 strains compares possible "D614" vs "G614" strains.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [D614G may be related to transmissibility, but could also be explained by geography](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [D614G突变可能与传播力有关，但也可以被地理所解释 may be related to transmissibility, but could also be explained by geography](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
 
-[A recent pre-print](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) suggests that a single mutation, D614G (from amino acid "D" to "G" at site 614 in the "S" ('spike') protein), may be responsible for increasing the transmissibility of SARS-CoV-2.
+[最近的一篇预印本论文](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) 暗示，点突变D614G（S蛋白，也称棘突蛋白的614号位点的氨基酸从D到G的突变）可能与新冠病毒传播力的提高有关。suggests that a single mutation, D614G (from amino acid "D" to "G" at site 614 in the "S" ('spike') protein), may be responsible for increasing the transmissibility of SARS-CoV-2.
 <br><br>
 In many geographic areas, the relative frequency of 614D compared to 614G increased over time.
 If a certain genotype leads to better transmissibility, we would expect it's frequency to increase over time.
