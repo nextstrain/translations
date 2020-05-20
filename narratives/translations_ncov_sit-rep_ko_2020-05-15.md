@@ -38,9 +38,9 @@ abstract: "Nextstrain 상황 보고서는 공개된 유전체 정보를 이용�
 
 저희는 5,193개의 공개된 코로나19의 유전체 염기서열을 분석하였습니다. 바이러스들을 비교 분석하여 코로나19가 어떻게 진화하고 세계와 지역 내에서 곳곳으로 퍼지고 있는지 분석할 수 있습니다. 이번 주, 저희는 바이러스 돌연변이에 초점을 맞추어 보았습니다. 다음 내용을 새롭게 추가합니다:
 <br><br>
-* 어디에서 바이러스 돌연변이가 오는가 (그들은 지극히 정상임)
-* SARS-CoV-2의 돌연변이 발생률 (매우 일반적인 수준임)
-* 얼마나 많은 SARS-CoV-2의 계통이 순환하고 있는가 (우리가 현재까지 아는 것은 1종)
+* 어디에서 바이러스 돌연변이가 오는가 (정상적인 수준임)
+* SARS-CoV-2의 돌연변이 발생속도 (매우 일반적인 수준임)
+* 얼마나 많은 SARS-CoV-2의 변종이 순환 중인가 (현재까지 밝혀진 것은 1종)
 * 지리적 요인과 역학적 요인이 어떻게 사람들의 바이러스 유전형 인식의 차이에 영향을 미치는가 (이는 까다로운 문제임)
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -65,34 +65,34 @@ abstract: "Nextstrain 상황 보고서는 공개된 유전체 정보를 이용�
 
 # 상황 보고서 중단
 <p>
-팬데믹 초기에는, SARS-CoV-2 바이러스가 지역사회 내에서 순환 중인 나라들 간에 어떻게 전파가 이루어지고 있는지, 그리고 지역사회 유행들이 서로 어떻게 연관되어 있는지 불분명했습니다. 지난 4개월 동안 주간 상황 보고서를 통해, 이 질문들과 그 이상의 내용들을 다루어 왔습니다. 팬데믹의 현 단계에서는 전반적으로 지역과 국가의 유행 패턴이 대체로 일치하는 것이 확실해졌습니다:
+팬데믹 초기에는, SARS-CoV-2 바이러스가 지역사회 내에서 순환 중인 나라들 간에 어떻게 전파가 이루어지는지, 그리고 지역사회 유행들이 서로 어떻게 연관되어 있는지 불분명했습니다. 지난 4개월 동안 주간 상황 보고서를 통해, 관련 질문들과 그 이상의 내용들을 다루어 왔습니다. 팬데믹의 현 단계에서는 전반적으로 지역과 국가의 유행 패턴이 대체로 일치하는 것이 확실해졌습니다:
 </p>
 <p/>
 
-- 서로 멀리 떨어진 지역일지라도 확산이 서로 깊게 얽혀 있습니다.<p/>
+- 서로 멀리 떨어진 지역일지라도 확산이 서로 깊게 연관되어 있습니다.<p/>
 
 - 인간의 이동과 여행을 통해, 대부분의 지역사회에 바이러스가 여러 차례에 걸쳐 유입되었습니다.<p/>  
 
-- 일단 새로운 지역으로 이러한 "불씨"가 첫발을 내딛게 되면, 멀리 퍼되지 못하고 흐지부지되는 경우가 대부분입니다. 하지만, 지역의 특성과 약간의 우연으로 "불씨"들 중 일부가 지역사회 유행으로 번지게 됩니다.<p/>  
+- 일단 새로운 지역으로 이러한 "불씨"가 첫발을 내딛게 되면, 멀리 퍼되지 못하고 흐지부지되는 경우가 대부분입니다. 하지만, 지역적 특성과 약간의 우연으로 "불씨"들 중 일부가 지역사회 유행으로 번지게 됩니다.<p/>  
 
 - 결국, 이런 지역사회 유행은 불꽃이 되어 활활 타오르게 되고, 새로운 지역으로 퍼져 나가게 됩니다.
 <p/>
 
-당연스럽게도, 저희는 이러한 패턴을 첫 번째 감염을 경험하는 나라들에서 볼 수 있었습니다. 더욱 놀라운 것은, 이미 몇 달 전에 최고점을 기록한 국가들로 바이러스가 재유입되어 이 패턴이 다시 확인되었다는 점입니다. 결론적으로, 이러한 패턴은 한 국가가 효과적으로 사례들을 테스트하고, 추적하고, 격리할 수 있을 때에만 중단되었습니다.
+아니나 다를까 저희는 이러한 패턴을 첫 유행이 발생하는 나라들에서 확인 할 수 있었습니다. 더욱 놀라운 것은, 이미 몇 달 전에 유행의 정점을 찍은 국가들로 바이러스가 재유입되어 이 패턴을 다시 보여주었다는 점입니다. 결론적으로, 이러한 패턴은 한 국가가 효과적으로 확진 사례들을 테스트하고, 추적하고, 격리할 수 있을 때에만 중단되었습니다.
 <br><br>
 
-이는 전세계적으로 발생하는 유행이 서로 깊게 연관되어 있으며, 코로나19와의 전쟁은 항상 범세계적으로 진행될 것임을 의미합니다. 전세계 모든 곳에서 바이러스를 해결해야지만 우리는 비로소 바이러스를 정복할 수 있을 것입니다.
+이는 전세계적으로 발생하는 유행이 서로 깊게 연관되어 있으며, 코로나19와의 전쟁은 항상 범세계적으로 진행될 것임을 의미합니다. 전세계 모든 곳에서 바이러스를 해결해야지만, 우리는 비로소 바이러스를 정복할 수 있을 것입니다.
 <br><br>
 
 팬데믹의 현 단계에서, 지역/초지역 공동체부터 지역 보건소에 이르기까지 유전체 역학을 가장 시급히 필요로 합니다.
 <br><br>
 
-이러한 이유로, 지역의 공공 보건 당국의 유사한 보고서를 지원하는 것을 목표로 하고 있으나, 이 보고서가 마지막 주간 상황 보고서가 될 것입니다.
+따라서 지역의 공공 보건 당국의 유사한 보고서를 제공하는 것을 목표로 하고 있지만, 이 보고서가 마지막 주간 상황 보고서가 될 것입니다.
 <br><br>
 
 물론 새로운 염기서열 데이터가 공유될 때마다 전 세계 및 지역 관련 업데이트를 매일 진행할 것입니다.
-전체적인 상황과 관련하여 새로운 점이 있는 경우, 추가적인 상황 보고서 발행도 계획하고 있습니다.
-이와 관련된 모든 업데이트는 항상 [Nextstrain 트위터 계정](https://twitter.com/nextstrain) 에 이루어질 예정입니다.
+전체적인 상황과 관련하여 새로운 특이사항이 있는 경우, 추가적인 상황 보고서 발행도 계획하고 있습니다.
+관련된 모든 업데이트는 항상 [Nextstrain 트위터 계정](https://twitter.com/nextstrain) 에 이루어질 예정입니다.
 <br><br>
 
 또한, <a href="https://nextstrain.org/ncov-sit-reps/">이전까지 발행된 상황 보고서 전부를 여기에서</a> 확인하실 수 있습니다.
@@ -101,75 +101,74 @@ abstract: "Nextstrain 상황 보고서는 공개된 유전체 정보를 이용�
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [바이러스의 염기서열이 시간이 지남에 따라 바뀌는 것은 지극히 정상입니다](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
+# [바이러스의 염기가 시간이 지남에 따라 변화하는 것은 지극히 정상입니다](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&m=div&p=full&legend=open)
 
 코로나바이러스감염증-19의 원인이 되는 바이러스인 SARS-CoV-2는 [코로나 바이러스](https://nextstrain.org/help/coronavirus/human-CoV) 입니다.
-다른 코로나 바이러스와 마찬가지로 SARS-CoV-2에는 (DNA 보다는) RNA 염기로 되어 있는 유전체가 있습니다.
+다른 코로나바이러스와 마찬가지로 SARS-CoV-2에는 DNA가 아니라 RNA형태의 유전자를 지니고 있습니다.
 <br><br>
-바이러스는 복제를 위해서는 세포 조직을 빌려야 하기 때문에 세포를 감염시킵니다. RNA 바이러스의 경우, 대부분의 RNA 폴리메라아제(RNA의 복제를 만드는 분자 기계) 는 그들의 작업을 교정 또는 수정할 수 없기 때문에 이 과정은 꽤 오류 가능성이 높은 편입니다. 이 과정을 통해 자주 바이러스 유전체 돌연변이가 만들어지게 됩니다. 이들은 지극히 정상적이고 예상 가능한 것들입니다.
+바이러스는 복제를 위해서는 세포 조직을 필요로 하기 때문에 세포를 감염시킵니다. RNA 바이러스의 경우, 대부분의 RNA 폴리메라아제(RNA의 복제를 만드는 분자 기계) 는 그 역할을 교정/수정할 수 없기 때문에, 이 과정은 꽤 잘못될 가능성이 높은 편입니다. 따라서, 이 과정에서 빈번하게 바이러스 돌연변이가 만들어지게 됩니다. 이들은 지극히 정상적이고 예측 가능한 것들입니다.
 <br><br>
-중요한 점은, 이들 돌연변이의 대부분이 바이러스를 "파괴"하여 더 이상 전파되거나 복제되지 못하도록 하거나, [redundant encoding](https://en.wikipedia.org/wiki/Synonymous_substitution) 으로 인해 바이러스에 변화를 주지 않기도 합니다. 
-이것은 돌연변이가 어떤 식으로든 바이러스의 단백질, 즉 기능을 변화시키지 않는 것을 의미합니다. 다른 변화들은 바이러스의 단백질을 살짝 변형시킬 수 있지만, 그 기능에는 전혀 영향을 미치지 않습니다. 드물게, 바이러스의 유전자 코드의 변화가 바이러스의 복제 및/또는 전송에 도움이 될 수 있겠지만, 거의 대부분의 변화는 매우 미미한 효과를 가지고 있습니다.
+중요한 점은 이들 돌연변이의 대부분이 바이러스를 "파괴"하여 더 이상 전파되거나 복제되지 못하도록 하거나, [redundant encoding](https://en.wikipedia.org/wiki/Synonymous_substitution) 으로 인해 바이러스에 변이가 발생하지 않기도 합니다.
+이것은 돌연변이가 어떤 식으로든 바이러스의 단백질, 즉 기능을 변화시키지 않는 것을 의미합니다. 다른 변이들은 바이러스의 단백질을 살짝 변형시킬 수 있지만, 그 기능에는 전혀 영향을 미치지 않습니다. 드물게, 바이러스의 유전자 코드의 변화가 바이러스의 복제 및/또는 전파에 유리하게 바뀔 수 있지만, 거의 대부분의 변화는 매우 미미한 영향을 미칩니다.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [바이러스의 유전 부호 변이는 확산을 추적하는데 유용합니다](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
+# [바이러스의 유전부호의 변이는 확산을 추적하는데 유용합니다](https://nextstrain.org/ncov/global/2020-05-14?c=gt-ORF3a_57&d=tree,entropy&f_division=New%20York&m=div&p=full)
 
-바이러스 간 염기서열의 차이는 주어진 표본의 내력을 추적하기 위한 "빵가루"로 사용될 수 있습니다. 가족 구성원들이 유전적 특징의 고유한 조합을 서로 공유하듯이, 밀접하게 연관된 바이러스 샘플도 유전적 돌연변이의 고유한 조합을 서로 공유합니다.
+바이러스 간 염기의 차이는 주어진 표본의 내력을 추적하기 위한 "빵 부스러기(단서)"로 사용될 수 있습니다. 가족 구성원들이 유전적 특징의 고유한 조합을 서로 공유하듯이, 밀접하게 연관된 바이러스 샘플도 유전적 돌연변이의 고유한 조합을 서로 공유합니다.
 <br><br>
-예를 들어, 여기서는 바이러스 가계도를 보여주는데, 각 표본들은 염기서열의 특정 위치에 어떤 아미노산이 존재하는 지에 따라 다른 색으로 채색되었습니다. ("ORF3a" 유전자, 위치 57).
+예를 들어, 이 슬라이드에서는 바이러스 가계도를 보여주는데, 각 표본들은 염기서열의 특정 위치에 어떤 아미노산이 존재하는 지에 따라 다른 색으로 표시되었습니다. ("ORF3a" 유전자 염기서열 위치 57번째).
 <br><br>
-뉴욕의 표본을 보면, 뉴욕과 유럽의 사례 대부분이 글루타민("Q")이 아닌 아미노산 히스티딘("H")을 이 위치에 가지고 있음을 확인할 수 있습니다. 이는 유전자의 다른 모든 위치들과 함께, 이러한 사례들이 서로 밀접한 연관성이 있음을 의미합니다.
+뉴욕의 표본을 보면, 뉴욕과 유럽의 사례 대부분이 글루타민("Q")이 아닌 아미노산 히스티딘("H")을 이 위치에 가지고 있음을 확인할 수 있습니다. 이는 유전자의 다른 모든 부위들과 함께, 이러한 사례들이 서로 밀접한 연관성이 있음을 의미합니다.
 <br><br>
 또한, 왼쪽 하단의 차트에서 표시된 유전자 "ORF3a"의 위치도 볼 수 있습니다.
 <br><br>
-관련 개념에 대한 보다 자세한 설명이 궁금하다면, Jonathan Corum과 Carl Zimmer의 [시각화 설명](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) 을 추천드립니다.
+관련 개념에 대한 보다 자세한 설명이 궁금하다면, Jonathan Corum과 Carl Zimmer의 [인터랙티브 기사](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html) 를 추천드립니다.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [The evolutionary rate of SARS-CoV-2 is typical for a coronavirus](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
+# [SARS-CoV-2의 진화속도는 코로나바이러스의 일반적인 수준입니다.](https://nextstrain.org/ncov/global/2020-05-14?c=num_date&d=tree,entropy&l=clock&p=full)
 
-Because viral genomes inevitably change, these differences tend to accumulate at a steady rate over time.
+바이러스 염기서열에 변이가 생기는 것은 불가피한 것이기 때문에, 이러한 차이는 시간이 지남에 따라 일정한 속도로 누적되는 특징을 보입니다.
 <br><br>
-Here, the x axis shows the date that each sample was collected. The y axis shows the *total number* of mutations each strain is away from the root of the tree. Each sample is colored by the date it was collected.
+여기 X축은 각 표본이 채집된 날짜를 나타내며, Y축은 각 계통이 계통수의 뿌리로부터 떨어진 *총 돌연변이의 개수*를 의미합니다. 각 표본은 채집된 날짜 별로 다른 색으로 표시되었습니다.
 <br><br>
-While there are certainly some outliers, on average, we see changes accumulate at a rate of ~24 substitutions per year. This means that if a single viral lineage were transmitting from one person to the next for a full year, we'd expect its entire genome to accumulate roughly 24 substitutions by the end of the year.
-As the whole SARS-CoV-2 genome is ~30,000 bases, this corresponds to roughly ~1 mutation per 1,000 bases in a year.
+확실히 이상치들이 몇몇 있긴 하지만, 연평균 ~24개까지 변이가 발생하는 속도로 변이가 누적되는 것을 확인했습니다. 이는 하나의 바이러스 계통이 1년 동안 한 사람에서 다음 사람에게 전염되는 경우 연말까지 전체 염기서열에 약 24개의 변이가 누적될 것으로 예상된다는 의미입니다.
+전체 SARS-CoV-2 바이러스는 약 ~30,000개의 염기로 이루어져 있으므로, 이는 1년 동안 1,000개의 염기 당 대략 ~1개의 돌연변이가 발생한다고 이야기 할 수 있습니다.
 <br><br>
-For context, influenza would average ~2 mutations per 1,000 bases per year; HIV would average ~4 mutations per 1,000 bases per year.
-
-<!-- ############ SLIDE BREAK ############# -->
-<!-- This is left-side text -->
-# [As far as we know, there is only 1 strain of SARS-CoV-2](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
-
-There have been many reports about multiple "strains" of SARS-CoV-2.
-First, a clarification: when virologists use the word "strain," it's often just as a useful label so we can all refer to the same group of samples (e.g., our clade labels, shown here). This does *not* imply any known functional difference.
-<br><br>
-Separately, "strain" can be used to refer to viral genotypes that are functionally distinct, either biologically (e.g., pathogenicity/disease severity) and/or epidemiologically (e.g., transmissibility).
-Importantly, though, determining whether two genotypes actually *are* functionally distinct requires much more experimental, clinical and epidemiological data than we currently have.
-<br><br>
-One of the most prominent hypotheses about SARS-CoV-2 strains compares possible "D614" vs "G614" strains.
-
+일반적으로 인플루엔자는 1,000개의 염기 당 연평균 ~2개의 돌연변이가 발생하며, HIV는 1,000개의 염기 당 연평균 ~4개의 돌연변이가 생깁니다.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text -->
-# [D614G may be related to transmissibility, but could also be explained by geography](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+# [우리가 아는 SARS-CoV-2 변종은 오직 하나 뿐](https://nextstrain.org/ncov/global/2020-05-14?branchLabel=clade&c=clade_membership&d=tree&p=full)
 
-[A recent pre-print](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) suggests that a single mutation, D614G (from amino acid "D" to "G" at site 614 in the "S" ('spike') protein), may be responsible for increasing the transmissibility of SARS-CoV-2.
+SARS-CoV-2의 변종에 대한 여러 보고가 있었습니다.
+첫째, 설명: 바이러스 학자들이 "변종(strain)"이라는 단어를 사용하면 같은 그룹에 속하는 표본들을 지칭하는 의미로 사용되기 때문에 유용합니다 (예를 들어, 현재 슬라이드는 저희의 분기군을 보여주고 있습니다). 이는 기능에서의 차이를 의미하지 않습니다.
 <br><br>
-In many geographic areas, the relative frequency of 614D compared to 614G increased over time.
-If a certain genotype leads to better transmissibility, we would expect it's frequency to increase over time.
-There are, however, other explanations to why the relative frequency of some genotypes would increase over time.
+이와는 별개로, "변종(strain)"은 생물학적으로나(예시: 병원성/중증도) 역학적으로(예시: 전염성) 기능이 다른 바이러스의 유전자형을 지칭할 때 쓰이기도 합니다.
+그러나 중요한 것은 두 유전자형의 실제 기능이 서로 다른지를 판단하려면 현재 저희가 가진 것보다 훨씬 더 많은 양의 실험, 임상, 역학 데이터가 필요합니다.
 <br><br>
-For this site, we see a number of geographic locations where initially, most viral lineages in circulation had the D allele; later, this balance flips such that most lineages have the G allele.
-This *could* be a hallmark of G being slightly "fitter" than D (e.g., if viruses with the G mutation had a slightly higher R0 through increased transmissibility).
+SARS-CoV-2 변종에 대한 가장 두드러지는 가설 중 하나가 "D614"형과 "G614"형을 비교하는 것입니다.
+
+<!-- ############ SLIDE BREAK ############# -->
+<!-- This is left-side text -->
+# [D614G형은 전염성과 관련이 있을 수도 있지만, 지리적 요인으로도 설명이 가능합니다](https://nextstrain.org/ncov/global/2020-05-14?c=gt-S_614&gmax=25778&gmin=21082&p=full)
+
+[최근 프리프린트된 연구](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1)에 따르면 단일 돌연변이 D614G(S(스파이크 단백질)의 614번 위치에서 아미노산 D에서 G로 바뀐)가 SARS-CoV-2의 전염성을 높이는 원인이 될 수 있다고 발표했습니다.
 <br><br>
-However, this could also just be a side effect of the natural history of the pandemic.
-Early on in the pandemic, most strains exported from China had a D allele. Later, most strains from Italy had a G allele. Recently, we've seen more exportation from Europe than from Asia overall (although there's certainly some sampling bias at play here, as well).
-Thus, it could just be that this particular genotype got lucky, and spread so rapidly because it got there first.
+많은 지역에서 614G형 대비 614D형의 상대적 빈도가 시간이 지날수록 증가했습니다.
+특정 유전자형이 더 높은 전염성을 보인다면, 시간이 지남에 따라 빈도가 증가할 것으로 예상됩니다. 하지만, 일부 유전자형의 상대적 빈도가 시간이 지남에 따라 증가하는 원인에는 다른 해석도 존재합니다.
 <br><br>
-There's a fair amount of debate regarding the relative merits of these two hypotheses. It'll be important to carefully tease these apart, but we don't have scientific consensus on this issue yet. For a more detailed explanation, [see this thread](https://twitter.com/trvrb/status/1257825352660877313).
+이 지역의 경우, 초기 대부분의 순환 중인 바이러스가 D형의 형태를 띠었지만, 나중에는 이 비율이 뒤집혀 대부분이 G형을 가지고 있었습니다.
+이는 G형보다 D형이 약간 "더 적합"하다는 특징으로 *볼 수도* 있습니다. (예를 들어, G형 돌연변이를 가진 바이러스가 높은 전염성으로 R0가 약간 더 높은 경우)
+<br><br>
+하지만, 이는 또한 팬데믹의 자연적 흐름에 따른 부작용일 수도 있습니다.
+팬데믹 초기에 중국으로부터 왔던 대부분은 D형을 띠었지만, 추후, 이탈리아에서 온 대부분의 변종은 G형을 띠었습니다.
+최근에 저희는 아시아 전체보다 유럽에서 바이러스가 더 많이 유출되는 것을 확인하였습니다. (물론, 여기에서도 약간의 표집 편향이 있을 수 있지만)
+따라서, 단지 특정 유전자형이 우연히 한 지역에 먼저 도착해 빠르게 확산된 것일 수 있습니다.
+<br><br>
+이 두 가설의 상대적인 장점에 대해서는 상당한 논쟁이 있습니다. 이를 조심스럽게 구분하는 것이 중요하겠지만, 아직 이 문제에 대한 과학적 합의는 이루어지지 않은 상태입니다. 보다 자세한 내용은 이 [스레드](https://twitter.com/trvrb/status/1257825352660877313) 에서 확인하실 수 있습니다.
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -193,13 +192,13 @@ There's a fair amount of debate regarding the relative merits of these two hypot
 ```auspiceMainDisplayMarkdown
 # 기억할 점들     
 
-#### 바이러스는 복제하면서 자연스럽게 돌연변이를 생성하며, 이는 지극히 정상입니다. 또한, 돌연변이는 전염병의 경로를 추적하는데 도움을 줄 수 있습니다.
+#### 바이러스는 복제가 이루어지는 동안 자연스럽게 돌연변이를 생성하며, 이는 지극히 정상적인 과정입니다. 또한, 돌연변이는 전염병의 경로를 추적하는데 도움을 줄 수 있습니다.
 
-#### SARS-CoV-2 바이러스의 돌연변이 발생률은 코로나바이러스의 일반적인 수준입니다.
+#### SARS-CoV-2 바이러스의 돌연변이 발생속도는 코로나바이러스의 일반적인 수준입니다.
 
-#### 우리가 아는 바에 의하면, SARS-CoV-2의 기능적 "계통"은 오직 1종 뿐입니다.
+#### 우리가 아는 SARS-CoV-2의 기능적 "변종"은 오직 1종 뿐입니다.
 
-#### 특정 돌연변이의 생물학적 영향을 구분하는 것은 까다롭습니다. 다양한 인식의 차이는 우연과 역학적 요인으로부터 비롯될 수 있기 때문입니다.
+#### 특정 돌연변이의 생물학적 영향을 구분하는 것은 까다로운 문제입니다. 다양한 인식의 차이는 단지 우연에 의해서나 역학적 요인으로부터 비롯될 수 있기 때문입니다.
 
 ```
 
