@@ -1,5 +1,5 @@
 ---
-title: August 2020 update of COVID-19 genomic epidemiology
+title: Ενημερώσεις γονιδιωματικής επιδημιολογίας σχετικά με τον COVID-19, Αύγουστος 2020
 authors:
   - James Hadfield
   - Cassia Wagner
@@ -16,28 +16,32 @@ authorLinks:
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
 translators:
+  - Sofia Paraskevopoulou
+  - Sotiris Salloumis
 translatorLinks:
+  - https://github.com/akifoss
+  - https://github.com/codergr
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
-date: "2020 August 14"
+date: "14 Αυγούστου 2020"
 abstract: "
-The pandemic is currently widespread around the world, with over [1.5 million new cases each week](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) and total reported cases of [18 million](https://ourworldindata.org/covid-cases) and over [600,000 fatailities](https://ourworldindata.org/covid-deaths).
+Αυτή τη στιγμή η πανδημία βρίσκεται σε εξάπλωση σε όλον τον κόσμο, με πάνω από [1.5 εκατομμύρια κρούσματα κάθε εβδομάδα](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports), συνολικό αριθμό κρουσμάτων [18 εκατομμύρια](https://ourworldindata.org/covid-cases) και περισσότερους από [600,000 θανάτους](https://ourworldindata.org/covid-deaths).
 \n\n
-### The situation [is summarised by the WHO on August 2, 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
+### Η κατάσταση συνοψίζεται [από τον ΠΟΥ στις 2 Αυγούστου 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
-### **\"As countries have eased public health and social measures, implemented to limit transmission of the virus, a number of these countries have observed clusters or resurgences of cases. Risks and vulnerabilities are further magnified in fragile, low-resource and conflict-affected settings.\"**
+### **\"Καθώς οι χώρες έχουν χαλαρώσει τα μέτρα δημόσιας υγείας και κοινωνικής απόστασης που είχαν αρχικά εφαρμοστεί για τον περιορισμό του ιού, κάποιες από αυτές τις χώρες έχουν παρατηρήσει ομαδοποίηση ή αναζωπύρωση κρουσμάτων. Η επικινδυνότητα και η ευπάθειες μεγεθύνονται περαιτέρω σε καταστάσεις που είναι εύθραυστες, με περιορισμένες πηγές και με ενεργές διαμάχες.\"**
 \n\n
-### The worldwide sequencing of the SARS-CoV-2 genome has continued unabated, and with this data we use Nextstrain to track the geographic movement and evolution of the virus.
-To date, there are over 75,000 sequences publicly shared from half the countries in the world - an amazing testament to the scientists and public health officials behind this.
+### Η αλληλούχηση γονιδιωμάτων του SARS-CoV-2 έχει συνεχιστεί αδιάκοπα σε όλο τον κόσμο και με αυτά τα δεδομένα χρησιμοποιούμε το Nextstrain για να ακολουθήσουμε τη γεωγραφική κίνηση και εξέλιξη του ιού.
+Μέχρι σήμερα, υπάρχουν πάνω από 75.000 αλληλουχίες δημοσίως διαθέσιμες από τις μισές χώρες του κόσμου - ένα αξιόλογο κατόρθωμα των επιστημόνων και των εργαζόμενων στον τομέα της δημόσιας υγείας.
 \n\n
-### We use subsampling approaches to remove potential sampling biases in order to ensure that regions and time-periods are appropriately included for analysis.
-(This also helps for the computational requirements.)
+### Χρησιμοποιούμε δειγματοληπτικές προσεγγίσεις για να αφαιρέσουμε πιθανά φαινόμενα δειγματοληπτικής μεροληψίας ώστε να εξασφαλίσουμε ότι οι περιοχές και οι χρονολογικές περίοδοι εμπεριέχονται σωστά στην ανάλυσή μας.
+(Αυτό επίσης μας βοηθά να ανταπεξέλθουμε στις υπολογιστικές απαιτήσεις.)
 \n\n
-### Here you can see the geographical distribution of ~4300 genomes.
-Each circle is centered on an individual country, the colour indicates region and the radius scales with the number of genomes from that country ([see here for help interpreting the map in Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
+### Εδώ μπορείτε να δείτε τη γεωγραφική διασπορά ~4300 γονιδιωμάτων.
+Κάθε κύκλος βρίσκεται στο κέντρο κάθε ξεχωριστής χώρας, τα χρώματα αντιστοιχούν σε περιοχές και η ακτίνα του κύκλου είναι αντίστοιχη σε κλίμακα του αριθμού των γονιδιωμάτων από την αντίστοιχη χώρα ([αναζητήστε εδώ βοήθεια σχετικά με την ανάγνωση του χάρτη στο Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
 \n\n
-### In this report, we examine the global genomic epidemiology of COVID-19 broadly and provide specific updates for each world region.
+### Σε αυτή την αναφορά εξετάζουμε την παγκόσμια γονιδιωματική επιδημιολογία του COVID-19 και παρέχουμε επιστημονικές ενημερώσεις για κάθε περιοχή του κόσμου.
 "
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
@@ -48,63 +52,64 @@ Each circle is centered on an individual country, the colour indicates region an
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- table of contents slide -->
-# [COVID-19 Summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [Περίληψη COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-### Table of contents
-* [Global clade distribution](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [D614G Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Situation in Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Situation in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Situation in Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Situation in South America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Situation in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Situation in North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Closing summary](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+### Περιεχόμενα
+* [Παγκόσμια κατανομή των κλάδων](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
+* [Μεταλλαγή D614G της πρωτεΐνης ακίδας](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
+* [Η κατάσταση στην Ασία](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
+* [Η κατάσταση στην Ωκεανία](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
+* [Η κατάσταση στην Ευρώπη](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
+* [Η κατάσταση στην Νότια Αμερική](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
+* [Η κατάσταση στην Αφρική](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
+* [Η κατάσταση στην Βόρεια Αμερική](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
+* [Επίλογος](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
+* [Ευχαριστίες](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/)
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/)
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)
+#### Πηγές Nextstrain
+* [ΞΕΚΙΝΗΣΤΕ ΕΔΩ: Πώς να διαβάσετε ένα φυλογενετικό δέντρο](https://nextstrain.org/narratives/trees-background/el)
+* [Προηγούμενες αναφορές κατάστασης](https://nextstrain.org/ncov-sit-reps/)
+* [Πληροφορίες σχετικά με τους κορωνοϊούς](https://nextstrain.org/help/coronavirus/human-CoV)
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Executive Summary
+# Γενική περίληψη
 
-In this report, we analyzed publicly shared SARS-CoV-2 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally.
+Σε αυτή την αναφορά αναλύσαμε τα δημοσίως διαθέσιμα γονιδιώματα SARS-CoV-2. Συγκρίνοντάς τα μεταξύ τους, μπορούμε να κατανοήσουμε πώς η νόσος COVID-19 μετακινείται στον κόσμο και πώς διασπείρεται τοπικά.
 
-- Asia has a higher proportion of 19A & 19B clades, with 20A, 20B & 20C clades dominating in Europe & North America.
+- Η Ασία έχει μεγαλύτερα ποσοστά των κλάδων 19A & 19B, με τους κλάδους 20A, 20B & 20C να κυριαρχούν στην Ευρώπη και τη Βόρεια Αμερική.
 
-- Globally, we can clearly see the rise to prominence of the D614G substitution in the Spike protein. This variant is hypothesised to cause an increase in SARS-CoV-2 transmission.
+- Παγκόσμια, μπορούμε ξεκάθαρα να παρατηρήσουμε αύξηση της συχνότητας της μεταλλαγής D614G της πρωτεΐνης ακίδα. Σύμφωνα με ορισμένες υποθέσεις, αυτή η μεταλλαγή είναι υποψήφια για την πρόκληση της αύξησης της μεταδοτικότητας του SARS-CoV-2. 
 
-- To better display real-time builds of the SARS-CoV-2 data around the world, we run 6 regional and 1 global build, which are updated every weekday.
+- Προκειμένου να απεικονίσουμε καλύτερα σε πραγματικό χρόνο τα δεδομένα του SARS-CoV-2 στον κόσμο, πραγματοποιούμε 6 τοπικές και 1 παγκόσμια αναλύσεις που ανανεώνονται κάθε εβδομάδα.
 
-- In Asia, there were numerous between-country transmissions in the region early in the pandemic. More recently, we see a move to within-country links, a trend we see in most regions.
+- Στην Ασία υπήρξαν πολλαπλές διασπορές ανάμεσα σε χώρες από την αρχή ακόμα της πανδημίας. Πρόσφατα παρατηρήσαμε κινητικότητα του ιού εντός των χωρών, ένα μοτίβο που βλέπουμε στις περισσότερες περιοχές.
 
-- In Oceania, New Zealand's cases are contained in a narrow temporal band, corresponding to their elimination of the virus (until this week). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.
+- Στην Ωκεανία, τα κρούσματα της Νέας Ζηλανδίας είναι περιορισμένα σε ένα στενό χρονικό διάστημα, γεγονός που αντιστοιχεί στην εξάλειψη του ιού (μέχρι αυτή την εβδομάδα). Το πρόσφατο κύμα κρουσμάτων της Αυστραλίας, τουλάχιστον από δείγματα που έχουν ληφθεί προς το παρόν, φανερώνεται με τη μορφή συμπλεγμάτων που προέρχονται από την υφιστάμενη ποικιλομορφία σε προηγούμενο στάδιο.
 
-- SARS-CoV-2 spread extremely quickly in Europe - the virus was likely being transmitted in many countries before they realised. This resulted in heavy mixing of European samples early in the pandemic, making it hard to distinguish and identfy introductions from one place to another. More recently, we can see more distinct variants associated with particular countries, as viruses have been constrained through travel restrictions.
+- Ο SARS-CoV-2 εξαπλώθηκε πάρα πολύ γρήγορα στην Ευρώπη - πιθανά ο ιός είχε μεταδοθεί σε πολλές χώρες πριν ακόμα γίνει αντιληπτός. Το αποτέλεσμα είναι ένα μοτίβο έντονης ανάμιξης των ευρωπαϊκών δειγμάτων από την αρχή ακόμα της πανδημίας, καθιστώντας δύσκολη τη διάκριση και ταυτοποίηση εισαγωγών από το ένα μέρος στο άλλο. Ωστόσο πρόσφατα βλέπουμε ένα πιο διαχωρισμένο μοτίβο με αντιστοίχιση σε συγκεκριμένες χώρες, καθώς η διασπορά του ιού περιορίστηκε μέσω των ταξιδιωτικών περιορισμών.
 
-- Like other regions, South America had multiple introductions, covering most of the known diversity of SARS-CoV-2. After travel restrictions came into place, sequences begin clustering more noticeably. Unfortunately, despite severe ongoing epidemics in many countries, more recent sequences are not readily available.
+- Όπως και άλλες περιοχές, η Νότια Αμερική είχε πολλαπλές εισαγωγές, καλύπτοντας σχεδόν όλη την ποικιλομορφία του SARS-CoV-2. Μετά την επιβολή ταξιδιωτικών περιορισμών οι αλληλουχίες ομαδοποιούνται πιο ξεκάθαρα. Δυστυχώς παρά τις σοβαρές τοπικές επιδημίες που είναι ακόμα ενεργές σε πολλές χώρες, δεν υπάρχουν διαθέσιμες αλληλουχίες από πρόσφατα δείγματα.
 
-- Africa also had multiple, diverse introductions early in the pandemic. Subsequent travel restrictions seems to have limited mixing among African countries, with most sequences seeming to come from earlier circulating diversity in the same country.
+- Η Αφρική είχε επίσης πολλάπλές και ποικίλες εισαγωγές από την αρχή της πανδημίας. Οι ταξιδιωτικοί περιορισμοί που επιβλήθηκαν φαίνεται να έχουν περιορίσει την ανάμιξη μεταξύ των αφρικανικών χωρών, με τις περισότερες αλληλουχίες να ανήκουν σε προγενέστερη ποικιλότητα εντός της ίδιας χώρας.
 
-- A different picture is shown in the USA, where domestic travel has not been greatly restricted: we see mixing among all states, as well as local transmission. In Mexico & Central America, we see examples of geographical clustering in transmission, particularly between California (USA) & Baja California (Mexico).
+- Στις ΗΠΑ βλέπουμε μια δαφορετική εικόνα καθώς τα εσωτερικά ταξίδια δεν περιορίστηκαν: βλέπουμε ανάμιξη μεταξύ όλων των πολιτειών καθώς και τοπική διασπορά. Στο Μεξικό και την Κεντρική Αμερική βλέπουμε παραδείγματα γεωγραφικών συμπλεγμάτων της διασποράς, ειδικά μεταξύ της Καλιφόρνια (ΗΠΑ) & της Baja California (Μεξικό).
 
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Worldwide distribution of genetic variants](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
+# [Παγκόσμια κατανομή της γενετικής ποικιλομορφίας](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
-Since its emergence in late 2019, SARS-CoV-2 has diversified into several different co-circulating variants. To facilitate discussion of these variants, we have grouped them into clades which are defined by specific signature mutations.
+Από την εμφάνισή του στα τέλη του 2019, ο SARS-CoV-2 έχει διαφοροποιηθεί σε πολλές παραλλαγές που συν-κυκλοφορούν. Προκειμένου να αναλύσουμε αυτές τις παραλλαγές, τις ομαδοποιήσαμε σε κλάδους που ορίζονται από την παρουσία συγκεκριμένων μεταλλαγών.
 
-We currently define 5 major clades (see [this blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) for details):
+Για την ώρα ορίζουμε 5 βασικούς κλάδους (δείτε [αυτή την ανάρτηση σε μπλογκ](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) για λεπτομέριες):
 
-* 19A and 19B emerged in Wuhan and dominated the early outbreak.
-* 20A emerged out of 19A, dominated the European outbreak in March, and has since spread globally.
-* 20B and 20C are large, genetically distinct subclades of 20A.
+
+* οι κλάδοι 19A και 19B εμφανίστηκαν στο Wuhan και κυριάρχησαν στην αρχή της πανδημίας.
+* ο κλάδος 20A προέκυψε από τον 19A, κυριαρχώντας στην ευρωπαϊκή επιδημία στις αρχές Μαρτίου και έχοντας εξαπλωθεί παγκοσμίως.
+* οι κλάδοι 20B και 20C είναι μεγάλοι και γενετικά διαφοροποιημένοι υποκλάδοι του 20Α.
 
 
 <svg viewBox="0 0 120 80">
@@ -112,213 +117,202 @@ We currently define 5 major clades (see [this blog post](https://nextstrain.org/
 </svg>
 
 
-We're now looking at the distribution of these clades across the world (the color now represents clade membership).
-You can see that countries in the Asia region have a higher proportion of 19A and 19B (blues) as that variant dominated in the early outbreak.
-Europe and North America have a mixture of all clades, but are dominated by 20B and 20C (yellow and orange, respectively).
+Εδώ βλέπουμε την κατανομή των κλάδων στον κόσμο (τα χρώματα αντιστοιχούν σε συμπλέγματα ανά κλάδους).
+Μπορείτε να δείτε ότι χώρες στην περιοχή της Ασίας έχουν μεγαλύτερα τμήματα των 19A και 19B (μπλε) καθώς οι παραλλαγές αυτές κυριάρχησαν στην αρχή της πανδημίας.
+Η Ευρώπη και η Βόρεια Αμερική έχουν ένα μίγμα όλων των κλάδων, αλλά κατά βάση κυριαρχούνται από τους κλάδους 20B και 20C (κίτρινο και πορτοκαλί αντίστοιχα).
 
-#### If you have SARS-CoV-2 sequences for which you'd like to know their clade (and estimated position on a phylogenetic tree), we made Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) which lets you drag-and-drop your FASTA files onto the browser.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [The well-publicized D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
-
-The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
-
-Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
-
-Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
-In July the 614G variant was present in the majority of circulating viruses worldwide. Since its initial appearance, the substitution has arisen multiple times and also reverted back to the 614D variant.
-There is no evidence that these other substitutions and reversions have resulted in continued transmission chains.
+#### Εάν έχετε αλληλουχίες SARS-CoV-2 για τις οποίες θα θέλατε να δείτε σε ποιον κλάδο ανήκουν (και να εκτιμήσετε τη θέση τους στο φυλογενετικό δέντρο), δημιουργήσαμε το Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) το οποίο επιτρέπει την προσθήκη αρχείων FASTA στον περιηγητή σας.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Analysing regional builds independently](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
+# [Η περιβόητη μεταλλαγή D614G της πρωτεΐνης ακίδας](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
-As there are too many genomes to show in a single tree, we provide a regional analysis for each of the 6 regions shown here, in addition to our main 'global' build.
-This allows us to focus on the diversity within each region, while choosing appropriate out-of-region samples, so we can maintain an overview of all of the between-region transmissions over time - as we can see on this slide!
+Η μεταλλαγή D614G στο γονίδιο που κωδικοποιεί την πρωτεΐνη ακίδα (S) έκανε πρόσφατα την εμφάνισή της στις ειδήσεις και αποτέλεσε θέμα προβληματισμού.
 
-In the next slides we're going to provide an overview of each of those regions by switching to the corresponding dataset. (This is a new feature in Nextstrain Narratives!)
+Οι αποδείξεις κλίνουν στο ότι η παραλλαγή G (κίτρινο) αυξάνει τη μολυσματικότητα του SARS-CoV-2 _σε δοκιμαστικό σωλήνα_ (_in vitro_) και ίσως να έχει επιλεχθεί εξελικτικά για αυξημένη μεταδοτικότητα από άνθρωπο σε άνθρωπο ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). Ωστόσο, μια αύξηση στη μολυσματικότητα έρχεται ενδεχομένως με το κόστος να καταστεί ο ιός πιο ευάλωτος στα εξουδετερωτικά αντισώματα ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
-A full inventory of builds maintained by us and others is available at [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
-
-If we examine the situation in Asia from genomes collected before June 2020, we see signs of both extensive within-Asia transmission as well as transmissions to and from other regions of the world.
-
-#### Interpreting the lines and colors
-
-Here only countries in Asia have been colored, with the other regions represented by shades of grey.
-The color of each transmission line (lines between circles) represents the origin location, so all of the **colored** lines represent transmissions originating from a country within Asia (in this example).
-
-#### Transmissions into Asia
-
-This shows that many of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
-Especially pronounced in this view are those transmissions from Europe to Asia (though the lines seem to come from Germany, this point represents all of Europe). However, we must be cautious about how we interpret these inferred transmissions, as sampling biases can play a large role (and we have many more samples from Europe than anywhere else).
-
+Εδώ βλέπουμε ότι αυτή η παραλλαγή προκύπτει ότι εμφανίστηκε πολύ σύντομα μετά το αρχικό ζωωνοσιακό γεγονός και έπειτα εξαπλώθηκε σε όλο τον κόσμο.
+Τον Ιούλιο, η μεταλλαγή 614G υπήρχε στην πλειοψηφία των ιών που κυκλοφορούσαν παγκοσμίως. Από την αρχική εμφάνισή της, η μεταλλαγή προέκυψε πολλαπλές φορές καθώς και υπέστη αντίστροφη μετατροπή στην μεταλλαγή 614D.
+Δεν υπάρχουν αποδεικτικά στοιχεία ότι αυτές οι μεταλλαγές και οι αντίστροφες μετατροπές είχαν ως αποτέλεσμα συνεχιζόμενες αλυσίδες διασποράς.
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Asia situation after June 1](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
+# [Αναλύοντας τα τοπικές διασπορές ανεξάρτητα](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
 
-Looking at the genomes sampled after June 1 (i.e. in the past 2 months), we see that the sampling is dominated by fewer countries.
-This limits the conclusions we can draw, but it appears that we may have fewer transmissions between countries.
+Καθώς τα γονιδιώματα που υπάρχουν είναι πάρα πολλά για να παρουσιαστούν σε ένα μοναδικό φυλογενετικό δέντρο, παρέχουμε τοπικές αναλύσεις για καθεμιά από τις 6 περιοχές που φαίνονται εδώ, επιπρόσθετα στη βασική μας 'παγκόσμια' ανάλυση.
+Αυτό μας επιτρέπει να εστιάσουμε στην ποικιλομορφία της κάθε περιοχής και ταυτόχρονα να επιλέξουμε το κατάλληλο δείγμα εκτός περιοχής ώστε να διατηρήσουμε μια ευρεία εικόνα όλων των γεγονότων διασποράς μεταξύ των περιοχών στη διάρκεια του χρόνου - όπως βλέπουμε σε αυτή τη διαφάνεια!
 
-This is also evident looking at the phylogeny, where we have large monophyletic (in the same part of the tree) groupings of genomes from Singapore (yellow) and Bangladesh (light green).
+Στις επόμενες διαφάνειες θα σας παρουσιάσουμε μια περίληψη της καθεμιάς από αυτές τις περιοχές εναλλάσσοντας το αντίστοιχο σετ δεδομένων. (Αυτό είναι ένα νέο χαρακτηριστικό των αναφορών Nextstrain!)
 
-These data are consistent with less recent international travel and stricter control measures.
-
+Το αρχείο με όλες τις αναλύσεις που υποστηρίζονται από εμάς και από άλλους είναι διαθέσιμο στο σύνδεσμο [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Oceania overview](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
+# [Η κατάσταση στην Ασία πριν τον Ιούνιο](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
 
-Here we can explore ~790 genomes from Australia and New Zealand with an extra ~1100 sequences to provide global context.
-Only samples from Australia and New Zealand are colored.
+Εάν παρατηρήσουμε την κατάσταση στην Ασία με βάση τα γονιδιώματα που συλλέχθηκαν πριν τον Ιούνιο του 2020, βλέπουμε σημάδια εκτεταμένης διασποράς εντός της Ασίας καθώς και διασπορά από και προς άλλες περιοχές του κόσμου.
 
-You can see that these samples are spread throughout the tree, indicating that Oceania has been exposed to (most of) the observed genomic diversity of SARS-CoV-2.
+#### Ερμηνεύοντας τις γραμμές και τα χρώματα
 
-The majority of New Zealand's samples (blues, purples, greens) come from a tight temporal band covering March and April, which is due to the successful control strategy employed by the New Zealand government. While the country is back to relative normality, the borders are still closed to all non-citizens to limit the chances for the virus to re-enter the country. Returning citizens must quarantine for 14 days before entering the country.
+Εδώ έχουμε χρωματίσει μόνο χώρες της Ασίας και οι υπόλοιπες περιοχές φαίνονται με αποχρώσεις του γκρι.
+Το χρώμα κάθε γραμμής διασποράς (οι γραμμές ανάμεσα στους κύκλους) αντιπροσωπεύει την τοποθεσία προέλευσης, άρα όλες οι **χρωματισμένες** γραμμές αντιπροσωπεύουν γεγονότα διασποράς που προέρχονται από μια χώρα εντός της Ασίας (σε αυτό το παράδειγμα).
 
-This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls -- more below!
+#### Διασπορά εντός της Ασίας
 
-_HINT: if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!_
+Πολλά γεγονότα διασποράς που σχετίστηκαν με ασιατικές και μη ασιατικές χώρες ήταν εισαγωγές στην Ασία (γκρι γραμμές). Ιδιαίτερα εμφανείς σε αυτή την απεικόνιση είναι οι διασπορές από την Ευρώπη στην Ασία (παρόλο που οι γραμμές φαίνεται να προέρχονται από τη Γερμανία, το σημείο αντιπροσωπεύει ολόκληρη την Ευρώπη). Ωστόσο, πρέπει να είμαστε προσεκτικοί με τις ερμηνείες αυτών των διασπορών καθώς η δειγματοληπτική μεροληψία μπορεί να παίξει σημαντικό ρόλο (έχουμε πολλά περισσότερα δείγματα από την Ευρώπη απ'ότι από οπουδήποτε αλλού).
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Κατάσταση στην Ασία μετά την 1η Ιουνίου](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
+
+Βλέποντας τα γονιδιώματα μετά την 1η Ιουνίου (δηλ. τους τελευταίους 2 μήνες), παρατηρούμε ότι η δειγματοληψία αντιστοιχεί σε λιγότερες χώρες.
+Το γεγονός αυτό περιορίζει τα συμπεράσματα που μπορούμε να βγάλουμε, αλλά φαίνεται ότι ενδεχομένως να συνέβησαν λιγότερα γεγονότα διασποράς μεταξύ των χωρών.
+
+Αυτό γίνεται φανερό κοιτώντας τη φυλογένεση όπου έχουμε μια μεγάλη μονοφυλετική ομάδα (στο ίδιο σημείο του δέντρου) γονιδιωμάτων από τη Σιγκαπούρη (κίτρινο) και το Μπαγκλαντές (ανοιχτό πράσινο).
+
+Τα δεδομένα αυτά συνάδουν με τα λιγότερο συχνά ταξίδια εκτός χωρών και τα αυστηρότερα μέτρα ελέγχου.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Resurgence in Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
+# [Περίληψη της Ωκεανίας](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
 
-Australia, and the state of Victoria (capitol city: Melbourne), shown here in orange, have been seeing a reemergence of COVID-19 cases and have recently implemented further public health measures to try to curb this increase.
+Εδώ μπορούμε να εξερευνήσουμε τα ~790 γονιδιώματα από την Αυστραλία και τη Νέα Ζηλανδία μαζί με άλλα ~1100 γονιδιώματα να μας δίνουν την παγκόσμια προοπτική.
+Μόνο τα δείγματα από την Αυστραλία και τη Νέα Ζηλανδία είναι χρωματισμένα.
 
-These most recent genomes all appear to be a subclade of clade 20B (scroll back to the previous slide to see how clade 20B fits into the entire phylogeny).
-The recent dates and clustering are signs of a local outbreak.
+Μπορείτε να δείτε ότι τα δείγματα είναι διάσπαρτα σε όλο το δέντρο, πράγμα που υποδεικνύει ότι η Ωκεανία εκτέθηκε στην (περισσότερη) παρατηρούμενη γονιδιωματική ποικιλομορφία του SARS-CoV-2.
 
-We can see similar clustering in sequences from New South Wales, where cases have also increased recently.
+Η πλειοψηφία των δειγμάτων από τη Νέα Ζηλανδία (μπλε, μωβ, πράσινο) προέρχεται από ένα στενό χρονικά πλαίσιο, μεταξύ Μαρτίου και Απριλίου, χάρη στην επιτυχημένη στρατηγική περιορισμού που υιοθέτησε η κυβέρνηση της Νέας Ζηλανδίας. Ενώ η χώρα βρίσκεται ξανά σε κανονικούς ρυθμούς, τα σύνορα είναι ακόμα κλειστά για όλους τους μη-κατοίκους ώστε να περιοριστούν οι πιθανότητες επανεισαγωγής του ιού στη χώρα. Οι πολίτες που επιστρέφουν πρέπει να παραμείνουν σε καραντίνα για 14 μέρες πριν επιστρέψουν στη χώρα.
 
+Αυτή την εβδομάδα η κυβέρνηση της Νέας Ζηλανδίας ανακοίνωσε τέσσερα νέα κρούσματα κοινοτικής διασποράς που δε συνδέονται με εισαγόμενα κρούσματα. Η γενετική αλληλούχηση θα βοηθήσει ενδεχομένως στην κατανόηση της παράκαμψης των αυστηρών ελέγχων από τον SARS-CoV-2 -- περισσότερα παρακάτω!
 
-<!-- ############ SLIDE BREAK ############# -->
-# [New cases detected in New Zealand this week](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
-
-New Zealand had reported over 100 days without community transmission before detecting cases in the community this week.
-The cluster has now spread to around 30 known cases (at time of publication), primarily based in the largest city, Auckland.
-
-The source is not yet known, however scientists have sequenced the isolates and reported that they fall into pangolin lineage B1.1.1; so while the genomes are yet to be released they are known to fall in the region colored in blue here.
-This lineage originated in Europe, but has since been observed in multiple regions around the world.
+_ΣΥΜΒΟΥΛΗ: εάν κυλύσετε το ποντίκι σας πάνω στους κύκλους του χάρτη μπορείτε να δείτε τις αντίστοιχες άκρες των κλάδων επισημασμένες!_
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Early situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
+# [Αναζωπύρωση στην Αυστραλία](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
 
-SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.
+Η Αυστραλία και το κρατίδιο της Βικτώρια (πρωτεύουσα: Μελβούρνη) επισημασμένες εδώ με πορτοκαλί, παρατηρούν αναζωπύρωση των κρουσμάτων COVID-19 και πρόσφατα υιοθέτησαν περαιτέρω μέτρα δημόσιας υγείας ώστε να περιορίσουν την εξάπλωση.
 
-By the end of February, even though there were just [a few hundred cases](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) officially reported in Europe, the virus had spread to at least 15 European countries.
+Όλα τα πιο πρόσφατα γονιδιώματα απαρτίζουν έναν υποκλάδο του κλάδου 20B (κυλήστε πίσω στην προηγούμενη διαφάνεια ώστε να δείτε σε ποιο τμήμα της φυλογένεσης τοποθετείται ο κλάδος 20Β).
+Οι πρόσφατες ημερομηνίες που ομαδοποιούνται είναι σημάδια τοπικής διασποράς.
 
-Given that sampling was less common in the early days of the pandemic, SARS-CoV-2 was almost certainly already circulating across must of Europe, including in countries for which we don't have samples.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Lockdown in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
-
-Through March and April much of Europe closed their borders, and many imposed differing types of 'lockdown' where movement was restricted and businesses and schools closed. We expect that these restrictions decreased between-country transmission, making it more likely that we see sequences from any given country 'cluster' with previous sequences from that country.
-
-However, SARS-CoV-2 was already so mixed across Europe that different variants of the virus were circulating across multiple countries. Most countries had numerous distinct variants circulating before lockdown that were related to the viruses circulating in other countries. This means the phylogenetic picture remains well-mixed even after borders closed (shown by multiple colors near each other on the tree).
-
-However, we can see some signs of the local transmission that we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange (about 1/3 from the top), while Spain (dark blue) shows distinct local transmission at the bottom and top of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.
-
-_Hint: You can expand the legend by clicking 'Country' at the top-left of the tree!_
+Βλέπουμε μια παρόμοια ομαδοποίηση σε αλληλουχίες από τη Νέα Νότια Ουαλία, όπου τα κρούσματα έχουν πρόσφατα επίσης αυξηθεί.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Recent European sequencing highlights local transmission and enriches understanding of previous SARS-CoV-2 spread](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
+# [Νέα κρούσματα εντοπίστηκαν στη Νέα Ζηλανδία αυτή την εβδομάδα](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
 
-Examining only samples uploaded in the past week highlights two important points.
+Η Νέα Ζηλανδία ανακοίνωσε πάνω από 100 μέρες χωρίς κοινοτική διασπορά πριν εντοπίσει νέα κρούσματα στην κοινότητα αυτή την εβδομάδα.
+Η ομάδα αυτή έχει τώρα διασπαρεί σε πάνω από 30 γνωστά κρούσματα (τη στιγμή της δημοσίευσης της αναφοράς), τα οποία βρίσκονται πρωταρχικά στη μεγαλύτερη πόλη, το Ώκλαντ.
 
-Firstly, we can see a tendency towards groupings of tips into mini-clusters. This indicates that within-country transmission is continuing to dominate - likely a product of the various regulations introduced throughout Europe. The virus continued to diversify genetically during the lockdown, but was more likely to be confined to one country, meaning we can often now better distinguish local 'variants' from those in other countries.
-
-Some samples do not follow this trend of linking to other samples from the same country. Hovering over a country in the legend highlights tips in the tree from that country and will help identify such samples. For instance, in the middle of the tree, we can see some Swedish samples (green) nested within a larger Russian clade (red).
-Given the heavy subsampling, we need to remain cautious to not over interpret putative between-country transmissions from this view.
-
-Secondly, we can see that the tips have a large difference in horizontal spacing -- i.e. the samples submitted in the past week represent a sample collection time window extending back to early March.
-The reasons for sequencing "old" genomes varies, but these samples help us fill in our understanding of viral evolution and geographical movement.
+Η πηγή είναι ακόμα άγνωστη, ωστόσο οι επιστήμονες αλληλούχησαν τα δείγματα και ανακοίνωσαν ότι αυτά βρίσκονται εντός της γενεαλογίας B1.1.1 του παγκολίνου. Έτσι, παρόλο που ακόμα οι αλληλουχίες δεν είναι γνωστοποιημένες, γνωρίζουμε ότι ανήκουν στην περιοχή που είναι εδώ χρωματισμένη με μπλε.
+Η γενεαλογία αυτή προέκυψε στην Ευρώπη, αλλά έχει παρατηρηθεί σε πολλές περιοχές του κόσμου.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The early situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
+# [Πρώιμη κατάσταση στην Ευρώπη](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
-South America's first SARS-CoV-2 sequences are from late February and early March, and are scattered across the tree, suggesting multiple introductions. As international travel decreased in March, we can see evidence of sustained local transmission in several countries.
+O SARS-CoV-2 εξαπλώθηκε ραγδαία σε όλη την Ευρώπη, πιθανότατα κυρίως μέσω άμεσων μεταδόσεων από την Ασία.
 
-Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence that this variant also moved around the continent to Chile, Uruguay, and Argentina.
+Μέχρι τα τέλη Φεβρουαρίου, παρόλο που αναφέρθηκαν επίσημα στην Ευρώπη [μερικές εκατοντάδες κρούσματα](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea), ο ιός είχε εξαπλωθεί σε τουλάχιστον 15 ευρωπαϊκές χώρες.
 
-We can also see distinct clusters of transmission involving Colombia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [The more recent situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
-
-Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.
-
-Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the varients circulating now are descendants of those introduced early in the epidemic.
+Δεδομένου ότι η δειγματοληψία ήταν λιγότερο συχνή στις πρώτες μέρες της πανδημίας, ο SARS-CoV-2 κυκλοφορούσε σχεδόν σίγουρα σε όλη την Ευρώπη, συμπεριλαμβανομένων των χωρών για τις οποίες δεν έχουμε δείγματα.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [SARS-CoV-2 in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+# [Απαγόρευση κυκλοφορίας στην Ευρώπη](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
 
-Like South America, Africa had several introductions of SARS-CoV-2 to the continent, many likely from Europe. This is shown by the spread of African samples across the tree - even samples from the same country include diverse variants.
+Μέχρι το Μάρτιο και τον Απρίλιο μεγάλο μέρος της Ευρώπης έκλεισε τα σύνορα και πολλοί επέβαλαν διαφορετικούς τύπους «λοκντάουν» όπου η κυκλοφορία ήταν περιορισμένη και οι επιχειρήσεις και τα σχολεία κλειστά. Αναμένουμε ότι αυτοί οι περιορισμοί ελάττωσαν τη μεταξύ των χωρών διασπορά, καθιστώντας πιο πιθανό να ομαδοποιηθούν πρόσφατες αλληλουχίες από μια χώρα μαζί με προηγούμενες αλληλουχίες από αυτήν τη χώρα.
 
-We now have sequences from countries across Africa throughout the epidemic, though sequencing efforts seem to have declined slightly more recently.
-South Africa has contributed a large proportion of the sequencing.
+Ωστόσο ο SARS-CoV-2 ήταν ήδη τόσο αναμεμιγμένος σε όλη την Ευρώπη που διαφορετικές παραλλαγές του ιού κυκλοφορούσαν σε πολλές χώρες. Οι περισσότερες χώρες είχαν πολλές διαφορετικές παραλλαγές σε κυκλοφορία πριν από το λοκντάουν, που σχετίζονται με ιούς που κυκλοφορούσαν σε άλλες χώρες. Αυτό σημαίνει ότι η φυλογενετική εικόνα παραμένει καλά αναμεμιγμένη ακόμα και μετά το κλείσιμο των συνόρων (απεικονίζεται με πολλά χρώματα το ένα κοντά στο άλλο).
 
+Ωστόσο, μπορούμε να δούμε μερικά σημάδια της αναμενόμενης τοπικής διασποράς. Εδώ, η Φινλανδία και η Σουηδία έχουν ένα πολύ ξεχωριστό σύμπλεγμα διασποράς σε πράσινο και πορτοκαλί χρώμα (περίπου στο 1/3 του δέντρου από την κορυφή), ενώ η Ισπανία (σκούρο μπλε) δείχνει ξεχωριστή τοπική διασπορά στο κάτω μέρος και στην κορυφή του δέντρου. Η Ισλανδία (μωβ) και η Ελβετία (ανοιχτό μπλε) εμφανίζουν επίσης συμπλέγματα τοπικής διασποράς.
 
-<!-- ############ SLIDE BREAK ############# -->
-# [Clustering in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
-
-In the DRC, Senegal, and South Africa, we can see clear signs of local transmission, shown as clusters of sequences in the tree.
-From Senegal and South Africa, we also have samples collected more recently.
-These samples generally fall within the older diversity of the country, as we would expect from continued local transmission.
-
-Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere.
-This finding likely reflects the continued restrictions in movement globally.
+_Συμβουλή: Μπορείτε να διευρύνετε την λεζάντα κάνοντας κλικ στο 'Country' στην επάνω αριστερή γωνία του δέντρου! _
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [United States epidemic is a mixture of local and within-country transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
+# [Η πρόσφατη ευρωπαϊκή αλληλούχηση επισημαίνει φαινόμενα τοπικής διασποράς και βοηθά στην κατανόηση της προηγούμενης διασποράς SARS-CoV-2](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
 
-Here we show genomes from the United States epidemic from April 15 to present day. In mid-April, all U.S. states were on lockdown. [States have since implemented heterogeneous reopening policies](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
+Εξετάζοντας μόνο δείγματα που έγιναν διαθέσιμα την περασμένη εβδομάδα παρατηρούμε δύο σημαντικά σημεία.
 
-In this tree, just like in the trees for other regions, we see examples of local virus transmission as shown by similarly-colored tips clustering together over time. If you click, "Explore the Data Yourself", and filter the location to Yakima County, you can see a clear example of introduction and growth of genetically related viruses into this region of Washington State. (You can also [click here](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) to do this, but you will leave the narrative.)
+Πρώτον, μπορούμε να δούμε μια τάση προς ομαδοποίηση των άκρων των κλάδων σε μίνι συμπλέγματα. Αυτό δείχνει ότι η διασπορά εντός της χώρας συνεχίζει να κυριαρχεί - πιθανότατα προϊόν των διαφόρων κανονισμών που επιβλήθηκαν σε όλη την Ευρώπη. Ο ιός συνέχισε να διαφοροποιείται γενετικά κατά τη διάρκεια του λοκντάουν αλλά ήταν πιθανότερο να περιοριστεί σε μια χώρα, πράγμα που σημαίνει ότι μπορούμε συχνά να διακρίνουμε καλύτερα τις τοπικές «παραλλαγές» από αυτές που παρατηρούνται σε άλλες χώρες.
 
-However, on the tree, we  also see within-country transmission across the U.S. as shown by mixing of colors at the tree tips. On the map, within-country transmission looks like transmission lines extending between states. These observations are consistent with few domestic travel restrictions and states' reopening policies.
+Ορισμένα δείγματα δεν ακολουθούν μια τάση σύνδεσης με άλλα δείγματα από την ίδια χώρα. Μετακινώντας τον κέρσορα πάνω στο όνομα μιας χώρας στη λεζάντα, οι άκρες των κλάδων που προέρχονται από την αντίστοιχη χώρα επισημαίνονται και μας βοηθούν να εντοπίσουμε τέτοια δείγματα. Για παράδειγμα στη μέση του δέντρου μπορούμε να δούμε μερικά σουηδικά δείγματα (πράσινα) τοποθετημένα μέσα σε έναν μεγαλύτερο κλάδο από τη Ρωσία (κόκκινο).
+Δεδομένης της εκτενέστερης δειγματοληψίας σε ορισμένες επιμέρους περιοχές πρέπει να είμαστε προσεκτικοί ώστε να μην ερμηνεύσουμε υποτιθέμενες διασπορές μεταξύ χωρών από απεικονίσεις σαν κι αυτήν.
 
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Central American sequencing shows geographically-clustered transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
-
-There has been limited sequencing from Central America, especially over the past two months, which restricts the inferences we can draw about the epidemic. From the genomes that have been shared, we see geographic clustering of SARS-CoV-2 genomes.
-
-Toward the bottom of the tree in clade 19B, we see a cluster of transmission in Panama starting in mid-February. Several later sequences in Panama from June and July nest in with this cluster, suggesting there's continued local transmission of this virus genotype in the country.
-
-In Mexico, we also see clear geographic clustering of transmission through May. Without more recent sequencing, we cannot make inferences about the epidemic in later months.
-
-In the center of the tree, there is a cluster of cases in Baja California (in light blue). These cases were likely imported from California, USA (green branches on the tree) in March. This inferred importation is consistent with known travel links between the neighboring locations. Although we should be cautious about interpreting inferred transmission locations given sparse sequencing,
-
+Δεύτερον, μπορούμε να δούμε ότι οι άκρες των κλάδων έχουν μεγάλη διαφορά στην οριζόντια απόστασή τους -- δηλ. τα δείγματα που έγιναν διαθέσιμα την περασμένη εβδομάδα αντιπροσωπεύουν ένα χρονικό διάστημα συλλογής δειγμάτων που εκτείνεται έως τις αρχές Μαρτίου.
+Οι λόγοι που κάνουν την αλληλούχηση «παλιών» γονιδιωμάτων χρήσιμη ποικίλλουν, αλλά γενικά αυτά τα δείγματα μας βοηθούν να διευρύνουμε την κατανόησή μας για την εξέλιξη και τη γεωγραφική κίνηση του ιού.
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Closing summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [Η πρώιμη κατάσταση στη Νότια Αμερική](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
 
-As the pandemic reaches its eighth month of global circulation, we can now see distinct changes over time in the picture painted by viral genetics, largely determined by changing behaviour.
+Οι πρώτες αλληλουχίες SARS-CoV-2 της Νότιας Αμερικής είναι από τα τέλη Φεβρουαρίου και τις αρχές Μαρτίου και είναι διάσπαρτες σε όλο το δέντρο υποδηλώνοντας πολλαπλές εισαγωγές του ιού. Καθώς τα διεθνή ταξίδια ελαττώθηκαν το Μάρτιο, μπορούμε να δούμε σημάδια συνεχούς τοπικής διασποράς σε πολλές χώρες.
 
-Multiple early transmissions to the USA, Oceania, Europe, and across Asia, were initially incredibly well-mixed, as our global travel patterns distributed the virus incredibly effectively. Soon afterwards, diverse introductions to South America and Africa, often from Europe and North America, seeded local epidemics there.
+Πολλές από τις αλληλουχίες της Βραζιλίας (ανοιχτό πράσινο) είναι μέρος δύο μεγάλων συμπλεγμάτων (κοντά στην κορυφή του δέντρου) με κάποιες ενδείξεις ότι αυτή η παραλλαγή μετακινήθηκε γύρω από την ήπειρο φτάνοντας στη Χιλή, την Ουρουγουάη και την Αργεντινή.
 
-As the scale of the viral spread and severity of COVID-19 became apparent, travel ground to a halt in much of the world. After this point, we can see a distinct shift to local transmission during 'lockdowns' and the most severe travel restrictions. One outcome of this is that we can now sometimes better identify the source for viruses, as local epidemics have in some cases become more genetically distinct. In the USA, the absence of strict domestic travel has helped maintain well-mixed epidemics between states.
-
-Borders are now re-opening and travel has resumed, though not nearly to pre-pandemic levels. This, combined with the lag time from when samples are taken to when they are available publicly, means we only see a few signs of between-country mixing. In general, recent samples tend to continue to cluster with past sequences from the same country, indicating continued transmission of previously circulating variants. 
-
-Unfortunately, many countries have seen a rise in cases in the last few weeks, usually associated with reopening. As the Northern Hemisphere prepares to move into autumn and colder weather, further reopening, and school resuming, we must remain vigilant about rising case counts. As winter progresses in the Southern Hemisphere, we see worrying signs that seasonality could indeed lead to more trouble containing transmission - Australia's initial success with the virus has been dampened by recent outbreaks. Continuing to scale up Test, Trace, and Isolate, careful hand-hygiene, and conscientious mask-wearing can help keep our societies as open as possible while we continue to battle SARS-CoV-2.
+Μπορούμε επίσης να δούμε διακριτά συμπλέγματα διασποράς που περιλαμβάνουν την Κολομβία (πορτοκαλί), τη Χιλή (τυρκουάζ), την Ουρουγουάη (ανοιχτό μπλε) και την Αργεντινή (σκούρο μπλε) διάσπαρτα μέσα στο δέντρο.
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
+# [Η πιο πρόσφατη κατάσταση στη Νότια Αμερική](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Δυστυχώς ενώ ο SARS-CoV-2 συνεχίζει να εξαπλώνεται ευρέως στη Νότια Αμερική, η παραγωγή αλληλουχιών δεν έχει συνεχίσει με αντίστοιχο ρυθμό. Αν και τα κρούσματα παραμένουν υψηλά σε μεγάλο μέρος της ηπείρου, μόνο 68 δείγματα από 5 χώρες (Βραζιλία, Εκουαδόρ, Ουρουγουάη, Αργεντινή και Χιλή) έχουν κοινοποιηθεί από τον Μάιο.
 
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+Αν και τα συμπεράσματά μας περιορίζονται από την αραιή δειγματοληψία, σε πολλές περιπτώσεις τα πιο πρόσφατα δείγματα εδράζονται εντός της προηγούμενης ποικιλομορφίας της ίδιας χώρας ή άλλων χώρών της Νότιας Αμερικής. Αυτό υποδηλώνει ότι οι παραλλαγές που κυκλοφορούν τώρα είναι απόγονοι εκείνων που εισήχθησαν στις αρχές της επιδημίας.
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+<!-- ############ SLIDE BREAK ############# -->
+# [Ο SARS-CoV-2 στην Αφρική](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+
+Όπως και η Νότια Αμερική, η Αφρική είχε πολλές εισαγωγές SARS-CoV-2 στην ήπειρό της, πιθανά από την Ευρώπη. Αυτό φαίνεται από την εξάπλωση των αφρικανικών δειγμάτων στο δέντρο - ακόμη και δείγματα από την ίδια χώρα περιλαμβάνουν διάφορες παραλλαγές.
+
+Έχουμε τώρα διαθέσιμες αλληλουχίες καθ'όλη τη διάρκεια της πανδημίας από πολλές χώρες της Αφρικής, αν και πρόσφατα οι προσπάθειες αλληλούχησης φαίνεται να έχουν μειωθεί. Η Νότια Αφρική έχει συνεισφέρει μεγάλο μέρος των αλληλουχιών.
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Ομαδοποίηση στην Αφρική](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
+
+Στη Λαϊκή Δημοκρατία του Κονγκό, τη Σενεγάλη και τη Νότια Αφρική μπορούμε να δούμε σαφή σημάδια τοπικής διασποράς, που εμφανίζονται ως συμπλέγματα αλληλουχιών στο δέντρο.
+Από τη Σενεγάλη και τη Νότια Αφρική, έχουμε επίσης δείγματα που έχουν συλλεχθεί πιο πρόσφατα.
+Αυτά τα δείγματα εμπίπτουν γενικά στην παλαιότερη ποικιλομορφία του ιού στη χώρα, όπως είναι αναμενόμενο από τη συνεχιζόμενη τοπική διασπορά.
+
+Αν και πρέπει να είμαστε προσεκτικοί με τα συμπεράσματά μας δεδομένου ότι περιορίζονται σε μεγάλο βαθμό από την πολύ μεροληπτική δειγματοληψία, τα πρόσφατα δείγματα που διαθέτουμε από την Αφρική δεν προτείνουν συνεχιζόμενη εισαγωγή παραλλαγών του ιού από αλλού.
+Αυτό το εύρημα αντικατοπτρίζει πιθανώς τους περιορισμούς στην κινητικότητα που έχουν επιβληθεί σε παγκόσμιο επίπεδο.
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Η επιδημία στις Ηνωμένες Πολιτείες είναι ένα μίγμα τοπικής και εσωτερικής διασποράς](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
+
+Εδώ παρουσιάζουμε γονιδιώματα από την επιδημία των Ηνωμένων Πολιτειών από τις 15 Απριλίου έως σήμερα. Στα μέσα Απριλίου όλες οι πολιτείες των ΗΠΑ βρισκόταν υπο καθεστώς απαγόρευσης κυκλοφορίας. [Οι πολιτείες έχουν εφαρμόσει από τότε ετερογενείς πολιτικές ανοίγματος](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
+
+Σε αυτό το δέντρο, όπως και στα δέντρα για άλλες περιοχές, βλέπουμε παραδείγματα τοπικής διασποράς όπως φαίνεται από τα άκρα κλάδων με παρόμοιο χρώμα που ομαδοποιούνται σην πάροδο του χρόνου. Εάν κάνετε κλικ στην επιλογή "Explore the Data Yourself" και φιλτράρετε την τοποθεσία στην κομητεία Yakima, μπορείτε να δείτε ένα σαφές παράδειγμα εισαγωγής και ανάπτυξης γενετικά σχετιζόμενων ιών σε αυτήν την περιοχή της πολιτείας της Ουάσιγκτον. (Μπορείτε επίσης να [κάνετε κλικ εδώ](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) για να το δείτε αυτό, αλλά θα βρεθείτε εκτός αυτής της αφήγησης.)
+
+Ωστόσο στο δέντρο βλέπουμε επίσης διασπορά εντός της χώρας των ΗΠΑ, όπως φαίνεται από την ανάμιξη χρωμάτων στις άκρες των κλάδων του δέντρου. Στον χάρτη η διασπορά εντός της χώρας αντιστοιχεί σε γραμμές που εκτείνονται μεταξύ κρατιδίων. Αυτές οι παρατηρήσεις συνάδουν με τους λίγους περιορισμούς εσωτερικού ταξιδιού και τις πολιτικές ανοίγματος των κρατιδίων.
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Η αλληλούχηση στην Κεντρική Αμερική δείχνει διασπορά με γεωγραφική ομαδοποίηση](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
+
+Υπήρξε περιορισμένη αλληλούχηση από την Κεντρική Αμερική, ειδικά τους τελευταίους δύο μήνες, γεγονός που περιορίζει τα συμπεράσματα που μπορούμε να αντλήσουμε για την επιδημία σε αυτήν την περιοχή. Από τα γονιδιώματα που έχουν κοινοποιηθεί παρατηρούμε γεωγραφική ομαδοποίηση των γονιδιωμάτων SARS-CoV-2.
+
+Προς το κάτω μέρος του δέντρου, στον κλάδο 19Β, βλέπουμε ένα σύμπλεγμα διασποράς στον Παναμά που ξεκινά στα μέσα Φεβρουαρίου. Αρκετές μεταγενέστερες αλληλουχίες του Παναμά από τον Ιούνιο και τον Ιούλιο φωλιάζουν μαζί με αυτό το σύμπλεγμα, υποδηλώνοντας ότι υπάρχει συνεχής τοπική διασπορά αυτού του γονότυπου του ιού στη χώρα.
+
+Στο Μεξικό βλέπουμε επίσης σαφή γεωγραφική ομαδοποίηση διασποράς έως τον Μάιο. Χωρίς πιο πρόσφατη αλληλούχηση δεν μπορούμε να εξάγουμε συμπεράσματα σχετικά με την επιδημία τους τελευταίους μήνες.
+
+Στο κέντρο του δέντρου υπάρχει ένα σύμπλεγμα κρουσμάτων στη Baja California (γαλάζιο). Αυτά τα κρούσματα εισήχθησαν πιθανώς από την Καλιφόρνια των ΗΠΑ (πράσινα κλαδιά στο δέντρο) το Μάρτιο. Αυτή η συναγόμενη εισαγωγή συνάδει με γνωστούς ταξιδιωτικούς συνδέσμους μεταξύ των γειτονικών τοποθεσιών, παρόλο που πρέπει να είμαστε προσεκτικοί όσον αφορά στην ερμηνεία των συναγόμενων τοποθεσιών διασποράς, δεδομένης της αραιής αλληλούχησης.
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Επίλογος](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+
+Καθώς η πανδημία φτάνει στον όγδοο μήνα της παγκόσμιας κυκλοφορίας του ιού μπορούμε τώρα να δούμε συγκεκριμένες αλλαγές μέσα στο χρόνο στην εικόνα που σχηματίστηκε από τη γενετική ανάλυση του ιού, οι οποίες καθορίστηκαν σε μεγάλο βαθμό από την αλλαγή συμπεριφοράς.
+
+Πολλές πρώιμες διασπορές στις ΗΠΑ, την Ωκεανία, την Ευρώπη και σε όλη την Ασία ήταν αρχικά πολύ καλά αναμεμιγμένες καθώς τα παγκόσμια μοτίβα ταξιδιού διέδωσαν τον ιό απίστευτα αποτελεσματικά. Λίγο αργότερα, ποικίλες εισαγωγές στη Νότια Αμερική και την Αφρική, συχνά από την Ευρώπη και τη Βόρεια Αμερική, έσπειραν εκεί τοπικές επιδημίες.
+
+Καθώς η κλίμακα της εξάπλωσης του ιού και της σοβαρότητας του COVID-19 έγινε εμφανής, τα ταξίδια σταμάτησαν σε ένα μεγάλο μέρος του κόσμου. Μετά από αυτό το σημείο μπορούμε να δούμε μια συγκεκριμένη μετατόπιση στην τοπική διασπορά κατά τη διάρκεια των 'απαγορεύσεων κυκλοφορίας' και των πιο αυστηρών ταξιδιωτικών περιορισμών. Ένα αποτέλεσμα αυτού είναι ότι μερικές φορές μπορούμε τώρα να εντοπίσουμε καλύτερα την πηγή ιών καθώς οι τοπικές επιδημίες σε ορισμένες περιπτώσεις έχουν γίνει πιο διακριτές γενετικά. Στις ΗΠΑ η απουσία αυστηρών ταξιδιωτικών περιορισμών στο εσωτερικό της χώρας βοήθησε στη διατήρηση καλά αναμεμιγμένων επιδημιών μεταξύ των κρατιδίων.
+
+Τα σύνορα τώρα ξανανοίγουν και τα ταξίδια έχουν ξαναρχίσει, αν και όχι σε προ-πανδημικά επίπεδα. Αυτό, σε συνδυασμό με το χρόνο καθυστέρησης από τη λήψη δειγμάτων έως τη στιγμή που οι αλληλουχίες τους είναι δημόσια διαθέσιμες, σημαίνει ότι βλέπουμε μόνο μερικά σημάδια ανάμιξης μεταξύ χωρών. Σε γενικές γραμμές, τα πρόσφατα δείγματα τείνουν να συνεχίζουν να ομαδοποιούνται με προηγούμενες αλληλουχίες από την ίδια χώρα, υποδηλώνοντας τη συνεχιζόμενη διασπορά προηγούμενων παραλλαγών του ιού.
+
+Δυστυχώς πολλές χώρες έχουν παρατηρήσει αύξηση του αριθμού κρουσμάτων τις τελευταίες εβδομάδες που συνήθως σχετίζεται με εκ νέου άνοιγμα. Καθώς το βόρειο ημισφαίριο ετοιμάζεται να μετακινηθεί στο φθινόπωρο και τον πιο κρύο καιρό, να ξανανοίξει και να ξαναρχίσει το σχολείο, πρέπει να είμαστε σε ετοιμότητα για νέα αύξηση του αριθμού των κρουσμάτων. Καθώς ο χειμώνας εξελίσσεται στο Νότιο Ημισφαίριο βλέπουμε ανησυχητικά σημάδια ότι η εποχικότητα θα μπορούσε πράγματι να οδηγήσει σε δυσκολότερο περιορισμό της διασποράς - η αρχική επιτυχία της Αυστραλίας με τον ιό έχει μετριαστεί από τον πρόσφατο εντοπισμό κρουσμάτων. Συνεχίζοντας να αυξάνουμε τα τεστ, την ιχνηλάτηση και την απομόνωση, η προσεκτική υγιεινή των χεριών και η συνειδητή χρήση μάσκας μπορούν να βοηθήσουν να κρατήσουμε τις κοινωνίες μας όσο το δυνατόν πιο ανοιχτές ενώ συνεχίζουμε να πολεμούμε τον SARS-CoV-2.
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Επιστημονικές ευχαριστίες](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
+
+Θα θέλαμε να ευχαριστήσουμε για την καταπληκτική και έγκαιρη εργασία τους όλους τους επιστήμονες που συμμετείχαν σε αυτή την πανδημία.
+Μόνο μέσω της ταχείας ανταλλαγής γονιδιωματικών δεδομένων και μεταδεδομένων είναι δυνατό να πραγματοποιηθούν αναλύσεις όπως αυτή.
+
+**Σας ενθαρρύνουμε να κάνετε κλικ στο 'Explore the Data Yourself' και να μετακινηθείτε προς τα κάτω στη σελίδα για μια πλήρη λίστα όλων των συγγραφέων. Ο συντάκτης κάθε μεμονωμένης αλληλουχίας είναι διαθέσιμος επιλέγοντας τη στο δέντρο.**
+
+Επίσης εκφράζουμε την ευγνωμοσύνη μας στην GISAID για την παροχή της πλατφόρμας μέσω της οποίας αυτά τα δεδομένα μπορούν να μεταφορτωθούν και να κοινοποιηθούν.
