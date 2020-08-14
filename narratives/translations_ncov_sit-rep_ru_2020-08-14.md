@@ -1,5 +1,5 @@
 ---
-title: August 2020 update of COVID-19 genomic epidemiology
+title: Последняя информация о геномной эпидемиологии COVID-19 на Август 2020
 authors:
   - James Hadfield
   - Cassia Wagner
@@ -16,28 +16,29 @@ authorLinks:
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
 translators:
+  - Varvara Kozyreva
 translatorLinks:
+  - https://twitter.com/varvarakozyreva
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
-date: "2020 August 14"
+date: "14 августа 2020"
 abstract: "
-The pandemic is currently widespread around the world, with over [1.5 million new cases each week](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) and total reported cases of [18 million](https://ourworldindata.org/covid-cases) and over [600,000 fatailities](https://ourworldindata.org/covid-deaths).
+На данный момент пандемия широко распространена по всему миру, с более чем [1.5 миллионами новых случаев за каждую неделю](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports), [18 миллионами] общих зафиксированных случаев (https://ourworldindata.org/covid-cases) и более [600,000 смертей](https://ourworldindata.org/covid-deaths).
 \n\n
-### The situation [is summarised by the WHO on August 2, 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
+### Ситуация [резюмированная ВОЗ на 2 Августа 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
-### **\"As countries have eased public health and social measures, implemented to limit transmission of the virus, a number of these countries have observed clusters or resurgences of cases. Risks and vulnerabilities are further magnified in fragile, low-resource and conflict-affected settings.\"**
+### **\"По мере того, как страны ослабили эпидемические и социальные меры, направленные на ограничение распространения вируса, многие из этих стран наблюдают вспышки или возобновление случаев. Риски и уязвимость особенно умножаются в хрупких ситуациях, связанных с недостатком ресурсов и конфликтами.\"**
 \n\n
-### The worldwide sequencing of the SARS-CoV-2 genome has continued unabated, and with this data we use Nextstrain to track the geographic movement and evolution of the virus.
-To date, there are over 75,000 sequences publicly shared from half the countries in the world - an amazing testament to the scientists and public health officials behind this.
+### Всемирное секвенирование геномов SARS-CoV-2 не прекращалось, и с этими данными мы продолжаем использовать платформу Nextstrain, чтобы отслеживать географическое передвижение и эволюцию вируса.
+К сегодняшнему дню, в общественном доступе имеется более 75,000 последовательностей из половины стран со всего мира- замечательное свидетельство работы ученых и сотрудников системы общественного зравоохранения, которые стоят за этим. 
 \n\n
-### We use subsampling approaches to remove potential sampling biases in order to ensure that regions and time-periods are appropriately included for analysis.
-(This also helps for the computational requirements.)
+### Мы используем методы подвыборки с целью исключения возможных погрешностей выборки, для того чтобы убедиться, что регионы и временные периоды адекватно представленны в анализе. (Это также помогает с вычислительными требованиями)
 \n\n
-### Here you can see the geographical distribution of ~4300 genomes.
-Each circle is centered on an individual country, the colour indicates region and the radius scales with the number of genomes from that country ([see here for help interpreting the map in Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
+### На этом слайде вы можете видеть географическое распределение ~4300 геномов.
+Каждый круг размещается в центре конкретной страны, цвет соответствует региону мира, а радиус пропорционален количеству геномов из данной страны ([см. помощь в интерпретации карты Nextstrain здесь](https://nextstrain.org/docs/visualisation/map-interpretation)).
 \n\n
-### In this report, we examine the global genomic epidemiology of COVID-19 broadly and provide specific updates for each world region.
+### В данном отчете мы рассматриваем глобальную геномную эпидемиологию COVID-19 в широком плане и представляем специальные обновления для каждого региона мира. 
 "
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
