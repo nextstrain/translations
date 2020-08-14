@@ -55,16 +55,16 @@ abstract: "
 # [Περίληψη COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
 ### Περιεχόμενα
-* [Παγκόσμια κατανομή των κλάδων](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [Μεταλλαγή D614G της πρωτεΐνης ακίδας](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Η κατάσταση στην Ασία](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Η κατάσταση στην Ωκεανία](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Η κατάσταση στην Ευρώπη](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Η κατάσταση στην Νότια Αμερική](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Η κατάσταση στην Αφρική](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Η κατάσταση στην Βόρεια Αμερική](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Επίλογος](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Ευχαριστίες](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+* [Παγκόσμια κατανομή των κλάδων](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-08-14?n=2)
+* [Μεταλλαγή D614G της πρωτεΐνης ακίδας](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-08-14?n=3)
+* [Η κατάσταση στην Ασία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-08-14?n=5)
+* [Η κατάσταση στην Ωκεανία](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-08-14?n=7)
+* [Η κατάσταση στην Ευρώπη](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-08-14?n=10)
+* [Η κατάσταση στην Νότια Αμερική](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-08-14?n=13)
+* [Η κατάσταση στην Αφρική](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-08-14?n=15)
+* [Η κατάσταση στην Βόρεια Αμερική](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-08-14?n=17)
+* [Επίλογος](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-08-14?n=19)
+* [Ευχαριστίες](https://nextstrain.org/narratives/ncov/sit-rep/el/2020-08-14?n=20)
 
 #### Πηγές Nextstrain
 * [ΞΕΚΙΝΗΣΤΕ ΕΔΩ: Πώς να ερμηνεύσετε φυλογενετικά δέντρα](https://nextstrain.org/narratives/trees-background/el)
