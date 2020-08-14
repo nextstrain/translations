@@ -24,7 +24,7 @@ licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
 date: "14 августа 2020"
 abstract: "
-На данный момент пандемия широко распространена по всему миру, с более чем [1.5 миллионами новых случаев за каждую неделю](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports), [18 миллионами] общих зафиксированных случаев (https://ourworldindata.org/covid-cases) и более [600,000 смертей](https://ourworldindata.org/covid-deaths).
+На данный момент пандемия широко распространена по всему миру, с более чем [1.5 миллионами новых случаев за каждую неделю](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports), [18 миллионами](https://ourworldindata.org/covid-cases) и более [600,000 смертей](https://ourworldindata.org/covid-deaths) общих зафиксированных случаев.
 \n\n
 ### Ситуация [резюмированная ВОЗ на 2 Августа 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
