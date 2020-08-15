@@ -1,5 +1,5 @@
 ---
-title: August 2020 update of COVID-19 genomic epidemiology
+title: Actualización de Agosto 2020 de la Epidemiologia Genética del COVID-19
 authors:
   - James Hadfield
   - Cassia Wagner
@@ -15,18 +15,19 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
-translators:
+translators: Roy Costilla
 translatorLinks:
+- https://researchers.uq.edu.au/researcher/18392
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
-date: "2020 August 14"
+date: "14 de Agosto del 2020"
 abstract: "
-The pandemic is currently widespread around the world, with over [1.5 million new cases each week](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) and total reported cases of [18 million](https://ourworldindata.org/covid-cases) and over [600,000 fatailities](https://ourworldindata.org/covid-deaths).
+La pandemia se ha expandido en todo el mundo, con mas de [1.5 millones de casos nuevos cada semana](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports), un total de casos reportados de [18 millones](https://ourworldindata.org/covid-cases) y mas [600,000 fallecidos](https://ourworldindata.org/covid-deaths).
 \n\n
-### The situation [is summarised by the WHO on August 2, 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
+### La situación [fue resumida por la OMS el 2 de Agosto del 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
-### **\"As countries have eased public health and social measures, implemented to limit transmission of the virus, a number of these countries have observed clusters or resurgences of cases. Risks and vulnerabilities are further magnified in fragile, low-resource and conflict-affected settings.\"**
+### **\"Al relajar las medidas de salud publica y de distanciamiento social, implementadas para limitar la transmisión del virus, muchos países han experimentado nuevos brotes o el resurgimiento de nuevos casos. Los riegos y las vulnerabilidades se han amplificado en contextos frágiles, de escasos recursos y afectados por conflictos.\"**
 \n\n
 ### The worldwide sequencing of the SARS-CoV-2 genome has continued unabated, and with this data we use Nextstrain to track the geographic movement and evolution of the virus.
 To date, there are over 75,000 sequences publicly shared from half the countries in the world - an amazing testament to the scientists and public health officials behind this.
