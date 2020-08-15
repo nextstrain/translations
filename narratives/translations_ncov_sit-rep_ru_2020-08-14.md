@@ -132,40 +132,39 @@ abstract: "
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Независимый анализ по регионам Analysing regional builds independently](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
+# [Независимый анализ по регионам](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
 
-As there are too many genomes to show in a single tree, we provide a regional analysis for each of the 6 regions shown here, in addition to our main 'global' build.
-This allows us to focus on the diversity within each region, while choosing appropriate out-of-region samples, so we can maintain an overview of all of the between-region transmissions over time - as we can see on this slide!
+Так как здесь слишком много геномов для того, чтобы показать их на одном дереве, мы предоставляем региональный анализ для 6 показанных здесь регионов, в дополнение к нашему 'глобальному' анализу. 
+Это позволяет нам сфокусироваться на разнородности внутри каждого региона, в то время как выбор подходящих образцов из других зон предоставляет возможность обзора всех передач между регионами с течением времени - как мы можем видеть на этом слайде!
 
-In the next slides we're going to provide an overview of each of those regions by switching to the corresponding dataset. (This is a new feature in Nextstrain Narratives!)
+На следующих слайдах мы собираемся предоставить обзор каждого из этих регионов с помощью переключения к соответствующему набору данных. (Это новая особенность Nextstrain Narratives!)
 
-A full inventory of builds maintained by us and others is available at [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
-
-If we examine the situation in Asia from genomes collected before June 2020, we see signs of both extensive within-Asia transmission as well as transmissions to and from other regions of the world.
-
-#### Interpreting the lines and colors
-
-Here only countries in Asia have been colored, with the other regions represented by shades of grey.
-The color of each transmission line (lines between circles) represents the origin location, so all of the **colored** lines represent transmissions originating from a country within Asia (in this example).
-
-#### Transmissions into Asia
-
-This shows that many of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
-Especially pronounced in this view are those transmissions from Europe to Asia (though the lines seem to come from Germany, this point represents all of Europe). However, we must be cautious about how we interpret these inferred transmissions, as sampling biases can play a large role (and we have many more samples from Europe than anywhere else).
-
+Полный анализ данных, поддерживаемых нами и другими, доступен по адресу [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Asia situation after June 1](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
+# [Ситуация в Азии до 1 июня](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
 
-Looking at the genomes sampled after June 1 (i.e. in the past 2 months), we see that the sampling is dominated by fewer countries.
-This limits the conclusions we can draw, but it appears that we may have fewer transmissions between countries.
+Если мы рассмотрим ситуацию в Азии на основе геномов, собранных до июня 2020 года, мы увидим признаки как широкой передачи внутри Азии, так и передачи в другие регионы мира и из них.
 
-This is also evident looking at the phylogeny, where we have large monophyletic (in the same part of the tree) groupings of genomes from Singapore (yellow) and Bangladesh (light green).
+#### Интерпретация линий и цветов
 
-These data are consistent with less recent international travel and stricter control measures.
+Здесь окрашены только страны Азии, остальные регионы представлены оттенками серого.
+Цвет каждой линии передачи (линии между кругами) представляет место происхождения, поэтому все **цветные** линии представляют передачи, исходящие из страны в Азии (в этом примере).
+
+#### Заносы в Азию
+
+Это показывает, что многие передачи с участием азиатских и не азиатских стран были завезены в Азию (серые линии).
+В таком интерфейсе особенно отчетливо видны передачи из Европы в Азию (хотя кажется, что линии идут из Германии, эта точка представляет всю Европу). Однако мы должны быть осторожными с интерпретацией этих предполагаемых передач, поскольку выборка образцов может играть большую роль (и у нас гораздо больше выборок из Европы, чем откуда-либо еще).
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Ситуация в Азии после 1 июня](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
+
+Глядя на геномы, отобранные после 1 июня (то есть за последние 2 месяца), мы видим, что меньшее количество стран преобладает в выборке.
+Это ограничивает выводы, которые мы можем сделать, но похоже, что у нас может быть меньше передач между странами.
+
+Это также очевидно при рассмотрении филогении, где у нас есть большие монофилетические (в той же части дерева) группировки геномов из Сингапура (желтый) и Бангладеш (светло-зеленый).
+
+Эти данные согласуются с уменьшением международных поездок и более строгими мерами контроля.
 
 
 <!-- ############ SLIDE BREAK ############# -->
