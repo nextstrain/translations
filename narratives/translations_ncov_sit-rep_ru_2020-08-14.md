@@ -193,14 +193,15 @@ _СОВЕТ: если вы наведете указатель мыши на к�
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [New cases detected in New Zealand this week](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
+# [Новые случаи, выявленные в Новой Зеландии на этой неделе](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
 
-New Zealand had reported over 100 days without community transmission before detecting cases in the community this week.
-The cluster has now spread to around 30 known cases (at time of publication), primarily based in the largest city, Auckland.
+Новая Зеландия сообщила о более чем 100 днях отсутствия передачи вируса в общинах до выявления новых локальных случаев на этой неделе.
+На данный момент кластер распространился примерно на 30 известных случаев (на момент публикации), главным образом, в крупнейшем городе Окленд.
 
 The source is not yet known, however scientists have sequenced the isolates and reported that they fall into pangolin lineage B1.1.1; so while the genomes are yet to be released they are known to fall in the region colored in blue here.
-This lineage originated in Europe, but has since been observed in multiple regions around the world.
 
+Источник вспышки пока не известен, однако ученые отсеквенировали изоляты и сообщили, что они относятся к линии B1.1.1; поэтому, хотя геномы еще не опубликованы, уже известно, что они попадают в область, отмеченную здесь синим цветом.
+Эта линия появилась в Европе, но с тех пор наблюдается во многих регионах мира.
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Early situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
