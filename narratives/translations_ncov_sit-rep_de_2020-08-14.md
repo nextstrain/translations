@@ -78,7 +78,7 @@ Wir haben oeffentlich zugaengliche SARS-CoV-2 Genome analysiert. Durch das Vergl
 
 - Auf globaler Ebene kann ein eindeutig Anstieg der D614G-Substitution im Spike Protein festgestellt werden. Ueber diese Variante wird gemutmasst, den Anstieg an SARS-CoV-2 Uebertragungen zu verursachen.
 
-- Um den weltweiten aktuellen Stand der SARS-CoV-2 Daten darzustellen, betreiben wir 6 regionale und 1 globale Struktur, die jeden Wochentag aktualisiert werden.
+- Um den weltweiten aktuellen Stand der SARS-CoV-2 Daten darzustellen, betreiben wir 6 regionale und 1 globale Builds, die jeden Wochentag aktualisiert werden.
 
 - In Asien gab es viele Uebertragungen zwischen den Laendern zu Beginn der Pandemie. Derzeit sehen wir einen Wechsel hin zu einer Verbreitung des Virus innerhlab des jeweiligen Landes. 
 
@@ -119,67 +119,65 @@ Es gibt Laender in Asien, die einen hoeheren Anteil an 19A und 19B (hier in blau
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The well-publicized D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
+# [Die bekannt gewordene D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
-The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
+Die D614G-Substitution im Gen, das für das Spike (S) -Protein kodiert, war kürzlich in den Nachrichten und wurde vielfach spekuliert.
 
-Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
+Es scheint, dass die G-Variante (hier gelb dargestellt) die Infektiositaet von SARS-CoV-2 _in vitro_ erhoeht und daher evolutionsbedingt fuer die Mensch-zu-Mensch Uebertragung ausgeaehlt worden ist ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). Allerdings kann eine Erhoehung der Infektiositaet das Virus anfaelliger fuer neutralisierende Antikoerper werden lassen ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
-Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
-In July the 614G variant was present in the majority of circulating viruses worldwide. Since its initial appearance, the substitution has arisen multiple times and also reverted back to the 614D variant.
-There is no evidence that these other substitutions and reversions have resulted in continued transmission chains.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Analysing regional builds independently](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
-
-As there are too many genomes to show in a single tree, we provide a regional analysis for each of the 6 regions shown here, in addition to our main 'global' build.
-This allows us to focus on the diversity within each region, while choosing appropriate out-of-region samples, so we can maintain an overview of all of the between-region transmissions over time - as we can see on this slide!
-
-In the next slides we're going to provide an overview of each of those regions by switching to the corresponding dataset. (This is a new feature in Nextstrain Narratives!)
-
-A full inventory of builds maintained by us and others is available at [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
-
-If we examine the situation in Asia from genomes collected before June 2020, we see signs of both extensive within-Asia transmission as well as transmissions to and from other regions of the world.
-
-#### Interpreting the lines and colors
-
-Here only countries in Asia have been colored, with the other regions represented by shades of grey.
-The color of each transmission line (lines between circles) represents the origin location, so all of the **colored** lines represent transmissions originating from a country within Asia (in this example).
-
-#### Transmissions into Asia
-
-This shows that many of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
-Especially pronounced in this view are those transmissions from Europe to Asia (though the lines seem to come from Germany, this point represents all of Europe). However, we must be cautious about how we interpret these inferred transmissions, as sampling biases can play a large role (and we have many more samples from Europe than anywhere else).
+Hier können wir sehen, dass diese Variante sehr kurz nach der anfänglichen Zoonose aufgetreten ist und sich anschließend auf der ganzen Welt verbreitet hat.
+Im Juli machte die 614G Variante den Grossteil der zirkuliernden Viren weltweit aus. Seit dem ersten Auftreten ist die Substitution mehrfach aufgetreten und wieder zur 614D-Variante zurückgefallen..
+Es gibt keinen Beweis dafuer, dass diese Substitutionen oder Reversionen in kontinuierliche Uebertragungsketten resultiert sind. 
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Asia situation after June 1](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
+# [Regionale Builds unabhängig analysieren](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
 
-Looking at the genomes sampled after June 1 (i.e. in the past 2 months), we see that the sampling is dominated by fewer countries.
-This limits the conclusions we can draw, but it appears that we may have fewer transmissions between countries.
+Da es viel zu viele Genome fuer einen einzelnen Baum gibt, haben wir regionale Analysen fuer jede der 6 Regionen durchgefuehrt, die hier neben dem globalen Build dargestellt sind.
+Das ermoeglicht uns die Diversitaet innerhalb jeder Region darstellen zu koennen und geeignete Stichproben außerhalb der Region auszuwählen, sodass wir einen Überblick über alle Übertragungen zwischen den Regionen über die Zeit behalten können - wie wir auf dieser Folie sehen können! 
 
-This is also evident looking at the phylogeny, where we have large monophyletic (in the same part of the tree) groupings of genomes from Singapore (yellow) and Bangladesh (light green).
+Im Nachfolgenden stellen wir einen Ueberblick zu jeder dieser Regionen zur Verfuegung, in dem wir zum jeweiligen Datensatz wechseln. (Das ist ein neues Feature in Nextstrain!)
 
-These data are consistent with less recent international travel and stricter control measures.
+Ein vollständiges Inventar der von uns und anderen verwalteten Builds finden Sie unter [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Situation in Asien vor Juni](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
+
+Wenn wir die Sitatuion in Asien anhand von Genomdaten, die vor Juni 2020 gesammelt worden sind, anschauen, sehen wir eine starke Uebertragung des Virus sowohl innerhalb Asiens als auch zu und aus anderen Teilen der Welt.
+
+#### Interpretation der Linien und Punkte
+
+Im Folgenden wuerden nur asiatische Laender angefaerbt, wobei andere Teile der Welt in grau gehalten worden sind. 
+Die Farbe jeder Uebertragungslinie (Linien zwischen den Kreisen) repraesentiert den Ursprungsort, heisst dass alle "farbigen" Linien Uebertragungen darstellen, die aus einem Land innerhalb Asiens stammen (in diesem Beispiel).
+
+#### Uebertragungen nach Asien
+
+Das zeigt, dass viele Uebertragungen asiatischer und nicht-asiatischer Laender Einschleppungen nach Asien waren (graue Linien).
+Besonders ausgepraegt in dieser Ansicht sind die Uebertragungen aus Europa nach Asien (obwohl es aussieht, als ob die Linie ihren Ursprung in Deutschland habe, soll dies ganz Europa repraesentieren). Wir müssen jedoch vorsichtig sein, wie wir diese abgeleiteten Übertragungen interpretieren, da Stichprobenverzerrungen eine große Rolle spielen können (und wir haben viel mehr Stichproben aus Europa als irgendwo anders).
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Oceania overview](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
+# [Situation in Asien vor dem 1.Juni](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
 
-Here we can explore ~790 genomes from Australia and New Zealand with an extra ~1100 sequences to provide global context.
-Only samples from Australia and New Zealand are colored.
+Schaut man sich die genomischen Daten nach dem 1.Juni an (beispielsweise die letzten 2 Monate), sehen wir, dass die Beprobung von wenigen Laendern dominiert wird. Das schraenkt die Schlussfolgerungen, die wir treffen koennen, ein, aber es scheint, dass es weniger Uebertragungen zwischen den Laendern gibt.
 
-You can see that these samples are spread throughout the tree, indicating that Oceania has been exposed to (most of) the observed genomic diversity of SARS-CoV-2.
+Das ist auch in der Phylogenie sichtbar, wo große monophyletische (im gleichen Teil des Baumes) Gruppierungen von Genomen aus Singapur (gelb) und Bangladesch (hellgrün) auffindbar sind. 
 
-The majority of New Zealand's samples (blues, purples, greens) come from a tight temporal band covering March and April, which is due to the successful control strategy employed by the New Zealand government. While the country is back to relative normality, the borders are still closed to all non-citizens to limit the chances for the virus to re-enter the country. Returning citizens must quarantine for 14 days before entering the country.
+Diese Daten sind mit kohaerent mit der Einschraenkung von Auslandsreisen und strenger Kontrolmassnahmen. 
 
-This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls -- more below!
 
-_HINT: if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!_
+<!-- ############ SLIDE BREAK ############# -->
+# [Ueberblick ueber Ozeanien](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
+
+Im Folgenden sehen wir ungefaehr 790 Genome aus Australien und Neuseeland mit zusaetzlichen 1100 Sequenzen als globale Referenz. Nur Proben aus Ozeanien sind eingefaerbt worden.
+
+Diese Proben sind ueber den ganzen Baum verteilt, was indiziert, dass Ozeanien (fast allen) entdeckten SARS-CoV-2 Varianten ausgesetzt war.
+
+Der Grossteil der Neuseelandproben (hier blau, lila, gruen) stammen aus einem engen Zeitraum (zwischen Maerz und April). Dies liegt an der erfolgreichen Kontrollstrategie seitens der neuseelaendischen Regierung. Waehrend das Land  fast zurueck zur Normalitaet gelangt ist, sind die Grenzen fuer Nichtbuerger noch immer geschlossen, um die Chancen einer Wiederinfektion durch das Virus zu limitieren. Rueckkehrer muessen fuer 14 Tage in die Quarantaene bevor sie einreisen duerfen. 
+
+Diese Woche berichtete die neuseelaendische Regierung ueber 4 Neuinfektionen, welche nicht mit ankommenden Faellen verknuepft werden konnten. Genetische Sequenzierung koennte bei der Aufklaerung, wie SARS-CoV-2 die strengen Kontrollen umgehen konnte, helfen -- Weiteres siehe unten!
+
+_Tipp: Wenn Sie mit der Maus ueber die Kreise auf der Karte gehen, dann sehen Sie die relevanten Hinweise im Baum hervorgehoben!_
 
 
 <!-- ############ SLIDE BREAK ############# -->
