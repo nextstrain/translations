@@ -49,10 +49,10 @@ abstract: "
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- table of contents slide -->
-# [COVID-19 Summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [Обзор на COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
 ### Table of contents
-* [Global clade distribution](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
+* [Всемирное распространение генетических вариантов](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
 * [D614G Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
 * [Situation in Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
 * [Situation in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
@@ -71,7 +71,7 @@ abstract: "
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Резюме
+# Обзор
 
 В данном отчете мы анализируем общественно-доступные геномы SARS-CoV-2. Путем сравнения этих вирусных геномов мы можем охарактеризовать передвижение COVID-19 по всему миру и его локальное распространение.
 
@@ -97,15 +97,15 @@ abstract: "
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Worldwide distribution of genetic variants](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
+# [Всемирное распространение генетических вариантов](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
-Since its emergence in late 2019, SARS-CoV-2 has diversified into several different co-circulating variants. To facilitate discussion of these variants, we have grouped them into clades which are defined by specific signature mutations.
+С момента его появления в конце 2019, SARS-CoV-2 диверсифицировался в несколько различных одновременно циркулирующих вариантов. Чтобы помочь обсуждению этих вариантов, мы объединили их в ветви, которые определяются специфическими отличительными мутациями.
 
-We currently define 5 major clades (see [this blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) for details):
+На данный момент мы выделяем 5 главных ветвей (см. [этот пост](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) for details):
 
-* 19A and 19B emerged in Wuhan and dominated the early outbreak.
-* 20A emerged out of 19A, dominated the European outbreak in March, and has since spread globally.
-* 20B and 20C are large, genetically distinct subclades of 20A.
+* 19A и 19B возникли в Ухане и доминировали в ранней вспышке.
+* 20A произошел от 19A, доминировал в европейской вспышке в марте и с тех пор распространился глобально.
+* 20B и 20C являются большими, генетически отличными подразделениями 20A.
 
 
 <svg viewBox="0 0 120 80">
@@ -113,12 +113,11 @@ We currently define 5 major clades (see [this blog post](https://nextstrain.org/
 </svg>
 
 
-We're now looking at the distribution of these clades across the world (the color now represents clade membership).
-You can see that countries in the Asia region have a higher proportion of 19A and 19B (blues) as that variant dominated in the early outbreak.
-Europe and North America have a mixture of all clades, but are dominated by 20B and 20C (yellow and orange, respectively).
+Здесь мы рассматриваем распределение данных ветвей по всему миру (цвет соответствует принадлежности к ветви).
+Вы можете видеть, что страны Азии обладают большей пропорцией 19A и 19B (синий), поскольку этот вариант доминировал в ранней вспышке. 
+В Европе и Северной Америке присутствует смесь всех ветвей, однако 20B и 20C доминируют (желтый и оранжевый, соответственно).
 
-#### If you have SARS-CoV-2 sequences for which you'd like to know their clade (and estimated position on a phylogenetic tree), we made Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) which lets you drag-and-drop your FASTA files onto the browser.
-
+#### Если вы хотите знать к какой ветви относятся ваши последовательности SARS-CoV-2 (и оценить их положение на филогенетическом дереве), мы создали Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)), который позволяет перетащить ваши FASTA файлы в браузер.
 
 <!-- ############ SLIDE BREAK ############# -->
 # [The well-publicized D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
