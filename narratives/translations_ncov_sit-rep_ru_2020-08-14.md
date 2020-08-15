@@ -53,7 +53,7 @@ abstract: "
 
 ### Table of contents
 * [Всемирное распространение генетических вариантов](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [D614G Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
+* [Мутация D614G в Спайковом белке](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
 * [Situation in Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
 * [Situation in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
 * [Situation in Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
@@ -120,15 +120,15 @@ abstract: "
 #### Если вы хотите знать к какой ветви относятся ваши последовательности SARS-CoV-2 (и оценить их положение на филогенетическом дереве), мы создали Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)), который позволяет перетащить ваши FASTA файлы в браузер.
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The well-publicized D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
+# [Получившая широкую огласку мутация D614G в Спайковом белке](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
-The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
+Замена D614G в гене кодирующем Спайковый (S) белок в последнее время упоминалась в новостях и является темой для многих домыслов. 
 
-Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
+Накапливается все больше доказательств того, что вариант G (желтый цвет в данном слайде) увеличивает инфективность SARS-CoV-2 _in vitro_ и возможно был эволюционно селектирован из-за усиленной передачи от человека к человеку ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). Однако, повышенная инфекционность может потенциально достигаться ценой большей уязвимости вируса по отношению к нейтрализующим антителам ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
-Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
-In July the 614G variant was present in the majority of circulating viruses worldwide. Since its initial appearance, the substitution has arisen multiple times and also reverted back to the 614D variant.
-There is no evidence that these other substitutions and reversions have resulted in continued transmission chains.
+Здесь мы видим, что по предсказаниям данный вариант возник вскоре после первоначального зооноза и впоследствии распространился по всему миру. 
+В июле вариант 614G присутствовал в большинстве циркулирующих вирусов всемирно. С момента ее первого появления, эта замена возникала несколько раз и также возвращалась назад к варианту 614D. 
+У нас нет свидетельств того, что эти другие замены и реверсии привели к последующим цепям передач. 
 
 
 <!-- ############ SLIDE BREAK ############# -->
