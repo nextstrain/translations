@@ -204,25 +204,25 @@ The source is not yet known, however scientists have sequenced the isolates and 
 Эта линия появилась в Европе, но с тех пор наблюдается во многих регионах мира.
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Early situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
+# [Ранняя ситуация в Европе](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
-SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.
+SARS-CoV-2 быстро распространился по Европе, вероятно, в основном за счет прямых передач из Азии.
 
-By the end of February, even though there were just [a few hundred cases](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) officially reported in Europe, the virus had spread to at least 15 European countries.
+К концу февраля, несмотря на всего [несколько сотен случаев](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea), официально зарегистрированных в Европе, вирус распространился, как минимум, в 15 европейских стран.
 
-Given that sampling was less common in the early days of the pandemic, SARS-CoV-2 was almost certainly already circulating across must of Europe, including in countries for which we don't have samples.
+Учитывая, что в первые дни пандемии сбор образцов был менее распространен, SARS-CoV-2 почти наверняка уже циркулировал по всей Европе, в том числе и в странах, из которых у нас нет образцов.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Lockdown in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
+# [Карантин в Европе](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
 
-Through March and April much of Europe closed their borders, and many imposed differing types of 'lockdown' where movement was restricted and businesses and schools closed. We expect that these restrictions decreased between-country transmission, making it more likely that we see sequences from any given country 'cluster' with previous sequences from that country.
+На протяжение марта и апреля большая часть Европы закрыла свои границы; многие страны ввели различные типы «изоляции», ограничили перемещения, закрыли предприятия и школы. Мы ожидаем, что эти ограничения снизили передачу заболевания между странами. Это повысило вероятность того, что мы увидим последовательности из любого заданного «кластера» страны с предыдущими последовательностями из этой же страны.
 
-However, SARS-CoV-2 was already so mixed across Europe that different variants of the virus were circulating across multiple countries. Most countries had numerous distinct variants circulating before lockdown that were related to the viruses circulating in other countries. This means the phylogenetic picture remains well-mixed even after borders closed (shown by multiple colors near each other on the tree).
+Однако SARS-CoV-2 уже был настолько перемешан по всей Европе, что разные варианты вируса циркулировали во многих странах. В большинстве стран множество различных вариантов вируса, относящихся к другим странам, циркулировали еще до введения карантина. Это означает, что филогенетическая картина остается сильно перемешанной даже после закрытия границ (показано несколькими цветами рядом друг с другом на дереве).
 
-However, we can see some signs of the local transmission that we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange (about 1/3 from the top), while Spain (dark blue) shows distinct local transmission at the bottom and top of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.
+Тем не менее, мы видим некоторые ожидаемые признаки локальной передачи. Здесь Финляндия и Швеция имеют ярко выраженный кластер передачи зеленого и оранжевого цветов (примерно 1/3 от вершины), в то время как Испания (темно-синий) демонстрирует отчетливую локальную передачу внизу и вверху дерева. Исландия (фиолетовый) и Швейцария (голубой) также имеют кластеры местной передачи.
 
-_Hint: You can expand the legend by clicking 'Country' at the top-left of the tree!_
+_Подсказка: вы можете раскрыть легенду, щелкнув «Country» в верхнем левом углу дерева! _
 
 
 <!-- ############ SLIDE BREAK ############# -->
