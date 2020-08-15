@@ -283,20 +283,19 @@ This finding likely reflects the continued restrictions in movement globally.
 
 На данном дереве, как и на деревьях для других регионом, мы видим примеры местной передачи вируса, что обозначается точками схожего цвета, группирующимися вместе на протяжении времени. Если вы нажмете на ссылку "Explore the Data Yourself" ("Исследовать данные самостоятельно") и отфильтруете местоположение Yakima County (Округ Якима), вы увидите явный пример заноса и распространения генетически связанных вирусов в этом районе штата Вашингтон. (Вы также можете нажать [здесь](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) чтобы увидеть эти данные, но при этом вы покинете данный обзор.)
 
-Однако, на том же дереве мы также видим распространение между регионами внутри США, что видно из смешения цветов на концах дерева. На данной карте национальная передача выглядит как линии передачи, протянувшиеся между штатами. Эти наблюдения находятся в согласии с некоторыми местными ограничениями в путешествиях и стратегии штатов по выходу из карантина.
+Однако, на том же дереве мы также видим распространение между регионами внутри США, что видно из смешения цветов на концах дерева. На данной карте национальная передача выглядит как линии передачи, протянувшиеся между штатами. Эти наблюдения находятся в согласии с некоторыми местными ограничениями в путешествиях и стратегиями штатов по выходу из карантина.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Секвенирование из Центральной Америки показывает географически сгруппированную передачу](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
 
-There has been limited sequencing from Central America, especially over the past two months, which restricts the inferences we can draw about the epidemic. From the genomes that have been shared, we see geographic clustering of SARS-CoV-2 genomes.
+Данные секвенирования из Центральной Америки были в последнее время ограничены, особенно в последние 2 месяца, что ограничивает предсказания, которые мы можем делать об этой эпидемии. Из тех геномов, что появились в доступе, мы видим географическую группировку геномов SARS-CoV-2. 
 
-Toward the bottom of the tree in clade 19B, we see a cluster of transmission in Panama starting in mid-February. Several later sequences in Panama from June and July nest in with this cluster, suggesting there's continued local transmission of this virus genotype in the country.
+Ближе к нижней части дерева в ветви 19B, начиная с середины февраля мы наблюдаем группу передач в Панаме. Несколько недавних последовательностей из Панамы с июня и июля впадают в эту группу, свидетельствуя о продолжающейся местной передачи этого вирусного генотипа в стране.  
 
-In Mexico, we also see clear geographic clustering of transmission through May. Without more recent sequencing, we cannot make inferences about the epidemic in later months.
+В Мексике, мы также видим явное географическое группирование передач на протяжении мая месяца. В отсутствие более недавних данных секвенирования, мы не можем сделать предсказания об эпидемии в более поздние месяцы.  
 
-In the center of the tree, there is a cluster of cases in Baja California (in light blue). These cases were likely imported from California, USA (green branches on the tree) in March. This inferred importation is consistent with known travel links between the neighboring locations although we should be cautious about interpreting inferred transmission locations given sparse sequencing.
-
+В центре дерева находится группа случаев из Нижней Калифорнии (Baja California), отмеченная синим цветом. Эти случаи наверняка были импортированы из штата Калифорнии, США в марте (зеленые ветви на дереве). Предсказанное здесь импортирование согласуется с известными путешествиями между этими соседними местностями, хотя стоит быть осторожным в интерпретации этих предсказанных передач в связи со скудностью данных секвенирования.  
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Closing summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
