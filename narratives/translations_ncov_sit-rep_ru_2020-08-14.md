@@ -168,29 +168,28 @@ abstract: "
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Oceania overview](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
+# [Обзор ситуации в Океании](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
 
-Here we can explore ~790 genomes from Australia and New Zealand with an extra ~1100 sequences to provide global context.
-Only samples from Australia and New Zealand are colored.
+Здесь мы можем исследовать ~790 геномов из Австралии и Новой Зеландии с дополнительными ~1100 последовательностями, чтобы обеспечить глобальный контекст.
+На данном слайде мы окрасили образцы только из Австралии и Новой Зеландии.
 
-You can see that these samples are spread throughout the tree, indicating that Oceania has been exposed to (most of) the observed genomic diversity of SARS-CoV-2.
+Вы можете видеть, что эти образцы разбросаны по всему дереву, что указывает на то, что Океания подверглась (большей части) наблюдаемых геномных вариантов SARS-CoV-2.
 
-The majority of New Zealand's samples (blues, purples, greens) come from a tight temporal band covering March and April, which is due to the successful control strategy employed by the New Zealand government. While the country is back to relative normality, the borders are still closed to all non-citizens to limit the chances for the virus to re-enter the country. Returning citizens must quarantine for 14 days before entering the country.
+Большинство образцов из Новой Зеландии (синие, фиолетовые, зеленые) происходят из узкой временной полосы, охватывающей март и апрель. Это связано с успешной стратегией контроля, применяемой правительством Новой Зеландии. Хотя страна вернулась к относительно нормальной жизни, границы, по-прежнему, остаются закрыты для всех гостей, чтобы ограничить шансы повторного проникновения вируса в страну. Вернувшиеся граждане должны пройти 14-дневный карантин перед въездом в страну.
 
-This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls -- more below!
+На этой неделе правительство Новой Зеландии объявило о четырех новых случаях локальной передачи, которые не могут быть связаны с привезенными случаями. Генетическое секвенирование может помочь выяснить, как SARS-CoV-2 обошел строгий контроль - подробнее ниже!
 
-_HINT: if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!_
-
+_СОВЕТ: если вы наведете указатель мыши на круги на карте, то увидите соответствующие подсказки в выделенном дереве!_
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Resurgence in Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
+# [Повторное возникновение вируса в Австралии](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
 
-Australia, and the state of Victoria (capitol city: Melbourne), shown here in orange, have been seeing a reemergence of COVID-19 cases and have recently implemented further public health measures to try to curb this increase.
+В Австралии и штате Виктория (столица: Мельбурн), показанных здесь оранжевым цветом, наблюдается повторное появление случаев COVID-19. Недавно были приняты дополнительные меры общественного здравоохранения, чтобы попытаться сдержать рост новых случаев.
 
-These most recent genomes all appear to be a subclade of clade 20B (scroll back to the previous slide to see how clade 20B fits into the entire phylogeny).
-The recent dates and clustering are signs of a local outbreak.
+Все эти недавние последовательности, по-видимому, являются субкладом клады 20B (прокрутите назад к предыдущему слайду, чтобы увидеть, как клад 20B вписывается во всю филогению).
+Недавние даты и кластеризация являются признаками локальной вспышки.
 
-We can see similar clustering in sequences from New South Wales, where cases have also increased recently.
+Мы можем видеть аналогичную кластеризацию в последовательностях из Нового Южного Уэльса, где в последнее время число случаев также увеличилось.
 
 
 <!-- ############ SLIDE BREAK ############# -->
