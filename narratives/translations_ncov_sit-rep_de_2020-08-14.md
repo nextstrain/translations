@@ -181,14 +181,14 @@ _Tipp: Wenn Sie mit der Maus ueber die Kreise auf der Karte gehen, dann sehen Si
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Resurgence in Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
+# [Wiederaufleben in Australien](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
 
-Australia, and the state of Victoria (capitol city: Melbourne), shown here in orange, have been seeing a reemergence of COVID-19 cases and have recently implemented further public health measures to try to curb this increase.
+In Australien und im Bundesstaat Victoria (Hauptstadt: Melbourne), die hier in Orange dargestellt sind, sind COVID-19-Fälle erneut aufgetreten, und kürzlich wurden weitere Maßnahmen im Bereich der öffentlichen Gesundheit ergriffen, um diesen Anstieg einzudämmen.
 
-These most recent genomes all appear to be a subclade of clade 20B (scroll back to the previous slide to see how clade 20B fits into the entire phylogeny).
-The recent dates and clustering are signs of a local outbreak.
+Die neusten Genome scheinen alle der Unterklade von Klade 20B zuzugehoeren (Scrollen Sie zurück zur vorherigen Folie, um zu sehen, wie Klade 20B in die gesamte Phylogenie passt).
+Die neusten Daten und Klusters sind Anzeichen fuer eine lokale Epidemie.
 
-We can see similar clustering in sequences from New South Wales, where cases have also increased recently.
+Aehnliche Klusters koenne in den Sequenzen aus New South Wales gesehen werden, wo die Fallzahlen auch neuerdings zugenommen haben.
 
 
 <!-- ############ SLIDE BREAK ############# -->
