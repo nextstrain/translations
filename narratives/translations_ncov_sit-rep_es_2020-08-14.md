@@ -15,15 +15,15 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
-translators: Roy Costilla
+translators: -Roy Costilla
 translatorLinks:
-- https://researchers.uq.edu.au/researcher/18392
+- https://researchers.uq.edu.au/researcher/18392/
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
 date: "14 de Agosto del 2020"
 abstract: "
-La pandemia se ha expandido en todo el mundo, con mas de [1.5 millones de casos nuevos cada semana](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports), un total de casos reportados de [18 millones](https://ourworldindata.org/covid-cases) y mas [600,000 fallecidos](https://ourworldindata.org/covid-deaths).
+La pandemia se ha expandido en todo el mundo, con mas de [1.5 millones de casos nuevos cada semana](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports), un total de casos reportados de [18 millones](https://ourworldindata.org/covid-cases) y mas de [600,000 fallecidos](https://ourworldindata.org/covid-deaths).
 \n\n
 ### La situación [fue resumida por la OMS el 2 de Agosto del 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
@@ -49,29 +49,29 @@ Each circle is centered on an individual country, the colour indicates region an
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- table of contents slide -->
-# [COVID-19 Summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [Resumen COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-### Table of contents
-* [Global clade distribution](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [D614G Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Situation in Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Situation in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Situation in Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Situation in South America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Situation in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Situation in North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Closing summary](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+### Tabla de contenidos
+* [Distribucion global de los clados](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
+* [Mutacion D614G en el gen Spike](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
+* [Situación en Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
+* [Situación en Oceanía](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
+* [Situación en Europa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
+* [Situación en Sudamérica](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
+* [Situación en África](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
+* [Situación en Norte América](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
+* [Resumen](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
+* [Creditos](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/)
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/)
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)
+#### Recursos Nextstrain
+* [EMPIEZA AQUÍ: Como leer filogenias/arboles filogenéticos](https://nextstrain.org/narratives/trees-background/)
+* [Reportes de la situación del COVID19 previos](https://nextstrain.org/ncov-sit-reps/)
+* [Información adicional de los virus corona](https://nextstrain.org/help/coronavirus/human-CoV)
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Executive Summary
+# Resumen Ejecutivo
 
 In this report, we analyzed publicly shared SARS-CoV-2 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally.
 
