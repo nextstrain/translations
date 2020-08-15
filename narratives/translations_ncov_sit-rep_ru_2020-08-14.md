@@ -71,27 +71,27 @@ abstract: "
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Executive Summary
+# Резюме
 
-In this report, we analyzed publicly shared SARS-CoV-2 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally.
+В данном отчете мы анализируем общественно-доступные геномы SARS-CoV-2. Путем сравнения этих вирусных геномов мы можем охарактеризовать передвижение COVID-19 по всему миру и его локальное распространение.
 
-- Asia has a higher proportion of 19A & 19B clades, with 20A, 20B & 20C clades dominating in Europe & North America.
+- Азия обладает большей пропорцией генетических линий 19A & 19B, в то время как линии 20A, 20B и 20C доминируют в Европе и Северной Америке.
 
-- Globally, we can clearly see the rise to prominence of the D614G substitution in the Spike protein. This variant is hypothesised to cause an increase in SARS-CoV-2 transmission.
+- Всемирно, мы отчетливо видим растущее значение мутации D614G в Спайковом белке. Этот вариант предположительно вызывает усиленную передачу SARS-CoV-2.
 
-- To better display real-time builds of the SARS-CoV-2 data around the world, we run 6 regional and 1 global build, which are updated every weekday.
+- Для того чтобы лучшим образом отобразить сборку данных о SARS-CoV-2 в реальном времени по всему миру, мы поддерживаем 6 региональных сборок и 1 глобальную, которые обновляются каждый рабочий день.
 
-- In Asia, there were numerous between-country transmissions in the region early in the pandemic. More recently, we see a move to within-country links, a trend we see in most regions.
+- В Азии, в самом начале пандемии наблюдалось множество передач между странами. В недавнее время, мы наблюдаем переход к цепям передачи внутри стран, -такая тенденция видна в большинстве регионов.
 
-- In Oceania, New Zealand's cases are contained in a narrow temporal band, corresponding to their elimination of the virus (until this week). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.
+- В Океании, случаи из Новой Зеландии ограничиваются узкой временной полосой, которая соответствует элиминации вируса в стране (вплоть до этой недели). Недавняя волна случаев в Австралии выглядит как близкий кластер случаев (по крайней мере на основании образцов доступных на данный момент), происходящих от разнообразия находящегося в циркуляции изначально.  
 
-- SARS-CoV-2 spread extremely quickly in Europe - the virus was likely being transmitted in many countries before they realised. This resulted in heavy mixing of European samples early in the pandemic, making it hard to distinguish and identfy introductions from one place to another. More recently, we can see more distinct variants associated with particular countries, as viruses have been constrained through travel restrictions.
+- SARS-CoV-2 распространился чрезвычайно быстро в Европе- вирус вероятно распространялся во многих странах до того, как они это осознали. Это привело к значительному перемешиванию европейских образцов на ранних этапах пандемии, затрудняя нашу способность различать и идентифицировать заносы из одного места в другое. В недавнее время, мы могли наблюдать более отличные варианты, связанные с конкретными странами, в связи с тем, что вирус был сдержан путем ограничений путешествий. 
 
-- Like other regions, South America had multiple introductions, covering most of the known diversity of SARS-CoV-2. After travel restrictions came into place, sequences begin clustering more noticeably. Unfortunately, despite severe ongoing epidemics in many countries, more recent sequences are not readily available.
+- Как и в других регионах, множество заносов произошло в Южную Америку, охватывая большую часть разнообразия SARS-CoV-2. После того, как были введены ограничения на путешествия, кластеризация образцов стала более заметной. К сожалению, несмотря на продолжающиеся серьезные эпидемии во многих странах, недавние последовательности не всегда доступны. 
 
-- Africa also had multiple, diverse introductions early in the pandemic. Subsequent travel restrictions seems to have limited mixing among African countries, with most sequences seeming to come from earlier circulating diversity in the same country.
+- В Африке тоже произошло множество разнородных заносов в начале пандемии. Последующие ограничения на путешествия судя по всему ограничили перемешивание между африканскими странами, с большинством последовательностей по-видимому происходящих от раннее циркулирующего разнообразия в тех же самых странах. 
 
-- A different picture is shown in the USA, where domestic travel has not been greatly restricted: we see mixing among all states, as well as local transmission. In Mexico & Central America, we see examples of geographical clustering in transmission, particularly between California (USA) & Baja California (Mexico).
+- Другая картина наблюдается в США, в которых домашние путешествия были значительно ограничены: мы видим как перемешивание между всеми штатами, так и местную передачу. В Мексике и Центральной Америке, мы видим примеры географической кластеризации передач, в частности между Калифорнией (США) и Нижней Калифорнией (Baja California, Мексика). 
 
 ```
 
