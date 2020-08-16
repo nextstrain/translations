@@ -256,23 +256,23 @@ _Подсказка: вы можете раскрыть легенду, щелк
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [SARS-CoV-2 in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+# [SARS-CoV-2 в Африке](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
 
-Like South America, Africa had several introductions of SARS-CoV-2 to the continent, many likely from Europe. This is shown by the spread of African samples across the tree - even samples from the same country include diverse variants.
+Как и в Южной Америке, в Африке было несколько внедрений SARS-CoV-2, многие из которых, вероятно, - из Европы. Об этом свидетельствует разброс африканских образцов по дереву: даже образцы из одной страны включают разные варианты.
 
-We now have sequences from countries across Africa throughout the epidemic, though sequencing efforts seem to have declined slightly more recently.
-South Africa has contributed a large proportion of the sequencing.
+Теперь у нас есть последовательности из стран Африки на протяжении всей эпидемии, хотя в последнее время усилия по секвенированию генетических последовательностей, похоже, немного снизились.
+Южная Африка внесла значительный вклад в секвенирование.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Clustering in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
+# [Кластеризация в Африке](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
 
-In the DRC, Senegal, and South Africa, we can see clear signs of local transmission, shown as clusters of sequences in the tree.
-From Senegal and South Africa, we also have samples collected more recently.
-These samples generally fall within the older diversity of the country, as we would expect from continued local transmission.
+В ДР Конго, Сенегале и Южной Африке мы видим явные признаки локальной передачи, представленные в виде кластеров последовательностей на дереве.
+Из Сенегала и Южной Африки у нас также есть образцы, собранные совсем недавно.
+В основном, эти образцы относятся к более старому разнообразию образцов в стране, как и следовало ожидать от продолжающейся местной передачи.
 
-Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere.
-This finding likely reflects the continued restrictions in movement globally.
+Хотя мы должны быть осторожны с выводами, поскольку они сильно ограничены выборкой образцов. Недавние образцы из Африки, которые мы получили, не подтверждают продолжения ввоза вариантов из других мест.
+Вероятно, этот вывод отражает сохраняющиеся ограничения на передвижения во всем мире.
 
 
 <!-- ############ SLIDE BREAK ############# -->
