@@ -16,8 +16,10 @@ authorLinks:
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
 translators:
+  - Erwin Sentausa
   - Iskandar Adnan
 translatorLinks:
+  - https://www.linkedin.com/in/sentausa
   - https://twitter.com/wikidisastra
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
@@ -118,19 +120,19 @@ Kini kami mengamati sebaran klad-klad ini di seluruh dunia (warna kini mewakili 
 Anda dapat melihat bahwa negara-negara di wilayah Asia memiliki proporsi 19A dan 19B yang lebih besar (biru) sebagai varian yang mendomonasi saat awal wabah.
 Eropa dan Amerika Utara memiliki campuran seluruh klad, namun didominasi 20B dan 20C (kuning dan jingga, berturut-turut).
 
-#### If you have SARS-CoV-2 sequences for which you'd like to know their clade (and estimated position on a phylogenetic tree), we made Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) which lets you drag-and-drop your FASTA files onto the browser.
+#### Jika anda memiliki sekuens SARS-CoV-2 yang ingin diketahui kladnya (dan perkiraan letaknya dalam pohon filogenetik), kami telah membuat Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) yang memungkinkan anda seret-dan-lepas berkas FASTA anda ke dalam penjelajah.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The well-publicized D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
+# [Mutasi 'Spike' D614G yang terpublikasi dengan baik](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
-The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
+Substitusi D614G pada gen yang menyandi protein 'Spike' (S) baru-baru ini telah diberitakan dan menimbulkan banyak spekulasi.
 
-Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
+Bukti-bukti menunjukkan bahwa varian G (kuning dalam tampilan ini) meningkatkan infektivitas SARS-CoV-2 _in vitro_ dan mungkin secara evolusioner terpilih untuk peningkatan penularan manusia ke manusia ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). Namun, peningkatan infektivitas dapat berpotensi untuk mengakibatkan si virus lebih rentan terhadap antibodi penetral ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
-Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
-In July the 614G variant was present in the majority of circulating viruses worldwide. Since its initial appearance, the substitution has arisen multiple times and also reverted back to the 614D variant.
-There is no evidence that these other substitutions and reversions have resulted in continued transmission chains.
+Di sini kita dapat melihat bahwa varian ini disimpulkan muncul segera setelah zoonosis awal dan kemudian menyebar ke seuruh dunia.
+Pada Juli, varian 614G terdapat pada mayoritas virus yang beredar sejagat. Sejak awal kemunculannya, substitusi telah muncul berkali-kali dan berreversi ke varian 614D.
+Tak ada bukti bahwa substitusi dan reversi ini telah menghasilkan rantai penularan yang sinambung.
 
 
 <!-- ############ SLIDE BREAK ############# -->
