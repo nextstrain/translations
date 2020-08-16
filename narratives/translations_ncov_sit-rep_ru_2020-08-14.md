@@ -238,21 +238,21 @@ _Подсказка: вы можете раскрыть легенду, щелк
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The early situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
+# [Ранняя ситуация в Южной Америке](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
 
-South America's first SARS-CoV-2 sequences are from late February and early March, and are scattered across the tree, suggesting multiple introductions. As international travel decreased in March, we can see evidence of sustained local transmission in several countries.
+Первые последовательности SARS-CoV-2 из Южной Америки относятся к концу февраля - началу марта и разбросаны по всему дереву, что говорит о множественных заносах. Поскольку в марте количество международных поездок сократилось, мы можем видеть доказательства устойчивой местной передачи в нескольких странах.
 
-Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence that this variant also moved around the continent to Chile, Uruguay, and Argentina.
+Многие бразильские (светло-зеленые) последовательности являются частью двух больших кластеров (около вершины дерева), с некоторыми свидетельствами того, что этот вариант также перемещался по континенту: в Чили, Уругвай и Аргентину.
 
-We can also see distinct clusters of transmission involving Colombia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree.
+Мы также можем видеть отдельные кластеры передачи, включающие Колумбию (оранжевый), Чили (бирюзовый), Уругвай (светло-синий) и Аргентину (темно-синий), разбросанные по дереву.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The more recent situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
+# [Недавняя ситуация в Южной Америке](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
 
-Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.
+К сожалению, хотя SARS-CoV-2 продолжает широко распространяться в Южной Америке, генерация последовательностей отстает. Хотя случаи заболевания остаются высокими на большей части континента, с мая было получено только 68 образцов из 5 стран (Бразилии, Эквадора, Уругвая, Аргентины и Чили).
 
-Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the varients circulating now are descendants of those introduced early in the epidemic.
+Хотя наши выводы ограничены редкой выборкой, во многих случаях эти недавние образцы вкладываются в более ранние варианты образцов, отобранных в той же стране или других странах Южной Америки. Это говорит о том, что циркулирующие сейчас варианты являются потомками тех, которые были ввезены в начале эпидемии.
 
 
 <!-- ############ SLIDE BREAK ############# -->
