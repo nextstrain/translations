@@ -86,13 +86,13 @@ Dalam laporan ini, kami menganalisis genom SARS-CoV-2 terbagi umum. Dengan memba
 
 - Di Oseania, kasus Selandia Baru tertangani dalam tempo yang singkat, berhubungan dengan pembasmian virusnya (hingga pekan ini). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.
 
-- SARS-CoV-2 spread extremely quickly in Europe - the virus was likely being transmitted in many countries before they realised. This resulted in heavy mixing of European samples early in the pandemic, making it hard to distinguish and identfy introductions from one place to another. More recently, we can see more distinct variants associated with particular countries, as viruses have been constrained through travel restrictions.
+- SARS-CoV-2 menyebar sangat cepat di Eropa - si virus sepertinya telah ditularkan di banyak negara sebelum disadari. Ini mengakibatkan percampuran berat sampel Eropa di awal pandemik, menjadikannya sulit untuk membedakan dan mengenali introduksi dari satu tempat ke tempat lain. Lebih baru-baru ini, kami dapat melihat varian yang berbeda yang berkaitan dengan negara tertentu, karena virus terkurung akibat pembatasan/pelarangan bepergian.
 
-- Like other regions, South America had multiple introductions, covering most of the known diversity of SARS-CoV-2. After travel restrictions came into place, sequences begin clustering more noticeably. Unfortunately, despite severe ongoing epidemics in many countries, more recent sequences are not readily available.
+- Sebagaimana wilayah lainnya, Amerika Selatan mengalami banyak introduksi, maliputi hampir semua keragaman SARS-CoV-2 yang diketahui. Setelah pembatasan bepergian, pengklasteran sekuens lebih terlihat. Sayangnya, kendati epidemik yang parah masih berlangsung di banyak negara, sekuens lebih baru belum tersedia.
 
-- Africa also had multiple, diverse introductions early in the pandemic. Subsequent travel restrictions seems to have limited mixing among African countries, with most sequences seeming to come from earlier circulating diversity in the same country.
+- Afrika juga mengalami introduksi yang banyak dan beragam di awal pandemik. Pembatasan bepergian kemudian membatasi percampuran antarnegara Afrika, dengan kebanyakan sekuens sepertinya berasal dari keragaman yang bersirkulasi lebih awal di negara yang sama.
 
-- A different picture is shown in the USA, where domestic travel has not been greatly restricted: we see mixing among all states, as well as local transmission. In Mexico & Central America, we see examples of geographical clustering in transmission, particularly between California (USA) & Baja California (Mexico).
+- Gambaran berbeda ditunjukkan di AS, di mana perjalanan domestik tidak banyak dibatasi: kami melihat percampuran di sluruh negara bagian, begitu pula penularan lokal. Di Meksiko & Amerika Tengah, kami melihat contoh pengklasteran geografis dalam penularan, khususnya antara Kalifornia (AS) & Baha Kalifornia (Meksiko).
 
 ```
 
