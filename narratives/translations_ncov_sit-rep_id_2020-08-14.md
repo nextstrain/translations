@@ -50,18 +50,18 @@ Tiap lingkaran berpusat pada negara masing-masing, warna menandakan wilayah, dan
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- table of contents slide -->
-# [Rangkuman COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [Ringkasan COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
 ### Daftar isi
 * [Penyebaran klad global](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [Mutasi Duri D614G](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
+* [Mutasi 'Spike' D614G](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
 * [Keadaan di Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
 * [Keadaan di Oseania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
 * [Keadaan di Eropa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
 * [Keadaan di Amerika Selatan](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
 * [Keadaan di Afrika](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
 * [Keadaan di Amerika Utara](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Rangkuman penutup](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
+* [Ringkasan penutup](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
 * [Kredit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
 
 #### Sumber Daya Nextstrain
@@ -72,19 +72,19 @@ Tiap lingkaran berpusat pada negara masing-masing, warna menandakan wilayah, dan
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Executive Summary
+# Ringkasan Eksekutif
 
-In this report, we analyzed publicly shared SARS-CoV-2 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally.
+Dalam laporan ini, kami menganalisis genom SARS-CoV-2 terbagi umum. Dengan membandingkan genom-genom virus ini, kami dapat mengkarakterisasi bagaimana COVID-19 bergerak ke seluruh dunia dan menyebar secara lokal.
 
-- Asia has a higher proportion of 19A & 19B clades, with 20A, 20B & 20C clades dominating in Europe & North America.
+- Asia memiliki proporsi klad 19A & 19B lebih tinggi, sedangkan klad 20A, 20B & 20C mendominasi Eropa & Amerika Utara.
 
-- Globally, we can clearly see the rise to prominence of the D614G substitution in the Spike protein. This variant is hypothesised to cause an increase in SARS-CoV-2 transmission.
+- Secara global, kami dapat secara jernih melihat bangkitnya keunggulan substitusi D614G dalam protein 'spike'. Varian ini dihipotesiskan menjadi penyebab peningkatan penularan SARS-CoV-2.
 
-- To better display real-time builds of the SARS-CoV-2 data around the world, we run 6 regional and 1 global build, which are updated every weekday.
+- Untuk menampilkan lebih baik bangun 'real-time' data SARS-CoV-2 di seluruh dunia, kami menjalankan 6 bangun regional dan 1 bangun global, yang dimutakhirkan setiap pekan.
 
-- In Asia, there were numerous between-country transmissions in the region early in the pandemic. More recently, we see a move to within-country links, a trend we see in most regions.
+- Di Asia, terdapat banyak penularan antar-negara di wilayah yang terpapar awal dalam pandemik. Yang lebih baru, kami melihat pergerakan ke dalam-negeri, suatu tren yang terlihat di kebanyakan wilayah.
 
-- In Oceania, New Zealand's cases are contained in a narrow temporal band, corresponding to their elimination of the virus (until this week). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.
+- Di Oseania, kasus Selandia Baru tertangani dalam tempo yang singkat, berhubungan dengan pembasmian virusnya (hingga pekan ini). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.
 
 - SARS-CoV-2 spread extremely quickly in Europe - the virus was likely being transmitted in many countries before they realised. This resulted in heavy mixing of European samples early in the pandemic, making it hard to distinguish and identfy introductions from one place to another. More recently, we can see more distinct variants associated with particular countries, as viruses have been constrained through travel restrictions.
 
