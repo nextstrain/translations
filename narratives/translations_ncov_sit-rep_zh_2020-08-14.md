@@ -16,28 +16,30 @@ authorLinks:
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
 translators:
+  - 李雪莹
 translatorLinks:
+  - https://xueyingcli.weebly.com/
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
 date: "2020 August 14"
 abstract: "
-The pandemic is currently widespread around the world, with over [1.5 million new cases each week](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) and total reported cases of [18 million](https://ourworldindata.org/covid-cases) and over [600,000 fatailities](https://ourworldindata.org/covid-deaths).
+新冠疫情现已遍及世界各地，[每周新增病例数达一百五十万](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)， 全球累计确诊病例数已达到[一千八百万](https://ourworldindata.org/covid-cases) ，死亡病例数超过[600000例](https://ourworldindata.org/covid-deaths)。
 \n\n
-### The situation [is summarised by the WHO on August 2, 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
+### 世界卫生组织在[2020年8月2日的状况报告中总结道](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
-### **\"As countries have eased public health and social measures, implemented to limit transmission of the virus, a number of these countries have observed clusters or resurgences of cases. Risks and vulnerabilities are further magnified in fragile, low-resource and conflict-affected settings.\"**
+### **\"随着各国放松了用于限制病毒传播的公共卫生和社会防疫措施，很多国家观察到了一些聚集性病例，甚至是病例数的重新上升。在较脆弱、资源贫瘠和存在战争冲突的地区，感染风险和易感程度更严重。在As countries have eased public health and social measures, implemented to limit transmission of the virus, a number of these countries have observed clusters or resurgences of cases. Risks and vulnerabilities are further magnified in fragile, low-resource and conflict-affected settings.\"**
 \n\n
-### The worldwide sequencing of the SARS-CoV-2 genome has continued unabated, and with this data we use Nextstrain to track the geographic movement and evolution of the virus.
-To date, there are over 75,000 sequences publicly shared from half the countries in the world - an amazing testament to the scientists and public health officials behind this.
+### 对新冠病毒基因组的测序在世界范围内仍在继续，有了这些数据，我们用Nextstrain来追踪病毒在地理上的传播和病毒的演化。The worldwide sequencing of the SARS-CoV-2 genome has continued unabated, and with this data we use Nextstrain to track the geographic movement and evolution of the virus.
+目前，我们获得了超过75000条公开共享的序列，来自世界上一半的国家——这对于背后的科学家和公共卫生官员是一个出色的证明。To date, there are over 75,000 sequences publicly shared from half the countries in the world - an amazing testament to the scientists and public health officials behind this.
 \n\n
-### We use subsampling approaches to remove potential sampling biases in order to ensure that regions and time-periods are appropriately included for analysis.
-(This also helps for the computational requirements.)
+### 我们用子抽样（subsampling）的方法来消除可能存在的抽样偏差的影响，来确保所分析的地区和时间区间是合理的。We use subsampling approaches to remove potential sampling biases in order to ensure that regions and time-periods are appropriately included for analysis.
+（这也有助于满足计算上的要求。）(This also helps for the computational requirements.)
 \n\n
-### Here you can see the geographical distribution of ~4300 genomes.
-Each circle is centered on an individual country, the colour indicates region and the radius scales with the number of genomes from that country ([see here for help interpreting the map in Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
+### 这里，您可以看到约4300条基因组的地理分布。Here you can see the geographical distribution of ~4300 genomes.
+每个国家的中心都有一个圆圈，颜色表明所处地区，半径与该国家的序列数成正比。Each circle is centered on an individual country, the colour indicates region and the radius scales with the number of genomes from that country ([点击此处查看如何解读Nextstrain上的地图](https://nextstrain.org/docs/visualisation/map-interpretation)).
 \n\n
-### In this report, we examine the global genomic epidemiology of COVID-19 broadly and provide specific updates for each world region.
+### 在本篇报告中，我们研究全球新冠疫情的基因组流行病学的整体趋势，然后对每个地区的最新情况提供具体的报告。In this report, we examine the global genomic epidemiology of COVID-19 broadly and provide specific updates for each world region.
 "
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
