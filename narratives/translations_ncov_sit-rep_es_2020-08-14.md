@@ -159,14 +159,13 @@ Especially pronounced in this view are those transmissions from Europe to Asia (
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Asia situation after June 1](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
+# [Situación en Asia despues del 1ro de Junio](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
 
-Looking at the genomes sampled after June 1 (i.e. in the past 2 months), we see that the sampling is dominated by fewer countries.
-This limits the conclusions we can draw, but it appears that we may have fewer transmissions between countries.
+Al observar los genomas disponibles después del 1ro de Junio (en los últimos dos meses), vemos que las muestras son mayormente de ciertos países. Aunque esto limita las conclusiones que podemos obtener, al parecer existen pocas transmisiones entre países.
 
-This is also evident looking at the phylogeny, where we have large monophyletic (in the same part of the tree) groupings of genomes from Singapore (yellow) and Bangladesh (light green).
+Nuestra ultima afirmación se basa en la filogenia del virus, donde se observan grupos monofilético grandes (en la misma parte del árbol) de genomas de Singapur (en amarillo) y Bangladesh (verde claro). 
 
-These data are consistent with less recent international travel and stricter control measures.
+Estos datos son consistentes con mayores restricciones a los viajes internacionales y controles fronterizos mas estrictos.
 
 
 <!-- ############ SLIDE BREAK ############# -->
