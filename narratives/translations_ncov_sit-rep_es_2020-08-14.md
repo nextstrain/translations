@@ -97,15 +97,15 @@ En este repote, analizamos genomas de SARS-CoV-2 compartidos públicamente. Al c
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Worldwide distribution of genetic variants](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
+# [Distribución Mundial de Variantes Genéticas](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
-Since its emergence in late 2019, SARS-CoV-2 has diversified into several different co-circulating variants. To facilitate discussion of these variants, we have grouped them into clades which are defined by specific signature mutations.
+Desde su surgimiento a fines de 2019, el SARS-CoV-2 se ha diversificado en varias y distintas variantes co-circulantes. Para facilitar la discusión de estas variantes las hemos agrupada en clados que son definidos por mutaciones distintivas.
 
-We currently define 5 major clades (see [this blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) for details):
+Actualmente definimos 5 clados (ver [este post del blog](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) para detalles):
 
-* 19A and 19B emerged in Wuhan and dominated the early outbreak.
-* 20A emerged out of 19A, dominated the European outbreak in March, and has since spread globally.
-* 20B and 20C are large, genetically distinct subclades of 20A.
+* 19A y 19B emergieron en Wuhan y dominaron el brote inicial.
+* 20A emergió de 19A, dominó el brote europeo de Marzo y se ha expandido desde entonces globalmente.
+* 20B y 20C son grandes y genéticamente distintos Subclados de 20A.
 
 
 <svg viewBox="0 0 120 80">
@@ -113,11 +113,11 @@ We currently define 5 major clades (see [this blog post](https://nextstrain.org/
 </svg>
 
 
-We're now looking at the distribution of these clades across the world (the color now represents clade membership).
-You can see that countries in the Asia region have a higher proportion of 19A and 19B (blues) as that variant dominated in the early outbreak.
-Europe and North America have a mixture of all clades, but are dominated by 20B and 20C (yellow and orange, respectively).
+Estamos ahora observando a la distribución de estos clados a lo largo del Mundo (el color ahora ahora representa el clado de pertenencia).
+Se puede observar que los países de la región Asiática tienen una mayor proporción de 19A y 19B (azules), ya que esa variante dominó el brote inicial.
+Europa y América del Norte tienen una mezcla de todos los clados, per se encuentran dominados por 20B y 20C (amarillo y naranja, respectivamente).
 
-#### If you have SARS-CoV-2 sequences for which you'd like to know their clade (and estimated position on a phylogenetic tree), we made Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) which lets you drag-and-drop your FASTA files onto the browser.
+#### Si tienes secuencias de las cuales quieras conocer sus clados (y su posición estimada en el árbol filogénico), hicimos Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) que te permite arrastrar-y-soltar tus archivos FASTA directamente en el navegador.
 
 
 <!-- ############ SLIDE BREAK ############# -->
