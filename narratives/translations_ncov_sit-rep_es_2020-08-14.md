@@ -15,7 +15,7 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
-translators: -Roy Costilla
+translators: -Roy Costilla, Claudio S. Fuente
 translatorLinks:
 - https://researchers.uq.edu.au/researcher/18392/
 license: "CC-BY"
@@ -117,19 +117,19 @@ Estamos ahora observando a la distribución de estos clados a lo largo del Mundo
 Se puede observar que los países de la región Asiática tienen una mayor proporción de 19A y 19B (azules), ya que esa variante dominó el brote inicial.
 Europa y América del Norte tienen una mezcla de todos los clados, per se encuentran dominados por 20B y 20C (amarillo y naranja, respectivamente).
 
-#### Si tienes secuencias de las cuales quieras conocer sus clados (y su posición estimada en el árbol filogénico), hicimos Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) que te permite arrastrar-y-soltar tus archivos FASTA directamente en el navegador.
+#### Si tienes secuencias de las cuales quieras conocer sus clados (y su posición estimada en el árbol filogénético), hicimos Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) que te permite arrastrar-y-soltar tus archivos FASTA directamente en el navegador.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The well-publicized D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
+# [La bien publicitada Proteína Spike D614G](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
-The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
+La substitución D614G en el código genético de la Proteína Spike (S) ha estado en las noticias recientemente y ha sido tema de mucha especulación.
 
-Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
+La evidencia que se está desarrolando muestra que la variante G (amarillo en esta vista) incrementa la infectividad del SARS-CoV-2 _in vitro_ y puede que haya sido evolutivamente seleccionada para un incremento en la transmisión Humano-a-Humano ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). Sin embargo, un increment en la infectividad, puede que venga potencialmente al costo de hacer al virus mas vulnerable para los anticuerpos neutralizantes. ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
-Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
-In July the 614G variant was present in the majority of circulating viruses worldwide. Since its initial appearance, the substitution has arisen multiple times and also reverted back to the 614D variant.
-There is no evidence that these other substitutions and reversions have resulted in continued transmission chains.
+Aquí podemos ver que esta variante fue inferida de haber aparecido poco después de la zoonosis inicial y subsecuentemente se esparció alrededor del mundo.
+En Julio la variante 614G se encontraba presente en la mayoría de los virus circulantes alrededor del mundo. Desde su aparición inicial, la sustitución ha surgido en múltiples ocasiones y también se ha revertido hacia la variante 614D.
+No hay evidencia de que esas otras sustituciones y reversiones hayan resultado en cadenas de transmisión contínuas.
 
 
 <!-- ############ SLIDE BREAK ############# -->
