@@ -162,12 +162,12 @@ Terutama yang disebutkan dalam tampilan ini adalah penularan dari Eropa ke Asia 
 <!-- ############ SLIDE BREAK ############# -->
 # [Keadaan Asia setelah 1 Juni](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
 
-Looking at the genomes sampled after June 1 (i.e. in the past 2 months), we see that the sampling is dominated by fewer countries.
-This limits the conclusions we can draw, but it appears that we may have fewer transmissions between countries.
+Mengamati genom yang tersampel setelah 1 Juni (yaitu dua bulan terakhir), kita melihat bahwa penyampelan didominasi oleh lebih sedikit negara.
+Ini membatasi kesimpulan yang bisa kita tarik, namun sepertinya kita memiliki penularan antarnegara yang lebih sedikit.
 
-This is also evident looking at the phylogeny, where we have large monophyletic (in the same part of the tree) groupings of genomes from Singapore (yellow) and Bangladesh (light green).
+Ini juga terbukti saat kita mengamati filogeninya, di mana kita memiliki pengelompokan genom monofiletik (di bagian pohon yang sama) besar dari Singapura (kuning) dan Bangladesh (biru muda).
 
-These data are consistent with less recent international travel and stricter control measures.
+Data ini konsisten dengan berkurangnya perjalanan internasional dan pengaturan yang lebih ketat.
 
 
 <!-- ############ SLIDE BREAK ############# -->
