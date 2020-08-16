@@ -79,7 +79,7 @@ abstract: "
 
 - Всемирно, мы отчетливо видим растущее значение мутации D614G в Спайковом белке. Этот вариант предположительно вызывает усиленную передачу SARS-CoV-2.
 
-- Для того чтобы лучшим образом отобразить сборку данных о SARS-CoV-2 в реальном времени по всему миру, мы поддерживаем 6 региональных сборок и 1 глобальную, которые обновляются каждый рабочий день.
+- Для того чтобы лучшим образом отобразить набор данных о SARS-CoV-2 со всего мира в реальном времени, мы поддерживаем 6 региональных блоков данных и 1 глобальный блок, которые обновляются каждый рабочий день.
 
 - В Азии, в самом начале пандемии наблюдалось множество передач между странами. В недавнее время, мы наблюдаем переход к цепям передачи внутри стран, -такая тенденция видна в большинстве регионов.
 
@@ -91,7 +91,7 @@ abstract: "
 
 - В Африке тоже произошло множество разнородных заносов в начале пандемии. Последующие ограничения на путешествия, судя по всему, ограничили перемешивание между африканскими странами, с большинством последовательностей, по-видимому, происходящих от раннее циркулирующего разнообразия в тех же самых странах. 
 
-- Другая картина наблюдается в США, где внутренние перемещения не были значительно ограничены: мы видим как перемешивание между всеми штатами, так и местную передачу. В Мексике и Центральной Америке, мы видим примеры географической кластеризации передач, в частности между Калифорнией (США) и Нижней Калифорнией (Baja California, Мексика). 
+- Другая картина наблюдается в США, где внутренние перемещения не были значительно ограничены: мы видим как перемешивание между всеми штатами, так и местную передачу. В Мексике и Центральной Америке, мы видим примеры географического группирования передач, в частности между штатом Калифорния (США) и Нижней Калифорнией (Baja California, Мексика). 
 
 ```
 
@@ -295,20 +295,20 @@ This finding likely reflects the continued restrictions in movement globally.
 
 В Мексике, мы также видим явное географическое группирование передач на протяжении мая месяца. В отсутствие более недавних данных секвенирования, мы не можем сделать предсказания об эпидемии в более поздние месяцы.  
 
-В центре дерева находится группа случаев из Нижней Калифорнии (Baja California), отмеченная синим цветом. Эти случаи наверняка были импортированы из штата Калифорнии, США в марте (зеленые ветви на дереве). Предсказанное здесь импортирование согласуется с известными путешествиями между этими соседними местностями, хотя стоит быть осторожным в интерпретации этих предсказанных передач в связи со скудностью данных секвенирования.  
+В центре дерева находится группа случаев из Нижней Калифорнии (Baja California), отмеченная синим цветом. Эти случаи наверняка были импортированы из штата Калифорния, США в марте (зеленые ветви на дереве). Предсказанное здесь импортирование согласуется с известными путешествиями между этими соседними местностями, хотя стоит быть осторожным в интерпретации этих предсказанных передач в связи со скудностью данных секвенирования.  
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Closing summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [Заключительные выводы](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-As the pandemic reaches its eighth month of global circulation, we can now see distinct changes over time in the picture painted by viral genetics, largely determined by changing behaviour.
+По мере того, как пандемия приближается к 8-ми месяцам своей международной циркуляции, теперь мы можем видеть явные изменения происходящие на протяжении времени на большой картине, которую нам рисует вирусная генетика, что в большой степени обусловлено изменяющимся человеческим поведением. 
 
-Multiple early transmissions to the USA, Oceania, Europe, and across Asia, were initially incredibly well-mixed, as our global travel patterns distributed the virus incredibly effectively. Soon afterwards, diverse introductions to South America and Africa, often from Europe and North America, seeded local epidemics there.
+Многочисленные ранние заносы в США, Океанию, Европу и по всей Азии были первоначально чрезвычайно перемешаны, поскольку наши глобальные схемы путешествий разнесли вирус с невероятной эффективностью. Вскоре после этого, разнородные привнесения в Южную Америку и Африку, чаще всего из Европы и Северной Америки, начали местные эпидемии и там.
 
-As the scale of the viral spread and severity of COVID-19 became apparent, travel ground to a halt in much of the world. After this point, we can see a distinct shift to local transmission during 'lockdowns' and the most severe travel restrictions. One outcome of this is that we can now sometimes better identify the source for viruses, as local epidemics have in some cases become more genetically distinct. In the USA, the absence of strict domestic travel has helped maintain well-mixed epidemics between states.
+По мере того как масштаб распространения вируса и тяжесть COVID-19 стали очевидными, путешествия были приостановлены в большинстве частей мира. С этого момента, мы можем видеть отчетливый сдвиг в сторону местной передачи во время карантина и в случаях более строгих ограничений на передвижение. В итоге этого, мы теперь можем с большей легкостью определить источники вируса, поскольку в некоторых случаях эпидемии стали более генетически отличными друг от друга. В США, отсутствие строгих ограничений домашних путешествий способствовало поддержанию хорошо перемешанных эпидемий между штатами.   
 
-Borders are now re-opening and travel has resumed, though not nearly to pre-pandemic levels. This, combined with the lag time from when samples are taken to when they are available publicly, means we only see a few signs of between-country mixing. In general, recent samples tend to continue to cluster with past sequences from the same country, indicating continued transmission of previously circulating variants. 
+Границы открываются и путешествия возобновились, хоть и не до-пандемических масштабов. Этот факт, в сочетании с задержкой между временем сбора образцов и временем, когда данные становятся общественно доступными, означает, что мы можем видеть только ограниченные признаки перемешивания между странами. В целом, недавние образцы продолжают группироваться с прежними последовательностями из тех же стран, что означает продолжающуюся передачу ранее циркулирующих вариантов.    
 
-Unfortunately, many countries have seen a rise in cases in the last few weeks, usually associated with reopening. As the Northern Hemisphere prepares to move into autumn and colder weather, further reopening, and school resuming, we must remain vigilant about rising case counts. As winter progresses in the Southern Hemisphere, we see worrying signs that seasonality could indeed lead to more trouble containing transmission - Australia's initial success with the virus has been dampened by recent outbreaks. Continuing to scale up Test, Trace, and Isolate, careful hand-hygiene, and conscientious mask-wearing can help keep our societies as open as possible while we continue to battle SARS-CoV-2.
+К сожалению, многие страны наблюдали увеличение в количестве случаев в последние несколько недель, обычно связанное с выходом из карантина. По мере того как Северное полушарие готовится к приходу осени и более холодной погоды, дальнейшему возобновлению работы и началу школы, мы обязаны оставаться настороже по отношению к растущему количеству случаев. По мере продвижения зимы в Южном полушарии, мы видим тревожные признаки того, что сезонность может и вправду привести к большим трудностям в сдерживании передач - первоначальный успех Австралии в ограничении вируса был омрачен недавними вспышками. Продолжающееся наращивание Тестирования, Отслеживания, и Изоляции, тщательное мытье рук и ответственное ношение масок может помочь в поддержании нашего общества открытым, на сколько это возможно, по мере того как мы продолжаем бороться с SARS-CoV-2.  
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Scientific credit](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
