@@ -98,15 +98,15 @@ Dalam laporan ini, kami menganalisis genom SARS-CoV-2 terbagi umum. Dengan memba
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Worldwide distribution of genetic variants](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
+# [Sebaran sejagat varian genetik](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
-Since its emergence in late 2019, SARS-CoV-2 has diversified into several different co-circulating variants. To facilitate discussion of these variants, we have grouped them into clades which are defined by specific signature mutations.
+Sejak kemunculannya pada akhir 2019, SARS-CoV-2 telah terpecah menjadi beberapa varian yang beredar bersamaan. Untuk mewadahi diskusi varian ini, kami telah mengelompokkannya ke dalam klad-klad yang ditentukan oleh mutasi penciri spesifik.
 
-We currently define 5 major clades (see [this blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) for details):
+Saat ini kami menentukan 5 klad mayor (lihat [this blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) untuk lebih rinci):
 
-* 19A and 19B emerged in Wuhan and dominated the early outbreak.
-* 20A emerged out of 19A, dominated the European outbreak in March, and has since spread globally.
-* 20B and 20C are large, genetically distinct subclades of 20A.
+* 19A dan 19B muncul di Wuhan dan mendominasi di awal wabah.
+* 20A muncul dari 19A, mendominasi wabah Eropa bulan Maret, dan kemudian menyebar secara global.
+* 20B dan 20C adalah subklad dari 20A yang secara genetik berbeda.
 
 
 <svg viewBox="0 0 120 80">
@@ -114,9 +114,9 @@ We currently define 5 major clades (see [this blog post](https://nextstrain.org/
 </svg>
 
 
-We're now looking at the distribution of these clades across the world (the color now represents clade membership).
-You can see that countries in the Asia region have a higher proportion of 19A and 19B (blues) as that variant dominated in the early outbreak.
-Europe and North America have a mixture of all clades, but are dominated by 20B and 20C (yellow and orange, respectively).
+Kini kami mengamati sebaran klad-klad ini di seluruh dunia (warna kini mewakili keanggotaan klad).
+Anda dapat melihat bahwa negara-negara di wilayah Asia memiliki proporsi 19A dan 19B yang lebih besar (biru) sebagai varian yang mendomonasi saat awal wabah.
+Eropa dan Amerika Utara memiliki campuran seluruh klad, namun didominasi 20B dan 20C (kuning dan jingga, berturut-turut).
 
 #### If you have SARS-CoV-2 sequences for which you'd like to know their clade (and estimated position on a phylogenetic tree), we made Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) which lets you drag-and-drop your FASTA files onto the browser.
 
