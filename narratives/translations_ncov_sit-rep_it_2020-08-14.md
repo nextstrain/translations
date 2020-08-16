@@ -16,7 +16,9 @@ authorLinks:
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
 translators:
+-Alice Ledda
 translatorLinks:
+-@alice_ledda_
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
@@ -98,13 +100,18 @@ In this report, we analyzed publicly shared SARS-CoV-2 genomes. By comparing the
 <!-- ############ SLIDE BREAK ############# -->
 # [Worldwide distribution of genetic variants](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
-Since its emergence in late 2019, SARS-CoV-2 has diversified into several different co-circulating variants. To facilitate discussion of these variants, we have grouped them into clades which are defined by specific signature mutations.
+<!--Since its emergence in late 2019, SARS-CoV-2 has diversified into several different co-circulating variants. To facilitate discussion of these variants, we have grouped them into clades which are defined by specific signature mutations.-->
+Da quando SARS-CoV-2 e' emerso, alla fine del 2019, si e' diversificato in molte varianti che circolano insieme. Per facilitare la discussione di queste varianti le abbiamo raggruppate in rami che sono identificati da specifiche mutazioni caratteristiche.
 
-We currently define 5 major clades (see [this blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) for details):
+<!--We currently define 5 major clades (see [this blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) for details):-->
+Al momento abbiamo identificato 5 rami piu' importanti:
 
-* 19A and 19B emerged in Wuhan and dominated the early outbreak.
+<!--* 19A and 19B emerged in Wuhan and dominated the early outbreak.
 * 20A emerged out of 19A, dominated the European outbreak in March, and has since spread globally.
-* 20B and 20C are large, genetically distinct subclades of 20A.
+* 20B and 20C are large, genetically distinct subclades of 20A.-->
+* 19A e 19B che sono emersi a Wuhan e domoniato all'inizio dell'epidemia.
+* 20A che e' emerso dal 19A, ha dominato l'epidemia Europea in Marzo e da allora si e' diffuso globalmente.
+* 20B e 20C che sono sotto-rami di 20A geneticamente distinti.
 
 
 <svg viewBox="0 0 120 80">
@@ -112,23 +119,33 @@ We currently define 5 major clades (see [this blog post](https://nextstrain.org/
 </svg>
 
 
-We're now looking at the distribution of these clades across the world (the color now represents clade membership).
+<!--We're now looking at the distribution of these clades across the world (the color now represents clade membership).
 You can see that countries in the Asia region have a higher proportion of 19A and 19B (blues) as that variant dominated in the early outbreak.
-Europe and North America have a mixture of all clades, but are dominated by 20B and 20C (yellow and orange, respectively).
+Europe and North America have a mixture of all clades, but are dominated by 20B and 20C (yellow and orange, respectively).-->
+Analizziamo la distribuzione di questi rami nel mondo (il colore ora rappresenta l'appartenenza a un ramo specifico).
+Si puo' vedere che i Paesi asiatici hanno una maggiore proporzione di rami 19A e 19B (blu) dato che questa variante ha dominato all'inizio dell'epidemia.
+L'Europa e il Nord America hanno una mistura di tutti i rami, ma sono dominati dal 20B e 20C (rispettivamente giallo e arancione).
 
 #### If you have SARS-CoV-2 sequences for which you'd like to know their clade (and estimated position on a phylogenetic tree), we made Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) which lets you drag-and-drop your FASTA files onto the browser.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The well-publicized D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
+<!--# [The well-publicized D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)-->
+# [La ben nota mutazione D614G nella proteina Spike](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
-The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
 
-Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
+<!--The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.-->
+La sostituzione D614G nel gene che codifica per la proteina Spike (S) e' stato riportato dalla stampa recertemente e oggetto di molte speculazioni.
 
-Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
+<!--Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).-->
+
+Stanno aumentando le evidenze che la variante G (in giallo in questa visualizzazione) aumenti l'infettivita' di SARS-CoV-2 _in vitro_ e che possa essere stato selezionato evolutivamente perche' aumenta la trasmissibilita' tra umani ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). D'altro canto questo aumento in infettivita' potrebbe potenzialmente arrivare al costo di rendere il virus piu' vulnerabile agli anticorpi neutralizzanti ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
+
+<!--Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
 In July the 614G variant was present in the majority of circulating viruses worldwide. Since its initial appearance, the substitution has arisen multiple times and also reverted back to the 614D variant.
-There is no evidence that these other substitutions and reversions have resulted in continued transmission chains.
+There is no evidence that these other substitutions and reversions have resulted in continued transmission chains.-->
+Qui possiamo vedere che questa variante sembra essere apparsa molto presto dopo la zoonosi iniziale ed essersi successivamente diffusa nel mondo.
+In Luglio la variante 614G era presente nella maggior parte dei visrus che circolavano nel mondo. A partire dalla sua apparizione iniziale, questa sostituzione e' apparsa multiple volte ma spesso e' anche ritornata alla variante iniziale 614D.
 
 
 <!-- ############ SLIDE BREAK ############# -->
