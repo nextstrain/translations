@@ -136,14 +136,14 @@ Tak ada bukti bahwa substitusi dan reversi ini telah menghasilkan rantai penular
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Analysing regional builds independently](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
+# [Menganalisis bentukan regional terpisah](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
 
-As there are too many genomes to show in a single tree, we provide a regional analysis for each of the 6 regions shown here, in addition to our main 'global' build.
-This allows us to focus on the diversity within each region, while choosing appropriate out-of-region samples, so we can maintain an overview of all of the between-region transmissions over time - as we can see on this slide!
+Berhubung terdapat terlalu banyak genom untuk ditampilkan dalam pohon tunggal, kami menyediakan analisis regional untuk enam wilayah yang ditampilkan di sini, di samping bentukan 'global' utama.
+Ini memungkinkan kira untuk fokus pada keragaman dalam wilayah, sementara memilih sampel di luar wilayah yang tepat, sehingga kami dapat menjaga gambaran seluruh penularan antarwilayah sepanjang waktu - sebagaimana dapat kita lihat pada layar ini!
 
-In the next slides we're going to provide an overview of each of those regions by switching to the corresponding dataset. (This is a new feature in Nextstrain Narratives!)
+Pada layar berikutnya kami akan menyediakan gambaran masing-masing wilayah tersebut dengan berpindah ke dataset terkait. (Ini fitur baru dalam Nextstrain Narratives!)
 
-A full inventory of builds maintained by us and others is available at [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
+Inventaris lengkap bangunan yang kami dan pihak lain kelola tersedia di [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Keadaan Asia pra-Juni](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
