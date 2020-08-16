@@ -15,7 +15,7 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
-translators: -Roy Costilla, Claudio S. Fuente
+translators: Roy Costilla, Claudio S. Fuente
 translatorLinks:
 - https://researchers.uq.edu.au/researcher/18392/
 license: "CC-BY"
@@ -143,23 +143,19 @@ En las siguientes secciones vamos a proveer un panorama de cada una de esas regi
 Un inventario completo de las versiones mantenidas por nosotros y otros se encuentra disponible en [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
+# [Situación en Asia antes de Junio](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
 
-If we examine the situation in Asia from genomes collected before June 2020, we see signs of both extensive within-Asia transmission as well as transmissions to and from other regions of the world.
+Al examinar la situación en Asia usando los genomas muestreados antes de Junio del 2020, observamos amplia evidencia de transmisión dentro de Asia así como de transmisión desde otras partes del mundo.
 
-#### Interpreting the lines and colors
+#### Interpretando las líneas y los colores 
+Aquí solo países asiáticos han sido coloreados, y las otras regiones del mundo se muestran en gris. El color de cada línea de transmisión (líneas entre los círculos) representa el lugar de origen, de manera que todas las **líneas de color** representan transmisiones originadas dentro de país asiático (en este ejemplo).
 
-Here only countries in Asia have been colored, with the other regions represented by shades of grey.
-The color of each transmission line (lines between circles) represents the origin location, so all of the **colored** lines represent transmissions originating from a country within Asia (in this example).
-
-#### Transmissions into Asia
-
-This shows that many of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
-Especially pronounced in this view are those transmissions from Europe to Asia (though the lines seem to come from Germany, this point represents all of Europe). However, we must be cautious about how we interpret these inferred transmissions, as sampling biases can play a large role (and we have many more samples from Europe than anywhere else).
+#### Transmisiones hacia Asia 
+Esto muestra que muchas de las transmisiones hacia países asiáticos y no asiáticos fueron importadas (líneas en gris). Las transmisiones desde Europa a Asia son particularmente prominentes (aunque el grafico muestran líneas desde Alemania, este punto representa toda Europa). Sin embargo, es importante interpretar esta conclusión con cautela pues podría ser causada por sesgos en el muestreo (mayoría de muestras disponibles son de Europa).  
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Situación en Asia despues del 1ro de Junio](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
+# [Situación en Asia después del 1ro de Junio](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
 
 Al observar los genomas disponibles después del 1ro de Junio (en los últimos dos meses), vemos que las muestras son mayormente de ciertos países. Aunque esto limita las conclusiones que podemos obtener, al parecer existen pocas transmisiones entre países.
 
