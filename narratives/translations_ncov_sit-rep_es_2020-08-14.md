@@ -165,19 +165,18 @@ Estos datos son consistentes con mayores restricciones a los viajes internaciona
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Oceania overview](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
+# [Resumen de Oceanía](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
 
-Here we can explore ~790 genomes from Australia and New Zealand with an extra ~1100 sequences to provide global context.
-Only samples from Australia and New Zealand are colored.
+Aquí exploramos cerca de ~790 genomas de Australia y Nueva Zelandia, junto con ~1100 secuencias de todo el mundo como contexto. 
+Solo muestras de Australia y Nueva Zelandia se muestran en colores.
 
-You can see that these samples are spread throughout the tree, indicating that Oceania has been exposed to (most of) the observed genomic diversity of SARS-CoV-2.
+Vemos que estas muestras están repartidas en todo el árbol filogenéticos, lo que indica que Oceanía ha estado expuesta a casi toda la diversidad genómica del SARS-CoV-2.
 
-The majority of New Zealand's samples (blues, purples, greens) come from a tight temporal band covering March and April, which is due to the successful control strategy employed by the New Zealand government. While the country is back to relative normality, the borders are still closed to all non-citizens to limit the chances for the virus to re-enter the country. Returning citizens must quarantine for 14 days before entering the country.
+La mayor parte de las muestras de Nueva Zelandia (en azul, morado, y verde) provienen de una banda temporal definida entre Marzo y Abril, gracias a la exitosa estrategia de control del gobierno. Mientras el país ha regresado a una normalidad relativa, las fronteras permanecen cerradas para todos los que no son ciudadanos, lo que limita las posibilidades de que el virus re-ingrese al país. Los ciudadanos que regresan al país son puestos en una cuarentena obligatoria de 14 días.
 
-This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls -- more below!
+Esta semana, el gobierno anuncio cuatro nuevos casos de transmisión comunitaria, aparentemente no relacionados con ninguno de los ciudadanos retornados. El secuenciamiento genómico podría proporcionar claves para saber como el SARS-CoV-2 supero los estrictos controles fronterizos (ver mas abajo!).
 
-_HINT: if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!_
-
+_DATO: si desplazas el cursor sobre los círculos en el mapa, las terminaciones relevantes del árbol se observan resaltadas.
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Resurgence in Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
