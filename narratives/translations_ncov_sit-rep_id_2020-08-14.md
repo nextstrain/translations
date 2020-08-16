@@ -1,5 +1,5 @@
 ---
-title: August 2020 update of COVID-19 genomic epidemiology
+title: Pemutakhiran Agustus 2020 mengenai epidemiologi genomik COVID-19
 authors:
   - James Hadfield
   - Cassia Wagner
@@ -50,21 +50,21 @@ Tiap lingkaran berpusat pada negara masing-masing, warna menandakan wilayah, dan
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- table of contents slide -->
-# [COVID-19 Summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [Rangkuman COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-### Table of contents
-* [Global clade distribution](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [D614G Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Situation in Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Situation in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Situation in Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Situation in South America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Situation in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Situation in North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Closing summary](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+### Daftar isi
+* [Penyebaran klad global](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
+* [Mutasi Duri D614G](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
+* [Keadaan di Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
+* [Keadaan di Oseania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
+* [Keadaan di Eropa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
+* [Keadaan di Amerika Selatan](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
+* [Keadaan di Afrika](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
+* [Keadaan di Amerika Utara](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
+* [Rangkuman penutup](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
+* [Kredit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
 
-#### Nextstrain Resources
+#### Sumber Daya Nextstrain
 * [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/)
 * [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/)
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)
