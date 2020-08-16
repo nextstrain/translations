@@ -77,7 +77,7 @@ En este repote, analizamos genomas de SARS-CoV-2 compartidos públicamente. Al c
 
 - Asia tiene una proporción mas alta de los clados 19A y 19B, con los clados 20A, 20B y 20C dominando en Europa y América del Norte.
 
-- Globalmente, podemos ver de forma clara el crecimiento hacia la prominencia de la sustitución D614G en la proteína Pico. Esta variante es hipotéticamente la responsable de un incremento en la transmisión del SARS-CoV-2.
+- Globalmente, podemos ver de forma clara el crecimiento hacia la prominencia de la sustitución D614G en la Proteína Spike. Esta variante es hipotéticamente la responsable de un incremento en la transmisión del SARS-CoV-2.
 
 - Para exhibir mejor versiones en tiempo real del SARS-CoV-2 alrededor del mundo, mantenemos 6 versiones regionales y 1 global, que son actualizadas cada día hábil de la semana.
 
@@ -133,14 +133,14 @@ No hay evidencia de que esas otras sustituciones y reversiones hayan resultado e
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Analysing regional builds independently](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
+# [Analizando Versiones Regionales independientemente](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
 
-As there are too many genomes to show in a single tree, we provide a regional analysis for each of the 6 regions shown here, in addition to our main 'global' build.
-This allows us to focus on the diversity within each region, while choosing appropriate out-of-region samples, so we can maintain an overview of all of the between-region transmissions over time - as we can see on this slide!
+Al haber demasiados genomas para mostrar en un único árbol, proveemos un análisis regional para cada una de las 6 regiones mostradas aquí, además de nuestra versión global. 
+Esto nos permite enfocarnos en la diversidad dentro de cada región, al tiempo que elegimos muestras adecuadas fuera de esa región, para poder mantener un panorama de todas las transmisiones entre-regiones a lo largo del tiempo - ¡como podemos ver en esta sección!
 
-In the next slides we're going to provide an overview of each of those regions by switching to the corresponding dataset. (This is a new feature in Nextstrain Narratives!)
+En las siguientes secciones vamos a proveer un panorama de cada una de esas regiones al cambiar entre la correspondiente base de datos. (¡Esta es una nueva característica de las Narrativas de Nextstrain!)
 
-A full inventory of builds maintained by us and others is available at [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
+Un inventario completo de las versiones mantenidas por nosotros y otros se encuentra disponible en [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
