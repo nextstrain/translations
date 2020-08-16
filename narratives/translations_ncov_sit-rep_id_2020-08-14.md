@@ -16,7 +16,9 @@ authorLinks:
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
 translators:
+  - Iskandar Adnan
 translatorLinks:
+  - https://twitter.com/wikidisastra
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
@@ -142,23 +144,23 @@ In the next slides we're going to provide an overview of each of those regions b
 A full inventory of builds maintained by us and others is available at [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
+# [Keadaan Asia pra-Juni](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
 
-If we examine the situation in Asia from genomes collected before June 2020, we see signs of both extensive within-Asia transmission as well as transmissions to and from other regions of the world.
+Jika kita menguji keadaan Asia dari genom yang terkumpul sebelum Juni 2020, kita melihat tanda sekaligus penularan luas dalam-Asia dan penularan ke dan dari belahan dunia lain.
 
-#### Interpreting the lines and colors
+#### Menafsirkan garis dan warna
 
-Here only countries in Asia have been colored, with the other regions represented by shades of grey.
-The color of each transmission line (lines between circles) represents the origin location, so all of the **colored** lines represent transmissions originating from a country within Asia (in this example).
+Di sini hanya negara-negara Asia yang diwarnai, sedangkan wilayah lainnya dikelabukan.
+Warna tiap garis penularan (garis antarlingkaran) mewakili tempat asal, oleh karena itu seluruh garis **berwarna** mewakili penularan yang berasal dari suatu negara dalam Asia (dalam contoh ini).
 
-#### Transmissions into Asia
+#### Penularan ke Asia
 
-This shows that many of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
-Especially pronounced in this view are those transmissions from Europe to Asia (though the lines seem to come from Germany, this point represents all of Europe). However, we must be cautious about how we interpret these inferred transmissions, as sampling biases can play a large role (and we have many more samples from Europe than anywhere else).
+Ini menampilkan bahwa banyak dari penularan yang melibatkan negara Asia dan non-Asia merupakan importasi ke Asia (garis kelabu).
+Terutama yang disebutkan dalam tampilan ini adalah penularan dari Eropa ke Asia (meskipun garis-garisnya kalihatan seperti datang dari Jerman, titik ini mewakili seluruh Eropa). Namun, kita harus hati-hati mengenai magaimana penafsiran kita terkadap kesimpulan penularan ini, karena pengaruh besar bias penyampelan (dan kita memiliki sampel dari Eropa jauh lebih banyak daripada wilayah lain).
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Asia situation after June 1](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
+# [Keadaan Asia setelah 1 Juni](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
 
 Looking at the genomes sampled after June 1 (i.e. in the past 2 months), we see that the sampling is dominated by fewer countries.
 This limits the conclusions we can draw, but it appears that we may have fewer transmissions between countries.
