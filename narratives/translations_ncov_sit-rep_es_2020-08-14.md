@@ -200,13 +200,13 @@ This lineage originated in Europe, but has since been observed in multiple regio
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Early situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
+# [Situación temprana en Europa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
-SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.
+SARS-CoV-2 se esparció rapidamente por Europa, probable y principalmente a través de transmisiones directo desde Asia.
 
-By the end of February, even though there were just [a few hundred cases](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) officially reported in Europe, the virus had spread to at least 15 European countries.
+Para finales de Febrero, y aunque sólo habían [unos pocos cientos de casos](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) reportados oficialmente en Europa, el virus se había esparcido a por lo menos 15 países europeos.
 
-Given that sampling was less common in the early days of the pandemic, SARS-CoV-2 was almost certainly already circulating across must of Europe, including in countries for which we don't have samples.
+Dado que el muestreo era menos común en los primeros días de la pandemia, el SARS-CoV-2 se encontraba ya casi con seguridad circulando a lo ancho de Europa, incluyendo países de los cuales no tenemos muestras.
 
 
 <!-- ############ SLIDE BREAK ############# -->
