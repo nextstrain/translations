@@ -229,14 +229,13 @@ _Dica: você pode expandir a legenda clicando em 'País' no canto superior esque
 <!-- ############ SLIDE BREAK ############# -->
 # [O sequenciamento europeu recente destaca a transmissão local e enriquece a compreensão da disseminação do SARS-CoV-2 prévia](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
 
-Examinar apenas as amostras enviadas na semana passada destaca dois pontos importantes.
+Examinando apenas as amostras enviadas na semana passada destaca dois pontos importantes.
 
-Em primeiro lugar, podemos ver uma tendência de agrupamento de pontas em mini-clusters. Isso indica que a transmissão dentro do país continua a dominar - provavelmente um produto de vários regulamentos introduzidos em toda a Europa. O vírus continuou a se diversificar geneticamente durante o bloqueio, mas era mais provável que estivesse confinado a um país, o que significa que agora podemos distinguir melhor as "variantes" locais das de outros países.
+Em primeiro lugar, podemos ver uma tendência de agrupamento dos novos genomas em mini-clusters. Isso indica que a transmissão dentro do país continua a dominar - provavelmente um produto de várias ações adotadas em toda a Europa. O vírus continuou a se diversificar geneticamente durante o bloqueio, mas era mais provável que estivesse confinado a um país, o que significa que agora podemos distinguir melhor as "variantes" locais das de outros países.
 
-Algumas amostras não seguem essa tendência de vinculação a outras amostras do mesmo país. Passar o mouse sobre um país na legenda destaca dicas na árvore desse país e ajudará a identificar essas amostras. Por exemplo, no meio da árvore, podemos ver algumas amostras suecas (verdes) aninhadas dentro de um agrupamento russo maior (vermelho).
-Dada a subamostragem pesada, precisamos permanecer cautelosos para não interpretar transmissões putativas entre países a partir dessa visão.
+Algumas amostras não seguem essa tendência de agrupamento com outras amostras do mesmo país. Passando o mouse sobre um país na legenda você verá em destaque as amostras do país na árvore, e ajudará a identificar essas amostras. Por exemplo, no meio da árvore, podemos ver algumas amostras suecas (verdes) aninhadas dentro de um agrupamento russo maior (vermelho). Dada a grande subamostragem, precisamos permanecer cautelosos para não interpretar transmissões putativas entre países a partir dessa visão.
 
-Em segundo lugar, nós podemos ver que as pontas possuem uma grande diferença no espaçamento horizontal -- por exemplo, as amostras enviadas na semana anterior representam uma janela de tempo de coleta de amostra que se estende até o início de março.
+Em segundo lugar, nós podemos ver que as pontas possuem uma grande diferença no espaçamento horizontal -- por exemplo, as amostras enviadas na semana anterior representam um espaço de tempo de coleta de amostras que vem desde o início de março.
 As razões para o sequenciamento de genomas "antigos" variam, mas essas amostras nos ajudam a preencher nossa compreensão da evolução e do movimento geográfico viral.
 
 
