@@ -251,12 +251,12 @@ We can also see distinct clusters of transmission involving Colombia (orange), C
 Nós também podemos ver diversos agrupamentos representando cadeias de transmissão na Colômbia (laranja), Chile (turquesa), Uruguai (azul mais claro) espalhados por toda a árvore. 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The more recent situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
+# [A situação mais recente na América do Sul
+](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
 
-Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.
+Infelizmente, enquanto o vírus SARS-CoV-2 continua a se espalhar amplamente pela América do Sul, a geração de sequências não acompanhou. Embora o número de casos siga alto por todo o continente, apenas 68 amostras de 5 países (Brasil, Equador, Uruguai, Argentina e Chile) foram sequenciadas desde Maio.
 
-Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the varients circulating now are descendants of those introduced early in the epidemic.
-
+Embora nossas inferências estejam limitadas pela baixa amostragem, em muitos casos as amostras mais recentes estão agrupadas entre a diversidade viral amostrada naqueles países, ou em outros países da América do Sul. Isso sugere que os variantes virais circulando agora são descendentes daqueles introduzidos no início da epidemia local.
 
 <!-- ############ SLIDE BREAK ############# -->
 # [SARS-CoV-2 in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
