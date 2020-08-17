@@ -54,16 +54,16 @@ abstract: "
 # [Обзор по COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
 ### Содержание
-* [Всемирное распространение генетических вариантов](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [Мутация D614G в Спайковом белке](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Ситуация в Азии](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Ситуация в Океании](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Ситуация в Европе](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Ситуация в Южной Америке](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Ситуация в Африке](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Ситуация в Северной Америке](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Заключительные выводы](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Благодарности](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+* [Всемирное распространение генетических вариантов](https://nextstrain.org/narratives/ncov/sit-rep/ru/2020-08-14?n=2)
+* [Мутация D614G в Спайковом белке](https://nextstrain.org/narratives/ncov/sit-rep/ru/2020-08-14?n=3)
+* [Ситуация в Азии](https://nextstrain.org/narratives/ncov/sit-rep/ru/2020-08-14?n=5)
+* [Ситуация в Океании](https://nextstrain.org/narratives/ncov/sit-rep/ru/2020-08-14?n=7)
+* [Ситуация в Европе](https://nextstrain.org/narratives/ncov/sit-rep/ru/2020-08-14?n=10)
+* [Ситуация в Южной Америке](https://nextstrain.org/narratives/ncov/sit-rep/ru/2020-08-14?n=13)
+* [Ситуация в Африке](https://nextstrain.org/narratives/ncov/sit-rep/ru/2020-08-14?n=15)
+* [Ситуация в Северной Америке](https://nextstrain.org/narratives/ncov/sit-rep/ru/2020-08-14?n=17)
+* [Заключительные выводы](https://nextstrain.org/narratives/ncov/sit-rep/ru/2020-08-14?n=19)
+* [Благодарности](https://nextstrain.org/narratives/ncov/sit-rep/ru/2020-08-14?n=20)
 
 #### Ресурсы Nextstrain
 * [НАЧНИТЕ ЗДЕСЬ: Как читать филогенетические деревья](https://nextstrain.org/narratives/trees-background/ru)
