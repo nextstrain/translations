@@ -233,7 +233,7 @@ Einige Proben folgen nicht diesem Muster. Fährt man über ein Land in der Legen
 Aufgrund von starkem Subsampling sollte man trotzdem vorsichtig mit Interpretationen bezüglich potenzieller Übertragungen zwischen einzelnen Ländern sein.
 
 Zweitens sehen wir, dass die Baumspitzen grosse Unterschiede in den horizontalen Abbständen aufweisen -- z.B. sind die Proben, die letzte Woche hochgeladen worden sind eine Probensammlung, die bis Anfang März zurückreicht.
-Die Gründe für das Sequenzieren von "alten" Proben sind sehr vielfältig, aber diese Proben helfen uns die Virusentwicklung und geographische Ausbreitung besser zu verstehen.
+Die Gründe für das Sequenzieren von "alten" Proben sind vielfältig, aber diese Proben helfen uns die Virusentwicklung und geographische Ausbreitung besser zu verstehen.
 
 
 <!-- ############ SLIDE BREAK ############# -->
