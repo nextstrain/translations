@@ -173,24 +173,24 @@ Data ini konsisten dengan berkurangnya perjalanan internasional dan pengaturan y
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Oceania overview](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
+# [Ikhtisar Oseania](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
 
-Here we can explore ~790 genomes from Australia and New Zealand with an extra ~1100 sequences to provide global context.
-Only samples from Australia and New Zealand are colored.
+Di sini kita dapat menjelajahi ~790 genom dari Australia dan Selandia Baru dengan tambahan ~1100 sekuens untuk menyediakan konteks global.
+Hanya sampel dari Australia dan Selandia Baru yang diwarnai.
 
-You can see that these samples are spread throughout the tree, indicating that Oceania has been exposed to (most of) the observed genomic diversity of SARS-CoV-2.
+Anda dapat melihat bahwa sampel-sampel ini tersebar di seluruh pohon, menandakan bahwa Oseania telah terpapar ke (kebanyakan) keragaman genomik SARS-CoV-2 yang teramati.
 
-The majority of New Zealand's samples (blues, purples, greens) come from a tight temporal band covering March and April, which is due to the successful control strategy employed by the New Zealand government. While the country is back to relative normality, the borders are still closed to all non-citizens to limit the chances for the virus to re-enter the country. Returning citizens must quarantine for 14 days before entering the country.
+Mayoritas sampel Selandia Baru (biru, ungu, hijau) datang dari kelompok temporal ketat pada Maret dan April, sebagai hasil dari strategi pengendalian yang berhasil dilakukan oleh pemerintah Selandia Baru. Sementara negara ini kembali ke kehidupan yang relatif normal, perbatasan masih tertutup untuk seluruh warga negara asing untuk membatasi kemungkinan masuknya kembali si virus. Warga negara yang kembali harus dikarantina selama 14 hari sebelum masuk.
 
-This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls -- more below!
+Pekan ini, pemerintah Selandia Baru mengumumkan empat kasus baru penularan komunitas yang tidak dapat dihubungkan dengan kasus yang datang. Pemeriksaan genetik diharapkan bisa membantu menyingkap bagaimana SARS-CoV-2 menerobos pengendalian yang ketat -- lebih lanjut di bawah!
 
-_HINT: if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!_
+_PETUNJUK: jika mengarahkan tetikus di atas lingkaran pada peta, anda dapat melihat kiat yang relevan pada pohon yang disorot!_
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Resurgence in Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
+# [Kebangkitan di Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
 
-Australia, and the state of Victoria (capitol city: Melbourne), shown here in orange, have been seeing a reemergence of COVID-19 cases and have recently implemented further public health measures to try to curb this increase.
+Australia, dan negara bagian Victoria (ibukota: Melbourne), ditunjukkan dengan warna jingga, have been seeing a reemergence of COVID-19 cases and have recently implemented further public health measures to try to curb this increase.
 
 These most recent genomes all appear to be a subclade of clade 20B (scroll back to the previous slide to see how clade 20B fits into the entire phylogeny).
 The recent dates and clustering are signs of a local outbreak.
