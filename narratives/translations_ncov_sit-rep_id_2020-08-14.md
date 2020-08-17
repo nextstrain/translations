@@ -219,15 +219,15 @@ Mengingat bahwa penyampelan hanya sedikit dilakukan pada masa awal pandemik, SAR
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Lockdown in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
+# [Penguncian di Eropa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
 
-Through March and April much of Europe closed their borders, and many imposed differing types of 'lockdown' where movement was restricted and businesses and schools closed. We expect that these restrictions decreased between-country transmission, making it more likely that we see sequences from any given country 'cluster' with previous sequences from that country.
+Sepanjang Maret dan April banyak negara Eropa menutup perbatasannya, dan banyak yang menerapkan beragam tipe 'penguncian' yang membatasi pergerakan dan menutup sekolah dan usaha. Kita berharap pembatasan ini menurunkan penularan antarnegara, sehingga kita akan melihat sekuens dari suatu negara akan seklaster dengan sekuens sebelumnya dari negara tersebut.
 
-However, SARS-CoV-2 was already so mixed across Europe that different variants of the virus were circulating across multiple countries. Most countries had numerous distinct variants circulating before lockdown that were related to the viruses circulating in other countries. This means the phylogenetic picture remains well-mixed even after borders closed (shown by multiple colors near each other on the tree).
+Namun, SARS-CoV-2 telah sangat bercampur di seantero Eropa sehingga varian yang berbeda dari si virus telah beredar melintasi banyak negara. Kebanyakan negara memiliki varian berbeda beredar sebelum penguncian yang berhubungan dengan virus yang beredar di negara lain. Ini artinya gambar filogenetik tetap tercampur bahkan setelah perbatasan ditutup (ditunjukkan dengan berbagai warna yang berdekatan satu sama lain dalam pohon).
 
-However, we can see some signs of the local transmission that we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange (about 1/3 from the top), while Spain (dark blue) shows distinct local transmission at the bottom and top of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.
+Namun demikian, kita dapat melihat beberapa tanda penularan lokal seperti yang kita duga. Di sini, Finlandia dan Swedia memiliki klaster penularan yang sangat berbeda berwarna hijau dan jingga (sekitar 1/3 dari atas), sementara Spanyol (biru tua) menunjukkan penularan lokal berbeda di bawah dan atas pohon. Islandia (ungu) dan Switzerland (biru muda) juga menunjukkan klaster penularan lokal.
 
-_Hint: You can expand the legend by clicking 'Country' at the top-left of the tree!_
+_Petunjuk: Anda dapat memperbesar Keterangan dengan mengklik 'Country' pada kiri atas pohon!_
 
 
 <!-- ############ SLIDE BREAK ############# -->
