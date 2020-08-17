@@ -260,7 +260,7 @@ Embora nossas inferências estejam limitadas pela baixa amostragem, em muitos ca
 <!-- ############ SLIDE BREAK ############# -->
 # [SARS-CoV-2 na África](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
 
-Como a América do Sul, a África teve várias introduções do SARS-CoV-2 no continente, muitos provavelmente provenientes da Europa. Isso é demonstrado pela disseminação de amostras africanas pela árvore - até mesmo amostras de um mesmo país incluem diversas variantes.
+Como a América do Sul, a África teve várias introduções do SARS-CoV-2 no continente, muitos provavelmente provenientes da Europa. Isso é demonstrado pelo espalhamento das amostras africanas pela árvore - até mesmo amostras de um mesmo país incluem diversos variantes virais.
 
 Agora temos sequências de países da África durante a epidemia, embora os esforços de sequenciamento pareçam ter diminuído um pouco mais recentemente.
 A África do Sul contribuiu com uma grande proporção do sequenciamento.
@@ -269,12 +269,11 @@ A África do Sul contribuiu com uma grande proporção do sequenciamento.
 <!-- ############ SLIDE BREAK ############# -->
 # [Agrupamento na África](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
 
-Na RDC, Senegal e África do Sul, podemos ver sinais claros de transmissão local, mostrados como agrupamentos de sequências na árvore.
+Na República Democrática do Congo, Senegal e África do Sul, podemos ver sinais claros de transmissão local, mostrados como agrupamentos de sequências na árvore.
 Do Senegal e da África do Sul, também temos amostras coletadas mais recentemente.
 Essas amostras geralmente se enquadram na diversidade mais antiga do país, como seria de se esperar de uma transmissão local contínua.
 
-Embora devamos ser cautelosos com nossas conclusões, uma vez que são muito limitadas por uma amostragem altamente tendenciosa, as amostras recentes da África que temos não sugerem a importação contínua de variantes de outros lugares.
-Este achado provavelmente reflete as contínuas restrições ao movimento globalmente.
+Embora devamos ser cautelosos com nossas conclusões, uma vez que são muito limitadas por uma amostragem altamente tendenciosa, as amostras recentes da África que temos não sugerem a importação contínua de variantes de outros lugares. Este achado provavelmente reflete as contínuas restrições ao movimento globalmente.
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -282,7 +281,7 @@ Este achado provavelmente reflete as contínuas restrições ao movimento global
 
 Aqui, mostramos genomas da epidemia nos Estados Unidos de 15 de abril até os dias atuais. Em meados de abril, todos os estados dos EUA estavam em quarentena. [Os estados implementaram políticas diferentes de reabertura](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
 
-Nesta árvore, assim como nas árvores de outras regiões, vemos exemplos de transmissão local de vírus, conforme mostrado por pontas da árvore de cores semelhantes agrupadas ao longo do tempo. Se você clicar em "Explore os dados por conta própria" e filtrar o local para o condado de Yakima, poderá ver um exemplo claro da introdução e do crescimento de vírus geneticamente relacionados nesta região do estado de Washington. (Você também pode [clique aqui](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) fazer isso, mas irá sair da narrativa.)
+Nesta árvore, assim como nas árvores de outras regiões, vemos exemplos de transmissão local de vírus, conforme mostrado por pontas da árvore de cores semelhantes agrupadas ao longo do tempo. Se você clicar em "Explore os dados por conta própria" e filtrar o local para o condado de Yakima, poderá ver um exemplo claro da introdução e do crescimento de vírus geneticamente relacionados nesta região do estado de Washington. (Você também pode [clicar aqui](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) para fazer isso, mas sairá desta página.)
 
 No entanto, na árvore, também vemos transmissão dentro do país através dos EUA, conforme mostrado pela mistura de cores nas pontas das árvores. No mapa, a transmissão dentro do país parece linhas de transmissão que se estendem entre estados. Essas observações são consistentes com poucas restrições a viagens domésticas e políticas de reabertura dos estados.
 
@@ -292,7 +291,7 @@ No entanto, na árvore, também vemos transmissão dentro do país através dos 
 
 O sequenciamento da América Central foi limitado, especialmente nos últimos dois meses, o que restringe as inferências que podemos fazer sobre a epidemia. A partir dos genomas que foram compartilhados, vemos o agrupamento geográfico de genomas SARS-CoV-2.
 
-Na parte inferior da árvore no clado 19B, vemos um cluster de transmissão no Panamá começando em meados de fevereiro. Várias sequências posteriores no Panamá de junho e julho se aninham com este agrupamento, sugerindo que há transmissão local contínua desse genótipo do vírus no país.
+Na parte inferior da árvore no clado 19B, vemos um cluster de transmissão no Panamá começando em meados de fevereiro. Várias sequências posteriores no Panamá de junho e julho se aninham neste agrupamento, sugerindo que há transmissão local contínua desse genótipo do vírus no país.
 
 No México, também vemos um claro agrupamento geográfico de transmissão até maio. Sem um sequenciamento mais recente, não podemos fazer inferências sobre a epidemia nos meses posteriores.
 
@@ -304,13 +303,13 @@ No centro da árvore, há um agrupamento de casos na Baja California (em azul cl
 
 À medida que a pandemia atinge seu oitavo mês de circulação global, agora podemos ver mudanças distintas ao longo do tempo no quadro pintado pela genética viral, amplamente determinado pela mudança de comportamento.
 
-Várias transmissões iniciais para os EUA, Oceania, Europa e em toda a Ásia foram inicialmente muito bem misturadas, pois nossos padrões de viagens globais distribuíram o vírus de forma incrivelmente eficaz. Logo depois, diversas introduções à América do Sul e África, muitas vezes da Europa e América do Norte, semearam epidemias locais lá.
+Várias transmissões iniciais para os EUA, Oceania, Europa e em toda a Ásia foram inicialmente muito bem misturadas, pois nossos padrões de viagens globais distribuíram o vírus de forma incrivelmente eficaz. Logo depois, diversas introduções à América do Sul e África, muitas vezes da Europa e América do Norte, semearam epidemias locais por lá.
 
-À medida que a escala da propagação viral e a gravidade do COVID-19 se tornavam aparentes, as viagens pararam em grande parte do mundo. Após este ponto, podemos ver uma mudança distinta para a transmissão local durante as 'quarentenas' e as restrições de viagem mais severas. Um resultado disso é que às vezes podemos identificar melhor a origem dos vírus, pois as epidemias locais em alguns casos se tornaram mais distintas geneticamente. Nos EUA, a ausência de viagens domésticas restritas ajudou a manter epidemias bem misturadas entre os estados.
+À medida que a escala da propagação viral e a gravidade do COVID-19 se tornavam aparentes, as viagens pararam em grande parte do mundo. Após este ponto, podemos ver uma mudança distinta para a transmissão local durante as 'quarentenas' e as restrições de viagem mais severas. Um resultado disso é que às vezes podemos identificar melhor a origem dos vírus, pois as epidemias locais em alguns casos se tornaram mais distintas geneticamente. Nos EUA, a ausência de restrições de viagens domésticas ajudou a manter epidemias bem misturadas entre os estados.
 
 As fronteiras agora estão reabrindo e as viagens foram retomadas, embora não quase aos níveis anteriores à pandemia. Isso, combinado com o intervalo de tempo desde o momento em que as amostras são coletadas até quando elas são disponibilizadas publicamente, significa que vemos apenas alguns sinais de mistura entre os países. Em geral, as amostras recentes tendem a continuar a se agrupar com sequências anteriores do mesmo país, indicando a transmissão contínua de variantes circulantes anteriores.
 
-Infelizmente, muitos países viram um aumento no número de casos nas últimas semanas, geralmente associado à reabertura. Enquanto o hemisfério norte se prepara para entrar no outono e um clima mais frio, reabrindo ainda mais e retomando as aulas, devemos permanecer vigilantes quanto ao aumento da contagem de casos. À medida que o inverno avança no hemisfério sul, vemos sinais preocupantes de que a sazonalidade pode realmente levar a mais problemas de contenção da transmissão - o sucesso inicial da Austrália com o vírus foi atenuado por surtos recentes. Continuando a aumentar o Testar, Rastrear e Isolar, a higiene cuidadosa das mãos e o uso cuidadoso de máscaras podem ajudar a manter nossas sociedades o mais abertas possível, enquanto continuamos a lutar contra a SARS-CoV-2.
+Infelizmente, muitos países viram um aumento no número de casos nas últimas semanas, geralmente associado à reabertura. Enquanto o hemisfério norte se prepara para entrar no outono, um clima mais frio, reabrindo ainda mais e retomando as aulas, devemos permanecer vigilantes quanto ao aumento da contagem de casos. À medida que o inverno avança no hemisfério sul, vemos sinais preocupantes de que a sazonalidade pode realmente levar a mais problemas de contenção da transmissão - o sucesso inicial da Austrália com o vírus foi atenuado por surtos recentes. Se continuarmos a intensificar a estratégia de "Testagem, Rastreamento e Isolamento de casos", bem como a higiene cuidadosa das mãos, e o uso de máscaras, poderemos ajudar a manter nossas sociedades o mais abertas possível, enquanto continuamos a lutar contra o SARS-CoV-2.
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Crédito científico](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
@@ -318,6 +317,6 @@ Infelizmente, muitos países viram um aumento no número de casos nas últimas s
 Gostaríamos de reconhecer o trabalho incrível e oportuno realizado por todos os cientistas envolvidos neste surto.
 Somente por meio do rápido compartilhamento de dados genômicos e metadados é que análises como essas são possíveis.
 
-**Incentivamos você a clicar em 'Explore os dados você mesmo' e role para baixo para obter uma lista completa de autores; o autor de cada sequência individual está disponível selecionando-o na árvore.**
+**Incentivamos você a clicar em 'Explore os dados você mesmo' (canto superior direito), e rolar para baixo para obter uma lista completa de autores; informações sobre os autores de cada sequência individual estão disponíveis na árvore.**
 
 Também reconhecemos com gratidão a GISAID por fornecer a plataforma por meio da qual esses dados podem ser carregados e compartilhados.
