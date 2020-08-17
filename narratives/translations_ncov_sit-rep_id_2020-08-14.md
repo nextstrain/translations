@@ -190,12 +190,12 @@ _PETUNJUK: jika mengarahkan tetikus di atas lingkaran pada peta, anda dapat meli
 <!-- ############ SLIDE BREAK ############# -->
 # [Kebangkitan di Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
 
-Australia, dan negara bagian Victoria (ibukota: Melbourne), ditunjukkan dengan warna jingga, have been seeing a reemergence of COVID-19 cases and have recently implemented further public health measures to try to curb this increase.
+Australia, dan negara bagian Victoria (ibukota: Melbourne), ditunjukkan dengan warna jingga, telah menyaksikan kemunculan kembali kasus COVID-19 dan baru-baru ini telah menerapkan tindakan kesehatan masyarakat lebih jauh untuk berusaha mengatasi peningkatan ini.
 
-These most recent genomes all appear to be a subclade of clade 20B (scroll back to the previous slide to see how clade 20B fits into the entire phylogeny).
-The recent dates and clustering are signs of a local outbreak.
+Genom terbaru ini tampaknya merupakan subklad dari 20B (kembali ke layar sebelumnya untuk melihat bagaimana klad 20B cocok dengan filogeni keseluruhan).
+Tanggal dan pengklasteran baru ini merupakan tanda dari wabah lokal.
 
-We can see similar clustering in sequences from New South Wales, where cases have also increased recently.
+Kita dapat melihat pengklasteran serupa pada sekuens dari New South Wales yang juga mengalami peningkatan kasus baru-baru ini.
 
 
 <!-- ############ SLIDE BREAK ############# -->
