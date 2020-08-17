@@ -17,14 +17,16 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
 translators:
   - Marta Niedzicka
+  - Anna Fijarczyk
 translatorLinks:
   - https://www.researchgate.net/profile/Marta_Niedzicka
+  - https://twitter.com/afijarczyk
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
 date: "2020 August 14"
 abstract: "
-Pandemia jest obecnie szeroko rozpowszechniona na całym świecie, z ponad [1.5 miliona nowych zachorowań każdego tygodnia](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports),  [18 milionów](https://ourworldindata.org/covid-cases) wszystkich zgłoszonych zakażeń i ponad [600,000 przypadków śmiertelnych](https://ourworldindata.org/covid-deaths).
+Pandemia jest obecnie szeroko rozpowszechniona na całym świecie, z ponad [1.5 miliona nowych zachorowań każdego tygodnia](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports), [18 milionów](https://ourworldindata.org/covid-cases) wszystkich zgłoszonych zakażeń i ponad [600,000 przypadków śmiertelnych](https://ourworldindata.org/covid-deaths).
 \n\n
 ### Sytuacja [została podsumowana przez WHO 2 sierpnia 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
@@ -36,11 +38,12 @@ Do tej pory udostępniono publicznie ponad 75 tysięcy sekwencji z połowy kraj�
 ### Stosujemy metody dodatkowego próbkowania, żeby usunąć potencjalny błąd próbkowania, aby upewnić się, że regiony i okresy czasowe są odpowiednio uwzględnione w analizie.
 (To również ułatwia przeprowadzenie obliczeń)
 \n\n
-### Tutaj możesz zobaczyć rozmieszczenie koło ~4300 genomów.
+### Tutaj możesz zobaczyć rozmieszczenie około ~4300 genomów.
 Każde kółko jest umieszczone w centrum danego kraju, kolor wskazuje na region a promień skaluje się z liczbą genomów z danego kraju ([więcej informacji mogących pomóc w interpretacji map Nexstrainu znajdziesz tutaj](https://nextstrain.org/docs/visualisation/map-interpretation)).
 \n\n
-### W tym reporcie badamy globalną epidemiologię genomową COVID-19 i podajemy szczegółowe aktualizacje dla każdego regionu świata.
+### W tym raporcie badamy globalną epidemiologię genomową COVID-19 i podajemy szczegółowe aktualizacje dla każdego regionu świata.
 "
+---
 <!--"The pandemic is currently widespread around the world, with over [1.5 million new cases each week](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) and total reported cases of [18 million](https://ourworldindata.org/covid-cases) and over [600,000 fatailities](https://ourworldindata.org/covid-deaths).
 \n\n
 ### The situation [is summarised by the WHO on August 2, 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
@@ -58,7 +61,6 @@ Each circle is centered on an individual country, the colour indicates region an
 \n\n
 ### In this report, we examine the global genomic epidemiology of COVID-19 broadly and provide specific updates for each world region.
 "-->
----
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
 <!-- Please add your names & links to the 'translators' section above -->
 <!-- Comment tags like these do not need to be translated, they are only to help you! -->
