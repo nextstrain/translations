@@ -210,13 +210,13 @@ Dado que el muestreo era menos común en los primeros días de la pandemia, el S
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Lockdown in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
+# [Confinamiento en Europa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
 
-Through March and April much of Europe closed their borders, and many imposed differing types of 'lockdown' where movement was restricted and businesses and schools closed. We expect that these restrictions decreased between-country transmission, making it more likely that we see sequences from any given country 'cluster' with previous sequences from that country.
+A lo largo de Marzo y Abril gran parte de Europa cerró sus fronteras, y muchos impusieron distintos tipos de "Confinamiento" donde se restringió el movimiento y se cerraron comercios y escuelas. Esperamos que estas restriciones hayan disminuido la transmisión entre países, haciendo más factible el ver secuencias de determinados países formar "cúmulos" con secuencias previas del mismo páis.
 
-However, SARS-CoV-2 was already so mixed across Europe that different variants of the virus were circulating across multiple countries. Most countries had numerous distinct variants circulating before lockdown that were related to the viruses circulating in other countries. This means the phylogenetic picture remains well-mixed even after borders closed (shown by multiple colors near each other on the tree).
+Sin embargo, el SARS-CoV-2 se encontraba ya tan mezclado a lo largo de Europa que distintas variantes del virus estaban circulando a lo largo de distintos países. La mayor parte de los países tenían numerosas variantes distintas circulando antes del confinamiento que estaban relacionadas con virus circulando en otros países. Esto significa que el panorama filogenétivo permanece bien mezclado incluso luego del cierre de fronteras (mostrado por múltiples colores cerca unos de otros en el árbol). 
 
-However, we can see some signs of the local transmission that we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange (about 1/3 from the top), while Spain (dark blue) shows distinct local transmission at the bottom and top of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.
+A pesar de esto, podemos observar algunos signos de transmisión local esperables. Aquí, Finlandia y Suecia presentan un cúmulo de transmisión muy distintivo en verde y naranja (alrededorde 1/3 desde arriba), mientras que España (azul oscuro) muestra transmisión local distintiva en lo mas bajo y lo mas alto del árbol. Islandia (violeta) y Suiza (azul clado) también muestras cúmulos de transmisión local.
 
 _Hint: You can expand the legend by clicking 'Country' at the top-left of the tree!_
 
