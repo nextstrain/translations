@@ -138,7 +138,7 @@ Tak ada bukti bahwa substitusi dan reversi ini telah menghasilkan rantai penular
 <!-- ############ SLIDE BREAK ############# -->
 # [Menganalisis bentukan regional terpisah](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
 
-Berhubung terdapat terlalu banyak genom untuk ditampilkan dalam pohon tunggal, kami menyediakan analisis regional untuk enam wilayah yang ditampilkan di sini, di samping bentukan 'global' utama.
+Berhubung terdapat terlalu banyak genom untuk ditampilkan dalam pohon tunggal, kami menyediakan analisis regional untuk enam wilayah yang ditampilkan di sini, di samping bentukan global utama.
 Ini memungkinkan kira untuk fokus pada keragaman dalam wilayah, sementara memilih sampel di luar wilayah yang tepat, sehingga kami dapat menjaga gambaran seluruh penularan antarwilayah sepanjang waktu - sebagaimana dapat kita lihat pada layar ini!
 
 Pada layar berikutnya kami akan menyediakan gambaran masing-masing wilayah tersebut dengan berpindah ke dataset terkait. (Ini fitur baru dalam Nextstrain Narratives!)
@@ -199,13 +199,13 @@ Kita dapat melihat pengklasteran serupa pada sekuens dari New South Wales yang j
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [New cases detected in New Zealand this week](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
+# [Kasus baru terdeteksi di Selandia Baru pekan ini](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
 
-New Zealand had reported over 100 days without community transmission before detecting cases in the community this week.
-The cluster has now spread to around 30 known cases (at time of publication), primarily based in the largest city, Auckland.
+Selandia Baru telah melaporkan lebih dari 100 hari tanpa penularan komunitas sebelum mendeteksi kasus pekan ini.
+Klaster kini telah menyebar ke sekitar 30 kasus yang diketahui (saat publikasi), terutama berpusat di kota terbesar, Auckland.
 
-The source is not yet known, however scientists have sequenced the isolates and reported that they fall into pangolin lineage B1.1.1; so while the genomes are yet to be released they are known to fall in the region colored in blue here.
-This lineage originated in Europe, but has since been observed in multiple regions around the world.
+Sumbernya belum diketahui, namun para ilmuwan telah telah mendapatkan sekuens isolat dan melaporkan bahwa virus ini termasuk ke dalam garis keturunan pangolin B1.1.1; sehingga sementara genomnya belum diumumkan mereka di sini masuk dalam wilayah berwarna biru.
+Garis keturunan ini berasal dari Eropa, namun kemudian terpantau di wilayah-wilayah lain di seluruh dunia.
 
 
 <!-- ############ SLIDE BREAK ############# -->
