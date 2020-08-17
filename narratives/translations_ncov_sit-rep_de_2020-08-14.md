@@ -304,7 +304,6 @@ Die Grenzen öffnen sich jetzt wieder, und der Reiseverkehr ist wieder in Gang g
 
 Leider ist in vielen Ländern in den letzten Wochen ein Anstieg der Fälle zu verzeichnen, der in der Regel mit der Lockerung von Eindämmungsmaßnahmen verbunden ist. Während sich die nördliche Hemisphäre auf den Herbst und kälteres Wetter, und die Wiederaufnahme des Schulbetriebs vorbereitet, müssen wir wachsam bleiben und auf steigende Fallzahlen achten. Mit dem Fortschreiten des Winters in der südlichen Hemisphäre sehen wir besorgniserregende Anzeichen dafür, dass die Saisonabhängigkeit tatsächlich zu mehr Schwierigkeiten bei der Eindämmung der Übertragung führen könnte - der anfängliche Erfolg Australiens mit dem Virus wurde durch die jüngsten Ausbrüche gedämpft. Die weitere Ausweitung von Tests, Rückverfolgung und Isolierung, sorgfältige Handhygiene und das gewissenhafte Tragen von Masken können dazu beitragen, unsere Gesellschaften so offen wie möglich zu halten, während wir weiterhin SARS-CoV-2 bekämpfen.
 
-Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
 <!-- ############ SLIDE BREAK ############# -->
 # [Wissenschaftliche Danksagung](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
 
