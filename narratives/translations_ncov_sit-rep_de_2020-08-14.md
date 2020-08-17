@@ -1,5 +1,5 @@
 ---
-title: August 2020: Update zur genomischen Epidemiologie von COVID-19
+title: "August 2020: Update zur genomischen Epidemiologie von COVID-19"
 authors:
   - James Hadfield
   - Cassia Wagner
@@ -38,6 +38,7 @@ Bis jetzt wurden über 75.000 Sequenzen aus der Hälfte der Länder weltweit öf
 Jeder Kreis ist auf einem einzelnen Land zentriert, die Farbe indiziert die Region und der Radius steigt mit der Anzahl an sequenzierter Genome in dem jeweiligen Land ([Hier können Sie Hilfe zur Interpretation der Karte in Nextstrain finden](https://nextstrain.org/docs/visualisation/map-interpretation)).
 \n\n
 ### In diesem Bericht untersuchen wir die globale genomische Epidemiologie von COVID-19 umfassend und geben spezifische Updates für jede Region weltweit.
+"
 
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
