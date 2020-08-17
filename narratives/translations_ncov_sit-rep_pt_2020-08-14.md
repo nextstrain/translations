@@ -15,9 +15,12 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
-translators: Talita F. Amado
+translators:
+  - Talita F. Amado
+  - Anderson F. Brito
 translatorLinks:
 - https://twitter.com/amadotalita
+- https://twitter.com/AndersonBrito_
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
