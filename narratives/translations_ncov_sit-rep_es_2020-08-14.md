@@ -222,17 +222,17 @@ _Hint: You can expand the legend by clicking 'Country' at the top-left of the tr
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Recent European sequencing highlights local transmission and enriches understanding of previous SARS-CoV-2 spread](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
+# [Secuenciamiento reciente de Europa resalta transmisión local y enrique la comprensión de expansiones anteriores del SARS-CoV-2](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
 
-Examining only samples uploaded in the past week highlights two important points.
+Examinando sólo muestras subidas en la última semana se resaltan dos puntos importantes.
 
-Firstly, we can see a tendency towards groupings of tips into mini-clusters. This indicates that within-country transmission is continuing to dominate - likely a product of the various regulations introduced throughout Europe. The virus continued to diversify genetically during the lockdown, but was more likely to be confined to one country, meaning we can often now better distinguish local 'variants' from those in other countries.
+Primero, podemos observar una tendencia hacia agrupamientos de puntas en mini-cúmulos. Esto indica que la transmisión dentro de países continúa dominando, probablemente producto de varias regulaciones introducidas a lo largo de Europa. El virus continuó diversificándose genéticamente durante el confinamiento, pero fue más frecuentemente confinado a un sólo país, por lo cual podemos ahora distinguir mejor "variantes" locales de esos países.
 
-Some samples do not follow this trend of linking to other samples from the same country. Hovering over a country in the legend highlights tips in the tree from that country and will help identify such samples. For instance, in the middle of the tree, we can see some Swedish samples (green) nested within a larger Russian clade (red).
-Given the heavy subsampling, we need to remain cautious to not over interpret putative between-country transmissions from this view.
+Algunas muestras no siguen esta tendencia de conectarse a otras muestras del mismo país. Al detenerse sobre un país en la leyenda se resaltan puntas en el árbol de ese país para ayudar a identificar esas muestras. Por ejemplo, en el medio del árbol, podemos observar algunas muestras Suecas (verde) anidades entre un gran clado Ruso (Rojo).
+Dado el intenso sub-muestreo, es necesario mantener cautela en no sobreinterpretar supuestas transmisiones entre países en esta vista.
 
-Secondly, we can see that the tips have a large difference in horizontal spacing -- i.e. the samples submitted in the past week represent a sample collection time window extending back to early March.
-The reasons for sequencing "old" genomes varies, but these samples help us fill in our understanding of viral evolution and geographical movement.
+En segundo lugar, podemos ver que las puntas una amplia diferencia en el espaciado horizontal -- p.ej. las muestras remitidas la semana pasada representan una colección de muestras que se extienede hasta principios de Marzo.
+Las razones para secuenciar genomas "viejos" varía, pero estas muestras nos ayudan a completar nuestra compresión de la evolución viral y el movimiento geográfico.
 
 
 <!-- ############ SLIDE BREAK ############# -->
