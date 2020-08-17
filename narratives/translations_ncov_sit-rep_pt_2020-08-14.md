@@ -189,8 +189,7 @@ _DICA: se você passar o mouse sobre os círculos do mapa, poderá ver as dicas 
 
 A Austrália e o estado de Victoria (capital: Melbourne), mostrado aqui em laranja, têm visto um ressurgimento de casos de COVID-19 e recentemente implementaram outras medidas de saúde pública para tentar conter esse aumento.
 
-Todos esses genomas mais recentes parecem ser um subclado do clado 20B (volte para o slide anterior para ver como o clado 20B se encaixa em toda a filogenia).
-As datas recentes e os agrupamentos são sinais de um surto local.
+Todos esses genomas mais recentes parecem ser um subclado do clado 20B (volte para o slide anterior para ver como o clado 20B está encaixado no meio da filogenia). As datas recentes e os agrupamentos são sinais de um surto local.
 
 Podemos ver agrupamentos semelhantes em sequências de New South Wales, onde os casos também aumentaram recentemente.
 
@@ -199,9 +198,9 @@ Podemos ver agrupamentos semelhantes em sequências de New South Wales, onde os 
 # [Novos casos detectados na Nova Zelândia esta semana](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
 
 A Nova Zelândia relatou mais de 100 dias sem transmissão comunitária antes de detectar casos na comunidade esta semana.
-O agrupamento já se espalhou para cerca de 30 casos conhecidos (no momento da publicação), principalmente com base na maior cidade, Auckland.
+O agrupamento já se espalhou gerando cerca de 30 casos conhecidos (no momento da publicação), principalmente na maior cidade, Auckland.
 
-A fonte ainda não é conhecida, no entanto os cientistas sequenciaram os isolados e relataram que eles se enquadram na linhagem do pangolim B1.1.1; então, embora os genomas ainda não tenham sido liberados, sabe-se que eles estão na região colorida em azul aqui.
+A fonte ainda não é conhecida, no entanto os cientistas sequenciaram os isolados e relataram que eles se enquadram na linhagem "pangolim" B1.1.1; então, embora os genomas ainda não tenham sido liberados, sabe-se que eles estão na região colorida em azul aqui.
 Esta linhagem se originou na Europa, mas desde então foi observada em várias regiões ao redor do mundo.
 
 
@@ -210,7 +209,7 @@ Esta linhagem se originou na Europa, mas desde então foi observada em várias r
 
 O SARS-CoV-2 se espalhou rapidamente pela Europa, provavelmente principalmente por meio de transmissões diretas da Ásia.
 
-No final de fevereiro, embora houvesse apenas [algumas centenas de casos](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) relatado oficialmente na Europa, o vírus se espalhou para pelo menos 15 países europeus.
+No final de fevereiro, embora houvesse apenas [algumas centenas de casos](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) relatados oficialmente na Europa, o vírus se espalhou para pelo menos 15 países europeus.
 
 Dado que a amostragem era menos comum nos primeiros dias da pandemia, o SARS-CoV-2 quase certamente já estava circulando em todo o mundo, inclusive em países para os quais não temos amostras.
 
@@ -218,9 +217,9 @@ Dado que a amostragem era menos comum nos primeiros dias da pandemia, o SARS-CoV
 <!-- ############ SLIDE BREAK ############# -->
 # [Quarentena na Europa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
 
-Durante março e abril, grande parte da Europa fechou suas fronteiras e muitos impuseram diferentes tipos de "bloqueio", onde o movimento era restrito e empresas e escolas foram fechadas. Esperamos que essas restrições diminuam na transmissão entre os países, tornando mais provável que vejamos sequências de um determinado país 'aglomerado' com sequências anteriores desse país.
+Durante março e abril, grande parte da Europa fechou suas fronteiras e muitos impuseram diferentes tipos de "bloqueio", onde o movimento era restrito e empresas e escolas foram fechadas. Esperamos que essas restrições diminuíram a transmissão entre os países, tornando mais provável que vejamos sequências de um determinado país 'agrupadas' com sequências anteriores desse país.
 
-No entanto, o SARS-CoV-2 já estava tão misturado na Europa que diferentes variantes do vírus circulavam em vários países. A maioria dos países tinha numerosas variantes distintas circulando antes da quarentena, relacionadas aos vírus que circulavam em outros países. Isso significa que a imagem filogenética permanece bem misturada mesmo após o fechamento das fronteiras (mostrado por várias cores próximas umas das outras na árvore).
+No entanto, o SARS-CoV-2 já estava tão misturado na Europa que diferentes variantes do vírus circulavam em vários países. A maioria dos países tinha numerosas variantes distintas circulando antes da quarentena, relacionadas aos vírus que circulavam em outros países. Isso significa que a cenário filogenético permanece bem misturado mesmo após o fechamento das fronteiras (mostrado por várias cores próximas umas das outras na árvore).
 
 No entanto, podemos ver alguns sinais de transmissão local que esperaríamos. Aqui, a Finlândia e a Suécia têm um agrupamento de transmissão muito distinto em verde e laranja (cerca de 1/3 do topo), enquanto a Espanha (azul escuro) mostra uma transmissão local distinta na parte inferior e superior da árvore. Islândia (roxo) e Suíça (azul claro) também mostram agrupamentos de transmissão local.
 
