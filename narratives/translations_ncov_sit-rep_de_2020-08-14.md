@@ -22,13 +22,13 @@ licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
 date: "2020 August 14"
 abstract: "
-Die Pandemie ist derzeit weltweit weitverbreitet mit mehr als [1,5 Millionen neuen Faellen pro Woche](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) und einer Gesamtzahl an berichteten Faellen von [18 Millionen](https://ourworldindata.org/covid-cases) und mehr als [600.000 Todesfaellen](https://ourworldindata.org/covid-deaths).
+Die Pandemie ist derzeit weltweit verbreitet, mit mehr als [1,5 Millionen neuen Faellen pro Woche](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) und einer Gesamtzahl an berichteten Faellen von [18 Millionen](https://ourworldindata.org/covid-cases) und mehr als [600.000 Todesfaellen](https://ourworldindata.org/covid-deaths).
 \n\n
 ### Die Situation [ist von der Weltgesundheitsorganisation WHO am 2.August 2020 zusammengefasst worden](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
 ### **\"Sobald Laender angefangen haben Massnahmen im Gesundheits- und Sozialwesen zu lockern, die implementiert worden sind zur Einschraenkung der Verbreitung des Virus,  konnten viele dieser Laender eine Klusterbildung oder ein Wiederaufleben an steigenden Fallzahlen feststellen. Risikos und Schwachstellen haben sich weiter in fragilen, ressourcenarmen und von Konflikten betroffenen Gegenden verstaerken koennen.\"**
 \n\n
-### Die weltweite Sequenzierung des SARS-CoV-2 Genoms wurde unvermindert weitergefuehrt. Wir nutzen diese Daten in Nextstrain, um die geografische Ausbreitung und eine Weiterentwicklung des Virus verfolgen zu koennen.
+### Die weltweite Sequenzierung des SARS-CoV-2 Genoms wurde unvermindert weitergefuehrt. Wir nutzen diese Daten in Nextstrain, um die geografische Ausbreitung und Weiterentwicklung des Viruses verfolgen zu koennen.
 Bis jetzt wurden ueber 75.000 Sequenzen aus der Hälfte der Länder weltweit oeffentlich geteilt - eine Meisterleistung ermoeglicht durch Wissenschaftler und Gesundheitsbehoerden.
 \n\n
 ### Wir verwenden Subsampling-Ansaetze, um potenzielle Stichprobenverzerrungen zu beseitigen und somit sicherstellen zu koennen, dass Regionen und Zeiträume für die Analyse angemessen berücksichtigt werden.
@@ -84,11 +84,11 @@ Wir haben oeffentlich zugaengliche SARS-CoV-2 Genome analysiert. Durch das Vergl
 
 - Neuseeland's Fälle sind in einem engen zeitlichen Bereich enthalten, der der Beseitigung des Virus entspricht (bis zu dieser Woche). Der jüngste Anstieg der Fälle in Australien zeigt - zumindest in den bisher geteilten Stichproben - eine enge Anhäufung von Fällen, die aus der zuvor zirkulierenden Vielfalt stammen. 
 
-- SARS-CoV-2 bereitet sich sehr schnell in Europa aus - wahrscheinlich konnte sich das Virus in vielen Laendern ausbreiten bevor es festgestellt werden konnte. Das resultierte in einer starken Durchmischung an europaeischen Stichproben zu Beginn der Pandemie, was eine Einschleppung von einem Ort zum anderen zu unterscheiden und zu identifizieren erschwert. Derzeit können wir deutlichere Varianten sehen, die mit bestimmten Ländern verbunden sind, da die Virenausbreitung durch Reisebeschränkungen eingeschränkt worden ist.
+- SARS-CoV-2 bereitete sich sehr schnell in Europa aus - wahrscheinlich konnte sich das Virus in vielen Laendern ausbreiten bevor es festgestellt werden konnte. Das resultierte in einer starken Durchmischung an europaeischen Stichproben zu Beginn der Pandemie, was eine Einschleppung von einem Ort zum anderen zu unterscheiden und zu identifizieren erschwert. Derzeit können wir deutlichere Varianten sehen, die mit bestimmten Ländern verbunden sind, da die Virenausbreitung durch Reisebeschränkungen eingeschränkt worden ist.
 
 - Wie in anderen Regionen sichtbar, gab es in Suedamerika auch vielfache Einschleppungen des Virus, was einen Grossteil der bekannten Vielfalt von SARS-CoV-2 abdeckt. Nachdem Reisebeschraenkungen eingefuehrt worden sind, ist eine Konzentrierung an Sequenzen sichtbar. Leider sind neuere Sequenzen trotz schwerer anhaltender Epidemien in vielen Ländern nicht ohne weiteres verfügbar.
 
-- Afrika hatte auch viele verschiedene Einschleppungen zu Beginn der Pandemie. Nachfolgende Reiseeinschraenkungen scheinen die Durchmischung zwischen afrikanischen Laendern limitiert zu haben, wobei die meisten Sequenzen aus früherer zirkulierender Virenvielfalt im selben Land zu stammen scheint.
+- Afrika hatte viele verschiedene Einschleppungen zu Beginn der Pandemie. Nachfolgende Reiseeinschraenkungen scheinen die Verbreitung von Viren zwischen afrikanischen Laendern limitiert zu haben, wobei die meisten Sequenzen von früherer zirkulierender Viren im selben Land abzustammen scheinen.
 
 - Ein anderes Bild zeigt sich in den USA, wo Inlandsreisen nicht stark eingeschraenkt worden sind: Wir erkennen sowohl eine Durschmischung zwischen allen Bundesstaaten als auch eine kommunal bedingte Uebertragung des Virus. In Mexiko & Zentralamerika sehen wir Beispiele für geografische Klusterbildung bei der Übertragung, insbesondere zwischen Kalifornien (USA) und Baja California (Mexiko).
 
@@ -100,7 +100,7 @@ Wir haben oeffentlich zugaengliche SARS-CoV-2 Genome analysiert. Durch das Vergl
 
 Seit der Entstehung des Virus Ende 2019 hat sich SARS-CoV-2 in verschiedene Genvarianten mutieren koennen, die sich derzeit auch im Umlauf befinden. Um die Diskussion dieser Varianten zu erleichtern, haben wir sie in Klassen eingeteilt, die durch spezifische Signaturmutationen definiert sind.
 
-Derzeit koennen 5 Hauptkladen definiert werden (unter [diesem Blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) koennen weitere Details entnommen werden):
+Derzeit koennen 5 Hauptkladen definiert werden (unter [diesem Blogpost](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) koennen weitere Details entnommen werden):
 
 * 19A und 19B stammten aus Wuhan und haben den Anfang der Epidemie beherrscht.
 * 20A entstammte aus 19A, welche die Epidemie in Europa im Maerz dominiert hat und sich seitdem global ausbreitet.
@@ -127,7 +127,7 @@ Es scheint, dass die G-Variante (hier gelb dargestellt) die Infektiositaet von S
 
 Hier können wir sehen, dass diese Variante sehr kurz nach der anfänglichen Zoonose aufgetreten ist und sich anschließend auf der ganzen Welt ausgebreitet hat.
 Im Juli machte die 614G Variante den Grossteil der zirkuliernden Viren weltweit aus. Seit dem ersten Auftreten ist die Mutante mehrfach aufgetreten und wieder zur 614D-Variante zurückgefallen.
-Es gibt keinen Beweis dafuer, dass diese Substitutionen oder Reversionen in kontinuierliche Uebertragungsketten resultiert sind. 
+Es gibt keinen Beweis dafuer, dass diese widerholten Substitutionen oder Reversionen zu kontinuierliche Uebertragungsketten geführt haben. 
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -143,7 +143,7 @@ Ein vollständiges Inventar der von uns und anderen verwalteten Builds finden Si
 <!-- ############ SLIDE BREAK ############# -->
 # [Situation in Asien vor Juni](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
 
-Wenn wir die Sitatuion in Asien anhand von Genomdaten, die vor Juni 2020 gesammelt worden sind, anschauen, sehen wir eine starke Uebertragung des Virus sowohl innerhalb Asiens als auch zu und aus anderen Teilen der Welt.
+Wenn wir die Situation in Asien anhand von Genomdaten, die vor Juni 2020 gesammelt worden sind, anschauen, sehen wir eine starke Uebertragung des Virus sowohl innerhalb Asiens als auch zu und aus anderen Teilen der Welt.
 
 #### Interpretation der Linien und Punkte
 
@@ -152,7 +152,7 @@ Die Farbe jeder Uebertragungslinie (Linien zwischen den Kreisen) repraesentiert 
 
 #### Uebertragungen nach Asien
 
-Das zeigt, dass viele Uebertragungen asiatischer und nicht-asiatischer Laender Einschleppungen nach Asien waren (graue Linien).
+Das zeigt, dass viele Uebertragungen zwischen asiatischen und nicht-asiatischen Laender Einschleppungen nach Asien waren (graue Linien).
 Besonders ausgepraegt in dieser Ansicht sind die Uebertragungen aus Europa nach Asien (obwohl es aussieht, als ob die Linie ihren Ursprung in Deutschland habe, soll dies ganz Europa repraesentieren). Wir müssen jedoch vorsichtig sein, wie wir diese abgeleiteten Übertragungen interpretieren, da Stichprobenverzerrungen eine große Rolle spielen können (und wir haben viel mehr Stichproben aus Europa als irgendwo anders her).
 
 
@@ -173,7 +173,7 @@ Im Folgenden sehen wir ungefaehr 790 Genome aus Australien und Neuseeland mit zu
 
 Diese Proben sind ueber den ganzen Baum verteilt, was indiziert, dass Ozeanien (fast allen) entdeckten SARS-CoV-2 Varianten ausgesetzt war.
 
-Der Grossteil der Neuseelandproben (hier blau, lila, gruen) stammen aus einem engen Zeitraum (zwischen Maerz und April). Dies liegt an der erfolgreichen Kontrollstrategie seitens der neuseelaendischen Regierung. Waehrend das Land  fast zurueck zur Normalitaet gelangt ist, sind die Grenzen fuer Nichtbuerger noch immer geschlossen, um die Chancen einer Wiederinfektion durch das Virus zu limitieren. Rueckkehrer muessen fuer 14 Tage in die Quarantaene bevor sie einreisen duerfen. 
+Der Grossteil der Proben aus Neuseeland (hier blau, lila, gruen) stammen aus einem engen Zeitraum (zwischen Maerz und April). Dies liegt an der erfolgreichen Kontrollstrategie seitens der neuseelaendischen Regierung. Waehrend das Land fast zurueck zur Normalitaet gelangt ist, sind die Grenzen fuer Nichtbuerger noch immer geschlossen, um die Chancen einer Wiederinfektion durch das Virus zu limitieren. Rueckkehrer muessen fuer 14 Tage in die Quarantaene bevor sie einreisen duerfen. 
 
 Diese Woche berichtete die neuseelaendische Regierung ueber 4 Neuinfektionen, welche nicht mit ankommenden Faellen verknuepft werden konnten. Genetische Sequenzierung koennte bei der Aufklaerung helfen, wie SARS-CoV-2 die strengen Kontrollen umgehen konnte -- Weiteres siehe unten!
 
@@ -194,7 +194,7 @@ Aehnliche Kluster koenne in den Sequenzen aus New South Wales gesehen werden, wo
 <!-- ############ SLIDE BREAK ############# -->
 # [Neue Faelle wurden in Neuseeland diese Woche gemeldet](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
 
-Neuseeland hatte zuvor gemeldet, dass es keine Community Uebertragungen in einem Zeitraum von 100 Tagen gegeben hatte. Jedoch wurden innert dieser Wochhe neue Faelle gemeldet. Das Cluster hat sich nun um 30 bekannte Faelle erhoeht (bis zum Zeitpunkt der Veroeffentlichung) hauptsaechlich innerhalb der groessten Stadt Auckland.
+Neuseeland hatte zuvor gemeldet, dass es keine Community Uebertragungen in einem Zeitraum von 100 Tagen gegeben hatte. Jedoch wurden innert dieser Wochhe neue Faelle gemeldet. Der Cluster hat sich nun um 30 bekannte Faelle erhoeht (bis zum Zeitpunkt der Veroeffentlichung) hauptsaechlich innerhalb der groessten Stadt Auckland.
 
 Die Quelle ist bis jetzt noch unbekannt, aber Wissenschaftler haben die Virusisolate sequenziert und berichtet, dass diese in die Pangolin-Linie B1.1.1 fallen; Bis jetzt weiss man also bevor die Genomdaten veroeffentlicht werden, dass sie in die hier blau eingefaerbte Region passen. Diese Virenlinie hat ihren Ursprung in Europa, aber wurde bereits in mehreren Teilen der Welt gefunden.
 
@@ -216,7 +216,7 @@ Zwischen Maerz und April waren die Grenzen groesstenteils innerhalb Europas gesc
 
 Dennoch konnte sich SARS-CoV-2 bereits so stark innerhalb Europas ausbreiten, so dass verschiedene Varianten in vielen Laendern auffindbar sind. Viele Laender hatten zahlreiche eindeutige Varianten vor dem Lockdown, die bereits mit anderen Viren in anderen Laendern verwandt waren. Das bedeutet, dass das phylogenetische Bild sehr durchmischt ist, obwohl Grenzen geschlossen worden sind (hier durch nah beieinander liegende Farben auf einem Baum indiziert).
 
-Aber es gibt ein paar erwartungsgemaesse Hinweise zur komunalen Uebertragung. Finnland und Schweden weisen ausgepraegte Uebertragunsgkluster in gruen und orange auf (ca. 1/3 von oben), waehrend hingegen Spanien (dunkelblau) eine eindeutige lokale Uebertragunge an beiden Baumenden aufweist. Sowohl Island (lila) als auch die Schweiz (hellblau) weisen lokale Uebertragungskluster vor. 
+Aber es gibt ein paar erwartungsgemaesse Hinweise zur komunalen Uebertragung. Finnland und Schweden weisen ausgepraegte Uebertragunsgkluster in gruen und orange auf (ca. 1/3 von oben), waehrend Spanien (dunkelblau) hingegen eine eindeutige lokale Uebertragunge an beiden Baumenden aufweist. Sowohl Island (lila) als auch die Schweiz (hellblau) weisen lokale Uebertragungskluster vor. 
 
 _Tipp: Die Legende kann durch klicken auf 'Country' oben links im Baum erweitert werden!_
 
@@ -226,7 +226,7 @@ _Tipp: Die Legende kann durch klicken auf 'Country' oben links im Baum erweitert
 
 Wenn man nur Proben aus den letzten paar Wochen betrachtet, dann koennen 2 wichtige Punkte festgestellt werden:
 
-Erstens sehen wir eine Tendenz hinzu Gruppierungsn aus Baumspitzen in Minikluster. Das deutet darauf hin, dass Uebertragung zwischen den Laendern weiterhin dominant ist - hoechstwahrscheinlich aufgrund von verschiedenen implementierten Regulationen innerhalb Europas. Das Virus konnte waehrend des Lockdowns weiterhin mutieren, aber war wahrscheinlich beschraenkt auf ein Land, was bedeutet, dass wir lokale "Varianten" von denen aus anderen Laendern besser unterscheiden koennen. 
+Erstens sehen wir eine Tendenz hinzu Gruppierungsn aus Baumspitzen in Minikluster. Das deutet darauf hin, dass Uebertragung zwischen den Laendern weiterhin dominant ist - hoechstwahrscheinlich aufgrund von verschiedenen implementierten Regulationen innerhalb Europas. Das Virus konnte waehrend des Lockdowns weiterhin verbreiten, aber war wahrscheinlich beschraenkt auf ein Land, was bedeutet, dass wir lokale "Varianten" von denen aus anderen Laendern besser unterscheiden koennen. 
 
 Einige Proben folgen nicht diesem Zuegehoerigkeitstrend. Faehrt man ueber ein Land in der Legende, werden die Baumspitzen hervorgehoben, was hilfreich zur Identifikation solcher Proben ist. Beispielsweise sieht man in der Baummitte einige schwedische Proben (gruen) innerhalb einer grossen russichen Klade (rot).
 Aufgrund von starkem Subsampling sollte man trotzdem vorsichtig mit Interpretationen bezueglich potenzieller Uebertragungen zwischen einzelnen Laendern sein.
@@ -256,7 +256,7 @@ Trotz dass unsere Schlussfolgerungen wegen dieser niedrigen Beprobungsrate sind,
 <!-- ############ SLIDE BREAK ############# -->
 # [SARS-CoV-2 in Afrika](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
 
-Sowie nach Suedamerika gab es auch mehrerer Einschleppungen des Virus SARS-CoV-2 nach Afirka. Hoechstwahrscheinlich aus Europa. Das zeigt sich durch die Verteilung der afrikanischen Proben im Baum - sogar Proben aus dem gleichen Land weisen unterschiedliche Virusvarianten auf.
+Sowie nach Suedamerika gab es auch mehrerer Einschleppungen des Virus SARS-CoV-2 nach Afirka, hoechstwahrscheinlich aus Europa. Das zeigt sich an der Verteilung der afrikanischen Proben auf dem Baum - sogar Proben aus dem gleichen Land weisen unterschiedliche Virusvarianten auf.
 
 Wir haben nun Sequenzierdaten von Laendern in Afrika im Verlauf der Epidemie, wobei die Sequenzierarbeit derzeit leicht abnimmt. Suedafrika hat einen Grossteil an Sequenzierdaten bereit gestellt.
 
@@ -270,7 +270,7 @@ Trotzdem muss man vorsichtig mit vorzeitigen Schlussfolgerungen sein aufgrund ho
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Die Epidemie in den USA ist eine Mischung aus lokaler und zwischen den Laendern Uebertragung](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
+# [Die Epidemie in den USA ist eine Mischung aus lokaler und internationaler Uebertragung](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
 
 Im Folgenden sieht man genomische Daten aus der Epidemie in den USA vom 15. April bis zum heutigen Datum. Mitte April waren alle U.S. amerikanischen Staaten im Lockdown. [Die Bundesstaaten haben seitdem unterschiedlichhe Lockerungen implementiert](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
 
@@ -296,13 +296,13 @@ In der Baummitte gibt es ein Fallkluster in Baja California (hellblau). Diese Fa
 
 Waehrend die Pandemie seit ungefaehr 8 Monaten weltweit im Umlauf ist, koennen wir eindeutige Veraenderungen ueber die Zeit in Form von Virengenetik und starken Verhaltensaenderungen feststellen. 
 
-Viele anfaengliche Uebertragungen in die USA, nach Ozeanine, Europa und Asien waren zunaechst stark durchmischt aufgrund von Auslandsreisen, die die Ausbreitung des Virus verstaerkt hatten. Kurze Zeit spaeter entwickelten sich oertliche Epidemien in Suedamerika und Afrika, aufgrund von Viruseinschleppungen hauptsaechlich aus Europa und Nordamerika.
+Viele anfaengliche Uebertragungen in die USA, nach Ozeanien, Europa und Asien waren zunaechst stark durchmischt aufgrund von Auslandsreisen, die die Ausbreitung des Virus verstaerkt hatten. Kurze Zeit spaeter entwickelten sich oertliche Epidemien in Suedamerika und Afrika, aufgrund von Viruseinschleppungen hauptsaechlich aus Europa und Nordamerika.
 
-Als das Ausmass der Virusausbreitung und die Schlimme von COVID-19 bewusst geworden ist, wurde das Reisen weltweit vielerorts eingeschraenkt. Anschliessend sieht man eine eindeutige Verlagerung hin zu oertlichen Uebertragungen des Virus waherend der "Lockdowns" und der strengen Reisebeschraenkungen. Ein Ergebnis ist, dass wir nun teilweise den Ursprung der Viren festmachen koennen, da die Epidemien mancherorts genetisch eindeutig sind. In den USA hat das Fehlen strenger Inlandsreisen dazu beigetragen das Durchmischen der Epidemien zwischen den Staaten aufrechtzuerhalten
+Als das Ausmass der Virusausbreitung und die Ernsthaftigkeit von COVID-19 bewusst geworden ist, wurde das Reisen weltweit vielerorts eingeschraenkt. Anschliessend sieht man eine eindeutige Verlagerung hin zu oertlichen Uebertragungen des Virus waherend der "Lockdowns" und der strengen Reisebeschraenkungen. Ein Ergebnis ist, dass wir nun teilweise den Ursprung der Viren festmachen koennen, da die Epidemien mancherorts genetisch eindeutig sind. In den USA hat das Fehlen strenger Inlandsreisen dazu beigetragen das Durchmischen der Epidemien zwischen den Staaten aufrechtzuerhalten
 
-Grenzen werden nun wieder geoeffnet und Reisen ist wieder moeglich, obwohl wir noch nicht vorpandemische Zustaende erreicht haben. Dies, zusammen mit der Verzögerungszeit von der Probenahme bis zur öffentlichen Verfügbarkeit, bedeutet, dass wir nur wenige Anzeichen einer Vermischung zwischen den Ländern ausmachen koennen. Generell klustern neue Proben tendenziell weiterhin mit alten Proben aus demselben Land, was darauf hinweist, dass die Uebertragung mit bereits zirkulierenden Virusvarianten verlaeuft. 
+Grenzen werden nun wieder geoeffnet und Reisen ist wieder moeglich, obwohl wir noch nicht vorpandemische Zustaende erreicht haben. Dies, zusammen mit der Verzögerungszeit von der Probenahme bis zur öffentlichen Verfügbarkeit heisst, dass wir nur wenige Anzeichen einer Vermischung zwischen den Ländern ausmachen koennen. Generell klustern neue Proben tendenziell weiterhin mit alten Proben aus demselben Land, was darauf hinweist, dass die Uebertragung mit bereits zirkulierenden Virusvarianten verlaeuft. 
 
-Leider konnten einige Laender einen Anstieg an Fallzahlen innerhalb der letzten paar Wochen festmachen, was wahrscheinlich auf die Lockerungen der Massnahmen zurueuckfuehrbar ist. Waehrend sich die noerdliche Hemisphaere auf den Herbst und kaelteres Wetter, weitere Lockerungen und Schulbeginn vorbereitet, sollten wir weiterhin wachsam den Anstieg der Fallzahlen beobachten. Da Winter in der suedlichen Hemisphaere voranschreitet, sehen wir besorgniserregende Anzeichen dafuer, dass die Saesonalitaet tatsaechlich zu Problemen bei der Uebertragung fuehren kann - Australiens anfaenglicher Erfolg mit dem Virus wurde durch die neueren Ausbrueche gedaempft. Wenn wir weiterhin verstaerkt testen, Kontaktverfolgung praktizieren, Faelle isolieren, sorgfaeltige Handhygiene betreiben und gewissenhaft Masken tragen, koennen wir unsere Gesellschaften weitestgehend offen halten waehrend wir weiterhin SARS-CoV-2 bekaempfen.
+Leider konnten einige Laender einen Anstieg an Fallzahlen innerhalb der letzten paar Wochen festmachen, was wahrscheinlich auf die Lockerungen der Massnahmen zurueuckfuehrbar ist. Waehrend sich die noerdliche Hemisphaere auf den Herbst und kaelteres Wetter, weitere Lockerungen und Schulbeginn vorbereitet, sollten wir weiterhin wachsam den Anstieg der Fallzahlen beobachten. Da der Winter in der suedlichen Hemisphaere voranschreitet, sehen wir besorgniserregende Anzeichen dafuer, dass die Saesonalitaet tatsaechlich zu Problemen bei der Uebertragung fuehren kann - Australiens anfaenglicher Erfolg mit dem Virus wurde durch die neueren Ausbrueche gedaempft. Wenn wir weiterhin verstaerkt testen, Kontaktverfolgung praktizieren, Faelle isolieren, sorgfaeltige Handhygiene betreiben und gewissenhaft Masken tragen, koennen wir unsere Gesellschaften weitestgehend offen halten waehrend wir weiterhin SARS-CoV-2 bekaempfen.
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Wissenschaftliche Danksagung](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
