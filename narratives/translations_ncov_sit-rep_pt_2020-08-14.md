@@ -244,10 +244,11 @@ As razões para o sequenciamento de genomas "antigos" variam, mas essas amostras
 
 As primeiras sequências de SARS-CoV-2 da América do Sul são do final de fevereiro e início de março, e estão espalhadas pela árvore, sugerindo múltiplas introduções. Como as viagens internacionais diminuíram em março, podemos ver evidências de transmissão local sustentada em vários países.
 
-Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence that this variant also moved around the continent to Chile, Uruguay, and Argentina.
+Muitas das sequêcias do Brasil (verde claro) são parte de um grande agrupamento (no topo da árvore), com algumas evidências de aquele variante viral também circulou pelo continente, para Chile, Uruguai, e Argentina.
 
 We can also see distinct clusters of transmission involving Colombia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree.
 
+Nós também podemos ver diversos agrupamentos representando cadeias de transmissão na Colômbia (laranja), Chile (turquesa), Uruguai (azul mais claro) espalhados por toda a árvore. 
 
 <!-- ############ SLIDE BREAK ############# -->
 # [The more recent situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
