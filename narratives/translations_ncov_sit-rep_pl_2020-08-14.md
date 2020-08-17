@@ -72,16 +72,16 @@ Each circle is centered on an individual country, the colour indicates region an
 # [COVID-19 - Podsumowanie](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
 ### Spis treści
-* [Globalne rozmieszczenie kladów](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [Mutacja D614G Spike](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Sytuacja w Azji](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Sytuacja w Oceanii](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Sytuacja w Europie](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Sytuacja w Ameryce Południowej](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Sytuacja w Afryce](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Sytuacja w Ameryce Północnej](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Podsumowanie](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Podziękowania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+* [Globalne rozmieszczenie kladów](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-08-14?n=2)
+* [Mutacja D614G Spike](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-08-14?n=3)
+* [Sytuacja w Azji](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-08-14?n=5)
+* [Sytuacja w Oceanii](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-08-14?n=7)
+* [Sytuacja w Europie](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-08-14?n=10)
+* [Sytuacja w Ameryce Południowej](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-08-14?n=13)
+* [Sytuacja w Afryce](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-08-14?n=15)
+* [Sytuacja w Ameryce Północnej](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-08-14?n=17)
+* [Podsumowanie](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-08-14?n=19)
+* [Podziękowania](https://nextstrain.org/narratives/ncov/sit-rep/pl/2020-08-14?n=20)
 
 #### Materiały Nextstrain
 * [ZACZNIJ TUTAJ: Jak interpretować drzewa filogenetyczne](https://nextstrain.org/narratives/trees-background/pl)
