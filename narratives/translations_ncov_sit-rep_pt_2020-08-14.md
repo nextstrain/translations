@@ -55,19 +55,19 @@ Cada círculo é centrado em um país individual, a cor indica a região e o di�
 # [Resumo COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
 ### Índice
-* [Distribuição global dos agrupamentos](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [Mutação D614G Spike](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Situação na Ásia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Situação na Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Situação na Europa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Situação na América do Sul](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Situação na África](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Situação na América do Norte](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Resumo final](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Créditos](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+* [Distribuição global dos agrupamentos](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-08-14?n=2)
+* [Mutação D614G Spike](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-08-14?n=3)
+* [Situação na Ásia](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-08-14?n=5)
+* [Situação na Oceania](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-08-14?n=7)
+* [Situação na Europa](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-08-14?n=10)
+* [Situação na América do Sul](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-08-14?n=13)
+* [Situação na África](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-08-14?n=15)
+* [Situação na América do Norte](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-08-14?n=17)
+* [Resumo final](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-08-14?n=19)
+* [Créditos](https://nextstrain.org/narratives/ncov/sit-rep/pt/2020-08-14?n=20)
 
 #### Recursos da Nextstrain
-* [COMECE AQUI: Como ler uma árvore filogenética](https://nextstrain.org/narratives/trees-background/)
+* [COMECE AQUI: Como ler uma árvore filogenética](https://nextstrain.org/narratives/trees-background/pt)
 * [Relatórios de Situação Anteriores](https://nextstrain.org/ncov-sit-reps/)
 * [Informações sobre Coronavírus](https://nextstrain.org/help/coronavirus/human-CoV)
 
@@ -143,7 +143,7 @@ Isso nos permite focar na diversidade dentro de cada região, enquanto escolhemo
 
 Nos próximos slides, forneceremos uma visão geral de cada uma dessas regiões, alternando para o conjunto de dados correspondente. (Este é um novo recurso das Narrativas Nextstrain!)
 
-Um inventário completo de construções mantidas por nós e por outros está disponível em[nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
+Um inventário completo de construções mantidas por nós e por outros está disponível em [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Situação na Ásia pre-junho](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
