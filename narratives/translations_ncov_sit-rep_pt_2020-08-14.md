@@ -66,14 +66,14 @@ Cada círculo é centrado em um país individual, a cor indica a região e o di�
 #### Recursos da Nextstrain
 * [COMECE AQUI: Como ler uma árvore filogenética](https://nextstrain.org/narratives/trees-background/)
 * [Relatórios de Situação Anteriores](https://nextstrain.org/ncov-sit-reps/)
-* [Antecedentes sobre Coronavirus](https://nextstrain.org/help/coronavirus/human-CoV)
+* [Informações sobre Coronavírus](https://nextstrain.org/help/coronavirus/human-CoV)
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
 # Resumo
 
-Neste relatório, analisamos genomas SARS-CoV-2 compartilhados publicamente. Ao comparar esses genomas virais entre si, podemos caracterizar como o COVID-19 está se movendo ao redor do mundo e se espalhando localmente.
+Neste relatório, analisamos genomas SARS-CoV-2 compartilhados publicamente. Ao comparar esses genomas virais entre si, podemos caracterizar como a COVID-19 está se movendo ao redor do mundo e se espalhando localmente.
 
 - A Ásia tem uma proporção maior de agrupamentos 19A e 19B, com os agrupamentos 20A, 20B e 20C dominando na Europa e na América do Norte.
 
@@ -83,15 +83,15 @@ Neste relatório, analisamos genomas SARS-CoV-2 compartilhados publicamente. Ao 
 
 - Na Ásia, houve várias transmissões entre os países na região no início da pandemia. Mais recentemente, vemos uma mudança para transmissões dentro dos países, uma tendência que vemos na maioria das regiões.
 
-- Na Oceania, os casos da Nova Zelândia estão contidos em uma estreita faixa temporal, correspondendo à eliminação do vírus (até esta semana). O recente aumento de casos na Austrália aparece, pelo menos nas amostras compartilhadas até agora, como casos de agrupamento firme provenientes de diversidade de circulação anterior.
+- Na Oceania, os casos da Nova Zelândia estão contidos em uma estreita faixa temporal, correspondendo à eliminação do vírus (até esta semana). O recente aumento de casos na Austrália aparece, pelo menos nas amostras compartilhadas até agora, com agrupamentos de casos gerados pela diversidade viral já em circulação anteriormente naquele país.
 
-- O SARS-CoV-2 se espalhou com extrema rapidez na Europa - o vírus provavelmente estava sendo transmitido em muitos países antes que eles percebessem. Isso resultou em uma grande mistura de amostras europeias no início da pandemia, tornando difícil distinguir e identificar introduções de um lugar para outro. Mais recentemente, podemos ver variantes mais distintas associadas a determinados países, pois os vírus foram restringidos por meio de restrições de viagens.
+- O SARS-CoV-2 se espalhou com extrema rapidez na Europa - o vírus provavelmente estava sendo transmitido em muitos países antes que eles percebessem. Isso resultou em uma grande mistura de amostras europeias no início da pandemia, tornando difícil distinguir e identificar introduções de um lugar para outro. Mais recentemente, podemos ver variantes mais distintas associadas a determinados países, pois a disseminação do vírus foi contida por meio de restrições de viagens.
 
 - Como outras regiões, a América do Sul teve várias introduções, cobrindo a maior parte da diversidade conhecida do SARS-CoV-2. Depois que as restrições de viagem entraram em vigor, as sequências começaram a se agrupar de maneira mais perceptível. Infelizmente, apesar de epidemias graves em curso em muitos países, sequências mais recentes não estão prontamente disponíveis.
 
-- A África também teve introduções múltiplas e diversas no início da pandemia. As restrições de viagens subsequentes parecem ter limitado a mistura entre os países africanos, com a maioria das sequências parecendo vir da diversidade que circulava anteriormente no mesmo país.
+- A África também teve introduções múltiplas e diversas no início da pandemia. As restrições de viagens subsequentes parecem ter limitado a mistura de linhagens virais entre os países africanos, com a maioria das sequências aparentemente vindo da diversidade de vírus que já circulava anteriormente no mesmo país.
 
-- Um quadro diferente é mostrado nos EUA, onde as viagens domésticas não foram muito restringidas: vemos uma mistura entre todos os estados, assim como a transmissão local. No México e na América Central, vemos exemplos de agrupamento geográfico na transmissão, particularmente entre Califórnia (EUA) e Baja Califórnia (México).
+- Um quadro diferente é mostrado nos EUA, onde as viagens domésticas não foram muito restringidas: vemos uma mistura entre todos os estados, assim como a transmissão local. No México e na América Central, vemos exemplos de agrupamento geográfico de transmissão viral, particularmente entre Califórnia (EUA) e Baja Califórnia (México).
 
 ```
 
