@@ -97,15 +97,15 @@ Neste relatório, analisamos genomas SARS-CoV-2 compartilhados publicamente. Ao 
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Distribuição mundial de variantes genéticas](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
+# [Distribuição mundial de variantes genéticos](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
-Desde seu surgimento no final de 2019, o SARS-CoV-2 se diversificou em várias variantes co-circulantes diferentes. Para facilitar a discussão dessas variantes, nós as agrupamos em clados que são definidos por mutações específicas.
+Desde seu surgimento no final de 2019, o SARS-CoV-2 se diversificou gerando muitos variantes co-circulantes. Para facilitar a discussão desses variantes, nós os agrupamos em clados que são definidos por mutações específicas.
 
 Atualmente definimos 5 agrupamentos principais (veja [esse post no blog](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) para mais detalhes):
 
 * 19A e 19B surgiram em Wuhan e dominou o início da epidemia.
 * 20A surgiu desde o 19A, dominou o surto europeu em Março e, desde então, se espalhou globalmente.
-* 20B e 20C são longos subclados do 20A geneticamente distintos.
+* 20B e 20C são grandes subclados do 20A geneticamente distintos.
 
 
 <svg viewBox="0 0 120 80">
@@ -136,7 +136,7 @@ Não há evidências de que essas outras substituições e reversões resultaram
 # [Analisando construções regionais de forma independente](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
 
 Como há muitos genomas para mostrar em uma única árvore, fornecemos uma análise regional para cada uma das 6 regiões mostradas aqui, além de nossa construção 'global' principal.
-Isso nos permite focar na diversidade dentro de cada região, enquanto escolhemos amostras fora da região apropriadas, para que possamos manter uma visão geral de todas as transmissões entre regiões ao longo do tempo - como podemos ver neste slide!
+Isso nos permite focar na diversidade dentro de cada região, enquanto escolhemos amostras apropriadas de fora da região, para que possamos manter uma visão geral de todas as transmissões entre regiões ao longo do tempo - como podemos ver neste slide!
 
 Nos próximos slides, forneceremos uma visão geral de cada uma dessas regiões, alternando para o conjunto de dados correspondente. (Este é um novo recurso das Narrativas Nextstrain!)
 
@@ -155,7 +155,7 @@ A cor de cada linha de transmissão (linhas entre círculos) representa o local 
 #### Transmissões para a Ásia
 
 Isso mostra que muitas das transmissões envolvendo países asiáticos e não asiáticos foram importações para a Ásia (linhas cinzas).
-Sob esse ponto de vista, são especialmente pronunciadas as transmissões da Europa para a Ásia (embora as linhas pareçam vir da Alemanha, este ponto representa toda a Europa). No entanto, devemos ser cautelosos sobre como interpretamos essas transmissões inferidas, pois os vieses de amostragem podem ter um grande papel (e temos muito mais amostras da Europa do que de qualquer outro lugar).
+Sob esse ponto de vista, são especialmente evidentes as transmissões da Europa para a Ásia (embora as linhas pareçam vir da Alemanha, este ponto representa toda a Europa). No entanto, devemos ser cautelosos sobre como interpretamos essas transmissões inferidas, pois os vieses de amostragem podem ter um grande papel (e temos muito mais amostras da Europa do que de qualquer outro lugar).
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -164,7 +164,7 @@ Sob esse ponto de vista, são especialmente pronunciadas as transmissões da Eur
 Olhando para os genomas amostrados depois de 1º de junho (ou seja, nos últimos 2 meses), vemos que a amostragem é dominada por menos países.
 Isso limita as conclusões que podemos tirar, mas parece que podemos ter menos transmissões entre os países.
 
-Isso também é evidente olhando para a filogenia, onde temos grandes agrupamentos monofiléticos (na mesma parte da árvore) de genomas de Cingapura (amarelo) e Bangladesh (verde claro).
+Isso também é evidente olhando para a filogenia, onde temos grandes agrupamentos monofiléticos (na mesma parte da árvore) de genomas de Singapura (amarelo) e Bangladesh (verde claro).
 
 Esses dados são consistentes com viagens internacionais menos recentes e medidas de controle mais rígidas.
 
@@ -172,14 +172,14 @@ Esses dados são consistentes com viagens internacionais menos recentes e medida
 <!-- ############ SLIDE BREAK ############# -->
 # [Visão geral da Oceania](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
 
-Aqui podemos explorar ~ 790 genomas da Austrália e Nova Zelândia com um extra de ~ 1100 sequências para fornecer um contexto global.
+Aqui podemos explorar ~790 genomas da Austrália e Nova Zelândia com um extra de ~1100 sequências para fornecer um contexto global.
 Apenas amostras da Austrália e da Nova Zelândia estão coloridas.
 
-Você pode ver que essas amostras estão espalhadas por toda a árvore, indicando que a Oceania foi exposta à ( maior parte) diversidade genômica observada do SARS-CoV-2.
+Você pode ver que essas amostras estão espalhadas por toda a árvore, indicando que a Oceania foi exposta à (maior parte) diversidade genômica observada do SARS-CoV-2.
 
-A maioria das amostras da Nova Zelândia (azuis, roxos, verdes) vem de uma estreita faixa temporal que cobre março e abril, devido à estratégia de controle bem-sucedida empregada pelo governo da Nova Zelândia. Embora o país esteja de volta à normalidade relativa, as fronteiras ainda estão fechadas para todos os não-cidadãos para limitar as chances de o vírus entrar novamente no país. Os cidadãos que retornam devem ficar em quarentena por 14 dias antes de entrar no país.
+A maioria das amostras da Nova Zelândia (azuis, roxos, verdes) vem de uma estreita faixa temporal que cobre março e abril, devido à estratégia de controle bem-sucedida empregada pelo governo da Nova Zelândia. Embora o país esteja de volta à normalidade relativa, as fronteiras ainda estão fechadas para todos os não-cidadãos para limitar as chances de o vírus entrar novamente no país. Os cidadãos que retornam devem ficar em quarentena por 14 dias antes de circular no país.
 
-Esta semana, o governo da Nova Zelândia anunciou quatro novos casos de transmissão comunitária que não podem ser associados aos casos que chegam. O sequenciamento genético pode ajudar a descobrir como o SARS-CoV-2 contornou os controles rígidos - mais abaixo!
+Esta semana, o governo da Nova Zelândia detectou quatro novos casos de transmissão comunitária que não puderam ser associados a casos importados. O sequenciamento genético pode ajudar a descobrir como o SARS-CoV-2 contornou os controles rígidos - veja mais informação abaixo!
 
 _DICA: se você passar o mouse sobre os círculos do mapa, poderá ver as dicas relevantes destacadas na árvore!_
 
