@@ -251,8 +251,7 @@ We can also see distinct clusters of transmission involving Colombia (orange), C
 Nós também podemos ver diversos agrupamentos representando cadeias de transmissão na Colômbia (laranja), Chile (turquesa), Uruguai (azul mais claro) espalhados por toda a árvore. 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [A situação mais recente na América do Sul
-](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
+# [A situação mais recente na América do Sul](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
 
 Infelizmente, enquanto o vírus SARS-CoV-2 continua a se espalhar amplamente pela América do Sul, a geração de sequências não acompanhou. Embora o número de casos siga alto por todo o continente, apenas 68 amostras de 5 países (Brasil, Equador, Uruguai, Argentina e Chile) foram sequenciadas desde Maio.
 
