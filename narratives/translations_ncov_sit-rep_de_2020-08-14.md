@@ -29,10 +29,10 @@ Das neuartige Coronavirus ist derzeit weltweit verbreitet, mit mehr als [1,5 Mil
 ### **\"Sobald Länder angefangen haben Massnahmen in Gesellschaft und Gesundheitswesen zu lockern, die zur Eindämming der Verbreitung des Virus implementiert worden sind,  konnten viele dieser Länder Cluster oder ein Wiederansteigen der Fallzahlen feststellen. Insbesondere fragile, ressourcenarme und von Konflikten betroffenen Gegenden haben ein erhöhtes Risiko und sind verwundbar.\"**
 \n\n
 ### Die weltweite Sequenzierung von SARS-CoV-2 Genomen wurde unvermindert weitergeführt. Wir nutzen diese Daten in Nextstrain, um die geografische Ausbreitung und Weiterentwicklung des Viruses verfolgen zu können.
-Bis jetzt wurden über 75.000 Sequenzen aus der Hälfte der Länder weltweit öffentlich geteilt - eine Meisterleistung ermöglicht durch Wissenschaftler und Gesundheitsbehörden.
+Bis jetzt wurden über 75.000 Sequenzen aus der Hälfte der Länder der Welt öffentlich geteilt - eine Meisterleistung ermöglicht durch Wissenschaftler und Gesundheitsbehörden.
 \n\n
 ### Wir verwenden Subsampling-Ansätze, um potenzielle Stichprobenverzerrungen zu beseitigen und somit sicherstellen zu können, dass alle Regionen und Zeiträume für die Analyse angemessen berücksichtigt werden.
-(Das hilft auch die Analyze zu beschleunigen.)
+(Das hilft auch die Analyse zu beschleunigen.)
 \n\n
 ### Im Folgenden ist die geografische Verteilung von ungefähr 4300 Genomen dargestellt.
 Jeder Kreis ist auf einem einzelnen Land zentriert, die Farbe indiziert die Region und der Radius steigt mit der Anzahl an sequenzierter Genome in dem jeweiligen Land ([Hier können Sie Hilfe zur Interpretation der Karte in Nextstrain finden](https://nextstrain.org/docs/visualisation/map-interpretation)).
@@ -120,11 +120,11 @@ Es gibt Länder in Asien, die einen höheren Anteil an 19A und 19B (hier in blau
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Die bekannt gewordene D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
+# [Die viel diskutierte D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
-Die D614G-Substitution im Gen, das für das Spike (S) - Protein kodiert, war kürzlich in den Nachrichten und wurde vielfach diskutiert.
+Die D614G-Substitution im Gen, das für das Spike (S) - Protein kodiert, war kürzlich in den Nachrichten.
 
-Es scheint, dass die G-Variante (hier gelb dargestellt) die Infektiosität von SARS-CoV-2 _in vitro_ erhöht und möglicherweise für die erhöhte Mensch-zu-Mensch Übertragung selektiert worden ist ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). Allerdings kann eine Erhöhung der Infektiosität das Virus anfälliger für neutralisierende Antikörper werden lassen ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
+Es scheint, dass die G-Variante (hier gelb dargestellt) die Infektiosität von SARS-CoV-2 _in vitro_ erhöht und möglicherweise für erhöhte Mensch-zu-Mensch Übertragung selektiert worden ist ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). Allerdings kann eine Erhöhung der Infektiösität das Virus anfälliger für neutralisierende Antikörper werden lassen ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
 Hier können wir sehen, dass diese Variante sehr kurz nach der anfänglichen Zoonose aufgetreten ist und sich anschließend auf der ganzen Welt ausgebreitet hat.
 Im Juli machte die 614G Variante den Grossteil der zirkuliernden Viren weltweit aus. Seit dem ersten Auftreten ist die Mutante mehrfach wiederholt aufgetreten und vereinzelt auch wieder zur 614D-Variante zurückmutiert.
@@ -164,7 +164,7 @@ Schaut man sich die genomischen Daten nach dem 1.Juni an (beispielsweise die let
 
 Das ist auch in der Phylogenie sichtbar, wo große monophyletische (im gleichen Teil des Baumes) Gruppierungen von Genomen aus Singapur (gelb) und Bangladesch (hellgrün) zu finden sind.
 
-Diese Daten sind kohärent mit der Einschränkung von Auslandsreisen und strenger Kontrolmassnahmen.
+Diese Daten sind konsistent mit der Einschränkung von Auslandsreisen und strengen Kontrolmassnahmen.
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -203,31 +203,31 @@ Die Quelle ist bis jetzt noch unbekannt, aber Wissenschaftler haben die Virusiso
 <!-- ############ SLIDE BREAK ############# -->
 # [Anfänge in Europa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
-SARS-CoV-2 hat sich schnell innerhalb Europas ausbreiten können und hatte seinen Ursprung hauptsächlich in direkter Übertragungsketten aus Asien.
+SARS-CoV-2 hat sich schnell innerhalb Europas ausbreiten können und hatte seinen Ursprung hauptsächlich in direktem Eintrag aus Asien.
 
-Obwohl über nur [einige 100 Fälle](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) in Europa bis Ende Februar berichtet worden war, war das Virus zu diesem Zeitpunkt bereits in mindestens 15 Ländern detektiert worden.
+Obwohl bis Ende Februar nur [einige 100 Fälle](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) in Europa bestätigt waren, war das Virus zu diesem Zeitpunkt bereits in mindestens 15 Ländern detektiert worden.
 
-Geht man von einer niedrigen Testrate innerhalb der Anfänge der Pandemie aus, kann davon ausgegangen werden, dass das Virus schon früh in Europa im Umlauf gewesen sein musste, auch in Ländern, aus denen wir keinerlei Proben haben.
+Da die Testrate zu Anfang der Pandemie niedrig war, kann davon ausgegangen werden, dass das Virus schon früh in Europa im Umlauf gewesen sein musste, auch in Ländern, aus denen wir keinerlei Proben haben.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Lockdown in Europa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
 
-Zwischen März und April waren die Grenzen innerhalb Europas grösstenteils geschlossen und viele Länder implementierten unterschiedliche "Lockdowns", wie zum Beispiel die Einschränkung der Bewegungsfreiheit und das Schliessen von Schulen und Geschäften. Wir erwarten daher einen Abfall in der Übertragungsrate zwischen den Ländern, was bedeutet, dass jegliche Sequenzen aus einem Land mit früheren Sequenzen aus diesem Land clustern.
+Zwischen März und April waren die Grenzen innerhalb Europas grösstenteils geschlossen und viele Länder implementierten unterschiedliche "Lockdowns", wie zum Beispiel die Einschränkung der Bewegungsfreiheit und das Schliessen von Schulen und Geschäften. Wir erwarten daher einen Abfall in der Übertragungsrate zwischen den Ländern, was bedeutet, dass Sequenzen aus einem Land mit früheren Sequenzen aus diesem Land clustern.
 
-Dennoch hatte sich SARS-CoV-2 bereits so stark innerhalb Europas ausgebreitet, dass verschiedene Varianten in vielen Ländern zu finden sind. Bereits vor dem Lockdown hatten viele Länder zahlreiche Varianten die mit anderen Viren in anderen Ländern verwandt waren. Das bedeutet, dass das phylogenetische Bild sehr durchmischt ist, obwohl Grenzen geschlossen worden sind (hier durch nah beieinander liegende Farben auf einem Baum indiziert).
+Dennoch hatte sich SARS-CoV-2 bereits so stark innerhalb Europas ausgebreitet, dass viele Varianten in vielen Ländern zu finden sind. Bereits vor dem Lockdown hatten viele Länder zahlreiche Varianten die mit anderen Viren in anderen Ländern verwandt waren. Das bedeutet, dass das phylogenetische Bild sehr durchmischt ist (unterschiedliche Farben nah beieinander im Baum), obwohl Grenzen geschlossen worden sind.
 
-Aber es gibt ein paar erwartungsgemässe Hinweise zur lokaler Übertragung. Finnland und Schweden weisen ausgeprägte Übertragunsgcluster in grün und orange auf (ca. 1/3 von oben), während Spanien (dunkelblau) hingegen eine eindeutige lokale Übertragungsketten an beiden Baumenden aufweist. Sowohl Island (lila) als auch die Schweiz (hellblau) weisen lokale Übertragungscluster auf.
+Aber es gibt auch Hinweise für lokale Übertragung. Finnland und Schweden weisen ausgeprägte Übertragunsgcluster in grün und orange auf (ca. 1/3 von oben), während Spanien (dunkelblau) hingegen eine eindeutige lokale Übertragungsketten an beiden Baumenden aufweist. Sowohl Island (lila) als auch die Schweiz (hellblau) weisen lokale Übertragungscluster auf.
 
 _Tipp: Die Legende kann durch klicken auf 'Country' oben links im Baum erweitert werden!_
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Kürzliche europäische Sequenzsdaten heben die lokale Übertragung hervor und helfen uns die frühere Ausbreitung von SARS-CoV-2 besser zu verstehen](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
+# [Rezente europäische Sequenzsdaten heben die lokale Übertragung hervor und helfen uns die frühere Ausbreitung von SARS-CoV-2 besser zu verstehen](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
 
 Wenn man nur Proben aus den letzten paar Wochen betrachtet, dann können 2 wichtige Punkte festgestellt werden:
 
-Erstens sehen wir eine Tendenz hinzu Gruppierungen an Baumspitzen in Minicluster. Das deutet darauf hin, dass Übertragung innerhalb von Ländern weiterhin dominant ist - höchstwahrscheinlich aufgrund von verschiedenen implementierten Regulationen innerhalb Europas. Das Virus konnte sich während des Lockdowns weiterhin verbreiten, aber war wahrscheinlich beschränkt auf ein Land, was bedeutet, dass wir lokale "Varianten" von denen aus anderen Ländern besser unterscheiden können.
+Erstens sehen wir eine Tendenz hinzu Gruppierungen an Baumspitzen in Minicluster. Das deutet darauf hin, dass Übertragung innerhalb von Ländern weiterhin dominant ist. Das Virus konnte sich während des Lockdowns weiterhin verbreiten, aber war wahrscheinlich beschränkt auf ein Land, was bedeutet, dass wir lokale "Varianten" von denen aus anderen Ländern besser unterscheiden können.
 
 Einige Proben folgen nicht diesem Muster. Fährt man über ein Land in der Legende, werden die Baumspitzen hervorgehoben, was hilfreich zur Identifikation solcher Proben ist. Beispielsweise sieht man in der Baummitte einige schwedische Proben (grün) innerhalb einer grossen russischen Klade (rot).
 Aufgrund von starkem Subsampling sollte man trotzdem vorsichtig mit Interpretationen bezüglich potenzieller Übertragungen zwischen einzelnen Ländern sein.
