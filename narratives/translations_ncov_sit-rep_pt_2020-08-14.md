@@ -36,7 +36,7 @@ Até o momento, existem mais de 75.000 sequências compartilhadas publicamente p
 (Isso também ajuda para os requisitos computacionais.)
 \n\n
 ### Aqui você pode ver a distribuição geográfica dos ~4300 genomas.
-Cada círculo é centrado em um país individual, a cor indica a região e as escalas de raio indicam o número de genomas daquele país ([veja aqui para obter ajuda na interpretação do mapa em Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
+Cada círculo é centrado em um país individual, a cor indica a região e o diâmetro dos círculos indicam o número de genomas daquele país ([clique aqui para obter ajuda na interpretação do mapa em Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
 \n\n
 ### Neste relatório, examinamos a epidemiologia genômica global da COVID-19 de forma ampla e fornecemos atualizações específicas para cada região do mundo.
 "
