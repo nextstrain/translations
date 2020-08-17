@@ -209,13 +209,13 @@ Garis keturunan ini berasal dari Eropa, namun kemudian terpantau di wilayah-wila
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Early situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
+# [Situasi terdahulu di Eropa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
-SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.
+SARS-CoV-2 menyebar cepat di Eropa, sepertinya terutama melalui penularan langsung dari Asia.
 
-By the end of February, even though there were just [a few hundred cases](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) officially reported in Europe, the virus had spread to at least 15 European countries.
+Pada akhir Pebruari, meskipun hanya terdapat [beberapa ratus kasus](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) yang resmi dilaporkan di Eropa, si virus telah menyebar setidaknya ke 15 negara Eropa.
 
-Given that sampling was less common in the early days of the pandemic, SARS-CoV-2 was almost certainly already circulating across must of Europe, including in countries for which we don't have samples.
+Mengingat bahwa penyampelan hanya sedikit dilakukan pada masa awal pandemik, SARS-CoV-2 dipastikan telah beredar meluas di Eropa, termasuk negara-negara yang kami tidak memiliki sampelnya.
 
 
 <!-- ############ SLIDE BREAK ############# -->
