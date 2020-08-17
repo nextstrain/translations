@@ -1,5 +1,5 @@
 ---
-title: August 2020 update of COVID-19 genomic epidemiology
+title: Aktualizacja epidemiologii genomowej COVID-19 z sierpnia 2020 r
 authors:
   - James Hadfield
   - Cassia Wagner
@@ -32,7 +32,7 @@ Pandemia jest obecnie szeroko rozpowszechniona na całym świecie, z ponad [1.5 
 \n\n
 ### **\"Ponieważ kraje złagodziły środki społeczne i zdrowia publicznego, wprowadzone w celu zmniejszenia przenoszenia wirusa, wiele z tych krajów zaobserwowało skupiska lub nawroty zarażeń. Zagrożenia są jeszcze większe w niestabilnych, ubogich w zasoby i dotkniętych konfliktami regionach. \"**
 \n\n
-### Ogólnoświatowe sekwencjonowanie genomu SARS-CoV-2 trwa nieprzerwanie, a Nextstrain może ich używać do śledzenia ruchu geograficznego i ewolucji wirusa.
+### Ogólnoświatowe sekwencjonowanie genomu SARS-CoV-2 trwa nieprzerwanie, a Nextstrain korzysta z nich do śledzenia ruchu geograficznego i ewolucji wirusa.
 Do tej pory udostępniono publicznie ponad 75 tysięcy sekwencji z połowy krajów na świecie - co jest niesamowitym świadectwem pracy naukowców i urzędników zdrowia publicznego.
 \n\n
 ### Stosujemy metody pobierania podpróbek, żeby usunąć potencjalny błąd próbkowania, aby upewnić się, że regiony i okresy czasowe są odpowiednio uwzględnione w analizie.
@@ -71,9 +71,9 @@ Each circle is centered on an individual country, the colour indicates region an
 <!-- table of contents slide -->
 # [COVID-19 - Podsumowanie](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-### Table of contents
+### Spis treści
 * [Globalne rozmieszczenie kladów](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [D614G Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
+* [Mutacja D614G Spike](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
 * [Sytuacja w Azji](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
 * [Sytuacja w Oceanii](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
 * [Sytuacja w Europie](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
@@ -83,7 +83,7 @@ Each circle is centered on an individual country, the colour indicates region an
 * [Podsumowanie](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
 * [Podziękowania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
 
-#### Nextstrain Resources
+#### Materiały Nextstrain
 * [ZACZNIJ TUTAJ: Jak interpretować drzewa filogenetyczne](https://nextstrain.org/narratives/trees-background/pl)
 * [Poprzednie raporty sytuacyjne](https://nextstrain.org/ncov-sit-reps/)
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)
@@ -93,25 +93,25 @@ Each circle is centered on an individual country, the colour indicates region an
 
 # Streszczenie
 
-W tym reporcie przeanalizowaliśmy publicznie dostępne genomy SARS-CoV-2. Poprzez wzajemne porównanie genomów wirusowych możemy scharakteryzować w jaki sposób COVID-19 przemieszcza się po świecie i rozprzestrzenia lokalnie.
+W tym raporcie przeanalizowaliśmy publicznie dostępne genomy SARS-CoV-2. Poprzez wzajemne porównanie genomów wirusowych możemy scharakteryzować w jaki sposób COVID-19 przemieszcza się po świecie i rozprzestrzenia lokalnie.
 
 - Azja cechuje się największą proporcją kladów 19A i 19B, podczas gdy w Europie i Ameryce Północnej dominują klady 20A, 20B i 20C. 
 
 - Globalnie, można wyraźnie zaobserwować wzrost znaczenia substytucji D614G w białku Spike. Przypuszcza się, że ten wariant powoduje wzrost transmisji SARS-CoV-2.
 
-- Aby lepiej przedstawić dane dotyczące SARS-CoV-2 na świecie w realnym czasie przeprowadzamy 6 regionalnych i 1 światową kompilację, które są aktualizaowane każdego dnia roboczego.
+- Aby lepiej przedstawić dane dotyczące SARS-CoV-2 na świecie w realnym czasie przeprowadzamy 6 regionalnych i 1 światową kompilację danych, które są aktualizowane każdego dnia roboczego.
 
-- W Azji było wiele międzykrajowych transmisji na wczesnym etapie pandemii. Ostatnio widzimy więcej transmisji wewnątrz kraju - trend, który widzimy w większości regionów.
+- W Azji było wiele międzykrajowych transmisji na wczesnym etapie pandemii. Ostatnio widzimy więcej transmisji wewnątrz krajów - trend, który widzimy w większości regionów.
 
 - W Oceanii, przypadki w Nowej Zelandii są zawarte w wąskim przedziale czasowym, co odpowiada eliminacji wirusa (aż do obecnego tygodnia). Niedawny wzrost przypadków w Australii, przynajmniej według dotychczasowo udostępnionych próbek, jest ściśle związany z wariantami wcześniej krążącymi w regionie. 
 
-- SARS-CoV-2 rozpowszechnia się wyjątkowo szybko w Europie - wirus najprawdopodobniej rozprzestrzenił się w wielu krajach zanim to sobie uświadomiono. To zaowocowało mieszaniem się wielu europejskich próbek na początku pandemii, co utrudniało rozróżnianie i identyfikację introdukcji z jednego miejsca do drugiego. Ostatnio możemy zaobserwować odmienne warianty powiązane z konkretnym krajem, ponieważ transmisja wirusów została ograniczona z powodu restrykcji związanych z podróżowaniem.
+- SARS-CoV-2 rozpowszechnia się wyjątkowo szybko w Europie - wirus najprawdopodobniej rozprzestrzenił się w wielu krajach zanim to sobie uświadomiono. To zaowocowało mieszaniem się wielu europejskich próbek na początku pandemii, co utrudniało rozróżnianie i identyfikację introdukcji z jednego miejsca do drugiego. Ostatnio możemy zaobserwować odmienne warianty powiązane z konkretnymi krajami, ponieważ transmisja wirusów została ograniczona z powodu restrykcji związanych z podróżowaniem.
 
 - Podobnie do innych regionów, w Ameryce Południowej doszło do wielokrotnych introdukcji, obejmujących większość znanej różnorodności SARS-CoV-2. Po wprowadzeniu ograniczeń dotyczących podróżowania, sekwecje zaczęły wyraźniej się grupować. Niestety, pomimo poważnych epidemii w wielu krajach, nowsze sekwencje nie są łatwo dostępne.
 
-- Afryka również miała wiele zróżnicowanych introdukcji we wczesnej fazie pandemii. Wydaje się, że kolejne restrykcje związane z podróżowaniem ograniczyły mieszanie się pomiędzy krajami afrykańskimi, a większość sekwencji wydaje się pochodzić z wcześniejszej różnorodnosci w danym kraju.
+- Afryka również miała wiele zróżnicowanych introdukcji we wczesnej fazie pandemii. Wydaje się, że kolejne restrykcje związane z podróżowaniem ograniczyły mieszanie się pomiędzy krajami afrykańskimi, a większość sekwencji wydaje się pochodzić ze zmienności wirusa obecnej wcześniej w poszczególnych krajach.
 
-- Inaczej przedstawia się sytuacja w Stanach Zjednoczonych, gdzie podróże krajowe nie były znacząco ograniczane: widzimy mieszanie się pomiędzy wszystkimi stanami, a także lokalną transmisję. W Meksyku i Ameryce Środkowej widzimy przykłady geograficznych klastrów transmisji, szczególnie pomiędzy Kalifornią (USA) a Kalifornią Dolną (Baja California, Meksyk)
+- Inaczej przedstawia się sytuacja w Stanach Zjednoczonych, gdzie podróże krajowe nie były znacząco ograniczane: widzimy mieszanie się pomiędzy wszystkimi stanami, a także lokalną transmisję. W Meksyku i Ameryce Środkowej widzimy przykłady geograficznych klastrów transmisji, szczególnie pomiędzy Kalifornią (USA) a Kalifornią Dolną (Baja California, Meksyk).
 
 <!-- # Executive Summary
 
@@ -141,7 +141,7 @@ In this report, we analyzed publicly shared SARS-CoV-2 genomes. By comparing the
 <!-- ############ SLIDE BREAK ############# -->
 # [Ogólnoświatowe rozmieszczenie wariantów genetycznych](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
-Od czasu pojawienia się wirusa pod koniec 2019, SARS-CoV-2 zróżnicował się na kilka różnych rozprzestrzeniającyh się wariantów. Aby ułatwić dyskusję na temat tych wariantów, zgrupowaliśmy je w klady zdefiniowane przez określone sygnatury mutacji.
+Od czasu pojawienia się wirusa pod koniec 2019, SARS-CoV-2 zróżnicował się na kilka różnych rozprzestrzeniających się wariantów. Aby ułatwić dyskusję na temat tych wariantów, zgrupowaliśmy je w klady zdefiniowane przez określone sygnatury mutacji.
 
 Obecnie definiujemy 5 głównych kladów (zobacz [ten post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) po więcej informacji):
 
@@ -167,7 +167,7 @@ Tutaj przyglądamy się rozmieszczeniu tych kladów na świecie (kolor reprezent
 Możemy zobaczyć, że kraje w regionie azjatyckim mają wyższą proporcję 19A i 19B (niebieskie) ponieważ ten wariant dominował we wczesnej fazie epidemii. 
 W Europie i Ameryce Północnej widzimy mieszaninę wszystkich kladów, ale dominują 20B i 20C (odpowiednio żółty i pomarańczowy).
 
-#### Jeśli dysponujesz sekwencjami SARS-CoV-2 i chciałbyś/chciałabyś wiedzieć do jakiego kladu należy (i szacowaną pozycję na drzewie filogenetycznym), stworzyliśmy Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) który pozwala ci przeciągnąć i upuścić pliki FASTA w przeglądarce.
+#### Jeśli dysponujesz sekwencjami SARS-CoV-2 i chciałbyś/chciałabyś wiedzieć do jakiego kladu należą (oraz ich szacowaną pozycję na drzewie filogenetycznym), stworzyliśmy Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)), dzięki któremu możesz przeciągnąć i upuścić pliki FASTA w przeglądarce.
 
 <!-- We're now looking at the distribution of these clades across the world (the color now represents clade membership).
 You can see that countries in the Asia region have a higher proportion of 19A and 19B (blues) as that variant dominated in the early outbreak.
@@ -182,7 +182,7 @@ Substytucja D614G w genie kodującym białko Spike (S) była niedawno opisywana 
 Pojawiają się dowody, że wariant G (przedstawiony na żółto) zwiększa zakaźność SARS-CoV-2 _in vitro_ i mógł podlegać selekcji na zwiększoną transmisję pomiędzy ludźmi ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). Ale wzrost w zakaźności może potencjalnie odbywać się kosztem uczynienia wirusa bardziej podatnym na przeciwciała ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
 Tutaj możemy zobaczyć, że ten wariant pojawił się bardzo wcześnie po początkowej zoonozie, a następnie rozprzestrzenił się po świecie.
-W lipcu wariant 614G był obecny w większości krążących po świecie wirusów. Od czasu pierwszego pojawienia się mutacji, ta substytucja pojawiała się wielokrotnie, a także powracała z powrotem do wariantu 614D.
+W lipcu wariant 614G był obecny w większości krążących po świecie wirusów. Od czasu pierwszego pojawienia się mutacji, ta substytucja pojawiała się później wielokrotnie, a także powracała z powrotem do wariantu 614D.
 Nie ma dowodów na to, że te subsytutcje i odwrócenia spowodowały ciągłe łańcuchy transmisji.
 
 <!--The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
@@ -216,7 +216,7 @@ Jeśli zbadamy sytuację w Azji opierając się na kolekcji genomów pobranych p
 #### Interpretacja linii i kolorów
 
 Tutaj tylko kraje azjatyckie zostały pokolorowane, z innymi regionami reprezentowanymi w odcieniach szarości.
-Kolor każdej linii transmisji (linie pomiędzy kółkami) reprezentuje pojedynczą lokację, więc wszystkie **kolorowe** linie reprezentują transmisję zapoczątkowaną w kraju azjatyckim (w tym przypadku).
+Kolor każdej linii transmisji (linie pomiędzy kółkami) reprezentuje pojedynczą lokację, więc wszystkie **kolorowe** linie reprezentują transmisje zapoczątkowane w kraju azjatyckim (w tym przypadku).
 
 #### Transmisja w Azji
 
@@ -236,9 +236,9 @@ Especially pronounced in this view are those transmissions from Europe to Asia (
 # [Azja - sytuacja po 1 czerwca](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
 
 Patrząc na genomy próbkowane po 1 czerwca (czyli w ciągu ostatnich dwóch miesięcy), widzimy, że próbkowanie jest zdominowane przez mniej krajów.
-To ogranicza możliwości wnioskowania, ale wygląda na to, że mamy mniej transmsji pomiędzy krajami. 
+To ogranicza możliwości wnioskowania, ale wygląda na to, że mamy mniej transmisji pomiędzy krajami. 
 
-Jest to także oczywiste gdy patrzymy na filogenezę, w której mamy duże zgrupowanie monofiletyczne (czyli w tej samej częsci drzewa) genomów z Singapuru (żółty) i Bangladeszu (jasny zielony).
+Jest to także oczywiste gdy patrzymy na filogenezę, w której mamy duże zgrupowanie monofiletyczne (czyli w tej samej części drzewa) genomów z Singapuru (żółty) i Bangladeszu (jasny zielony).
 
 Te dane są zgodne z surowszymi środkami kontroli i mniejszą liczbą podróży międzynarodowych.
 
@@ -254,9 +254,9 @@ Tutaj badamy ~790 genomów z Australii i Nowej Zelandii z dodatkowymi ~1100 sekw
 
 Widzimy, że te próbki są rozrzucone po całym drzewie, wskazując, że Oceania była narażona na większość obserwowanej różnorodności genetycznej SARS-CoV-2.
 
-Większość próbek z Nowej Zelandii (niebieskie, fioletowe, zielone) pochodzi z wąskiego przedziału czasowego obejmującego marzec i kwiecień, co wynika z udanej strategii kontroli zastosowanej przez rząd Nowej Zelandii. Podczas gdy kraj wrócił do względnej normalności, granice wciąż są zamknięte dla wszystkich nie-obywateli, aby ograniczyć szanse na powrót wirusa w kraju. Powracający obywatele muszą odbyć 14 dniową kwarantannę przed wkroczeniem do kraju. 
+Większość próbek z Nowej Zelandii (niebieskie, fioletowe, zielone) pochodzi z wąskiego przedziału czasowego obejmującego marzec i kwiecień, co wynika z udanej strategii kontroli zastosowanej przez rząd Nowej Zelandii. Podczas gdy kraj wrócił do względnej normalności, granice wciąż są zamknięte dla wszystkich nie-obywateli, aby ograniczyć szanse na powrót wirusa do kraju. Powracający obywatele muszą odbyć 14 dniową kwarantannę przed wkroczeniem do kraju. 
 
-W tym tygodniu rząd Nowej Zelandii ogłosił 4 nowe zakażenia związane z lokalną transmisją, która nie może być powiązana z przypadkami z powrotów. Sekwencjonowanie genetyczne może pomóc w odkryciu, w jaki sposób SARS-CoV-2 ominął ścisłe kontrole - więcej informacji poniżej
+W tym tygodniu rząd Nowej Zelandii ogłosił 4 nowe zakażenia związane z lokalną transmisją, która nie może być powiązana z przypadkami z powrotów do kraju. Sekwencjonowanie genetyczne może pomóc w odkryciu, w jaki sposób SARS-CoV-2 ominął ścisłe kontrole - więcej informacji poniżej.
 
 _PODPOWIEDŹ: jeśli poruszysz myszką nad kółkami na mapie, zobaczysz, że odpowiadające im końcówki drzewa są podkreślone!_
 
@@ -271,7 +271,7 @@ _HINT: if you hover your mouse over the circles on the map you can see the relev
 <!-- ############ SLIDE BREAK ############# -->
 # [Odrodzenie w Australii](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
 
-W Australii, oraz stanie Victoria (stolica: Melbourne), przedstawionych tutaj na pomarańczowo, zaobserwowano ponowne pojawienie się zakażeń COVID-19 i wprowadzono kolejne działania związane ze zdrowiem publicznym w celu ograniczenia tego wzrostu.
+W Australii, oraz stanie Victoria (stolica: Melbourne), przedstawionych tutaj na pomarańczowo, zaobserwowano ponowne pojawienie się zakażeń COVID-19 i wprowadzono dodatkowe działania związane ze zdrowiem publicznym w celu ograniczenia tego wzrostu.
 
 Wszystkie najnowsze genomy wydają się być podkladem kladu 20B (przewiń do poprzedniego slajdu, żeby zobaczyć jak klad 20B wpasowuje się w całą filogenezę).
 Niedawne daty i klastrowanie się są sygnałami lokalnego ogniska epidemii.
@@ -289,7 +289,7 @@ We can see similar clustering in sequences from New South Wales, where cases hav
 Nowa Zelandia przez ponad 100 dni raportowała brak transmisji lokalnej, aż do wykrycia zakażeń w społeczności lokalnej w tym tygodniu. 
 Klaster rozprzestrzenia się obecnie do około 30 znanych przypadków (w momencie publikacji), głównie w największym mieście, Auckland.
 
-Źródło zakażenia nie jest jeszcze znane, natomiast naukowcy zsekwencjonowali próbki i stwierdzili, że przynależą do linii B1.1.1 występującej u łuskowców <!-- I am not sure if it should be translated like that, please check it - Marta -->; więc chociaż genomy nie są jeszcze opublikowane, wiadomo, że należą do regionu pokolorowanego na niebiesko.
+Źródło zakażenia nie jest jeszcze znane, natomiast naukowcy zsekwencjonowali próbki i stwierdzili, że przynależą do linii B1.1.1 występującej u łuskowców;<!-- I am not sure if it should be translated like that, please check it - Marta --> więc chociaż genomy nie są jeszcze opublikowane, wiadomo, że należą do regionu pokolorowanego na niebiesko.
 Ta linia pochodzi z Europy, ale została już zaobserwowana w wielu regionach na całym świecie.
 
 <!--New Zealand had reported over 100 days without community transmission before detecting cases in the community this week.
@@ -305,7 +305,7 @@ SARS-CoV-2 rozprzestrzenił się gwałtownie po Europie, prawdopodobnie główni
 
 Pod koniec lutego, mimo że wciąż było oficjalnie raportowanych tylko [kilkaset przypadków zarażenia](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) wirus rozprzestrzenił się do co najmniej 15 krajów europejskich.
 
-Zważywszy na to, że próbkowanie było mniej częste na początku pandemii, SARS-CoV-2 niemal na pewno krążył po większości Europy, wliczając w to kraje, z których nie mamy próbek. 
+Zważywszy na to, że próbkowanie było mniej częste na początku pandemii, SARS-CoV-2 niemal na pewno krążył w większości Europy, wliczając w to kraje, z których nie mamy próbek. 
 <!--SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.
 By the end of February, even though there were just [a few hundred cases](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) officially reported in Europe, the virus had spread to at least 15 European countries.
 Given that sampling was less common in the early days of the pandemic, SARS-CoV-2 was almost certainly already circulating across must of Europe, including in countries for which we don't have samples.-->
@@ -313,11 +313,11 @@ Given that sampling was less common in the early days of the pandemic, SARS-CoV-
 <!-- ############ SLIDE BREAK ############# -->
 # [Lockdown w Europie](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
 
-Przez marzec i kwiecień większość krajów europejskich zamknęła granice i wprowadziła różnego typu ograniczenia ("lockdown"), w tym ograczenia w przemieszczaniu się, zamykanie firm i szkół. Spodziewamy się, że te ograniczenia zmniejszyły transmisję pomiędzy krajami, co spodowało, że bardziej prawdopodobne jest zobaczyć grupowanie się sekwencji z danego kraju razem z poprzednimi sekwencjami z tego samego państwa. 
+Przez marzec i kwiecień większość krajów europejskich zamknęła granice i wprowadziła różnego typu ograniczenia ("lockdown"), w tym ograczenia w przemieszczaniu się, zamykanie firm i szkół. Spodziewamy się, że te ograniczenia zmniejszyły transmisje pomiędzy krajami, co spowodowało, że bardziej prawdopodobne jest zobaczyć grupowanie się sekwencji z danego kraju razem z poprzednimi sekwencjami z tego samego państwa. 
 
 Jednak SARS-CoV-2 był już tak wymieszany w Europie, że różne warianty wirusa krążyły pomiędzy wieloma krajami. Większość krajów miało liczne odmienne warianty krażące przed wprowadzeniem lockdownu, które były jednocześnie spokrewnione z wirusami krążącymi w innych krajach. To oznacza, że filogenetyczny obraz pozostaje dobrze wymieszany nawet po zamknięciu granic (przedstawiony przez wiele kolorów znajdujacych się blisko siebie na drzewie). 
 
-Mimo wszystko widzimy pewne oznaki tranmisji lokalnej, której się spodziewaliśmy. Finlandia i Szwecja mają bardzo odmienne klastry transmisji przedstawione na zielono i pomarańczowo (mniej wiecej 1/3 od góry), podczas gdy w Hiszpanii (ciemny niebieski) występuje odmienna lokalna transmisja na dole i na górze drzewa. Islandia (fioletowy) i Szwajcaria (jasny niebieski) również grupują się w transmisji lokalnej.
+Mimo wszystko widzimy pewne oznaki tranmisji lokalnej, której się spodziewaliśmy. Finlandia i Szwecja mają bardzo odmienne klastry transmisji przedstawione na zielono i pomarańczowo (mniej wiecej 1/3 od góry), podczas gdy w Hiszpanii (ciemny niebieski) występuje odmienna lokalna transmisja na dole i na górze drzewa. Islandia (fioletowy) i Szwajcaria (jasny niebieski) również charakteryzują się klastrami transmisji lokalnej.
 
 _Podpowiedź: Możesz rozwinąć legendę klikając "Country" w górnym lewym rogu drzewa!_
 
@@ -330,9 +330,9 @@ _Hint: You can expand the legend by clicking 'Country' at the top-left of the tr
 <!-- ############ SLIDE BREAK ############# -->
 # [Niedawne sekwencjonowanie w Europie wskazuje na lokalną transmisję i wzbogaca zrozumienie wcześniejszego rozprzestrzeniania się SARS-CoV-2](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
 
-Analiza tylko próbek przesłanych w ciągu ostatniego tygodnia wskazuje na dwie ważne kwestie.
+Analiza próbek przesłanych tylko w ciągu ostatniego tygodnia wskazuje na dwie ważne kwestie.
 
-Po pierwsze, widzimy tendencję w kierunku grupowania się końcówek gałęzi w mini-klastry. To wskazuje, że wewnętrzna transmisja wciąż dominuje - prawdopodobny efekt różnych regulacji wprowadzonych w Europie. Wirus kontynuował różnicowanie się genetyczne w trakcie lockdownu, ale było bardziej prawdopodobne, że zostanie ograniczony do jednego kraju, co oznacza, że możemy obecnie lepiej rozróżnić lokalne "odmiany" od tych z innych krajów. 
+Po pierwsze, widzimy tendencję w kierunku grupowania się końcówek gałęzi w mini-klastry. To wskazuje, że wewnętrzna transmisja wciąż dominuje - prawdopodobny efekt różnych regulacji wprowadzonych w Europie. Wirus kontynuował różnicowanie się genetyczne w trakcie lockdownu, ale częściej był ograniczony do jednego kraju, co oznacza, że możemy obecnie lepiej rozróżnić lokalne "odmiany" od tych z innych krajów. 
 
 Niektóre próbki nie wykazują tego trendu łączenia się z próbkami wewnątrz kraju. Najeżdżając myszką na kraj w legendzie można podświetlić końcówki gałęzi z danego kraju i ułatwić zidentykowanie takich próbek. Na przykład, pośrodku drzewa można zobaczyć niektóre próbki ze Szwecji (zielone) zagnieżdżone w większym kladzie rosyjskim (czerwony).
 Wziąwszy pod uwagę znaczne podpróbkowanie, musimy pozostać ostrożni aby nie nadinterpretować przypuszczalnych transmisji pomiędzy krajami z tego obrazu.
@@ -351,7 +351,7 @@ The reasons for sequencing "old" genomes varies, but these samples help us fill 
 <!-- ############ SLIDE BREAK ############# -->
 # [Wczesna sytuacja w Południowej Ameryce](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
 
-Pierwsze sekwencje genomu SARS-CoV-2 z Ameryki Południowej pojawiły się pod koniec lutego i na początku marca i są rozrzucone po drzewie, sugerując liczne introdukcje. Kiedy podróże międzynarodowe zmniejszyły się w marcu, widzimy dowody na podtrzymaną transmisję lokalną w kilku krajach.
+Pierwsze sekwencje genomu SARS-CoV-2 z Ameryki Południowej pojawiły się pod koniec lutego i na początku marca i są rozrzucone po drzewie, sugerując liczne introdukcje. Po tym jak podróże międzynarodowe zmniejszyły się w marcu, widzimy dowody na podtrzymaną transmisję lokalną w kilku krajach.
 
 Wiele brazylijskich (jasny zielony) sekwencji jest częścią dwóch dużych klastrów (blisko góry drzewa), z pewnymi dowodami na to, że ten wariant przemieszczał się po kontynencie do Chile, Urugwaju i Argentyny. 
 
@@ -390,7 +390,7 @@ South Africa has contributed a large proportion of the sequencing.-->
 
 W Demokratycznej Repulice Konga (DRC), Senegalu i RPA widzimy wyraźnie oznaki lokalnej transmisji jako klastrowanie się sekwencji na drzewie. 
 Z Senegalu i RPA mamy również próbki zebrane niedawno. 
-Te próbki ogólnie mieszczą się w obrębie starszej różnorodności obserwowanej w kraju, tak jak oczekujemy od ciągłej transmisji lokalnej.
+Te próbki na ogół należą do starszej zmienności genetycznej wirusa obserwowanej w kraju, tak jak byśmy oczekiwali w przypadku transmisji lokalnej.
 
 Choć musimy być ostrożni z wyciąganiem wniosków, ponieważ są one w dużym stopniu ograniczone stronniczym próbkowaniem, ostatnie próbki z Afryki nie sugerują pojawiania się wariantów z innych regionów. 
 To odkrycie prawdopodobnie odzwierciedla przedłużane restrykcje w przemieszczaniu się w skali globalnej.
@@ -408,9 +408,9 @@ This finding likely reflects the continued restrictions in movement globally.-->
 
 Tutaj pokazujemy genomy z epidemii w Stanach Zjednoczonych od 15 kwietnia do bieżącego dnia. W środku kwietnia, wszystkie stany USA były w lockdownie. [Od tego czasu stany zaimplementowały niejednorodną politykę ponownego otwarcia](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
 
-Na tym drzewie, tak jak na drzewach z innych regionów, widzimy przykłady lokalnej transmisji wirusa, jak pokazano przez podobnie pokolorowane końcówki gałęzi grupujące się razem w czasie. Jeśli klikniesz na "Explore the Data Yourself", i wybierzesz jako "Location" hrabstwo Yakima (Yakima County), zobaczysz jasny przykład introdukcji i rozwoju genetycznie spokrewnionych wirusów w tym regionie stanu Waszyngton (Washington State). (Możesz też [kliknąć tutaj](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid), aby to zrobić, ale wtedy opuścisz tę narrację).
+Na tym drzewie, tak jak na drzewach z innych regionów, widzimy przykłady lokalnej transmisji wirusa, jak pokazano przez podobnie pokolorowane końcówki gałęzi grupujące się razem w czasie. Jeśli klikniesz na "Explore the Data Yourself" i wybierzesz jako "Location" hrabstwo Yakima (Yakima County), zobaczysz jasny przykład introdukcji i rozwoju genetycznie spokrewnionych wirusów w tym regionie stanu Waszyngton (Washington State). (Możesz też [kliknąć tutaj](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid), aby to zrobić, ale wtedy opuścisz tę narrację).
 
-Jednak na drzewie widzimy też transmisje wewnątrz kraju w poprzek USA, co można zauważyć przez mieszanie się kolorów na końcówkach gałęzi. Na mapie, transmisja wewnątrz kraju wygląda jak linie przedłużające się pomiędzy stanami. Te obserwacje zgadzają się z niewielkimi ograniczeniami podróży krajowej i polityki ponownego otwierania stanów.
+Jednak na drzewie widzimy też transmisje wewnątrz kraju w poprzek USA, co można zauważyć przez mieszanie się kolorów na końcówkach gałęzi. Na mapie, transmisje wewnątrz kraju są widoczne jako linie pomiędzy stanami. Te obserwacje zgadzają się z niewielkimi ograniczeniami podróży krajowej i polityki ponownego otwierania stanów.
 
 
 <!--Here we show genomes from the United States epidemic from April 15 to present day. In mid-April, all U.S. states were on lockdown. [States have since implemented heterogeneous reopening policies](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
@@ -439,15 +439,15 @@ In the center of the tree, there is a cluster of cases in Baja California (in li
 <!-- ############ SLIDE BREAK ############# -->
 # [Podsumowanie](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-Podczas gdy pandemia krąży już ósmy miesiąc po świecie, możemy zaobserwować wyraźne zmiany w czasie na obrazie namalowanym przez genetykę wirusa, głównie zdeterminowane przez zmieniające się zachowanie.
+Podczas gdy pandemia krąży już ósmy miesiąc po świecie, możemy zaobserwować wyraźne zmiany w czasie w obrazie namalowanym przez genetykę wirusa, głównie zdeterminowane przez zmieniające się zachowanie.
 
 Wielokrotne wczesne transmisje do USA, Oceanii, Europy i w poprzek Azji były początkowo wyjątkowo dobrze wymieszane, ponieważ nasze wzory podróży światowych rozprowadzały wirusa niezwykle efektywnie. Niedługo później różne introdukcje wirusa do Ameryki Południowej i Afryki, często z Europy i Ameryki Północnej spowodowały lokalne epidemie.
 
 Gdy skala rozprzestrzeniania się i dotkliwość COVID-19 stała się oczywista, podróże zostały zatrzymane w większości świata. Po tym czasie możemy zobaczyć wyraźne przejście do transmisji lokalnych w trakcie "lockdownów" i największego ograniczenia podróży. Jednym z rezultatów jest to, że obecnie możemy czasem lepiej identyfikować źródło wirusów, gdy lokalne epidemie w niektórych przypadkach stały się bardziej odmienne genetycznie. W USA brak ścisłych regulacji podróży lokalnych umożliwił mieszanie się epidemii pomiędzy stanami.
 
-Granice obecnie są otwierane na nowo i podróże zostały wznowione, choć nie w stopniu zbliżonym do stanu sprzed pandemii. To wraz z opóźnieniem od poboru próbki do jej udostępnienia sprawia, że widzimy tylko nieliczne oznaki mieszania się pomiędzy krajami. Ogólnie, ostatnie próbki mają tendencję grupowania się z poprzednimi sekwencjami z tego samego kraju, wskazując na nieprzerwaną transmisję poprzednio krążących wariantów.
+Granice obecnie są otwierane na nowo i podróże zostały wznowione, choć nie w stopniu zbliżonym do stanu sprzed pandemii. To wraz z opóźnieniem od poboru próbki do jej udostępnienia sprawia, że widzimy tylko nieliczne oznaki mieszania się pomiędzy krajami. Ogólnie rzecz biorąc, ostatnie próbki mają tendencję grupowania się z poprzednimi sekwencjami z tego samego kraju, wskazując na nieprzerwaną transmisję poprzednio krążących wariantów.
 
-Niestety, w wielu krajach widzimy wzrost zakażeń w ostatnich kilku tygodniach, zwykle powiązanych z ponownym otwarciem granic. Ponieważ półkula północna powoli przygotowuje się do jesieni i chłodniejszej pogody, dalszego otwarcia oraz wznowienia szkół, musimy zachować czujność dotyczącą rosnącej liczby przypadków. Wraz z postępem zimy na półkuli południowej widzimy niepokojące objawy, że sezonowość może rzeczywiście przyczyniać się do utrudnienia powstrzymywania transmisji - początkowy sukces Australii w opanowaniu wirusa został osłabiony przez niedawne ogniska epidemii. Kontynuacja i zwiększenie zakresu Testowania, Śledzenia i Izolacji (Test, Trace and Isolate),<!-- not sure how better explain this --> dokładną higiena rąk i sumienne noszenie maseczek może pomóc wielu społecznościom pozostać tak otwartym jak to możliwe podczas dalszej walki z SARS-CoV-2.
+Niestety, w wielu krajach widzimy wzrost zakażeń w ostatnich kilku tygodniach, zwykle powiązanych z ponownym otwarciem granic. Ponieważ półkula północna powoli przygotowuje się do jesieni i chłodniejszej pogody, dalszego otwarcia oraz wznowienia szkół, musimy zachować czujność dotyczącą rosnącej liczby przypadków. Wraz z postępem zimy na półkuli południowej widzimy niepokojące objawy, że sezonowość może rzeczywiście przyczyniać się do utrudnienia powstrzymywania transmisji - początkowy sukces Australii w opanowaniu wirusa został osłabiony przez niedawne ogniska epidemii. Kontynuacja i zwiększenie zakresu Testowania, Śledzenia i Izolacji (Test, Trace and Isolate),<!-- not sure how better explain this --> dokładna higiena rąk i sumienne noszenie maseczek może pomóc wielu społecznościom pozostać tak otwartym jak to możliwe podczas dalszej walki z SARS-CoV-2.
 
 <!--As the pandemic reaches its eighth month of global circulation, we can now see distinct changes over time in the picture painted by viral genetics, largely determined by changing behaviour.
 Multiple early transmissions to the USA, Oceania, Europe, and across Asia, were initially incredibly well-mixed, as our global travel patterns distributed the virus incredibly effectively. Soon afterwards, diverse introductions to South America and Africa, often from Europe and North America, seeded local epidemics there.
