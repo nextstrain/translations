@@ -52,19 +52,19 @@ Jeder Kreis ist auf einem einzelnen Land zentriert, die Farbe indiziert die Regi
 # [COVID-19 Zusammenfassung](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
 ### Inhaltsverzeichnis
-* [Globale Kladenverteilung](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [D614G Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Situation in Asien](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Situation in Ozeanien](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Situation in Europa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Situation in Südamerika](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Situation in Afrika](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Situation in Nordamerika](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Abschliessende Zusammenfassung](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+* [Globale Kladenverteilung](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-08-14?n=2)
+* [D614G Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-08-14?n=3)
+* [Situation in Asien](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-08-14?n=5)
+* [Situation in Ozeanien](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-08-14?n=7)
+* [Situation in Europa](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-08-14?n=10)
+* [Situation in Südamerika](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-08-14?n=13)
+* [Situation in Afrika](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-08-14?n=15)
+* [Situation in Nordamerika](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-08-14?n=17)
+* [Abschliessende Zusammenfassung](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-08-14?n=19)
+* [Danksagung](https://nextstrain.org/narratives/ncov/sit-rep/de/2020-08-14?n=20)
 
 #### Nextstrain Qüllen
-* [BEGINNEN SIE HIER: Wie phylogenetische Bäume zu interpretieren sind.](https://nextstrain.org/narratives/trees-background/)
+* [BEGINNEN SIE HIER: Wie phylogenetische Bäume zu interpretieren sind.](https://nextstrain.org/narratives/trees-background/de)
 * [Frühere Lageberichte.](https://nextstrain.org/ncov-sit-reps/)
 * [Hintergrundwissen zu Coronaviren.](https://nextstrain.org/help/coronavirus/human-CoV)
 
