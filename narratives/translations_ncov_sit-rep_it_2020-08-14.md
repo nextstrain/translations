@@ -62,10 +62,12 @@ Ogni cerchio è centrato su una singola nazione, il colore indica la regione e l
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- table of contents slide -->
-# [COVID-19 Summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+<!-- # [COVID-19 Summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)-->
+# [COVID-19 Sommario](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-### Table of contents
-* [Global clade distribution](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
+<!-- ### Table of contents-->
+### Indice dei contenuti
+<!-- * [Global clade distribution](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
 * [D614G Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
 * [Situation in Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
 * [Situation in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
@@ -74,7 +76,18 @@ Ogni cerchio è centrato su una singola nazione, il colore indica la regione e l
 * [Situation in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
 * [Situation in North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
 * [Closing summary](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+* [Credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)-->
+
+* [Distribuzione globale del clade](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
+* [Mutazione D614G della spike](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
+* [Situatione in Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
+* [Situatione in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
+* [Situatione in Europa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
+* [Situatione in America del Sud](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
+* [Situatione in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
+* [Situatione in America del Nord](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
+* [Conclusioni](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
+* [Ringraziamenti](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
 
 #### Nextstrain Resources
 * [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/)
