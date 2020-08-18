@@ -263,12 +263,12 @@ Meski inferensi kita terbatas oleh penyampelan yang jarang, dalam banyak kasus s
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [SARS-CoV-2 in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+# [SARS-CoV-2 di Afrika](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
 
-Like South America, Africa had several introductions of SARS-CoV-2 to the continent, many likely from Europe. This is shown by the spread of African samples across the tree - even samples from the same country include diverse variants.
+Sebagaimana Amerika Selatan, Afrika mengalami beberapa introduksi SARS-CoV-2 ke benua tersebut, kebanyakan sepertinya dari Eropa. Ini ditunjukkan oleh terpencarnya sampel Afrika dalam pohon - bahkan sampel dari negara yang sama mencakup varian yang beragam.
 
-We now have sequences from countries across Africa throughout the epidemic, though sequencing efforts seem to have declined slightly more recently.
-South Africa has contributed a large proportion of the sequencing.
+Kita kini memiliki sekuens dari negara-negara Afrika sepanjang epidemik, meski usaha pengumpulan sekuens tampak menurun belakangan ini.
+Afrika Selatan menyumbang proporsi yang besar dalam pengumpulan sekuens.
 
 
 <!-- ############ SLIDE BREAK ############# -->
