@@ -209,7 +209,7 @@ Garis keturunan ini berasal dari Eropa, namun kemudian terpantau di wilayah-wila
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Situasi terdahulu di Eropa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
+# [Keadaan terdahulu di Eropa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
 SARS-CoV-2 menyebar cepat di Eropa, sepertinya terutama melalui penularan langsung dari Asia.
 
@@ -245,21 +245,21 @@ Alasan untuk merunut sekuens genom "lama" beragam, namun sampel-sampel ini memba
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The early situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
+# [Keadaan terdahulu di Amerika Selatan](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
 
-South America's first SARS-CoV-2 sequences are from late February and early March, and are scattered across the tree, suggesting multiple introductions. As international travel decreased in March, we can see evidence of sustained local transmission in several countries.
+Sekuens SARS-CoV-2 Amerika Selatan pertama yang berasal dari akhir Pebruari dan awal Maret terpencar di dalam pohon, mengesankan banyak introduksi. Saat perjalanan internasional menurun pada Maret, kita dapat melihat bukti penularan lokal yang tertahan di beberapa negara.
 
-Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence that this variant also moved around the continent to Chile, Uruguay, and Argentina.
+Banyak dari sekuens Brazil (hijau muda) merupakan bagian dari dua klaster besar (dekat puncak pohon), dengan beberapa bukti bahwa varian ini juga bergerak di seantero benua ke Chili, Uruguay, dan Argentina.
 
-We can also see distinct clusters of transmission involving Colombia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree.
+Kita juga dapat klaster penularan yang berbeda meliputi Kolombia (jingga), Chili (pirus), Uruguay (biru muda), dan Argentina (biru tua) terpencar di seluruh pohon.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The more recent situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
+# [Keadaan lebih baru di Amerika Selatan](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
 
-Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.
+Sayangnya, sementara SARS-CoV-2 terus menyebar luas di Amerika Selatan, pemeriksaan sekuens belum terkejar. Meski kasus tetap tinggi hampir di seantero benua, hanya 68 sampel dari 5 negara (Brazil, Ekuador, Uruguay, Argentina, & Chili) telah dibagikan sejak Mei.
 
-Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the varients circulating now are descendants of those introduced early in the epidemic.
+Meski inferensi kita terbatas oleh penyampelan yang jarang, dalam banyak kasus sampel-sampel yang lebih baru ini bersarang dalam keragaman terdahulu yang tersampel di negara yang sama, atau negara Amerika Selatan lainnya. Ini menyarankan varian-varian yang beredar kini merupakan turunan dari yang diintroduksi di awal pandemik.
 
 
 <!-- ############ SLIDE BREAK ############# -->
