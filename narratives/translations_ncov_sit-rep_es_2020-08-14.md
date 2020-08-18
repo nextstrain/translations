@@ -21,7 +21,7 @@ translators:
   - Miguel I. Paredes
 translatorLinks:
   - https://researchers.uq.edu.au/researcher/18392/
-  -
+  - https://twitter.com/ClaudioSFuente1
   - https://twitter.com/miguelp1120
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
