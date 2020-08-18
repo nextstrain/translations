@@ -256,12 +256,12 @@ Aunque nuestras inferencias están limitadas por el muestreo escaso, en la mayor
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [SARS-CoV-2 in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+# [SARS-CoV-2 en África](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
 
-Like South America, Africa had several introductions of SARS-CoV-2 to the continent, many likely from Europe. This is shown by the spread of African samples across the tree - even samples from the same country include diverse variants.
+Al igual que América del Sur, África tuvo varias introducciones de SARAS-CoC-2 al continente, la mayoría probablemente desde Europa. Esto se observa en la distribución de muestras africanas a lo largo del Árbol - incluso muestras de un mismo país contienen diversas variantes.
 
-We now have sequences from countries across Africa throughout the epidemic, though sequencing efforts seem to have declined slightly more recently.
-South Africa has contributed a large proportion of the sequencing.
+Ahora tenemos secuencias de países a lo largo de África y a través de la epidemia, aunque los esfuerzos por secuenciar parecen haber disminuido de forma sutil recientemente. 
+Sudáfrica ha contribuido en gran proporción al secuenciamiento.
 
 
 <!-- ############ SLIDE BREAK ############# -->
