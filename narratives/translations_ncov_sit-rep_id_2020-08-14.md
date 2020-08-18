@@ -30,7 +30,7 @@ Pandemik saat ini menyebar luas ke seluruh dunia, dengan lebih dari [1,5 juta ka
 \n\n
 ### Keadaan [dirangkum oleh WHO pada 2 Agustus 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
-### **\"As countries have eased public health and social measures, implemented to limit transmission of the virus, a number of these countries have observed clusters or resurgences of cases. Risks and vulnerabilities are further magnified in fragile, low-resource and conflict-affected settings.\"**
+### **\"Ketika negara-negara telah melonggarkan kesehatan masyarakat dan tindakan sosial, yang diterapkan untuk membatasi penularan virus beberapa negara ini mengamati klaster atau kebangkitan kasus. Risiko dan kerentanan semakin besar di wilayah yang rapuh, bersumber daya rendah, dan terpengaruh konflik.\"**
 \n\n
 ### Pembacaan sekuens genom SARS-CoV-2 di dunia terus berlanjut, dan dengan data ini kami menggunakan Nextstrain untuk melacak pergerakan geografis dan evolusi si virus.
 Terkini, terdapat lebih dari 75.000 sekuens dibagikan untuk umum dari separuh negara-negara di dunia - warisan luar biasa bagi para ilmuwan dan pejabat kesehatan masyarakat di belakangnya.
@@ -231,17 +231,17 @@ _Petunjuk: Anda dapat memperbesar Keterangan dengan mengklik 'Country' pada kiri
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Recent European sequencing highlights local transmission and enriches understanding of previous SARS-CoV-2 spread](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
+# [Sekuens baru Eropa menyorot penularan lokal dan memperkaya pemahaman tentang penyebaran SARS-CoV-2 terdahulu](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
 
-Examining only samples uploaded in the past week highlights two important points.
+Memeriksa hanya sampel yang diunggah sepekan terakhir menyorot dua hal penting.
 
-Firstly, we can see a tendency towards groupings of tips into mini-clusters. This indicates that within-country transmission is continuing to dominate - likely a product of the various regulations introduced throughout Europe. The virus continued to diversify genetically during the lockdown, but was more likely to be confined to one country, meaning we can often now better distinguish local 'variants' from those in other countries.
+Pertama, kita dapat malihat kecenderungan pengelompokan ujung ke klaster kecil. Ini menandakan bahwa penularan dalam negeri terus mendominasi - sepertinya hasil dari beragam peraturan yang diterapkan di Eropa. Si virus terus berkembang secara genetik saat penguncian, namun lebih cenderung terbatas di satu negara, artinya kita dapat lebih membedakan 'varian' lokal dari yang di negara lain.
 
-Some samples do not follow this trend of linking to other samples from the same country. Hovering over a country in the legend highlights tips in the tree from that country and will help identify such samples. For instance, in the middle of the tree, we can see some Swedish samples (green) nested within a larger Russian clade (red).
-Given the heavy subsampling, we need to remain cautious to not over interpret putative between-country transmissions from this view.
+Beberapa sampel tidak mengikuti pola ini. Melayangkan di atas suatu negara pada keterangan gambar menyorot ujung pada pohon dari negara itu dan akan membantu mengenali sampel semacam itu. Sebagai contoh, di tengah pohon, kita dapat melihat beberapa sampel Swedia (hijau) bersarang di dalam klad Rusia yang lebih besar (merah).
+Mengingat besarnya sub-penyampelan, kita harus tetap berhati-hati untuk tidak membuat penafsiran berlebihan terhadap dugaan penularan antarnegara dari pandangan ini.
 
-Secondly, we can see that the tips have a large difference in horizontal spacing -- i.e. the samples submitted in the past week represent a sample collection time window extending back to early March.
-The reasons for sequencing "old" genomes varies, but these samples help us fill in our understanding of viral evolution and geographical movement.
+Kedua, kita dapat melihat bahwa ujungnya memiliki perbedaan besar pada ruang horizontal -- bahwa sampel yang dikirimkan pada pekan terakhir mewakili rentang waktu pengumpulan sampel yang melebar hingga awal Maret.
+Alasan untuk merunut sekuens genom "lama" beragam, namun sampel-sampel ini membantu untuk mengisi pemahaman kita tentang evolusi virus dan pergerakan geografis.
 
 
 <!-- ############ SLIDE BREAK ############# -->
