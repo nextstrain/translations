@@ -15,9 +15,14 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
-translators: Roy Costilla, Claudio S. Fuente
+translators:
+  - Roy Costilla
+  - Claudio S. Fuente
+  - Miguel I. Paredes
 translatorLinks:
-- https://researchers.uq.edu.au/researcher/18392/
+  - https://researchers.uq.edu.au/researcher/18392/
+  -
+  - https://twitter.com/miguelp1120
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
