@@ -15,7 +15,7 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
-translators: "Provided by Google"
+translators: "Poskytuje Google"
 translatorLinks: "https://www.google.com/"
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
