@@ -1,5 +1,5 @@
 ---
-title: August 2020 update of COVID-19 genomic epidemiology
+title: Thông tin cập nhật tháng 08/2020 về dịch tễ học bộ gen COVID-19
 authors:
   - James Hadfield
   - Cassia Wagner
@@ -20,24 +20,24 @@ translatorLinks:
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
-date: "2020 August 14"
+date: "14/08/2020"
 abstract: "
-The pandemic is currently widespread around the world, with over [1.5 million new cases each week](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) and total reported cases of [18 million](https://ourworldindata.org/covid-cases) and over [600,000 fatailities](https://ourworldindata.org/covid-deaths).
+Đại dịch hiện đang lan rộng trên khắp thế giới, với hơn [1,5 triệu ca nhiễm mới hàng tuần](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports), tổng cộng hơn 18 triệu ca được ghi nhận [](https://ourworldindata.org/covid-cases) và hơn 600.000 [ca tử vong](https://ourworldindata.org/covid-deaths).
 \n\n
-### The situation [is summarised by the WHO on August 2, 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
+### Vào ngày 02/08/2020,[WHO đã tổng hợp tình hình dịch bệnh như sau](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
-### **\"As countries have eased public health and social measures, implemented to limit transmission of the virus, a number of these countries have observed clusters or resurgences of cases. Risks and vulnerabilities are further magnified in fragile, low-resource and conflict-affected settings.\"**
+### **\"Khi những biện pháp y tế cộng đồng và xã hội nhằm hạn chế sự lây lan của vi-rút đã được nới lỏng, một số quốc gia ghi nhận thêm các cụm ca bệnh hoặc các ca tái phát. Rủi ro và những tổn thương lại càng trở nên nghiêm trọng hơn tại các khu vực dễ bị ảnh hưởng, nguồn lực thấp và xảy ra xung đột.\"**
 \n\n
-### The worldwide sequencing of the SARS-CoV-2 genome has continued unabated, and with this data we use Nextstrain to track the geographic movement and evolution of the virus.
-To date, there are over 75,000 sequences publicly shared from half the countries in the world - an amazing testament to the scientists and public health officials behind this.
+### Công cuộc giải mã trình tự bộ gen của SARS-CoV-2 trên toàn thế giới vẫn chưa dừng lại. Với dữ liệu này, chúng tôi sử dụng Nextstrain để theo dõi đường đi và sự phát triển của vi-rút.
+Cho đến hiện tại, đã có hơn 75.000 trình tự bộ gen được chia sẻ công khai từ một nửa số quốc gia trên thế giới, một thành tựu đáng kinh ngạc của các nhà khoa học và các nhân viên y tế cộng đồng.
 \n\n
-### We use subsampling approaches to remove potential sampling biases in order to ensure that regions and time-periods are appropriately included for analysis.
-(This also helps for the computational requirements.)
+### Chúng tôi sử dụng phương pháp lấy mẫu con để loại bỏ các sai lệch tiềm năng, điều này cho phép chúng tôi đảm bảo các khu vực và giai đoạn thời gian được đưa vào phân tích một cách phù hợp. 
+(Ngoài ra, phương pháp trên cũng giúp đáp ứng các yêu cầu về tính toán)
 \n\n
-### Here you can see the geographical distribution of ~4300 genomes.
-Each circle is centered on an individual country, the colour indicates region and the radius scales with the number of genomes from that country ([see here for help interpreting the map in Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
+### Ở trên hình này, bạn có thể thấy sự phân bố về mặt địa lý của khoảng 4.300 bộ gen.
+Mỗi vòng tròn được đặt giữa một quốc gia, màu sắc vòng tròn thể hiện khu vực, quy mô bán kính với số lượng bộ gen ở quốc gia đó ([đọc tại đây để hướng dẫn giải thích bản đồ trên Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
 \n\n
-### In this report, we examine the global genomic epidemiology of COVID-19 broadly and provide specific updates for each world region.
+### Trong báo cáo này, chúng tôi phân tích đặc điểm dịch tễ học của COVID-19 trên toàn cầu, và cung cấp một số thông tin cập nhật về từng vùng trên thế giới.
 "
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
@@ -48,63 +48,63 @@ Each circle is centered on an individual country, the colour indicates region an
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- table of contents slide -->
-# [COVID-19 Summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [Tổng kết về COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-### Table of contents
-* [Global clade distribution](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [D614G Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Situation in Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Situation in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Situation in Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Situation in South America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Situation in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Situation in North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Closing summary](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+### Mục lục
+* [Phân bố biến chủng trên toàn cầu](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=2)
+* [Chủng đột biến Spike D614G](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=3)
+* [Tình hình ở Châu Á](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=5)
+* [Tình hình ở Châu Đại Dương](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=7)
+* [Tình hình ở Châu Âu](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=10)
+* [Tình hình ở Nam Phi](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=13)
+* [Tình hình ở Châu Phi](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=15)
+* [Tình hình ở Bắc Mỹ](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=17)
+* [Tóm tắt báo cáo](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=19)
+* [Lời cảm ơn](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=20)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/)
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/)
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)
+#### Tài nguyên của Nextstrain
+* [BẮT ĐẦU Ở ĐÂY: Cách đọc hiểu cây phát sinh chủng loại](https://nextstrain.org/narratives/trees-background/vi/)
+* [Các báo cáo hiện trạng trước đây](https://nextstrain.org/ncov-sit-reps/)
+* [Bối cảnh về vi-rút corona](https://nextstrain.org/help/coronavirus/human-CoV)
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Executive Summary
+# Tóm tắt báo cáo
 
-In this report, we analyzed publicly shared SARS-CoV-2 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally.
+Trong báo cáo này, chúng tôi phân tích các bộ gen SARS-CoV-2 được chia sẻ công khai. Bằng cách so sánh các bộ gen vi-rút này với nhau, chúng tôi có thể mô tả diễn biến lây lan tại khu vực và trên toàn thế giới của COVID-19.
 
-- Asia has a higher proportion of 19A & 19B clades, with 20A, 20B & 20C clades dominating in Europe & North America.
+- Châu Á có tỷ lệ biến chủng 19A & 19B cao, trong khi các chủng 20A, 20B & 20C lại phổ biến ở Châu Âu & Bắc Mỹ.
 
-- Globally, we can clearly see the rise to prominence of the D614G substitution in the Spike protein. This variant is hypothesised to cause an increase in SARS-CoV-2 transmission.
+- Trên bình diện thế giới, chúng ta có thể thấy rõ sự lây lan phổ biến của chủng thay thế D614G xảy ra ở protein gai (Spike). - Biến thể này được cho là có thể gia tăng lây nhiễm SARS-CoV-2.
 
-- To better display real-time builds of the SARS-CoV-2 data around the world, we run 6 regional and 1 global build, which are updated every weekday.
+- Để hiển thị chính xác hơn dữ liệu thời gian thực của SARS-CoV-2 trên thế giới, chúng tôi xây dựng 6 bộ dữ liệu khu vực và 1 bộ dữ liệu toàn cầu, tất cả đều được cập nhật hàng ngày trong tuần.
 
-- In Asia, there were numerous between-country transmissions in the region early in the pandemic. More recently, we see a move to within-country links, a trend we see in most regions.
+- Ngay từ khi đại dịch mới bắt đầu, tại Châu Á đã có nhiều ca lây truyền giữa các quốc gia trong khu vực. Gần đây, các ca lây nhiễm diễn ra giữa các địa phương trong một nước, một xu hướng chúng tôi thấy hầu hết ở các khu vực.
 
-- In Oceania, New Zealand's cases are contained in a narrow temporal band, corresponding to their elimination of the virus (until this week). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.
+- Ở Châu Đại Dương, các ca nhiễm của New Zealand đều được khống chế trong thời gian ngắn, cho thấy sự thành công của quốc gia này trong việc loại bỏ vi-rút. (cho đến tuần này). Gần đây, ít nhất là dựa trên các mẫu đã được chia sẻ, Úc ghi nhận sự gia tăng các ca bệnhtừ các chủng biến thể  lưu hành từ trước.
 
-- SARS-CoV-2 spread extremely quickly in Europe - the virus was likely being transmitted in many countries before they realised. This resulted in heavy mixing of European samples early in the pandemic, making it hard to distinguish and identfy introductions from one place to another. More recently, we can see more distinct variants associated with particular countries, as viruses have been constrained through travel restrictions.
+- SARS-CoV-2 lây lan cực kỳ nhanh chóng ở Châu Âu - loại vi-rút này có thể đã được lây truyền sang nhiều nước trước khi bị phát hiện. Điều này dẫn đến các mẫu vi-rút từ đầu dịch tại Châu Âu kết hợp với các chủng mới, khiến cho việc phân biệt và xác định các nguồn du nhập trở nên khó khăn. Gần đây, khi vi-rút đang bị chế ngự lây lan thông qua biện pháp hạn chế di chuyển, chúng ta phát hiện thêm các biến thể tại một số quốc gia cụ thể.
 
-- Like other regions, South America had multiple introductions, covering most of the known diversity of SARS-CoV-2. After travel restrictions came into place, sequences begin clustering more noticeably. Unfortunately, despite severe ongoing epidemics in many countries, more recent sequences are not readily available.
+- Giống như các khu vực khác, Nam Mỹ có nhiều nguồn du nhập, bao gồm hầu hết các chủng biến thể đã biết của SARS-CoV-2. Sau khi lệnh hạn chế di chuyển có hiệu lực, các trình tự gen bắt đầu tập hợp thành cụm một cách rõ ràng hơn. Đáng tiếc là, mặc dù dịch vẫn đang hoành hành tại nhiều quốc gia, chúng ta vẫn chưa thu được nhiều trình tự gen mới xuất hiện gần đây.
 
-- Africa also had multiple, diverse introductions early in the pandemic. Subsequent travel restrictions seems to have limited mixing among African countries, with most sequences seeming to come from earlier circulating diversity in the same country.
+- Châu Phi cũng có đa dạng các nguồn du nhập từ đầu đại dịch. Lệnh hạn chế di chuyển có vẻ đã giúp giảm thiểu việc kết hợp các biến thể giữa các quốc gia châu Phi, khi hầu hết các trình tự hệ gen đến từ chủng biến thể đã lưu hành từ trước.
 
-- A different picture is shown in the USA, where domestic travel has not been greatly restricted: we see mixing among all states, as well as local transmission. In Mexico & Central America, we see examples of geographical clustering in transmission, particularly between California (USA) & Baja California (Mexico).
+- Tình hình tại Mỹ lại khác. Đây là nơi mà lệnh hạn chế di chuyển không được thực hiện nghiêm ngặt, và chúng ta thấy tình hình lây truyền diễn ra giữa các tiểu bang, và giữa các địa phương trong tiểu bang. Tại Mexico và trung tâm Hoa Kỳ, chúng ta thấy các ví dụ điển hình về cụm lây nhiễm pnân bố theo địa lý, đặc biệt giữa California (Hoa Kỳ) & Baja California (Mexico).
 
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Worldwide distribution of genetic variants](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
+# [Phân bố các biến thể gen trên thế giới](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
-Since its emergence in late 2019, SARS-CoV-2 has diversified into several different co-circulating variants. To facilitate discussion of these variants, we have grouped them into clades which are defined by specific signature mutations.
+Kể từ khi xuất hiện vào cuối năm 2019, SARS-CoV-2 đã đa dạng hóa thành nhiều biến thể cùng lưu hành. Để hỗ trợ việc thảo luận về các biển thể này, chúng tôi đã nhóm chúng thành các biến chủng được xác định bởi các đột biến đặc trưng.
 
-We currently define 5 major clades (see [this blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) for details):
+Chúng tôi hiện xác định 5 biến chủng chính sau (xem [bài viết này](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) để biết thêm chi tiết):
 
-* 19A and 19B emerged in Wuhan and dominated the early outbreak.
-* 20A emerged out of 19A, dominated the European outbreak in March, and has since spread globally.
-* 20B and 20C are large, genetically distinct subclades of 20A.
+* Chủng 19A và 19B xuất hiện tại Vũ Hán và phổ biến ở giai đoạn đầu của dịch bệnh.
+* 20A bắt nguồn từ 19A, gây ra sự bùng phát ở Châu Âu vào tháng Ba, và từ đó lan rộng ra toàn cầu.
+* 20B và 20C là các biển chủng con lớn của 20A, khác biệt về mặt di truyền.
 
 
 <svg viewBox="0 0 120 80">
@@ -112,213 +112,213 @@ We currently define 5 major clades (see [this blog post](https://nextstrain.org/
 </svg>
 
 
-We're now looking at the distribution of these clades across the world (the color now represents clade membership).
-You can see that countries in the Asia region have a higher proportion of 19A and 19B (blues) as that variant dominated in the early outbreak.
-Europe and North America have a mixture of all clades, but are dominated by 20B and 20C (yellow and orange, respectively).
+Giờ chúng ta cùng nhìn vào sự phân bố của các biến chủng này trên thế giới (màu sắc thể hiện biến chủng có ở vùng nào)
+Chúng ta có thể thấy khu vực châu Á có tỷ lệ biến chủng 19A và 19B (xanh dương) cao, đây cũng là biến chủng phổ biến nhất giai đoạn đầu dịch bệnh.  
+Châu Âu và Nam Mỹ có đa dạng đủ biến chủng, nhưng 20B và 20C chiếm tỷ lệ nhiều nhất (lần lượt là vàng và cam).
 
-#### If you have SARS-CoV-2 sequences for which you'd like to know their clade (and estimated position on a phylogenetic tree), we made Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) which lets you drag-and-drop your FASTA files onto the browser.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [The well-publicized D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
-
-The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
-
-Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
-
-Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
-In July the 614G variant was present in the majority of circulating viruses worldwide. Since its initial appearance, the substitution has arisen multiple times and also reverted back to the 614D variant.
-There is no evidence that these other substitutions and reversions have resulted in continued transmission chains.
+#### Nếu  muốn biết biến chủng của các trình tự SARS-CoV-2 (vị trí ước tính trên sơ đồ cây phát sinh chủng loại), chúng tôi đã tạo ra Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) giúp bạn kéo và thả các tệp FASTA của bạn vào trình duyệt.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Analysing regional builds independently](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
+# [Chủng đột biến Spike D614G phổ biến](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
-As there are too many genomes to show in a single tree, we provide a regional analysis for each of the 6 regions shown here, in addition to our main 'global' build.
-This allows us to focus on the diversity within each region, while choosing appropriate out-of-region samples, so we can maintain an overview of all of the between-region transmissions over time - as we can see on this slide!
+Chủng thay thế D614G trong mã hóa gen cho protein Spike (S) đã được đưa tin gần đây và là chủ đề của nhiều suy đoán.
 
-In the next slides we're going to provide an overview of each of those regions by switching to the corresponding dataset. (This is a new feature in Nextstrain Narratives!)
+Bằng chứng cho thấy biến thể G (màu vàng) tăng khả năng lây nhiễm SARS-CoV-2 trong ống nghiệm và có thể đã được chọn lọc về mặt tiến hóa để tăng khả năng lây truyền giữa người và người  ([Korber và cộng sự.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang và cộng sự.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy và cộng sự.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski và cộng sự.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz và cộng sự.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)).Tuy nhiên, khả năng lây nhiễm gia tăng có lẽ  đi kèm với việc vi rút sẽ dễ bị tổn thương hơn trước các kháng thể trung hòa ([Weissman và cộng sự.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
-A full inventory of builds maintained by us and others is available at [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
-
-If we examine the situation in Asia from genomes collected before June 2020, we see signs of both extensive within-Asia transmission as well as transmissions to and from other regions of the world.
-
-#### Interpreting the lines and colors
-
-Here only countries in Asia have been colored, with the other regions represented by shades of grey.
-The color of each transmission line (lines between circles) represents the origin location, so all of the **colored** lines represent transmissions originating from a country within Asia (in this example).
-
-#### Transmissions into Asia
-
-This shows that many of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
-Especially pronounced in this view are those transmissions from Europe to Asia (though the lines seem to come from Germany, this point represents all of Europe). However, we must be cautious about how we interpret these inferred transmissions, as sampling biases can play a large role (and we have many more samples from Europe than anywhere else).
+Ở đây ta thấy các biến thể này xuất hiện rất nhanh sau ca lây từ động vật sang người đầu tiên, sau đó lan rộng ra khắp thế giới.
+Vào tháng 7, biến thể 614G đã có mặt trong phần lớn các vi-rút lưu hành trên toàn thế giới. Kể từ khi xuất hiện, biến thế đã biến đổi nhiều lần trước khi quay trở lại dạng biến thế 614D.
+Không có bằng chứng cho thấy những chủng thay thế và chủng trở lại hình thái cũ gây ra chuỗi lây truyền liên tục.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Asia situation after June 1](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
+# [Phân tích vùng dữ liệu độc lập](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
 
-Looking at the genomes sampled after June 1 (i.e. in the past 2 months), we see that the sampling is dominated by fewer countries.
-This limits the conclusions we can draw, but it appears that we may have fewer transmissions between countries.
+Do có quá nhiều bộ gen để hiển thị trong một cây, chúng tôi tiến hành phân tích khu vực cho 6 khu vực trên đây, bên cạnh việc phân tích dữ liệu trên toàn thế giới.
+Điều này cho phép chúng tôi tập trung vào sự đa dạng trong từng khu vực, đồng thời chọn các mẫu ngoài khu vực thích hợp, từ đó chúng tôi có thể có cái nhìn tổng quan về tất cả các ca lây truyền giữa các khu vực theo thời gian - như chúng ta có thể thấy trên slide này!
 
-This is also evident looking at the phylogeny, where we have large monophyletic (in the same part of the tree) groupings of genomes from Singapore (yellow) and Bangladesh (light green).
+Trong các slide tiếp theo, chúng ta sẽ sử dụng các bộ dữ liệu tương ứng để đánh giá tổng quan tình hình tại từng khu vực. (Đây là một tính năng mới của Nextstrain Narratives!)
 
-These data are consistent with less recent international travel and stricter control measures.
+Kho dữ liệu do chúng tôi quản lý và các dữ liệu khác có thể được tìm thấy tại [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Tình hình tại Châu Á trước tháng 6](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
+
+Nếu đánh giá tình hình tại châu Á dựa trên các bộ gen thu thập trước tháng 6/2020, ta thấy các ca lây truyền diễn ra trong phạm vi khu vực châu Á cũng như giữa châu Á và các khu vực khác trên thế giới.
+
+#### Giải thích các đường và màu sắc
+
+Chỉ các nước châu Á có màu, các khu vực khác được đại diện bằng màu xám.
+Màu sắc của mỗi đường thể hiện sự lây truyền (đường nối các hình tròn) thể hiện địa điểm là nguồn lây nhiễm. Trong ví dụ này, toàn bộ đường có màu thể hiện sự lây truyền trong khu vực châu Á từ quốc gia là nguồn lây nhiễm.
+
+#### Lây truyền sang châu Á
+
+Đường màu xám cho thấy các trường hợp lây truyền giữa châu Á và các nước không thuộc châu Á, trong đó các nước khác là nguồn lây lan sang châu Á.
+Đặc biệt nổi bật là các ca lây truyền từ châu Âu sang châu Á (mặc dù đường trên bản đồ trông có vẻ xuất phát từ Đức, nhưng quan điểm trên nhắc đến cả châu Âu)). Tuy nhiên, chúng ta cần cẩn trọng khi giải thích các trường hợp lây truyền này, bởi sai lệch trong chọn mẫu có thể xảy ra (và chúng tôi có nhiều mẫu từ châu Âu hơn bất kỳ nơi nào khác)).
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Oceania overview](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
+# [Tình hình tại châu Á sau 01/06](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
 
-Here we can explore ~790 genomes from Australia and New Zealand with an extra ~1100 sequences to provide global context.
-Only samples from Australia and New Zealand are colored.
+Nhìn vào các bộ gen được lấy mẫu sau 01/06 (trong 2 tháng vừa qua), chúng ta thấy ít quốc gia lấy mẫu gen hơn.
+Điều này khiến chúng tôi hạn chế trong việc đưa ra kết luận, nhưng có vẻ tình trạng lây truyền giữa các quốc gia đã giảm đi.
 
-You can see that these samples are spread throughout the tree, indicating that Oceania has been exposed to (most of) the observed genomic diversity of SARS-CoV-2.
+Sơ đồ cây phát sinh chủng loài cũng cho thấy kết quả tương tự. Theo sơ đồ này, chúng tôi có các nhóm bộ gen cùng nguồn gốc (cùng một bộ phận của sơ đồ cây) đến từ Singapore (vàng) và Bangladesh (xanh lá nhạt)).
 
-The majority of New Zealand's samples (blues, purples, greens) come from a tight temporal band covering March and April, which is due to the successful control strategy employed by the New Zealand government. While the country is back to relative normality, the borders are still closed to all non-citizens to limit the chances for the virus to re-enter the country. Returning citizens must quarantine for 14 days before entering the country.
-
-This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls -- more below!
-
-_HINT: if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!_
+Dữ liệu này thể hiện kết quả có được do các biện pháp hạn chế di chuyển giữa các quốc gia và kiểm soát dịch bệnh nghiêm ngặt gần đây.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Resurgence in Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
+# [Tổng quan về Châu Đại Dương](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
 
-Australia, and the state of Victoria (capitol city: Melbourne), shown here in orange, have been seeing a reemergence of COVID-19 cases and have recently implemented further public health measures to try to curb this increase.
+Ở đây chúng ta có thể khám phá khoảng 790 bộ gen từ Úc và New Zealand và thêm khoảng 1100 trình tự bộ gen giúp cung cấp thông tin về bối cảnh toàn cầu.
+Chỉ các mẫu từ Úc và New Zealand được biểu thị màu.
 
-These most recent genomes all appear to be a subclade of clade 20B (scroll back to the previous slide to see how clade 20B fits into the entire phylogeny).
-The recent dates and clustering are signs of a local outbreak.
+Bạn có thể thấy những mẫu này trải khắp sơ đồ cây, cho thấy (hầu hết) các bộ gen thuộc SARS-CoV-2 đã được ghi nhận hiện diện tại Châu Đại Dương.
 
-We can see similar clustering in sequences from New South Wales, where cases have also increased recently.
+Phần lớn các mẫu của New Zealand (xanh dương, tím, xanh lá) thuộc các ca bệnh phát sinh trong khoảng thời gian ngắn từ tháng 3 đến tháng 4, do Chính phủ New Zealand đã thành công với chiến lược không chế dịch bệnh. Trong khi quốc gia này đã tương đối quay trở lại nhịp sống bình thường, biên giới vẫn đang đóng cửa không cho phép người không phải công dân New Zealand vào để hạn chế nguy cơ vi-rút tái xâm nhập đất nước. Các công dân từ vùng khác trở về phải bị cách ly trong vòng 14 ngày trước khi nhập cảnh.
 
+Tuần này, Chính phủ New Zealand đã công bố 4 ca lây truyền trong cộng đồng mới không liên quan đến các ca bệnh trước. Giải mã trình tự gen có thể giúp tìm hiểu cách SARS-CoV-2 vượt qua được hàng rào kiểm soát nghiêm ngặt. Xem thêm phía dưới!
 
-<!-- ############ SLIDE BREAK ############# -->
-# [New cases detected in New Zealand this week](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
-
-New Zealand had reported over 100 days without community transmission before detecting cases in the community this week.
-The cluster has now spread to around 30 known cases (at time of publication), primarily based in the largest city, Auckland.
-
-The source is not yet known, however scientists have sequenced the isolates and reported that they fall into pangolin lineage B1.1.1; so while the genomes are yet to be released they are known to fall in the region colored in blue here.
-This lineage originated in Europe, but has since been observed in multiple regions around the world.
+GỢI Ý: nếu bạn lướt chuột vào các vòng tròn trên bản đồ, bạn sẽ đọc được các thông tin liên quan trong sơ đồ cây!
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Early situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
+# [Tái bùng phát tại Úc](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
 
-SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.
+Úc và tiểu bang Victoria (thủ đô:  Melbourne), được thể hiện bằng màu cam, đã ghi nhận sự tái bùng phát các ca nhiễm COVID-19 và gần đây đang phải thực hiện các biện pháp y tế cộng đồng gắt gao hơn để ngăn cản sự phát triển của dịch bệnh.
 
-By the end of February, even though there were just [a few hundred cases](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) officially reported in Europe, the virus had spread to at least 15 European countries.
+Tất cả các bộ gen gần đây nhất này đều có vẻ là một biến thể con của biển thể 20B (quay trở lại các slide trước để xem vị trí của biến thể 20B trong toàn bộ sơ đồ cây phát sinh chủng loài).
+Những ca nhiễm gần đây và kết quả phân loại cụm gen là dấu hiệu cho thấy một đợt bùng phát tại địa phương.
 
-Given that sampling was less common in the early days of the pandemic, SARS-CoV-2 was almost certainly already circulating across must of Europe, including in countries for which we don't have samples.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Lockdown in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
-
-Through March and April much of Europe closed their borders, and many imposed differing types of 'lockdown' where movement was restricted and businesses and schools closed. We expect that these restrictions decreased between-country transmission, making it more likely that we see sequences from any given country 'cluster' with previous sequences from that country.
-
-However, SARS-CoV-2 was already so mixed across Europe that different variants of the virus were circulating across multiple countries. Most countries had numerous distinct variants circulating before lockdown that were related to the viruses circulating in other countries. This means the phylogenetic picture remains well-mixed even after borders closed (shown by multiple colors near each other on the tree).
-
-However, we can see some signs of the local transmission that we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange (about 1/3 from the top), while Spain (dark blue) shows distinct local transmission at the bottom and top of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.
-
-_Hint: You can expand the legend by clicking 'Country' at the top-left of the tree!_
+Chúng ta có thể thấy các cụm trình tự gen tương tự từ New South Wales, nơi các ca nhiễm cũng gia tăng gần đây.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Recent European sequencing highlights local transmission and enriches understanding of previous SARS-CoV-2 spread](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
+# [Các ca nhiễm mới được phát hiện tại New Zealand tuần này](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
 
-Examining only samples uploaded in the past week highlights two important points.
+New Zealand đã ghi nhận 100 ngày không có lây truyền trong cộng đồng trước khi các ca nhiễm trong cộng đồng mới được phát hiện trong tuần này.
+Cụm lây nhiễm hiện đã lan rộng thành 30 ca nhiễm được phát hiện (vào thời điểm công bố báo cáo), chủ yếu ở Auckland, thành phố lớn nhất New Zealand.
 
-Firstly, we can see a tendency towards groupings of tips into mini-clusters. This indicates that within-country transmission is continuing to dominate - likely a product of the various regulations introduced throughout Europe. The virus continued to diversify genetically during the lockdown, but was more likely to be confined to one country, meaning we can often now better distinguish local 'variants' from those in other countries.
-
-Some samples do not follow this trend of linking to other samples from the same country. Hovering over a country in the legend highlights tips in the tree from that country and will help identify such samples. For instance, in the middle of the tree, we can see some Swedish samples (green) nested within a larger Russian clade (red).
-Given the heavy subsampling, we need to remain cautious to not over interpret putative between-country transmissions from this view.
-
-Secondly, we can see that the tips have a large difference in horizontal spacing -- i.e. the samples submitted in the past week represent a sample collection time window extending back to early March.
-The reasons for sequencing "old" genomes varies, but these samples help us fill in our understanding of viral evolution and geographical movement.
+Nguồn lây nhiễm vẫn chưa được xác định, tuy nhiên các nhà khoa học đã giải mã các phân lập và phát hiện chúng thuộc dòng gen B1.1.1 của loài tê tê; vì vậy mặc dù các bộ gen chưa được công bố, chúng ta biết chúng sẽ nằm trong phần màu xanh dương ở đây.
+Dòng gen này bắt nguồn từ Châu Âu, nhưng kể từ đó chúng đã được phát hiện ở nhiều khu vực trên thế giới.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The early situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
+# [Tình hình ban đầu ở Châu Âu](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
-South America's first SARS-CoV-2 sequences are from late February and early March, and are scattered across the tree, suggesting multiple introductions. As international travel decreased in March, we can see evidence of sustained local transmission in several countries.
+SARS-CoV-2 lây lan nhanh chóng khắp châu Âu, có thể chủ yếu do lây truyền trực tiếp từ châu Á.
 
-Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence that this variant also moved around the continent to Chile, Uruguay, and Argentina.
+Vào cuối tháng Hai, mặc dù chỉ có [vài trăm trường hợp ](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) được chính thức ghi nhận ở châu Âu, nhưng thực tế vi rút đã lây lan sang ít nhất 15 quốc gia châu Âu.
 
-We can also see distinct clusters of transmission involving Colombia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [The more recent situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
-
-Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.
-
-Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the varients circulating now are descendants of those introduced early in the epidemic.
+Do thời kỳ đầu dịch bệnh việc lấy mẫu chưa được phổ biến như bây giờ, SARS-CoV-2 trên thực tế đã lưu hành khắp châu Âu, ngay cả ở những quốc gia mà chúng tôi chưa lấy mẫu.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [SARS-CoV-2 in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+# [Phong tỏa ở Châu Âu](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
 
-Like South America, Africa had several introductions of SARS-CoV-2 to the continent, many likely from Europe. This is shown by the spread of African samples across the tree - even samples from the same country include diverse variants.
+Trong suốt tháng 3 và tháng 4, phần lớn châu Âu đã đóng cửa biên giới, nhiều quốc gia cũng đã áp dụng các hình thức "phong tỏa" khác nhau, khiến cho việc di chuyển bị hạn chế và các doanh nghiệp và trường học phải đóng cửa. Chúng tôi kỳ vọng rằng những biện pháp hạn chế này sẽ giảm bớt sự lây truyền giữa các quốc gia, tạo ra nhiều khả năng là các trình tự gen chúng tôi thấy trong một quốc gia thuộc cụm trình tự gen trước đó của quốc gia này.
 
-We now have sequences from countries across Africa throughout the epidemic, though sequencing efforts seem to have declined slightly more recently.
-South Africa has contributed a large proportion of the sequencing.
+Tuy nhiên, bản thân SARS-CoV-2 là sự kết hợp giữa nhiều biến thể ở châu Âu do các biến thể khác nhau của vi-rút đã lưu hành tại nhiều quốc gia. Hầu hết các quốc gia có nhiều biến thể khác nhau đang lưu hành trước phong tỏa, các biến thể này lại liên quan đến các vi-rút đang lưu hành tại các quốc gia khác. Điều này đồng nghĩa là bản đồ phát sinh chủng loài vẫn bao gồm nhiều biến thể khác nhau ngay cả sau khi đóng cửa biên giới (thể hiện qua nhiều màu sắc đặt gần nhau trên sơ đồ cây)).
 
+Tuy nhiên chúng ta có thể thấy dấu hiệu lây truyền tại địa phương mà ta đã dự đoán từ trước. Tại đây, Phần Lan và Thụy Điển có một cụm lây truyền rõ rệt màu xanh lá và cam (mốc 1/3 biểu đồ từ trên xuống), trong khi Tây Ban Nha (xanh dương đậm) ở trên cùng và dưới cùng sơ đồ cây cho thấy tình trạng lây truyền tại địa phương. Iceland (tím) và Thụy Sĩ (xanh dương nhạt) cũng có các cụm lây truyền tại địa phương.
 
-<!-- ############ SLIDE BREAK ############# -->
-# [Clustering in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
-
-In the DRC, Senegal, and South Africa, we can see clear signs of local transmission, shown as clusters of sequences in the tree.
-From Senegal and South Africa, we also have samples collected more recently.
-These samples generally fall within the older diversity of the country, as we would expect from continued local transmission.
-
-Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere.
-This finding likely reflects the continued restrictions in movement globally.
+_Gợi ý: Bạn có thể xem phần chú giải bằng cách nhấp vào "Quốc gia" (Country) ở góc trên bên trái sơ đồ cây!_
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [United States epidemic is a mixture of local and within-country transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
+# [Việc giải mã trình tự gen ở châu Âu cho thấy sự lây truyền tại địa phương và nâng cao hiểu biết về sự lây lan trước đây của SARS-CoV-2](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
 
-Here we show genomes from the United States epidemic from April 15 to present day. In mid-April, all U.S. states were on lockdown. [States have since implemented heterogeneous reopening policies](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
+Chỉ qua việc kiểm tra hai mẫu cập nhật từ tuần trước, ta thấy hai điểm quan trọng nổi bật.
 
-In this tree, just like in the trees for other regions, we see examples of local virus transmission as shown by similarly-colored tips clustering together over time. If you click, "Explore the Data Yourself", and filter the location to Yakima County, you can see a clear example of introduction and growth of genetically related viruses into this region of Washington State. (You can also [click here](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) to do this, but you will leave the narrative.)
+Đầu tiên, ta có thể thấy xu hướng nhóm các điểm lại thành cụm con. Điều này cho thấy việc lây truyền trong phạm vi quốc gia vẫn đang tiếp diễn, có thể do nhiều chính sách được ban hành khắp châu Âu. Vi-rút vẫn đang tiếp tục biến đổi về gen trong thời gian phong tỏa, nhưng đã được khống chế trong quốc gia. Điều này có nghĩa chúng ta giờ có thể phân biệt tốt hơn các dạng "biến thể" địa phương của vi-rút tại quốc gia này so với quốc gia khác.
 
-However, on the tree, we  also see within-country transmission across the U.S. as shown by mixing of colors at the tree tips. On the map, within-country transmission looks like transmission lines extending between states. These observations are consistent with few domestic travel restrictions and states' reopening policies.
+Một số mẫu lại không theo xu hướng này mà lại liên quan đến các mẫu khác cũng trong cùng quốc gia đó. Di chuột qua phần chú giải ở một quốc gia sẽ làm nổi bật các đặc điểm thuộc quốc gia trên sơ đồ cây, giúp ta xác định đó là các mẫu nào. Ví dụ, ở giữa sơ đồ cây, ta thấy một số mẫu Thụy Điển (xanh lá) nằm trong biến thể lớn hơn của Nga (đỏ)).
+Do chúng ta tiến hành lấy các mẫu con dày đặc, chúng ta cần cẩn trọng để không diễn giải quá đà những lây truyền được cho là từ quốc gia này sang quốc gia khác theo quan điểm này.
 
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Central American sequencing shows geographically-clustered transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
-
-There has been limited sequencing from Central America, especially over the past two months, which restricts the inferences we can draw about the epidemic. From the genomes that have been shared, we see geographic clustering of SARS-CoV-2 genomes.
-
-Toward the bottom of the tree in clade 19B, we see a cluster of transmission in Panama starting in mid-February. Several later sequences in Panama from June and July nest in with this cluster, suggesting there's continued local transmission of this virus genotype in the country.
-
-In Mexico, we also see clear geographic clustering of transmission through May. Without more recent sequencing, we cannot make inferences about the epidemic in later months.
-
-In the center of the tree, there is a cluster of cases in Baja California (in light blue). These cases were likely imported from California, USA (green branches on the tree) in March. This inferred importation is consistent with known travel links between the neighboring locations although we should be cautious about interpreting inferred transmission locations given sparse sequencing.
+Thứ hai, chúng ta có thể thấy sự khác biệt đáng kể giữa các điểm theo chiều ngang - ví dụ mẫu lấy từ tuần trước đại diện cho khoảng thời gian thu thập mẫu từ đầu tháng 3.
+Có nhiều lý do cho việc giải mã trình tự bộ gen "cũ", tuy nhiên các mẫu này giúp chúng ta hiểu sự tiến hóa của vi-rút và những di chuyển địa lý của nó.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Closing summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [Tình hình ban đầu ở Nam Phi](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
 
-As the pandemic reaches its eighth month of global circulation, we can now see distinct changes over time in the picture painted by viral genetics, largely determined by changing behaviour.
+Trình tự gen SARS-CoV-2 đầu tiên của Nam Phi được xác định từ cuối tháng 2 và đầu tháng 3, nằm rải rác trên sơ đồ cây, cho thấy trình tự có nhiều nguồn du nhập. Vào tháng 3, việc di chuyển sang nước ngoài giảm bớt, từ đó chúng tôi thấy bằng chứng về lây truyền tại địa phương ở nhiều quốc gia.
 
-Multiple early transmissions to the USA, Oceania, Europe, and across Asia, were initially incredibly well-mixed, as our global travel patterns distributed the virus incredibly effectively. Soon afterwards, diverse introductions to South America and Africa, often from Europe and North America, seeded local epidemics there.
+Nhiều trình tự gen của Brazil (xanh lá nhạt) thuộc hai cụm lớn (gần phần trên cùng cây sơ đồ), với bằng chứng cho thấy biến thể này di chuyển quanh các lục địa đến Chile, Uruguay, và Argentina.
 
-As the scale of the viral spread and severity of COVID-19 became apparent, travel ground to a halt in much of the world. After this point, we can see a distinct shift to local transmission during 'lockdowns' and the most severe travel restrictions. One outcome of this is that we can now sometimes better identify the source for viruses, as local epidemics have in some cases become more genetically distinct. In the USA, the absence of strict domestic travel has helped maintain well-mixed epidemics between states.
+Chúng ta cũng thấy các cụm lây truyền khác có liên quan đến Colombia (cam), Chile (ngọc lam), Uruguay (xanh dương nhạt hơn), và Argentina (xanh dương sẫm hơn) nằm rải rác quanh cây sơ đồ.
 
-Borders are now re-opening and travel has resumed, though not nearly to pre-pandemic levels. This, combined with the lag time from when samples are taken to when they are available publicly, means we only see a few signs of between-country mixing. In general, recent samples tend to continue to cluster with past sequences from the same country, indicating continued transmission of previously circulating variants. 
-
-Unfortunately, many countries have seen a rise in cases in the last few weeks, usually associated with reopening. As the Northern Hemisphere prepares to move into autumn and colder weather, further reopening, and school resuming, we must remain vigilant about rising case counts. As winter progresses in the Southern Hemisphere, we see worrying signs that seasonality could indeed lead to more trouble containing transmission - Australia's initial success with the virus has been dampened by recent outbreaks. Continuing to scale up Test, Trace, and Isolate, careful hand-hygiene, and conscientious mask-wearing can help keep our societies as open as possible while we continue to battle SARS-CoV-2.
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
+# [Tình hình gần đây ở Nam Mỹ](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Một điều không may là trong khi SARS-CoV-2 tiếp tục lây lan rộng khắp Nam Mỹ, việc thiết lập trình tự gen lại không đạt tiến độ tương đương. Mặc dù các lục địa vẫn ghi nhận ca nhiễm tăng cao, chỉ 68 mẫu từ 5 quốc gia (Brazil, Ecuador, Uruguay, Argentina, & Chile) được chia sẻ từ tháng 5.
 
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+Mặc dù suy luận của chúng ta bị hạn chế do việc lấy mẫu còn thưa thớt, trong nhiều trường hợp, các mẫu gần đây đều thuộc các chủng đa dạng đã lấy mẫu từ trước trong cùng quốc gia, hoặc tại các quốc gia Nam Mỹ khác. Điều này cho thấy các biến thể đang lưu hành hiện nay bắt nguồn từ các chủng được phát hiện từ thời kỳ đầu đại dịch.
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Tình hình ở Châu Phi](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+
+Giống như Nam Mỹ, châu Phi cũng từng bị SARS-CoV-2 du nhập vào lục địa, rất nhiều trong số đó đến từ châu Âu. Điều này được thể hiện qua sự lan rộng của các mẫu đến từ châu Phi trên sơ đồ cây, thậm chí các mẫu từ cùng một quốc gia cũng bao gồm các biến thể đa dạng.
+
+Giờ chúng tôi đã có trình tự gen của các quốc gia châu Phi trong suốt đại dịch, mặc dù hiện các nỗ lực giải mã trình tự gen có vẻ đã giảm một chút.
+Nam Phi đã đóng góp phần rất nhiều vào việc giải mã trình tự gen.
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Gom cụm ở Châu Phi](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
+
+Tại Cộng hòa dân chủ Congo, Senegal và Nam Phi, chúng tôi thấy các dấu hiệu rõ ràng của tình trạng lây truyền tại địa phương, điều này được thể hiện qua các cụm trình tự gen trên cây sơ đồ.
+Gần đây chúng tôi cũng đã thu thập mẫu từ Senegal và Nam Phi.
+Những mẫu này thuộc các chủng đa dạng trước đây, kết quả như chúng tôi kỳ vọng khi nhìn vào tình trạng lây truyền tại địa phương diễn ra liên tục.
+
+Mặc dù chúng ta cần cẩn trọng khi đưa ra kết luận do độ sai lệch cao khi lấy mẫu, các mẫu gần đây của châu Phi mà chúng tôi có không cho thấy sự du nhập biến thể từ khu vực khác.
+Phát hiện này có thể phản ánh hiệu quả của việc giới hạn di chuyển trên toàn cầu.
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Đại dịch tại Hoa Kỳ là sự kết hợp giữa lây truyền tại địa phương và lây truyền trong phạm vi quốc gia](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
+
+Hình chiếu này là các bộ gen từ đại dịch tại Hoa Kỳ từ 15/04 đến nay. Vào giữa tháng 04, toàn bộ các tiểu bang của Hoa Kỳ bị phong tỏa. [Từ thời điểm đó, các tiểu bang đã áp dụng các chính sách tái mở cửa không đồng nhất](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
+
+Ở cây sơ đồ này, cũng giống như cây sơ đồ tại các vùng khác, chúng ta thấy ví dụ về tình trạng lây truyền tại địa phương khi các điểm cùng màu gom lại thành cụm. Khi bạn nhấp vào phần "Tự khám phá dữ liệu" và lọc địa điểm là Quận Yakima, bạn sẽ thấy ví dụ rõ ràng về sự du nhập và phát triển của các vi-rút tương đồng về bộ gen vào khu vực này thuộc tiểu bang Washington.  (Bạn cũng có thể [click vào đây](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid), nhưng bạn sẽ bị thoát phần diễn giải này.)
+
+Tuy nhiên, trên cây sơ đồ, chúng ta cũng thấy hiện tượng lây truyền trong phạm vi quốc gia tại Hoa Kỳ, biểu hiện bằng điểm màu sắc xen kẽ trên cây. Trên bản đồ, sự lây truyền trong phạm vi  quốc gia trông giống như những đường kẻ nối kéo dài giữa các tiểu bang. Những quan sát này phản ánh việc Hoa Kỳ áp dụng rất ít chính sách hạn chế đi lại trong nước và chính sách tái mở cửa của các tiểu bang.
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Giải mã trình tự gen tại Trung Mỹ cho thấy hiện tượng lây nhiễm theo cụm địa lý](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
+
+Việc thực hiện giải mã trình tự gen ở Trung Mỹ còn hạn chế, đặc biệt trong 2 tháng vừa qua. Điều này gây cản trở việc suy luận thống kê về đại dịch này. Từ các bộ gen đã được chia sẻ, chúng tôi nhận thấy các bộ gen SARS-CoV-2 được phân bố theo cụm địa lý.
+
+Di chuyển xuống phần dưới cùng cây sơ đồ ở biến chủng 19B, chúng ta thấy cụm lây truyền ở Panama bắt đầu từ giữa tháng 2. Một số trình tự gen sau đó ở Panama từ tháng 6 đến tháng 7 nằm trong cụm này, cho thấy tại quốc gia này có tình trạng lây truyền tại địa phương gây ra do kiểu gen vi-rút này.
+
+Tại Mexico, chúng ta cũng nhận thấy rõ sự lây truyền theo cụm địa lý trong tháng 5. Do gần đây không giải mã thêm bộ gen, chúng tôi chưa thể đưa ra kết luận về dịch bệnh trong các tháng sau.
+
+Ở trung tâm sơ đồ cây, có cụm các ca nhiễm tại Baja California (màu xanh dương nhạt).Các ca này có khả năng bắt nguồn từ California, Hoa Kỳ (nhánh màu xanh lá trên cây) vào tháng 3. Sự du nhập này phù hợp với thực tế di chuyển liên tục của người dân giữa hai khu vực lân cận. Tuy nhiên, chúng ta cần cẩn trọng khi suy luận địa điểm lây truyền do chúng ta giải mã ít bộ gen.
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Tóm tắt báo cáo](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+
+Đã tám tháng kể từ khi đại dịch hoành hành trên toàn cầu, chúng ta giờ đây đã có thể nhận thấy những thay đổi rõ rệt trong bức tranh về bộ gen vi-rút. Thay đổi diễn ra chủ yếu do hành vi của vi-rút đã thay đổi.
+
+Nhiều ca lây truyền đến Hoa Kỳ, Châu Đại Dương, Châu Âu và xuyên suốt Châu Á bắt nguồn từ các nguồn khác nhau, vì hành vi di chuyển của chúng ta đã tạo cơ hội cho vi-rút lây lan thuận lợi. Ngay sau đó, sự du nhập đa dạng của các chủng vi-rút đến Nam Mỹ và Châu Phi, thường là từ Châu Âu và Bắc Mỹ đã gieo rắc dịch bệnh trong địa phương.
+
+Khi quy mô lây lan của vi-rút cũng như mức độ nghiêm trọng của dịch COVID-19 ngày càng trở nên dễ nhận thấy, nhiều nơi trên thế giới đã tạm ngưng các hoạt động đi lại và di chuyển. Sau thời điểm này, chúng ta thấy sự dịch chuyển sang hình thức lây truyền tại địa phương trong thời kỳ "phong tỏa" và việc thực hiện các biện pháp hạn chế đi lại nghiêm ngặt nhất. Kết quả mang lại là giờ chúng ta có thể dễ dàng xác định nguồn lây vi-rút, khi dịch bệnh tại địa phương ở một số nơi đã trở nên khác biệt về mặt di truyền. Tại Hoa Kỳ, do không nghiêm khắc áp dụng biện pháp hạn chế đi lại trong nước, dịch bệnh tại nước này có xu hướng kết hợp các chủng và biến thể giữa các tiểu bang.
+
+Biên giới hiện đang được mở lại, việc đi lại di chuyển cũng dần về quỹ đạo, mặc dù không được như trước đại dịch. Điều này cộng hưởng với khoảng thời gian khá chậm chễ từ khi lấy mẫu đến khi công bố rộng rãi khiến cho chúng ta chỉ thấy một vài dấu hiệu của các biến thể kết hợp giữa các quốc gia. Nhìn chung, các mẫu gần đây thường được tạo nên từ các trình tự bộ gen đã xác định trong quá khứ cũng trong cùng một quốc gia, cho thấy sự tiếp tục lây truyền các biến thể đã lưu hành trước đó. 
+
+Điều không may là trong vòng vài tuần qua, nhiều quốc gia đã ghi nhận số ca nhiễm tăng trở lại, phần nhiều do tái mở cửa. Khi Bắc bán cầu chuyển bị sang thu và thời tiết lạnh hơn, nhiều nơi tái mở cửa và trường học quay trở lại hoạt động, chúng ta sẽ phải luôn cảnh giác trước số lượng ca lây nhiễm gia tăng. Khi mùa đông kéo đến Nam bán cầu, chúng ta nhận thấy những dấu hiệu đáng lo ngại là tính mùa vụ có thể sẽ dẫn đến nhiều nguy cơ lây truyền hơn - đợt bùng phát gần đây đã chấm dứt thành tựu chống dịch trước đây của Úc. Việc tiếp tục mở rộng quy mô Xét nghiệm, Lần theo dấu vết các ca bệnh, và Cách ly, cùng với ý thức vệ sinh tay cẩn thận và đeo khẩu trang có thể giúp xã hội chúng ta mở cửa như bình thường trong khi cuộc chiến với SARS-CoV-2 vẫn tiếp diễn.
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Ghi nhận công lao nghiên cứu khoa học](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
+
+Chúng tôi muốn ghi nhận các công trình nghiên cứu tuyệt vời và kịp thời liên quan đến dịch bệnh này của tất cả các nhà khoa học.
+Chính nhờ sự chia sẻ kịp thời các dữ liệu và siêu dữ liệu về bộ gen mà chúng tôi mới có thể thực hiện được các bài báo cáo phân tích này.
+
+**Chúng tôi khuyến khích bạn nhấp vào 'Tự khám phá dữ liệu' và cuộn xuống để xem danh sách đầy đủ các tác giả; có thể xem tác giả của từng sơ đồ trình tự bằng cách chọn tên tác giả trên cây.**
+
+Chúng tôi cũng gửi lời cảm ơn sâu sắc đến GISAID đã cung cấp nền tảng giúp các dữ liệu này được đăng tải và chia sẻ.
