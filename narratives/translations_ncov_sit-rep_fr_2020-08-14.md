@@ -37,7 +37,7 @@ La pandémie sévit actuellement dans le monde entier, avec plus de [1,5 million
 ### Le séquençage mondial du génome du SRAS-CoV-2 s'est poursuivi sans relâche, et grâce à ces données, nous utilisons Nextstrain pour suivre le mouvement géographique et l'évolution du virus.
 À ce jour, plus de 75 000 séquences provenant de la moitié des pays du monde sont accessibles au public - un témoignage remarquable des scientifiques et des responsables de santé publique qui sont à l'origine de cette initiative.
 \n\n
-Nous utilisons des approches de sous-échantillonnage pour éliminer les biais d'échantillonnage potentiels afin de garantir que les régions et les périodes sont correctement incluses dans l'analyse. (Cela permet également de répondre aux besoins de calcul).
+### Nous utilisons des approches de sous-échantillonnage pour éliminer les biais d'échantillonnage potentiels afin de garantir que les régions et les périodes sont correctement incluses dans l'analyse. (Cela permet également de répondre aux besoins de calcul).
 \n\n
 ### Ici, vous pouvez observer la répartition géographique de ~4300 génomes.
 Chaque cercle est centré sur un pays individuel, la couleur indique la région et le rayon est proportionel au nombre de génomes de ce pays ([voir ici pour une aide à l'interprétation de la carte dans Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
