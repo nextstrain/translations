@@ -278,7 +278,7 @@ Este resultado probablemente refleja las continuadas restricciones en el movimie
 <!-- ############ SLIDE BREAK ############# -->
 # [La epidemia en EEUU es una mezcla de contagios locales y a nivel de país](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
 
-Aquí mostramos los genomas de la epidemia de EEUU desde el 15 de Abril. A mediados de Abril, todos los estados entraron en confinamiento. [Desde entonces los Estados han implementados políticas de reapertura heterogéneas]https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
+Aquí mostramos los genomas de la epidemia de EEUU desde el 15 de Abril. A mediados de Abril, todos los estados entraron en confinamiento. [Desde entonces los Estados han implementados políticas de reapertura heterogéneas](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
 
 En este árbol, como en los arboles para otras regiones, los ejemplos de transmisión local se muestran coloreados de manera similar hacia las puntas, agrupándose en el tiempo. Si haces click en “Explora los datos tu mismo” y filtras la localidad de Yakima County, podrás observar un ejemplo de una introducción y crecimiento de casos genéticamente relacionados en esta región del estado de Washington. (También puedes hacer
 [click aqui](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) pero dejaras el presente reporte).
@@ -288,16 +288,15 @@ Sin embargo, en el árbol también podemos ver transmisión dentro de EEUU, mezc
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Central American sequencing shows geographically-clustered transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
+# [El secuenciamiento en América Central muestra transmision geográficamente agrupada](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
 
-There has been limited sequencing from Central America, especially over the past two months, which restricts the inferences we can draw about the epidemic. From the genomes that have been shared, we see geographic clustering of SARS-CoV-2 genomes.
+El secuenciamiento en América Central ha sido limitado, especialmente en los últimos dos meses, lo que restringe las inferencias sobre la epidemia. Usando los genomas disponibles, podemos ver un agrupamiento geográfico en los genomas del SARS-CoV-2.
+ 
+Hacia el final del árbol en el clado 19B, se observa un conglomerado de transmisiones en Panamá que empezó a mediados de Febrero. Varias secuencias panameñas de Junio y Julio están anidadas con este conglomerado, sugiriendo transmisión local continuada del virus con este genotipo en este país.
 
-Toward the bottom of the tree in clade 19B, we see a cluster of transmission in Panama starting in mid-February. Several later sequences in Panama from June and July nest in with this cluster, suggesting there's continued local transmission of this virus genotype in the country.
+En México, también vemos agrupamiento geográfico en todo Mayo. Sin secuencias mas recientes no es posible hacer inferencias acerca de la epidemia en los meses siguientes.
 
-In Mexico, we also see clear geographic clustering of transmission through May. Without more recent sequencing, we cannot make inferences about the epidemic in later months.
-
-In the center of the tree, there is a cluster of cases in Baja California (in light blue). These cases were likely imported from California, USA (green branches on the tree) in March. This inferred importation is consistent with known travel links between the neighboring locations although we should be cautious about interpreting inferred transmission locations given sparse sequencing.
-
+En el centro del árbol, existe un conglomerado de casos en Baja California (en azul claro). Estos casos son probables importaciones del estado de California en EEUU (ramas verdes en el árbol) en Marzo. Esta importación es consistente con viajes entre localidades vecinas de México y EEUU, aunque debemos ser cautelosos en esta interpretación debido al escaso numero de secuencias.
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Closing summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
