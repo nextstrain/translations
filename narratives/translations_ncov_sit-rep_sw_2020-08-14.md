@@ -1,5 +1,5 @@
 ---
-title: August 2020 update of COVID-19 genomic epidemiology
+title: Ripoti ya Agosti 2020 kuhusu epidimiolojia ya kijeni ya COVID-19
 authors:
   - James Hadfield
   - Cassia Wagner
@@ -20,24 +20,24 @@ translatorLinks:
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
-date: "2020 August 14"
+date: "Agosti 14, 2020"
 abstract: "
-The pandemic is currently widespread around the world, with over [1.5 million new cases each week](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) and total reported cases of [18 million](https://ourworldindata.org/covid-cases) and over [600,000 fatailities](https://ourworldindata.org/covid-deaths).
+Kwa sasa janga limesambaa kote ulimwenguni, idadi ya maambukizi ikiwa zaidi ya [visa vipya milioni 1.5 kila wiki](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) huku jumla ya visa vilivyoripotiwa ikiwa [milioni 18](https://ourworldindata.org/covid-cases) na zaidi ya [watu 600,000 wamefariki](https://ourworldindata.org/covid-deaths).
 \n\n
-### The situation [is summarised by the WHO on August 2, 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
+### [Muhtasari wa jinsi hali ilivyo ulitolewa na Shirika la Afya Duniani mnamo August 2, 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
-### **\"As countries have eased public health and social measures, implemented to limit transmission of the virus, a number of these countries have observed clusters or resurgences of cases. Risks and vulnerabilities are further magnified in fragile, low-resource and conflict-affected settings.\"**
+### **\"Kufuatia nchi tofauti kulegeza masharti ya kijamii na ya afya ya umma, yaliyowekwa ili kupunguza kusambaa kwa virusi hivi, baadhi ya nchi hizi zimeshuhudia ongezeko au kuzuka upya kwa visa vya maambukizi. Hatari na uwezekano wa kuambukizwa umeongezeka katika maeneo yaliyoathirika, yasiyo na raslimali za kutosha na yanayokabiliwa na uhasama.\"**
 \n\n
-### The worldwide sequencing of the SARS-CoV-2 genome has continued unabated, and with this data we use Nextstrain to track the geographic movement and evolution of the virus.
-To date, there are over 75,000 sequences publicly shared from half the countries in the world - an amazing testament to the scientists and public health officials behind this.
+### Uchunguzi kuhusu mfuatano wa kijeni wa SARS-CoV-2 unaendelea kote ulimwenguni na kutokana na data hii tunatumia Nextstrain kufuatilia msambao wa kijiografia na mabadiliko ya virusi hivi.
+Kufikia sasa, kuna zaidi ya mifuatano 75,000 iliyoshirikiwa kwa umma kutoka kwa zaidi ya idadi nusu ya nchi zote kote ulimwenguni - ithibati kuu inayoonyesha juhudi za wanasayansi na maafisa wa afya ya umma wanaohusika.
 \n\n
-### We use subsampling approaches to remove potential sampling biases in order to ensure that regions and time-periods are appropriately included for analysis.
-(This also helps for the computational requirements.)
+### Tunatumia sampuli ndogo kuondoa upendeleo unaoweza kutokea katika kuchukua sampuli ili kuhakikisha kuwa maeneo na vipindi mahsusi vimejumuishwa ipasavyo katika uchunguzi.
+(Hii pia husaidia kutimiza mahitaji ya ukokotoaji.)
 \n\n
-### Here you can see the geographical distribution of ~4300 genomes.
-Each circle is centered on an individual country, the colour indicates region and the radius scales with the number of genomes from that country ([see here for help interpreting the map in Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
+### Hapa unaweza kuona kusambaa kijiografia kwa takriban jinomu 4300.
+Kila mduara unawakilisha nchi fulani, rangi inaonyesha eneo pamoja na umbali na idadi ya jeni zinazopatikana katika nchi hiyo ([angalia hapa ili upate usaidizi kuhusu kufasiri ramani kwenye Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
 \n\n
-### In this report, we examine the global genomic epidemiology of COVID-19 broadly and provide specific updates for each world region.
+### Katika ripoti hii, tunachunguza kwa upana epidimiolojia ya kijeni ya COVID-19 kote duniani na tunatoa ripoti mahsusi kuhusu kila eneo ulimwenguni.
 "
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
@@ -48,63 +48,63 @@ Each circle is centered on an individual country, the colour indicates region an
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- table of contents slide -->
-# [COVID-19 Summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [Muhtasari kuhusu COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-### Table of contents
-* [Global clade distribution](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [D614G Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Situation in Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Situation in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Situation in Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Situation in South America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Situation in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Situation in North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Closing summary](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+### Yaliyomo
+* [Msambao wa kimonofailetiki ulimwenguni](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-08-14?n=2)
+* [Mabadiliko ya Kijeni ya D614G kwenye Protini ya aina ya Spike](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-08-14?n=3)
+* [Hali ilivyo Esia](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-08-14?n=5)
+* [Hali ilivyo Oceania](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-08-14?n=7)
+* [Hali ilivyo Ulaya](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-08-14?n=10)
+* [Hali ilivyo Marekani Kusini](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-08-14?n=13)
+* [Hali ilivyo Afrika](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-08-14?n=15)
+* [Hali ilivyo Marekani Kaskazini](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-08-14?n=17)
+* [Muhtasari](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-08-14?n=19)
+* [Kuwatambua Wahusika](https://nextstrain.org/narratives/ncov/sit-rep/sw/2020-08-14?n=20)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/)
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/)
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)
+#### Nyenzo za Nextstrain
+* [ANZIA HAPA: Jinsi ya kufasiri mchoro wa kimatawi wa kifilojenetiki](https://nextstrain.org/narratives/trees-background/sw/)
+* [Ripoti za Awali kuhusu Hali Ilivyo](https://nextstrain.org/ncov-sit-reps/)
+* [Utangulizi kuhusu virusi vya corona](https://nextstrain.org/help/coronavirus/human-CoV)
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Executive Summary
+# Muhtasari
 
-In this report, we analyzed publicly shared SARS-CoV-2 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally.
+Katika ripoti hii, tumechanganua jinomu za SARS-CoV-2 zilizoshirikiwa kwa umma. Kwa kulinganisha jinomu hizi za virusi moja kwa nyingine, tunaweza kufafanua jinsi COVID-19 inavyosambaa duniani na kuenea katika eneo fulani.
 
-- Asia has a higher proportion of 19A & 19B clades, with 20A, 20B & 20C clades dominating in Europe & North America.
+- Bara la Esia lina idadi kubwa ya vikundi vya kimonofailetiki vya 19A na 19B, huku 20A, 20B na 20C vikiwa vingi barani Ulaya na Marekani Kaskazini.
 
-- Globally, we can clearly see the rise to prominence of the D614G substitution in the Spike protein. This variant is hypothesised to cause an increase in SARS-CoV-2 transmission.
+- Ulimwenguni, inabainika wazi kuwa kuna ongezeko kubwa zaidi la mabadiliko ya kijeni ya D614G kwenye protini ya aina ya Spike. Japo haijathibitishwa, inachukuliwa kuwa mabadiliko haya yanasababisha ongezeko la msambao wa SARS-CoV-2.
 
-- To better display real-time builds of the SARS-CoV-2 data around the world, we run 6 regional and 1 global build, which are updated every weekday.
+- Ili kuonyesha kwa njia bora data ya SARS-CoV-2 ya ulimwenguni kote katika wakati halisi, tunatumia michoro ya maeneo 6 na 1 ya dunia nzima. Michoro hii husasishwa kila siku ya wiki.
 
-- In Asia, there were numerous between-country transmissions in the region early in the pandemic. More recently, we see a move to within-country links, a trend we see in most regions.
+- Barani Esia, kulikuwepo na msambao wa maambukizi kutoka nchi moja hadi nyingine katika eneo hili janga lilipozuka. Baadaye, inabainika kuwa maambukizi yanasambaa ndani kwa ndani katika nchi tofauti, hali hii ni sawa katika maeneo mengi.
 
-- In Oceania, New Zealand's cases are contained in a narrow temporal band, corresponding to their elimination of the virus (until this week). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.
+- Katika eneo la Oceania, visa vya maambukizi nchini Nyuzilandi ni vichache mno kutokana na mikakati waliyoweka ili kukomesha virusi (hadi kufikia wiki hii). Nchini Austrelia, visa vya maambukizi vimeongezeka hivi majuzi, kulingana na sampuli zilizoshirikiwa kufikia sasa, huku visa vingi vya maambukizi vikilingana na vikundi vya kimonofailetiki vilivyokuwepo awali.
 
-- SARS-CoV-2 spread extremely quickly in Europe - the virus was likely being transmitted in many countries before they realised. This resulted in heavy mixing of European samples early in the pandemic, making it hard to distinguish and identfy introductions from one place to another. More recently, we can see more distinct variants associated with particular countries, as viruses have been constrained through travel restrictions.
+- SARS-CoV-2 ilisambaa kwa kasi mno barani Ulaya - uwezekano ni kuwa virusi vilikuwa vikisambaa katika nchi nyingi kabla ya kugunduliwa. Hili lilisababisha sampuli za Ulaya kuchanganyika sana janga lilipoanza, hivyo ikawa vigumu kutofautisha na kubainisha chanzo cha virusi. Baadaye, sampuli zilizopo ni bainifu zaidi na zinahusishwa na nchi mahsusi kwa sababu kusambaa kwa virusi kumedhibitiwa kupitia vikwazo vya kusafiri.
 
-- Like other regions, South America had multiple introductions, covering most of the known diversity of SARS-CoV-2. After travel restrictions came into place, sequences begin clustering more noticeably. Unfortunately, despite severe ongoing epidemics in many countries, more recent sequences are not readily available.
+- Sawa na maeneo mengine, Marekani Kusini imeripoti visa vingi, ambavyo ni kati ya aina zinazojulikana za SARS-CoV-2. Baada ya kuwekwa kwa vikwazo vya kusafiri, mifuatano inaanza kuongezeka kwa njia bainifu zaidi. Hata hivyo, licha ya kuwepo kwa mlipuko wa magonjwa katika nchi nyingi, mifuatano mipya haipatikani kwa urahisi.
 
-- Africa also had multiple, diverse introductions early in the pandemic. Subsequent travel restrictions seems to have limited mixing among African countries, with most sequences seeming to come from earlier circulating diversity in the same country.
+- Bara la Afrika pia lilikuwa na visa vingi vya maambukizi kutoka maeneo mbalimbali janga lilipoanza. Kuwekwa kwa vikwazovya kusafiri kunaonekana kumepunguza kuchanganyika kwa mifuatano ya kijeni katika nchi za Afrika, huku mifuatano mingi ikionekana kuwa ya aina sawa na iliyokuwepo awali katika nchi hiohio.
 
-- A different picture is shown in the USA, where domestic travel has not been greatly restricted: we see mixing among all states, as well as local transmission. In Mexico & Central America, we see examples of geographical clustering in transmission, particularly between California (USA) & Baja California (Mexico).
+- Hali ni tofauti Marekani, ambako usafiri wa ndani haujawekewa vizuizi sana: inabainika kuwa upo mchanganyiko kati ya majimbo yote, pamoja na maambukizi ya kijamii. Meksiko na Marekani ya Kati, tunaona mifano ya idadi kubwa ya maambukizi kijiografia, hasa jimbo la California (Marekani) na Baja California (Meksiko).
 
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Worldwide distribution of genetic variants](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
+# [Msambao wa aina tofauti za kijeni ulimwenguni](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
-Since its emergence in late 2019, SARS-CoV-2 has diversified into several different co-circulating variants. To facilitate discussion of these variants, we have grouped them into clades which are defined by specific signature mutations.
+Tangu SARS-CoV-2 ilipozuka mwishoni mwa 2019, aina tofauti za virusi hivi zimejitokeza na zinasambaa. Ili kuchanganua aina hizi, tumeziweka katika vikundi vya kimonofailetiki ambavyo hubainishwa kwa mabadiliko mahsusi ya kijeni.
 
-We currently define 5 major clades (see [this blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) for details):
+Kwa sasa vipo vikundi 5 vikuu vya kimonofailetiki (soma [blogu hii](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) ili upate maelezo):
 
-* 19A and 19B emerged in Wuhan and dominated the early outbreak.
-* 20A emerged out of 19A, dominated the European outbreak in March, and has since spread globally.
-* 20B and 20C are large, genetically distinct subclades of 20A.
+* 19A na 19B vilizuka mjini Wuhan na vikaongoza katika visa vya maambukizi janga lilipozuka.
+* 20A ilichimbuka kutoka kwa 19A, ikaongoza katika visa vya maambukizi barani Ulaya katika mwezi wa Machi na imesambaa ulimwenguni.
+* 20B na 20C ni vikundi vikubwa vya kimonofailetiki vilivyo na mfuatano mahsusi wa kijeni na vilichimbuka kutoka kwa 20A.
 
 
 <svg viewBox="0 0 120 80">
@@ -112,213 +112,213 @@ We currently define 5 major clades (see [this blog post](https://nextstrain.org/
 </svg>
 
 
-We're now looking at the distribution of these clades across the world (the color now represents clade membership).
-You can see that countries in the Asia region have a higher proportion of 19A and 19B (blues) as that variant dominated in the early outbreak.
-Europe and North America have a mixture of all clades, but are dominated by 20B and 20C (yellow and orange, respectively).
+Tunachoona kwa sasa ni msambao wa vikundi hivi vya kimonofailetiki ulimwenguni (rangi inawakilisha kikundi cha kimonofailetiki).
+Inabainika kuwa eneo la Esia lina idadi kubwa ya 19A na 19B (buluu) kwani kikundi hiki kiliongoza katika visa vya maambukizi janga lilipozuka.
+Ulaya na Marekani Kaskazini zina mseto wa vikundi vyote vya kimonofailetiki, lakini 20B na 20C ndivyo vinaongoza (manjano na rangi ya machungwa mtawalia).
 
-#### If you have SARS-CoV-2 sequences for which you'd like to know their clade (and estimated position on a phylogenetic tree), we made Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) which lets you drag-and-drop your FASTA files onto the browser.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [The well-publicized D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
-
-The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
-
-Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
-
-Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
-In July the 614G variant was present in the majority of circulating viruses worldwide. Since its initial appearance, the substitution has arisen multiple times and also reverted back to the 614D variant.
-There is no evidence that these other substitutions and reversions have resulted in continued transmission chains.
+#### Ikiwa kuna mifuatano ya SARS-CoV-2 ambayo ungependa kujua vikundi vyao vya kimonofailetiki (na nafasi yao kwenye mchoro wa kimatawi wa kifilojenetiki), tumeunda zana ya Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) inayokuwezesha kuburuta na kuachilia faili zako za FASTA kwenye kivinjari.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Analysing regional builds independently](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
+# [Mabadiliko ya Kijeni, yaliyotolewa kwa umma, ya D614G kwenye Protini ya aina ya Spike](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
-As there are too many genomes to show in a single tree, we provide a regional analysis for each of the 6 regions shown here, in addition to our main 'global' build.
-This allows us to focus on the diversity within each region, while choosing appropriate out-of-region samples, so we can maintain an overview of all of the between-region transmissions over time - as we can see on this slide!
+Mabadiliko ya kijeni ya D614G kwenye mfuatano wa DNA ya protini ya aina ya Spike (S) yamekuwa katika habari na yamezua mjadala hivi majuzi.
 
-In the next slides we're going to provide an overview of each of those regions by switching to the corresponding dataset. (This is a new feature in Nextstrain Narratives!)
+Ithibati inazidi kuonyesha kuwa protini ya G (yenye rangi ya manjano katika mchoro huu) inaongeza maambukizi ya SARS-CoV-2 _in vitro_ na huenda ndio chanzo cha kusambaa kwa maambukizi katika binadamu kutokana na mfuatano wake ([Korber na wenzake](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang na wenzake](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy na wenzake](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski na wenzake](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz na wenzake.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). Hata hivyo, ongezeko la maambukizi huenda likatokana na mchakato wa kuwezesha kingamwili kukabiliana na virusi ([Weissman na wenzake.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
-A full inventory of builds maintained by us and others is available at [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
-
-If we examine the situation in Asia from genomes collected before June 2020, we see signs of both extensive within-Asia transmission as well as transmissions to and from other regions of the world.
-
-#### Interpreting the lines and colors
-
-Here only countries in Asia have been colored, with the other regions represented by shades of grey.
-The color of each transmission line (lines between circles) represents the origin location, so all of the **colored** lines represent transmissions originating from a country within Asia (in this example).
-
-#### Transmissions into Asia
-
-This shows that many of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
-Especially pronounced in this view are those transmissions from Europe to Asia (though the lines seem to come from Germany, this point represents all of Europe). However, we must be cautious about how we interpret these inferred transmissions, as sampling biases can play a large role (and we have many more samples from Europe than anywhere else).
+Hapa tunaona kuwa protini hii inabainishwa kuwa ilitokea muda mfupi baada ya maambukizi ya kwanza kutoka kwa wanyama hadi binadamu kisha ikasambaa ulimwenguni.
+Katika mwezi wa Julai, protini ya 614G ilikuwepo katika virusi vingi vilivyokuwa vikisambaa ulimwenguni. Tangu ilipotokea kwa mara ya kwanza, protini hii imejitokeza mara nyingi na pia imerudi kuwa 614D.
+Hakuna ithibati kuwa mabadiliko haya mengine ya kijeni na ubatilishaji wa mabadiliko ya awali ya kijeni umesababisha ongezeko la maambukizi.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Asia situation after June 1](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
+# [Uchanganuzi wa maambukizi kwa kila eneo](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
 
-Looking at the genomes sampled after June 1 (i.e. in the past 2 months), we see that the sampling is dominated by fewer countries.
-This limits the conclusions we can draw, but it appears that we may have fewer transmissions between countries.
+Kwa sababu kuna jinomu nyingi mno kwa kila mchoro wa kimatawi, tunatoa uchanganuzi kwa maeneo yote 6 yaliyoonyeshwa hapa, pamoja na uchanganuzi wetu mkuu wa 'ulimwengu'.
+Hii inatuwezesha kuangazia sifa mahsusi za kila eneo, huku tukibainisha kwa usahihi sampuli za eneo tofauti, ili kutoa muhtasari wa maambukizi yote yaliyosambaa kutoka eneo moja hadi lingine baada ya muda fulani - kama tunavyoona kwenye slaidi hii!
 
-This is also evident looking at the phylogeny, where we have large monophyletic (in the same part of the tree) groupings of genomes from Singapore (yellow) and Bangladesh (light green).
+Katika slaidi zinazofuata, tutatoa muhtasari wa kila eneo kwa kutumia seti ya data husika. (Hiki ni kipengele kipya cha Maandishi na Michoro kwenye Nextstrain!)
 
-These data are consistent with less recent international travel and stricter control measures.
+Data kamili tunayodhibiti pamoja na wengine inapatikana kwenye [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Hali ilivyokuwa barani Esia kabla ya mwezi wa Juni](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
+
+Tukitathmini hali ilivyokuwa barani Esia kwa kutumia jinomu zilizokusanywa kabla ya Juni 2020, tunaona kuwepo kwa msambao wa maambukizi wa kindanindani barani pamoja na msambao kuingia Esia na kuelekea maeneo mengine ulimwenguni.
+
+#### Kufasiri mistari na rangi
+
+Hapa, nchi za bara Esia pekee ndizo zinaonyeshwa kwa kutumia rangi nayo maeneo mengine yakiwakilishwa kwa rangi za kijivu.
+Rangi ya kila mkondo wa maambukizi (mistari iliyo katikati ya miduara) inawakilisha chanzo, hivyo **mistari yote yenye rangi** inawakilisha maambukizi yote ambayo chanzo chake ni nchi iliyoko barani Esia (katika mfano huu).
+
+#### Msambao wa maambukizi Esia
+
+Hii inaonyesha kuwa visa vingi vya maambukizi katika nchi za Esia na zisizo za Esia vilitokana na msambao kuingia Esia (mistari ya kijivu).
+Mchoro huu unaangazia hasa maambukizi kutoka Ulaya kuingia Esia (japo mistari inaonekana kutokea Ujerumani, sehemu hii inawakilisha Ulaya nzima). Hata hivyo, sharti tuwe makini jinsi tunavyofasiri maambukizi haya yaliyobainishwa, kwani mapendeleo kwenye sampuli yanaweza kuathiri kwa kiasi kikubwa (na tuna sampuli nyingi zaidi kutoka Ulaya kuliko maeneo mengine).
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Oceania overview](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
+# [Hali ilivyokuwa barani Esia baada ya tarehe 1 Juni](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
 
-Here we can explore ~790 genomes from Australia and New Zealand with an extra ~1100 sequences to provide global context.
-Only samples from Australia and New Zealand are colored.
+Kwa kutathmini sampuli za jinomu zilizochunguzwa baada ya tarehe 1 Juni (yaani, miezi 2 iliyopita), tunaona kuwa sampuli nyingi zinahusisha nchi chache.
+Hali hii inasababisha ufasiri kuwa finyu, lakini inaonekana kuwa huenda msambao wa maambukizi kutoka nchi moja hadi nyingine ukawa chini.
 
-You can see that these samples are spread throughout the tree, indicating that Oceania has been exposed to (most of) the observed genomic diversity of SARS-CoV-2.
+Hii pia ni bayana tunapotathmini mchoro wa kimatawi wa kifilojenetiki, ambapo kuna vikundi vikubwa vya kimonofailetiki (kwenye sehemu moja ya mchoro) vya vikundi vya jinomu kutoka Singapuri (manjano) na Bangladeshi (kijani kibichi).
 
-The majority of New Zealand's samples (blues, purples, greens) come from a tight temporal band covering March and April, which is due to the successful control strategy employed by the New Zealand government. While the country is back to relative normality, the borders are still closed to all non-citizens to limit the chances for the virus to re-enter the country. Returning citizens must quarantine for 14 days before entering the country.
-
-This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls -- more below!
-
-_HINT: if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!_
+Hali hii imetokana na vikwazo vya kusafiri nchi za nje na masharti kali zaidi yaliyowekwa hivi majuzi.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Resurgence in Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
+# [Muhtasari kuhusu Oceania](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
 
-Australia, and the state of Victoria (capitol city: Melbourne), shown here in orange, have been seeing a reemergence of COVID-19 cases and have recently implemented further public health measures to try to curb this increase.
+Hapa, tunaweza kutathmini takriban jinomu 790 kutoka Austrelia na Nyuzilandi pamoja na mifuatano takriban 1100 ili kuonyesha hali ilivyo ulimwenguni.
+Sampuli kutoka Austrelia na Nyuzilandi ndizo zenye rangi pekee.
 
-These most recent genomes all appear to be a subclade of clade 20B (scroll back to the previous slide to see how clade 20B fits into the entire phylogeny).
-The recent dates and clustering are signs of a local outbreak.
+Unaona kuwa sampuli hizi ziko kila mahali kwenye mchoro wa kimatawi, kuashiria kuwa Oceania ina (nyingi ya) jinomu za SARS-CoV-2 zilizobainishwa.
 
-We can see similar clustering in sequences from New South Wales, where cases have also increased recently.
+Sampuli nyingi kutoka Nyuzilandi (buluu, zambarau, kijani) hazijasambaa katika mwezi wa Machi na Aprili, kutokana na mikakati iliyowekwa na serikali ya Nyuzilandi ili kudhibiti kuenea kwa maambukizi. Japo shughuli za kawaida zimeanza kurejea katika nchi hiyo, bado mipaka imefungwa kwa wageni wote ili kupunguza uwezekano wa virusi kupenya tena nchini. Raia wanaorejea kutoka nchi zingine sharti wakae karantini kwa siku 14 kabla kuingia nchini.
 
+Wiki hii, serikali ya Nyuzilandi imetangaza visa vipya vinne vya maambukizi ya kijamii ambayo hayahusishwi na wanaowasili kutoka nchi zingine. Mfuatano wa kijeni unaweza kusaidia kubaini jinsi mtu aliyeambukizwa SARS-CoV-2 hakugunduliwa licha ya masharti kali -- pata maelezo zaidi hapa chini!
 
-<!-- ############ SLIDE BREAK ############# -->
-# [New cases detected in New Zealand this week](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
-
-New Zealand had reported over 100 days without community transmission before detecting cases in the community this week.
-The cluster has now spread to around 30 known cases (at time of publication), primarily based in the largest city, Auckland.
-
-The source is not yet known, however scientists have sequenced the isolates and reported that they fall into pangolin lineage B1.1.1; so while the genomes are yet to be released they are known to fall in the region colored in blue here.
-This lineage originated in Europe, but has since been observed in multiple regions around the world.
+_KIDOKEZO: elekeza kipanya chako kwenye miduara katika ramani ili uone vidokezo muhimu kwenye mchoro husika wa kimatawi!_
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Early situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
+# [Maambukizi Mapya Nchini Austrelia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
 
-SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.
+Austrelia, jimbo la Victoria (mji mkuu: Melbourne), unaoonyeshwa hapa kwa rangi ya machungwa, umeshuhudia visa vipya vya maambukizi ya COVID-19 na hivi majuzi umeweka masharti zaidi ya afya ya umma ili kuzuia maambukizi haya yasiongezeke.
 
-By the end of February, even though there were just [a few hundred cases](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) officially reported in Europe, the virus had spread to at least 15 European countries.
+Jinomu hizi zote za hivi majuzi zinaonekana kuwa za kikundi kidogo cha kimonofailetiki kilicho chini ya 20B (rudi nyuma kwenye slaidi iliyotangulia uone jinsi kikundi cha kimonofailetiki cha 20B kimetawanyika kwenye mchoro mzima wa kimatawi wa kifilojenetiki).
+Tarehe za hivi majuzi na mifuatano sawa ya maambukizi ni ishara za mlipuko wa kijamii.
 
-Given that sampling was less common in the early days of the pandemic, SARS-CoV-2 was almost certainly already circulating across must of Europe, including in countries for which we don't have samples.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Lockdown in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
-
-Through March and April much of Europe closed their borders, and many imposed differing types of 'lockdown' where movement was restricted and businesses and schools closed. We expect that these restrictions decreased between-country transmission, making it more likely that we see sequences from any given country 'cluster' with previous sequences from that country.
-
-However, SARS-CoV-2 was already so mixed across Europe that different variants of the virus were circulating across multiple countries. Most countries had numerous distinct variants circulating before lockdown that were related to the viruses circulating in other countries. This means the phylogenetic picture remains well-mixed even after borders closed (shown by multiple colors near each other on the tree).
-
-However, we can see some signs of the local transmission that we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange (about 1/3 from the top), while Spain (dark blue) shows distinct local transmission at the bottom and top of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.
-
-_Hint: You can expand the legend by clicking 'Country' at the top-left of the tree!_
+Tunaona mifuatano sawa na ile ya New South Wales, ambako maambukizi pia yameongezeka hivi majuzi.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Recent European sequencing highlights local transmission and enriches understanding of previous SARS-CoV-2 spread](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
+# [Visa vipya vimeripotiwa Nyuzilandi wiki hii](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
 
-Examining only samples uploaded in the past week highlights two important points.
+Kabla ya visa vipya vya maambukizi ya kijamii kuripotiwa wiki hii, Nyuzilandi haijakuwa na visa vyovyote vya maambukizi ya kijamii kwa zaidi ya siku 100.
+Kufikia sasa (wakati wa kuchapishwa kwa ripoti) visa 30 vimeripotiwa, wengi wa walioambukizwa wakiwa Auckland, ambao ndio mji mkubwa zaidi.
 
-Firstly, we can see a tendency towards groupings of tips into mini-clusters. This indicates that within-country transmission is continuing to dominate - likely a product of the various regulations introduced throughout Europe. The virus continued to diversify genetically during the lockdown, but was more likely to be confined to one country, meaning we can often now better distinguish local 'variants' from those in other countries.
-
-Some samples do not follow this trend of linking to other samples from the same country. Hovering over a country in the legend highlights tips in the tree from that country and will help identify such samples. For instance, in the middle of the tree, we can see some Swedish samples (green) nested within a larger Russian clade (red).
-Given the heavy subsampling, we need to remain cautious to not over interpret putative between-country transmissions from this view.
-
-Secondly, we can see that the tips have a large difference in horizontal spacing -- i.e. the samples submitted in the past week represent a sample collection time window extending back to early March.
-The reasons for sequencing "old" genomes varies, but these samples help us fill in our understanding of viral evolution and geographical movement.
+Chanzo bado hakijulikani, hata hivyo, wanasayansi wamechunguza mifuatano ya kijeni kwa walioambukizwa na wakabaini kuwa ni ya B1.1.1 kwenye mfumo wa Pangolin; hivyo, japo jinomu bado hazijulikani, zimebainishwa kuchimbuka eneo lenye rangi ya buluu hapa.
+Chanzo cha mifuatano hii ni Ulaya, lakini pia imeonekana katika maeneo mengi ulimwenguni.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The early situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
+# [Hali ilivyokuwa awali Ulaya](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
-South America's first SARS-CoV-2 sequences are from late February and early March, and are scattered across the tree, suggesting multiple introductions. As international travel decreased in March, we can see evidence of sustained local transmission in several countries.
+Virusi vya SARS-CoV-2 vilisambaa kwa kasi Ulaya, ikiaminika hasa kutokana na maambukizi ya moja kwa moja kutoka Esia.
 
-Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence that this variant also moved around the continent to Chile, Uruguay, and Argentina.
+Kufikia mwishoni mwa mwezi wa Februari, ijapokuwa kulikuwa tu na [mamia ya visa](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) vilivyoripotiwa rasmi Ulaya, virusi vilisambaa kwa angalau nchi 15 za Ulaya.
 
-We can also see distinct clusters of transmission involving Colombia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [The more recent situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
-
-Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.
-
-Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the varients circulating now are descendants of those introduced early in the epidemic.
+Kutokana na upimaji sampuli kuwa chini janga lilipozuka, SARS-CoV-2 ilikuwa tayari imesambaa karibu Ulaya nzima, ikijumuisha nchi ambazo sampuli zake hazijachunguzwa.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [SARS-CoV-2 in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+# [Kusitishwa kwa Shughuli za Kawaida Ulaya](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
 
-Like South America, Africa had several introductions of SARS-CoV-2 to the continent, many likely from Europe. This is shown by the spread of African samples across the tree - even samples from the same country include diverse variants.
+Katika mwezi wa Machi na Aprili, nchi nyingi za Ulaya zilifunga mipaka yake na kusitisha shughuli za kawaida kwa njia tofauti tofauti ambapo vikwazo vya kusafiri viliwekwa na shule na biashara kufungwa. Tunaamini kuwa vikwazo hivi vilisaidiakatika kupunguza kuenea kwa maambukizi kutoka nchi moja hadi nyingine hivyo uwezekano ni kuwa mifuatano ya baadaye katika nchi yoyote italingana na mifuatano iliyokuwepo awali katika nchi hiyo.
 
-We now have sequences from countries across Africa throughout the epidemic, though sequencing efforts seem to have declined slightly more recently.
-South Africa has contributed a large proportion of the sequencing.
+Hata hivyo, mifuatano tofauti ya SARS-CoV-2 tayari ilikuwa imechanganyika sana Ulaya ambapo virusi vilikuwa vikisambaa katika nchi nyingi. Kulikuwepo na aina nyingi za virusi zilizokuwa zikisambaa katika nchi nyingi kabla ya kusitishwa kwa shughuli za kawaida, aina hizi zilikuwa na uhusiano na virusi vilivyokuwa vikienea katika nchi zingine. Hii inamaanisha kuwa mchoro wa kimatawi wa kifilojenetiki utasalia mseto hata baada ya mipaka kufungwa (imeonyeshwa kupitia rangi kadhaa zilizokaribiana kwenye mchoro wa kimatawi).
 
+Hata hivyo, tunaona dalili kadhaa za kuwepo kwa maambukizi yaliyotarajiwa ya kijamii. Hapa, Ufini na Uswidi zina mkondo mahsusi wa maambukizi unaoonyeshwa kwa rangi ya machungwa na kijani (karibu 1/3 kuanzia juu), huku Uhispania (buluu nzito) ukionyesha maambukizi mahsusi ya kijamii katika sehemu ya juu na ya chini kwenye mchoro wa kimatawi. Aisilandi (zambarau) na Uswisi (buluu isiyokolea) pia zinaonyesha kuwepo kwa maambukizi ya kijamii.
 
-<!-- ############ SLIDE BREAK ############# -->
-# [Clustering in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
-
-In the DRC, Senegal, and South Africa, we can see clear signs of local transmission, shown as clusters of sequences in the tree.
-From Senegal and South Africa, we also have samples collected more recently.
-These samples generally fall within the older diversity of the country, as we would expect from continued local transmission.
-
-Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere.
-This finding likely reflects the continued restrictions in movement globally.
+_Kidokezo: Unaweza kupanua menyu kunjuzi kwa kubofya 'Nchi' kwenye sehemu ya juu kushoto ya mchoro wa kimatawi!_
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [United States epidemic is a mixture of local and within-country transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
+# [Mifuatano iliyobainishwa hivi majuzi barani Ulaya inaonyesha kuwepo kwa maambukizi ya kijamii na inasaidia kuelewa msambao wa awali wa SARS-CoV-2](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
 
-Here we show genomes from the United States epidemic from April 15 to present day. In mid-April, all U.S. states were on lockdown. [States have since implemented heterogeneous reopening policies](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
+Uchunguzi wa sampuli zilizopakiwa wiki iliyopita unaonyesha vigezo viwili muhimu.
 
-In this tree, just like in the trees for other regions, we see examples of local virus transmission as shown by similarly-colored tips clustering together over time. If you click, "Explore the Data Yourself", and filter the location to Yakima County, you can see a clear example of introduction and growth of genetically related viruses into this region of Washington State. (You can also [click here](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) to do this, but you will leave the narrative.)
+Kwanza, tunaona uanishaji wa ncha katika vikundi vidogo. Hii inaonyesha kuwa maambukizi ya ndani kwa ndani yanazidi kuongezeka katika nchi tofauti - huenda hii ni kutokana na masharti yaliyowekwa kote Ulaya. Virusi vilizidi kubadilika kijeni shughuli za kawaida zilipokuwa zimesitishwa, lakini huenda havikusambazwa nchi nyingine, kumaanisha kuwa sasa tunaweza kutambua 'mifuatano tofauti' iliyoko nchini na kuitofautisha na ile inayopatikana nchi zingine.
 
-However, on the tree, we  also see within-country transmission across the U.S. as shown by mixing of colors at the tree tips. On the map, within-country transmission looks like transmission lines extending between states. These observations are consistent with few domestic travel restrictions and states' reopening policies.
+Baadhi ya sampuli hazifuati mkondo huu wa kuhusisha sampuli tofauti za nchi moja. Kuelea kishale juu ya nchi kwenye matawi huonyesha vidokezo katika mchoro wa kimatawi kuhusu nchi hiyo na hukuwezesha kutambua sampuli hizo. Kwa mfano, katikati mwa mchoro wa kimatawi, tunaweza kuona baadhi ya sampuli za Uswidi (kijani) zikiwa zimeainishwa kwenye kikundi kikubwa cha kimonofailetiki cha Urusi (nyekundu).
+Kutokana na uchunguzi wa sampuli ndogo, sharti tuwe makini jinsi tunavyofasiri msambao wa maambukizi kutoka nchi moja hadi nyingine kwa kutumia mchoro huu.
 
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Central American sequencing shows geographically-clustered transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
-
-There has been limited sequencing from Central America, especially over the past two months, which restricts the inferences we can draw about the epidemic. From the genomes that have been shared, we see geographic clustering of SARS-CoV-2 genomes.
-
-Toward the bottom of the tree in clade 19B, we see a cluster of transmission in Panama starting in mid-February. Several later sequences in Panama from June and July nest in with this cluster, suggesting there's continued local transmission of this virus genotype in the country.
-
-In Mexico, we also see clear geographic clustering of transmission through May. Without more recent sequencing, we cannot make inferences about the epidemic in later months.
-
-In the center of the tree, there is a cluster of cases in Baja California (in light blue). These cases were likely imported from California, USA (green branches on the tree) in March. This inferred importation is consistent with known travel links between the neighboring locations although we should be cautious about interpreting inferred transmission locations given sparse sequencing.
+Pili, tunaona kuwa ncha zina tofauti kubwa kimlalo -- yaani, sampuli zilizowasilishwa wiki moja iliyopita zinawakilisha kipindi cha ukusanyaji sampuli kuanzia mwanzoni mwa mwezi Machi.
+Kuna sababu tofauti za kubainisha mfuatano wa jinomu za "zamani", lakini sampuli hizi zinatusaidia kuelewa zaidi kuhusu mabadiliko ya virusi na msambao kijiografia.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Closing summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [Hali ilivyokuwa awali Marekani Kusini](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
 
-As the pandemic reaches its eighth month of global circulation, we can now see distinct changes over time in the picture painted by viral genetics, largely determined by changing behaviour.
+Marekani Kusini, mifuatano ya kwanza ya kijeni ya SARS-CoV-2 ilibainishwa kuanzia mwishoni mwa Februari na mwanzoni mwa Machi, na ipo sehemu mbalimbali kwenye mchoro wa kimatawi, hivyo kuonyesha kuwepo kwa visa vingi vya maambukizi. Kutokana na kupungua kwa safari za kimataifa katika mwezi wa Machi, kuna ithibati ya ongezeko la maambukizi ya kijamii katika nchi nyingi.
 
-Multiple early transmissions to the USA, Oceania, Europe, and across Asia, were initially incredibly well-mixed, as our global travel patterns distributed the virus incredibly effectively. Soon afterwards, diverse introductions to South America and Africa, often from Europe and North America, seeded local epidemics there.
+Mifuatano mingi inayopatikana Brazili (kijani kibichi) ni sehemu ya vikundi viwili vikubwa (karibu na sehemu ya juu ya mchoro wa kimatawi), pia kuna thibitisho kuwa mfuatano huu wa virusi ulisambaa barani na kuenea Chile, Urugwai na Ajentina.
 
-As the scale of the viral spread and severity of COVID-19 became apparent, travel ground to a halt in much of the world. After this point, we can see a distinct shift to local transmission during 'lockdowns' and the most severe travel restrictions. One outcome of this is that we can now sometimes better identify the source for viruses, as local epidemics have in some cases become more genetically distinct. In the USA, the absence of strict domestic travel has helped maintain well-mixed epidemics between states.
+Pia, kutokana na mifuatano mahsusi tunaona ongezeko la msambao wa virusi nchini Kolombia (rangi ya machungwa), Chile (feruzi), Urugwai (buluu isiyokolea) na Ajentina (buluu iliyokolea) na linaonekana katika sehemu mbalimbali kwenye mchoro wa kimatawi.
 
-Borders are now re-opening and travel has resumed, though not nearly to pre-pandemic levels. This, combined with the lag time from when samples are taken to when they are available publicly, means we only see a few signs of between-country mixing. In general, recent samples tend to continue to cluster with past sequences from the same country, indicating continued transmission of previously circulating variants. 
-
-Unfortunately, many countries have seen a rise in cases in the last few weeks, usually associated with reopening. As the Northern Hemisphere prepares to move into autumn and colder weather, further reopening, and school resuming, we must remain vigilant about rising case counts. As winter progresses in the Southern Hemisphere, we see worrying signs that seasonality could indeed lead to more trouble containing transmission - Australia's initial success with the virus has been dampened by recent outbreaks. Continuing to scale up Test, Trace, and Isolate, careful hand-hygiene, and conscientious mask-wearing can help keep our societies as open as possible while we continue to battle SARS-CoV-2.
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
+# [Hali ya hivi majuzi Marekani Kusini](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Inasikitisha kwamba, japo SARS-CoV-2 inazidi kusambaa sana Marekani Kusini, mchakato wa kubaini mifuatano ya kijeni umejikokota. Japo visa vya maambukizi viko juu katika nchi nyingi barani, sampuli 68 pekee kutoka nchi 5 (Brazili, Ekwado, Urugwai, Ajentina na Chile) ndizo zimeshirikiwa kuanzia Mei.
 
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+Japo matokeo yetu yanategemea sampuli chache zilizochukuliwa, wakati mwingi sampuli hizi za hivi majuzi ni za kikundi sawa na kile cha sampuli zilizochunguzwa awali katika nchi ile ile, au nchi zingine za Marekani Kusini. Hii inaonyesha kuwa aina za virusi vinavyosambaa sasa vilichimbuka kutoka kwa virusi vilivyokuwepo mwanzoni mwa janga.
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+
+<!-- ############ SLIDE BREAK ############# -->
+# [SARS-CoV-2 barani Afrika](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+
+Sawa na Marekani Kusini, bara la Afrika limeshuhudia visa vingi vya maambukizi ya SARS-CoV-2 kutoka nje, nyingi ya visa hivi vikiaminika kutoka Ulaya. Hili linaonyeshwa kupitia sampuli za Afrika kuwepo sehemu mbalimbali kwenye mchoro wa kimatawi - hata sampuli za nchi moja zinajumuisha mifuatano tofauti ya virusi.
+
+Sasa tuna mifuatano ya kijeni kutoka nchi za Afrika kwa vipindi vyote vya janga, ingawa juhudi za kubainisha mifuatano ya kijeni zimedidimia kidogo hivi majuzi.
+Afrika Kusini imechangia pakubwa katika mchakato wa kubainisha mifuatano ya kijeni.
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Ongezeko la maambukizi barani Afrika](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
+
+Nchini DRC, Senegali na Afrika Kusini, kuna ithibati ya kuwepo kwa maambukizi ya kijamii, yanayoonyeshwa kama vikundi vya mifuatano mingi kwenye mchoro wa kimatawi.
+Pia kuna sampuli zilizokusanywa hivi majuzi kutoka Senegali na Afrika Kusini.
+Wakati mwingi, sampuli hizi huishia kuainishwa kwenye vikundi vilivyokuwepo katika nchi husika, kama inavyotarajiwa maambukizi ya kijamii yakiendelea.
+
+Japo sharti tuwe makini katika ufasiri wetu kwa sababu unategemea sampuli zenye mapendeleo, sampuli za hivi majuzi kutoka Afrika zinaonyesha kuwa hakuna mifuatano mipya ya virusi vinavyosambaa barani kutoka kwingineko.
+Ugunduzi huu unaonyesha sababu za kuendelea kuwekwa kwa vikwazo vya kusafiri ulimwenguni.
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Hali ya janga Marekani ni mchanganyiko wa maambukizi ya kijamii na ya kindani](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
+
+Hapa tunaonyesha jinomu za maambukizi nchini Marekani kuanzia tarehe 15 Aprili hadi kufikia sasa. Katikati mwa mwezi wa Aprili, shughuli za kawaida zilisitishwa kote Marekani. [Majimbo yameweka kanuni zao mahsusi za kurejelea shughuli za kawaida](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
+
+Kwenye mchoro huu wa kimatawi, sawa na michoro ya maeneo mengine, tunaona mifano ya maambukizi ya virusi ya kijamii kama inavyoonyeshwa na ncha zenye rangi sawa na zinazoishia kuwekwa kwenye kikundi kimoja baada ya muda fulani. Ukibofya, "Tathmini Data Mwenyewe", na uchuje ili uone Kaunti ya Yakima, utaona mfano mzuri wa kuingia na kusambaa kwa virusi vinavyohusiana kijeni katika eneo hili la Jimbo la Washington. (Pia unaweza [bofya hapa](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) ili utekeleze hili, lakini utaondoka kwenye makala.)
+
+Hata hivyo, kwenye mchoro wa kimatawi, tunaona pia maambukizi ya kindani kote Marekani kama inavyoonyeshwa na mseto wa rangi kwenye ncha za mchoro wa kimatawi. Kwenye ramani, maambukizi ya ndani yanaashiriwa na mistari inayoungansha majimbo. Hali hii inachukuliwa kutokana na vikwazo vya kupunguza safari za ndani na sera za majimbo za kurejelea shughuli za kawaida.
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Mifuatano ya Marekani ya Kati inaonyesha msambao wa maambukizi kijiografia](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
+
+Kumekuwa na idadi ndogo ya mifuatano kutoka Marekani ya Kati, hasa katika miezi miwili iliyopita, na hii inaathiri ufasiri wa janga hili. Kutokana na jinomu zilizoshirikiwa, tunaona uainishaji wa jinomu za SARS-CoV-2 kijiografia.
+
+Kuelekea sehemu ya chini ya mchoro wa kimatawi kwenye kikundi cha kimonofailetiki cha 19B, tunaona ongezeko la maambukizi nchini Panama kuanzia katikati mwa mwezi wa Februari. Mifuatano ya baadaye nchini Panama kuanzia mwezi Juni na Julai iliainishwa kwenye kikundi cha maambukizi haya, hivyo kuashiria kuongezeka kwa maambukizi ya kijamii kutokana na jeni hii ya virusi nchini humu.
+
+Nchini Meksiko, tunaona pia ongezeko la maambukizi kijiografia hadi Mei. Bila mifuatano ya hivi majuzi, itakuwa vigumu kufasiri kuhusu janga katika miezi ijayo.
+
+Katikati mwa mchoro wa kimatawi, kuna ongezeko la visa vya maambukizi kwenye jimbo la Baja California (yenye buluu isiyokolea). Visa hivi huenda vilitokana na maambukizi kutoka jimbo la California, Marekani (matawi ya kijani kwenye mchoro) katika mwezi wa Machi. Ufasiri huu wa kuenea kwa virusi unatokana na kuwepo kwa safari kati ya maeneo haya jirani. Kutokana na uchache wa mifuatano ya kijeni, tunapaswa kuwa makini tunapofasiri msambao wa maambukizi kijiografia,
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Muhtasari](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+
+Janga linapofikia mwezi wa nane tangu kuenea kwake ulimwenguni, sasa tunaweza kuona mabadiliko mahsusi ya jeni za virusi baada ya muda fulani, hasa kutegemea mabadiliko ya mifuatano ya kijeni.
+
+Maambukizi mengi ya awali kuingia Marekani, Oceania, Ulaya na Esia, yalikuwa mseto hapo awali, kutokana na msambao wa virusi uliotokana na safari za kimataifa. Baadaye, maambukizi mapya kuingia Marekani Kusini na Afrika, kutoka Ulaya na Marekani Kaskazini yalizalisha maambukizi mapya ya kijamii huko.
+
+Visa vya maambukizi vilivyozidi kuongezeka na makali ya COVID-19 yakazidi, shughuli za usafiri zilisitishwa katika maeneo mengi ulimwenguni. Kufikia sasa, tunaona kuwa maambukizi ya kijamii yamepungua wakati wa 'kusitishwa kwa shughuli za kawaida' na kutokana na vikwazo vikali zaidi vya kusafiri. Mojawapo ya matokeo ya hali hii ni kuwa sasa tunaweza kubainisha chanzo cha virusi kwa usahihi zaidi, kwa sababu maambukizi ya kijamii wakati mwingine huwa na sifa za kijeni zilizo mahsusi zaidi. Marekani, kutowekwa kwa masharti kali ya kutosafiri kumesaidia kudumisha mseto wa maambukizi katika majimbo.
+
+Mipaka sasa inafunguliwa tena na safari zimerejea, japo si kama ilivyokuwa kabla ya kuzuka kwa janga. Hili, pamoja na muda wa kusubiri kati ya kuchukuliwa kwa sampuli na zitakaposhirikiwa kwa umma, linamaanisha kuwa ithibati tunayoona ya kusambaa kwa maambukizi kutoka nchi moja hadi nyingine ni ya chini. Kwa jumla, sampuli za hivi majuzi za nchi fulani zinalingana na mifuatano ya awali ya nchi hiohio, hivyo kuashiria ongezeko la maambukizi kutokana na mifuatano ya virusi iliyokuwepo awali. 
+
+Inasikitisha kwamba, visa vya maambukizi vimeongezeka katika nchi nyingi katika wiki chache zilizopita, kawaida kutokana na kurejelea shughuli za kawaida. Nchi zilizo Kaskazini mwa Ikweta zinapojiandaa kuingia msimu wa vuli na baridi, kuendeleza shughuli za kawaida na kufungua shule, sharti tutahadhari kuhusu kuongezeka kwa visa vya maambukizi. Msimu wa baridi ukizidi kuendelea kwenye Nchi zilizo Kusini mwa Ikweta, zipo dalili kuwa mabadiliko ya hali ya hewa kutokana na misimu huenda yakafanya iwe vigumu kudhibiti maambukizi - Juhudi za awali za Austrelia za kukabiliana na virusi hivi zimeponzwa na milipuko ya hivi majuzi. Kuendelea kuongeza Vipimo, Kuwafuatilia na Kuwatenga waliotangamana na aliyeambukizwa, kunawa mikono na kuvalia maski inapostahili kunaweza kuzisaidia jamii zetu kuendelea na shughuli za kawaida huku tukizidi kukabiliana na SARS-CoV-2.
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Mchango wa wanasayansi](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
+
+Tungependa kutambua juhudi na kazi nzuri ya wanasayansi wote wanaohusika katika janga hili.
+Uchunganuzi kama huu unawezekana tu kupitia kushiriki data na metadata ya kijeni kwa wakati.
+
+**Tunakuhimiza ubofye 'Tathmini Data Mwenyewe' kisha usogeze chini ili uone orodha kamili ya wataalamu; jina la mtaalamu husika kwa kila mfuatano linapatikana kwa kuuteua kwenye mchoro wa kimatawi.**
+
+Pia tunatoa shukrani kwa GISAID kwa kutoa mfumo ambapo data hizi zinaweza kupakiwa na kutumwa.
