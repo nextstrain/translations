@@ -18,9 +18,11 @@ affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
 translators:
     - Etienne Simon-Loriere
     - Maxime Morin
+    - Meriem El Karoui
 translatorLinks:
     - https://twitter.com/simonlorierelab
     - https://twitter.com/Maijin212
+    - https://twitter.com/MEKLab
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
