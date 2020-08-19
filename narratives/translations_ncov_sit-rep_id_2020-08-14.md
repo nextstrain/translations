@@ -283,13 +283,13 @@ Temuan ini cenderung mencerminkan berlanjutnya pembatasan pergerakan secara glob
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [United States epidemic is a mixture of local and within-country transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
+# [Epidemik AS adalah campuran dari penularan lokal dan dalam negeri](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
 
-Here we show genomes from the United States epidemic from April 15 to present day. In mid-April, all U.S. states were on lockdown. [States have since implemented heterogeneous reopening policies](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
+Di sini kami menunjukkan genom dari epidemik AS sejak 15 April hingga kini. Pada pertengahan April, dilakukan penguncian di seluruh negara bagian AS. [Masing-masing negara bagian kemudian menerapkan berbagai kebijakan pembukaan kembali](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
 
-In this tree, just like in the trees for other regions, we see examples of local virus transmission as shown by similarly-colored tips clustering together over time. If you click, "Explore the Data Yourself", and filter the location to Yakima County, you can see a clear example of introduction and growth of genetically related viruses into this region of Washington State. (You can also [click here](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) to do this, but you will leave the narrative.)
+Pada pohon ini, sebagaimana pohon di wilayah lain, kita melihat contoh penularan lokal virus sebagaimana ditunjukkan oleh pengklasteran ujung sewarna sepanjang waktu. Jika diklik, "Explore the Data Yourself", dan menapis lokasi ke Yakima County, dapat terlihat contoh yang jelas introduksi dan pertumbuhan virus yang berkerabat secara genetik ke wilayah Negara Bagian Washington ini. (Anda juga dapat [klik di sini](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid), namun akan meninggalkan naratif.)
 
-However, on the tree, we  also see within-country transmission across the U.S. as shown by mixing of colors at the tree tips. On the map, within-country transmission looks like transmission lines extending between states. These observations are consistent with few domestic travel restrictions and states' reopening policies.
+Akan tetapi, pada pohon, kita juga melihat penularan dalam negeri seantero AS seperti yang ditunjukkan oleh campuran warna pada ujung pohon. Pada peta, penularan dalam negeri terlihat seperti garis penularan yang memanjang antarnegara bagian. Observasi ini konsisten dengan beberapa pembatasan bepergian domestik dan kebijakan pembukaan kembali negara bagian.
 
 
 <!-- ############ SLIDE BREAK ############# -->
