@@ -56,16 +56,16 @@ Chaque cercle est centré sur un pays individuel, la couleur indique la région 
 # [Résumé COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
 ### Table des matières
-* [Distribution globale des clades](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [La mutation D614G dans la protéine de spicule ("Spike")](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Situation en Asie](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Situation en Océanie](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Situation en Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Situation en Amérique du Sud](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Situation en Afrique](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Situation en Amérique du Nord](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Conclusion](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Crédit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+* [Distribution globale des clades](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-08-14?n=2)
+* [La mutation D614G dans la protéine de spicule ("Spike")](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-08-14?n=3)
+* [Situation en Asie](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-08-14?n=5)
+* [Situation en Océanie](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-08-14?n=7)
+* [Situation en Europe](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-08-14?n=10)
+* [Situation en Amérique du Sud](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-08-14?n=13)
+* [Situation en Afrique](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-08-14?n=15)
+* [Situation en Amérique du Nord](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-08-14?n=17)
+* [Conclusion](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-08-14?n=19)
+* [Crédit](https://nextstrain.org/narratives/ncov/sit-rep/fr/2020-08-14?n=20)
 
 #### Ressources Nextstrain
 * [COMMENCEZ ICI: Comment lire les phylogénies](https://nextstrain.org/narratives/trees-background/fr)
@@ -188,7 +188,7 @@ La majorité des échantillons néo-zélandais (bleus, violets, verts) provienne
 
 Cette semaine, le gouvernement néo-zélandais a annoncé quatre nouveaux cas de transmission communautaire qui ne peuvent être liés à l'arrivée de cas. Le séquençage génétique pourrait aider à découvrir comment le SARS-CoV-2 a contourné les contrôles stricts - plus ci-dessous !
 
-_Astuce: si vous passez votre souris sur les cercles de la carte, vous pouvez voir des informations pertinentes dans l'arborescence en surbrillance ! 
+_Astuce: si vous passez votre souris sur les cercles de la carte, vous pouvez voir des informations pertinentes dans l'arborescence en surbrillance !_ 
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -234,7 +234,7 @@ Cependant, le SARS-CoV-2 était déjà si mélangé à travers l'Europe que diff
 
 Cependant, nous pouvons voir certains signes de la transmission locale que nous attendons. Ici, la Finlande et la Suède ont un groupe de transmission très distinct en vert et orange (environ 1/3 du haut), tandis que l'Espagne (bleu foncé) montre une transmission locale distincte en bas et en haut de l'arbre. L'Islande (violet) et la Suisse (bleu clair) montrent également des clusters de transmission locale.
 
-_Astuce: Vous pouvez développer la légende en cliquant sur "Pays" en haut à gauche de l'arbre!
+_Astuce: Vous pouvez développer la légende en cliquant sur "Pays" en haut à gauche de l'arbre!_
 
 
 
