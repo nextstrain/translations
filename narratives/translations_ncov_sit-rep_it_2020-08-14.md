@@ -89,10 +89,15 @@ Ogni cerchio è centrato su una singola nazione, il colore indica la regione e l
 * [Conclusioni](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
 * [Ringraziamenti](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/)
+<!-- #### Nextstrain Resources-->
+#### Risorse su Nextstrain 
+<!-- * [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/)
 * [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/)
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)
+* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)-->
+
+* [INIZIA QUI:Come interpretare gli alberi filogenetici](https://nextstrain.org/narratives/trees-background_it/)
+* [Rapporti precedenti sulla situazione](https://nextstrain.org/ncov-sit-reps/)
+* [Informazioni generali sui coravirus](https://nextstrain.org/help/coronavirus/human-CoV)
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
