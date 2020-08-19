@@ -312,11 +312,11 @@ Borders are now re-opening and travel has resumed, though not nearly to pre-pand
 Unfortunately, many countries have seen a rise in cases in the last few weeks, usually associated with reopening. As the Northern Hemisphere prepares to move into autumn and colder weather, further reopening, and school resuming, we must remain vigilant about rising case counts. As winter progresses in the Southern Hemisphere, we see worrying signs that seasonality could indeed lead to more trouble containing transmission - Australia's initial success with the virus has been dampened by recent outbreaks. Continuing to scale up Test, Trace, and Isolate, careful hand-hygiene, and conscientious mask-wearing can help keep our societies as open as possible while we continue to battle SARS-CoV-2.
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
+# [Créditos Científicos](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Quisiéramos reconocer la excelente y oportuna labor realizada por todos los científicos participantes. Sólo mediante el rápido intercambio de datos y metadatos genómicos es posible realizar análisis como éste. 
 
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+**Te animamos a hacer click en 'Explora los datos tu mismo' y encontrar la lista completa de autores; los autores de cada secuencia individual son visibles al seleccionarla la secuencia en el árbol.**
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+También agradecemos a GISAID por proporcionar la plataforma a través de la cual estos datos pueden ser cargados y compartidos.
+
