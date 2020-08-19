@@ -54,7 +54,7 @@ Chaque cercle est centré sur un pays individuel, la couleur indique la région 
 # [Résumé COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
 ### Table des matières
-* [Global clade distribution](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
+* [Distribution globale des clades](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
 * [La mutation D614G dans la protéine de spicule ("Spike")](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
 * [Situation en Asie](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
 * [Situation en Océanie](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
@@ -120,7 +120,7 @@ Nous examinons maintenant la répartition de ces clades dans le monde (la couleu
 Vous pouvez voir que les pays de la région Asiatique ont une proportion plus élevée de 19A et 19B (bleus) car ce variant a dominé au début de l'épidémie.
 L'Europe et l'Amérique du Nord ont un mélange de tous les clades, mais sont dominés par le 20B et le 20C (respectivement jaune et orange).
 
-#### Si vous avez des séquences SRAS-CoV-2 dont vous aimeriez connaître le clade (et la position estimée sur un arbre phylogénétique), nous avons développé Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) qui vous permet de glisser-déposer vos fichiers FASTA sur le navigateur.
+#### Si vous avez des séquences SRAS-CoV-2 dont vous aimeriez connaître le clade (et la position estimée sur un arbre phylogénétique), nous avons développé Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) qui vous permet de glisser-déposer vos fichiers FASTA dans le navigateur.
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -138,7 +138,7 @@ Rien n'indique que ces autres substitutions et réversions aient entraîné des 
 <!-- ############ SLIDE BREAK ############# -->
 # [Analyse des visualisations régionales indépendantes](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
 
-Comme il y a trop de génomes pour les  montrer dans un seul arbre, nous fournissons une analyse régionale pour chacune des 6 régions présentées ici, en plus de notre principale visualisation "globale".
+Comme il y a trop de génomes pour les montrer dans un seul arbre, nous fournissons une analyse régionale pour chacune des 6 régions présentées ici, en plus de notre principale visualisation "globale".
 Cela nous permet de nous concentrer sur la diversité au sein de chaque région, tout en choisissant des échantillons appropriés hors région, afin que nous puissions conserver une vue d'ensemble de toutes les transmissions entre régions au fil du temps - comme nous pouvons le voir sur cette diapositive !
 
 Dans les prochaines diapositives, nous allons donner un aperçu de chacune de ces régions en passant à l'ensemble des données correspondant. (C'est une nouvelle fonctionnalité de Nextstrain Narratives !)
@@ -156,7 +156,7 @@ Ici, seuls les pays d'Asie ont été colorés, les autres régions étant repré
 La couleur de chaque ligne de transmission (lignes entre les cercles) représente le lieu d'origine, donc toutes les lignes **colorées** représentent des transmissions provenant d'un pays d'Asie (dans cet exemple).
 
 #### Transmissions vers l'Asie
-Cela montre qu'un grand nombre de transmissions impliquant des pays asiatiques et non asiatiques étaient des importations vers Asie (lignes grises).
+Cela montre qu'un grand nombre de transmissions impliquant des pays asiatiques et non asiatiques étaient des importations vers l'Asie (lignes grises).
 Les transmissions d'Europe vers l'Asie sont particulièrement marquées (bien que les lignes semblent provenir d'Allemagne, ce point représente toute l'Europe). Toutefois, nous devons être prudents quant à la manière dont nous interprétons ces transmissions déduites, car les biais d'échantillonnage peuvent jouer un rôle important (et nous avons beaucoup plus d'échantillons d'Europe que de tout endroit). 
 
 
@@ -166,9 +166,9 @@ Les transmissions d'Europe vers l'Asie sont particulièrement marquées (bien qu
 # [La situation en Asie après le 1er juin](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
 
 En examinant les génomes échantillonnés après le 1er juin (c'est-à-dire au cours des deux derniers mois), on constate que l'échantillonnage est dominé par un nombre réduit de pays.
-Cela limite les conclusions que nous pouvons tirer, mais il semble que nous ayons moins de transmissions entre les pays.
+Cela limite les conclusions que nous pouvons tirer, mais il semble que nous ayons moins de transmissions entre pays.
 
-Cela est également évident si l'on considère la phylogénie, où nous avons de grands groupes monophylétiques (dans la même partie de l'arbre) de génomes de Singapour (jaune) et du Bangladesh (vert clair).
+Cela est également évident si l'on considère la phylogénie, où nous observons de grands groupes monophylétiques (dans la même partie de l'arbre) de génomes de Singapour (jaune) et du Bangladesh (vert clair).
 
 Ces données sont compatibles avec des voyages internationaux moins récents et des mesures de contrôle plus strictes.
 
@@ -182,11 +182,11 @@ Seuls les échantillons d'Australie et de Nouvelle-Zélande sont colorés.
 
 Vous pouvez voir que ces échantillons sont répartis dans tout l'arbre, indiquant que l'Océanie a été exposée à (la plupart de) la diversité génomique observée du SARS-CoV-2.
 
-La majorité des échantillons néo-zélandais (bleus, violets, verts) proviennent d'une bande temporelle serrée couvrant les mois de mars et avril, ce qui est dû à la stratégie de contrôle réussie employée par le gouvernement néo-zélandais. Alors que le pays est revenu à une normalité relative, les frontières sont toujours fermées à tous les non-citoyens pour limiter les chances que le virus rentre dans le pays. Les citoyens de retour doivent être mis en quarantaine pendant 14 jours avant d'entrer dans le pays.
+La majorité des échantillons néo-zélandais (bleus, violets, verts) proviennent d'une bande temporelle serrée couvrant les mois de mars et avril, ce qui est dû à la stratégie de contrôle réussie employée par le gouvernement néo-zélandais. Alors que le pays est revenu à une normalité relative, les frontières sont toujours fermées à tous les non-citoyens pour limiter les chances que le virus ne rentre dans le pays. Les citoyens de retour doivent être mis en quarantaine pendant 14 jours avant d'entrer dans le pays.
 
-Cette semaine, le gouvernement néo-zélandais a annoncé quatre nouveaux cas de transmission communautaire qui ne peuvent être liés à l'arrivée de cas. Le séquençage génétique pourrait aider à découvrir comment le SARS-CoV-2 a contourné les contrôles stricts - plus ci-dessous!
+Cette semaine, le gouvernement néo-zélandais a annoncé quatre nouveaux cas de transmission communautaire qui ne peuvent être liés à l'arrivée de cas. Le séquençage génétique pourrait aider à découvrir comment le SARS-CoV-2 a contourné les contrôles stricts - plus ci-dessous !
 
-_Astuce: si vous passez votre souris sur les cercles de la carte, vous pouvez voir des informations pertinentes dans l'arborescence en surbrillance! 
+_Astuce: si vous passez votre souris sur les cercles de la carte, vous pouvez voir des informations pertinentes dans l'arborescence en surbrillance ! 
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -243,7 +243,7 @@ L'examen uniquement des échantillons partagés la semaine dernière met en évi
 Premièrement, nous pouvons voir une tendance à regrouper les pointes en mini-clusters. Cela indique que la transmission à l'intérieur des pays continue de dominer - probablement en raison des diverses réglementations introduites dans toute l'Europe. Le virus a continué à se diversifier génétiquement pendant le confinement, mais était plus susceptible d'être confiné à un pays, ce qui signifie que nous pouvons souvent mieux distinguer les «variants» locaux de ceux d'autres pays.
 
 Certains échantillons ne suivent pas cette tendance de liaison à d'autres échantillons du même pays. Le survol d'un pays dans la légende met en évidence des informations dans l'arbre de ce pays et aidera à identifier de tels échantillons. Par exemple, au milieu de l'arbre, nous pouvons voir des échantillons suédois (vert) imbriqués dans un clade russe plus grand (rouge).
-Étant donné le sous-échantillonnage important, nous devons rester prudents pour ne pas surinterpréter les transmissions inter-pays putatives de ce point de vue.
+Étant donné le sous-échantillonnage important, nous devons rester prudents pour ne pas surinterpréter les transmissions entre pays, putatives de ce point de vue.
 
 Deuxièmement, nous pouvons voir que les pointes ont une grande différence d'espacement horizontal - c'est-à-dire que les échantillons soumis la semaine dernière représentent une fenêtre de temps de collecte des échantillons qui remonte à début mars.
 Les raisons du séquençage de «vieux» génomes varient, mais ces échantillons nous aident à compléter notre compréhension de l'évolution virale et du mouvement géographique.
@@ -279,13 +279,13 @@ L'Afrique du Sud a contribué pour une grande part au séquençage.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Clustering in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
+# [Regroupements en Afrique](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
 
 En RDC, au Sénégal et en Afrique du Sud, nous pouvons voir des signes évidents de transmission locale, représentés par des clusters de séquences dans l'arbre.
 Au Sénégal et en Afrique du Sud, nous avons également des échantillons prélevés plus récemment.
 Ces échantillons s'inscrivent généralement dans la diversité plus ancienne du pays, comme on peut s'y attendre d'une transmission locale continue.
 
-Bien que nous devons être prudents dans nos conclusions car elles sont fortement limitées par un échantillonnage très biaisé, les échantillons récents d'Afrique que nous avons ne suggèrent pas l'importation continue de variants d'ailleurs.
+Bien que nous devions être prudents dans nos conclusions car elles sont fortement limitées par un échantillonnage très biaisé, les échantillons récents d'Afrique que nous avons ne suggèrent pas l'importation continue de variants d'ailleurs.
 Cette conclusion reflète vraisemblablement la poursuite des restrictions de mouvements au niveau mondial.
 
 
