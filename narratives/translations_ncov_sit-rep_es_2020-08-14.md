@@ -265,14 +265,14 @@ Sudáfrica ha contribuido en gran proporción al secuenciamiento.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Clustering in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
+# [Agrupamientos en África](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
 
-In the DRC, Senegal, and South Africa, we can see clear signs of local transmission, shown as clusters of sequences in the tree.
-From Senegal and South Africa, we also have samples collected more recently.
-These samples generally fall within the older diversity of the country, as we would expect from continued local transmission.
+En la República Democrática del Congo, Senegal y Sudáfrica, podemos observar claros signos de transmisión local mostrados aquí como cúmulos de secuencias en el árbol.
+De Senegal y Sudáfrica, tenemos muestras recolectadas más recientemente.
+Estas muestras caen generalmente dentro de la vieja diversidad del país, tal y como cabría esperarse de una continuada transmisión local.
 
-Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere.
-This finding likely reflects the continued restrictions in movement globally.
+Aunque debemos ser cautos con nuestras conclusiones, ya que se encuentran enormemente limitadas por un muestreo sesgado, las muestras recientes desde África no sugieren una importación continuada de casos desde otros lugares.
+Este resultado probablemente refleja las continuadas restricciones en el movimiento global.
 
 
 <!-- ############ SLIDE BREAK ############# -->
