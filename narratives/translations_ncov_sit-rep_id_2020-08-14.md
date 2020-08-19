@@ -272,14 +272,14 @@ Afrika Selatan menyumbang proporsi yang besar dalam pengumpulan sekuens.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Clustering in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
+# [Pengklasteran di Afrika](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
 
-In the DRC, Senegal, and South Africa, we can see clear signs of local transmission, shown as clusters of sequences in the tree.
-From Senegal and South Africa, we also have samples collected more recently.
-These samples generally fall within the older diversity of the country, as we would expect from continued local transmission.
+Di Kongo, Senegal, dan Afrika Selatan, kita dapat melihat dengan jelas adanya penularan lokal, ditunjukkan sebagai klaster sekuens dalam pohon.
+Dari Senegal dan Afrika Selatan, kita juga memiliki sampel yang didapatkan baru-baru ini.
+Sampel-sampel ini umumnya masuk ke dalam keragaman terdahulu di negaranya, sebagaimana kita duga dari kelanjutan penularan lokal.
 
-Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere.
-This finding likely reflects the continued restrictions in movement globally.
+Namun, kita harus berhati-hati dalam menyimpulkan karena keterbatasan penyampelan yang dapat menimbulkan bias, sampel belakangan dari Afrika yang kita miliki tidak menunjukkan berlanjutnya importasi varian dari luar.
+Temuan ini cenderung mencerminkan berlanjutnya pembatasan pergerakan secara global.
 
 
 <!-- ############ SLIDE BREAK ############# -->
