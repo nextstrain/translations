@@ -15,8 +15,8 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
-translators:
-translatorLinks:
+translators: "Provided by Google"
+translatorLinks: "https://www.google.com/"
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
@@ -139,7 +139,7 @@ To nám umožňuje zaměřit se na diverzitu v jednotlivých oblastech a přitom
 
 Na následujících snímcích nabízíme přehled každé z těchto oblastí, který lze zobrazit přepnutím na odpovídající datový soubor. (Jedná se o novou funkci v příspěvcích na webu Nextstrain)
 
-Úplný soupis sestav, které vedeme jak my, tak jiní, je k dispozici na [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/)..
+Úplný soupis sestav, které vedeme jak my, tak jiní, je k dispozici na [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Situace v Asii před začátkem června](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
