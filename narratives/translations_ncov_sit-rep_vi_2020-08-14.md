@@ -1,5 +1,5 @@
 ---
-title: August 2020 update of COVID-19 genomic epidemiology
+title: Agosto 2020 na update ng genomic epidemiology ng COVID-19
 authors:
   - James Hadfield
   - Cassia Wagner
@@ -20,24 +20,24 @@ translatorLinks:
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
-date: "2020 August 14"
+date: "Agosto 14, 2020"
 abstract: "
-The pandemic is currently widespread around the world, with over [1.5 million new cases each week](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) and total reported cases of [18 million](https://ourworldindata.org/covid-cases) and over [600,000 fatailities](https://ourworldindata.org/covid-deaths).
+Ang pandemya ay kasalukuyang laganap sa buong mundo, na mayroong mahigit [1.5 milyong bagong kaso bawat linggo](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) at kabuuang naiulat na kaso na [18 milyon](https://ourworldindata.org/covid-cases) at mahigit [600,000 na namatay](https://ourworldindata.org/covid-deaths).
 \n\n
-### The situation [is summarised by the WHO on August 2, 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
+### Ang sitwasyon [ay binuod ng WHO noong Agosto 2, 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
-### **\"As countries have eased public health and social measures, implemented to limit transmission of the virus, a number of these countries have observed clusters or resurgences of cases. Risks and vulnerabilities are further magnified in fragile, low-resource and conflict-affected settings.\"**
+### **\"Habang napagaan ng mga bansa ang mga pampubliko at panlipunang pamamaraan, na ipinatupad upang limitahan ang transmisyon ng virus, ang ilan sa mga bansang ito ay nakitaan ng mga kumpol o pagbalik ng mga kaso. Ang mga panganib at kahinaan ay higit na pinalaki sa mga lugar na mahihina, may kakaunting kayamanan, at apektado ng mga kaguluhan.\"**
 \n\n
-### The worldwide sequencing of the SARS-CoV-2 genome has continued unabated, and with this data we use Nextstrain to track the geographic movement and evolution of the virus.
-To date, there are over 75,000 sequences publicly shared from half the countries in the world - an amazing testament to the scientists and public health officials behind this.
+### Ang sequencing ng SARS-CoV-2 genome sa buong mundo ay patuloy na hindi humihina, at gamit ang data na ito, ginagamit namin ang Nextstrain upang subaybayan ang heograpikong paggalaw ng ebolusyon ng virus.
+Sa ngayon, may mahigit 75,000 sequence nang ibinabahagi sa publiko mula sa kalahati ng mga bansa sa mundo - isang kahanga-hangang testamento sa mga siyentista at mga opisyal ng pampublikong kalusugan na nasa likod nito.
 \n\n
-### We use subsampling approaches to remove potential sampling biases in order to ensure that regions and time-periods are appropriately included for analysis.
-(This also helps for the computational requirements.)
+### Ginagamit namin ang mga subsampling na pamamaraan para alisin ang potensiyal na mga sampling bias upang matiyak na ang mga rehiyon at mga haba ng panahon ay angkop na naisasama sa pagsusuri.
+(Makatutulong ito para sa mga kinakailangan sa komputasyon.)
 \n\n
-### Here you can see the geographical distribution of ~4300 genomes.
-Each circle is centered on an individual country, the colour indicates region and the radius scales with the number of genomes from that country ([see here for help interpreting the map in Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
+### Dito ay makikita mo ang heograpikong distribusyon ng ~4300 genome.
+Ang bawat bilog ay nakasentro sa indibidwal na bansa, ang kulay ay nagpapahiwatig ng rehiyon at ang radius ay katumbas ng bilang ng mga genome mula sa bansang iyon ([tingnan dito para makatulong sa pagpapaliwanag ng mapa sa Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
 \n\n
-### In this report, we examine the global genomic epidemiology of COVID-19 broadly and provide specific updates for each world region.
+### Sa report na ito, sinusuri namin nang malawakan ang pandaigdigang genomic epidemiology ng COVID-19 at nagbibigay ng ispesipikong mga update para sa bawat rehiyon sa mundo.
 "
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
@@ -48,63 +48,63 @@ Each circle is centered on an individual country, the colour indicates region an
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- table of contents slide -->
-# [COVID-19 Summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [Buod ng COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-### Table of contents
-* [Global clade distribution](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [D614G Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Situation in Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Situation in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Situation in Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Situation in South America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Situation in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Situation in North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Closing summary](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+### Talaan ng mga nilalaman
+* [Pandaigdigang distribusyon ng clade](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=2)
+* [Mutation ng D614G Spike](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=3)
+* [Sitwasyon sa Asia](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=5)
+* [Sitwasyon sa Oceania](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=7)
+* [Sitwasyon sa Europa](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=10)
+* [Sitwasyon sa Timog Amerika](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=13)
+* [Sitwasyon sa Aprika](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=15)
+* [Sitwasyon sa Hilagang Amerika](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=17)
+* [Buod ng pagsasara](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=19)
+* [Pagkilala](https://nextstrain.org/narratives/ncov/sit-rep/vi/2020-08-14?n=20)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/)
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/)
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)
+#### Mga Resource ng Nextstrain
+* [MAGSIMULA RITO: Paano basahin ang phylogeny](https://nextstrain.org/narratives/trees-background/vi/)
+* [Mga Naunang Ulat ng Sitwasyon](https://nextstrain.org/ncov-sit-reps/)
+* [Background sa mga coronavirus](https://nextstrain.org/help/coronavirus/human-CoV)
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Executive Summary
+# Buod ng Tagapangasiwa
 
-In this report, we analyzed publicly shared SARS-CoV-2 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally.
+Sa ulat na ito, sinuri namin ang mga SARS-CoV-2 genome na ibinabahagi sa publiko. Sa pamamagitan ng paghahambing ng mga viral genome na ito sa isa't isa, makikilala natin kung paano gumagalaw sa buong mundo ang COVID-19 at paano ito kumakalat sa lugar.
 
-- Asia has a higher proportion of 19A & 19B clades, with 20A, 20B & 20C clades dominating in Europe & North America.
+- Ang Asya ay may mas mataas na proporsyon ng 19A at 19B clade, samantalang ang 20A, 20B at 20C clade ang nangingibabaw sa Europa at Hilagang Amerika.
 
-- Globally, we can clearly see the rise to prominence of the D614G substitution in the Spike protein. This variant is hypothesised to cause an increase in SARS-CoV-2 transmission.
+- Sa buong mundo, malinaw nating nakikita ang pangingibabaw ng D614G na substitusyon sa protinang Spike. Ang uri na ito ay ipinagpalagay na nagdudulot ng pagtaas ng transmisyon sa SARS-CoV-2.
 
-- To better display real-time builds of the SARS-CoV-2 data around the world, we run 6 regional and 1 global build, which are updated every weekday.
+- Upang mas maipakita ang mga real-time build ng SARS-CoV-2 data sa buong mundo, nagpapatakbo tayo ng 6 na panrehiyon at 1 pandaigdigang build, na ina-update kada Lunes hanggang Biyernes.
 
-- In Asia, there were numerous between-country transmissions in the region early in the pandemic. More recently, we see a move to within-country links, a trend we see in most regions.
+- Sa Asya, maraming transmisyon sa pagitan ng mga bansa sa rehiyon noong unang bahagi ng pandemya. Kamakailan lamang, nakita natin na napalitan ito ng mga pagkakaugnay sa loob ng mga bansa, isang kalakaran na nakikita natin sa halos lahat ng rehiyon.
 
-- In Oceania, New Zealand's cases are contained in a narrow temporal band, corresponding to their elimination of the virus (until this week). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.
+- Sa Oceania, ang mga kaso ng New Zealand ay nakapaloob sa makipot na temporal band, na katumbas ng kanilang pagtanggal ng virus (hanggang sa linggong ito). Ang kamakailang pagtaas ng mga kaso sa Australia ay lumitaw, kahit sa mga sample na ibinahagi sa ngayon, bilang mahigpit na nakakumpol na mga kaso mula sa dating mga kumakalat na diversity.
 
-- SARS-CoV-2 spread extremely quickly in Europe - the virus was likely being transmitted in many countries before they realised. This resulted in heavy mixing of European samples early in the pandemic, making it hard to distinguish and identfy introductions from one place to another. More recently, we can see more distinct variants associated with particular countries, as viruses have been constrained through travel restrictions.
+- Ang SARS-CoV-2 ay lubhang napakabilis kumalat sa Europa- ang virus ay malamang na naililipat sa maraming bansa bago nila iyon malaman. Nagresulta ito sa mabigat na paghahalo ng mga Europeanong sample noong unang bahagi ng pandemya, na nagpahirap upang matukoy at makilala ang mga pinagmulan mula sa isang lugar patungo sa iba pang lugar. Kamaikailan lamang, nakita namin ang iba't ibang uri na nauugnay sa partikular na mga bansa, dahil ang mga virus ay napigilan sa pagkalat dahil sa mga pagbabawal sa pagbiyahe.
 
-- Like other regions, South America had multiple introductions, covering most of the known diversity of SARS-CoV-2. After travel restrictions came into place, sequences begin clustering more noticeably. Unfortunately, despite severe ongoing epidemics in many countries, more recent sequences are not readily available.
+- Tulad ng ibang mga rehiyon, ang Timog Amerika ay nagkaroon ng maraming pinagmulan, na sumasaklaw sa karamihan ng mga natukoy na iba't ibang uri ng SARS-CoV-2. Pagkatapos maipatupad ang mga pagbabawal sa pagbiyahe, ang mga sequence ay nagismulang magkumpol nang mas kapansin-pansin. Sa kasawiang palad, sa kabila ng malalang nangyayaring mga epidemya sa maraming bansa, ang mas bagong sequence ay hindi pa magagamit.
 
-- Africa also had multiple, diverse introductions early in the pandemic. Subsequent travel restrictions seems to have limited mixing among African countries, with most sequences seeming to come from earlier circulating diversity in the same country.
+- Nagkaroon din ang Aprika ng marami at iba't ibang uri ng mga pinagmulan sa unang bahagi ng pandemya. Ang sumunod na mga pagbabawal sa pagbiyahe ay tila naglimita sa paghahalo sa mga Aprikanong bansa, kung saan karamihan sa mga sequence ay tila nagmula sa mga unang kumakalat na iba't ibang uri sa parehong bansa.
 
-- A different picture is shown in the USA, where domestic travel has not been greatly restricted: we see mixing among all states, as well as local transmission. In Mexico & Central America, we see examples of geographical clustering in transmission, particularly between California (USA) & Baja California (Mexico).
+- Ibang larawan ang ipinapakita sa USA, kung saan ang domestic na pagbiyahe ay hindi lubusang pinaghigpitan; nakakakita tayo ng paghahalo sa lahat ng estado, gayundin sa lokal na transmisyon. Sa Mexico at Gitnang Amerika, nakikita natin ang mga halimbawa ng heograpikong pagkukumpol sa transmisyon, partikular na sa pagitan ng California (USA) at Baja California (Mexico).
 
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Worldwide distribution of genetic variants](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
+# [Distribusyon sa buong daigdig ng mga genetic variant](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
-Since its emergence in late 2019, SARS-CoV-2 has diversified into several different co-circulating variants. To facilitate discussion of these variants, we have grouped them into clades which are defined by specific signature mutations.
+Simula sa paglitaw nito noong huling bahagi ng 2019, ang SARS-CoV-2 ay nagkaroon na ng iba't ibang kumakalat na uri. Upang pangasiwaan ang talakayan ng mga uri na ito, ipinangkat natin ang mga iyon sa mga clade na tinutukoy ayon sa ispesipikong mga signature mutation.
 
-We currently define 5 major clades (see [this blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) for details):
+Kasalukuyan nating tinutukoy ang 5 pangunahing clade (tingnan [ang blog post na ito](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) para sa mga detalye):
 
-* 19A and 19B emerged in Wuhan and dominated the early outbreak.
-* 20A emerged out of 19A, dominated the European outbreak in March, and has since spread globally.
-* 20B and 20C are large, genetically distinct subclades of 20A.
+* Ang 19A at 19B ay nagmula sa Wuhan at nangibabaw sa maagang pagkalat ng sakit.
+* Ang 20A ay lumitaw mula sa 19A, na nangibabaw sa pagkalat ng sakit sa Europa noong Marso, at simula noon ay kumalat na sa buong mundo.
+* Ang 20B at 20C ay malalaki at natatangi sa paraang genetic na mga subclade ng 20A.
 
 
 <svg viewBox="0 0 120 80">
@@ -112,213 +112,213 @@ We currently define 5 major clades (see [this blog post](https://nextstrain.org/
 </svg>
 
 
-We're now looking at the distribution of these clades across the world (the color now represents clade membership).
-You can see that countries in the Asia region have a higher proportion of 19A and 19B (blues) as that variant dominated in the early outbreak.
-Europe and North America have a mixture of all clades, but are dominated by 20B and 20C (yellow and orange, respectively).
+Tinitingnan natin ngayon ang distribusyon ng mga clade na ito sa buong mundo kinakatawan na ng kulay ngayon ang clade membership).
+Makikita mo na ang mga bansa sa rehiyon ng Asya ay may mas mataas na proporsyon ng 19A at 19B (mga asul)  bilang uri na nangibabaw sa naunang pagkalat ng sakit.
+Ang Europa at Hilagang Amerika ay may sangkap ng lahat ng clade, subalit pinangingibabawan ng 20B at 20C (dilaw at orange, nang kanya-kanya).
 
-#### If you have SARS-CoV-2 sequences for which you'd like to know their clade (and estimated position on a phylogenetic tree), we made Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) which lets you drag-and-drop your FASTA files onto the browser.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [The well-publicized D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
-
-The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
-
-Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
-
-Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
-In July the 614G variant was present in the majority of circulating viruses worldwide. Since its initial appearance, the substitution has arisen multiple times and also reverted back to the 614D variant.
-There is no evidence that these other substitutions and reversions have resulted in continued transmission chains.
+#### Kung mayroon kang mga SARS-CoV-2 sequence kung saan gusto mong malaman ang kanilang clade (at tinatayang posisyon sa isang phylogenetic tree), ginawa namin ang Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) na magpapahintulot sa iyo na i-drag at i-drop ang mga FASTA file mo sa browser.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Analysing regional builds independently](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
+# [Ang mahusay na isinapublikong D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
-As there are too many genomes to show in a single tree, we provide a regional analysis for each of the 6 regions shown here, in addition to our main 'global' build.
-This allows us to focus on the diversity within each region, while choosing appropriate out-of-region samples, so we can maintain an overview of all of the between-region transmissions over time - as we can see on this slide!
+Ang substitusyon ng D614G sa gene coding para sa protinang Spike (S) ay kamakailang naibalita at naging paksa ng napakaraming haka-haka.
 
-In the next slides we're going to provide an overview of each of those regions by switching to the corresponding dataset. (This is a new feature in Nextstrain Narratives!)
+Dumarami na ang ebidensya na ang G variant (dilaw sa view na ito) ay nagpapataas ng pagiging nakakahawa ng SARS-CoV-2 _in vitro_ at maaaring ebolusyonaryong napili para sa mas mabilis na transmisyon mula sa tao patungo sa tao ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). Gayunman, ang pagtaas ng pagiging nakakahawa ay maaaring potensiyal na magdulot ng pagiging mas mahina ng virus laban sa mga nakakapatay na antibody ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
-A full inventory of builds maintained by us and others is available at [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
-
-If we examine the situation in Asia from genomes collected before June 2020, we see signs of both extensive within-Asia transmission as well as transmissions to and from other regions of the world.
-
-#### Interpreting the lines and colors
-
-Here only countries in Asia have been colored, with the other regions represented by shades of grey.
-The color of each transmission line (lines between circles) represents the origin location, so all of the **colored** lines represent transmissions originating from a country within Asia (in this example).
-
-#### Transmissions into Asia
-
-This shows that many of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
-Especially pronounced in this view are those transmissions from Europe to Asia (though the lines seem to come from Germany, this point represents all of Europe). However, we must be cautious about how we interpret these inferred transmissions, as sampling biases can play a large role (and we have many more samples from Europe than anywhere else).
+Makikita natin dito na ang variant na ito ay nagpahiwatig na lumitaw pagkatapos ng napakaikling panahon pagkatapos ng inisyal na zoonosis at pagkatapos ay kumalat sa buong mundo.
+Noong Hulyo ang 614G variant ay makikita sa karamihan ng kumakalat na virus sa buong mundo. Mula nang una itong makita, ang substitusyon ay lumitaw nang maraming beses at bumalik din sa 614D variant.
+Walang ebidensya na ang ibang mga substitusyon na ito at pagbabalik ay nagresulta ng patuloy na chain ng tramisyon.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Asia situation after June 1](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
+# [Independiyenteng pagsusuri ng mga regional build](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
 
-Looking at the genomes sampled after June 1 (i.e. in the past 2 months), we see that the sampling is dominated by fewer countries.
-This limits the conclusions we can draw, but it appears that we may have fewer transmissions between countries.
+Dahil napakaraming genome na ipinakikita sa isahang puno, nagbibigay kami ng panrehiyong pagsusuri para sa bawat 6 na rehiyon na ipinakita rito, bilang dagdag sa aming pangunahing ;pandaigdig' na build.
+Nagpapahintulot ito sa atin na magfocus sa pagkakaiba-iba sa loob ng bawat rehiyon, habang pinipili ang angkop na mga sample na nasa labas ng rehiyon, upang makapagpanatili tayo ng pangkalahatang pagtingin sa lahat ng transmisyon sa pagitan ng mga rehiyon sa paglipas ng panahon - katulad ng nakikita natin sa slide na ito!
 
-This is also evident looking at the phylogeny, where we have large monophyletic (in the same part of the tree) groupings of genomes from Singapore (yellow) and Bangladesh (light green).
+Sa susunod na mga slide, magbibigay kami ng pangkalahatang pagtingin sa bawat isa sa mga rehiyong iyon sa pamamagitan ng paglipat sa katumbas na dataset. (Ito ay bagong feature sa Nextstrain Narratives!)
 
-These data are consistent with less recent international travel and stricter control measures.
+Ang buong imbentaryo ng mga build na aming iniingatan at ng iba pa ay available sa [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Sitwasyon sa Asya bago mag-Hunyo](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
+
+Kung susuriin natin ang sitwasyon sa Asya mula sa mga genome na nakolekta bago ang Hunyo 2020, makikita natin ang mga palatandaan ng malawak na transmisyon sa loob ng Asya gayundin ang transmisyon patungo at mula sa iba pang mga rehiyon sa mundo.
+
+#### Pagbibigay ng kahulugan sa mga linya at kulay
+
+Mga bansa lamang sa Asya ang kinulayan dito, kung saan ang ibang mga rehiyon ay kinakatawan ng mga shade ng grey.
+Ang kulay ng bawat linya ng transmisyon (mga linya sa pagitan ng mga bilog) ay kumakatawan sa lokasyong pinagmulan, kaya ang lahat ng **kinulayang** linya ay kumakatawan sa mga transmisyon na nagmumula sa bansa sa loob ng Asya (sa halimbawang ito).
+
+#### Mga Transmisyon sa Asya
+
+Ipinakikita nito na marami sa mga transmisyon sangkot ang mga bansa sa Asya at labas ng Asya ay mga importasyon papasok sa Asya (mga linyang grey).
+Espesyal na binanggit sa view na ito ang mga transmisyon mula sa Europa papuntang Asya (kahit na ang mga linya ay tila nagmula sa Germany, ang point na ito ay kumakatawan sa lahat ng Europa). Gayunman, dapat tayong maging maingat tungkol sa kung paano natin ipinaliliwanag ang mga ipinahihiwatig na transmisyong ito, dahil ang mga sampling bias ay magkaroon ng malaking papel (at napakarami nating sample mula sa Europa kaysa sa ibang lugar).
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Oceania overview](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
+# [Sitwasyon ng Asya bago ang Hunyo 1](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
 
-Here we can explore ~790 genomes from Australia and New Zealand with an extra ~1100 sequences to provide global context.
-Only samples from Australia and New Zealand are colored.
+Habang tinitingnan ang mga genome na sinample pagkatapos ng Hunyo 1 (sa ibang salita ay sa nakalipas na 2 buwan), nakikita natin na ang mga sample ay pinangingibabawan ng mas kaunting bansa.
+Nililimitahan nito ang mga konklusyon na maaari nating ilabas, subalit lumilitaw na maaaring mayroon tayong mas kaunting transmisyon sa pagitan ng mga bansa.
 
-You can see that these samples are spread throughout the tree, indicating that Oceania has been exposed to (most of) the observed genomic diversity of SARS-CoV-2.
+Halata din ito kung titingnan ang phylogeny, kung saan mayroon tayong malalaking monophyletic (sa parehong parte ng puno) na paggu-grupo ng mga genome mula sa Singapore (dilaw) at Bangladesh (maputlang berde).
 
-The majority of New Zealand's samples (blues, purples, greens) come from a tight temporal band covering March and April, which is due to the successful control strategy employed by the New Zealand government. While the country is back to relative normality, the borders are still closed to all non-citizens to limit the chances for the virus to re-enter the country. Returning citizens must quarantine for 14 days before entering the country.
-
-This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls -- more below!
-
-_HINT: if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!_
+Ang mga data na ito ay kasang-ayon ng hindi kasing-bagong pandaigdigang pagbiyahe at mas mahigpit na mga pamamaraan ng pagkontrol.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Resurgence in Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
+# [Buod ng Oceania](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
 
-Australia, and the state of Victoria (capitol city: Melbourne), shown here in orange, have been seeing a reemergence of COVID-19 cases and have recently implemented further public health measures to try to curb this increase.
+Dito ay maaari nating galugarin ang ~790 genome mula sa Australia at New Zealand na may karagdagang ~1100 sequence para magbigay ng pandaigdigang context.  
+Mga sample lang mula sa Australia at New Zealand ang may kulay.
 
-These most recent genomes all appear to be a subclade of clade 20B (scroll back to the previous slide to see how clade 20B fits into the entire phylogeny).
-The recent dates and clustering are signs of a local outbreak.
+Makikita mo na ang mga sample na ito ay nakakalat sa buong puno, na nagpapahiwatig na ang Oceania ay nalantad sa (karamihan sa) naobserbahang genomic na pagkakaiba-iba ng SARS-CoV-2.
 
-We can see similar clustering in sequences from New South Wales, where cases have also increased recently.
+Karamihan sa mga sample ng New Zealand (mga asul, ube, berde) ay nagmula sa mahigpit na temporal band na sumasaklaw sa Marso at Abril, na dahil sa matagumpay na estratehiya ng pagkontrol na ginamit ng pamahalaan ng New Zealand. Habang ang bansa ay bumabalik na sa maituturing na normal, ang mga hangganan ay sarado pa rin sa lahat ng hindi mamamayan upang limitahan ang mga tsansa na makapasok muli ang virus sa bansa. Ang mga mamamayan na bumabalik ay dapat i-quarantine nang 14 na araw bago pumasok sa bansa.
 
+Sa linggong ito, inanunsyo ng pamahalaan ng New Zealand ang apat na bagong kaso ng transmisyon sa komunidad na hindi maaaring i-ugnay sa mga kasong dumarating. Ang genetic sequencing ay maaaring makatulong upang maihayag kung paano nakalusot sa mahigpit na kontrol ang SARS-CoV-2 -- higit pa sa ibaba! 
 
-<!-- ############ SLIDE BREAK ############# -->
-# [New cases detected in New Zealand this week](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
-
-New Zealand had reported over 100 days without community transmission before detecting cases in the community this week.
-The cluster has now spread to around 30 known cases (at time of publication), primarily based in the largest city, Auckland.
-
-The source is not yet known, however scientists have sequenced the isolates and reported that they fall into pangolin lineage B1.1.1; so while the genomes are yet to be released they are known to fall in the region colored in blue here.
-This lineage originated in Europe, but has since been observed in multiple regions around the world.
+_HINT: kapag itinapat mo ang mouse sa mga bilog sa mapa, makikita mo ang mga kaugnay na payo na naka-highlight na puno!_
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Early situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
+# [Muling pagdami sa Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
 
-SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.
+Ang Australia, at ang estado ng Victoria (kapitolyong lungsod: Melbourne), na ipinakikita dito sa orange, ay nakakakita ng muling pagdami ng mga kaso ng COVID-19 at kamakailan ay nagpatupad ng karagdagang mga hakbang sa pampublikong kalusugan upang subukang sugpuin ang pagtaas na ito.
 
-By the end of February, even though there were just [a few hundred cases](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) officially reported in Europe, the virus had spread to at least 15 European countries.
+Ang mga pinakakamakailang genome na ito ay lumilitaw na subclade ng clade 20B (mag-scroll pabalik sa unang slide para makita kung paano naaangkop ang 20B sa buong phylogeny).
+Ang kamakailang petsa at pagkukumpol ay mga palatandaan ng lokal na pagkalat ng sakit.
 
-Given that sampling was less common in the early days of the pandemic, SARS-CoV-2 was almost certainly already circulating across must of Europe, including in countries for which we don't have samples.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Lockdown in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
-
-Through March and April much of Europe closed their borders, and many imposed differing types of 'lockdown' where movement was restricted and businesses and schools closed. We expect that these restrictions decreased between-country transmission, making it more likely that we see sequences from any given country 'cluster' with previous sequences from that country.
-
-However, SARS-CoV-2 was already so mixed across Europe that different variants of the virus were circulating across multiple countries. Most countries had numerous distinct variants circulating before lockdown that were related to the viruses circulating in other countries. This means the phylogenetic picture remains well-mixed even after borders closed (shown by multiple colors near each other on the tree).
-
-However, we can see some signs of the local transmission that we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange (about 1/3 from the top), while Spain (dark blue) shows distinct local transmission at the bottom and top of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.
-
-_Hint: You can expand the legend by clicking 'Country' at the top-left of the tree!_
+Makikita natin ang katulad na pagkukumpol sa mga sequence mula sa New South Wales, kung saan ang mga kaso ay kamakailang nadagdagan din. 
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Recent European sequencing highlights local transmission and enriches understanding of previous SARS-CoV-2 spread](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
+# [May mga bagong kaso na na-detect sa New Zealand ngayong linggo](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
 
-Examining only samples uploaded in the past week highlights two important points.
+Ang New Zealand ay nag-ulat ng mahigit 100 araw na walang transmisyon sa komunidad bago ma-detect ang mga kaso sa komunidad ngayong linggong.
+Ang kumpol ay kumalat na ngayon sa tinatayang 30 napag-alamang kaso (sa oras ng publikasyon), na pangunahing nakabase sa pinakamalaking lungsod, ang Auckland.
 
-Firstly, we can see a tendency towards groupings of tips into mini-clusters. This indicates that within-country transmission is continuing to dominate - likely a product of the various regulations introduced throughout Europe. The virus continued to diversify genetically during the lockdown, but was more likely to be confined to one country, meaning we can often now better distinguish local 'variants' from those in other countries.
-
-Some samples do not follow this trend of linking to other samples from the same country. Hovering over a country in the legend highlights tips in the tree from that country and will help identify such samples. For instance, in the middle of the tree, we can see some Swedish samples (green) nested within a larger Russian clade (red).
-Given the heavy subsampling, we need to remain cautious to not over interpret putative between-country transmissions from this view.
-
-Secondly, we can see that the tips have a large difference in horizontal spacing -- i.e. the samples submitted in the past week represent a sample collection time window extending back to early March.
-The reasons for sequencing "old" genomes varies, but these samples help us fill in our understanding of viral evolution and geographical movement.
+Ang pinagmulan ay hindi pa alam, gayunman nai-sequence ng mga siyentista ang mga nakabukod at naiulat na ang mga iyon ay pasok sa pangolin lineage B1.1.1; kaya habang ang mga genome ay hindi pa nailalabas, ang mga iyon ay alam na pasok sa rehiyon na may kulay na asul dito.
+Ang lineage na ito ay nagmula sa Europa, subalit naobserbahan sa maraming rehiyon sa buong mundo mula noon.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The early situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
+# [Unang sitwasyon sa Europa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
-South America's first SARS-CoV-2 sequences are from late February and early March, and are scattered across the tree, suggesting multiple introductions. As international travel decreased in March, we can see evidence of sustained local transmission in several countries.
+Ang SARS-CoV-2 ay mabilis na kumalat sa Europa, posibleng pangunahin na sa pamamagitan ng direktang transmisyon mula sa Asya.
 
-Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence that this variant also moved around the continent to Chile, Uruguay, and Argentina.
+Noong katapusan ng Pebrero, kahit na mayroon lamang [ilan daang kaso](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) na opisyal na naiulat sa Europa, ang virus ay kumalat sa hindi bababa sa 15 Europeong bansa.
 
-We can also see distinct clusters of transmission involving Colombia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [The more recent situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
-
-Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.
-
-Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the varients circulating now are descendants of those introduced early in the epidemic.
+Dahil mas madalang ang sampling noong mga unang araw ng pandemya, ang SARS-CoV-2 ay halos tiyak na umiikot na sa halos buong Europa, kabilang sa mga bansa kung saan wala tayong mga sample.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [SARS-CoV-2 in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+# [Lockdown sa Europa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
 
-Like South America, Africa had several introductions of SARS-CoV-2 to the continent, many likely from Europe. This is shown by the spread of African samples across the tree - even samples from the same country include diverse variants.
+Sa buong Marso at Abril karamihan sa Europa ay nagsara na ng kanilang mga hangganan, at marami ang nagpatupad ng iba't ibang uri ng 'lockdown' kung saan nilimitahan ang pagkilos at ang mga negosyo at paaralan ay isinara. Inaasahan natin na ang mga paglilimitang ito ay nagpababa sa transmisyon sa pagitan ng mga bansa, na ginagawang mas posible na makita natin ang mga sequence mula sa alinmang tinukoy na bansa na 'magkumpol' sa mga naunang sequence mula sa bansang iyon.
 
-We now have sequences from countries across Africa throughout the epidemic, though sequencing efforts seem to have declined slightly more recently.
-South Africa has contributed a large proportion of the sequencing.
+Gayunman, ang SARS-CoV-2 ay labis nang nagkahalu-halo sa buong Europa na ang iba't ibang uri ng virus ay kumakalat na sa maraming bansa. Karamihan sa mga bansa ay nagkaroon ng maraming kakaibang uri na kumakalat na bago ang lockdown na naiugnay sa mga virus na kumakalat sa iba pang mga bansa. Nangangahulugan ito na ang phylogenetic na larawan ay nananatiling nakahalong mabuti pagkatapos maisara ang mga hangganan (ipinakikita ng maraming kulay na magkakalapitsa puno).
 
+Gayunman, makikita natin ang ilan sa mga palatandaan ng lokal na transmisyon na ating aasahan. Dito, ang Finland at Sweden ay may napakakakaibang kumpol ng transmisyon sa berde at orage (mga 1/3 mula sa itaas), habang ang Espanya (matingkad na asul) ay nagpapakita ng kakaibang lokal na transmisyon sa ilalim at ibabaw ng puno. Ang Iceland (kulay-ube) at Switzerland (maputlang asul) ay nagpapakita rin ng mga kumpol ng lokal na transmisyon.
 
-<!-- ############ SLIDE BREAK ############# -->
-# [Clustering in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
-
-In the DRC, Senegal, and South Africa, we can see clear signs of local transmission, shown as clusters of sequences in the tree.
-From Senegal and South Africa, we also have samples collected more recently.
-These samples generally fall within the older diversity of the country, as we would expect from continued local transmission.
-
-Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere.
-This finding likely reflects the continued restrictions in movement globally.
+_Hint: Maaari mong palawakin ang legend sa pamamagitan ng pag-click sa 'Country' sa kaliwang ibabaw ng puno!_
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [United States epidemic is a mixture of local and within-country transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
+# [Ang kamakailang European sequencing ay nagbibigay-diin sa lokal na transmisyon at nagpapahusay ng pag-unawa sa naunang pagkalat ng SARS-CoV-2](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
 
-Here we show genomes from the United States epidemic from April 15 to present day. In mid-April, all U.S. states were on lockdown. [States have since implemented heterogeneous reopening policies](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
+Ang pagsusuri lamang ng mga sample na in-upload noong nakaraang linggo ay nagpapalitaw sa dalawang mahahalagang punto.
 
-In this tree, just like in the trees for other regions, we see examples of local virus transmission as shown by similarly-colored tips clustering together over time. If you click, "Explore the Data Yourself", and filter the location to Yakima County, you can see a clear example of introduction and growth of genetically related viruses into this region of Washington State. (You can also [click here](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) to do this, but you will leave the narrative.)
+Una, makikita natin ang tendensiya ng paggu-grupo ng mga dulo sa napakaliliit na mga kumpol. Ito ay nagpapahiwatig na ang transmisyon sa loob ng bansa ay patuloy na nangingibabaw - posibleng isang produkto ng iba't ibang mga regulasyon na ipinatupad sa buong Europa. Ang virus ay patuloy na nagbabago ayon sa genetic sa oras ng lockdown, subalit mas posibleng makulong sa isang bansa, na nangangahulugan na maaari nating madalas na mas makilala ang lokal na 'mga uri' mula sa mga uri sa ibang bansa.
 
-However, on the tree, we  also see within-country transmission across the U.S. as shown by mixing of colors at the tree tips. On the map, within-country transmission looks like transmission lines extending between states. These observations are consistent with few domestic travel restrictions and states' reopening policies.
+Ang ilan sa mga sample ay hindi sumusunod sa trend na ito ng pag-link sa ibang mga sample mula sa parehong bansa. Kapag itinapat ang mouse sa bansa sa legend, lilitaw ang mga dulo ng puno mula sa bansang iyon at makatutulong na kilalanin ang mga sample na iyon. Halimbawa, sa gitna ng puno, makikita natin ang ilan sa mga Swedish sample (berde) na nakapugad sa loob ng mas malaking Russian clade (pula).
+Sa ibinigay na mabigat na subsampling, dapat tayong manatiling maingat na hindi ipaliwanag nang labis ang ipinagpapalagay na mga transmisyon sa pagitan ng bansa mula sa pananaw na ito.
 
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Central American sequencing shows geographically-clustered transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
-
-There has been limited sequencing from Central America, especially over the past two months, which restricts the inferences we can draw about the epidemic. From the genomes that have been shared, we see geographic clustering of SARS-CoV-2 genomes.
-
-Toward the bottom of the tree in clade 19B, we see a cluster of transmission in Panama starting in mid-February. Several later sequences in Panama from June and July nest in with this cluster, suggesting there's continued local transmission of this virus genotype in the country.
-
-In Mexico, we also see clear geographic clustering of transmission through May. Without more recent sequencing, we cannot make inferences about the epidemic in later months.
-
-In the center of the tree, there is a cluster of cases in Baja California (in light blue). These cases were likely imported from California, USA (green branches on the tree) in March. This inferred importation is consistent with known travel links between the neighboring locations although we should be cautious about interpreting inferred transmission locations given sparse sequencing.
+Pangalawa, makikita natin na ang mga dulo ay may malaking pagkakaiba sa pahalang na pagitan -- sa ibang salita ang mga sample na isinumite sa nakalipas na linggo ay kumakatawan sa sample collection time window na sumasaklaw hanggang sa mga unang araw ng Marso.
+Ang mga dahilan ng pag-sequence ng mga "lumang" genome ay iba't iba, subalit ang mga sample na ito ay nakakatulong sa atin na tulungan tayong punan ang ating pagkaunawa sa viral na ebolusyon at heopgrapikal na paggalaw.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Closing summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [Ang unang sitwasyon sa Timog Amerika](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
 
-As the pandemic reaches its eighth month of global circulation, we can now see distinct changes over time in the picture painted by viral genetics, largely determined by changing behaviour.
+Ang mga unang sequence ng SARS-CoV-2 sa Timog Amerika ay mula sa mga huling araw ng Pebrero at mga unang araw ng Marso, at nakakalat sa buong puno, na nagpapahiwatig ng maraming pagpasok. Sa pagbaba ng pandaigdigang pagbiyahe noong Marso, makikita natin ang ebidensya ng patuloy na lokal na transmisyon sa ilang bansa.
 
-Multiple early transmissions to the USA, Oceania, Europe, and across Asia, were initially incredibly well-mixed, as our global travel patterns distributed the virus incredibly effectively. Soon afterwards, diverse introductions to South America and Africa, often from Europe and North America, seeded local epidemics there.
+Marami sa mga sequence ng Brazil (maputlang berde) ay bahagi ng dalawang malaking kumpol (malapit sa ibabaw ng puno), na may ilang ebidensya na ang uri na ito ay kumalat din sa buong kontinente ng Chile, Uruguay, at Argentina.
 
-As the scale of the viral spread and severity of COVID-19 became apparent, travel ground to a halt in much of the world. After this point, we can see a distinct shift to local transmission during 'lockdowns' and the most severe travel restrictions. One outcome of this is that we can now sometimes better identify the source for viruses, as local epidemics have in some cases become more genetically distinct. In the USA, the absence of strict domestic travel has helped maintain well-mixed epidemics between states.
+Makikita rin natin ang magkakaibang kumpol ng transmisyon kung saan sangkot ang Colombia (orange), Chile (turquoise), Uruguay (mas maputlang asul), at Argentina (mas matingkad na asul) na nagkalat sa buong puno.
 
-Borders are now re-opening and travel has resumed, though not nearly to pre-pandemic levels. This, combined with the lag time from when samples are taken to when they are available publicly, means we only see a few signs of between-country mixing. In general, recent samples tend to continue to cluster with past sequences from the same country, indicating continued transmission of previously circulating variants. 
-
-Unfortunately, many countries have seen a rise in cases in the last few weeks, usually associated with reopening. As the Northern Hemisphere prepares to move into autumn and colder weather, further reopening, and school resuming, we must remain vigilant about rising case counts. As winter progresses in the Southern Hemisphere, we see worrying signs that seasonality could indeed lead to more trouble containing transmission - Australia's initial success with the virus has been dampened by recent outbreaks. Continuing to scale up Test, Trace, and Isolate, careful hand-hygiene, and conscientious mask-wearing can help keep our societies as open as possible while we continue to battle SARS-CoV-2.
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
+# [Ang mas kamakailang sitwasyon sa Timog Amerika](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+Sa kasawiang palad, habang malawakan ang patuloy na pagkalat ng SARS-CoV-2 sa Timog Amerika, hindi nakasabay ang sequence generation. Kahit patuloy na tumataas ang kaso sa halos buong kontinente, tanging 68 na sample lang mula sa 5 bansa (Brazil, Ecuador, Uruguay, Argentina, at Chile) ang naibahagi simula Mayo.
 
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+Kahit limitado ang ating mga palagay sa madalang na sampling, sa maraming kaso ang mga mas kamakailang sample na ito ay nagpupugad sa loob ng mas naunang pagkakaibang sinample sa parehong bansa, o iba pang mga bansa sa Timog Amerika. Ipinahihiwatig nito na ang mga uri na kumakalat ngayon ay mga supling ng mga pumasok noong maagang bahagi ng pandemya.
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+
+<!-- ############ SLIDE BREAK ############# -->
+# [SARS-CoV-2 sa Aprika](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+
+Tulad ng Timog Amerika, ang Aprika ay nagkaroon ng ilang pinagmulan ng SARS-CoV-2 sa kontinente, karamihan ay posibleng mula sa Europa. Ipinakikita ito sa pamamagitan ng pagkalat ng mga Aprikanong sample sa buong puno - kahit ang mga sample mula sa parehong bansa ay may kasamang iba't ibang uri.
+
+Mayroon tayo ngayong mga sequence mula sa mga bansa sa buong Aprika sa buong epidemya, kahit bahagyang bumaba ang mga pagsisikap sa sequencing kamakailan.
+Ang Timog Aprika ay nag-ambag ng mas malaking bahagi ng sequencing.
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Pagkukumpol sa Aprika](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
+
+Sa DRC, Senegal, at Timog Aprika, makikita natin ang malinaw na mga palatandaan ng lokal na transmisyon, na ipinapakita bilang mga kumpol ng mga sequence sa puno.
+Mula Senegal at Timog Aprika, mayroon din tayong mga sample na nakolekta kamakailan lamang.
+Ang mga sample na ito ay pangkalahatang pumapatak sa loob ng mas lumang diversity ng bansa, tulad ng inaasahan natin mula sa patuloy na lokal na transmisyon.
+
+Bagama't dapat tayong maging maingat sa ating mga konklusyon dahil labis silang limitado ng napakataas na biased sampling, ang kamakailang mga sample mula sa Aprika na mayroon tayo ay hindi nagmumungkahi ng patuloy na pagpasok ng mga uri mula sa ibang lugar.
+Ang napag-alamang ito ay malamang na nagpapakita ng patuloy ng mga restriksyon sa pandaigdigang paggalaw.
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Ang epidemya ng Estados Unidos ay pinaghalong lokal na transmisyon at transmisyon sa pagitan ng mga bansa](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
+
+Dito ay ipinakikita natin ang mga genome mula sa epidemya ng Estados Unidos mula Abril 15 hanggang sa kasalukuyan. Noong kalagitnaan ng Abril, lahat ng estado ng U.S. ay nag-lockdown. [Mula noon, nagpatupad ang mga estado ng iba't ibang patakaran sa muling pagbubukas](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
+
+Sa puno na ito, tulad ng mga puno para sa iba pang mga rehiyon, nakikita natin ang mga halimbawa ng mga lokal na transmisyon ng virus tulad ng ipinakikita ng magkakatulad na kulay ng mga dulo na nagkukumpulan sa paglipas ng panahon. Kapag nag-click ka sa, "I-explore Mo Mismo Ang Data", at nai-filter ang lokasyon ng Yakima County, makikita mo ang malinaw na halimbawa ng pagpasok at paglaganap ng mga virus na genetic na magkakaugnay sa rehiyong ito ng Estado ng Washington. (Maaari ka ring mag-click dito](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) para gawin ito, subalit iiwan mo ang salaysay.)
+
+Gayunman, sa puno, nakikita rin natin ang transmisyon sa loob ng bansa sa buong U.S. tulad ng ipinakikita sa pamamagitan ng paghahalo ng mga kulay sa mga dulo ng puno. Sa mapa, ang transmisyon sa loob ng bansa ay kahitsura ng mga linya ng transmisyon na lumalampas sa pagitan ng mga estado. Ang mga obserbasyong ito ay kasang-ayon ng ilang paghihigpit sa domestikong pagbiyahe at mga patakaran sa muling pagbubukas ng mga estado.
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Ang sequencing sa Gitnang Amerika ay nagpapakita ng transmisyong heograpikong nakakumpol](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
+
+Nagkaroon ng limitadong sequencing mula sa Gitnang Amerika, lalo na sa nakalipas na dalawang buwan, na naglilimita sa mga palagay na makukuha natin tungkol sa epidemya. Mula sa mga genome na naibahagi, nakikita natin ang heograpikong pagkukumpulan ng mga SARS-CoV-2 genome.
+
+Patungo sa ilalim ng puno sa clade 19B, nakikita natin ang kumpol ng transmisyon sa Panama simula noong gitna ng Pebrero. Ilan sa mga dating sequence sa Panama mula Hunyo at Hulyo ang nagpupugad sa kumpol na ito, na nagpapahiwatig na may patuloy na lokal na transmisyon ng ganitong virus genotype sa bansa.
+
+Sa Mexico, nakikita rin natin ang malinaw na heograpikong pagkukumpulan ng transmisyon hanggang Mayo. Nang walang mas kamakailang sequencing, hindi tayo makakagawa ng mga palagay tungkol sa epidemya sa mga nakaraang buwan.
+
+Sa gitna ng puno, may kumpol ng mga kaso sa Baja California (sa maputlang asul). Ang mga kasong ito ay posibleng naangkat mula sa California, USA (mga berdeng sanga sa puno) noong Marso. Ang ipinahihiwatig na importasyon na ito ay kasang-ayon ng mga alam nang link ng pagbiyahe sa pagitan ng mga katabing lokasyon. Bagama't dapat tayong maging maingat sa pagbibigay ng kahulugan sa ipinagpapalagay na mga lokasyon ng transmisyon dahil sa madalang na sequencing,
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Pansarang buod](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+
+Habang papalapit  ang pandemya sa ikawalong buwan nito ng pandaigdigang sirkulasyon, nakikita natin ang magkakaibang mga pagbabago sa paglipas ng panahon sa larawamg ipininta sa pamamagitan ng viral genetics, na malawakang tinukoy sa pamamagitan ng pagbabago ng pag-uugali.
+
+Maramihang maagang transmisyon sa USA, Oceania, Europa, at sa buong Asya ay  dating nakamamangha ang pagkahalu-halo, habang ang ating mga padron sa pandaigdigang pagbiyahe ang napaka-epektibong nagpakalat ng virus. Hindi nagtagal pagkatapos nito, naging binhi ang iba't ibang pagpasok sa Timog Amerika at Aprika, na madalas ay mula sa Europa at Hilagang Amerika, ng mga lokal na epidemya roon.
+
+Habang ang sukatan ng pagkalat ng virus at kalalaan ng COVID-19 ay nagiging malinaw, ang pagbiyahe ay huminto sa halos lahat ng panig ng mundo. Pagkatapos ng puntong ito, makikita natin ang naiibang paglipat sa lokal na transmisyon sa panahon ng 'mga lockdown' at ang pinakamahihigpit na limitasyon sa pagbiyahe. Isang resulta nito ay kaya na natin, paminsan-minsan,  na mas mahusay na matukoy ang pinagmumulan ng mga virus, tulad ng mas pagiging genetic na naiiba ang mga lokal na epidemya sa ilang kaso. Sa USA, ang kawalan ng mahigpit na domestic na pagbiyahe ay nakatulong sa pagpapanatili ng pinaghalu-halong  mga epidemya sa pagitan ng mga estado.
+
+Ang mga hangganan ay muli nang binubuksan at tuluy-tuloy na ulit ang pagbiyahe, kahit na malayo pa sa mga antas noong bago ang pandemya. Kapag isinama sa oras ng pagkaantala simula nang kunin ang mga sample hanggang sa maging available ang mga iyon sa publiko, nangangahulugan ito na nakikita lang natin ang ilan sa mga palatandaan ng paghalu-halo sa pagitan ng mga bansa.Sa pangkalahatan, ang kamakailangang mga sample ay may tendensiyang patuloy na magkumpulan sa mga nakalipas na sequence mula sa parehong bansa, na nagpapahiwatig ng patuloy na transmisyon ng nauna nang kumakalat na mga uri. 
+
+Sa kasawiang palad, maraming bansa ang nakitaan ng pagtaas ng mga kaso sa nakalipas na ilang linggo, na karaniwang nauugnay sa muling pagbubukas. Habang ang Hilagang Hemisphere ay patungo sa taglagas at mas malamig na panahon, ibayo pang muling pagbubukas, at pagbabalik sa eskwela, dapat tayong manatiling mapagbantay tungkol sa tumataas na bilang ng kaso. Habang nagpapatuloy ang taglamig sa Hilagang Hemisphere, nakikita natin ang nakababahalang mga palatandaan na ang pagkapana-panahon ay tiyak na hahantong sa mas maraming problema sa pagkontrol sa transmisyon - ang inisyal na tagumpay ng Australia sa virus ay napahina ng kamakailang pagkalat ng sakit. Ang patuloy na pagpapahusay ng Pagte-test, Pag-trace, at Pagbubukod, maingat na paglilinis ng kamay, at madalas na pagsusuot ng mask ay makatutulong upang panatilihing bukas ang ating mga lipunan hangga't maaari habang patuloy nating nilalabanan ang SARS-CoV-2.
+
+<!-- ############ SLIDE BREAK ############# -->
+# [Siyentipikong pagkilala](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
+
+Nais naming pasalamatan ang kahanga-hanga at napapanahong gawain na isinagawa ng lahat ng siyentistang sangkot sa pagkalat ng sakit na ito.
+Sa pamamagitan lamang ng mabilis na pagbabahagi ng genomic data at metadata magiging posible ang mga pagsusuring ito.
+
+**Hinihimok namin kayo na mag-click sa 'I-explore Mo Mismo ang Data' at i-scroll pababa para sa buong talaan ng mga may-akda; ang may-akda ng bawat indibidwal na sequence ay available sa pamamagitan ng pagpili nito sa puno.**
+
+Lubos din kaming nagpapasalamat sa GISAID sa pagbibigay ng platform kung saan maaaring i-upload at ibahagi ang mga data na ito.
