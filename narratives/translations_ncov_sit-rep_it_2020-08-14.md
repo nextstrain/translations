@@ -96,33 +96,46 @@ Ogni cerchio è centrato su una singola nazione, il colore indica la regione e l
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)-->
 
 * [INIZIA QUI:Come interpretare gli alberi filogenetici](https://nextstrain.org/narratives/trees-background_it/)
-* [Rapporti precedenti sulla situazione](https://nextstrain.org/ncov-sit-reps/)
+* [Precedenti rapporti sulla situazione](https://nextstrain.org/ncov-sit-reps/)
 * [Informazioni generali sui coravirus](https://nextstrain.org/help/coronavirus/human-CoV)
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Executive Summary
+<!-- # Executive Summary -->
+# Sommario
 
-In this report, we analyzed publicly shared SARS-CoV-2 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally.
+<!-- In this report, we analyzed publicly shared SARS-CoV-2 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. -->
 
-- Asia has a higher proportion of 19A & 19B clades, with 20A, 20B & 20C clades dominating in Europe & North America.
+In questo report, abbiamo analizzato i genomi del SARS-CoV-2 condivisi pubblicamente. Confrontando questi genomi virali tra loro, possiamo tracciare come il virus SARS-CoV-2 si sta spostando nel mondo e si sta diffondendo all'interno delle comunità.
 
-- Globally, we can clearly see the rise to prominence of the D614G substitution in the Spike protein. This variant is hypothesised to cause an increase in SARS-CoV-2 transmission.
+<!--  - Asia has a higher proportion of 19A & 19B clades, with 20A, 20B & 20C clades dominating in Europe & North America.-->
+- L'Asia ha una maggior numero di genomi virali appartenenti ai gruppi 19A & 19B, mentre i gruppi 20A, 20B & 20C sono prevalenti in Europa e America del Nord. 
 
-- To better display real-time builds of the SARS-CoV-2 data around the world, we run 6 regional and 1 global build, which are updated every weekday.
+<!-- - Globally, we can clearly see the rise to prominence of the D614G substitution in the Spike protein. This variant is hypothesised to cause an increase in SARS-CoV-2 transmission.-->
+- Globalmente, possiamo vedere chiaramente l'aumento della sostituzione D614G nella proteina Spike. Si ipotizza che questa variante provochi un aumento della trasmissione di SARS-CoV-2.
 
-- In Asia, there were numerous between-country transmissions in the region early in the pandemic. More recently, we see a move to within-country links, a trend we see in most regions.
+<!-- - To better display real-time builds of the SARS-CoV-2 data around the world, we run 6 regional and 1 global build, which are updated every weekday.-->
+- Per mostrare meglio come i dati del SARS-CoV-2 aumentano nel mondo, eseguiamo 6 build regionali e 1 globale, che vengono aggiornate ogni giorno della settimana.
+<!--Come tradurre BUILD in questo contesto? -->
 
-- In Oceania, New Zealand's cases are contained in a narrow temporal band, corresponding to their elimination of the virus (until this week). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.
+<!-- - In Asia, there were numerous between-country transmissions in the region early in the pandemic. More recently, we see a move to within-country links, a trend we see in most regions.-->
+- In Asia, c'erano numerose trasmissioni tra i diversi paesi nella regione. Più di recente, assistiamo a trasmissioni interne alle regioni, una tendenza che osserviamo nella maggior parte delle regioni. 
 
-- SARS-CoV-2 spread extremely quickly in Europe - the virus was likely being transmitted in many countries before they realised. This resulted in heavy mixing of European samples early in the pandemic, making it hard to distinguish and identfy introductions from one place to another. More recently, we can see more distinct variants associated with particular countries, as viruses have been constrained through travel restrictions.
+<!-- - In Oceania, New Zealand's cases are contained in a narrow temporal band, corresponding to their elimination of the virus (until this week). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.-->
+- L'epidemia in Oceania e Nuova Zelanda è stata contenuta molto velocemente, portando all' eliminazione del virus in questi Paesi(fino a questa settimana). Il recente aumento dei casi in Australia si manifesta, almeno nei campioni condivisi finora, come casi strettamente raggruppati provenienti da diversità precedentemente circolanti.
 
-- Like other regions, South America had multiple introductions, covering most of the known diversity of SARS-CoV-2. After travel restrictions came into place, sequences begin clustering more noticeably. Unfortunately, despite severe ongoing epidemics in many countries, more recent sequences are not readily available.
+<!-- - SARS-CoV-2 spread extremely quickly in Europe - the virus was likely being transmitted in many countries before they realised. This resulted in heavy mixing of European samples early in the pandemic, making it hard to distinguish and identfy introductions from one place to another. More recently, we can see more distinct variants associated with particular countries, as viruses have been constrained through travel restrictions.-->
+- Il virus SARS-CoV-2 si è diffuso molto velocemente in Europa - il virus è stato probabilmente trasmesso in molti paesi prima che se ne rendessero conto. Ciò ha comportato una forte miscelazione di campioni europei all'inizio della pandemia, rendendo difficile distinguere e identificare le introduzioni da un luogo all'altro. Più recentemente, possiamo vedere varianti più distinte associate a determinati paesi, poiché la diffusione del virus è stata limitata dalle restrizioni imposte sui viaggi.
 
-- Africa also had multiple, diverse introductions early in the pandemic. Subsequent travel restrictions seems to have limited mixing among African countries, with most sequences seeming to come from earlier circulating diversity in the same country.
+<!--  - Like other regions, South America had multiple introductions, covering most of the known diversity of SARS-CoV-2. After travel restrictions came into place, sequences begin clustering more noticeably. Unfortunately, despite severe ongoing epidemics in many countries, more recent sequences are not readily available.-->
+- Come in altre regioni, l'America del sud ha avuto multiple introduzioni del virus, coprendo la maggior parte della diversità nota di SARS-CoV-2. Dopo l'entrata in vigore delle restrizioni sui viaggi, le sequenze iniziano a raggrupparsi in modo più evidente. Sfortunatamente, nonostante le grave epidemia in corso in molte regioni, non ci sono sequenze più recenti disponibili. 
 
-- A different picture is shown in the USA, where domestic travel has not been greatly restricted: we see mixing among all states, as well as local transmission. In Mexico & Central America, we see examples of geographical clustering in transmission, particularly between California (USA) & Baja California (Mexico).
+<!-- - Africa also had multiple, diverse introductions early in the pandemic. Subsequent travel restrictions seems to have limited mixing among African countries, with most sequences seeming to come from earlier circulating diversity in the same country.-->
+- Anche in Africa ci sono state molteplice e diverse introduzioni all'inizio della pandemia. Le successive restrizioni di viaggio sembrano avere una mescolanza limitata tra i paesi africani, con la maggior parte delle sequenze che sembrano provenire da precedenti diversità circolanti nello stesso paese.
+
+<!-- - A different picture is shown in the USA, where domestic travel has not been greatly restricted: we see mixing among all states, as well as local transmission. In Mexico & Central America, we see examples of geographical clustering in transmission, particularly between California (USA) & Baja California (Mexico).-->
+- Un quadro diverso viene mostrato negli Stati Uniti, dove i viaggi nazionali non sono stati fortemente limitati: vediamo mescolamento tra tutti gli stati, così come la trasmissione locale. In Messico e America Centrale, vediamo esempi di raggruppamento geografico nella trasmissione, in particolare tra California (USA) e Bassa California (Messico).
 
 ```
 
