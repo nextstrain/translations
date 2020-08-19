@@ -15,8 +15,8 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
-translators:
-translatorLinks:
+translators: "Ibinigay ng Google"
+translatorLinks: "https://www.google.com/"
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
@@ -283,7 +283,7 @@ Ang napag-alamang ito ay malamang na nagpapakita ng patuloy ng mga restriksyon s
 
 Dito ay ipinakikita natin ang mga genome mula sa epidemya ng Estados Unidos mula Abril 15 hanggang sa kasalukuyan. Noong kalagitnaan ng Abril, lahat ng estado ng U.S. ay nag-lockdown. [Mula noon, nagpatupad ang mga estado ng iba't ibang patakaran sa muling pagbubukas](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
 
-Sa puno na ito, tulad ng mga puno para sa iba pang mga rehiyon, nakikita natin ang mga halimbawa ng mga lokal na transmisyon ng virus tulad ng ipinakikita ng magkakatulad na kulay ng mga dulo na nagkukumpulan sa paglipas ng panahon. Kapag nag-click ka sa, "I-explore Mo Mismo Ang Data", at nai-filter ang lokasyon ng Yakima County, makikita mo ang malinaw na halimbawa ng pagpasok at paglaganap ng mga virus na genetic na magkakaugnay sa rehiyong ito ng Estado ng Washington. (Maaari ka ring mag-click dito](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) para gawin ito, subalit iiwan mo ang salaysay.)
+Sa puno na ito, tulad ng mga puno para sa iba pang mga rehiyon, nakikita natin ang mga halimbawa ng mga lokal na transmisyon ng virus tulad ng ipinakikita ng magkakatulad na kulay ng mga dulo na nagkukumpulan sa paglipas ng panahon. Kapag nag-click ka sa, "I-explore Mo Mismo Ang Data", at nai-filter ang lokasyon ng Yakima County, makikita mo ang malinaw na halimbawa ng pagpasok at paglaganap ng mga virus na genetic na magkakaugnay sa rehiyong ito ng Estado ng Washington. ([Maaari ka ring mag-click dito](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) para gawin ito, subalit iiwan mo ang salaysay.)
 
 Gayunman, sa puno, nakikita rin natin ang transmisyon sa loob ng bansa sa buong U.S. tulad ng ipinakikita sa pamamagitan ng paghahalo ng mga kulay sa mga dulo ng puno. Sa mapa, ang transmisyon sa loob ng bansa ay kahitsura ng mga linya ng transmisyon na lumalampas sa pagitan ng mga estado. Ang mga obserbasyong ito ay kasang-ayon ng ilang paghihigpit sa domestikong pagbiyahe at mga patakaran sa muling pagbubukas ng mga estado.
 
