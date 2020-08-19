@@ -305,17 +305,17 @@ Di tengah pohon, terdapat klaster kasus di Baja California (biru muda). Kasus in
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Closing summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [Rangkuman penutup](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-As the pandemic reaches its eighth month of global circulation, we can now see distinct changes over time in the picture painted by viral genetics, largely determined by changing behaviour.
+Saat pandemi mencapai delapan bulan sirkulasi global, kini kita dapat melihat perubahan yang berbeda sepanjang waktu dalam gambar yang diwarnai dengan genetika virus, sebagian besar ditentukan oleh perubahan perilaku.
 
-Multiple early transmissions to the USA, Oceania, Europe, and across Asia, were initially incredibly well-mixed, as our global travel patterns distributed the virus incredibly effectively. Soon afterwards, diverse introductions to South America and Africa, often from Europe and North America, seeded local epidemics there.
+Penularan awal bertubi ke AS, Oseania, Eropa, dan seantero Asia, awalnya bercampur, pola perjalanan global menyebarkan virus dengan sangat efektif. Segera setelahnya, beragam introduksi ke Amerika Selatan dan Afrika, kebanyakan dari Eropa dan Amerika Utawa, telah menyemai epidemi lokal.
 
-As the scale of the viral spread and severity of COVID-19 became apparent, travel ground to a halt in much of the world. After this point, we can see a distinct shift to local transmission during 'lockdowns' and the most severe travel restrictions. One outcome of this is that we can now sometimes better identify the source for viruses, as local epidemics have in some cases become more genetically distinct. In the USA, the absence of strict domestic travel has helped maintain well-mixed epidemics between states.
+Ketika skala penyebaran virus dan keparahan COVID-19 menjadi jelas, perjalanan terhenti di sebagian besar dunia. Setelah ini, kita dapat melihat pergeseran berbeda ke penularan lokal saat 'penguncian' dan pembatasan bepergian. Satu hasil dari pembatasan ini adalah kini kita dapat lebih mengenali sumber virus, ketika epidemi lokal dalam beberapa kasus telah berubah secara genetik. Di AS, ketiadaan pembatasan perjalanan domestik 'berhasil membantu' mempertahankan percampuran epidemi antarnegara bagian.
 
-Borders are now re-opening and travel has resumed, though not nearly to pre-pandemic levels. This, combined with the lag time from when samples are taken to when they are available publicly, means we only see a few signs of between-country mixing. In general, recent samples tend to continue to cluster with past sequences from the same country, indicating continued transmission of previously circulating variants. 
+Perbatasan kini telah dibuka kembali dan perjalanan telah diperbolehkan, meski belum menyamai kadar sebelum pandemi. Hal ini ditambah jeda waktu antara penyampelan dan ketersediaan sekuens secara publik, kita hanya melihat sedikit tanda percampuran antarnegara. Secara umum, sampel-sampel baru cenderung terus berklaster dengan sekuens terdahulu dari negeri yang sama, menunjukkan berlanjutnya penularan varian yang sudah ada sebelumnya. 
 
-Unfortunately, many countries have seen a rise in cases in the last few weeks, usually associated with reopening. As the Northern Hemisphere prepares to move into autumn and colder weather, further reopening, and school resuming, we must remain vigilant about rising case counts. As winter progresses in the Southern Hemisphere, we see worrying signs that seasonality could indeed lead to more trouble containing transmission - Australia's initial success with the virus has been dampened by recent outbreaks. Continuing to scale up Test, Trace, and Isolate, careful hand-hygiene, and conscientious mask-wearing can help keep our societies as open as possible while we continue to battle SARS-CoV-2.
+Sayangnya, banyak negara menemukan peningkatan kasus dalam beberapa pekan terakhir, mengikuti pengendoran pembatasan. Ketika Hemisfer Utara akan menghadapi musim gugur dan cuaca yang mendingin, pembukaan lebih lanjut, dan pembukaan sekolah, kita harus tetap waspada terhadap peningkatan angka kasus. Saat musim dingin berlanjut di Hemisfer Selatan, kita melihat tanda mengkhawatirkan karena kemungkinan peningkatan penularan - keberhasilan Australia di awal kini teredam oleh wabah baru-baru ini. Melanjutkian peningkatan jumlah pemeriksaan, pelacakan, dan isolasi, menjaga kebersihan tangan, dan pemakaian masker secara benar dapat membantu masyarakat kita seterbuka mungkin sementara memerangi SARS-CoV-2.
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Kredit ilmiah](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
