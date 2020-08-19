@@ -1,5 +1,5 @@
 ---
-title: August 2020 update of COVID-19 genomic epidemiology
+title: اگست 2020، COVID-19 جینومی وبائیات کی تازہ معلومات
 authors:
   - James Hadfield
   - Cassia Wagner
@@ -15,29 +15,29 @@ authorLinks:
   - https://neherlab.org/richard-neher.html
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
-translators:
-translatorLinks:
+translators: "گوگل کے ذریعہ فراہم کردہ"
+translatorLinks: "https://www.google.com/"
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
-date: "2020 August 14"
+date: "14 اگست، 2020"
 abstract: "
-The pandemic is currently widespread around the world, with over [1.5 million new cases each week](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) and total reported cases of [18 million](https://ourworldindata.org/covid-cases) and over [600,000 fatailities](https://ourworldindata.org/covid-deaths).
+یہ عالمگیر وبا ابھی پوری دنیا میں پھیلی ہوئی ہے، ہر ہفتے [1.5 ملین سے زیادہ نئے معاملات ہو رہے ہیں](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) اور رپورٹ کردہ معاملات کی تعداد [18 ملین ہے ](https://ourworldindata.org/covid-cases) اور [600,000 سے زیادہ اموات ہو چکی ہیں ](https://ourworldindata.org/covid-deaths).
 \n\n
-### The situation [is summarised by the WHO on August 2, 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
+### اس صورتحال کا خلاصہ [ WHO کے ذریعہ 2 اگست، 2020 کو پیش کیا گيا ہے](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
-### **\"As countries have eased public health and social measures, implemented to limit transmission of the virus, a number of these countries have observed clusters or resurgences of cases. Risks and vulnerabilities are further magnified in fragile, low-resource and conflict-affected settings.\"**
+### **\"چونکہ ممالک نے وائرس کی منتقلی کو محدود کرنے کے لیے نافذ کردہ صحت عامہ اور سماجی تدابیر میں ڈھیل دی ہے، لہذا ایسے بہت سے ممالک میں اس کے گروہ بننے یا معاملات کے دوبارہ پھوٹ پڑنے کی صورتحال کا مشاہدہ کیا گیا ہے۔ پسماندہ، کم وسائل والی اور جنگی حالات سے متاثرہ آبادیوں میں خطرات اور ابتلاء میں اور زیادہ اضافہ ہو گیا ہے۔ \"**
 \n\n
-### The worldwide sequencing of the SARS-CoV-2 genome has continued unabated, and with this data we use Nextstrain to track the geographic movement and evolution of the virus.
-To date, there are over 75,000 sequences publicly shared from half the countries in the world - an amazing testament to the scientists and public health officials behind this.
+### SARS-CoV-2 جینوم کی عالمی پیمانے پر ترتیب بندی پوری رفتار سے جاری ہے، اور اس ڈیٹا کے ساتھ ہم Nextstrain کا استعمال وائرس کی جغرافیائی لحاظ سے حرکت اور ارتقاء کا سراغ لگانے کے لیے کرتے ہیں۔
+آج کی تاریخ تک، دنیا کے تقریباً نصف ممالک سے 75,000 سے زیادہ ترتیبات کا عوامی طور پر اشتراک کیا گیا ہے - جس کے پیچھے سائنس دانوں اور صحت عامہ کے اہلکاروں کی حیران کن عہد بستگی ہے۔
 \n\n
-### We use subsampling approaches to remove potential sampling biases in order to ensure that regions and time-periods are appropriately included for analysis.
-(This also helps for the computational requirements.)
+### ہم اس بات کو یقینی بنانے کے لیے نمونہ سازی سے متعلق امکانی جانبداریوں کو ختم کرنے کے لیے ذیلی نمونہ سازی کے طریقے کا استعمال کرتے ہیں تاکہ تجزیہ کے لیے علاقوں اور وقت کی مدتوں کو مناسب طور پر شامل کیا جائے۔
+(اس سے کمپیوٹیشن سے متعلق ضروریات میں بھی مدد ملتی ہے۔)
 \n\n
-### Here you can see the geographical distribution of ~4300 genomes.
-Each circle is centered on an individual country, the colour indicates region and the radius scales with the number of genomes from that country ([see here for help interpreting the map in Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
+### یہاں پر آپ ~4300 جینومز کی جغرافیائی تقسیم دیکھ سکتے ہیں۔
+ہر دائرہ ایک انفرادی ملک پر مرکوز ہے، رنگ خطے کی نشاندہی کرتا ہے اور نصف قطر والے پیمانے اس ملک سے جینوم کی تعداد کو دکھاتے ہیں ([Nextstrain میں نقشے کی تشریح میں مدد کے لیے یہاں دیکھیں)](https://nextstrain.org/docs/visualisation/map-interpretation)).
 \n\n
-### In this report, we examine the global genomic epidemiology of COVID-19 broadly and provide specific updates for each world region.
+### اس رپورٹ میں، ہم نے COVID-19 کی عالمی جینومی وبائیات کا وسیع پیمانے پر جائزہ لیا ہے اور دنیا کے ہر خطے کے لیے خصوصی اپ ڈیٹس فراہم کیا ہے۔
 "
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
@@ -48,63 +48,63 @@ Each circle is centered on an individual country, the colour indicates region an
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- table of contents slide -->
-# [COVID-19 Summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [COVID-19 کا خلاصہ](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-### Table of contents
-* [Global clade distribution](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [D614G Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Situation in Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Situation in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Situation in Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Situation in South America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Situation in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Situation in North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Closing summary](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+### فہرست مشمولات
+* [عالمی پیمانے پر کلیڈ (ہم اصل نامیات) کی تقسیم](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-08-14?n=2)
+* [D614G اسپائک کی تغیر پذیری](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-08-14?n=3)
+* [ایشیا میں صورتحال](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-08-14?n=5)
+* [اوشینیا میں صورتحال](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-08-14?n=7)
+* [یورپ میں صورتحال](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-08-14?n=10)
+* [جنوبی امریکہ میں صورتحال](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-08-14?n=13)
+* [افریقہ میں صورتحال](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-08-14?n=15)
+* [شمالی امریکہ میں صورتحال](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-08-14?n=17)
+* [اختتامی خلاصہ](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-08-14?n=19)
+* [کریڈٹ](https://nextstrain.org/narratives/ncov/sit-rep/ur/2020-08-14?n=20)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/)
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/)
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)
+#### Nextstrain وسائل
+* [یہاں سے شروع کریں: نسلی ارتقاء کو کیسے پڑھیں](https://nextstrain.org/narratives/trees-background/ur/)
+* [صورتحال سے متعلق سابقہ رپورٹیں](https://nextstrain.org/ncov-sit-reps/)
+* [کورونا وائرسز کا پس منظر](https://nextstrain.org/help/coronavirus/human-CoV)
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Executive Summary
+# مختصر خلاصہ
 
-In this report, we analyzed publicly shared SARS-CoV-2 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally.
+اس رپورٹ میں، ہم نے عوامی طور پر اشتراک کردہ SARS-CoV-2 جینومز کا تجزیہ کیا ہے۔ وائرس سے متعلق ان جینومز کا ایک دوسرے کے ساتھ موازنہ کرکے، ہم یہ پتہ لگاسکتے ہیں کہ COVID-19 کس طرح پوری دنیا میں متحرک ہے اور مقامی طور پر پھیل رہا ہے۔
 
-- Asia has a higher proportion of 19A & 19B clades, with 20A, 20B & 20C clades dominating in Europe & North America.
+- ایشیا میں 19A اور 19B کلیڈز کا اعلی تناسب ہے، جبکہ یوروپ اور شمالی امریکہ میں 20A، 20B اور 20C کلیڈز غالب ہیں۔
 
-- Globally, we can clearly see the rise to prominence of the D614G substitution in the Spike protein. This variant is hypothesised to cause an increase in SARS-CoV-2 transmission.
+- عالمی پیمانے پر، ہم واضح طور پر اسپائیک پروٹین میں D614G تبادلے کی نمایاں علامات میں اضافہ دیکھ سکتے ہیں۔ اس قسم کو SARS-CoV-2 کی ترسیل میں اضافہ کا سبب قیاس کیا گیا ہے۔
 
-- To better display real-time builds of the SARS-CoV-2 data around the world, we run 6 regional and 1 global build, which are updated every weekday.
+- پوری دنیا میں SARS-CoV-2 ڈیٹا کی بروقت تیاری کے لیے، ہم 6 علاقائی اور 1 عالمگیر تشکیل چلاتے ہیں، جسے ہفتے کے کام والے دنوں میں اپ ڈیٹ کیا جاتا ہے۔
 
-- In Asia, there were numerous between-country transmissions in the region early in the pandemic. More recently, we see a move to within-country links, a trend we see in most regions.
+- ایشیا میں وبا کے آغاز میں، اس خطے کے ملکوں کے درمیان متعدد منتقلیاں واقع ہوئیں۔ حالیہ ترین وقت میں، ہمیں ملک کے اندر والے لنکس میں حرکت نظر آتی ہے، جو ایک ایسا رجحان ہے جسے ہم اکثر خطوں میں دیکھتے ہیں۔
 
-- In Oceania, New Zealand's cases are contained in a narrow temporal band, corresponding to their elimination of the virus (until this week). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.
+- اوشینیا، نیوزی لینڈ کے معاملات ایک مختصر وقتی پیمانے پر مشتمل ہیں، جس کا تعلق ان کے وائرس کے خاتمے سے ہے (اس ہفتے تک)۔ آسٹریلیا کے معاملات میں حالیہ اضافہ سے، کم از کم اب تک شیئر کیے گئے نمونوں کی حد تک، یہ نظر آتا ہے کہ مضبوط ربط والے گروہ بند معاملات کا تعلق پچھلے پھیلاؤ کے تنوع سے ہے۔
 
-- SARS-CoV-2 spread extremely quickly in Europe - the virus was likely being transmitted in many countries before they realised. This resulted in heavy mixing of European samples early in the pandemic, making it hard to distinguish and identfy introductions from one place to another. More recently, we can see more distinct variants associated with particular countries, as viruses have been constrained through travel restrictions.
+- SARS-CoV-2 یوروپ میں انتہائی تیزی سے پھیلا - ممکنہ طور پر وائرس کا پتہ لگنے سے قبل ہی یہ متعدد ممالک میں منتقل ہو چکا تھا۔ اس کے نتیجے میں وبا کے شروعاتی دور میں یوروپی نمونے بہت زیادہ گڈمڈ ہوگئے، جس کے سبب اس کے ایک مقام سے دوسرے مقام تک پہنچنے کے معاملات میں تفریق کرنا اور اس کی شناخت کرنا دشوار ہو گیا۔ حالیہ ترین وقت میں، ہم مخصوص ممالک سے وابستہ زیادہ جداگانہ قسموں کو دیکھ سکتے ہیں، کیونکہ سفر پر پابندی کے ذریعہ وائرسز کو محدود کردیا گیا ہے۔
 
-- Like other regions, South America had multiple introductions, covering most of the known diversity of SARS-CoV-2. After travel restrictions came into place, sequences begin clustering more noticeably. Unfortunately, despite severe ongoing epidemics in many countries, more recent sequences are not readily available.
+- دیگر علاقوں کی طرح، جنوبی امریکہ میں متعدد شروعاتیں ہوئیں جو SARS-CoV-2 کے معلوم زیادہ تر تنوع کا احاطہ کرتا ہے۔ سفری پابندیاں لگنے کے بعد سے، ترتیبات کا اجتماع زیادہ واضح ہونا شروع ہوا۔ بدقسمتی سے، متعدد ممالک میں جاری شدید وبا کے باوجود، حالیہ ترین ترتیب بندیاں با آسانی دستیاب نہیں ہیں۔
 
-- Africa also had multiple, diverse introductions early in the pandemic. Subsequent travel restrictions seems to have limited mixing among African countries, with most sequences seeming to come from earlier circulating diversity in the same country.
+افریقہ میں بھی وبا کے ابتداء میں متعدد، متنوع شروعاتیں ہوئیں۔ ایسا لگتا ہے کہ بعد میں عائد کردہ سفری پابندی کے سبب افریقی ممالک کے درمیان اس کا اختلاط محدود ہوا، ساتھ ہی زیادہ تر ترتیبات اسی ملک میں ابتدائی طور پر پھیلاؤ کے تنوع سے متعلق لگتے ہیں۔
 
-- A different picture is shown in the USA, where domestic travel has not been greatly restricted: we see mixing among all states, as well as local transmission. In Mexico & Central America, we see examples of geographical clustering in transmission, particularly between California (USA) & Baja California (Mexico).
+- ریاستہائے متحدہ امریکہ میں ایک مختلف تصویر سامنے آئی، جہاں گھریلو سفر پر زیادہ پابندی نہیں لگائی گئی: ہم تمام ریاستوں میں اس کی ملی جلی شکل، ساتھ ہی مقامی طور پر ترسیل دیکھ رہے ہیں۔ میکسیکو اور مرکزی امریکہ میں، ہم ترسیل میں جغرافیائی گروہ بندی کی مثالیں دیکھتے ہیں، جو خاص طور پر کیلیفورنیا (یو ایس اے) اور باجا کیلیفورنیا (میکسیکو) کے درمیان ہے۔
 
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Worldwide distribution of genetic variants](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
+# [جینیاتی اقسام کی عالمی پیمانے پر تقسیم](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
-Since its emergence in late 2019, SARS-CoV-2 has diversified into several different co-circulating variants. To facilitate discussion of these variants, we have grouped them into clades which are defined by specific signature mutations.
+2019 کے اواخر میں اپنی شروعات کے بعد، SARS-CoV-2 متعدد مختلف باہمی طور پر پھیلنے والی قسموں میں تبدیل ہوا۔ ان قسموں پر بحث کو آگے بڑھانے کے لیے، ہم نے ان کی گروپ بندی کلیڈز (ہم اصل نامیات) میں کی جن کی وضاحت خصوصی علامت میں تغیرات کے ذریعہ کی گئی ہے۔
 
-We currently define 5 major clades (see [this blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) for details):
+ہم نے اب تک 5 بڑے کلیڈز کی وضاحت کی ہے (تفصیلات [کے لیے یہ بلاگ](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) پوسٹ دیکھیں):
 
-* 19A and 19B emerged in Wuhan and dominated the early outbreak.
-* 20A emerged out of 19A, dominated the European outbreak in March, and has since spread globally.
-* 20B and 20C are large, genetically distinct subclades of 20A.
+* 19A اور 19B ووہان میں شروع ہوا اور ابتدائی وبا میں اس کا غلبہ رہا۔
+* 20A کا ظہور 19A سے ہوا، جس کا غلبہ مارچ میں یوروپ کی وبا پر تھا، اور اس کے بعد یہ عالمی پیمانے پر پھیلا۔
+* 20B اور 20C دراصل 20A کے بڑے، جینیاتی لحاظ سے منفرد ذیلی کلیڈز ہیں۔
 
 
 <svg viewBox="0 0 120 80">
@@ -112,213 +112,213 @@ We currently define 5 major clades (see [this blog post](https://nextstrain.org/
 </svg>
 
 
-We're now looking at the distribution of these clades across the world (the color now represents clade membership).
-You can see that countries in the Asia region have a higher proportion of 19A and 19B (blues) as that variant dominated in the early outbreak.
-Europe and North America have a mixture of all clades, but are dominated by 20B and 20C (yellow and orange, respectively).
+اب ہم پوری دنیا میں ان کلیڈز کی تقسیم پر غور کر رہے ہیں (اب رنگ کلیڈ کی رکنیت کو ظاہر کرتی ہے)۔
+آپ دیکھ سکتے ہیں کہ ایشیائی خطے کے ممالک میں 19A اور 19B کا اعلی ترین تناسب (نیلا رنگ) ہے کیونکہ ابتدائی وبا میں اس نوع یا قسم کا غلبہ رہا۔
+یوروپ اور شمالی امریکہ میں تمام کلیڈز کی ملی جلی شکل ہے، لیکن وہاں 20B اور 20C کا غلبہ ہے (بالترتیب، پیلا اور نارنجی)۔
 
-#### If you have SARS-CoV-2 sequences for which you'd like to know their clade (and estimated position on a phylogenetic tree), we made Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) which lets you drag-and-drop your FASTA files onto the browser.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [The well-publicized D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
-
-The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
-
-Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
-
-Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
-In July the 614G variant was present in the majority of circulating viruses worldwide. Since its initial appearance, the substitution has arisen multiple times and also reverted back to the 614D variant.
-There is no evidence that these other substitutions and reversions have resulted in continued transmission chains.
+#### اگر آپ کے پاس SARS-CoV-2 کی ترتیبات ہیں جن کے لیے آپ ان کے کلیڈز (اور نسلی ارتقائی شجرہ پر ان کی تخمینی پوزیشن) معلوم کرنا چاہتے ہیں تو، ہم نے اس کے لیے Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) تیار کیا ہے جو آپ کی FASTA فائلوں کو گھسیٹ کر براؤزر پر ڈالنے کی سہولت فراہم کرتا ہے۔
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Analysing regional builds independently](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
+# [اچھی طرح مشہور D614G اسپائک تغیر پذیری](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
-As there are too many genomes to show in a single tree, we provide a regional analysis for each of the 6 regions shown here, in addition to our main 'global' build.
-This allows us to focus on the diversity within each region, while choosing appropriate out-of-region samples, so we can maintain an overview of all of the between-region transmissions over time - as we can see on this slide!
+اسپائک (س) پروٹین کے لیے جین کی کوڈنگ میں D614G کی بدل پذیری حالیہ دنوں میں خبروں میں اور کافی زیادہ غور فکر اور قیاس آرائی کا موضوع رہی ہے۔
 
-In the next slides we're going to provide an overview of each of those regions by switching to the corresponding dataset. (This is a new feature in Nextstrain Narratives!)
+اس بات کے ثبوت مل رہے ہیں کہ G متغیرہ (اس منظر میں پیلے رنگ والا) SARS-CoV-2_تجربہ گاہ میں_کی سرایت پذیری کو بڑھاتا ہے اور اسے تدریجی طور پر انسان سے انسان میں ترسیل میں اضافہ کے لیے منتخب کیا جا سکتا ہے ([کوربر، وغیرہ](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf)، [ژانگ و دیگر](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full)، [یارکووویٹسکی و دیگر](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2)، [ڈینیلوسکی و دیگر](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2)، [وولز و دیگر۔](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). البتہ سرایت پذیری میں اضافہ سے امکانی طور پر وائرس کے ذریعہ اینٹی باڈیز کو بے اثر کرنے کا زیادہ خطرہ ہو سکتا ہے([ویئسمین و دیگر۔](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
-A full inventory of builds maintained by us and others is available at [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
-
-If we examine the situation in Asia from genomes collected before June 2020, we see signs of both extensive within-Asia transmission as well as transmissions to and from other regions of the world.
-
-#### Interpreting the lines and colors
-
-Here only countries in Asia have been colored, with the other regions represented by shades of grey.
-The color of each transmission line (lines between circles) represents the origin location, so all of the **colored** lines represent transmissions originating from a country within Asia (in this example).
-
-#### Transmissions into Asia
-
-This shows that many of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
-Especially pronounced in this view are those transmissions from Europe to Asia (though the lines seem to come from Germany, this point represents all of Europe). However, we must be cautious about how we interpret these inferred transmissions, as sampling biases can play a large role (and we have many more samples from Europe than anywhere else).
+یہاں پر ہم دیکھ سکتے ہیں کہ ابتدائی طور پر حیوانی مرض کے بعد بہت مختصر وقت میں یہ قسم دوسری شکل اختیار کر گیا اور اس کے بعد پوری دنیا میں پھیل گیا۔
+جولائی میں پوری دنیا میں پھیلے زیادہ تر وائرس میں 614G قسم موجود تھا۔ اپنے ابتدائی ظہور کے بعد، متعدد بار تبدیلی ہوئی اور یہ واپس 614D والی قسم پر بھی گیا۔
+اس بات کا کوئی ثبوت نہیں ہے کہ ان دیگر تبدیلیوں اور واپسی یا معکوسیت کے نتیجے میں مسلسل ترسیل کے سلسلے بنے۔
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Asia situation after June 1](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
+# [علاقائی پھیلاؤ کا آزدانہ تجزیہ](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
 
-Looking at the genomes sampled after June 1 (i.e. in the past 2 months), we see that the sampling is dominated by fewer countries.
-This limits the conclusions we can draw, but it appears that we may have fewer transmissions between countries.
+چونکہ ایک واحد شجرہ میں بہت سارے جینوم کو دکھانا ہوتاہے، لہذا ہم نے اپنے بنیادی 'عالمگیر' پھیلاؤ کے علاوہ، یہاں دیے گئے 6 خطوں میں سے ہر ایک کے لیے ایک علاقائی تجزیہ فراہم کیا ہے۔
+اس سے ہمیں خطے سے باہر کے مناسب نمونوں کا انتخاب کرتے وقت، ہر خطے میں تنوع پر توجہ مرکوز کرنے کی سہولت ملتی ہے، تاکہ ہم وقت کے ساتھ ساتھ خطوں کے درمیان ہوئی تمام منتقلیوں کا ایک عمومی جائزہ برقرار رکھ سکیں - جیسا کہ ہم اس سلائیڈ پر دیکھ سکتے ہیں۔
 
-This is also evident looking at the phylogeny, where we have large monophyletic (in the same part of the tree) groupings of genomes from Singapore (yellow) and Bangladesh (light green).
+اگلے سلائیڈز میں ہم متعلقہ ڈیٹا شیٹ پر جاتے ہوئے ان خطوں میں سے ہر ایک کا ایک عمومی جائزہ فراہم کرنے جار ہے ہیں۔ (یہ Nextstrain Narratives میں ایک نئی خصوصیت ہے!)
 
-These data are consistent with less recent international travel and stricter control measures.
+ہمارے ذریعہ تیار کردہ پھیلاؤ کی ایک مکمل فہرست اور دیگر چیزیں یہاں دستیاب ہیں [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
+
+<!-- ############ SLIDE BREAK ############# -->
+# [جون سے قبل ایشیا کی صورتحال](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
+
+اگر ہم جون 2020 سے قبل اکٹھا کردہ جینومز سے ایشیا کی صورتحال کا جائزہ لیتے ہیں تو، ہم ایشیاء کے اندر وسیع ترسیل کے ساتھ ساتھ دنیا کے دوسرے خطوں سے اور ان میں ترسیل کی علامات دیکھتے ہیں۔
+
+#### لکیروں اور رنگوں کی تشریح
+
+یہاں پر صرف ایشیائی ممالک کو رنگ دیا گیا ہے، جبکہ دیگر خطوں کو خاکستری شیڈ کے ذریعہ پیش کیا گيا ہے۔
+ترسیل کی ہر لکیر (دائروں کے درمیان لکیریں) اصل مقام کو دکھاتی ہے، لہذا ان سب کو**رنگ دیا گیا** ہے لکیریں ایشیا کے اندر کے ایک ملک سے شروع ہونے والی ترسیل کی نمائندگی کرتی ہیں (اس مثال میں).
+
+#### ایشیا میں ترسیلیں
+
+یہ دکھاتا ہے کہ ایشیائی ممالک اور غیر ایشیائی ممالک میں متعدد ترسیلات ایشیاء میں درآمد ہوئی تھیں (خاکستری لکیریں).
+اس منظر میں خاص طور پر یوروپ سے ایشیا میں انتقال پذیریوں کو دکھایا گیا ہے (لکیروں کے ذریعہ جو جرمنی سے آتی ہوئی لگتی ہیں، یہ پوائنٹ پورے یوروپ کی نمائندگی کرتاہے). تاہم، ہمیں ان منتج انتقال پذیریوں کی تشریح کرتے ہوئے محتاط رہنا چاہیے، کیونکہ نمونوں میں آبادی کے خصائص کی ترجمانی نہ ہونا ایک بڑا کردار ادا کر سکتا ہے (اور ہمارے پاس کسی اور جگہ کے مقابلے یوروپ کے مزید کافی زیادہ نمونے ہیں). 
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Oceania overview](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
+# [1 جون کے بعد ایشیا کی صورتحال](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
 
-Here we can explore ~790 genomes from Australia and New Zealand with an extra ~1100 sequences to provide global context.
-Only samples from Australia and New Zealand are colored.
+1 جون کے بعد لیے گئے جینوم کے نمونوں کو دیکھتے ہوئے (یعنی گزشتہ 2 مہینوں میں)، ہم پاتے ہیں کہ نمونہ سازی میں چند ہی ممالک غالب حیثیت رکھتے ہیں۔
+اس سے وہ نتیجہ محدود ہو سکتا ہے جو ہم اخذ کر سکتے ہیں، لیکن یہ ظاہر ہوتا ہے کہ ممکنہ طور پر ممالک کے درمیان کمتر انتقال پذیریاں ہو سکتی ہیں۔
 
-You can see that these samples are spread throughout the tree, indicating that Oceania has been exposed to (most of) the observed genomic diversity of SARS-CoV-2.
+نسلی ارتقاء کو دیکھنا بھی اہم ہے، جہاں ہمارے پاس سنگاپور (پیلا) اور بنگلہ دیش (ہلکا سبز) سے بڑی مقدار میں جینوم کی مونو فائی لیٹک(یک نسلی) (شجر کے ایک ہی حصے میں) درجہ بندی موجود ہے).
 
-The majority of New Zealand's samples (blues, purples, greens) come from a tight temporal band covering March and April, which is due to the successful control strategy employed by the New Zealand government. While the country is back to relative normality, the borders are still closed to all non-citizens to limit the chances for the virus to re-enter the country. Returning citizens must quarantine for 14 days before entering the country.
-
-This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls -- more below!
-
-_HINT: if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!_
+یہ ڈیٹا حالیہ کم بین الاقوامی سفر اور کنٹرول کے سخت پیمانوں کی مطابقت میں ہے۔
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Resurgence in Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
+# [اوشینیا کا عمومی جائزہ](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
 
-Australia, and the state of Victoria (capitol city: Melbourne), shown here in orange, have been seeing a reemergence of COVID-19 cases and have recently implemented further public health measures to try to curb this increase.
+عالمی تناظر فراہم کرنے کے لیے یہاں ہم آسٹریلیا اور نیوزی لینڈ سے ~790 جینومز کو ~1100 ترتیبات کے ساتھ دیکھ سکتے ہیں۔
+صرف آسٹریلیا اور نیوزی لینڈ کے نمونے ہی رنگین ہیں۔
 
-These most recent genomes all appear to be a subclade of clade 20B (scroll back to the previous slide to see how clade 20B fits into the entire phylogeny).
-The recent dates and clustering are signs of a local outbreak.
+آپ یہ دیکھ سکتے ہیں کہ یہ نمونے پورے شجر پر پھیلے ہوئے ہیں، جو یہ دکھاتے ہیں کہ اوشینیا کو SARS-CoV-2 کے مشاہدہ کردہ سب سے زیادہ جینومی تنوع کا سامنا (زیادہ تر) کرنا پڑا ہے۔
 
-We can see similar clustering in sequences from New South Wales, where cases have also increased recently.
+نیوزی لینڈ کے نمونوں کی اکثریت (نیلا، اودا، سبز) سخت وقتی پیمانے سے آتے ہیں جو مارچ اور اپریل کا احاطہ کرتے ہیں، جو کہ نیوزی لینڈ کی حکومت کے ذریعہ کنٹرول کی کامیاب حکمت عملی اپنانے کے سبب ہے۔ اب جبکہ ملک واپس نسبتاً معمول کی حالت میں آگیا ہے، لیکن ابھی بھی غیر شہریوں کے لیے سرحدیں بند ہیں تاکہ ملک میں وائرس کے دوبارہ داخلے کے امکانات کو محدود کیا جاسکے۔ واپس آنے والے شہریوں کے لیے ملک میں داخلے سے قبل 14 دن تک الگ تھلگ (کورینٹائن) رہنا ضروری ہے۔
 
+اس ہفتے، حکومت نیوزی لینڈ نے کمیونٹی میں ترسیل کے چار نئے معاملات کا اعلان کیا جس کا تعلق باہر سے آنے والے معاملات سے نہیں قائم کیا جاسکتا۔ جینیاتی ترتیب بندی سے اس بات کا پتہ لگانے میں مدد مل سکتی ہے کہ کس طرح SARS-CoV-2 نے سخت انضباط کو بائی پاس کیا -- مزید معلومات نیچے ہیں!
 
-<!-- ############ SLIDE BREAK ############# -->
-# [New cases detected in New Zealand this week](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
-
-New Zealand had reported over 100 days without community transmission before detecting cases in the community this week.
-The cluster has now spread to around 30 known cases (at time of publication), primarily based in the largest city, Auckland.
-
-The source is not yet known, however scientists have sequenced the isolates and reported that they fall into pangolin lineage B1.1.1; so while the genomes are yet to be released they are known to fall in the region colored in blue here.
-This lineage originated in Europe, but has since been observed in multiple regions around the world.
+_اشارہ: اگر آپ نقشے کے دائروں پر ماؤس گھمائیں گے تو آپ شجر میں متعلقہ مفید نکات کو نمایاں ہوتا دیکھ سکتے ہیں!_
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Early situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
+# [آسٹریلیا میں وبا کا دوبارہ پھوٹ پڑنا ](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
 
-SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.
+آسٹریلیا، اور ریاست وکٹوریہ (دارالسلطنت:  میلبورن)، اسے یہاں نارنجی رنگ میں دکھایا گيا ہے، میں COVID-19 کے معاملات کا دوبارہ ظہور دیکھا گیا ہے اور اس اضافے کو محدود کرنے کے لیے وہاں حال ہی میں صحت عامہ سے متعلق مزید پابندیاں عائد کی گئی ہیں۔
 
-By the end of February, even though there were just [a few hundred cases](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) officially reported in Europe, the virus had spread to at least 15 European countries.
+یہ حالیہ ترین جینومز کلیڈ 20B (کلیڈ 20B کس طرح پورے نسلی ارتقاء میں جگہ بناتا ہے اسے دیکھنے کے لیے واپس پچھلے سلائیڈ پر جائیں) کے ذیلی کلیڈ معلوم پڑتے ہیں).
+حالیہ تاریخیں اور گروہ بندی مقامی طور پر وبا پھوٹ پڑنے کی علامات ہیں۔
 
-Given that sampling was less common in the early days of the pandemic, SARS-CoV-2 was almost certainly already circulating across must of Europe, including in countries for which we don't have samples.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Lockdown in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
-
-Through March and April much of Europe closed their borders, and many imposed differing types of 'lockdown' where movement was restricted and businesses and schools closed. We expect that these restrictions decreased between-country transmission, making it more likely that we see sequences from any given country 'cluster' with previous sequences from that country.
-
-However, SARS-CoV-2 was already so mixed across Europe that different variants of the virus were circulating across multiple countries. Most countries had numerous distinct variants circulating before lockdown that were related to the viruses circulating in other countries. This means the phylogenetic picture remains well-mixed even after borders closed (shown by multiple colors near each other on the tree).
-
-However, we can see some signs of the local transmission that we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange (about 1/3 from the top), while Spain (dark blue) shows distinct local transmission at the bottom and top of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.
-
-_Hint: You can expand the legend by clicking 'Country' at the top-left of the tree!_
+ہمیں اسی طرح کی گروہ بندی نیو ساؤتھ ویلز کی ترتیبات میں نظر آتی ہیں، وہاں بھی حال میں معاملات میں اضافہ ہوا ہے۔
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Recent European sequencing highlights local transmission and enriches understanding of previous SARS-CoV-2 spread](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
+# [اس ہفتے نیوزی لینڈ میں نئے کیسز کا پتہ چلا ہے](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
 
-Examining only samples uploaded in the past week highlights two important points.
+اس ہفتے کمیونٹی میں اس کے معاملات پائے جانے سے قبل نیوزی لینڈ میں 100 دن سے زیادہ تک کمیونٹی میں ترسیل کا کوئی واقعہ نہیں ہوا۔
+یہ گروہ اب لگ بھگ 30 معلوم معاملات تک پھیل گیا ہے (اشاعت کے وقت تک)، جو کہ بنیادی طور پر سب سے بڑے شہر، آکلینڈ میں ہے۔
 
-Firstly, we can see a tendency towards groupings of tips into mini-clusters. This indicates that within-country transmission is continuing to dominate - likely a product of the various regulations introduced throughout Europe. The virus continued to diversify genetically during the lockdown, but was more likely to be confined to one country, meaning we can often now better distinguish local 'variants' from those in other countries.
-
-Some samples do not follow this trend of linking to other samples from the same country. Hovering over a country in the legend highlights tips in the tree from that country and will help identify such samples. For instance, in the middle of the tree, we can see some Swedish samples (green) nested within a larger Russian clade (red).
-Given the heavy subsampling, we need to remain cautious to not over interpret putative between-country transmissions from this view.
-
-Secondly, we can see that the tips have a large difference in horizontal spacing -- i.e. the samples submitted in the past week represent a sample collection time window extending back to early March.
-The reasons for sequencing "old" genomes varies, but these samples help us fill in our understanding of viral evolution and geographical movement.
+اس کا ماخذ ابھی تک معلوم نہیں ہے، تاہم سائنس دانوں نے علیحدہ معاملات کی ترتیب بندی کی ہے اور یہ رپورٹ دی ہے کہ وہ پینگولین والی نسل (لائنیج) B1.1.1 میں آتے ہیں؛ لہذا ابھی جبکہ جینوم کا اجراء باقی ہے وہ معلوم طور پر یہاں نیلے رنگ والے خطے میں آتے ہیں۔
+یہ نسل یوروپ میں پیدا ہوئی، لیکن اس کے بعد سے پوری دنیا کے مختلف خطوں میں اس کا مشاہدہ کیا گیا۔
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The early situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
+# [یورپ میں ابتدائی صورتحال](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
-South America's first SARS-CoV-2 sequences are from late February and early March, and are scattered across the tree, suggesting multiple introductions. As international travel decreased in March, we can see evidence of sustained local transmission in several countries.
+SARS-CoV-2 کافی تیزی سے پورے یورپ میں پھیلا، امکان ہے کہ ابتدائی طور پر ایشیا سے براہ راست ترسیل کے ذریعہ ایسا ہوا۔
 
-Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence that this variant also moved around the continent to Chile, Uruguay, and Argentina.
+فروری کے اختتام تک، جبکہ یوروپ میں سرکاری طور پر رپورٹ کردہ صرف [چند سو معاملات تھے](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) وائرس کم از کم 15 یوروپی ممالک میں پھیل چکا تھا۔
 
-We can also see distinct clusters of transmission involving Colombia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [The more recent situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
-
-Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.
-
-Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the varients circulating now are descendants of those introduced early in the epidemic.
+وبا کے ابتدائی دنوں میں جب نمونہ سازی کا عمل کم عام تھا، SARS-CoV-2 لگ بھگ یقینی طور پر یوروپ کے زیادہ تر حصوں، بشمول ان ممالک میں پھیل رہا تھا جن کے نمونے ہمارے پاس نہیں ہیں۔
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [SARS-CoV-2 in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+# [یورپ میں لاک ڈاؤن](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
 
-Like South America, Africa had several introductions of SARS-CoV-2 to the continent, many likely from Europe. This is shown by the spread of African samples across the tree - even samples from the same country include diverse variants.
+مارچ اور اپریل میں یوروپ کے زیادہ تر حصے نے اپنی سرحدوں کو بند کردیا تھا، اور بہتوں نے مختلف قسموں کے 'لاک ڈاؤن' کا نفاذ کیا جس میں نقل و حرکت پر پابندی لگا دی گئی اور کاروبار اور سکولز بند کردیے گئے۔ ہمیں توقع ہے کہ ان پابندیوں سے ملک کے درمیان ترسیل میں کمی آئی، اور یہ بات زیادہ ممکن ہوگئی کہ ہم کسی مبینہ ملک کے 'گروہ' کی ترتیبات کو اسی ملک کے سابقہ ترتیبات کے ساتھ دیکھ سکیں۔
 
-We now have sequences from countries across Africa throughout the epidemic, though sequencing efforts seem to have declined slightly more recently.
-South Africa has contributed a large proportion of the sequencing.
+تاہم، SARS-CoV-2 پورے یوروپ میں اس قدر ملی جلی شکل میں موجود تھا کہ اس وائرس کی مختلف قسمیں متعدد ممالک میں پھیل رہی تھیں۔ زیادہ تر ممالک میں لاک ڈاؤن سے قبل پھیل رہی متعدد منفرد اقسام ایسی تھیں جن کا تعلق دوسرے ممالک میں پھیل رہے وائرسوں سے تھا۔ اس کا مطلب ہے کہ سرحدیں بند ہونے کے بعد بھی نسلی ارتقائی شجرہ کی تصویر بدستور ملی جلی رہی (شجرہ پر ایک دوسرے کے قریب مختلف رنگوں سے دکھایا گيا ہے). 
 
+البتہ، ہم مقامی ترسیل کی کچھ ایسی علامات دیکھ سکتے ہیں جن کی ہم توقع کرتے ہیں۔ یہاں، فِن لینڈ اور سویڈن میں انتہائی منفرد ترسیلی گروہ سبز اور نارنجی رنگ میں موجود ہے (اوپر سے لگ بھگ 1/3 کے قریب)، جبکہ اسپین (گہرا نیلا) شجرہ کے نچلے اور اوپری حصہ میں منفرد مقامی ترسیل کو دکھاتا ہے۔ آئس لینڈ (اودا) اور سوئزر لینڈ (ہلکا نیلا) بھی مقامی ترسیل کے گروہوں کو دکھاتا ہے۔
 
-<!-- ############ SLIDE BREAK ############# -->
-# [Clustering in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
-
-In the DRC, Senegal, and South Africa, we can see clear signs of local transmission, shown as clusters of sequences in the tree.
-From Senegal and South Africa, we also have samples collected more recently.
-These samples generally fall within the older diversity of the country, as we would expect from continued local transmission.
-
-Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere.
-This finding likely reflects the continued restrictions in movement globally.
+_اشارہ: آپ شجرہ کے اوپری حصے میں 'ملک' پر کلک کرکے لیجنڈ کو پھیلا سکتے ہیں!_
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [United States epidemic is a mixture of local and within-country transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
+# [یوروپ کی حالیہ ترتیب بندیاں مقامی ترسیل کو نمایاں کرتی ہیں اور SARS-CoV-2 کے پچھلے پھیلاؤ کی سمجھ میں اضافہ کرتی ہیں۔](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
 
-Here we show genomes from the United States epidemic from April 15 to present day. In mid-April, all U.S. states were on lockdown. [States have since implemented heterogeneous reopening policies](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
+صرف پچھلے ہفتے میں اپ لوڈ کردہ نمونوں کا جائزہ لینے سے دو اہم نکات نمایاں ہوتے ہیں۔
 
-In this tree, just like in the trees for other regions, we see examples of local virus transmission as shown by similarly-colored tips clustering together over time. If you click, "Explore the Data Yourself", and filter the location to Yakima County, you can see a clear example of introduction and growth of genetically related viruses into this region of Washington State. (You can also [click here](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) to do this, but you will leave the narrative.)
+پہلا یہ کہ، ہم سروں کی جمع بندی (گروپنگ) کو چھوٹے گروہوں میں بدلنے کا رجحان دیکھ سکتے ہیں۔ اس سے یہ اشارہ ملتا ہے کہ اندرون ملک ترسیل بدستور غالب ہے - جو ممکنہ طور پر ان متعدد ضوابط کا نتیجہ ہے جو پورے یوروپ میں متعارف کروائے گئے ہیں۔ لاک ڈاؤن کے دوران وائرس جینیاتی طور پر تنوع اختیار کرتا رہا ہے، لیکن ممکنہ طور پر ایک ملک میں ہی محدود رہا، یعنی ہم اب اکثر و بیشتر مقامی 'اقسام' کو دوسرے ممالک سے بہتر طور پر الگ کر سکتے ہیں۔
 
-However, on the tree, we  also see within-country transmission across the U.S. as shown by mixing of colors at the tree tips. On the map, within-country transmission looks like transmission lines extending between states. These observations are consistent with few domestic travel restrictions and states' reopening policies.
+کچھ نمونے اسی ملک کے دوسرے نمونوں سے ربط کے رجحان کی پیروی نہیں کرتے۔ لیجنڈ میں ملک پر ماؤس گھمانے سے اس ملک کے شجرہ کے اہم سرے نمایاں ہو جاتے ہیں اور اس سے آپ کو ایسے نمونوں کی شناخت میں مدد ملے گی۔ مثال کے طور پر، شجرہ کے درمیان میں، ہم کچھ سویڈش نمونے (سبز) دیکھ سکتے ہیں جو ایک بڑے روسی کلیڈ (سرخ) میں سموئے ہوئے ہیں ).
+بڑے پیمانے پر ذیلی نمونہ سازی کے سبب، ہمیں بدستور احتیاط برتتے ہوئے اس نظریہ کے ساتھ ملک کے درمیان انتقال پذیریوں کے مفروضے کی حد سے زیادہ تشریح نہیں کرنی چاہیئے۔
 
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Central American sequencing shows geographically-clustered transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
-
-There has been limited sequencing from Central America, especially over the past two months, which restricts the inferences we can draw about the epidemic. From the genomes that have been shared, we see geographic clustering of SARS-CoV-2 genomes.
-
-Toward the bottom of the tree in clade 19B, we see a cluster of transmission in Panama starting in mid-February. Several later sequences in Panama from June and July nest in with this cluster, suggesting there's continued local transmission of this virus genotype in the country.
-
-In Mexico, we also see clear geographic clustering of transmission through May. Without more recent sequencing, we cannot make inferences about the epidemic in later months.
-
-In the center of the tree, there is a cluster of cases in Baja California (in light blue). These cases were likely imported from California, USA (green branches on the tree) in March. This inferred importation is consistent with known travel links between the neighboring locations. Although we should be cautious about interpreting inferred transmission locations given sparse sequencing,
+دوسرے، ہم یہ دیکھ سکتے ہیں کہ سروں میں افقی طور پر خالی جگہ میں کافی زیادہ فرق ہے -- یعنی گزشتہ ہفتے جمع کردہ نمونے، نمونہ اکٹھا کرنے کے ایک ایسے ٹائم ونڈو کو پیش کرتے ہیں جو پیچھے ابتدائی مارچ تک جاتا ہے۔
+"پرانے" جینومز کی ترتیب بندی کی وجوہات مختلف ہیں، لیکن ان نمونوں سے وائرس کے ارتقاء اور جغرافیائی نقل و حرکت سے متعلق ہماری سمجھ میں اضافہ ہوتا ہے۔
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Closing summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [جنوبی امریکہ میں ابتدائی صورتحال](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
 
-As the pandemic reaches its eighth month of global circulation, we can now see distinct changes over time in the picture painted by viral genetics, largely determined by changing behaviour.
+جنوبی امریکہ کے پہلے SARS-CoV-2 ترتیبات اواخر فروری اور ابتدائی مارچ سے ہیں، اور یہ پورے شجرے پر پھیلے ہوئے ہیں، جو متعدد شروعاتوں کو دکھاتے ہیں۔ چونکہ مارچ میں بین الاقوامی سفر میں کمی آئی، لہذا ہم متعدد ممالک میں برقرار مقامی ترسیل کے ثبوت دیکھ سکتے ہیں۔
 
-Multiple early transmissions to the USA, Oceania, Europe, and across Asia, were initially incredibly well-mixed, as our global travel patterns distributed the virus incredibly effectively. Soon afterwards, diverse introductions to South America and Africa, often from Europe and North America, seeded local epidemics there.
+برازیل کی بہت سی (ہلکی سبز) ترتیبات دو بڑے گروہوں کا حصہ ہیں (شجرہ کے اوپری حصے کے قریب)، اس بات کے کچھ ثبوت ہیں کہ یہ قسم چلی، یوروگوے، اور ارجنٹینا کے خطوں میں بھی منتقل ہوئی۔
 
-As the scale of the viral spread and severity of COVID-19 became apparent, travel ground to a halt in much of the world. After this point, we can see a distinct shift to local transmission during 'lockdowns' and the most severe travel restrictions. One outcome of this is that we can now sometimes better identify the source for viruses, as local epidemics have in some cases become more genetically distinct. In the USA, the absence of strict domestic travel has helped maintain well-mixed epidemics between states.
+ہم ترسیل کے منفرد گروہ بھی دیکھ سکتے ہیں جس میں کولمبیا (نارنجی)، چلی (فیروزی)، یوروگوے (ہلکا نیلا)، اور ارجنٹینا (گہرا نیلا) شامل ہیں جو شجرے پر پھیلے ہوئے ہیں۔
 
-Borders are now re-opening and travel has resumed, though not nearly to pre-pandemic levels. This, combined with the lag time from when samples are taken to when they are available publicly, means we only see a few signs of between-country mixing. In general, recent samples tend to continue to cluster with past sequences from the same country, indicating continued transmission of previously circulating variants. 
-
-Unfortunately, many countries have seen a rise in cases in the last few weeks, usually associated with reopening. As the Northern Hemisphere prepares to move into autumn and colder weather, further reopening, and school resuming, we must remain vigilant about rising case counts. As winter progresses in the Southern Hemisphere, we see worrying signs that seasonality could indeed lead to more trouble containing transmission - Australia's initial success with the virus has been dampened by recent outbreaks. Continuing to scale up Test, Trace, and Isolate, careful hand-hygiene, and conscientious mask-wearing can help keep our societies as open as possible while we continue to battle SARS-CoV-2.
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
+# [جنوبی امریکہ میں حالیہ ترین صورتحال](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+بدقسمتی سے، جبکہ SARS-CoV-2 بدستور جنوبی امریکہ میں وسیع پیمانے پر پھیل رہا ہے، ترتیب بندی کا عمل اپنی رفتار پر نہیں رہ سکا ہے۔ اگرچہ براعظم کے زیادہ تر حصے میں بدستور معاملات کی اونچی شرح ہے، تاہم مئی کے بعد سے 5 ممالک (برازیل، ایکویڈور، یوروگوے، ارجنٹینا، اور چلی) سے صرف 68 نمونے شیئر کیے گئے ہیں۔
 
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+اگرچہ منتشر نمونہ سازی کے سبب ہمارے نتائج محدود ہیں، تاہم بہت سے معاملات میں یہ حالیہ ترین نمونے اسی ملک، یا دیگر جنوبی امریکہ کے ممالک میں موجود ابتدائی تنوع کے اندر شامل ہیں جن کا نمونہ لیا گيا تھا۔ اس سے یہ پتہ چلتا ہے کہ ابھی جو قسمیں پھیل رہی ہیں وہ اسی نوع کی نسل سے ہیں جو وبا میں ابتدائی طور پر شروع ہوئی تھی۔
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+
+<!-- ############ SLIDE BREAK ############# -->
+# [افریقہ میں SARS-CoV-2](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+
+جنوبی امریکہ کی طرح، افریقہ میں بھی SARS-CoV-2 کی متعدد شروعاتیں ہوئیں، جن میں بہت سی یوروپ کے جیسی تھیں۔ اسے شجرہ پر افریقی نمونوں کے پھیلاؤ کے ذریعہ دکھایا گيا ہے - یہاں تک کہ ایک ہی ملک کے نمونوں میں مختلف قسمیں شامل ہیں۔
+
+اب ہمارے پاس پورے افریقہ کے ممالک کی وبا کے دوران کی ترتیب بندی موجود ہے، البتہ ایسا لگتا ہے کہ ترتیب بندی کی کوششوں میں حالیہ طور پر تھوڑی کمی آگئی ہے۔
+جنوبی افریقہ نے ترتیب بندی میں کافی بڑے حصے کا تعاون دیا ہے۔
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [افریقہ میں گروہ بندی](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
+
+ڈی آر سی، سینیگال، اور جنوبی افریقہ میں ہمیں مقامی ترسیل کی واضح علامات نظر آتی ہیں، جسے شجرہ میں ترتیب بندی کے گروہوں کے طور پر دکھایا گيا ہے۔
+سینیگال اور جنوبی افریقہ سے، ہمیں کافی حال ہی میں اکٹھا کردہ نمونے بھی ملے ہیں۔
+یہ نمونے عام طور پر ملک کے پرانے تنوع میں ہی آتے ہیں، جیسا کہ ہم جاری مقامی ترسیل سے توقع کریں گے۔
+
+البتہ ہمیں اپنے نتائج میں احتیاط برتنی چاہیے کیونکہ یہ انتہائی جانبدرانہ نمونہ سازی کے سبب کافی زیادہ محدود ہیں، افریقہ سے حاصل حالیہ نمونوں سے ہمارے سامنے یہ بات نہیں آتی ہے کہ ان اقسام کا کہیں اور سے مسلسل درآمد جاری ہے۔
+ان نتائج میں عالمی پیمانے پر نقل و حرکت پر مسلسل پابندی کی عکاسی ہونے کا امکان ہے۔
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [ریاستہائے متحدہ کی وبا مقامی اور اندرون ملک ترسیل کی ملی جلی شکل ہے](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
+
+یہاں ہم نے 15 اپریل سے آج کے دن تک ریاستہائے متحدہ کی وبا کے جینومز کو دکھایا ہے۔ وسط اپریل میں، ریاستہائے متحدہ کی تمام ریاستیں لاک ڈاؤن پر تھیں۔ [اس کے بعد سے ریاستوں نے رپورٹنگ کی مختلف النوع پالیسیاں نافذ کیں](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
+
+اس شجرہ میں، دوسرے علاقوں کے شجروں کی طرح ہی، ہم مقامی طور پر وائس کی ترسیل کی مثالیں دیکھتے ہیں جیسا کہ یکساں رنگ والے سروں کے ذریعہ دکھایا گيا ہے جو وقت کے ساتھ ساتھ گروہ کی شکل لے لیتے ہیں۔ اگر آپ "خود سے ڈیٹا کی چھان بین کریں" پر کلک کرتے ہیں، اور یاکیما کاؤنٹی کے مقام کو فلٹر کرتے ہیں تو، آپ واشنگٹن اسٹیٹ کے اس علاقے میں جینیاتی طور پر متعلقہ وائرسوں کی شروعات اور نمو کی واضح مثالیں دیکھ سکتے ہیں۔ (آپ ایسا کرنے کے لیے [یہاں کلک](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) بھی کر سکتے ہیں، لیکن آپ ایک بیان چھوڑیں گے۔)
+
+البتہ، شجرہ پر، ہم پورے یو ایس میں درون ملکی ترسیل بھی دیکھتے ہیں جسے شجرہ کے سروں پر رنگوں کے امتزاج سے دکھایا گیا ہے۔ نقشے پر، درون ملک ترسیل ریاستوں کے درمیان پھیلی ہوئی ترسیلی لکیروں کی طرح نظر آتی ہے۔ یہ مشاہدات چند گھریلو سفری پابندیوں اور ریاستوں کی دوبارہ کھولنے کی پالیسیوں کے مطابق ہیں۔
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [مرکزی امریکی ترتیب بندی جغرافیائی طور پر گروہ بند ترسیل کو دکھاتی ہے](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
+
+مرکزی امریکہ سے محدود ترتیب بندی سامنے آئی ہے، خاص طور پر گزشتہ دو مہینوں میں، جو ان نتائج کی راہ میں رکاوٹ ہیں جو ہم وبا کے بارے میں اخذ کر سکتے ہیں۔ جن جینومز کا اشتراک کیا گیا ہے، ان سے ہم SARS-CoV-2 جینومز کے جغرافیائی گروہ بندی کو دیکھتے ہیں۔
+
+کلیڈ 19B میں شجرہ کے نچلے حصے میں، ہم پناما میں ترسیل کا ایک گروہ دیکھتے ہیں جس کی شروعات وسط فروری میں ہوتی ہے۔ جون اور جولائی سے پناما میں بعد کی متعدد ترتیب بندیاں اسی گروہ میں شامل ہیں، جس سے یہ پتہ چلتاہے کہ ملک میں اس وائرس جینوٹائپ کی مقامی طور پر مسلسل ترسیل ہوئی۔
+
+میکسیکو میں، ہم مئی تک ترسیل کی واضح جغرافیائی گروہ بندی بھی دیکھتے ہیں۔ حالیہ ترین ترتیب بندی کے بغیر، ہم بعد کے مہینوں میں وبا کے بارے میں نتائج اخذ نہیں کر سکتے۔
+
+شجرہ کے مرکز میں، باجا کیلیفورنیا (ہلکے نیلے رنگ میں) معاملات کا ایک گروہ دیکھتے ہیں۔ ممکنہ طور پر یہ معاملات کیلیفورنیا، یو ایس اے (شجرہ پر سبز شاخیں) سے مارچ میں درآمد ہوئے۔ اس سے یہ نتیجہ نکلتا ہے کہ یہ درآمدات پڑوس کے مقامات کے درمیان معلوم سفری روابط کے مطابق ہیں۔ تاہم، ہمیں منتشر ترتیب بندی کے سبب ترسیل کے نتائجی مقامات کی تشریح کے حوالے سے احتیاط برتنی چاہیئے۔
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [اختتامی خلاصہ](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+
+چونکہ وبا عالمی پیمانے پر اپنے پھیلاؤ کے آٹھویں مہینے میں پہنچ چکی ہے، لہذا اب ہم وائرل جینیٹکس کے ذریعہ پینٹ کردہ تصویر میں وقت کے ساتھ منفرد تبدیلیاں دیکھ سکتے ہیں، جس کا تعین وسیع پیمانے پر تبدیل ہوتے رویے کے ذریعہ ہوا ہے۔
+
+یو ایس اے، اوشینیا، یوروپ، اور پورے ایشیا میں متعدد ابتدائی شروعات، ابتدائی طور پر کافی زیادہ ملی جلی تھیں، کیونکہ ہماری عالمی سفر کی ترتیبات نے وائرس کو حیران کن طریقے سے تقسیم کیا۔ اس کے بعد جلد ہی، جنوبی امریکہ اور افریقہ، اکثر یوروپ اور شمالی امریکہ سے متنوع شروعاتوں نے، وہاں پر مقامی وبا کا بیج ڈالا۔
+
+جیسے ہی وائرس کے پھیلاؤ کا پیمانہ اور COVID-19 کی شدت واضح ہوئی، دنیا کے زیادہ تر حصے میں سفر رک گیا۔ اس پوائنٹ کے بعد، ہم 'لاک ڈاؤنز' اور زیادہ سخت سفری پابندیوں کے دوران مقامی ترسیل میں ایک منفرد تبدیلی دیکھ سکتے ہیں۔ اس کا ایک نتیجہ یہ ہے کہ اب ہم کبھی کبھی وائرسز کے ماخذ کو بہتر طور پر شناخت کرسکتے ہیں، کیونکہ کچھ معاملات میں مقامی وبائیں جینیاتی طور پر زیادہ منفرد ہو جاتی ہیں۔ یو ایس اے میں، گھریلو سفر پر سخت پابندی نہ ہونے نے ریاستوں کے درمیان زیادہ ملی جلی وبا کو برقرار رکھنے میں مدد کی۔
+
+اب سرحدیں دوبارہ کھل رہی ہیں اور سفر دوبارہ شروع ہو گیا ہے، تاہم وبا سے پہلی والی سطح کے جیسی نہیں ہے۔ اسے، اور نمونے لینے کے وقت سے ان کے عوامی طور پر دستیاب ہونے کے درمیان کے تاخیری وقت کو ساتھ ملانے کا مطلب ہے کہ ہم ممالک کے درمیان اختلاط کی صرف چند علامات ہی دیکھ سکتے ہیں۔ عام طور پر، حالیہ نمونے اسی ملک کے سابقہ ترتیبات کے گروہ سے متعلق ہوتے ہیں، جس سے پہلے پھیل رہی قسموں کی مسلسل ترسیل کا اشارہ ملتا ہے۔ 
+
+بدقسمتی سے، گزشتہ چند ہفتوں میں کئی ممالک میں معاملات میں اضافہ دیکھا گیا، جس کا تعلق عام طور پر دوبارہ کھلنے سے ہے۔ چونکہ شمالی کُرہ ارض میں موسم خزاں اور سردیوں کے موسم کی آمد ہے، اس کے علاوہ دوبارہ کھلنے، اور سکول دوبارہ شروع ہونے کی تیاری ہو رہی ہے، لہذا ہمیں معاملات کی تعداد بڑھنے کے حوالے سے ہوشیار رہنا چاہیے۔ جنوبی کُرہ ارض میں موسم سرما کی آمد کے ساتھ، ہمیں پریشان کن علامات نظر آرہی ہیں جو درحقیقت موسمی لحاظ سے ترسیل کے ضمن میں زیادہ پریشانی کا سبب بن سکتی ہیں - وائرس پر آسٹریلیا کی ابتدائی کامیابی وبا کے حالیہ پھوٹ پڑنے سے دھول میں مل گئی ہے۔ ٹیسٹ میں اضافہ، سراغ لگانے، اور علیحدگی، محتاط طور پر ہاتھ کے حفظان صحت، اور میں اضافہ جاری رکھتے ہوئے، اور ذمہ داری کے ساتھ ماسک پہننے کا عمل جاری رکھنے سے SARS-CoV-2 کے ساتھ ہماری جنگ جاری رہنے کے دوران، ہماری معاشرتوں کو زیادہ سے زیادہ کھلا رکھنے میں مدد مل سکتی ہے۔
+
+<!-- ############ SLIDE BREAK ############# -->
+# [سائنسی کریڈٹ](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
+
+ہم اس وبا سے متعلق کارروائیوں میں شریک تمام سائنسدانوں کے حیران کن اور بروقت کاموں کے لیے ان کا شکریہ ادا کرنا چاہتے ہیں۔
+صرف جینومی ڈیٹا اور میٹا ڈیٹا کے تیز رفتار اشتراک سے ہی اس طرح کے تجزیات ممکن ہوئے۔
+
+**ہم اس بات کے لیے آپ کی حوصلہ افزائی کرتے ہیں کہ آپ 'خود سے ڈیٹا کی چھان بین کریں' پر کلک کریں اور تحریر کنندگان کی مکمل فہرست دیکھنے کے لیے نیچے اسکرال کریں؛ ہر منفرد سلسلے کا تحریر کنندہ شجرہ پر اسے منتخب کرنے پر دستیاب ہے۔**
+
+ہم GISAID کے بھی انتہائی شکرگزار ہیں کہ انہوں نے ایک ایسا پلیٹ فارم مہیا کیا جس کے ذریعے اس ڈیٹا کو اپ لوڈ اور اس کا اشتراک کیا جاسکا۔
