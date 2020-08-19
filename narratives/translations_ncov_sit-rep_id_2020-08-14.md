@@ -293,15 +293,15 @@ Akan tetapi, pada pohon, kita juga melihat penularan dalam negeri seantero AS se
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Central American sequencing shows geographically-clustered transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
+# [Sekuens Amerika Tengah menunjukkan penularan terklaster geografis](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
 
-There has been limited sequencing from Central America, especially over the past two months, which restricts the inferences we can draw about the epidemic. From the genomes that have been shared, we see geographic clustering of SARS-CoV-2 genomes.
+Sekuens dari Amerika Tengah masih sangat terbatas, terutama dua bulan terakhir, sehingga membatasi penafsiran yang dapat ditarik mengenai epidemik ini. Dari genom yang telah dipublikasi, kita melihat pengklasteran geografis genom SARS-CoV-2.
 
-Toward the bottom of the tree in clade 19B, we see a cluster of transmission in Panama starting in mid-February. Several later sequences in Panama from June and July nest in with this cluster, suggesting there's continued local transmission of this virus genotype in the country.
+Melalui dasar pohon di klad 19B, kita melihat klaster penularan di Panama mulai pertengahan Pebruari. Beberapa sekuens berikutnya dari bulan Juni dan Juli bersarang di klaster ini, menandakan kelanjutan penularan lokal genotipe virus ini di negeri tersebut.
 
-In Mexico, we also see clear geographic clustering of transmission through May. Without more recent sequencing, we cannot make inferences about the epidemic in later months.
+Di Meksiko, kita juga melihat pengklasteran geografis penularan hingga bulan Mei. Tanpa sekuens baru, kita tidak dapat membaca epidemik pada bulan-bulan berikutnya di negeri ini.
 
-In the center of the tree, there is a cluster of cases in Baja California (in light blue). These cases were likely imported from California, USA (green branches on the tree) in March. This inferred importation is consistent with known travel links between the neighboring locations although we should be cautious about interpreting inferred transmission locations given sparse sequencing.
+Di tengah pohon, terdapat klaster kasus di Baja California (biru muda). Kasus ini sepertinya diimpor dari Kalifornia, AS (cabang hijau pada pohon) pada bulan Maret. Penafsiran importasi ini selaras dengan lalu-lintas perjalanan antara kedua wilayah bertetangga ini meskipun kita harus berhati-hati dalam penafsiran ini karena sekuens yang kurang memadai.
 
 
 <!-- ############ SLIDE BREAK ############# -->
