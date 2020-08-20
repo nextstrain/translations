@@ -227,17 +227,15 @@ _ヒント：ツリーの左上にある「国」をクリックすると凡例�
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Recent European sequencing highlights local transmission and enriches understanding of previous SARS-CoV-2 spread](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
+# [欧州における最近の配列解析により、局所的な伝播が明らかになり、早期のSARS-CoV-2の伝播についての理解がより深く](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
 
-Examining only samples uploaded in the past week highlights two important points.
+過去1週間にアップロードされたサンプルだけを調べてみると、2 つの重要なポイントが浮かび上がってきます。
 
-Firstly, we can see a tendency towards groupings of tips into mini-clusters. This indicates that within-country transmission is continuing to dominate - likely a product of the various regulations introduced throughout Europe. The virus continued to diversify genetically during the lockdown, but was more likely to be confined to one country, meaning we can often now better distinguish local 'variants' from those in other countries.
+一つ、前にグループにしてたチップ（元々近かったの複数の葉）からミニクラスター（小規模な枝）に発展している傾向が見られます。これは、各国内での伝播が初期の広げた後も引き続き支配することを示しており、このような結果はヨーロッパ全土で導入された様々な規制の産物である可能性も高いでしょう。ウイルスはロックダウン中も遺伝的に多様化し続けましたが、1つの国に限定されている可能性が高く、現階段では他国からの「亜種」をよりよく区別できるようになりました。
 
-Some samples do not follow this trend of linking to other samples from the same country. Hovering over a country in the legend highlights tips in the tree from that country and will help identify such samples. For instance, in the middle of the tree, we can see some Swedish samples (green) nested within a larger Russian clade (red).
-Given the heavy subsampling, we need to remain cautious to not over interpret putative between-country transmissions from this view.
+同じ国の他のサンプルとより強くリンクするというこの傾向に従わないサンプルもあります。凡例の国の上にカーソルを置くと、その国の木のヒントがハイライトされ、そのようなサンプルを識別するのに役立ちます。例えば、木の中央には、スウェーデンのサンプル（緑）が、より大きなロシアのクラッド（赤）の中に入れ子になっているのが見えます。しかしサンプリングが一部の国で異常に多くことを考えると、この見解に基づいて、国間伝播の結論を過剰に解釈しないように慎重になる必要があります。
 
-Secondly, we can see that the tips have a large difference in horizontal spacing -- i.e. the samples submitted in the past week represent a sample collection time window extending back to early March.
-The reasons for sequencing "old" genomes varies, but these samples help us fill in our understanding of viral evolution and geographical movement.
+二つ、チップの水平方向の間隔に大きな差があり、即ちこの1週間に提出されたサンプルは、3月上旬までのサンプル収集期間を表しています。「古い」ゲノムを配列決定する理由は様々ですが、これらのサンプルは、ウイルスの進化や地理的な移動の理解を埋めるのに役立ちます。
 
 
 <!-- ############ SLIDE BREAK ############# -->
