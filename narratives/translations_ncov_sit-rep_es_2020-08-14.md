@@ -164,7 +164,7 @@ Esto muestra que muchas de las transmisiones hacia países asiáticos y no asiá
 
 Al observar los genomas disponibles después del 1ro de Junio (en los últimos dos meses), vemos que las muestras son mayormente de ciertos países. Aunque esto limita las conclusiones que podemos obtener, al parecer existen pocas transmisiones entre países.
 
-Nuestra ultima afirmación se basa en la filogenia del virus, donde se observan grupos monofilético grandes (en la misma parte del árbol) de genomas de Singapur (en amarillo) y Bangladesh (verde claro).
+Nuestra ultima afirmación se basa en la filogenia del virus, donde se observan grupos monofiléticos grandes (en la misma parte del árbol) de genomas de Singapur (en amarillo) y Bangladesh (verde claro).
 
 Estos datos son consistentes con mayores restricciones a los viajes internacionales y controles fronterizos mas estrictos.
 
@@ -309,7 +309,7 @@ Al hacerse evidente lo contagioso y la severidad del COVID-19, los viajes se par
 
 Las fronteras se abren nuevamente y los viajes se reinician, aunque no en los mismos niveles anteriores a la epidemia. Esto, combinado con el desfase temporal entre la toma de muestras y la fecha en la que se hacen comparten públicamente, significa que solo vemos pocas señales de mezcla entre países. En general, las muestras tienden a agruparse con las secuencias pasadas en el país, indicando una transmisión continua de las variantes ya existentes. 
 
-Desafortunadamente, muchos países han visto un incremento en el numero de casos en las ultimas semanas, usualmente asociado con la re-apertura. Mientras el hemisferio norte se prepara para la primavera, temperaturas mas bajas, mayor re-apertura y reinicio de clases escolares luego de las vacaciones, debemos mantener la vigilancia en el numero de casos. En el hemisferio sur, a medida que el invierno avanza, vemos preocupantes señales que la estacionalidad hace mas problemática la contención de los contagios – el éxito inicial de Australia ha sido eclipsado por los brotes recientes. La ampliación de la estrategia de testeo, rastreo y aislamiento, el lavado adecuado de manos, y el uso de consiente de mascarillas puede ayudarnos a mantener nuestras sociedad abiertas mientras continuamos la batalla en contra del SARS-CoV-2
+Desafortunadamente, muchos países han visto un incremento en el numero de casos en las ultimas semanas, usualmente asociado con la re-apertura. Mientras el hemisferio norte se prepara para la primavera, temperaturas mas bajas, mayor re-apertura y reinicio de clases escolares luego de las vacaciones, debemos mantener la vigilancia en el numero de casos. En el hemisferio sur, a medida que el invierno avanza, vemos preocupantes señales que la estacionalidad hace mas problemática la contención de los contagios – el éxito inicial de Australia ha sido eclipsado por los brotes recientes. La ampliación de la estrategia de testeo, rastreo y aislamiento, el lavado adecuado de manos, y el uso de consiente de mascarillas puede ayudarnos a mantener nuestras sociedades abiertas lo más posible mientras continuamos la batalla en contra del SARS-CoV-2
 
 
 <!-- ############ SLIDE BREAK ############# -->
