@@ -98,7 +98,7 @@ abstract: "
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [遗传变异的世界分布Worldwide distribution of genetic variants](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
+# [新冠病毒变体在全世界的分布](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
 新冠病毒自从在2019年末出现以来，已经演化出了几种变体（variants），同时在地球上传播。为了便于讨论，我们根据一些特征性的突变，把这些变体归成了几个分支（clades）。
 
@@ -114,20 +114,20 @@ abstract: "
 </svg>
 
 
-图中显示的是这些不同的分支在世界各地的分布（此图中颜色代表的是所属分支）。
+图中显示的是这些分支在世界各地的分布（现在图中的颜色代表的是所属分支）。
 您可以看到，亚洲国家具有 19A 和 19B （蓝色）的比例较高，因为这一支在疫情的早期占比较大。
 欧洲和北美的疫情混合了所有的分支，但以 20B 和 20C 为主（分别是黄色和橙色）。
 
-#### 如果你有一些新冠病毒的序列，想知道它们属于哪个分支（以及在系统发生树中所估测的位置），我们制作了Nextclade工具([clades.nextstrain.org/](https://clades.nextstrain.org/))，您可以在浏览器中把您的FASTA文件拖拽上传到该页面。If you have SARS-CoV-2 sequences for which you'd like to know their clade (and estimated position on a phylogenetic tree), we made Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) which lets you drag-and-drop your FASTA files onto the browser.
-
+#### 如果您想知道手中新冠病毒的序列属于哪个分支（以及估测其在系统发生树中的位置），我们制作了Nextclade工具([clades.nextstrain.org/](https://clades.nextstrain.org/))，您可以通过在浏览器中把FASTA文件拖拽上传到该页面来使用。
 
 <!-- ############ SLIDE BREAK ############# -->
-# [广为人知的D614G棘突蛋白突变The well-publicized D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
+# [著名的棘突蛋白D614G突变](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
 棘突蛋白基因中的D614G突变最近上了新闻，是很多推测的话题中心。
 The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
 
-根据证据的积累，G型变体（本图中为黄色）在体外实验中提高了新冠病毒的感染性，有可能在演化上被选择，选择提高的人传人的几率（[Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1) ）。然而，感染力的增加可能伴随着使病毒更易受中和抗体攻击的代价（[Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)）。
+有证据显示，G型变体（本图中为黄色）在体外实验中提高了新冠病毒的感染性，有可能因其提高的人传人的几率而在演化中被选择（[Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1) ）。然而，感染力的增加可能伴随着使病毒更易受中和抗体攻击的代价（[Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)）。
+
 Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
 这里，我们可以看到这个变体，被推断为在病毒由动物传给人之后很快就出现了，然后传播到全球。Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
