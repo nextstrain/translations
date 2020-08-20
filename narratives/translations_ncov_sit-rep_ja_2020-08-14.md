@@ -205,25 +205,25 @@ This lineage originated in Europe, but has since been observed in multiple regio
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Early situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
+# [ヨーロッパの初期状況](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
-SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.
+SARS-CoV-2は、主にアジアからの直接感染によって、ヨーロッパで急速に広がった。
 
 By the end of February, even though there were just [a few hundred cases](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) officially reported in Europe, the virus had spread to at least 15 European countries.
+2月の終わりまでに、ヨーロッパで公式に報告された例はわずか[数百件](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea)であったにもかかわらず、実際、ウイルスは少なくともヨーロッパの15カ国に広がっていました。
 
-Given that sampling was less common in the early days of the pandemic, SARS-CoV-2 was almost certainly already circulating across must of Europe, including in countries for which we don't have samples.
-
+パンデミックの初期にはサンプリングがあまり足りっていなかったことを考えると、SARS-CoV-2は、サンプルが行われてなかった国も含めて、ほぼ確実にヨーロッパのほとんどの地域ですでに流通していたことになります。
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Lockdown in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
+# [ヨーロッパでのロックダウン](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
 
-Through March and April much of Europe closed their borders, and many imposed differing types of 'lockdown' where movement was restricted and businesses and schools closed. We expect that these restrictions decreased between-country transmission, making it more likely that we see sequences from any given country 'cluster' with previous sequences from that country.
+3月から4月にかけて、ヨーロッパの多くの国が国境を閉鎖し、移動が制限されたり、企業や学校が閉鎖されたりする様々なタイプの「ロックダウン」が行われました。このような制限により、国間の伝播が減少し、ある国の配列がその国の以前の配列と「クラスター」する可能性が高くなると予想されます。
 
-However, SARS-CoV-2 was already so mixed across Europe that different variants of the virus were circulating across multiple countries. Most countries had numerous distinct variants circulating before lockdown that were related to the viruses circulating in other countries. This means the phylogenetic picture remains well-mixed even after borders closed (shown by multiple colors near each other on the tree).
+しかし、SARS-CoV-2はすでにヨーロッパ全体で非常に混ざり合っていたため、ウイルスの異なる亜種が複数の国で広げていました。ほとんどの国では、ロックダウンの前に、他国からのウイルスに関連した多数の異なる亜種がすでに流行していました。 これによって、国境を閉鎖した後も系統図が極めて混ざっていることを意味します（木の上で互いに近くに複数の色があることで示されています）。
 
-However, we can see some signs of the local transmission that we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange (about 1/3 from the top), while Spain (dark blue) shows distinct local transmission at the bottom and top of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.
+それでも、私たちが予測しているような局所的な伝達の兆候がいくつかも見られます。ここでは、フィンランドとスウェーデンは、緑とオレンジ色（上から約1/3）で非常にはっきりとした伝播のクラスターを示し、またスペイン（紺色）は、木の下と上ではっきりとした局所的な伝播を示しています。アイスランド（紫）とスイス（水色）もまた、局所的なクラスターを示しています。
 
-_Hint: You can expand the legend by clicking 'Country' at the top-left of the tree!_
+_ヒント：ツリーの左上にある「国」をクリックすると凡例を拡大することができます。_
 
 
 <!-- ############ SLIDE BREAK ############# -->
