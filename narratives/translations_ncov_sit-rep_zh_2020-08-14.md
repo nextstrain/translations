@@ -50,63 +50,63 @@ abstract: "
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- table of contents slide -->
-# [COVID-19 Summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [新冠疫情总览](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-### Table of contents
-* [Global clade distribution](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [D614G Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Situation in Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Situation in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Situation in Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Situation in South America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Situation in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Situation in North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Closing summary](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+### 目录
+* [全球谱系分布Global clade distribution](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
+* [棘突蛋白D614G突变 Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
+* [亚洲的情况Situation in Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
+* [大洋洲的情况Situation in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
+* [欧洲的情况Situation in Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
+* [南美的情况Situation in South America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
+* [非洲的情况Situation in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
+* [北美的情况Situation in North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
+* [结语Closing summary](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
+* [科学贡献人员Credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
 
-#### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/)
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/)
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)
+#### Nextstrain的资料
+* [入门篇：如何解读系统发生树](https://nextstrain.org/narratives/trees-background/zh)
+* [之前的状况报告](https://nextstrain.org/ncov-sit-reps/)
+* [冠状病毒的背景资料（英文）](https://nextstrain.org/help/coronavirus/human-CoV)
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Executive Summary
+# 总结
 
-In this report, we analyzed publicly shared SARS-CoV-2 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally.
+在本篇报告中，我们分析了已公开的新冠病毒基因组序列。通过将病毒基因组互相比较，我们可以描述新冠病毒是如何在全球迁移和在社区内传播的。In this report, we analyzed publicly shared SARS-CoV-2 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally.
 
-- Asia has a higher proportion of 19A & 19B clades, with 20A, 20B & 20C clades dominating in Europe & North America.
+- 亚洲的19A和19B支的比例更高，而20A、20B和20C的支在欧洲和北美占比较大。Asia has a higher proportion of 19A & 19B clades, with 20A, 20B & 20C clades dominating in Europe & North America.
 
-- Globally, we can clearly see the rise to prominence of the D614G substitution in the Spike protein. This variant is hypothesised to cause an increase in SARS-CoV-2 transmission.
+- 从全球来看，我们可以清楚地看到棘突蛋白中D614G突变显著上升。有假说认为，这个变异能够导致新冠病毒传播力增强。Globally, we can clearly see the rise to prominence of the D614G substitution in the Spike protein. This variant is hypothesised to cause an increase in SARS-CoV-2 transmission.
 
-- To better display real-time builds of the SARS-CoV-2 data around the world, we run 6 regional and 1 global build, which are updated every weekday.
+- 为了更好地展示在全球收集到的新冠病毒实时数据，我们建立了6个区域数据集和1个全球数据集，并在每个工作日都进行更新。To better display real-time builds of the SARS-CoV-2 data around the world, we run 6 regional and 1 global build, which are updated every weekday.
 
-- In Asia, there were numerous between-country transmissions in the region early in the pandemic. More recently, we see a move to within-country links, a trend we see in most regions.
+- 在亚洲，病毒流行的前期，存在大量的跨国传播。最近，我们看到病毒的传播主要变成了在国境之内，我们也在大多数地区都看到了这个趋势。In Asia, there were numerous between-country transmissions in the region early in the pandemic. More recently, we see a move to within-country links, a trend we see in most regions.
 
-- In Oceania, New Zealand's cases are contained in a narrow temporal band, corresponding to their elimination of the virus (until this week). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.
+- 在大洋洲，新西兰的病例被控制在一个狭窄的时间窗口，对应于他们（截至本周为止）对病毒的消灭。澳大利亚最近病例数的骤增也出现了，至少在已公开的病例中，因为在此前流行的多样性的病毒中，出现了紧密聚在一起的病例。In Oceania, New Zealand's cases are contained in a narrow temporal band, corresponding to their elimination of the virus (until this week). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.
 
-- SARS-CoV-2 spread extremely quickly in Europe - the virus was likely being transmitted in many countries before they realised. This resulted in heavy mixing of European samples early in the pandemic, making it hard to distinguish and identfy introductions from one place to another. More recently, we can see more distinct variants associated with particular countries, as viruses have been constrained through travel restrictions.
+- 新冠病毒在欧洲传播得极快——病毒很可能在被意识到之前就已经在很多国家中传播了。这导致了病毒流行早期，欧洲的样本大量地混杂在一起，使我们难以辨别和确认病毒在两地之间传播的方向。最近，我们可以看到特定国家与特定变异之间更明显的关联，因为旅行限令对病毒传播的控制。SARS-CoV-2 spread extremely quickly in Europe - the virus was likely being transmitted in many countries before they realised. This resulted in heavy mixing of European samples early in the pandemic, making it hard to distinguish and identfy introductions from one place to another. More recently, we can see more distinct variants associated with particular countries, as viruses have been constrained through travel restrictions.
 
-- Like other regions, South America had multiple introductions, covering most of the known diversity of SARS-CoV-2. After travel restrictions came into place, sequences begin clustering more noticeably. Unfortunately, despite severe ongoing epidemics in many countries, more recent sequences are not readily available.
+- 像其他地区一样，南美曾经历多次输入事件，涵盖了新冠病毒基因组序列的多样性的大多数。在执行了旅行限令之后，病毒的序列开始更明显地聚在一起了。很遗憾，尽管很多国家正在经历严重的疫情，我们没有很容易地得到更多新近的序列。Like other regions, South America had multiple introductions, covering most of the known diversity of SARS-CoV-2. After travel restrictions came into place, sequences begin clustering more noticeably. Unfortunately, despite severe ongoing epidemics in many countries, more recent sequences are not readily available.
 
-- Africa also had multiple, diverse introductions early in the pandemic. Subsequent travel restrictions seems to have limited mixing among African countries, with most sequences seeming to come from earlier circulating diversity in the same country.
+- 非洲也在病毒流行早期经历了多次、差异很大的输入事件。后续的旅行限令似乎限制了非洲各国之间病毒的混杂，大多数的序列都似乎来自统一国家早些时候流行的遗传多样性。Africa also had multiple, diverse introductions early in the pandemic. Subsequent travel restrictions seems to have limited mixing among African countries, with most sequences seeming to come from earlier circulating diversity in the same country.
 
-- A different picture is shown in the USA, where domestic travel has not been greatly restricted: we see mixing among all states, as well as local transmission. In Mexico & Central America, we see examples of geographical clustering in transmission, particularly between California (USA) & Baja California (Mexico).
+- 美国的情形则有不同，那里，国内旅行没有受到很大限制：我们看到，各州的序列都混杂在一起，也能看到本地传播。在墨西哥和中美洲，我们看到了传播中的地理聚集的例子，特别是在美国加利福尼亚州和墨西哥的北下加利福尼亚州之间。A different picture is shown in the USA, where domestic travel has not been greatly restricted: we see mixing among all states, as well as local transmission. In Mexico & Central America, we see examples of geographical clustering in transmission, particularly between California (USA) & Baja California (Mexico).
 
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Worldwide distribution of genetic variants](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
+# [遗传变异的世界分布Worldwide distribution of genetic variants](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
-Since its emergence in late 2019, SARS-CoV-2 has diversified into several different co-circulating variants. To facilitate discussion of these variants, we have grouped them into clades which are defined by specific signature mutations.
+新冠病毒自从在2019年末出现以来，已经演化出了几种共同传播的变异。为了便于讨论，我们把这些变异归成了几支，每支由一些特征性的突变所定义。Since its emergence in late 2019, SARS-CoV-2 has diversified into several different co-circulating variants. To facilitate discussion of these variants, we have grouped them into clades which are defined by specific signature mutations.
 
-We currently define 5 major clades (see [this blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) for details):
+我们目前定义了5个大的分支（详见[这篇博文](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming)）：We currently define 5 major clades (see [this blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) for details):
 
-* 19A and 19B emerged in Wuhan and dominated the early outbreak.
-* 20A emerged out of 19A, dominated the European outbreak in March, and has since spread globally.
-* 20B and 20C are large, genetically distinct subclades of 20A.
+* 19A 和 19B 出现在武汉，在疫情的早期占比较大。emerged in Wuhan and dominated the early outbreak.
+* 20A 来自于 19A，在3月占据了欧洲疫情，然后传播到全球。 emerged out of 19A, dominated the European outbreak in March, and has since spread globally.
+* 20B 和 20C 是 20A的两个在遗传组成上有显著差异的大的亚分支。are large, genetically distinct subclades of 20A.
 
 
 <svg viewBox="0 0 120 80">
