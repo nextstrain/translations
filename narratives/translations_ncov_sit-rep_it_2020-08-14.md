@@ -142,7 +142,9 @@ In questo report, abbiamo analizzato genomi del SARS-CoV-2 condivisi pubblicamen
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Worldwide distribution of genetic variants](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
+<!--# [Worldwide distribution of genetic variants](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)-->
+# [Distribuzione mondiale delle varianti genetiche](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
+
 
 <!--Since its emergence in late 2019, SARS-CoV-2 has diversified into several different co-circulating variants. To facilitate discussion of these variants, we have grouped them into clades which are defined by specific signature mutations.-->
 Da quando il SARS-CoV-2 è comparso, alla fine del 2019, si è diversificato in molte varianti che circolano insieme. Per facilitare la discussione intorno a queste varianti le abbiamo raggruppate in rami che sono identificati da specifiche mutazioni caratteristiche.
@@ -271,46 +273,64 @@ Questa settimana il governo neozelandese ha annunciato quattro casi di trasmissi
 _NOTA: passando il mouse sopra i cerchietti sulla mappa puoi vedere che le relative foglie nell'albero si illuminano!_
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Resurgence in Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
-
-Australia, and the state of Victoria (capitol city: Melbourne), shown here in orange, have been seeing a reemergence of COVID-19 cases and have recently implemented further public health measures to try to curb this increase.
-
-These most recent genomes all appear to be a subclade of clade 20B (scroll back to the previous slide to see how clade 20B fits into the entire phylogeny).
-The recent dates and clustering are signs of a local outbreak.
-
-We can see similar clustering in sequences from New South Wales, where cases have also increased recently.
+<!--# [Resurgence in Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)-->
+# [Ripresa del contagio in Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
 
 
-<!-- ############ SLIDE BREAK ############# -->
-# [New cases detected in New Zealand this week](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
+<!--Australia, and the state of Victoria (capitol city: Melbourne), shown here in orange, have been seeing a reemergence of COVID-19 cases and have recently implemented further public health measures to try to curb this increase.-->
+L'Australia, e lo Stato di Victoria (capitale: Melbourne), mostrate qui in arancione, hanno visto una ripresa dei casi di COVID-19 e hanno recentemente implementato ulteriori misure di sanità pubblica per cercare di limitarne la crescita.
 
-New Zealand had reported over 100 days without community transmission before detecting cases in the community this week.
-The cluster has now spread to around 30 known cases (at time of publication), primarily based in the largest city, Auckland.
+<!--These most recent genomes all appear to be a subclade of clade 20B (scroll back to the previous slide to see how clade 20B fits into the entire phylogeny).
+The recent dates and clustering are signs of a local outbreak.-->
+Questo genomi più recenti sembrano tutti essere un sottoramo del ramo 20B (torna indietro alla slide precedenti per vedere come il ramo 20B si inserisca nell'intera filogenesi).
 
-The source is not yet known, however scientists have sequenced the isolates and reported that they fall into pangolin lineage B1.1.1; so while the genomes are yet to be released they are known to fall in the region colored in blue here.
-This lineage originated in Europe, but has since been observed in multiple regions around the world.
+<!--We can see similar clustering in sequences from New South Wales, where cases have also increased recently.-->
+Possiamo vedere raggruppamenti simili nelle sequenze dal Nuovo Galles del Sud, i cui casi sono recentemente aumentati.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Early situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
+<!--# [New cases detected in New Zealand this week](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)-->
+# [Nuovi casi scoperti questa settimana in Nuova Zelanda](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
 
-SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.
+<!--New Zealand had reported over 100 days without community transmission before detecting cases in the community this week.
+The cluster has now spread to around 30 known cases (at time of publication), primarily based in the largest city, Auckland.-->
+La Nuova Zelanda ha riportato oltre 100 giorni senza trasmissioni interne alla comunità prima di trovare alcuni casi questa settimana.
 
-By the end of February, even though there were just [a few hundred cases](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) officially reported in Europe, the virus had spread to at least 15 European countries.
-
-Given that sampling was less common in the early days of the pandemic, SARS-CoV-2 was almost certainly already circulating across must of Europe, including in countries for which we don't have samples.
+<!--The source is not yet known, however scientists have sequenced the isolates and reported that they fall into pangolin lineage B1.1.1; so while the genomes are yet to be released they are known to fall in the region colored in blue here.
+This lineage originated in Europe, but has since been observed in multiple regions around the world.-->
+La fonte non è ancora nota, tuttavia gli scienziati hanno sequenziato i campioni isolati e riferito che cadono nel PANGOLIN LINEAGE B1.1.1; quindi, anche se i genomi non sono ancora stati diffusi, sappiamo che cadono nella regione qui colorata in blu.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Lockdown in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
+<!--# [Early situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)-->
+# [Situazione iniziale in Europa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
-Through March and April much of Europe closed their borders, and many imposed differing types of 'lockdown' where movement was restricted and businesses and schools closed. We expect that these restrictions decreased between-country transmission, making it more likely that we see sequences from any given country 'cluster' with previous sequences from that country.
+<!--SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.-->
+Il SARS-CoV-2 si è diffuso rapidamente attraverso l'Europa, probabilmente a partire da trasmissioni dirette dall'Asia.
 
-However, SARS-CoV-2 was already so mixed across Europe that different variants of the virus were circulating across multiple countries. Most countries had numerous distinct variants circulating before lockdown that were related to the viruses circulating in other countries. This means the phylogenetic picture remains well-mixed even after borders closed (shown by multiple colors near each other on the tree).
 
-However, we can see some signs of the local transmission that we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange (about 1/3 from the top), while Spain (dark blue) shows distinct local transmission at the bottom and top of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.
+<!--By the end of February, even though there were just [a few hundred cases](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) officially reported in Europe, the virus had spread to at least 15 European countries.-->
+Entro la fine di febbraio, anche se in Europa erano stati riferiti solo [qualche centinaio di casi](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea), il virus era diffuso in almeno 15 Stati europei.
 
-_Hint: You can expand the legend by clicking 'Country' at the top-left of the tree!_
+<!--Given that sampling was less common in the early days of the pandemic, SARS-CoV-2 was almost certainly already circulating across must of Europe, including in countries for which we don't have samples.-->
+Dato che la raccolta dei campioni era meno diffusa nei primi giorni della pandemia, il SARS-CoV-2 stava quasi certamente circolando attraverso la maggior parte dell'Europa, inclusi Paesi per cui non abbiamo campioni.
+
+
+<!-- ############ SLIDE BREAK ############# -->
+<!--# [Lockdown in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)-->
+# [Il lockdown in Europa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
+
+<!--Through March and April much of Europe closed their borders, and many imposed differing types of 'lockdown' where movement was restricted and businesses and schools closed. We expect that these restrictions decreased between-country transmission, making it more likely that we see sequences from any given country 'cluster' with previous sequences from that country.-->
+In marzo e aprile, la maggior parte dell'Europa aveva chiuso i confini, e molti hanno imposto diversi tipo di 'lockdown', in cui gli spostamenti erano ridotti e le attività economiche e le scuole chiuse. Stimiamo che queste restrizioni abbiano ridotto la trasmissione tra Paesi, rendendo più probabile vedere sequenze da ciascuna regione che si raggruppano con sequenze già identificate in quella stessa area.
+
+<!--However, SARS-CoV-2 was already so mixed across Europe that different variants of the virus were circulating across multiple countries. Most countries had numerous distinct variants circulating before lockdown that were related to the viruses circulating in other countries. This means the phylogenetic picture remains well-mixed even after borders closed (shown by multiple colors near each other on the tree).-->
+Ad ogni modo, il SARS-CoV-2 si era già mescolato così tanto in Europa che diverse varianti del virus stavano circolando in diversi Paesi. Nella maggior parte degli Stati prima del lockdown c'erano già molte varianti distinte collegate ai virus che circolavano in altri Paesi. Questo significa che l'immagine filogenetica resta ben mescolata anche dopo che i confini erano stati chiusi (qui mostrato dai diversi colori vicini gli uni agli altri sull'albero). 
+
+<!--However, we can see some signs of the local transmission that we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange (about 1/3 from the top), while Spain (dark blue) shows distinct local transmission at the bottom and top of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.-->
+Comunque, possiamo vedere alcuni segni della trasmissione locale che ci aspettavamo di vedere. Qui, la Finlandia e la Svezia hano un gruppo di trasmissione molto distintivo in verde e arancione (a circa un terzo dall'alto), mentre la Spagna (blu scuro) mostra una trasmissione locale distinta verso la base e l'apice dell'albero. L'Islanda (viola) e la Svizzera (blu chiaro) mostrano anch'ess raggruppamenti di trasmissioni locali.
+
+<!--_Hint: You can expand the legend by clicking 'Country' at the top-left of the tree!_-->
+_Suggerimento: puoi espandere la legenda cliccando su 'Country' in alto a sinistra dell'albero!_
 
 
 <!-- ############ SLIDE BREAK ############# -->
