@@ -339,42 +339,53 @@ This finding likely reflects the continued restrictions in movement globally.
 Here we show genomes from the United States epidemic from April 15 to present day. In mid-April, all U.S. states were on lockdown. 这幅图展示了美国的样本，从4月15日到今日。在四月中旬，美国所有州都进入了封锁状态。 [各州后续采取了程度不一的重启措施](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html)。
 
 In this tree, just like in the trees for other regions, we see examples of local virus transmission as shown by similarly-colored tips clustering together over time. If you click, "Explore the Data Yourself", and filter the location to Yakima County, you can see a clear example of introduction and growth of genetically related viruses into this region of Washington State. (You can also [click here](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) to do this, but you will leave the narrative.)
+在这棵树上，正如其他地区的树一样，我们看到病毒在本地传播的案例，也就是相似颜色、不同时间的样本点聚在一起。您可以点击“探索数据（Explore the Data Yourself）”，把过滤条件中的地点设为华盛顿州的亚基马（Yakima County），就可看到一个清楚的例子，遗传学上亲缘关系很近的病毒是如何进入这个地区并在这里传播的。（也可以[点击此处](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) ，但会离开本篇报告。）
 
 
 However, on the tree, we  also see within-country transmission across the U.S. as shown by mixing of colors at the tree tips. On the map, within-country transmission looks like transmission lines extending between states. These observations are consistent with few domestic travel restrictions and states' reopening policies.
+然而，在树上，我们也看到在美国内部，病毒在各地之间传播，也就是不同颜色的样本点混在一起。在地图上，国内传播被表示为在各州之间相连的线条。这些观察与美国几乎没有国内旅行限制，各州推行重启计划相一致。
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Central American sequencing shows geographically-clustered transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
+# [Central American sequencing shows geographically-clustered transmission中美洲的测序结果表明，病毒传播根据地理聚类](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
 
 There has been limited sequencing from Central America, especially over the past two months, which restricts the inferences we can draw about the epidemic. From the genomes that have been shared, we see geographic clustering of SARS-CoV-2 genomes.
+中美洲的序列相对有限，尤其是在过去的两个月内，限制了我们能对疫情所能做的推论。从已公开的基因组中，我们看到了新冠病毒基因组按照地理位置所聚集在一起。
 
 Toward the bottom of the tree in clade 19B, we see a cluster of transmission in Panama starting in mid-February. Several later sequences in Panama from June and July nest in with this cluster, suggesting there's continued local transmission of this virus genotype in the country.
+在19B这一支的底部，我们看到巴拿马的一个从二月中旬就开始的传播链。巴拿马的几条近期的六月和七月的序列处于这一簇中，表明病毒的这个基因型在该国持续本地传播。
 
 In Mexico, we also see clear geographic clustering of transmission through May. Without more recent sequencing, we cannot make inferences about the epidemic in later months.
+在墨西哥，我们也看到了清晰的在地理上的聚集，在五月中的传播。没有更近的测序数据的话，我们不能对之后的几个月的疫情进行推论。
 
 In the center of the tree, there is a cluster of cases in Baja California (in light blue). These cases were likely imported from California, USA (green branches on the tree) in March. This inferred importation is consistent with known travel links between the neighboring locations although we should be cautious about interpreting inferred transmission locations given sparse sequencing.
+在树的中部，在北下加利福尼亚州（浅蓝色）有一簇样本。这些样本很有可能是由美国的加利福尼亚州（绿色的分支）在三月输入的。这起推断的输入事件符合已知的旅行关系，在这两个相邻的地区，虽然我们应该对于解读对于传播地区的推断保持谨慎，因为测序量稀少。
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Closing summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [结语](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
 As the pandemic reaches its eighth month of global circulation, we can now see distinct changes over time in the picture painted by viral genetics, largely determined by changing behaviour.
+随着新冠病毒的全球大流行进入第八个月，我们现在可以看到疫情随着时间发生了显著的变化，而病毒的遗传学为我们描绘了这样一个图景，这样的变化很大程度上是由人们的行为变化所决定的。
 
 Multiple early transmissions to the USA, Oceania, Europe, and across Asia, were initially incredibly well-mixed, as our global travel patterns distributed the virus incredibly effectively. Soon afterwards, diverse introductions to South America and Africa, often from Europe and North America, seeded local epidemics there.
+在美国、大洋洲、欧洲和亚洲各地，早期的多起传播事件，起初是难以想象地混杂的，我们的全球旅行，以惊人的效率把病毒散布到了各地。之后很快，多样的病毒被输入到南美洲和非洲，常常是来自欧洲和北美洲，在那里撒下了本地传播的种子。
+
 
 As the scale of the viral spread and severity of COVID-19 became apparent, travel ground to a halt in much of the world. After this point, we can see a distinct shift to local transmission during 'lockdowns' and the most severe travel restrictions. One outcome of this is that we can now sometimes better identify the source for viruses, as local epidemics have in some cases become more genetically distinct. In the USA, the absence of strict domestic travel has helped maintain well-mixed epidemics between states.
 
+随着病毒传播的规模和新冠病情的恶劣程度逐步清晰，在全球的大部分地区，旅行都渐渐停止了。在这一点之后，我们可以看到一个明显的转变，在“封城”和最严格的旅行限令期间向本地传播的转变。这其中的一个后果是，我们现在有时可以更好地识别病毒的来源，因为在一些情况下，本地疫情的病毒变得在遗传上更加独特了。在美国，由于缺少严格的国内旅行限制，各州的病毒序列仍然充分混杂在一起。
+
 Borders are now re-opening and travel has resumed, though not nearly to pre-pandemic levels. This, combined with the lag time from when samples are taken to when they are available publicly, means we only see a few signs of between-country mixing. In general, recent samples tend to continue to cluster with past sequences from the same country, indicating continued transmission of previously circulating variants. 
+现在，各国正在逐步打开边境，恢复旅行，虽然还完全比不上疫情前的程度。这样的做法，加上延迟的时间，从采样到序列发布所需要的时间，意味着我们只看到一些国家间传播的标志。总体上，近期的样本倾向于继续与同一国家之前的样本相聚类，表明之前的病毒还在当地持续传播。
 
 Unfortunately, many countries have seen a rise in cases in the last few weeks, usually associated with reopening. As the Northern Hemisphere prepares to move into autumn and colder weather, further reopening, and school resuming, we must remain vigilant about rising case counts. As winter progresses in the Southern Hemisphere, we see worrying signs that seasonality could indeed lead to more trouble containing transmission - Australia's initial success with the virus has been dampened by recent outbreaks. Continuing to scale up Test, Trace, and Isolate, careful hand-hygiene, and conscientious mask-wearing can help keep our societies as open as possible while we continue to battle SARS-CoV-2.
+很遗憾，在过去的几周中，很多国家都看到了病例数的重新增长，通常是与疫情后的重启有关。随着北半球准备进入秋冬天气，进一步的重启，开学，我们必须对上涨的病例数保持警惕。随着南半球入冬，我们看到令人担忧的迹象，季节确实会对控制病毒传播带来更多困难——一开始控制疫情非常成功的澳大利亚，最近也遭遇了又一轮疫情爆发。继续扩大检测范围，对病例进行追踪和隔离，认真洗手，自觉带好口罩，可以让我们在与新冠病毒继续战斗的同事，尽可能地保持我们的社会生活。
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
+# [科学贡献人员](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+我们要感谢参与此次疫情研究的所有科学家所做的令人惊叹和及时的工作。只有通过基因组数据和元数据的快速共享，才有可能进行这样的分析。
+**我们鼓励您点击“探索数据（Explore the Data Yourself）”，然后下拉页面，查看完整的作者列表；单条序列的作者也可以通过在树上选中该序列来查看。** 
+我们也感谢 GISAID 提供了上传和共享这些数据的平台。
 
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
-
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
