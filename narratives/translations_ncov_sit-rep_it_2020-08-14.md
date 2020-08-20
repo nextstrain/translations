@@ -206,19 +206,27 @@ Nella prossima slide mostreremo una visione globale di ciascuna di queste region
 <!--A full inventory of builds maintained by us and others is available at [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).-->
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
+<!-- [Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)-->
+[Situazione in Asia precedente a Giugno](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
 
-If we examine the situation in Asia from genomes collected before June 2020, we see signs of both extensive within-Asia transmission as well as transmissions to and from other regions of the world.
+<!--If we examine the situation in Asia from genomes collected before June 2020, we see signs of both extensive within-Asia transmission as well as transmissions to and from other regions of the world.-->
+Se analizziamo la situazione in Asia usando i genomi raccolti prima di Giugno 2020, ci sono evidenze sia di una estesa trasmissione all'interno del continente Asiatico, ma anche di trasmissioni da e per altre regioni del mondo.
 
-#### Interpreting the lines and colors
+<!--#### Interpreting the lines and colors-->
+#### Come interpretare le linee e i colori
 
-Here only countries in Asia have been colored, with the other regions represented by shades of grey.
-The color of each transmission line (lines between circles) represents the origin location, so all of the **colored** lines represent transmissions originating from a country within Asia (in this example).
+<!--Here only countries in Asia have been colored, with the other regions represented by shades of grey.
+The color of each transmission line (lines between circles) represents the origin location, so all of the **colored** lines represent transmissions originating from a country within Asia (in this example).-->
+In questa visualizzazione sono state colorati solo i paesi Asiatici, mentre le altre regioni sono identificate da sfumature di grigio.
+Il colore di ogni linea di trasmissione (linee tra due cerchi) rapresenta il luogo di origine della trasmissione, quindi tutte le linee **colorate** rappresentano (in questo esempio) trasmissioni da un Paese in Asia.
 
-#### Transmissions into Asia
+<!--#### Transmissions into Asia-->
+#### Trasmissioni verso l'Asia
 
-This shows that many of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
-Especially pronounced in this view are those transmissions from Europe to Asia (though the lines seem to come from Germany, this point represents all of Europe). However, we must be cautious about how we interpret these inferred transmissions, as sampling biases can play a large role (and we have many more samples from Europe than anywhere else).
+<!--This shows that many of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
+Especially pronounced in this view are those transmissions from Europe to Asia (though the lines seem to come from Germany, this point represents all of Europe). However, we must be cautious about how we interpret these inferred transmissions, as sampling biases can play a large role (and we have many more samples from Europe than anywhere else).-->
+Questa visualizzazione mostra che molte delle trasmissioni tra Paesi Asiatici e Paesi non-Asiatici sono state delle importazioni da fuori dell'Asia in Asia (linee grigie).
+Sono molto pronunciate le trasmissioni dall'Europa verso l'Asia (anche se le linee sembra che vengano dalla Germania, questo punto rappresenta in realta' tutta Europa). In generale comunque, dobbiamo stare molto attenti a come inferiamo queste trasmissioni, dato che la disparita' nel campionamento puo' avere una grossa influenza (e abbiamo piu' campioni dall'Europa che da qualunque altro Continente)
 
 
 <!-- ############ SLIDE BREAK ############# -->
