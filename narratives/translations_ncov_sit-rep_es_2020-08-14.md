@@ -34,16 +34,16 @@ La pandemia se ha expandido en todo el mundo, con mas de [1.5 millones de casos 
 \n\n
 ### **\"Al relajar las medidas de salud publica y de distanciamiento social, implementadas para limitar la transmisión del virus, muchos países han experimentado nuevos brotes o el resurgimiento de nuevos casos. Los riegos y las vulnerabilidades se han amplificado en contextos frágiles, de escasos recursos y afectados por conflictos.\"**
 \n\n
-### The worldwide sequencing of the SARS-CoV-2 genome has continued unabated, and with this data we use Nextstrain to track the geographic movement and evolution of the virus.
-To date, there are over 75,000 sequences publicly shared from half the countries in the world - an amazing testament to the scientists and public health officials behind this.
+### El secuenciamiento global del genoma del SARS-CoV-2 ha continuado de forma sin precedente, Nexstrain usa estos datos para rastrear el movimiento geográfico y la evolución temporal del virus. 
+
+A la fecha, hay mas de 75,000 secuencias publicas compartidas por la mitad de países en el mundo – un importantísimo testimonio de los científicos y los funcionarios de salud publica detrás de estos datos.
 \n\n
-### We use subsampling approaches to remove potential sampling biases in order to ensure that regions and time-periods are appropriately included for analysis.
-(This also helps for the computational requirements.)
+### En el presente análisis, usamos métodos de muestreo para remover potenciales sesgos de selección en regiones y periodos temporales (esta estrategia también reduce los requerimientos computacionales).
 \n\n
-### Here you can see the geographical distribution of ~4300 genomes.
-Each circle is centered on an individual country, the colour indicates region and the radius scales with the number of genomes from that country ([see here for help interpreting the map in Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
+### Aquí se puede apreciar la distribución geográfica de ~4300 genomas. 
+Cada circulo esta centrado en un determinado país, el color indica la región y el tamaño del circulo el numero de genomas disponibles en el país ([ver aquí ayuda para interpretar el mapa](https://nextstrain.org/docs/visualisation/map-interpretation)).
 \n\n
-### In this report, we examine the global genomic epidemiology of COVID-19 broadly and provide specific updates for each world region.
+### En este reporte, examinamos la epidemiologia genómica del COVID-19 a nivel global, además de proveer actualizaciones para cada región del mundo.
 "
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
