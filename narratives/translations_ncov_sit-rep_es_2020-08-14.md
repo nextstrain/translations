@@ -299,9 +299,9 @@ En México, también vemos agrupamiento geográfico en todo Mayo. Sin secuencias
 En el centro del árbol, existe un conglomerado de casos en Baja California (en azul claro). Estos casos son probables importaciones del estado de California en EEUU (ramas verdes en el árbol) en Marzo. Esta importación es consistente con viajes entre localidades vecinas de México y EEUU, aunque debemos ser cautelosos en esta interpretación debido al escaso numero de secuencias.
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Closing summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [Resumen](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-As the pandemic reaches its eighth month of global circulation, we can now see distinct changes over time in the picture painted by viral genetics, largely determined by changing behaviour.
+Al alcanzar la pandemia su octavo mes de circulación mundial, podemos observar cambios temporales en la historia contada por la genética viral del SARS-CoV-2, determinada principalmente por el cambio en su comportamiento. 
 
 Multiple early transmissions to the USA, Oceania, Europe, and across Asia, were initially incredibly well-mixed, as our global travel patterns distributed the virus incredibly effectively. Soon afterwards, diverse introductions to South America and Africa, often from Europe and North America, seeded local epidemics there.
 
