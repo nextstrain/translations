@@ -334,18 +334,23 @@ _Suggerimento: puoi espandere la legenda cliccando su 'Country' in alto a sinist
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Recent European sequencing highlights local transmission and enriches understanding of previous SARS-CoV-2 spread](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
+<!--# [Recent European sequencing highlights local transmission and enriches understanding of previous SARS-CoV-2 spread](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)-->
+# [I recenti sequenziamenti europei evidenziano la trasmissione locale e arricchiscono la comprensione della precedente diffusione del SARS-CoV-2](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
 
-Examining only samples uploaded in the past week highlights two important points.
+<!--Examining only samples uploaded in the past week highlights two important points.-->
+Esaminare solo i campioni caricati nella scorsa settimana evidenzia due punti importanti.
 
-Firstly, we can see a tendency towards groupings of tips into mini-clusters. This indicates that within-country transmission is continuing to dominate - likely a product of the various regulations introduced throughout Europe. The virus continued to diversify genetically during the lockdown, but was more likely to be confined to one country, meaning we can often now better distinguish local 'variants' from those in other countries.
+<!--Firstly, we can see a tendency towards groupings of tips into mini-clusters. This indicates that within-country transmission is continuing to dominate - likely a product of the various regulations introduced throughout Europe. The virus continued to diversify genetically during the lockdown, but was more likely to be confined to one country, meaning we can often now better distinguish local 'variants' from those in other countries.-->
+In primo luogo, possiamo vedere una tendenza verso il raggruppamento delle foglie in mini-gruppi. Questo indica che la trasmissione all'interno del Paese sta continuando a dominare - come un prodotto delle varie norme introdottore in tutta Europa. Il virus ha continuato a diversificarsi geneticamente durante il lockdown, ma era più facilmente confinato all'interno di uno Stato, e ciò significa che possiamo ora individuare più facilmente 'varianti' locali di questi in altri Paesi.
 
-Some samples do not follow this trend of linking to other samples from the same country. Hovering over a country in the legend highlights tips in the tree from that country and will help identify such samples. For instance, in the middle of the tree, we can see some Swedish samples (green) nested within a larger Russian clade (red).
-Given the heavy subsampling, we need to remain cautious to not over interpret putative between-country transmissions from this view.
+<!--Some samples do not follow this trend of linking to other samples from the same country. Hovering over a country in the legend highlights tips in the tree from that country and will help identify such samples. For instance, in the middle of the tree, we can see some Swedish samples (green) nested within a larger Russian clade (red).
+Given the heavy subsampling, we need to remain cautious to not over interpret putative between-country transmissions from this view.-->
+Alcune sequenze non seguono questa tendenza di legarsi ad altre sequenze provenienti dallo stesso Stato. Girando su un Paese nella legenda evidenzia delle foglie dell'albero in quel Paese e aiuta a identificare queste sequenze. Per esempio, al centro dell'albero, possiamo vedere alcune sequenze svedesi (in verde) che si trovano all'interno di un più ampio ramo russo (rosso).
+Dato che abbiamo poche sequenze, dobbiamo fare attenzione in questa visualizzazione a non sovrainterpretare ipotetiche trasmissioni tra Stati.
 
-Secondly, we can see that the tips have a large difference in horizontal spacing -- i.e. the samples submitted in the past week represent a sample collection time window extending back to early March.
-The reasons for sequencing "old" genomes varies, but these samples help us fill in our understanding of viral evolution and geographical movement.
-
+<!--Secondly, we can see that the tips have a large difference in horizontal spacing -- i.e. the samples submitted in the past week represent a sample collection time window extending back to early March.
+The reasons for sequencing "old" genomes varies, but these samples help us fill in our understanding of viral evolution and geographical movement.-->
+In secondo luogo, possiamo vedere che le foglie presentano una grande differenza nel distanziamnto orizzontale - quindi le sequenze presentate la settimana scorsa rappresentano una finestra temporale di raccolta che va indietro fino all'inizio di marzo.
 
 <!-- ############ SLIDE BREAK ############# -->
 # [The early situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
