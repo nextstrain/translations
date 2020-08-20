@@ -191,13 +191,16 @@ These data are consistent with less recent international travel and stricter con
 Here we can explore ~790 genomes from Australia and New Zealand with an extra ~1100 sequences to provide global context.
 在这幅图中，我们可以查看澳大利亚和新西兰的约790条序列，以及约1100条其他地区的序列，来提供国际背景。
 Only samples from Australia and New Zealand are colored.
+只有澳大利亚的新西兰的样本是彩色的。
 
-
+您可以看到，这些样本遍布整棵演化树，表明大洋洲曾接受过（大部分）我们能观察到的新冠病毒的遗传多样性。
 You can see that these samples are spread throughout the tree, indicating that Oceania has been exposed to (most of) the observed genomic diversity of SARS-CoV-2.
 
+新西兰的大部分样本（蓝色、紫色、绿色）来自一个很窄的时间窗口，包括3月和4月，这是由于新西兰政府所采取的成功的管控措施。虽然新西兰已经基本回到常态，新西兰的边境仍对非公民关闭边境，来限制病毒重新输入的几率。回国的公民必须在入境之前隔离14天。
 The majority of New Zealand's samples (blues, purples, greens) come from a tight temporal band covering March and April, which is due to the successful control strategy employed by the New Zealand government. While the country is back to relative normality, the borders are still closed to all non-citizens to limit the chances for the virus to re-enter the country. Returning citizens must quarantine for 14 days before entering the country.
 
 This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls -- more below!
+
 
 _HINT: if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!_
 
