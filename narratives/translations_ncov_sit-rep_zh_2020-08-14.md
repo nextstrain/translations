@@ -114,22 +114,28 @@ abstract: "
 </svg>
 
 
-We're now looking at the distribution of these clades across the world (the color now represents clade membership).
+图中显示的是这些分支在世界各地的分布（颜色现在代表的是所属分支）。We're now looking at the distribution of these clades across the world (the color now represents clade membership).
+您可以看到，位于亚洲的国家具有19A和19B（蓝色）的比例较高，这一支在疫情的早期占比较大。
 You can see that countries in the Asia region have a higher proportion of 19A and 19B (blues) as that variant dominated in the early outbreak.
+欧洲和北美的疫情是各个分支的混合体，但是主要以20B和20C为主（分别是黄色和橙色）。
 Europe and North America have a mixture of all clades, but are dominated by 20B and 20C (yellow and orange, respectively).
 
-#### If you have SARS-CoV-2 sequences for which you'd like to know their clade (and estimated position on a phylogenetic tree), we made Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) which lets you drag-and-drop your FASTA files onto the browser.
+#### 如果你有一些新冠病毒的序列，想知道它们属于哪个分支（以及在系统发生树中所估测的位置），我们制作了Nextclade工具([clades.nextstrain.org/](https://clades.nextstrain.org/))，您可以在浏览器中把您的FASTA文件拖拽上传到该页面。If you have SARS-CoV-2 sequences for which you'd like to know their clade (and estimated position on a phylogenetic tree), we made Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) which lets you drag-and-drop your FASTA files onto the browser.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The well-publicized D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
+# [广为人知的D614G棘突蛋白突变The well-publicized D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
+棘突蛋白基因中的D614G突变最近上了新闻，是很多推测的话题中心。
 The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
 
+根据证据的积累，G型变体（本图中为黄色）在体外实验中提高了新冠病毒的感染性，有可能在演化上被选择，选择提高的人传人的几率（[Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1) ）。然而，感染力的增加可能伴随着使病毒更易受中和抗体攻击的代价（[Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)）。
 Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
-Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
+这里，我们可以看到这个变体，被推断为在病毒由动物传给人之后很快就出现了，然后传播到全球。Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
+7月，614G变体在全世界所流行的大部分病毒中都存在。从它出现以来，这个突变发生了数次，也曾回复突变为614D型变体。
 In July the 614G variant was present in the majority of circulating viruses worldwide. Since its initial appearance, the substitution has arisen multiple times and also reverted back to the 614D variant.
+
 There is no evidence that these other substitutions and reversions have resulted in continued transmission chains.
 
 
