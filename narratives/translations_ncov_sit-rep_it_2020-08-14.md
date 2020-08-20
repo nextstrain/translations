@@ -230,30 +230,41 @@ Sono molto pronunciate le trasmissioni dall'Europa verso l'Asia (anche se le lin
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Asia situation after June 1](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
+<!-- # [Asia situation after June 1](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)-->
+# [La situazione in Asia dopo il primo Giugno](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
 
-Looking at the genomes sampled after June 1 (i.e. in the past 2 months), we see that the sampling is dominated by fewer countries.
-This limits the conclusions we can draw, but it appears that we may have fewer transmissions between countries.
+<!--Looking at the genomes sampled after June 1 (i.e. in the past 2 months), we see that the sampling is dominated by fewer countries.
+This limits the conclusions we can draw, but it appears that we may have fewer transmissions between countries.-->
+Guardando solo i genomi raccolti dopo il primo Giugno (quindi negli ultimi due mesi), vediamo che il campionamento e' dominato da pochi paesi.
+Questo limita fortemente le conclusioni che possiamo trarre, ma sembra che ci siano meno trasmissioni tra Nazioni diverse.
 
-This is also evident looking at the phylogeny, where we have large monophyletic (in the same part of the tree) groupings of genomes from Singapore (yellow) and Bangladesh (light green).
+<!--This is also evident looking at the phylogeny, where we have large monophyletic (in the same part of the tree) groupings of genomes from Singapore (yellow) and Bangladesh (light green).-->
+Questo si evince anche dall'albero filogenetico in cui abbiamo grandi gruppi monofiletici (che occupano lo stesso ramo dell'albero) di genomi provenienti da Singapore (giallo) e Bangladesh (verde chiaro).
 
-These data are consistent with less recent international travel and stricter control measures.
+<!--These data are consistent with less recent international travel and stricter control measures.-->
+Questi dati sono consistenti con la recente diminuzioni dei viaggi internazionali e delle misure di controllo piu' stringenti.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Oceania overview](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
+<!--# [Oceania overview](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)-->
+# [Visione generale sull'Oceania](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
 
-Here we can explore ~790 genomes from Australia and New Zealand with an extra ~1100 sequences to provide global context.
-Only samples from Australia and New Zealand are colored.
+<!--Here we can explore ~790 genomes from Australia and New Zealand with an extra ~1100 sequences to provide global context.
+Only samples from Australia and New Zealand are colored.-->
+Qui esploriamo ~790 genomi dall'Australia e dalla Nuova Zelanda insieme ad altre ~1100 sequenze che forniscono il contesto mondiale.
+Solo le sequenze Australiane e Neozelandesi sono colorate.
 
-You can see that these samples are spread throughout the tree, indicating that Oceania has been exposed to (most of) the observed genomic diversity of SARS-CoV-2.
+<!--You can see that these samples are spread throughout the tree, indicating that Oceania has been exposed to (most of) the observed genomic diversity of SARS-CoV-2.-->
+Si vede chiaramente che queste sequenze si trovano lungo tutto l'albero, che indica che l'Oceania e' stata esposta alla (maggior parte della) variabilita' genomica di SARS-CoV-2 osservata nel mondo.
 
-The majority of New Zealand's samples (blues, purples, greens) come from a tight temporal band covering March and April, which is due to the successful control strategy employed by the New Zealand government. While the country is back to relative normality, the borders are still closed to all non-citizens to limit the chances for the virus to re-enter the country. Returning citizens must quarantine for 14 days before entering the country.
+<!--The majority of New Zealand's samples (blues, purples, greens) come from a tight temporal band covering March and April, which is due to the successful control strategy employed by the New Zealand government. While the country is back to relative normality, the borders are still closed to all non-citizens to limit the chances for the virus to re-enter the country. Returning citizens must quarantine for 14 days before entering the country.-->
+La maggior parte dei campioni provenienti dalla Nuova Zelanda (in blu, viola e verde) vengono da un intervallo temporale molto stretto che copre Marzo e Aprile. Questo e' dovuto al successo della strategia impegata dal governo Neozelandese nel controllare l'epidemia. Mentre il Paese e' ritornato ad una relativa normalita', i confini sono ancora chiusi a tutti coloro che non sono cittadini del Paese, per limitare le possibilita' che il virus ritorni nel paese. I cittadini di rtorno da altri Paesi devono comunque osservare una quarantena di 14 giorni prima di rientrare nel paese.
 
-This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls -- more below!
+<!--This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls -- more below!-->
+Questa settimana il governo Neozelandese ha annunciato quattro casi di trasmissione nella comunita' che non sono collegati a casi in arrivo da altri paesi. La sequenziazione dei campioni potrebbe essere utile per capire come SARS-CoV-2 ha aggirato i controlli -- ulteriori informazioni a seguire!
 
-_HINT: if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!_
-
+<!--_HINT: if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!_-->
+_NOTA: passando il mouse sopra i cerchietti sulla mappa puoi vedere che si illuminano le relative foglie nell'albero!_
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Resurgence in Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
