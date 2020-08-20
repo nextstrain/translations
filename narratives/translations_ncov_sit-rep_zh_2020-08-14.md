@@ -123,46 +123,39 @@ abstract: "
 <!-- ############ SLIDE BREAK ############# -->
 # [著名的棘突蛋白D614G突变](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
-棘突蛋白基因中的D614G突变最近上了新闻，是很多推测的话题中心。
+棘突蛋白基因中的D614G突变最近上了新闻，成为了很多推测的话题中心。
 The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
 
-有证据显示，G型变体（本图中为黄色）在体外实验中提高了新冠病毒的感染性，有可能因其提高的人传人的几率而在演化中被选择（[Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1) ）。然而，感染力的增加可能伴随着使病毒更易受中和抗体攻击的代价（[Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)）。
+有证据显示，G型变体（本图中为黄色）在体外实验中提高了新冠病毒的感染性，有可能因其能提高病毒在人传人过程中的传播力而在演化中被选择（[Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1) ）。然而，感染力的增加有可能伴随着使病毒更易受中和抗体攻击的代价（[Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)）。
 
-Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
-
-这里，我们可以看到这个变体，被推断为在病毒由动物传给人之后很快就出现了，然后传播到全球。Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
-7月，614G变体在全世界所流行的大部分病毒中都存在。从它出现以来，这个突变发生了数次，也曾回复突变为614D型变体。
-In July the 614G variant was present in the majority of circulating viruses worldwide. Since its initial appearance, the substitution has arisen multiple times and also reverted back to the 614D variant.
-并没有证据表明，这些后来发生的614G突变和回复成614D的突变导致了持续的传播链。
-There is no evidence that these other substitutions and reversions have resulted in continued transmission chains.
+这里，我们可以看到这个变体被推断为在病毒最初由动物传给人之后很快就出现了，然后传播到全球。Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
+七月，614G变体在全世界所流行的大部分病毒中都存在。自它首次出现以来，这个从D到G的突变发生了好几次，也曾回复突变为614D型变体。
+没有证据表明这些后产生的614G突变和回复成614D的突变导致了持续的传播链。
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [对各地区数据的分别分析Analysing regional builds independently](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
+# [对各地区数据的独立分析](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
 
-As there are too many genomes to show in a single tree, we provide a regional analysis for each of the 6 regions shown here, in addition to our main 'global' build.
-因为序列数目过多，无法在一棵演化树上全部展现，我们为图中显示的6个地区都分别提供了针对该地区的分析，在我们的主要的“全球”数据分析之外。
-This allows us to focus on the diversity within each region, while choosing appropriate out-of-region samples, so we can maintain an overview of all of the between-region transmissions over time - as we can see on this slide!
-这使我们能够关注每个地区之内的遗传多样性，并且选择合适的地区之外的的样本，所以我们能够对跨大区的传播随着时间的变化保持整体的把握——正如此图所示。
+因为序列数目过多，无法在一棵演化树上全部显示，在我们的主要的“全球”数据分析之外，我们还为图中显示的6个地区提供了针对每个地区的分析。
 
-In the next slides we're going to provide an overview of each of those regions by switching to the corresponding dataset. (This is a new feature in Nextstrain Narratives!)
-在下面的页面中，我们会对每一个地区提供整体的概括，通过转到相对应的数据集。（这也是 Nextstrain 报告的新功能！）
+这样，我们就能够关注每个地区内部的遗传多样性，并且选择合适的“外地”样本，让我们能够对病毒随时间变化的跨地区的传播情况保持一个整体的把握——正如此图所示。
 
-A full inventory of builds maintained by us and others is available at [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
-由我们和其他人所维护的数据分析的全部列表请见[nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/) 。
+在下面的页面中，我们会逐一转到相应的数据集，对每一个地区的情况加以概述。（这也是 Nextstrain 报告的新功能！）
+
+由我们和其他人所维护的数据集的完整列表请见[nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/) 。
 
 <!-- ############ SLIDE BREAK ############# -->
-# [亚洲地区六月前的情况Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
+# [亚洲六月前的情况](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
 
 如果我们查看在2020年6月前所采集的基因组数据，来了解亚洲的情况，我们看到，既有广泛的亚洲地区内的传播，又有对世界其他地区的输入和输出。If we examine the situation in Asia from genomes collected before June 2020, we see signs of both extensive within-Asia transmission as well as transmissions to and from other regions of the world.
 
-#### 图中的线条和颜色Interpreting the lines and colors
+#### 图中的线条和颜色
 
-图中，只有亚洲的国家有颜色，亚洲外的地区为灰色。Here only countries in Asia have been colored, with the other regions represented by shades of grey.
-The color of each transmission line (lines between circles) represents the origin location, so all of the **colored** lines represent transmissions originating from a country within Asia (in this example).
-每一条传播的线（圆圈之间的连线）的颜色代表病毒所来自的地点，所以所有 **彩色的** 线条代表病毒来源于亚洲内的国家（在这幅图中）。
+图中只有亚洲的国家为彩色，亚洲外的地区为灰色。
 
-#### 输入亚洲的病例Transmissions into Asia
+传播线（圆圈之间的连线）的颜色代表病毒来自的地点，所以所有 **彩色的** 线条都代表病毒来源于亚洲内的国家（在这幅图中）。
+
+#### 输入亚洲的病例
 
 图中显示，很多亚洲和非亚洲国家的传播属于输入病例（灰色线条）。This shows that many of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
 在这幅图中格外明显的是从欧洲传入亚洲的病例（虽然图中的线看起来像是来自德国，但这个点代表欧洲全体）。
@@ -171,7 +164,7 @@ Especially pronounced in this view are those transmissions from Europe to Asia (
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [亚洲地区在6月1日之后的情况Asia situation after June 1](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
+# [亚洲在6月1日之后的情况](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
 
 现在我们来看6月1日之后（也就是在过去的两个月内）采集到的基因组数据，我们看到样本所主要来自的国家变少了。Looking at the genomes sampled after June 1 (i.e. in the past 2 months), we see that the sampling is dominated by fewer countries.
 这给我们下结论增加了一些限制，但是看起来，在国家之间的病毒传播可能是变少了。
