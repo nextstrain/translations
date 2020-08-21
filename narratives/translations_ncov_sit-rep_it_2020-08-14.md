@@ -353,21 +353,28 @@ The reasons for sequencing "old" genomes varies, but these samples help us fill 
 In secondo luogo, possiamo vedere che le foglie presentano una grande differenza nel distanziamnto orizzontale - quindi le sequenze presentate la settimana scorsa rappresentano una finestra temporale di raccolta che va indietro fino all'inizio di marzo.
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The early situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
+<!-- # [The early situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)--> 
+# [Situazione iniziale in America del sud](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
 
-South America's first SARS-CoV-2 sequences are from late February and early March, and are scattered across the tree, suggesting multiple introductions. As international travel decreased in March, we can see evidence of sustained local transmission in several countries.
+<!-- South America's first SARS-CoV-2 sequences are from late February and early March, and are scattered across the tree, suggesting multiple introductions. As international travel decreased in March, we can see evidence of sustained local transmission in several countries.--> 
+La prime sequenze di SARS-CoV-2 dell' America del sud sono di fine febbraio e inzio marzo e sono sparse sull'albero, suggerendo introduzioni multiple. Poiché i viaggi internazionali sono diminuiti a marzo, possiamo vedere prove di una trasmissione locale mantenuta in diversi paesi.
 
-Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence that this variant also moved around the continent to Chile, Uruguay, and Argentina.
+<!--  Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence that this variant also moved around the continent to Chile, Uruguay, and Argentina. --> 
+Molte delle sequenze dal Brasile (verde chiaro) sono parte di due grandi gruppi (vicino alla cima dell'albero) ci sono alcune prove che questa variante si sia spostata in tutto il continente in Cile, Uruguay e Argentina. 
 
-We can also see distinct clusters of transmission involving Colombia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree.
+<!--We can also see distinct clusters of transmission involving Colombia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree. --> 
+Possiamo anche notare diversi gruppi di trasmissione che coinvolgono la Colombia (arancione), il Cile (turchese), Uruguay (blu chiaro) e l'Argentina( blu scuro)  sparsi nell'albero
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The more recent situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
+<!-- # [The more recent situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)-->
+# [la situazione recente in America del sud](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
 
-Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.
+<!-- Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.-->
+Sfortunatamente, mentre il virus SARS-CoV-2 continua ampiamente a diffondersi in America del sub, la generazione di sequenze non ha mantenuto lo stesso ritmo. Sebbene il numero di casi rimanga alto attraverso la maggiorparte del continente, solo 68 sequenze da 5 nazioni (Brasile, Ecuador, Uruguay,Argentina e Cile) sono state condivise da maggio. 
 
-Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the varients circulating now are descendants of those introduced early in the epidemic.
+<!-- Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the varients circulating now are descendants of those introduced early in the epidemic.--> 
+Sebbene le nostre inferenze matematiche sui dati sono limitate dallo scarso numero di sequenze, in molti casi questi campioni più recenti si annidano nella diversità precedente campionata nello stesso paese o in altri paesi sudamericani. Ciò suggerisce che le varietà che circolano ora sono discendenti di quelle introdotte all'inizio dell'epidemia.
 
 
 <!-- ############ SLIDE BREAK ############# -->
