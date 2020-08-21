@@ -312,11 +312,11 @@ COVID-19 のウイルスの広がりの規模と深刻さが明らかになる�
 残念なことに、多くの国ではここ数週間で症例数が増加しており、通常は再開に関連しています。北半球では、秋に向けて寒さが厳しくなり、更なる再開や学校の再開しつつのため、私たちは症例数の増加に引き続き警戒しなければなりません。南半球では冬が進むにつれ、季節性が感染を食い止めるのにさらなる困難をもたらす可能性があることが懸念されます。オーストラリアのウイルスに対する初期の成功は、最近の流行によって弱まっています。SARS-CoV-2 との戦いを続ける中で、検査、追跡、隔離の規模を拡大し続け、手指の衛生管理に気を配り、きちんとしたマスクの着用を続けることは、私たちの社会を可能な限りオープンに保つのに役立ちます。
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
+# [分析データのクレジット](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+私たちはこの感染症流行の中において、関係したすべての科学者による驚くべきタイムリーな研究に謝意を表します。 
+この分析は世界中の科学者や医師によるゲノム配列や病例に関するメタデータの共有があって可能になりました。
 
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+**「データを自分で調べる」（Explore the Data Yourself）をクリックし、下にスクロールして著者の全リストを表示することをお勧めします。ツリーで遺伝子情報を選択すると、個々の遺伝子情報の作成者を利用できます。**
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+また、これらのデータをアップロードおよび共有できるプラットフォームを提供してくれた GISAID にも感謝します。
