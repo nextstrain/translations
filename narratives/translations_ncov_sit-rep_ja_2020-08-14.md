@@ -251,12 +251,11 @@ _ヒント：ツリーの左上にある「国」をクリックすると凡例�
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The more recent situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
+# [南米の最近の状況](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
 
-Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.
+残念なことに、南米では SARS-CoV-2 が広く普及し続けていますが、配列の解析が追いついていませんでした。南米大陸の多くの地域で症例数は依然として多いが、5 月以降、5 カ国（ブラジル、エクアドル、ウルグアイ、アルゼンチン、チリ）からのサンプルが68件しか共有されていない。
 
-Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the varients circulating now are descendants of those introduced early in the epidemic.
-
+サンプリングがまばらなために我々の推論は限られているが、多くの場合、これらのより最近のサンプルは、同じ国や他の南米諸国で採取された以前のウィルス「亜種」とリンクしている。このことは、現在流通している品種は、伝染病の初期に導入された品種の子孫であることを示唆しています。
 
 <!-- ############ SLIDE BREAK ############# -->
 # [SARS-CoV-2 in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
