@@ -258,12 +258,12 @@ _ヒント：ツリーの左上にある「国」をクリックすると凡例�
 サンプリングがまばらなために我々の推論は限られているが、多くの場合、これらのより最近のサンプルは、同じ国や他の南米諸国で採取された以前のウィルス「亜種」とリンクしている。このことは、現在流通している品種は、伝染病の初期に導入された品種の子孫であることを示唆しています。
 
 <!-- ############ SLIDE BREAK ############# -->
-# [SARS-CoV-2 in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+# [アフリカのSARS-CoV-2](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
 
-Like South America, Africa had several introductions of SARS-CoV-2 to the continent, many likely from Europe. This is shown by the spread of African samples across the tree - even samples from the same country include diverse variants.
+南米と同様に、アフリカでもSARS-CoV-2が何度か大陸に導入されており、その多くはヨーロッパからのものと考えられています。これは、アフリカのサンプルがツリー全体に広がっていることで示されています - 同じ国からのサンプルであっても、多様な亜種が含まれています。
 
-We now have sequences from countries across Africa throughout the epidemic, though sequencing efforts seem to have declined slightly more recently.
-South Africa has contributed a large proportion of the sequencing.
+現在私たちは、アフリカ全土の国々からの配列入手していますが、最近では配列決定の努力が少しずつ低下しているように見えます。
+今まで南アフリカから提供されているデータはウィルスの配列でも重要な一部です。
 
 
 <!-- ############ SLIDE BREAK ############# -->
