@@ -221,7 +221,7 @@ By the end of February, even though there were just [a few hundred cases](https:
 
 3月から4月にかけて、ヨーロッパの多くの国が国境を閉鎖し、移動が制限されたり、企業や学校が閉鎖されたりする様々なタイプの「ロックダウン」が行われました。このような制限により、国間の伝播が減少し、ある国の配列がその国の以前の配列と「クラスター」する可能性が高くなると予想されます。
 
-しかし、SARS-CoV-2はすでにヨーロッパ全体で非常に混ざり合っていたため、ウイルスの異なる亜種が複数の国で広げていました。ほとんどの国では、ロックダウンの前に、他国からのウイルスに関連した多数の異なる亜種がすでに流行していました。 これによって、国境を閉鎖した後も系統図が極めて混ざっていることを意味します（木の上で互いに近くに複数の色があることで示されています）。
+しかし、SARS-CoV-2はすでにヨーロッパ全体で非常に混ざり合っていたため、ウイルスの異なる遺伝型が複数の国で広げていました。ほとんどの国では、ロックダウンの前に、他国からのウイルスに関連した多数の異なる遺伝型がすでに流行していました。 これによって、国境を閉鎖した後も系統図が極めて混ざっていることを意味します（木の上で互いに近くに複数の色があることで示されています）。
 
 それでも、私たちが予測しているような局所的な伝達の兆候がいくつかも見られます。ここでは、フィンランドとスウェーデンは、緑とオレンジ色（上から約1/3）で非常にはっきりとした伝播のクラスターを示し、またスペイン（紺色）は、木の下と上ではっきりとした局所的な伝播を示しています。アイスランド（紫）とスイス（水色）もまた、局所的なクラスターを示しています。
 
@@ -233,7 +233,7 @@ _ヒント：ツリーの左上にある「国」をクリックすると凡例�
 
 過去1週間にアップロードされたサンプルだけを調べてみると、2 つの重要なポイントが浮かび上がってきます。
 
-一つ、前にグループにしてたチップ（元々近かったの複数の葉）からミニクラスター（小規模な枝）に発展している傾向が見られます。これは、各国内での伝播が初期の広げた後も引き続き支配することを示しており、このような結果はヨーロッパ全土で導入された様々な規制の産物である可能性も高いでしょう。ウイルスはロックダウン中も遺伝的に多様化し続けましたが、1つの国に限定されている可能性が高く、現階段では他国からの「亜種」をよりよく区別できるようになりました。
+一つ、前にグループにしてたチップ（元々近かったの複数の葉）からミニクラスター（小規模な枝）に発展している傾向が見られます。これは、各国内での伝播が初期の広げた後も引き続き支配することを示しており、このような結果はヨーロッパ全土で導入された様々な規制の産物である可能性も高いでしょう。ウイルスはロックダウン中も遺伝的に多様化し続けましたが、1つの国に限定されている可能性が高く、現階段では他国からの遺伝型をよりよく区別できるようになりました。
 
 同じ国の他のサンプルとより強くリンクするというこの傾向に従わないサンプルもあります。凡例の国の上にカーソルを置くと、その国の木のヒントがハイライトされ、そのようなサンプルを識別するのに役立ちます。例えば、木の中央には、スウェーデンのサンプル（緑）が、より大きなロシアのクラッド（赤）の中に入れ子になっているのが見えます。しかしサンプリングが一部の国で異常に多くことを考えると、この見解に基づいて、国間伝播の結論を過剰に解釈しないように慎重になる必要があります。
 
@@ -255,12 +255,12 @@ _ヒント：ツリーの左上にある「国」をクリックすると凡例�
 
 残念なことに、南米では SARS-CoV-2 が広く普及し続けていますが、配列の解析が追いついていませんでした。南米大陸の多くの地域で症例数は依然として多いが、5 月以降、5 カ国（ブラジル、エクアドル、ウルグアイ、アルゼンチン、チリ）からのサンプルが68件しか共有されていない。
 
-サンプリングがまばらなために我々の推論は限られているが、多くの場合、これらのより最近のサンプルは、同じ国や他の南米諸国で採取された以前のウィルス「亜種」とリンクしている。このことは、現在流通している品種は、伝染病の初期に導入された品種の子孫であることを示唆しています。
+サンプリングがまばらなために我々の推論は限られているが、多くの場合、これらのより最近のサンプルは、同じ国や他の南米諸国で採取された以前のウィルス遺伝型とリンクしている。このことは、現在流通している品種は、伝染病の初期に導入された品種の子孫であることを示唆しています。
 
 <!-- ############ SLIDE BREAK ############# -->
 # [アフリカのSARS-CoV-2](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
 
-南米と同様に、アフリカでもSARS-CoV-2が何度か大陸に導入されており、その多くはヨーロッパからのものと考えられています。これは、アフリカのサンプルがツリー全体に広がっていることで示されています - 同じ国からのサンプルであっても、多様な亜種が含まれています。
+南米と同様に、アフリカでもSARS-CoV-2が何度か大陸に導入されており、その多くはヨーロッパからのものと考えられています。これは、アフリカのサンプルがツリー全体に広がっていることで示されています - 同じ国からのサンプルであっても、多様な遺伝型が含まれています。
 
 現在私たちは、アフリカ全土の国々からの配列入手していますが、最近では配列決定の努力が少しずつ低下しているように見えます。
 今まで南アフリカから提供されているデータはウィルスの配列でも重要な一部です。
@@ -273,7 +273,7 @@ _ヒント：ツリーの左上にある「国」をクリックすると凡例�
 セネガルと南アフリカでは、より最近に採取されたサンプルもあります。
 これらのサンプルは一般的に、局所的な伝播が継続していることを予想して、この国の前のウィルスから発展した例です。
 
-我々の結論は非常に偏ったサンプリングによって大きく制限されているため、慎重にならざるを得ませんが、我々が入手したアフリカからの最近のサンプルは、他の場所からの亜種の継続的な輸入はほぼないと示唆する。
+我々の結論は非常に偏ったサンプリングによって大きく制限されているため、慎重にならざるを得ませんが、我々が入手したアフリカからの最近のサンプルは、他の場所からの遺伝型の継続的な輸入はほぼないと示唆する。
 このことは、世界中に人口移動が制限され続けていることによっての成果と、私たちが考えています。
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -299,17 +299,17 @@ _ヒント：ツリーの左上にある「国」をクリックすると凡例�
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Closing summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [まとめ](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-As the pandemic reaches its eighth month of global circulation, we can now see distinct changes over time in the picture painted by viral genetics, largely determined by changing behaviour.
+パンデミックが世界的な循環のその 8 ヶ月目に達すると、私たちは今、このウイルスの遺伝学によって描かれた絵の中で、主にウィルス生理上の変化に決定される明確な変化を、時間の経過とともに観察ができます。
 
-Multiple early transmissions to the USA, Oceania, Europe, and across Asia, were initially incredibly well-mixed, as our global travel patterns distributed the virus incredibly effectively. Soon afterwards, diverse introductions to South America and Africa, often from Europe and North America, seeded local epidemics there.
+米国、オセアニア、ヨーロッパ、アジア全域への複数の初期感染は極めて混合されていたことが、私たちのグローバルな旅行パターンが信じられないほど効果的にウイルスを分散していた結果です。その後すぐに、南米やアフリカへの伝染が、しばしばヨーロッパや北米から導入され、そこでの局所的な伝染病の種となりました。
 
-As the scale of the viral spread and severity of COVID-19 became apparent, travel ground to a halt in much of the world. After this point, we can see a distinct shift to local transmission during 'lockdowns' and the most severe travel restrictions. One outcome of this is that we can now sometimes better identify the source for viruses, as local epidemics have in some cases become more genetically distinct. In the USA, the absence of strict domestic travel has helped maintain well-mixed epidemics between states.
+COVID-19 のウイルスの広がりの規模と深刻さが明らかになると、世界の多くの地域で旅行が止まりました。この時点以降、「ロックダウン」と最も厳しい旅行制限の間に、局所的な伝染への明確なシフトが見られるようになりました。この結果の一つは、局所的なウィルスがより遺伝的に区別されるようになったことで、ウイルスの感染源をより正確に特定できるようになったことです。米国では、国内旅行の厳格な制限がないことで、州間の混合伝播が維持されています。
 
-Borders are now re-opening and travel has resumed, though not nearly to pre-pandemic levels. This, combined with the lag time from when samples are taken to when they are available publicly, means we only see a few signs of between-country mixing. In general, recent samples tend to continue to cluster with past sequences from the same country, indicating continued transmission of previously circulating variants. 
+現在、国境は再開され、旅行も再開されていますが、パンデミック前のレベルにまでは達していません。これは、サンプルが採取されてから公開されるまでの時間の遅れと相まって、国家間の混合の兆候がわずかに見られるだけであることを意味しています。一般的に、最近のサンプルは、同じ国の過去の配列とクラスター化し続ける傾向があり、前に流通していた遺伝型の伝播が継続していることを示しています。
 
-Unfortunately, many countries have seen a rise in cases in the last few weeks, usually associated with reopening. As the Northern Hemisphere prepares to move into autumn and colder weather, further reopening, and school resuming, we must remain vigilant about rising case counts. As winter progresses in the Southern Hemisphere, we see worrying signs that seasonality could indeed lead to more trouble containing transmission - Australia's initial success with the virus has been dampened by recent outbreaks. Continuing to scale up Test, Trace, and Isolate, careful hand-hygiene, and conscientious mask-wearing can help keep our societies as open as possible while we continue to battle SARS-CoV-2.
+残念なことに、多くの国ではここ数週間で症例数が増加しており、通常は再開に関連しています。北半球では、秋に向けて寒さが厳しくなり、更なる再開や学校の再開しつつのため、私たちは症例数の増加に引き続き警戒しなければなりません。南半球では冬が進むにつれ、季節性が感染を食い止めるのにさらなる困難をもたらす可能性があることが懸念されます。オーストラリアのウイルスに対する初期の成功は、最近の流行によって弱まっています。SARS-CoV-2 との戦いを続ける中で、検査、追跡、隔離の規模を拡大し続け、手指の衛生管理に気を配り、きちんとしたマスクの着用を続けることは、私たちの社会を可能な限りオープンに保つのに役立ちます。
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Scientific credit](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
