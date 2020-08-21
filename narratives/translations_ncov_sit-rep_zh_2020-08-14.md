@@ -277,7 +277,7 @@ _提示：可以点击树左上角的“国家（Country）”来展开图例_
 
 在民主刚果、塞内加尔和南非，我们可以清楚地看到本地传播的标志，也就是序列在演化树上聚集成簇的现象。
 我们还获得了塞内加尔和南非近期收集的样本。
-这些样本基本上处于本国之前的遗传多样性范围之内，符合病毒正持续进行本地传播的特征。
+这些样本的遗传多样性基本上处于本国早期的样本的范围之内，符合病毒正持续进行本地传播的特征。
 Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere.
 虽然我们必须对下结论保持谨慎，因为取样的高度偏差极大地限制了结论的可靠性，但是根据我们所获得的近期的非洲样本，证据不支持，还存在其他地区对该地的输入。
 This finding likely reflects the continued restrictions in movement globally.
