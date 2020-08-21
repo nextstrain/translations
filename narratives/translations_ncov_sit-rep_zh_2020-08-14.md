@@ -252,46 +252,36 @@ _提示：可以点击树左上角的“国家（Country）”来展开图例_
 <!-- ############ SLIDE BREAK ############# -->
 # [南美洲早期的情况](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
 
-南美的最早的新冠病毒序列是采集于二月下旬和三月上旬，并散布在全树各处，表明当地经历了多起输入事件。随着国际旅行在三月的减少，我们可以从数据中看到，一些国家存在持续的本地传播。
-巴西（浅绿色）的很多序列都属于两个大的样本簇中（接近树的顶部）。证据表明，这个变体也在南美大陆上传播，到达了智利、乌拉圭和阿根廷。
+南美的最早的新冠病毒序列是采集于二月下旬和三月上旬，并散布在全树各处，表明当地经历了多起输入事件。随着国际旅行在三月的减少，我们可以在几个国家中看到病毒持续进行本地传播的证据。
+巴西（浅绿色）的很多序列都归属于两个大的样本簇中（接近树的顶部）。证据也表明，这个变体也曾在南美大陆上传播，到达了智利、乌拉圭和阿根廷。
 
-We can also see distinct clusters of transmission involving Colombia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree.
-我们也可以看到不同的传播链，包括哥伦比亚（橙色）、智利（蓝绿色）、乌拉圭（浅蓝色）、阿根廷（深蓝色），散布于树的各处。
-
-<!-- ############ SLIDE BREAK ############# -->
-# [南美洲近期的情况The more recent situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
-
-Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.
-很遗憾，虽然新冠病毒仍然在南美洲广泛传播，对它的测序并未能保持相同的步伐。虽然在南美洲仍存在很高的病例数，五月以来，只有来自五个国家（巴西、厄瓜多尔、乌拉圭、阿根廷和智利）的68个样本得以发布。
-
-Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the varients circulating now are descendants of those introduced early in the epidemic.
-虽然我们的推断受到了低样本量的限制，在很多情况下，这些近期的样本与在同一国家或者其他南美国家取得的早期遗传多样性之内。这表明，现在正流行的病毒是疫情早期输入的病毒的后代。
+我们也可以看到哥伦比亚（橙色）、智利（蓝绿色）、乌拉圭（浅蓝色）、阿根廷（深蓝色）等地的独立的传播链，散布于树的各处。
 
 <!-- ############ SLIDE BREAK ############# -->
-# [新冠病毒在非洲SARS-CoV-2 in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+# [南美洲近期的情况](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
 
-Like South America, Africa had several introductions of SARS-CoV-2 to the continent, many likely from Europe. This is shown by the spread of African samples across the tree - even samples from the same country include diverse variants.
-与南美洲的情况类似，非洲曾经历了多起输入事件，可能很多来自欧洲。这可以从非洲样本散布在演化树各处看出来——即使是来自于同一国家的样本，都包括不同的遗传变体。
+很遗憾，虽然新冠病毒仍然在南美洲广泛传播中，对它的测序却并未能保持相同的步伐。虽然南美洲大部分地区的病例数仍居高不下，但五月以来，只有来自五个国家（巴西、厄瓜多尔、乌拉圭、阿根廷和智利）的68个样本序列得以发布。
 
-We now have sequences from countries across Africa throughout the epidemic, though sequencing efforts seem to have declined slightly more recently.
-South Africa has contributed a large proportion of the sequencing.
-我们现在有疫情全程的来自非洲各国的序列，虽然最近测序工作似乎稍有减少。
+虽然我们的推论受到了低样本量的限制，但是在遗传多样性方面，这些近期的样本常常位于同一国家或者其他南美国家的早期样本的遗传多样性的范围内，表明现在正在当地流行的病毒是疫情早期输入的病毒的后代。
+
+<!-- ############ SLIDE BREAK ############# -->
+# [新冠病毒在非洲](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
+
+与南美洲的情况类似，非洲曾经历多起输入事件，很多可能是来自欧洲。这一点可以从非洲样本散布在演化树各处推断出来——即使是来自于同一国家的样本，也包含了各种不同的遗传变异。
+我们现在获得了疫情全程的来自非洲各国的序列，尽管最近的测序工作似乎稍有减少。
 南非贡献了一大部分的序列。
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [非洲的聚类Clustering in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
+# [非洲序列聚集成簇](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
 
-In the DRC, Senegal, and South Africa, we can see clear signs of local transmission, shown as clusters of sequences in the tree.
-From Senegal and South Africa, we also have samples collected more recently.
-These samples generally fall within the older diversity of the country, as we would expect from continued local transmission.
-在民主刚果、塞内加尔和南非，我们可以看到明显的本地传播的标志，也就是序列在演化树上聚集成簇的现象。
-对于塞内加尔和南非，我们也有近期收集的样本。
-这些样本基本上处于本国之前的遗传组成之内，与持续的本地传播的预期相符。
+在民主刚果、塞内加尔和南非，我们可以清楚地看到本地传播的标志，也就是序列在演化树上聚集成簇的现象。
+我们还获得了塞内加尔和南非近期收集的样本。
+这些样本基本上处于本国之前的遗传多样性范围之内，符合病毒正持续进行本地传播的特征。
 Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere.
-虽然我们必须对下结论保持谨慎，因为取样是有高度偏差的，但是我们所有的非洲近期的样本不支持，还存在其他地区对该地的输入。
+虽然我们必须对下结论保持谨慎，因为取样的高度偏差极大地限制了结论的可靠性，但是根据我们所获得的近期的非洲样本，证据不支持，还存在其他地区对该地的输入。
 This finding likely reflects the continued restrictions in movement globally.
-这个结果很有可能是全球仍有旅行限制的结果。
+这很有可能是全球仍有旅行限制的结果。
 
 
 <!-- ############ SLIDE BREAK ############# -->
