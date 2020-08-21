@@ -277,17 +277,17 @@ _ヒント：ツリーの左上にある「国」をクリックすると凡例�
 このことは、世界中に人口移動が制限され続けていることによっての成果と、私たちが考えています。
 
 <!-- ############ SLIDE BREAK ############# -->
-# [United States epidemic is a mixture of local and within-country transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
+# [米国の流行は局所的なものと国内での伝播が混在している](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
 
-Here we show genomes from the United States epidemic from April 15 to present day. In mid-April, all U.S. states were on lockdown. [States have since implemented heterogeneous reopening policies](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
+ここでは、4月15日から現在に至るまでの米国の伝染病のゲノムを示しています。4月中旬、米国の全州が封鎖されていました。[各州はその後、一致しない再開政策を実施して来ました。](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html)
 
-In this tree, just like in the trees for other regions, we see examples of local virus transmission as shown by similarly-colored tips clustering together over time. If you click, "Explore the Data Yourself", and filter the location to Yakima County, you can see a clear example of introduction and growth of genetically related viruses into this region of Washington State. (You can also [click here](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) to do this, but you will leave the narrative.)
+このツリーでは、他の地域のツリーと同様に、時間の経過とともに同系色の先端（ツリーの葉）が群がっていることから、局所的なウイルス感染の例を見ることができます。「Explore the Data Yourself」をクリックして、場所を「Yakima County」選択し、ワシントン州のこの地域への遺伝的に関連したウイルスの導入と感染拡大による明確な例を見ることができます。(同じ結果は[ここ](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid)をクリックしても見られますが、このページを一時的に閉じてしまいます)。
 
-However, on the tree, we  also see within-country transmission across the U.S. as shown by mixing of colors at the tree tips. On the map, within-country transmission looks like transmission lines extending between states. These observations are consistent with few domestic travel restrictions and states' reopening policies.
+しかし逆に、ツリー上で木の先端で色が混ざっている状態も、アメリカ国内での一部の感染を示しています。地図上では、米国内の伝播は、少なくとも一部が州間に伸びる伝播ルートからのように見えます。これらの観察結論は、国内旅行の制限が少なく、各州の厳密ではない再開政策と一致しています。
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Central American sequencing shows geographically-clustered transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
+# [中米の塩基配列決定は地理的にクラスタ化された伝播を示している](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
 
 There has been limited sequencing from Central America, especially over the past two months, which restricts the inferences we can draw about the epidemic. From the genomes that have been shared, we see geographic clustering of SARS-CoV-2 genomes.
 
