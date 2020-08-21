@@ -368,7 +368,7 @@ Possiamo anche notare diversi gruppi di trasmissione che coinvolgono la Colombia
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- # [The more recent situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)-->
-# [la situazione recente in America del sud](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
+# [Situazione recente in America del sud](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
 
 <!-- Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.-->
 Sfortunatamente, mentre il virus SARS-CoV-2 continua ampiamente a diffondersi in America del sub, la generazione di sequenze non ha mantenuto lo stesso ritmo. Sebbene il numero di casi rimanga alto attraverso la maggiorparte del continente, solo 68 sequenze da 5 nazioni (Brasile, Ecuador, Uruguay,Argentina e Cile) sono state condivise da maggio. 
