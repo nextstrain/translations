@@ -32,16 +32,16 @@ La pandemia se ha expandido en todo el mundo, con mas de [1.5 millones de casos 
 \n\n
 ### La situación [fue resumida por la OMS el 2 de Agosto del 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
-### **\"Al relajar las medidas de salud publica y de distanciamiento social, implementadas para limitar la transmisión del virus, muchos países han experimentado nuevos brotes o el resurgimiento de nuevos casos. Los riegos y las vulnerabilidades se han amplificado en contextos frágiles, de escasos recursos y afectados por conflictos.\"**
+### **\"Al relajar las medidas de salud pública y de distanciamiento social, implementadas para limitar la transmisión del virus, muchos países han experimentado nuevos brotes o el resurgimiento de nuevos casos. Los riesgos y las vulnerabilidades se han amplificado en contextos frágiles, de escasos recursos y afectados por conflictos.\"**
 \n\n
 ### El secuenciamiento global del genoma del SARS-CoV-2 ha continuado de forma sin precedente, Nexstrain usa estos datos para rastrear el movimiento geográfico y la evolución temporal del virus. 
 
-A la fecha, hay mas de 75,000 secuencias publicas compartidas por la mitad de países en el mundo – un importantísimo testimonio de los científicos y los funcionarios de salud publica detrás de estos datos.
+A la fecha, hay mas de 75,000 secuencias públicas compartidas por la mitad de países en el mundo – un importantísimo testimonio de los científicos y los funcionarios de salud pública detrás de estos datos.
 \n\n
 ### En el presente análisis, usamos métodos de muestreo para remover potenciales sesgos de selección en regiones y periodos temporales (esta estrategia también reduce los requerimientos computacionales).
 \n\n
 ### Aquí se puede apreciar la distribución geográfica de ~4300 genomas. 
-Cada circulo esta centrado en un determinado país, el color indica la región y el tamaño del circulo el numero de genomas disponibles en el país ([ver aquí ayuda para interpretar el mapa](https://nextstrain.org/docs/visualisation/map-interpretation)).
+Cada círculo esta centrado en un determinado país, el color indica la región y el tamaño del círculo el numero de genomas disponibles en el país ([ver aquí ayuda para interpretar el mapa](https://nextstrain.org/docs/visualisation/map-interpretation)).
 \n\n
 ### En este reporte, examinamos la epidemiologia genómica del COVID-19 a nivel global, además de proveer actualizaciones para cada región del mundo.
 "
@@ -54,19 +54,19 @@ Cada circulo esta centrado en un determinado país, el color indica la región y
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- table of contents slide -->
-# [Resumen COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [Resúmen COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
 ### Tabla de contenidos
-* [Distribucion global de los clados](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [Mutacion D614G en el gen Spike](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
+* [Distribución global de los clados](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
+* [Mutación en la Proteína Spike D614G](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
 * [Situación en Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
 * [Situación en Oceanía](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
 * [Situación en Europa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
 * [Situación en Sudamérica](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
 * [Situación en África](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Situación en Norte América](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Resumen](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Creditos](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+* [Situación en Norteamérica](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
+* [Resúmen](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
+* [Créditos](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
 
 #### Recursos Nextstrain
 * [EMPIEZA AQUÍ: Como leer filogenias/arboles filogenéticos](https://nextstrain.org/narratives/trees-background/)
@@ -76,25 +76,25 @@ Cada circulo esta centrado en un determinado país, el color indica la región y
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Resumen Ejecutivo
+# Resúmen Ejecutivo
 
 En este repote, analizamos genomas de SARS-CoV-2 compartidos públicamente. Al comparar estos genomas virales uno contra el otro, podemos caracterizar cómo el COVID-19 se está moviendo alrededor del mundo y esparciendo localmente.
 
-- Asia tiene una proporción mas alta de los clados 19A y 19B, con los clados 20A, 20B y 20C dominando en Europa y América del Norte.
+- Asia tiene una proporción mas alta de los clados 19A y 19B, con los clados 20A, 20B y 20C dominando en Europa y Norteamérica.
 
 - Globalmente, podemos ver de forma clara el crecimiento hacia la prominencia de la sustitución D614G en la Proteína Spike. Esta variante es hipotéticamente la responsable de un incremento en la transmisión del SARS-CoV-2.
 
-- Para exhibir mejor versiones en tiempo real del SARS-CoV-2 alrededor del mundo, mantenemos 6 versiones regionales y 1 global, que son actualizadas cada día hábil de la semana.
+- Para exhibir mejores versiones en tiempo real del SARS-CoV-2 alrededor del mundo, mantenemos 6 versiones regionales y 1 global, que son actualizadas cada día hábil de la semana.
 
-- En Asia, existieron numerosas transmisiones entre países de la región durante el principio de la pandemia. Más recientemente observamos un movimiento hacia vínculos dentro de los países, una tendencia que se observe en gran parte de las regiones.
+- En Asia, existieron numerosas transmisiones entre países de la región durante el principio de la pandemia. Más recientemente observamos un movimiento hacia vínculos dentro de los países, una tendencia que se observa en gran parte de las regiones.
 
-- En Oceanía, los casos de Nueva Zelanda están contenidos en una estrecha banda temporal, correspondiente a su eliminación del virus (hasta esta semana). El reciente aumento de caos de Australia aparece, al menos en las muestras compartidas hasta ahora, como un apretado cúmulo de casos provenientes de diversidades previamente circulantes.
+- En Oceanía, los casos de Nueva Zelanda están contenidos en una estrecha banda temporal, correspondiente a su eliminación del virus (hasta esta semana). El reciente aumento de casos de Australia aparece, al menos en las muestras compartidas hasta ahora, como un apretado cúmulo de casos provenientes de diversidades previamente circulantes.
 
-- El SARS-CoV-2 se expandió extremadamente rápido en Europa - el virus estaba probablemente transmitiendose en muchos países antes de que se percataran. Esto ha resultado en una mezcla intensa de muestras al principio de la pandemia, haciendo dificil distinguir e identificar introducciones de un lugar a otro. Mas recientemente podemos observar variantes mas diferenciadas y asociadas con paises específicos, ya que los virus han sido contenidos a través de las restricciones de viaje.
+- El SARS-CoV-2 se expandió extremadamente rápido en Europa - el virus estaba probablemente transmitiéndose en muchos países antes de que se percataran. Esto ha resultado en una mezcla intensa de muestras al principio de la pandemia, haciendo dificil distinguir e identificar introducciones de un lugar a otro. Más recientemente podemos observar variantes mas diferenciadas y asociadas con paises específicos, ya que los virus han sido contenidos a través de las restricciones de viaje.
 
-- Al igual que otras regiones, América del Sur tuvo múltiples introducciones, cubriendo la mayor parte de la diversidad conocida del SARS-CoV-2. Luego de entrar en vigencia las restricciones de viaje, las secuencias comenzaron a agruparse de forma mas notoria. Desafortunadamente, y a pesar de las epidemias en curso en muchos paises, no hay disponibles secuencias mas recientes.
+- Al igual que otras regiones, Sudamérica tuvo múltiples introducciones, cubriendo la mayor parte de la diversidad conocida del SARS-CoV-2. Luego de entrar en vigencia las restricciones de viaje, las secuencias comenzaron a agruparse de forma mas notoria. Desafortunadamente, y a pesar de las epidemias en curso en muchos paises, no hay secuencias mas recientes disponibles.
 
-- África también ha tenido múltiples y diversas introducciones temprano en la pandemia. La restricciones de viaje subsiguientes parecen haber limitado la mezcla entre paises africanos, con la mayoría de las secuencias aparentemente derivando de circulaciones mas tempranos dentro del mismo país
+- África también ha tenido múltiples y diversas introducciones temprano en la pandemia. Las restricciones de viaje subsiguientes parecen haber limitado la mezcla entre paises africanos, con la mayoría de las secuencias aparentemente derivando de circulaciones mas tempranas dentro del mismo país.
 
 - Una imagen diferente se observa en los EEUU, donde los viajes domésticos no han sido grandemente restringidos: observamos mezclas entre todos los Estados, al igual que transmisión local. En México y Centroamérica, observamos ejemplos de cúmulos geográficos de transmisión, particularmente entre California (EEUU) y Baja California (México).
 
@@ -102,9 +102,9 @@ En este repote, analizamos genomas de SARS-CoV-2 compartidos públicamente. Al c
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Distribución Mundial de Variantes Genéticas](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
+# [Distribución mundial de variantes genéticas](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
-Desde su surgimiento a fines de 2019, el SARS-CoV-2 se ha diversificado en varias y distintas variantes co-circulantes. Para facilitar la discusión de estas variantes las hemos agrupada en clados que son definidos por mutaciones distintivas.
+Desde su surgimiento a fines de 2019, el SARS-CoV-2 se ha diversificado en varias y distintas variantes co-circulantes. Para facilitar la discusión de estas variantes las hemos agrupado en clados que son definidos por mutaciones distintivas.
 
 Actualmente definimos 5 clados (ver [este post del blog](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) para detalles):
 
@@ -130,7 +130,7 @@ Europa y América del Norte tienen una mezcla de todos los clados, per se encuen
 
 La substitución D614G en el código genético de la Proteína Spike (S) ha estado en las noticias recientemente y ha sido tema de mucha especulación.
 
-La evidencia que se está desarrolando muestra que la variante G (amarillo en esta vista) incrementa la infectividad del SARS-CoV-2 _in vitro_ y puede que haya sido evolutivamente seleccionada para un incremento en la transmisión Humano-a-Humano ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). Sin embargo, un increment en la infectividad, puede que venga potencialmente al costo de hacer al virus mas vulnerable para los anticuerpos neutralizantes. ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
+La evidencia que se está desarrolando muestra que la variante G (amarillo en esta vista) incrementa la infectividad del SARS-CoV-2 _in vitro_ y puede que haya sido evolutivamente seleccionada para un incremento en la transmisión Humano-a-Humano ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). Sin embargo, un incremento en la infectividad, puede que venga potencialmente al costo de hacer al virus mas vulnerable frente a los anticuerpos neutralizantes. ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
 Aquí podemos ver que esta variante fue inferida de haber aparecido poco después de la zoonosis inicial y subsecuentemente se esparció alrededor del mundo.
 En Julio la variante 614G se encontraba presente en la mayoría de los virus circulantes alrededor del mundo. Desde su aparición inicial, la sustitución ha surgido en múltiples ocasiones y también se ha revertido hacia la variante 614D.
@@ -138,12 +138,12 @@ No hay evidencia de que esas otras sustituciones y reversiones hayan resultado e
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Analizando Versiones Regionales independientemente](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
+# [Analizando versiones regionales independientemente](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
 
 Al haber demasiados genomas para mostrar en un único árbol, proveemos un análisis regional para cada una de las 6 regiones mostradas aquí, además de nuestra versión global.
 Esto nos permite enfocarnos en la diversidad dentro de cada región, al tiempo que elegimos muestras adecuadas fuera de esa región, para poder mantener un panorama de todas las transmisiones entre-regiones a lo largo del tiempo - ¡como podemos ver en esta sección!
 
-En las siguientes secciones vamos a proveer un panorama de cada una de esas regiones al cambiar entre la correspondiente base de datos. (¡Esta es una nueva característica de las Narrativas de Nextstrain!)
+En las siguientes secciones vamos a proveer un panorama de cada una de esas regiones al cambiar entre la correspondiente base de datos. (¡Una nueva característica de las Narrativas de Nextstrain!)
 
 Un inventario completo de las versiones mantenidas por nosotros y otros se encuentra disponible en [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
 
