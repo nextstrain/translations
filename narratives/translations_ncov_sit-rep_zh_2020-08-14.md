@@ -267,7 +267,7 @@ _提示：可以点击树左上角的“国家（Country）”来展开图例_
 <!-- ############ SLIDE BREAK ############# -->
 # [新冠病毒在非洲](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
 
-与南美洲的情况类似，非洲曾经历多起输入事件，很多可能是来自欧洲。这一点可以从非洲样本散布在演化树各处推断出来——即使是来自于同一国家的样本，也包含了各种不同的遗传变异。
+与南美洲的情况类似，非洲曾经历多起输入事件，多数可能源于欧洲。这一点可以从非洲样本散布在演化树各处推断出来——即使是来自于同一国家的样本，也包含了各种不同的遗传变异。
 我们现在获得了疫情全程的来自非洲各国的序列，尽管最近的测序工作似乎稍有减少。
 南非贡献了一大部分的序列。
 
@@ -279,6 +279,9 @@ _提示：可以点击树左上角的“国家（Country）”来展开图例_
 我们还获得了塞内加尔和南非近期收集的样本。
 这些样本的遗传多样性基本上处于本国早期的样本的范围之内，符合病毒正持续进行本地传播的特征。
 Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere.
+虽然
+Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere.
+Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere
 虽然我们必须对下结论保持谨慎，因为取样的高度偏差极大地限制了结论的可靠性，但是根据我们所获得的近期的非洲样本，证据不支持，还存在其他地区对该地的输入。
 This finding likely reflects the continued restrictions in movement globally.
 这很有可能是全球仍有旅行限制的结果。
