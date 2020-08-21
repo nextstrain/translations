@@ -224,7 +224,7 @@ Se analizziamo la situazione in Asia usando i genomi raccolti prima di giugno 20
 <!--Here only countries in Asia have been colored, with the other regions represented by shades of grey.
 The color of each transmission line (lines between circles) represents the origin location, so all of the **colored** lines represent transmissions originating from a country within Asia (in this example).-->
 In questa visualizzazione sono stati colorati solo i Paesi asiatici, mentre le altre regioni sono identificate da sfumature di grigio.
-Il colore di ogni linea di trasmissione (linee tra due cerchi) rappresenta il luogo di origine della trasmissione, quindi tutte le linee **colorate** rappresentano (in questo esempio) trasmissioni da un Paese che si trova in Asia.
+Il colore di ogni linea di trasmissione (linee tra due cerchi) rappresenta il luogo di origine della trasmissione, quindi tutte le linee **colorate** rappresentano (in questo esempio) trasmissioni da un Paese Asiatico.
 
 <!--#### Transmissions into Asia-->
 #### Trasmissioni verso l'Asia
@@ -283,9 +283,10 @@ L'Australia, e lo Stato di Victoria (capitale: Melbourne), mostrate qui in aranc
 <!--These most recent genomes all appear to be a subclade of clade 20B (scroll back to the previous slide to see how clade 20B fits into the entire phylogeny).
 The recent dates and clustering are signs of a local outbreak.-->
 Questo genomi più recenti sembrano tutti essere un sottoramo del ramo 20B (torna indietro alla slide precedenti per vedere come il ramo 20B si inserisca nell'intera filogenesi).
+Il fatto che le date siano tutte recenti e che i campioni siano geneticamente molto simili sono evidenze di un focolaio locale.
 
 <!--We can see similar clustering in sequences from New South Wales, where cases have also increased recently.-->
-Possiamo vedere raggruppamenti simili nelle sequenze dal Nuovo Galles del Sud, i cui casi sono recentemente aumentati.
+Possiamo vedere raggruppamenti simili nelle sequenze dal Nuovo Galles del Sud, in cui casi sono recentemente aumentati.
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -295,11 +296,12 @@ Possiamo vedere raggruppamenti simili nelle sequenze dal Nuovo Galles del Sud, i
 <!--New Zealand had reported over 100 days without community transmission before detecting cases in the community this week.
 The cluster has now spread to around 30 known cases (at time of publication), primarily based in the largest city, Auckland.-->
 La Nuova Zelanda ha riportato oltre 100 giorni senza trasmissioni interne alla comunità prima di trovare alcuni casi questa settimana.
+Il focolaio conta ormai una trentina di casi (al momento della pubblicazione), sopratuuto nella citta' piu' grande del paese, Auckland.
 
 <!--The source is not yet known, however scientists have sequenced the isolates and reported that they fall into pangolin lineage B1.1.1; so while the genomes are yet to be released they are known to fall in the region colored in blue here.
 This lineage originated in Europe, but has since been observed in multiple regions around the world.-->
-La fonte non è ancora nota, tuttavia gli scienziati hanno sequenziato i campioni isolati e riferito che cadono nel PANGOLIN LINEAGE B1.1.1; quindi, anche se i genomi non sono ancora stati diffusi, sappiamo che cadono nella regione qui colorata in blu.
-
+La fonte del contagio non è ancora nota, tuttavia gli scienziati hanno sequenziato i campioni isolati e riferito che fanno parte del lineage derivante dal pangolino B1.1.1; quindi, anche se i genomi non sono ancora stati diffusi, sappiamo che cadono nella regione qui colorata in blu.
+Questa variante ha avuto origine in Europa, ma e' stata osservata in molteplici regioni nel mondo.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!--# [Early situation in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)-->
@@ -321,13 +323,13 @@ Dato che la raccolta dei campioni era meno diffusa nei primi giorni della pandem
 # [Il lockdown in Europa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
 
 <!--Through March and April much of Europe closed their borders, and many imposed differing types of 'lockdown' where movement was restricted and businesses and schools closed. We expect that these restrictions decreased between-country transmission, making it more likely that we see sequences from any given country 'cluster' with previous sequences from that country.-->
-In marzo e aprile, la maggior parte dell'Europa aveva chiuso i confini, e molti hanno imposto diversi tipo di 'lockdown', in cui gli spostamenti erano ridotti e le attività economiche e le scuole chiuse. Stimiamo che queste restrizioni abbiano ridotto la trasmissione tra Paesi, rendendo più probabile vedere sequenze da ciascuna regione che si raggruppano con sequenze già identificate in quella stessa area.
+In marzo e aprile, la maggior parte dell'Europa ha chiuso i suoi confini, e molti paesi hanno imposto diversi tipo di 'lockdown', in cui gli spostamenti sono stati ridotti e le attività economiche e le scuole chiuse. Stimiamo che queste restrizioni abbiano ridotto la trasmissione tra Paesi, rendendo più probabile vedere sequenze da ciascuna regione che si raggruppano con sequenze già identificate in quella stessa area.
 
 <!--However, SARS-CoV-2 was already so mixed across Europe that different variants of the virus were circulating across multiple countries. Most countries had numerous distinct variants circulating before lockdown that were related to the viruses circulating in other countries. This means the phylogenetic picture remains well-mixed even after borders closed (shown by multiple colors near each other on the tree).-->
 Ad ogni modo, il SARS-CoV-2 si era già mescolato così tanto in Europa che diverse varianti del virus stavano circolando in diversi Paesi. Nella maggior parte degli Stati prima del lockdown c'erano già molte varianti distinte collegate ai virus che circolavano in altri Paesi. Questo significa che l'immagine filogenetica resta ben mescolata anche dopo che i confini erano stati chiusi (qui mostrato dai diversi colori vicini gli uni agli altri sull'albero). 
 
 <!--However, we can see some signs of the local transmission that we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange (about 1/3 from the top), while Spain (dark blue) shows distinct local transmission at the bottom and top of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.-->
-Comunque, possiamo vedere alcuni segni della trasmissione locale che ci aspettavamo di vedere. Qui, la Finlandia e la Svezia hano un gruppo di trasmissione molto distintivo in verde e arancione (a circa un terzo dall'alto), mentre la Spagna (blu scuro) mostra una trasmissione locale distinta verso la base e l'apice dell'albero. L'Islanda (viola) e la Svizzera (blu chiaro) mostrano anch'ess raggruppamenti di trasmissioni locali.
+Comunque, possiamo vedere alcuni segni della trasmissione locale che ci aspettavamo di vedere. Qui, la Finlandia e la Svezia hanno un gruppo di trasmissione molto distintivo in verde e arancione (a circa un terzo dall'alto), mentre la Spagna (blu scuro) mostra una trasmissione locale distinta verso la base e l'apice dell'albero. L'Islanda (viola) e la Svizzera (blu chiaro) mostrano anch'esse raggruppamenti di trasmissioni locali.
 
 <!--_Hint: You can expand the legend by clicking 'Country' at the top-left of the tree!_-->
 _Suggerimento: puoi espandere la legenda cliccando su 'Country' in alto a sinistra dell'albero!_
@@ -341,7 +343,7 @@ _Suggerimento: puoi espandere la legenda cliccando su 'Country' in alto a sinist
 Esaminare solo i campioni caricati nella scorsa settimana evidenzia due punti importanti.
 
 <!--Firstly, we can see a tendency towards groupings of tips into mini-clusters. This indicates that within-country transmission is continuing to dominate - likely a product of the various regulations introduced throughout Europe. The virus continued to diversify genetically during the lockdown, but was more likely to be confined to one country, meaning we can often now better distinguish local 'variants' from those in other countries.-->
-In primo luogo, possiamo vedere una tendenza verso il raggruppamento delle foglie in mini-gruppi. Questo indica che la trasmissione all'interno del Paese sta continuando a dominare - come un prodotto delle varie norme introdottore in tutta Europa. Il virus ha continuato a diversificarsi geneticamente durante il lockdown, ma era più facilmente confinato all'interno di uno Stato, e ciò significa che possiamo ora individuare più facilmente 'varianti' locali di questi in altri Paesi.
+In primo luogo, possiamo vedere una tendenza verso il raggruppamento delle foglie in mini-gruppi. Questo indica che la trasmissione all'interno del Paese sta continuando a dominare - come un prodotto delle varie norme introdotte in tutta Europa. Il virus ha continuato a diversificarsi geneticamente durante il lockdown, ma era più facilmente confinato all'interno di uno Stato, e ciò significa che possiamo ora individuare più facilmente 'varianti' locali di questi in altri Paesi.
 
 <!--Some samples do not follow this trend of linking to other samples from the same country. Hovering over a country in the legend highlights tips in the tree from that country and will help identify such samples. For instance, in the middle of the tree, we can see some Swedish samples (green) nested within a larger Russian clade (red).
 Given the heavy subsampling, we need to remain cautious to not over interpret putative between-country transmissions from this view.-->
