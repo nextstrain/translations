@@ -207,65 +207,53 @@ _提示：将鼠标悬停在地图中的圆圈上，该地区所对应的样本�
 
 在发现本周的病例之前，新西兰已有超过100天没有报告过本地传播的病例了。
 截至本报告发布之时，此次疫情已经传播产生了30例已知病例，主要位于该国最大的城市奥克兰。
-引发此次疫情的病毒的来源尚属未知，然而，科学家已经对病例的样本进行测序，并报告说病例属于“B1.1.1”这一分支。所以，虽然基因组还没有公开，我们已经知道这些样本在演化树上应该位于本图中的蓝色区域内。
-这个分支起源于欧洲，但世界上多个地区也都曾检测到它的存在。
+引发此次疫情的病毒的来源尚属未知，然而，科学家已经对此次病例的样本进行测序，并报告说它们属于“B1.1.1”这一分支。所以，虽然这些样本的基因组还没有公开，我们已经知道它们在演化树上应该位于本图中的蓝色区域内。
+这个分支起源于欧洲，但此后世界上多个地区也都曾检测到过它的存在。
 
 
 <!-- ############ SLIDE BREAK ############# -->
 # [欧洲的早期情况](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
-新冠病毒曾快速地在欧洲全境传播，主要来源很有可能是由亚洲的直接输入。
-尽管当时欧洲的官方报告只有[几百例](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea)，病毒在二月底之前已经传到了至少15个欧洲国家。
-
-Given that sampling was less common in the early days of the pandemic, SARS-CoV-2 was almost certainly already circulating across must of Europe, including in countries for which we don't have samples.
-由于疫情早期的样本不多，新冠病毒几乎是肯定在欧洲大部分国家都已经在传播了，包括我们没有样本的国家。
+新冠病毒曾快速地在欧洲全境传播，主要来源很有可能是亚洲的直接输入。
+尽管当时欧洲的官方报告只有[几百例](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea)，截至二月底，病毒已经传到了至少15个欧洲国家。
+由于疫情早期的样本不多，我们几乎可以肯定，新冠病毒当时已经在欧洲大部分国家中传播了，包括我们没有获得样本的国家。
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Lockdown in Europe](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
+# [欧洲的封锁措施](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
 
-Through March and April much of Europe closed their borders, and many imposed differing types of 'lockdown' where movement was restricted and businesses and schools closed. We expect that these restrictions decreased between-country transmission, making it more likely that we see sequences from any given country 'cluster' with previous sequences from that country.
-在三月和四月，欧洲的大部分地区都关闭了边境，很多国家实施了不同程度的“封城”，限制了出行，关闭了商店和学校。我们预期，这些限制会降低国与国之间的传播，让我们更容易看到，一个国家的序列与该国之前的序列“聚集”在一起。
+三月和四月，欧洲的大部分地区都关闭了边境，很多国家实施了不同程度的“封锁”措施，限制了人们的出行，关闭了商店和学校。我们预期这些限制措施会减少病毒在国家之间的传播，让我们更容易看到一个国家的序列与该国之前的序列“聚集”在一起。
 
-However, SARS-CoV-2 was already so mixed across Europe that different variants of the virus were circulating across multiple countries. Most countries had numerous distinct variants circulating before lockdown that were related to the viruses circulating in other countries. This means the phylogenetic picture remains well-mixed even after borders closed (shown by multiple colors near each other on the tree).
-然而，新冠病毒在欧洲的大量混杂，使得该病毒的不同变体都在多个国家同时传播。大多数国家都有大量的不同的与其他国家的病毒亲缘关系紧密的变体，在封城之前。这意味着，在系统发生树上，即使在边境关闭之后，各国的序列仍然充分混杂在一起（在树上表现为，不同的颜色的点相靠近）。
+然而，欧洲各国的疫情在此前已经严重地混杂在一起，使得病毒的各种不同变体（variants）都在多个国家同时传播。在封锁之前，大多数国家都有很多与其他国家的病毒亲缘关系很紧密的变体。这意味着即使在关闭边境之后，各国的序列在系统发生树上仍然充分地混杂在一起（在树上表现为不同颜色的点相靠近）。
 
-However, we can see some signs of the local transmission that we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange (about 1/3 from the top), while Spain (dark blue) shows distinct local transmission at the bottom and top of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.
-然而，我们可以看到一些所预期的本地传播的迹象。这里，芬兰和瑞典，分别是绿色和橙色，有一个非常独特的簇（位于树的上方约三分之一处），而西班牙（深蓝色）在树的上部和底部都有一个独立的本地传播簇。冰岛（紫色）和瑞士（淡蓝色）也表现出了本地传播的簇。
+
+然而，我们可以看到一些我们预期会发生的本地传播的迹象。在这幅图中，绿色的芬兰序列和和橙色的瑞典序列非常明显地聚成了一簇（位于树的上方约三分之一处），而西班牙（深蓝色）在树的上部和底部都各有一簇序列，表明存在本地传播。冰岛（紫色）和瑞士（淡蓝色）也表现出了本地传播的序列簇。
 
 _提示：可以点击树左上角的“国家（Country）”来展开图例_
 
-_Hint: You can expand the legend by clicking 'Country' at the top-left of the tree!_
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [近期欧洲的测序工作表明了本地传播的存在，丰富了我们对之前新冠病毒传播的认识Recent European sequencing highlights local transmission and enriches understanding of previous SARS-CoV-2 spread](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
+# [欧洲近期的测序工作揭示了本地传播的存在，也增进了我们对之前疫情的认识](https://nextstrain.org/ncov/europe/2020-08-10?d=tree&f_recency=3-7%20days%20ago,New,1-2%20days%20ago&f_region=Europe&p=full&legendOpen)
 
-Examining only samples uploaded in the past week highlights two important points.
-分析在上一周上传的样本数据，我们可以得到两个重要的信息。
+通过分析在上一周上传的样本数据，我们可以得到两个重要的信息。
 
-Firstly, we can see a tendency towards groupings of tips into mini-clusters. This indicates that within-country transmission is continuing to dominate - likely a product of the various regulations introduced throughout Europe. The virus continued to diversify genetically during the lockdown, but was more likely to be confined to one country, meaning we can often now better distinguish local 'variants' from those in other countries.
-首先，我们可以看到一个趋势，树枝的尖端聚成了小的簇。这表明，国境内传播仍持续占大部分——很有可能是欧洲各国所采取的各种防疫措施的产物。病毒在封城期间在遗传上仍然在多样化，但更有可能是局限在一个国家之内，意味着我们现在可以常常更好的区分把本地的变异和其他国家的区分开来。
+首先我们可以看到一个趋势，图中演化树的树枝的末端倾向于聚成小型的簇，这表明病毒仍主要是在国境之内传播——很有可能是欧洲各国采取的各种防疫措施所起到的效果。在封锁期间，病毒仍在继续演化，产生各种不同的遗传变异，但它的活动范围更有可能被局限在一个国家之内，意味着我们现在往往可以更容易地把本地的变异和其他国家的区分开来。
 
-Some samples do not follow this trend of linking to other samples from the same country. Hovering over a country in the legend highlights tips in the tree from that country and will help identify such samples. For instance, in the middle of the tree, we can see some Swedish samples (green) nested within a larger Russian clade (red).
-一些样本并没有遵循这个趋势，与同一国家的其他样本有所关联。把鼠标悬停在图例中的国家上，就可以在树上显示该国的样本，可以让我们看到这样的样本。比如，在树的中部，我们就看到一些瑞典的样本（绿色）位于一个俄国样本组成的一大支之中（红色）。
-Given the heavy subsampling, we need to remain cautious to not over interpret putative between-country transmissions from this view.
-因为我们在子抽样的过程中抽掉了很多样本，我们需要保持谨慎，不要过度解读，这幅图中可能反应出的跨国传播。
+有一些样本则不符合这个趋势，它们并未与同一国家的其他样本有所关联。我们可以通过把鼠标悬停在图例中的国家名称上方，在树上突出显示该国的样本，来找到这一类别的样本。比如，在树的中部，我们可以看到一些瑞典的样本（绿色）位于俄国样本（红色）所组成的一个较大的分支之中。
 
-Secondly, we can see that the tips have a large difference in horizontal spacing -- i.e. the samples submitted in the past week represent a sample collection time window extending back to early March.
-其次，我们可以看到，树枝的末端之间的水平距离相差很大——也就是说，上周提交的样本代表了一个很宽的取样时间窗口，一直包括到三月上旬。
-The reasons for sequencing "old" genomes varies, but these samples help us fill in our understanding of viral evolution and geographical movement.
-对这些“老样本”进行基因组测序是出于不同的原因，但是这些样本帮助我们填充了对病毒演化和地理迁移的理解。
+由于我们在子抽样的过程中抽掉了很多样本，我们需要保持谨慎，不要对图中推测出的跨国传播现象进行过度的解读。
+
+其次，我们可以看到，树枝的末端之间的水平距离相差很大——也就是说，这些上周提交上来的样本的取样时间很广，从三月上旬到现在都包括在内。
+
+对这些“老样本”进行基因组测序是出于各种各样的原因，但是这些样本也填充了我们对于新冠病毒演化和地理迁移的理解上的空白。
 
 
 <!-- ############ SLIDE BREAK ############# -->
 # [南美洲早期的情况](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
 
-South America's first SARS-CoV-2 sequences are from late February and early March, and are scattered across the tree, suggesting multiple introductions. As international travel decreased in March, we can see evidence of sustained local transmission in several countries.
-南美的第一条新冠病毒序列是来自二月下旬和三月上旬，并散布全树，表明有多次输入事件。随着三月国际旅行的减少，我们可以看到在一些国家存在持续的本地传播的证据。
-
-Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence that this variant also moved around the continent to Chile, Uruguay, and Argentina.
-巴西（浅绿色）的很多序列都属于两个大的样本簇（接近树的顶部），有一些证据，这个变体也在南美大陆上传播，到达了智利、乌拉圭和阿根廷。
+南美的最早的新冠病毒序列是采集于二月下旬和三月上旬，并散布在全树各处，表明当地经历了多起输入事件。随着国际旅行在三月的减少，我们可以从数据中看到，一些国家存在持续的本地传播。
+巴西（浅绿色）的很多序列都属于两个大的样本簇中（接近树的顶部）。证据表明，这个变体也在南美大陆上传播，到达了智利、乌拉圭和阿根廷。
 
 We can also see distinct clusters of transmission involving Colombia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree.
 我们也可以看到不同的传播链，包括哥伦比亚（橙色）、智利（蓝绿色）、乌拉圭（浅蓝色）、阿根廷（深蓝色），散布于树的各处。
