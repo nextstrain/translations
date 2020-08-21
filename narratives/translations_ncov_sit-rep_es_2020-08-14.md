@@ -20,7 +20,7 @@ translators:
   - Claudio S. Fuente
   - Miguel I. Paredes
 translatorLinks:
-  - https://researchers.uq.edu.au/researcher/18392/
+  - https://researchers.uq.edu.au/researcher/18392
   - https://twitter.com/ClaudioSFuente1
   - https://twitter.com/miguelp1120
 license: "CC-BY"
@@ -57,19 +57,19 @@ Cada círculo esta centrado en un determinado país, el color indica la región 
 # [Resumen COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
 ### Tabla de contenidos
-* [Distribución global de los clados](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [Mutación en la Proteína Spike D614G](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Situación en Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Situación en Oceanía](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Situación en Europa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Situación en Sudamérica](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Situación en África](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Situación en Norteamérica](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Resumen](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Créditos](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+* [Distribución global de los clados](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-08-14?n=2)
+* [Mutación en la Proteína Spike D614G](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-08-14?n=3)
+* [Situación en Asia](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-08-14?n=5)
+* [Situación en Oceanía](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-08-14?n=7)
+* [Situación en Europa](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-08-14?n=10)
+* [Situación en Sudamérica](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-08-14?n=13)
+* [Situación en África](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-08-14?n=15)
+* [Situación en Norteamérica](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-08-14?n=17)
+* [Resumen](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-08-14?n=19)
+* [Créditos](https://nextstrain.org/narratives/ncov/sit-rep/es/2020-08-14?n=20)
 
 #### Recursos Nextstrain
-* [EMPIEZA AQUÍ: Como leer filogenias/arboles filogenéticos](https://nextstrain.org/narratives/trees-background/)
+* [EMPIEZA AQUÍ: Como leer filogenias/arboles filogenéticos](https://nextstrain.org/narratives/trees-background/es)
 * [Reportes de la situación del COVID19 previos](https://nextstrain.org/ncov-sit-reps/)
 * [Información adicional de los virus corona](https://nextstrain.org/help/coronavirus/human-CoV)
 
@@ -181,7 +181,7 @@ La mayor parte de las muestras de Nueva Zelandia (en azul, morado, y verde) prov
 
 Esta semana, el gobierno anunció cuatro nuevos casos de transmisión comunitaria, aparentemente no relacionados con ninguno de los ciudadanos retornados. El secuenciamiento genómico podría proporcionar claves para saber como el SARS-CoV-2 superó los estrictos controles fronterizos (¡ver mas abajo!).
 
-_DATO: si desplazas el cursor sobre los círculos en el mapa, las terminaciones relevantes del árbol se observan resaltadas.
+_DATO: si desplazas el cursor sobre los círculos en el mapa, las terminaciones relevantes del árbol se observan resaltadas._
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Resurgimiento en Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
