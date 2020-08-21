@@ -157,8 +157,8 @@ The D614G substitution in the gene coding for the Spike (S) protein has been in 
 
 #### 输入亚洲的病例
 
-图中显示，很多亚洲和非亚洲国家的传播属于输入病例（灰色线条）。This shows that many of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
-在这幅图中格外明显的是从欧洲传入亚洲的病例（虽然图中的线看起来像是来自德国，但这个点代表欧洲全体）。
+图中显示，很多与亚洲和非亚洲国家的有关的传播事件是输入亚洲的病例（以灰线表示）。This shows that many of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
+在这幅图中，从欧洲传入亚洲的病例格外明显（注意虽然图中的线看起来像是来自德国，但这个点代表欧洲全体）。
 然而，我们必须谨慎，如何解读这些推断的传播链，因为取样偏差可能有很大影响（我们获得的欧洲样本比其他地方都多）。
 Especially pronounced in this view are those transmissions from Europe to Asia (though the lines seem to come from Germany, this point represents all of Europe). However, we must be cautious about how we interpret these inferred transmissions, as sampling biases can play a large role (and we have many more samples from Europe than anywhere else).
 
@@ -166,7 +166,7 @@ Especially pronounced in this view are those transmissions from Europe to Asia (
 <!-- ############ SLIDE BREAK ############# -->
 # [亚洲在6月1日之后的情况](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
 
-现在我们来看6月1日之后（也就是在过去的两个月内）采集到的基因组数据，我们看到样本所主要来自的国家变少了。Looking at the genomes sampled after June 1 (i.e. in the past 2 months), we see that the sampling is dominated by fewer countries.
+现在我们来看6月1日之后（也就是在过去的两个月内）采集到的基因组数据，我们看到提供样本的主要国家变少了。Looking at the genomes sampled after June 1 (i.e. in the past 2 months), we see that the sampling is dominated by fewer countries.
 这给我们下结论增加了一些限制，但是看起来，在国家之间的病毒传播可能是变少了。
 This limits the conclusions we can draw, but it appears that we may have fewer transmissions between countries.
 
@@ -179,64 +179,46 @@ These data are consistent with less recent international travel and stricter con
 <!-- ############ SLIDE BREAK ############# -->
 # [大洋洲概况](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
 
-Here we can explore ~790 genomes from Australia and New Zealand with an extra ~1100 sequences to provide global context.
-在这幅图中，我们可以查看澳大利亚和新西兰的约790条序列，以及约1100条其他地区的序列，来提供国际背景。
-Only samples from Australia and New Zealand are colored.
-只有澳大利亚的新西兰的样本是彩色的。
+在这幅图中，我们可以查看澳大利亚和新西兰的约790条序列，以及约1100条来自其他地区、能够提供全球背景信息的序列。
+只有澳大利亚的新西兰的样本以彩色显示。
 
-您可以看到，这些样本遍布整棵演化树，表明大洋洲曾接受过（大部分）我们能观察到的新冠病毒的遗传多样性。
+您可以看到，该地区的样本散布在演化树的各处，表明大洋洲曾接受过（大部分）我们能观察到的新冠病毒的遗传多样性。
 You can see that these samples are spread throughout the tree, indicating that Oceania has been exposed to (most of) the observed genomic diversity of SARS-CoV-2.
 
-新西兰的大部分样本（蓝色、紫色、绿色）来自一个很窄的时间窗口，包括3月和4月，这是由于新西兰政府所采取的成功的管控措施。虽然新西兰已经基本回到常态，新西兰的边境仍对非公民关闭边境，来限制病毒重新输入的几率。回国的公民必须在入境之前隔离14天。
-The majority of New Zealand's samples (blues, purples, greens) come from a tight temporal band covering March and April, which is due to the successful control strategy employed by the New Zealand government. While the country is back to relative normality, the borders are still closed to all non-citizens to limit the chances for the virus to re-enter the country. Returning citizens must quarantine for 14 days before entering the country.
+新西兰的大部分样本（蓝色、紫色、绿色）都来自一个很窄的时间窗口，也就是三月和四月之内，这是由于新西兰政府所采取了较为成功的管控措施。虽然新西兰的社会已经基本回到常态，但该国仍对非公民关闭边境，来降低病毒重新输入的几率。回国的公民必须在入境之前隔离14天。
 
-This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls -- more below!
-本周，新西兰政府发布，发现四个社区传播的新病例，不能追溯到境外输入的来源。基因测序或许能够帮助发现新冠病毒是如何躲过如此严格的管控措施的——请继续阅读！
+本周，新西兰政府发布，该国出现了四个不能追溯到境外来源的新病例，并已出现了社区传播。基因测序或许能够帮助我们发现新冠病毒是如何躲过如此严格的管控措施的——请继续阅读！
 
-_HINT: if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!_
-_提示：将鼠标悬停在地图上的圆圈上，演化树上，该地区所对应的样本点就会突出显示！_
+_提示：将鼠标悬停在地图中的圆圈上，该地区所对应的样本点就会在演化树上突出显示！_
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Resurgence in Australia病毒在澳大利亚卷土重来](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
+# [新冠病毒在澳大利亚卷土重来](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
 
-Australia, and the state of Victoria (capitol city: Melbourne), shown here in orange, have been seeing a reemergence of COVID-19 cases and have recently implemented further public health measures to try to curb this increase.
-澳大利亚，和维多利亚州（首府为墨尔本），在图中以橙色表示，已看到新冠病毒病例的重新出现，近期已经采取了进一步的公共卫生防疫措施，来遏制病例数上升的势头。
+在图中以橙色表示的澳大利亚，以及维多利亚州（首府为墨尔本），新冠疫情已再次出现，当地近期已经采取了进一步的公共卫生防疫措施，来遏制病例数上升的势头。
 
-These most recent genomes all appear to be a subclade of clade 20B (scroll back to the previous slide to see how clade 20B fits into the entire phylogeny).
-The recent dates and clustering are signs of a local outbreak.
-这些最新的基因组都是20B这一支下的一支（可以翻到前页查看20B这一支在整个演化树中所处的位置）。近期的日期和聚类是本地疫情爆发的标志。
+这些最新的样本的基因组都从属于 20B 下的一个分支（可以翻到前页查看20B这一支在整个演化树中所处的位置）。采样日期较晚近，样本序列聚集成簇，都是本地疫情正处于爆发阶段的标志。
 
-We can see similar clustering in sequences from New South Wales, where cases have also increased recently.
-新南威尔士州的序列也有类似的聚集现象，那里的病例数最近也有所增长。
+新南威尔士州的序列也有类似的聚集现象，该地区的病例数最近也有所增长。
 
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [新西兰本周检测到的新病例New cases detected in New Zealand this week](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
+# [新西兰本周检测到的新病例](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
 
-New Zealand had reported over 100 days without community transmission before detecting cases in the community this week.
-在本周报告本地传播的病例之前，新西兰已经有超过100天没有报道有本地传播了。
-
-The cluster has now spread to around 30 known cases (at time of publication), primarily based in the largest city, Auckland.
-这一簇病毒现在已经传播到约30例已知病例（截至本报告发布之时），主要位于该国最大的城市，奥克兰。
-
-The source is not yet known, however scientists have sequenced the isolates and reported that they fall into pangolin lineage B1.1.1; so while the genomes are yet to be released they are known to fall in the region colored in blue here.
-病毒的来源尚不知晓，然而，科学家已经对样本进行测序，报告病例属于穿山甲支B1.1.1。所以，虽然基因组还没有公开，已经知道这些样本在树上应该位于本图中蓝色的区域。
-This lineage originated in Europe, but has since been observed in multiple regions around the world.
-这一支起源于欧洲，但是已经在世界上多个地区被观察到过。
+在发现本周的病例之前，新西兰已有超过100天没有报告过本地传播的病例了。
+截至本报告发布之时，此次疫情已经传播产生了30例已知病例，主要位于该国最大的城市奥克兰。
+引发此次疫情的病毒的来源尚属未知，然而，科学家已经对病例的样本进行测序，并报告说病例属于“B1.1.1”这一分支。所以，虽然基因组还没有公开，我们已经知道这些样本在演化树上应该位于本图中的蓝色区域内。
+这个分支起源于欧洲，但世界上多个地区也都曾检测到它的存在。
 
 
 <!-- ############ SLIDE BREAK ############# -->
 # [欧洲的早期情况](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
-SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.
-新冠病毒曾快速地在欧洲各地传播，很有可能主要来自直接由亚洲输入的。
-
-By the end of February, even though there were just [a few hundred cases](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) officially reported in Europe, the virus had spread to at least 15 European countries.
-截至二月底，尽管欧洲官方报告当时只有[几百例](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea)，病毒至少传到了15个欧洲国家。
+新冠病毒曾快速地在欧洲全境传播，主要来源很有可能是由亚洲的直接输入。
+尽管当时欧洲的官方报告只有[几百例](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea)，病毒在二月底之前已经传到了至少15个欧洲国家。
 
 Given that sampling was less common in the early days of the pandemic, SARS-CoV-2 was almost certainly already circulating across must of Europe, including in countries for which we don't have samples.
-基于疫情早期的样本不多，新冠病毒几乎是肯定在欧洲大部分国家都已经在传播了，包括我们没有样本的国家。
+由于疫情早期的样本不多，新冠病毒几乎是肯定在欧洲大部分国家都已经在传播了，包括我们没有样本的国家。
 
 
 <!-- ############ SLIDE BREAK ############# -->
