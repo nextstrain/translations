@@ -267,15 +267,14 @@ _ヒント：ツリーの左上にある「国」をクリックすると凡例�
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Clustering in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
+# [アフリカにおけるクラスタリング](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
 
-In the DRC, Senegal, and South Africa, we can see clear signs of local transmission, shown as clusters of sequences in the tree.
-From Senegal and South Africa, we also have samples collected more recently.
-These samples generally fall within the older diversity of the country, as we would expect from continued local transmission.
+コンゴ民主共和国、セネガル、南アフリカでは、局所的な感染の明確な兆候が見られ、ツリー内に配列のクラスターとして示されています。
+セネガルと南アフリカでは、より最近に採取されたサンプルもあります。
+これらのサンプルは一般的に、局所的な伝播が継続していることを予想して、この国の前のウィルスから発展した例です。
 
-Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere.
-This finding likely reflects the continued restrictions in movement globally.
-
+我々の結論は非常に偏ったサンプリングによって大きく制限されているため、慎重にならざるを得ませんが、我々が入手したアフリカからの最近のサンプルは、他の場所からの亜種の継続的な輸入はほぼないと示唆する。
+このことは、世界中に人口移動が制限され続けていることによっての成果と、私たちが考えています。
 
 <!-- ############ SLIDE BREAK ############# -->
 # [United States epidemic is a mixture of local and within-country transmission](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
