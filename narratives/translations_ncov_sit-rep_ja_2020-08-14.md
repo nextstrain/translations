@@ -289,13 +289,13 @@ _ヒント：ツリーの左上にある「国」をクリックすると凡例�
 <!-- ############ SLIDE BREAK ############# -->
 # [中米の塩基配列決定は地理的にクラスタ化された伝播を示している](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map,entropy&f_country=Belize,Costa%20Rica,Guatemala,Jamaica,Mexico,Panama&p=grid&transmissions=hide)
 
-There has been limited sequencing from Central America, especially over the past two months, which restricts the inferences we can draw about the epidemic. From the genomes that have been shared, we see geographic clustering of SARS-CoV-2 genomes.
+中米では、特にこの2ヶ月間、限られたシークエンシングしか行われていないため、私達からの伝染病についての推論が限りられてる。共有されたゲノムから、SARS-CoV-2 ゲノムの地理的なクラスタリングが見られる。
 
-Toward the bottom of the tree in clade 19B, we see a cluster of transmission in Panama starting in mid-February. Several later sequences in Panama from June and July nest in with this cluster, suggesting there's continued local transmission of this virus genotype in the country.
+クレード 19B のツリーの一番下の方では、2 月中旬からパナマでの感染のクラスタが見られます。6 月と 7 月にパナマで発生したいくつかの後続の配列は、このクラスターの中に入り込んでおり、パナマではこのウイルス遺伝子型の局所的な伝播が継続していることを示唆しています。
 
-In Mexico, we also see clear geographic clustering of transmission through May. Without more recent sequencing, we cannot make inferences about the epidemic in later months.
+メキシコでは、5月までの感染の地理的なクラスタリングが明らかに見られます。より最近のシークエンシングがなければ、それ以降の月の流行についての推論はできません。
 
-In the center of the tree, there is a cluster of cases in Baja California (in light blue). These cases were likely imported from California, USA (green branches on the tree) in March. This inferred importation is consistent with known travel links between the neighboring locations although we should be cautious about interpreting inferred transmission locations given sparse sequencing.
+ツリーの中央には、バハ・カリフォルニア州での感染者の集団が見られます（水色）。これらの症例は 3 月に米国カリフォルニア州から輸入された可能性が高いです（ツリー上の緑色の枝）。この輸入と推定された事例は、隣接する地域間の既知の旅行リンクと一致していますが、サンプリングがまばらであることを考えると、推定された感染場所の解釈には慎重にならざるを得ません。
 
 
 <!-- ############ SLIDE BREAK ############# -->
