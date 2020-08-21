@@ -16,7 +16,9 @@ authorLinks:
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
 translators:
+  - Fengjun Zhang
 translatorLinks:
+  - https://twitter.com/fengjun_zhang
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
@@ -239,13 +241,13 @@ _ヒント：ツリーの左上にある「国」をクリックすると凡例�
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [The early situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
+# [南米の初期状況](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
 
-South America's first SARS-CoV-2 sequences are from late February and early March, and are scattered across the tree, suggesting multiple introductions. As international travel decreased in March, we can see evidence of sustained local transmission in several countries.
+南米の最初の SARS-CoV-2 の配列は、2 月下旬から 3 月上旬に由来のもので、ツリー全体に散在しており、複数の導入を示唆している。3月に国際的な旅行が減少したため、いくつかの国で持続的な局所感染の証拠を見ることができます。
 
-Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence that this variant also moved around the continent to Chile, Uruguay, and Argentina.
+ブラジルの（薄緑色の）配列の多くは、2つの大きなクラスター（木の上端付近）の一部であり、この変異体がチリ、ウルグアイ、アルゼンチンへと大陸を移動したことを示す証拠がいくつかあります。
 
-We can also see distinct clusters of transmission involving Colombia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree.
+また、コロンビア（オレンジ色）、チリ（ターコイズ色）、ウルグアイ（薄い青色）、アルゼンチン（濃い青色）を含む感染の明確なクラスターが木の中に散在していることがわかります。
 
 
 <!-- ############ SLIDE BREAK ############# -->
