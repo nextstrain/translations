@@ -89,7 +89,7 @@ Ogni cerchio è centrato su una singola nazione, il colore indica la regione e l
 * [Situazione in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
 * [Situazione in America del Nord](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
 * [Conclusioni](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Ringraziamenti](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+* [Riconoscimenti scientifici](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
 
 <!-- #### Nextstrain Resources-->
 #### Risorse su Nextstrain 
@@ -443,11 +443,17 @@ Borders are now re-opening and travel has resumed, though not nearly to pre-pand
 Unfortunately, many countries have seen a rise in cases in the last few weeks, usually associated with reopening. As the Northern Hemisphere prepares to move into autumn and colder weather, further reopening, and school resuming, we must remain vigilant about rising case counts. As winter progresses in the Southern Hemisphere, we see worrying signs that seasonality could indeed lead to more trouble containing transmission - Australia's initial success with the virus has been dampened by recent outbreaks. Continuing to scale up Test, Trace, and Isolate, careful hand-hygiene, and conscientious mask-wearing can help keep our societies as open as possible while we continue to battle SARS-CoV-2.
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Scientific credit](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
+<!-- # [Scientific credit](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)-->
+# [Riconoscimenti scientifici](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
 
-We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
-Only through the rapid sharing of genomic data and metadata are analyses such as these possible.
+<!-- We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
+Only through the rapid sharing of genomic data and metadata are analyses such as these possible.-->
+Ringraziamo tutti gli scienziati al lavoro su questa epidemia per lo straordinario e tempestivo lavoro fatto. 
+È solo attraverso la rapida condivisione di dati e metadati genomici che analisi come questa sono possibili.
 
-**We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**
+<!-- **We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**-->
+**Ti invitiamo a fare clic su "Esplora i dati da solo" e scorrere verso il basso per un elenco completo degli autori; l'autore di ogni singola sequenza è disponibile selezionandolo sull'albero.**
 
-We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.
+<!-- We also gratefully acknowledge GISAID for providing the platform through which these data can be uploaded and shared.-->
+
+Siamo anche grati a GISAID per aver fornito la piattaforma su cui questi dati sono stati caricati e condivisi.
