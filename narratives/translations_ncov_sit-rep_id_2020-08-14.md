@@ -26,7 +26,7 @@ licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
 date: "14 Agustus 2020"
 abstract: "
-Pandemi ini sekarang menyebar luas di seluruh dunia, dengan lebih dari [1,5 juta kasus baru tiap pekan](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) dan jumlah kasus terlaporkan [18 juta](https://ourworldindata.org/covid-cases) serta [600.000 kematian](https://ourworldindata.org/covid-deaths).
+Pandemi ini sekarang menyebar luas di seluruh dunia, dengan lebih dari [1,5 juta kasus baru tiap pekan](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) dan [18 juta](https://ourworldindata.org/covid-cases) jumlah kasus terlaporkan serta [600.000 kematian](https://ourworldindata.org/covid-deaths).
 \n\n
 ### Keadaannya [dirangkum oleh WHO pada 2 Agustus 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
@@ -80,7 +80,7 @@ Dalam laporan ini, kami menganalisis genom SARS-CoV-2 yang tersedia untuk publik
 
 - Asia memiliki proporsi klaster 19A & 19B lebih tinggi, sedangkan klaster 20A, 20B & 20C mendominasi Eropa & Amerika Utara.
 
-- Secara global, kita dapat dengan jelas melihat bangkitnya substitusi D614G dalam protein *spike*. Varian ini dihipotesiskan menjadi penyebab peningkatan penularan SARS-CoV-2.
+- Secara global, kita dapat dengan jelas melihat meningkatnya substitusi D614G dalam protein *spike*. Varian ini dihipotesiskan menjadi penyebab peningkatan penularan SARS-CoV-2.
 
 - Untuk menampilkan lebih baik analisis *real-time* data SARS-CoV-2 dari seluruh dunia, kami menyediakan 6 hasil analisis regional dan 1 analisis global, yang dimutakhirkan setiap pekan.
 
@@ -90,7 +90,7 @@ Dalam laporan ini, kami menganalisis genom SARS-CoV-2 yang tersedia untuk publik
 
 - SARS-CoV-2 menyebar sangat cepat di Eropa - virus ini sepertinya telah ditularkan di banyak negara di sana sebelum disadari. Ini mengakibatkan percampuran ekstensif sampel-sampel Eropa pada awal pandemik, menyulitkan pembedaan dan identifikasi introduksi dari satu tempat ke tempat lain. Belakangan ini, kita dapat melihat varian yang berbeda yang khas untuk negara tertentu, karena virusnya terkurung akibat pembatasan perjalanan.
 
-- Sebagaimana wilayah lainnya, Amerika Selatan mengalami introduksi berulang, maliputi hampir semua keragaman SARS-CoV-2 yang diketahui. Setelah pembatasan perjalanan, pengklasteran sekuens lebih terlihat. Sayangnya, kendati epidemik yang parah masih berlangsung di banyak negara di sana, sekuens lebih baru belum tersedia.
+- Sebagaimana wilayah lainnya, Amerika Selatan mengalami introduksi berulang, meliputi hampir semua keragaman SARS-CoV-2 yang diketahui. Setelah pembatasan perjalanan, pengklasteran sekuens lebih terlihat. Sayangnya, kendati epidemik yang parah masih berlangsung di banyak negara di sana, sekuens lebih baru belum tersedia.
 
 - Afrika juga mengalami introduksi berulang yang beragam pada awal pandemik. Pembatasan perjalanan tampaknya kemudian membatasi percampuran antarnegara Afrika, dengan kebanyakan sekuens sepertinya berasal dari keragaman yang bersirkulasi sebelumnya di negara yang sama.
 
@@ -100,14 +100,14 @@ Dalam laporan ini, kami menganalisis genom SARS-CoV-2 yang tersedia untuk publik
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Sebaran sejagat varian genetik](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
+# [Sebaran varian genetik di seluruh dunia](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
-Sejak kemunculannya pada akhir 2019, SARS-CoV-2 telah terpecah menjadi beberapa varian yang beredar bersamaan. Untuk mewadahi diskusi mengenai varian-varian ini, kami telah mengelompokkannya ke dalam klaster-klaster yang ditentukan oleh sejumlah mutasi penciri spesifik.
+Sejak kemunculannya pada akhir 2019, SARS-CoV-2 telah terpecah menjadi beberapa varian yang beredar bersamaan. Untuk mempermudah diskusi mengenai varian-varian ini, kami telah mengelompokkannya ke dalam klaster-klaster yang ditentukan oleh sejumlah mutasi penciri spesifik.
 
 Saat ini kami mendefinisikan 5 klaster besar (lihat [pos blog ini](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) untuk penjelasan lebih rinci):
 
-* 19A dan 19B muncul di Wuhan dan mendominasi pada awal wabah.
-* 20A muncul dari 19A, mendominasi wabah Eropa bulan Maret, dan kemudian menyebar secara global.
+* 19A dan 19B muncul di Wuhan dan mendominasi perebakan awal.
+* 20A muncul dari 19A, mendominasi perebakan di Eropa pada bulan Maret, dan kemudian menyebar secara global.
 * 20B dan 20C adalah subklaster besar dari 20A yang secara genetik berbeda.
 
 
@@ -117,7 +117,7 @@ Saat ini kami mendefinisikan 5 klaster besar (lihat [pos blog ini](https://nexts
 
 
 Sekarang kita amati sebaran klaster-klaster ini di seluruh dunia (warna yang ditampilkan kini mewakili keanggotaan klaster).
-Anda dapat melihat bahwa negara-negara di kawasan Asia memiliki proporsi 19A dan 19B yang lebih besar (biru) sebagai varian yang mendominasi pada awal wabah.
+Anda dapat melihat bahwa negara-negara di kawasan Asia memiliki proporsi 19A dan 19B yang lebih besar (biru) sebagai varian yang mendominasi pada perebakan awal.
 Eropa dan Amerika Utara memiliki campuran seluruh klaster, namun didominasi oleh 20B dan 20C (kuning dan jingga).
 
 #### Jika Anda memiliki sekuens SARS-CoV-2 dan Anda ingin mengetahui klasternya (dan perkiraan letaknya dalam pohon filogenetik), kami telah membuat Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) yang memungkinkan Anda melakukan seret-dan-lepas berkas FASTA Anda ke dalam peramban.
@@ -141,7 +141,7 @@ Tak ada bukti bahwa substitusi dan reversi ini telah menghasilkan rantai penular
 Berhubung terdapat terlalu banyak genom untuk ditampilkan dalam satu pohon filogenetik, kami menyediakan analisis regional untuk enam wilayah yang ditampilkan di sini, selain analisis global utama.
 Ini memungkinkan kita untuk fokus pada keragaman dalam suatu wilayah sambil memilih sampel dari luar wilayah yang sesuai, sehingga kita dapat memperoleh gambaran umum semua penularan antarwilayah seiring waktu - sebagaimana dapat kita lihat pada halaman ini!
 
-Pada halaman berikutnya kami akan menyediakan gambaran masing-masing wilayah tersebut dengan menggunakan set data terkait. (Ini fitur baru dalam Nextstrain Narratives!)
+Pada halaman berikutnya kami akan menyediakan gambaran masing-masing wilayah tersebut dengan menggunakan set data terkait. (Ini fitur baru dalam narasi Nextstrain!)
 
 Inventaris lengkap hasil analisis yang kami dan pihak lain kelola tersedia di [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
 
@@ -167,7 +167,7 @@ Yang paling mencolok dalam tampilan ini adalah penularan dari Eropa ke Asia (mes
 Mengamati genom-genom yang tersampel setelah 1 Juni (yaitu dua bulan belakangan), kita melihat bahwa sampelnya didominasi oleh lebih sedikit negara.
 Ini membatasi kesimpulan yang bisa kita tarik, namun sepertinya terjadi penularan antarnegara yang lebih sedikit.
 
-Ini juga terbukti saat kita mengamati filogeninya, dengan pengelompokan genom monofiletik (di bagian pohon yang sama) besar dari Singapura (kuning) dan Bangladesh (hijau muda).
+Ini juga terbukti saat kita mengamati filogeninya, dengan pengelompokan besar genom-genom dari Singapura (kuning) dan Bangladesh (hijau muda) secara monofiletik (di bagian pohon yang sama).
 
 Data ini konsisten dengan berkurangnya perjalanan internasional belakangan ini dan tindakan pengaturan yang lebih ketat.
 
@@ -235,7 +235,7 @@ _Petunjuk: Anda dapat memperbesar legenda dengan mengklik 'Country' pada kiri at
 
 Memeriksa hanya sampel yang diunggah sepekan terakhir menyorot dua hal penting.
 
-Pertama, kita dapat malihat kecenderungan pengelompokan ujung pohon menjadi klaster-klaster kecil. Ini menandakan bahwa penularan dalam negeri terus mendominasi - sepertinya hasil dari beragam peraturan yang diterapkan di Eropa. Virus ini terus berdiversifikasi secara genetik selama *lockdown*, namun lebih mungkin terbatas di satu negara; artinya, kita dapat lebih membedakan 'varian' lokal dari varian negara lain.
+Pertama, kita dapat melihat kecenderungan pengelompokan ujung pohon menjadi klaster-klaster kecil. Ini menandakan bahwa penularan dalam negeri terus mendominasi - sepertinya hasil dari beragam peraturan yang diterapkan di Eropa. Virus ini terus berdiversifikasi secara genetik selama *lockdown*, namun lebih mungkin terbatas di satu negara; artinya, kita dapat lebih membedakan 'varian' lokal dari varian negara lain.
 
 Beberapa sampel tidak mengikuti pola ini. Mengarahkan tetikus di atas suatu negara pada legenda gambar akan menyorot ujung-ujung pohon dari negara itu dan akan membantu mengenali sampel semacam itu. Sebagai contoh, di tengah pohon, kita dapat melihat beberapa sampel Swedia (hijau) bersarang di dalam klaster Rusia yang lebih besar (merah).
 Mengingat besarnya subsampling, kita harus tetap berhati-hati untuk tidak membuat penafsiran berlebihan terhadap dugaan penularan antarnegara dari pandangan ini.
@@ -289,7 +289,7 @@ Di sini kami menunjukkan genom dari epidemik AS sejak 15 April hingga kini. Pada
 
 Pada pohon ini, sebagaimana pohon wilayah lain, kita melihat contoh penularan lokal virus sebagaimana ditunjukkan oleh pengklasteran ujung pohon sewarna seiring waktu. Jika Anda mengklik, "Explore the Data Yourself", dan menapis lokasi ke Yakima County, Anda dapat melihat contoh yang jelas introduksi dan pertumbuhan virus yang berkerabat secara genetik ke wilayah Negara Bagian Washington ini. (Anda juga dapat [mengklik di sini](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid), namun Anda akan meninggalkan narasi ini.)
 
-Akan tetapi, pada pohon filogenetik ini, kita juga melihat penularan dalam negeri seantero AS seperti yang ditunjukkan oleh percampuran warna pada ujung pohon. Pada peta, penularan dalam negeri terlihat seperti garis penularan yang memanjang antarnegara bagian. Observasi ini konsisten dengan beberapa pembatasan perjalanan domestik dan kebijakan pembukaan kembali negara bagian.
+Akan tetapi, pada pohon filogenetik ini, kita juga melihat penularan dalam negeri seantero AS seperti yang ditunjukkan oleh percampuran warna pada ujung pohon. Pada peta, penularan dalam negeri terlihat seperti garis penularan yang memanjang antarnegara bagian. Observasi ini konsisten dengan sedikitnya pembatasan perjalanan domestik dan kebijakan pembukaan kembali negara bagian.
 
 
 <!-- ############ SLIDE BREAK ############# -->
