@@ -382,21 +382,29 @@ Sebbene le nostre inferenze matematiche sui dati sono limitate dallo scarso nume
 <!-- ############ SLIDE BREAK ############# -->
 # [SARS-CoV-2 in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
 
-Like South America, Africa had several introductions of SARS-CoV-2 to the continent, many likely from Europe. This is shown by the spread of African samples across the tree - even samples from the same country include diverse variants.
+<!--  Like South America, Africa had several introductions of SARS-CoV-2 to the continent, many likely from Europe. This is shown by the spread of African samples across the tree - even samples from the same country include diverse variants.-->
+Come in America del sud, in Africa ci sono state diverse introduzioni di SARS-CoV-2 nel continente, molte probabilmente dall'Europa. Ciò è dimostrato dalla diffusione di campioni africani attraverso l'albero: anche i campioni della stessa regione includono diverse varianti.
 
-We now have sequences from countries across Africa throughout the epidemic, though sequencing efforts seem to have declined slightly more recently.
-South Africa has contributed a large proportion of the sequencing.
+<!-- We now have sequences from countries across Africa throughout the epidemic, though sequencing efforts seem to have declined slightly more recently.
+South Africa has contributed a large proportion of the sequencing.-->
+Abbiamo sequenze da regioni dell'Africa durante l' epidemia, sebbene gli sforzi nel sequenziare il virus sembrino essere diminuiti leggermente di recente.
 
 
 <!-- ############ SLIDE BREAK ############# -->
+<!-- # [Clustering in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)-->
 # [Clustering in Africa](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
 
-In the DRC, Senegal, and South Africa, we can see clear signs of local transmission, shown as clusters of sequences in the tree.
+<!--In the DRC, Senegal, and South Africa, we can see clear signs of local transmission, shown as clusters of sequences in the tree.
 From Senegal and South Africa, we also have samples collected more recently.
-These samples generally fall within the older diversity of the country, as we would expect from continued local transmission.
+These samples generally fall within the older diversity of the country, as we would expect from continued local transmission. -->
+Nella DRC, Senegal e Africa del sud, osserviamo chiari segni di trasmissione locale, mostrata come gruppi di sequenze sull'albero.
+Dal Senegal e dall'Africa del sud abbiamo anche sequenze virali raccolte recentemente. 
+Questi campioni generalmente rientrano nella più antica diversità del paese, come ci aspetteremmo dalla continua trasmissione locale.
 
-Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere.
-This finding likely reflects the continued restrictions in movement globally.
+<!-- Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere.
+This finding likely reflects the continued restrictions in movement globally.-->
+Anche se dobbiamo essere cauti nel trarre conclusioni poichè sono fortemente limitate da un limitato numero di dati, i recenti campioni dall'Africa che abbiamo non suggeriscono l'importazione continua di varianti da altrove.
+Questo risultato probabilmente riflette le continue restrizioni ai movimenti a livello globale.
 
 
 <!-- ############ SLIDE BREAK ############# -->
