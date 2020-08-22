@@ -26,22 +26,22 @@ licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
 date: "14 Agustus 2020"
 abstract: "
-Pandemik saat ini menyebar luas ke seluruh dunia, dengan lebih dari [1,5 juta kasus baru tiap pekan](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) dan jumlah kasus terlaporkan [18 juta](https://ourworldindata.org/covid-cases) serta [600.000 kematian](https://ourworldindata.org/covid-deaths).
+Pandemi ini sekarang menyebar luas di seluruh dunia, dengan lebih dari [1,5 juta kasus baru tiap pekan](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) dan jumlah kasus terlaporkan [18 juta](https://ourworldindata.org/covid-cases) serta [600.000 kematian](https://ourworldindata.org/covid-deaths).
 \n\n
-### Keadaan [dirangkum oleh WHO pada 2 Agustus 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
+### Keadaannya [dirangkum oleh WHO pada 2 Agustus 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
-### **\"Ketika negara-negara telah melonggarkan kesehatan masyarakat dan tindakan sosial, yang diterapkan untuk membatasi penularan virus beberapa negara ini mengamati klaster atau kebangkitan kasus. Risiko dan kerentanan semakin besar di wilayah yang rapuh, bersumber daya rendah, dan terpengaruh konflik.\"**
+### **\"Setelah sejumlah negara melonggarkan prosedur kesehatan masyarakat dan pembatasan sosial, yang sebelumnya diterapkan untuk membatasi penularan virus, muncul beberapa klaster atau kebangkitan kembali sejumlah kasus di sana. Wilayah yang rapuh, bersumber daya rendah, dan terpengaruh konflik memiliki risiko dan kerentanan yang semakin besar.\"**
 \n\n
-### Pembacaan sekuens genom SARS-CoV-2 di dunia terus berlanjut, dan dengan data ini kami menggunakan Nextstrain untuk melacak pergerakan geografis dan evolusi si virus.
-Terkini, terdapat lebih dari 75.000 sekuens dibagikan untuk umum dari separuh negara-negara di dunia - warisan luar biasa bagi para ilmuwan dan pejabat kesehatan masyarakat di belakangnya.
+### Sekuensing genom SARS-CoV-2 di seluruh dunia terus berlanjut, dan dengan data ini kami menggunakan Nextstrain untuk melacak pergerakan geografis dan evolusi si virus.
+Saat ini, terdapat lebih dari 75.000 sekuens yang terbuka untuk umum dari separuh negara-negara di dunia - bukti prestasi luar biasa para ilmuwan dan pejabat kesehatan masyarakat di belakangnya.
 \n\n
-### Kami menggunakan pendekatan subsampling untuk menyingkirkan potensi bias sampling untuk memastikan bahwa wilayah dan periode-waktu ditautan secara memadai untuk analisis.
+### Kami menggunakan pendekatan subsampling untuk menyingkirkan potensi bias sampling untuk memastikan bahwa semua wilayah dan periode-waktu disertakan secara memadai untuk analisis.
 (Ini juga membantu untuk persyaratan komputasi.)
 \n\n
-### Di sini anda dapat melihat sebaran geografis ~4300 genom.
-Tiap lingkaran berpusat pada negara masing-masing, warna menandakan wilayah, dan radius sebanding dengan jumlah genom dari negara tersebut ([lihat di sini untuk bantuan penafsiran peta dalam Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
+### Di sini Anda dapat melihat sebaran geografis ~4300 genom.
+Tiap lingkaran berpusat pada sebuah negara, warnanya menandakan wilayah, dan radiusnya sebanding dengan jumlah genom dari negara tersebut ([lihat di sini untuk bantuan penafsiran peta di Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
 \n\n
-### Dalam laporan ini, kami menguji epidemiologi genomik global COVID-19 secara luas dan menyediakan pemutakhiran spesifik untuk tiap wilayah dunia.
+### Dalam laporan ini, kami menelaah epidemiologi genomik global COVID-19 secara luas dan menyediakan pemutakhiran spesifik untuk tiap wilayah dunia.
 "
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
@@ -55,7 +55,7 @@ Tiap lingkaran berpusat pada negara masing-masing, warna menandakan wilayah, dan
 # [Ringkasan COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
 ### Daftar isi
-* [Penyebaran klad global](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
+* [Sebaran klaster global](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
 * [Mutasi 'Spike' D614G](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
 * [Keadaan di Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
 * [Keadaan di Oseania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
@@ -64,37 +64,37 @@ Tiap lingkaran berpusat pada negara masing-masing, warna menandakan wilayah, dan
 * [Keadaan di Afrika](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
 * [Keadaan di Amerika Utara](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
 * [Ringkasan penutup](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Kredit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+* [Pengakuan ilmiah](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
 
-#### Sumber Daya Nextstrain
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/)
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/)
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)
+#### Informasi dari Nextstrain
+* [MULAI DARI SINI: Cara membaca pohon filogenetik](https://nextstrain.org/narratives/trees-background/)
+* [Laporan Keadaan sebelumnya](https://nextstrain.org/ncov-sit-reps/)
+* [Latar belakang mengenai koronavirus](https://nextstrain.org/help/coronavirus/human-CoV)
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
 # Ringkasan Eksekutif
 
-Dalam laporan ini, kami menganalisis genom SARS-CoV-2 terbagi umum. Dengan membandingkan genom-genom virus ini, kami dapat mengkarakterisasi bagaimana COVID-19 bergerak ke seluruh dunia dan menyebar secara lokal.
+Dalam laporan ini, kami menganalisis genom SARS-CoV-2 yang tersedia untuk publik. Dengan memperbandingkan genom virus ini, kami dapat mengkarakterisasi bagaimana COVID-19 bergerak di seluruh dunia dan menyebar secara lokal.
 
-- Asia memiliki proporsi klad 19A & 19B lebih tinggi, sedangkan klad 20A, 20B & 20C mendominasi Eropa & Amerika Utara.
+- Asia memiliki proporsi klaster 19A & 19B lebih tinggi, sedangkan klaster 20A, 20B & 20C mendominasi Eropa & Amerika Utara.
 
-- Secara global, kami dapat secara jernih melihat bangkitnya keunggulan substitusi D614G dalam protein 'spike'. Varian ini dihipotesiskan menjadi penyebab peningkatan penularan SARS-CoV-2.
+- Secara global, kita dapat dengan jelas melihat bangkitnya substitusi D614G dalam protein *spike*. Varian ini dihipotesiskan menjadi penyebab peningkatan penularan SARS-CoV-2.
 
-- Untuk menampilkan lebih baik bangun 'real-time' data SARS-CoV-2 di seluruh dunia, kami menjalankan 6 bangun regional dan 1 bangun global, yang dimutakhirkan setiap pekan.
+- Untuk menampilkan lebih baik analisis *real-time* data SARS-CoV-2 dari seluruh dunia, kami menyediakan 6 hasil analisis regional dan 1 analisis global, yang dimutakhirkan setiap pekan.
 
-- Di Asia, terdapat banyak penularan antar-negara di wilayah yang terpapar awal dalam pandemik. Yang lebih baru, kami melihat pergerakan ke dalam-negeri, suatu tren yang terlihat di kebanyakan wilayah.
+- Di Asia, terdapat banyak penularan antarnegara di wilayah yang terpapar awal dalam pandemik. Belakangan ini, kami melihat lebih banyak pergerakan di dalam negeri, suatu tren yang terlihat di kebanyakan wilayah.
 
-- Di Oseania, kasus Selandia Baru tertangani dalam tempo yang singkat, berhubungan dengan pembasmian virusnya (hingga pekan ini). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.
+- Di Oseania, kasus-kasus di Selandia Baru tertangani dalam tempo yang singkat sehingga virusnya dapat dilenyapkan dari sana (hingga pekan ini). Peningkatan kasus di Australia belakangan ini terlihat sebagai kasus-kasus terkait erat yang berasal dari keberagaman virus yang sebelumnya beredar, setidaknya dalam sampel-sampel yang tersedia sejauh ini.
 
-- SARS-CoV-2 menyebar sangat cepat di Eropa - si virus sepertinya telah ditularkan di banyak negara sebelum disadari. Ini mengakibatkan percampuran berat sampel Eropa di awal pandemik, menjadikannya sulit untuk membedakan dan mengenali introduksi dari satu tempat ke tempat lain. Lebih baru-baru ini, kami dapat melihat varian yang berbeda yang berkaitan dengan negara tertentu, karena virus terkurung akibat pembatasan/pelarangan bepergian.
+- SARS-CoV-2 menyebar sangat cepat di Eropa - virus ini sepertinya telah ditularkan di banyak negara di sana sebelum disadari. Ini mengakibatkan percampuran ekstensif sampel-sampel Eropa pada awal pandemik, menyulitkan pembedaan dan identifikasi introduksi dari satu tempat ke tempat lain. Belakangan ini, kita dapat melihat varian yang berbeda yang khas untuk negara tertentu, karena virusnya terkurung akibat pembatasan perjalanan.
 
-- Sebagaimana wilayah lainnya, Amerika Selatan mengalami banyak introduksi, maliputi hampir semua keragaman SARS-CoV-2 yang diketahui. Setelah pembatasan bepergian, pengklasteran sekuens lebih terlihat. Sayangnya, kendati epidemik yang parah masih berlangsung di banyak negara, sekuens lebih baru belum tersedia.
+- Sebagaimana wilayah lainnya, Amerika Selatan mengalami introduksi berulang, maliputi hampir semua keragaman SARS-CoV-2 yang diketahui. Setelah pembatasan perjalanan, pengklasteran sekuens lebih terlihat. Sayangnya, kendati epidemik yang parah masih berlangsung di banyak negara di sana, sekuens lebih baru belum tersedia.
 
-- Afrika juga mengalami introduksi yang banyak dan beragam di awal pandemik. Pembatasan bepergian kemudian membatasi percampuran antarnegara Afrika, dengan kebanyakan sekuens sepertinya berasal dari keragaman yang bersirkulasi lebih awal di negara yang sama.
+- Afrika juga mengalami introduksi berulang yang beragam pada awal pandemik. Pembatasan perjalanan tampaknya kemudian membatasi percampuran antarnegara Afrika, dengan kebanyakan sekuens sepertinya berasal dari keragaman yang bersirkulasi sebelumnya di negara yang sama.
 
-- Gambaran berbeda ditunjukkan di AS, di mana perjalanan domestik tidak banyak dibatasi: kami melihat percampuran di sluruh negara bagian, begitu pula penularan lokal. Di Meksiko & Amerika Tengah, kami melihat contoh pengklasteran geografis dalam penularan, khususnya antara Kalifornia (AS) & Baha Kalifornia (Meksiko).
+- Gambaran berbeda ditunjukkan di AS, yang tidak mengalami banyak pembatasan perjalanan domestik: kami melihat percampuran di antara semua negara bagian, begitu pula penularan lokal. Di Meksiko & Amerika Tengah, kita melihat contoh pengklasteran geografis dalam penularan, khususnya antara California (AS) & Baja California (Meksiko).
 
 ```
 
@@ -102,13 +102,13 @@ Dalam laporan ini, kami menganalisis genom SARS-CoV-2 terbagi umum. Dengan memba
 <!-- ############ SLIDE BREAK ############# -->
 # [Sebaran sejagat varian genetik](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
-Sejak kemunculannya pada akhir 2019, SARS-CoV-2 telah terpecah menjadi beberapa varian yang beredar bersamaan. Untuk mewadahi diskusi varian ini, kami telah mengelompokkannya ke dalam klad-klad yang ditentukan oleh mutasi penciri spesifik.
+Sejak kemunculannya pada akhir 2019, SARS-CoV-2 telah terpecah menjadi beberapa varian yang beredar bersamaan. Untuk mewadahi diskusi mengenai varian-varian ini, kami telah mengelompokkannya ke dalam klaster-klaster yang ditentukan oleh sejumlah mutasi penciri spesifik.
 
-Saat ini kami menentukan 5 klad mayor (lihat [this blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) untuk lebih rinci):
+Saat ini kami mendefinisikan 5 klaster besar (lihat [pos blog ini](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) untuk penjelasan lebih rinci):
 
-* 19A dan 19B muncul di Wuhan dan mendominasi di awal wabah.
+* 19A dan 19B muncul di Wuhan dan mendominasi pada awal wabah.
 * 20A muncul dari 19A, mendominasi wabah Eropa bulan Maret, dan kemudian menyebar secara global.
-* 20B dan 20C adalah subklad dari 20A yang secara genetik berbeda.
+* 20B dan 20C adalah subklaster besar dari 20A yang secara genetik berbeda.
 
 
 <svg viewBox="0 0 120 80">
@@ -116,118 +116,118 @@ Saat ini kami menentukan 5 klad mayor (lihat [this blog post](https://nextstrain
 </svg>
 
 
-Kini kami mengamati sebaran klad-klad ini di seluruh dunia (warna kini mewakili keanggotaan klad).
-Anda dapat melihat bahwa negara-negara di wilayah Asia memiliki proporsi 19A dan 19B yang lebih besar (biru) sebagai varian yang mendomonasi saat awal wabah.
-Eropa dan Amerika Utara memiliki campuran seluruh klad, namun didominasi 20B dan 20C (kuning dan jingga, berturut-turut).
+Sekarang kita amati sebaran klaster-klaster ini di seluruh dunia (warna yang ditampilkan kini mewakili keanggotaan klaster).
+Anda dapat melihat bahwa negara-negara di kawasan Asia memiliki proporsi 19A dan 19B yang lebih besar (biru) sebagai varian yang mendominasi pada awal wabah.
+Eropa dan Amerika Utara memiliki campuran seluruh klaster, namun didominasi oleh 20B dan 20C (kuning dan jingga).
 
-#### Jika anda memiliki sekuens SARS-CoV-2 yang ingin diketahui kladnya (dan perkiraan letaknya dalam pohon filogenetik), kami telah membuat Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) yang memungkinkan anda seret-dan-lepas berkas FASTA anda ke dalam penjelajah.
+#### Jika Anda memiliki sekuens SARS-CoV-2 dan Anda ingin mengetahui klasternya (dan perkiraan letaknya dalam pohon filogenetik), kami telah membuat Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) yang memungkinkan Anda melakukan seret-dan-lepas berkas FASTA Anda ke dalam peramban.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Mutasi 'Spike' D614G yang terpublikasi dengan baik](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
+# [Mutasi 'Spike' D614G yang tersiar luas](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
-Substitusi D614G pada gen yang menyandi protein 'Spike' (S) baru-baru ini telah diberitakan dan menimbulkan banyak spekulasi.
+Substitusi D614G pada gen yang menyandikan protein 'Spike' (S) baru-baru ini telah diberitakan dan menimbulkan banyak spekulasi.
 
-Bukti-bukti menunjukkan bahwa varian G (kuning dalam tampilan ini) meningkatkan infektivitas SARS-CoV-2 _in vitro_ dan mungkin secara evolusioner terpilih untuk peningkatan penularan manusia ke manusia ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). Namun, peningkatan infektivitas dapat berpotensi untuk mengakibatkan si virus lebih rentan terhadap antibodi penetral ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
+Semakin banyak bukti menunjukkan bahwa varian G (kuning dalam tampilan ini) meningkatkan infektivitas SARS-CoV-2 secara _in vitro_ dan mungkin secara evolusi terseleksi untuk meningkatnya penularan antarmanusia ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). Namun, peningkatan infektivitas mungkin mengakibatkan si virus lebih rentan terhadap antibodi penetral ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
-Di sini kita dapat melihat bahwa varian ini disimpulkan muncul segera setelah zoonosis awal dan kemudian menyebar ke seuruh dunia.
-Pada Juli, varian 614G terdapat pada mayoritas virus yang beredar sejagat. Sejak awal kemunculannya, substitusi telah muncul berkali-kali dan berreversi ke varian 614D.
+Di sini kita dapat melihat bahwa varian ini diduga muncul segera setelah zoonosis awal dan kemudian menyebar ke seuruh dunia.
+Pada bulan Juli, varian 614G terdapat pada mayoritas virus yang beredar di seluruh dunia. Sejak awal kemunculannya, substitusi ini telah muncul berkali-kali dan juga mengalami reversi ke varian 614D.
 Tak ada bukti bahwa substitusi dan reversi ini telah menghasilkan rantai penularan yang sinambung.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Menganalisis bentukan regional terpisah](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
+# [Melakukan analisis regional secara terpisah](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
 
-Berhubung terdapat terlalu banyak genom untuk ditampilkan dalam pohon tunggal, kami menyediakan analisis regional untuk enam wilayah yang ditampilkan di sini, di samping bentukan global utama.
-Ini memungkinkan kira untuk fokus pada keragaman dalam wilayah, sementara memilih sampel di luar wilayah yang tepat, sehingga kami dapat menjaga gambaran seluruh penularan antarwilayah sepanjang waktu - sebagaimana dapat kita lihat pada layar ini!
+Berhubung terdapat terlalu banyak genom untuk ditampilkan dalam satu pohon filogenetik, kami menyediakan analisis regional untuk enam wilayah yang ditampilkan di sini, selain analisis global utama.
+Ini memungkinkan kita untuk fokus pada keragaman dalam suatu wilayah sambil memilih sampel dari luar wilayah yang sesuai, sehingga kita dapat memperoleh gambaran umum semua penularan antarwilayah seiring waktu - sebagaimana dapat kita lihat pada halaman ini!
 
-Pada layar berikutnya kami akan menyediakan gambaran masing-masing wilayah tersebut dengan berpindah ke dataset terkait. (Ini fitur baru dalam Nextstrain Narratives!)
+Pada halaman berikutnya kami akan menyediakan gambaran masing-masing wilayah tersebut dengan menggunakan set data terkait. (Ini fitur baru dalam Nextstrain Narratives!)
 
-Inventaris lengkap bangunan yang kami dan pihak lain kelola tersedia di [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
+Inventaris lengkap hasil analisis yang kami dan pihak lain kelola tersedia di [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Keadaan Asia pra-Juni](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
 
-Jika kita menguji keadaan Asia dari genom yang terkumpul sebelum Juni 2020, kita melihat tanda sekaligus penularan luas dalam-Asia dan penularan ke dan dari belahan dunia lain.
+Jika kita mengamati keadaan Asia dari genom-genom yang terkumpul sebelum Juni 2020, kita melihat tanda-tanda penularan luas intra-Asia maupun penularan ke dan dari belahan dunia lain.
 
 #### Menafsirkan garis dan warna
 
 Di sini hanya negara-negara Asia yang diwarnai, sedangkan wilayah lainnya dikelabukan.
-Warna tiap garis penularan (garis antarlingkaran) mewakili tempat asal, oleh karena itu seluruh garis **berwarna** mewakili penularan yang berasal dari suatu negara dalam Asia (dalam contoh ini).
+Warna tiap garis penularan (garis antarlingkaran) menunjukkan tempat asal penularannya. Oleh karena itu, semua garis **berwarna** menggambarkan penularan yang berasal dari suatu negara di Asia (dalam contoh ini).
 
 #### Penularan ke Asia
 
-Ini menampilkan bahwa banyak dari penularan yang melibatkan negara Asia dan non-Asia merupakan importasi ke Asia (garis kelabu).
-Terutama yang disebutkan dalam tampilan ini adalah penularan dari Eropa ke Asia (meskipun garis-garisnya kalihatan seperti datang dari Jerman, titik ini mewakili seluruh Eropa). Namun, kita harus hati-hati mengenai magaimana penafsiran kita terkadap kesimpulan penularan ini, karena pengaruh besar bias penyampelan (dan kita memiliki sampel dari Eropa jauh lebih banyak daripada wilayah lain).
+Ini menunjukkan bahwa banyak penularan yang melibatkan negara Asia dan non-Asia merupakan importasi ke Asia (garis kelabu).
+Yang paling mencolok dalam tampilan ini adalah penularan dari Eropa ke Asia (meskipun garis-garisnya kalihatan seperti datang dari Jerman, titik ini mewakili seluruh Eropa). Namun, kita harus hati-hati mengenai bagaimana kita menafsirkan kesimpulan penularan ini karena bias sampling dapat berperan besar (dan kita memiliki sampel dari Eropa jauh lebih banyak daripada dari wilayah lain).
 
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Keadaan Asia setelah 1 Juni](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
 
-Mengamati genom yang tersampel setelah 1 Juni (yaitu dua bulan terakhir), kita melihat bahwa penyampelan didominasi oleh lebih sedikit negara.
-Ini membatasi kesimpulan yang bisa kita tarik, namun sepertinya kita memiliki penularan antarnegara yang lebih sedikit.
+Mengamati genom-genom yang tersampel setelah 1 Juni (yaitu dua bulan belakangan), kita melihat bahwa sampelnya didominasi oleh lebih sedikit negara.
+Ini membatasi kesimpulan yang bisa kita tarik, namun sepertinya terjadi penularan antarnegara yang lebih sedikit.
 
-Ini juga terbukti saat kita mengamati filogeninya, di mana kita memiliki pengelompokan genom monofiletik (di bagian pohon yang sama) besar dari Singapura (kuning) dan Bangladesh (biru muda).
+Ini juga terbukti saat kita mengamati filogeninya, dengan pengelompokan genom monofiletik (di bagian pohon yang sama) besar dari Singapura (kuning) dan Bangladesh (hijau muda).
 
-Data ini konsisten dengan berkurangnya perjalanan internasional dan pengaturan yang lebih ketat.
+Data ini konsisten dengan berkurangnya perjalanan internasional belakangan ini dan tindakan pengaturan yang lebih ketat.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Ikhtisar Oseania](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
+# [Gambaran umum Oseania](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
 
-Di sini kita dapat menjelajahi ~790 genom dari Australia dan Selandia Baru dengan tambahan ~1100 sekuens untuk menyediakan konteks global.
+Di sini kita dapat mengeksplorasi ~790 genom dari Australia dan Selandia Baru dengan tambahan ~1100 sekuens sebagai konteks global.
 Hanya sampel dari Australia dan Selandia Baru yang diwarnai.
 
-Anda dapat melihat bahwa sampel-sampel ini tersebar di seluruh pohon, menandakan bahwa Oseania telah terpapar ke (kebanyakan) keragaman genomik SARS-CoV-2 yang teramati.
+Anda dapat melihat bahwa sampel-sampel ini tersebar di seluruh pohon, menandakan bahwa Oseania telah terpapar oleh (kebanyakan) keragaman genomik SARS-CoV-2 yang diketahui.
 
-Mayoritas sampel Selandia Baru (biru, ungu, hijau) datang dari kelompok temporal ketat pada Maret dan April, sebagai hasil dari strategi pengendalian yang berhasil dilakukan oleh pemerintah Selandia Baru. Sementara negara ini kembali ke kehidupan yang relatif normal, perbatasan masih tertutup untuk seluruh warga negara asing untuk membatasi kemungkinan masuknya kembali si virus. Warga negara yang kembali harus dikarantina selama 14 hari sebelum masuk.
+Mayoritas sampel Selandia Baru (biru, ungu, hijau) berasal dari kelompok temporal ketat dari bulan Maret dan April, sebagai hasil dari strategi pengendalian yang berhasil dilakukan oleh pemerintah Selandia Baru. Sementara negara ini kembali ke kehidupan yang relatif normal, perbatasan masih tertutup untuk semua warga negara asing untuk membatasi kemungkinan masuknya kembali si virus. Warga negara setempat yang kembali dari luar negeri harus dikarantina selama 14 hari sebelum masuk.
 
-Pekan ini, pemerintah Selandia Baru mengumumkan empat kasus baru penularan komunitas yang tidak dapat dihubungkan dengan kasus yang datang. Pemeriksaan genetik diharapkan bisa membantu menyingkap bagaimana SARS-CoV-2 menerobos pengendalian yang ketat -- lebih lanjut di bawah!
+Pekan ini, pemerintah Selandia Baru mengumumkan empat kasus baru penularan komunitas yang tidak dapat dihubungkan dengan kasus yang datang. Sekuensing genetik mungkin bisa membantu menyingkap bagaimana SARS-CoV-2 menerobos pengendalian yang ketat -- lebih lanjut di bawah!
 
-_PETUNJUK: jika mengarahkan tetikus di atas lingkaran pada peta, anda dapat melihat kiat yang relevan pada pohon yang disorot!_
+_PETUNJUK: jika mengarahkan tetikus di atas lingkaran pada peta, Anda dapat melihat ujung pohon yang relevan disoroti pada filogeni di samping!_
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Kebangkitan di Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
+# [Munculnya kembali kasus di Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
 
-Australia, dan negara bagian Victoria (ibukota: Melbourne), ditunjukkan dengan warna jingga, telah menyaksikan kemunculan kembali kasus COVID-19 dan baru-baru ini telah menerapkan tindakan kesehatan masyarakat lebih jauh untuk berusaha mengatasi peningkatan ini.
+Australia, dan negara bagian Victoria (ibu kota: Melbourne), ditunjukkan dengan warna jingga, telah mengalami kemunculan kembali kasus COVID-19 dan baru-baru ini telah menerapkan tindakan kesehatan masyarakat yang lebih jauh untuk berusaha mengatasi peningkatan ini.
 
-Genom terbaru ini tampaknya merupakan subklad dari 20B (kembali ke layar sebelumnya untuk melihat bagaimana klad 20B cocok dengan filogeni keseluruhan).
-Tanggal dan pengklasteran baru ini merupakan tanda dari wabah lokal.
+Genom-genom terbaru ini tampaknya merupakan subklaster dari klaster 20B (kembali ke halaman sebelumnya untuk melihat posisi klaster 20B pada filogeni keseluruhan).
+Kebaruan sampel dan pengklasteran ini merupakan tanda terjadinya perebakan lokal.
 
-Kita dapat melihat pengklasteran serupa pada sekuens dari New South Wales yang juga mengalami peningkatan kasus baru-baru ini.
+Kita dapat melihat pengklasteran serupa pada sekuens-sekuens dari New South Wales yang juga mengalami peningkatan kasus baru-baru ini.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Kasus baru terdeteksi di Selandia Baru pekan ini](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
 
 Selandia Baru telah melaporkan lebih dari 100 hari tanpa penularan komunitas sebelum mendeteksi kasus pekan ini.
-Klaster kini telah menyebar ke sekitar 30 kasus yang diketahui (saat publikasi), terutama berpusat di kota terbesar, Auckland.
+Klasternya kini telah menyebar ke sekitar 30 kasus yang diketahui (saat publikasi), terutama berpusat di kota terbesar, Auckland.
 
-Sumbernya belum diketahui, namun para ilmuwan telah telah mendapatkan sekuens isolat dan melaporkan bahwa virus ini termasuk ke dalam garis keturunan pangolin B1.1.1; sehingga sementara genomnya belum diumumkan mereka di sini masuk dalam wilayah berwarna biru.
-Garis keturunan ini berasal dari Eropa, namun kemudian terpantau di wilayah-wilayah lain di seluruh dunia.
+Sumbernya belum diketahui, namun para ilmuwan telah telah mendapatkan sekuens isolatnya dan melaporkan bahwa virus ini termasuk ke dalam garis keturunan pangolin B1.1.1; jadi, walaupun genomnya belum dirilis, isolat tersebut termasuk dalam wilayah yang diwarnai biru di sini.
+Garis keturunan ini berasal dari Eropa, namun kemudian ditemukan di banyak wilayah lain di seluruh dunia.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Keadaan terdahulu di Eropa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
+# [Keadaan awal di Eropa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
 SARS-CoV-2 menyebar cepat di Eropa, sepertinya terutama melalui penularan langsung dari Asia.
 
-Pada akhir Pebruari, meskipun hanya terdapat [beberapa ratus kasus](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) yang resmi dilaporkan di Eropa, si virus telah menyebar setidaknya ke 15 negara Eropa.
+Pada akhir Februari, meskipun hanya terdapat [beberapa ratus kasus](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) yang resmi dilaporkan di Eropa, virus ini telah menyebar ke setidaknya 15 negara Eropa.
 
-Mengingat bahwa penyampelan hanya sedikit dilakukan pada masa awal pandemik, SARS-CoV-2 dipastikan telah beredar meluas di Eropa, termasuk negara-negara yang kami tidak memiliki sampelnya.
+Mengingat bahwa penyampelan hanya sedikit dilakukan pada masa awal pandemik, SARS-CoV-2 hampir pasti telah beredar luas di Eropa, termasuk negara-negara yang tidak kami miliki sampelnya.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Penguncian di Eropa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
+# ["Lockdown" di Eropa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&transmissions=hide&dmax=2020-04-28&dmin=2020-03-01&f_country=Finland,Iceland,Spain,Sweden,Switzerland)
 
-Sepanjang Maret dan April banyak negara Eropa menutup perbatasannya, dan banyak yang menerapkan beragam tipe 'penguncian' yang membatasi pergerakan dan menutup sekolah dan usaha. Kita berharap pembatasan ini menurunkan penularan antarnegara, sehingga kita akan melihat sekuens dari suatu negara akan seklaster dengan sekuens sebelumnya dari negara tersebut.
+Sepanjang Maret dan April banyak negara Eropa menutup perbatasannya, dan banyak yang menerapkan beragam tipe 'lockdown' yang membatasi pergerakan serta menutup sekolah dan usaha. Kita berharap pembatasan ini menurunkan penularan antarnegara, sehingga kita akan melihat sekuens dari suatu negara akan seklaster dengan sekuens sebelumnya dari negara tersebut.
 
-Namun, SARS-CoV-2 telah sangat bercampur di seantero Eropa sehingga varian yang berbeda dari si virus telah beredar melintasi banyak negara. Kebanyakan negara memiliki varian berbeda beredar sebelum penguncian yang berhubungan dengan virus yang beredar di negara lain. Ini artinya gambar filogenetik tetap tercampur bahkan setelah perbatasan ditutup (ditunjukkan dengan berbagai warna yang berdekatan satu sama lain dalam pohon).
+Namun, SARS-CoV-2 telah sangat bercampur di seantero Eropa sehingga varian yang berbeda dari virus ini telah beredar melintasi banyak negara. Kebanyakan negara memiliki berbagai varian yang beredar sebelum *lockdown* yang berhubungan dengan virus yang beredar di negara lain. Ini berarti gambaran filogenetiknya tetap tercampur aduk bahkan setelah perbatasan ditutup (ditunjukkan dengan berbagai warna yang berdekatan satu sama lain dalam pohon).
 
-Namun demikian, kita dapat melihat beberapa tanda penularan lokal seperti yang kita duga. Di sini, Finlandia dan Swedia memiliki klaster penularan yang sangat berbeda berwarna hijau dan jingga (sekitar 1/3 dari atas), sementara Spanyol (biru tua) menunjukkan penularan lokal berbeda di bawah dan atas pohon. Islandia (ungu) dan Switzerland (biru muda) juga menunjukkan klaster penularan lokal.
+Namun demikian, kita dapat melihat beberapa tanda penularan lokal seperti yang kita duga. Di sini, Finlandia dan Swedia memiliki klaster penularan yang sangat berbeda, diwarnai hijau dan jingga (sekitar 1/3 dari atas), sementara Spanyol (biru tua) menunjukkan penularan lokal berbeda di bawah dan atas pohon. Islandia (ungu) dan Swiss (biru muda) juga menunjukkan klaster penularan lokal.
 
-_Petunjuk: Anda dapat memperbesar Keterangan dengan mengklik 'Country' pada kiri atas pohon!_
+_Petunjuk: Anda dapat memperbesar legenda dengan mengklik 'Country' pada kiri atas pohon!_
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -235,61 +235,61 @@ _Petunjuk: Anda dapat memperbesar Keterangan dengan mengklik 'Country' pada kiri
 
 Memeriksa hanya sampel yang diunggah sepekan terakhir menyorot dua hal penting.
 
-Pertama, kita dapat malihat kecenderungan pengelompokan ujung ke klaster kecil. Ini menandakan bahwa penularan dalam negeri terus mendominasi - sepertinya hasil dari beragam peraturan yang diterapkan di Eropa. Si virus terus berkembang secara genetik saat penguncian, namun lebih cenderung terbatas di satu negara, artinya kita dapat lebih membedakan 'varian' lokal dari yang di negara lain.
+Pertama, kita dapat malihat kecenderungan pengelompokan ujung pohon menjadi klaster-klaster kecil. Ini menandakan bahwa penularan dalam negeri terus mendominasi - sepertinya hasil dari beragam peraturan yang diterapkan di Eropa. Virus ini terus berdiversifikasi secara genetik selama *lockdown*, namun lebih mungkin terbatas di satu negara; artinya, kita dapat lebih membedakan 'varian' lokal dari varian negara lain.
 
-Beberapa sampel tidak mengikuti pola ini. Melayangkan di atas suatu negara pada keterangan gambar menyorot ujung pada pohon dari negara itu dan akan membantu mengenali sampel semacam itu. Sebagai contoh, di tengah pohon, kita dapat melihat beberapa sampel Swedia (hijau) bersarang di dalam klad Rusia yang lebih besar (merah).
-Mengingat besarnya sub-penyampelan, kita harus tetap berhati-hati untuk tidak membuat penafsiran berlebihan terhadap dugaan penularan antarnegara dari pandangan ini.
+Beberapa sampel tidak mengikuti pola ini. Mengarahkan tetikus di atas suatu negara pada legenda gambar akan menyorot ujung-ujung pohon dari negara itu dan akan membantu mengenali sampel semacam itu. Sebagai contoh, di tengah pohon, kita dapat melihat beberapa sampel Swedia (hijau) bersarang di dalam klaster Rusia yang lebih besar (merah).
+Mengingat besarnya subsampling, kita harus tetap berhati-hati untuk tidak membuat penafsiran berlebihan terhadap dugaan penularan antarnegara dari pandangan ini.
 
-Kedua, kita dapat melihat bahwa ujungnya memiliki perbedaan besar pada ruang horizontal -- bahwa sampel yang dikirimkan pada pekan terakhir mewakili rentang waktu pengumpulan sampel yang melebar hingga awal Maret.
-Alasan untuk merunut sekuens genom "lama" beragam, namun sampel-sampel ini membantu untuk mengisi pemahaman kita tentang evolusi virus dan pergerakan geografis.
+Kedua, kita dapat melihat bahwa ujung-ujung pohon memiliki perbedaan besar pada ruang horizontal -- artinya, sampel yang dikirimkan pada pekan terakhir mewakili rentang waktu pengumpulan sampel yang melebar hingga awal Maret.
+Alasan untuk merunut sekuens genom "lama" semacam ini beragam, namun sampel-sampel ini membantu untuk mengisi pemahaman kita tentang evolusi virus dan pergerakan geografis.
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Keadaan terdahulu di Amerika Selatan](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
+# [Keadaan awal di Amerika Selatan](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
 
-Sekuens SARS-CoV-2 Amerika Selatan pertama yang berasal dari akhir Pebruari dan awal Maret terpencar di dalam pohon, mengesankan banyak introduksi. Saat perjalanan internasional menurun pada Maret, kita dapat melihat bukti penularan lokal yang tertahan di beberapa negara.
+Sekuens SARS-CoV-2 Amerika Selatan pertama berasal dari akhir Februari dan awal Maret, dan terpencar di seluruh pohon, mengesankan introduksi berulang. Saat perjalanan internasional menurun pada bulan Maret, kita dapat melihat bukti penularan lokal yang bertahan di beberapa negara.
 
-Banyak dari sekuens Brazil (hijau muda) merupakan bagian dari dua klaster besar (dekat puncak pohon), dengan beberapa bukti bahwa varian ini juga bergerak di seantero benua ke Chili, Uruguay, dan Argentina.
+Banyak sekuens dari Brasil (hijau muda) merupakan bagian dari dua klaster besar (dekat bagian atas pohon), dengan beberapa bukti bahwa varian ini juga bergerak di seantero benua ke Chili, Uruguay, dan Argentina.
 
-Kita juga dapat klaster penularan yang berbeda meliputi Kolombia (jingga), Chili (pirus), Uruguay (biru muda), dan Argentina (biru tua) terpencar di seluruh pohon.
+Kita juga dapat melihat klaster penularan yang berbeda di Kolombia (jingga), Chili (pirus), Uruguay (biru muda), dan Argentina (biru tua) terpencar di seluruh pohon.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Keadaan lebih baru di Amerika Selatan](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
 
-Sayangnya, sementara SARS-CoV-2 terus menyebar luas di Amerika Selatan, pemeriksaan sekuens belum terkejar. Meski kasus tetap tinggi hampir di seantero benua, hanya 68 sampel dari 5 negara (Brazil, Ekuador, Uruguay, Argentina, & Chili) telah dibagikan sejak Mei.
+Sayangnya, walaupun SARS-CoV-2 terus menyebar luas di Amerika Selatan, usaha sekuensing belum mengimbanginya. Meski kasus tetap tinggi hampir di seantero benua, hanya 68 sampel dari 5 negara (Brasil, Ekuador, Uruguay, Argentina, & Chili) telah dibagikan sejak Mei.
 
-Meski inferensi kita terbatas oleh penyampelan yang jarang, dalam banyak kasus sampel-sampel yang lebih baru ini bersarang dalam keragaman terdahulu yang tersampel di negara yang sama, atau negara Amerika Selatan lainnya. Ini menyarankan varian-varian yang beredar kini merupakan turunan dari yang diintroduksi di awal pandemik.
+Meski inferensi kami terbatas oleh penyampelan yang jarang, dalam banyak kasus sampel-sampel yang lebih baru ini bersarang dalam keragaman terdahulu yang tersampel di negara yang sama, atau negara Amerika Selatan lainnya. Ini menunjukkan bahwa varian-varian yang beredar kini merupakan turunan dari varian yang terintroduksi pada awal pandemik.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 # [SARS-CoV-2 di Afrika](https://nextstrain.org/ncov/africa/2020-08-11?d=tree,map&f_region=Africa&legendOpen&transmissions=hide&p=grid)
 
-Sebagaimana Amerika Selatan, Afrika mengalami beberapa introduksi SARS-CoV-2 ke benua tersebut, kebanyakan sepertinya dari Eropa. Ini ditunjukkan oleh terpencarnya sampel Afrika dalam pohon - bahkan sampel dari negara yang sama mencakup varian yang beragam.
+Sebagaimana Amerika Selatan, Afrika mengalami beberapa introduksi SARS-CoV-2 ke benua tersebut, kebanyakan sepertinya dari Eropa. Ini ditunjukkan oleh terpencarnya sampel Afrika dalam pohon - bahkan sampel-sampel dari negara yang sama mencakup varian yang beragam.
 
-Kita kini memiliki sekuens dari negara-negara Afrika sepanjang epidemik, meski usaha pengumpulan sekuens tampak menurun belakangan ini.
+Kita kini memiliki sekuens dari negara-negara Afrika sepanjang epidemik, meski usaha pengumpulan sekuens tampak agak menurun belakangan ini.
 Afrika Selatan menyumbang proporsi yang besar dalam pengumpulan sekuens.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Pengklasteran di Afrika](https://nextstrain.org/ncov/africa/2020-08-11?d=tree&f_region=Africa&legendOpen&p=full&f_country=Democratic%20Republic%20of%20the%20Congo,Senegal,South%20Africa)
 
-Di Kongo, Senegal, dan Afrika Selatan, kita dapat melihat dengan jelas adanya penularan lokal, ditunjukkan sebagai klaster sekuens dalam pohon.
+Di Kongo, Senegal, dan Afrika Selatan, kita dapat melihat dengan jelas tanda-tanda penularan lokal, ditunjukkan sebagai klaster-klaster sekuens dalam pohon.
 Dari Senegal dan Afrika Selatan, kita juga memiliki sampel yang didapatkan baru-baru ini.
-Sampel-sampel ini umumnya masuk ke dalam keragaman terdahulu di negaranya, sebagaimana kita duga dari kelanjutan penularan lokal.
+Sampel-sampel ini umumnya masuk ke dalam keragaman terdahulu di negaranya, sebagaimana kita duga dari penularan lokal yang berlanjut.
 
-Namun, kita harus berhati-hati dalam menyimpulkan karena keterbatasan penyampelan yang dapat menimbulkan bias, sampel belakangan dari Afrika yang kita miliki tidak menunjukkan berlanjutnya importasi varian dari luar.
-Temuan ini cenderung mencerminkan berlanjutnya pembatasan pergerakan secara global.
+Walaupun kita harus berhati-hati dalam menyimpulkan karena keterbatasan penyampelan yang dapat menimbulkan bias, sampel belakangan dari Afrika yang kita miliki tidak menunjukkan berlanjutnya importasi varian dari tempat lain.
+Temuan ini mungkin mencerminkan berlanjutnya pembatasan pergerakan secara global.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Epidemik AS adalah campuran dari penularan lokal dan dalam negeri](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
 
-Di sini kami menunjukkan genom dari epidemik AS sejak 15 April hingga kini. Pada pertengahan April, dilakukan penguncian di seluruh negara bagian AS. [Masing-masing negara bagian kemudian menerapkan berbagai kebijakan pembukaan kembali](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
+Di sini kami menunjukkan genom dari epidemik AS sejak 15 April hingga kini. Pada pertengahan April, dilakukan *lockdown* di semua negara bagian AS. [Masing-masing negara bagian kemudian menerapkan berbagai kebijakan pembukaan kembali](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).
 
-Pada pohon ini, sebagaimana pohon di wilayah lain, kita melihat contoh penularan lokal virus sebagaimana ditunjukkan oleh pengklasteran ujung sewarna sepanjang waktu. Jika diklik, "Explore the Data Yourself", dan menapis lokasi ke Yakima County, dapat terlihat contoh yang jelas introduksi dan pertumbuhan virus yang berkerabat secara genetik ke wilayah Negara Bagian Washington ini. (Anda juga dapat [klik di sini](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid), namun akan meninggalkan naratif.)
+Pada pohon ini, sebagaimana pohon wilayah lain, kita melihat contoh penularan lokal virus sebagaimana ditunjukkan oleh pengklasteran ujung pohon sewarna seiring waktu. Jika Anda mengklik, "Explore the Data Yourself", dan menapis lokasi ke Yakima County, Anda dapat melihat contoh yang jelas introduksi dan pertumbuhan virus yang berkerabat secara genetik ke wilayah Negara Bagian Washington ini. (Anda juga dapat [mengklik di sini](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid), namun Anda akan meninggalkan narasi ini.)
 
-Akan tetapi, pada pohon, kita juga melihat penularan dalam negeri seantero AS seperti yang ditunjukkan oleh campuran warna pada ujung pohon. Pada peta, penularan dalam negeri terlihat seperti garis penularan yang memanjang antarnegara bagian. Observasi ini konsisten dengan beberapa pembatasan bepergian domestik dan kebijakan pembukaan kembali negara bagian.
+Akan tetapi, pada pohon filogenetik ini, kita juga melihat penularan dalam negeri seantero AS seperti yang ditunjukkan oleh percampuran warna pada ujung pohon. Pada peta, penularan dalam negeri terlihat seperti garis penularan yang memanjang antarnegara bagian. Observasi ini konsisten dengan beberapa pembatasan perjalanan domestik dan kebijakan pembukaan kembali negara bagian.
 
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -297,32 +297,32 @@ Akan tetapi, pada pohon, kita juga melihat penularan dalam negeri seantero AS se
 
 Sekuens dari Amerika Tengah masih sangat terbatas, terutama dua bulan terakhir, sehingga membatasi penafsiran yang dapat ditarik mengenai epidemik ini. Dari genom yang telah dipublikasi, kita melihat pengklasteran geografis genom SARS-CoV-2.
 
-Melalui dasar pohon di klad 19B, kita melihat klaster penularan di Panama mulai pertengahan Pebruari. Beberapa sekuens berikutnya dari bulan Juni dan Juli bersarang di klaster ini, menandakan kelanjutan penularan lokal genotipe virus ini di negeri tersebut.
+Di bagian bawah pohon di klaster 19B, kita melihat klaster penularan di Panama mulai pertengahan Februari. Beberapa sekuens Panama berikutnya dari bulan Juni dan Juli bersarang di klaster ini, menandakan kelanjutan penularan lokal genotipe virus ini di negara tersebut.
 
-Di Meksiko, kita juga melihat pengklasteran geografis penularan hingga bulan Mei. Tanpa sekuens baru, kita tidak dapat membaca epidemik pada bulan-bulan berikutnya di negeri ini.
+Di Meksiko, kita juga melihat secara jelas pengklasteran geografis penularan hingga bulan Mei. Tanpa sekuens baru, kita tidak dapat membuat inferensi mengenai epidemik ini untuk bulan-bulan berikutnya.
 
-Di tengah pohon, terdapat klaster kasus di Baja California (biru muda). Kasus ini sepertinya diimpor dari Kalifornia, AS (cabang hijau pada pohon) pada bulan Maret. Penafsiran importasi ini selaras dengan lalu-lintas perjalanan antara kedua wilayah bertetangga ini meskipun kita harus berhati-hati dalam penafsiran ini karena sekuens yang kurang memadai.
+Di tengah pohon, terdapat klaster kasus di Baja California (biru muda). Kasus ini sepertinya diimpor dari California, AS (cabang hijau pada pohon) pada bulan Maret. Penafsiran importasi ini selaras dengan lalu-lintas perjalanan antara kedua wilayah bertetangga ini meskipun kita harus berhati-hati dalam penafsiran lokasi penularannya karena data sekuens yang kurang memadai.
 
 
 <!-- ############ SLIDE BREAK ############# -->
 # [Rangkuman penutup](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-Saat pandemi mencapai delapan bulan sirkulasi global, kini kita dapat melihat perubahan yang berbeda sepanjang waktu dalam gambar yang diwarnai dengan genetika virus, sebagian besar ditentukan oleh perubahan perilaku.
+Setelah pandemi mencapai delapan bulan sirkulasi global, kini kita dapat melihat perubahan yang berbeda seiring waktu dalam gambaran yang diwarnai oleh genetika virus, sebagian besar ditentukan oleh perubahan perilaku.
 
-Penularan awal bertubi ke AS, Oseania, Eropa, dan seantero Asia, awalnya bercampur, pola perjalanan global menyebarkan virus dengan sangat efektif. Segera setelahnya, beragam introduksi ke Amerika Selatan dan Afrika, kebanyakan dari Eropa dan Amerika Utawa, telah menyemai epidemi lokal.
+Penularan awal berulang ke AS, Oseania, Eropa, dan seantero Asia awalnya sangatlah bercampur karena pola perjalanan global manusia menyebarkan virus ini dengan sangat efektif. Segera setelahnya, beragam introduksi ke Amerika Selatan dan Afrika, kebanyakan dari Eropa dan Amerika Utawa, telah menyemai epidemi lokal.
 
-Ketika skala penyebaran virus dan keparahan COVID-19 menjadi jelas, perjalanan terhenti di sebagian besar dunia. Setelah ini, kita dapat melihat pergeseran berbeda ke penularan lokal saat 'penguncian' dan pembatasan bepergian. Satu hasil dari pembatasan ini adalah kini kita dapat lebih mengenali sumber virus, ketika epidemi lokal dalam beberapa kasus telah berubah secara genetik. Di AS, ketiadaan pembatasan perjalanan domestik 'berhasil membantu' mempertahankan percampuran epidemi antarnegara bagian.
+Ketika skala penyebaran virus dan keparahan COVID-19 menjadi jelas, perjalanan terhenti di sebagian besar dunia. Setelah ini, kita dapat melihat pergeseran jelas ke penularan lokal saat 'lockdown' dan pembatasan perjalanan yang ketat. Satu hasil dari pembatasan ini adalah kini kita dapat lebih mengenali sumber virus, ketika epidemi lokal dalam beberapa kasus telah menjadi lebih khas secara genetik. Di AS, ketiadaan pembatasan perjalanan domestik 'berhasil membantu' mempertahankan percampuran epidemi antarnegara bagian.
 
-Perbatasan kini telah dibuka kembali dan perjalanan telah diperbolehkan, meski belum menyamai kadar sebelum pandemi. Hal ini ditambah jeda waktu antara penyampelan dan ketersediaan sekuens secara publik, kita hanya melihat sedikit tanda percampuran antarnegara. Secara umum, sampel-sampel baru cenderung terus berklaster dengan sekuens terdahulu dari negeri yang sama, menunjukkan berlanjutnya penularan varian yang sudah ada sebelumnya. 
+Perbatasan kini telah dibuka kembali dan perjalanan telah diperbolehkan, meski belum menyamai kadar sebelum pandemi. Hal ini, ditambah jeda waktu antara penyampelan dan ketersediaan sekuens secara publik, mengakibatkan bahwa kita hanya melihat sedikit tanda percampuran antarnegara. Secara umum, sampel-sampel baru cenderung terus berklaster dengan sekuens terdahulu dari negara yang sama, menunjukkan berlanjutnya penularan varian yang sudah ada sebelumnya. 
 
-Sayangnya, banyak negara menemukan peningkatan kasus dalam beberapa pekan terakhir, mengikuti pengendoran pembatasan. Ketika Hemisfer Utara akan menghadapi musim gugur dan cuaca yang mendingin, pembukaan lebih lanjut, dan pembukaan sekolah, kita harus tetap waspada terhadap peningkatan angka kasus. Saat musim dingin berlanjut di Hemisfer Selatan, kita melihat tanda mengkhawatirkan karena kemungkinan peningkatan penularan - keberhasilan Australia di awal kini teredam oleh wabah baru-baru ini. Melanjutkian peningkatan jumlah pemeriksaan, pelacakan, dan isolasi, menjaga kebersihan tangan, dan pemakaian masker secara benar dapat membantu masyarakat kita seterbuka mungkin sementara memerangi SARS-CoV-2.
+Sayangnya, banyak negara mengalami peningkatan kasus dalam beberapa pekan terakhir, biasanya mengikuti pengendoran pembatasan. Karena Hemisfer Utara akan menghadapi musim gugur dan cuaca yang mendingin, pembukaan lebih lanjut, dan pembukaan sekolah, kita harus tetap waspada terhadap peningkatan angka kasus. Saat musim dingin berlanjut di Hemisfer Selatan, kita melihat tanda mengkhawatirkan bahwa musim memang dapat mengakibatkan peningkatan penularan yang bermasalah - keberhasilan awal Australia menangani virus ini kini teredam oleh perebakan baru-baru ini. Melanjutkan peningkatan jumlah pemeriksaan, pelacakan, dan isolasi, menjaga kebersihan tangan, dan pemakaian masker secara bertanggung jawab dapat membantu masyarakat kita menjadi seterbuka mungkin sementara kita terus memerangi SARS-CoV-2.
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Kredit ilmiah](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
+# [Pengakuan ilmiah](https://nextstrain.org/ncov/global/2020-08-11?d=tree&c=author)
 
-Kami menyampaikan penghargaan karya luar biasa dan menguras waktu yang telah dilakukan oleh para ilmuwan yang menggeluti wabah ini.
-Hanya melalui berbagi cepat data genomik dan metadata analisis seperti ini dapat dilakukan.
+Kami menyampaikan penghargaan atas kerja keras luar biasa dan tepat waktu yang telah dilakukan oleh semua ilmuwan yang terlibat dalam wabah ini.
+Hanya melalui berbagi cepat data genomik dan metadata analisis ini dapat dilakukan.
 
-**Kami mendorong anda untuk mengklik 'Explore the Data Yourself' dan gulir ke bawah untuk melihat daftar lengkap penulis; penulis setiap sekuens dapat dilihat dengan memilih sekuensnya pada pohon.**
+**Kami mendorong anda untuk mengklik 'Explore the Data Yourself' ('jelajahi datanya sendiri') dan menggulir (_scroll_) ke bawah untuk daftar lengkap penulis; penulis setiap sekuens juga ditampilkan dengan memilih sekuensnya di pohon filogenetik.**
 
-Kami juga menyampaikan penghargaan kepada GISAID yang telah menyediakan platform yang memungkinkan data-data ini diunggah dan dibagikan.
+Kami juga menyampaikan penghargaan kepada GISAID yang telah menyediakan platform sehingga data ini dapat diunggah dan dibagikan.
