@@ -44,7 +44,7 @@ Ad oggi, ci sono più di 75000 sequenze pubbliche condivise da metà delle nazio
 \n\n
 <!-- ### We use subsampling approaches to remove potential sampling biases in order to ensure that regions and time-periods are appropriately included for analysis.
 (This also helps for the computational requirements.)-->
-### Usiamo metodi di sottocampionamento per rimuovere potenziali errori di campionamento al fine di garantire che le regioni e i periodi di tempo siano adeguatamente inclusi per l'analisi.
+### Usiamo metodi di sottocampionamento per rimuovere potenziali sbilanciamenti nel campionamento al fine di garantire che le regioni geografiche egli intervalli di tempo siano adeguatamente considerati nell'analisi.
 (Questo aiuta anche per i requisiti computazionali.)
 \n\n
 <!-- ### Here you can see the geographical distribution of ~4300 genomes.
@@ -109,7 +109,7 @@ Ogni cerchio è centrato su una singola nazione, il colore indica la regione e l
 
 <!-- In this report, we analyzed publicly shared SARS-CoV-2 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally. -->
 
-In questo report, abbiamo analizzato genomi del SARS-CoV-2 condivisi pubblicamente. Confrontando questi genomi virali tra loro, possiamo tracciare come il virus SARS-CoV-2 si sta spostando nel mondo e si sta diffondendo all'interno delle comunità.
+In questo report, abbiamo analizzato i genomi del SARS-CoV-2 condivisi pubblicamente. Confrontando questi genomi virali tra loro, possiamo tracciare come il virus SARS-CoV-2 si sta spostando nel mondo e si sta diffondendo all'interno delle comunità.
 
 <!--  - Asia has a higher proportion of 19A & 19B clades, with 20A, 20B & 20C clades dominating in Europe & North America.-->
 - L'Asia ha un maggior numero di genomi virali appartenenti ai gruppi 19A & 19B, mentre i gruppi 20A, 20B & 20C sono prevalenti in Europa e America del Nord. 
@@ -118,19 +118,19 @@ In questo report, abbiamo analizzato genomi del SARS-CoV-2 condivisi pubblicamen
 - Globalmente, possiamo vedere chiaramente l'aumento in frequenza della variante D614G nella proteina Spike. Si ipotizza che questa variante provochi un aumento della trasmissione di SARS-CoV-2.
 
 <!-- - To better display real-time builds of the SARS-CoV-2 data around the world, we run 6 regional and 1 global build, which are updated every weekday.-->
-- Per mostrare in tempo reale l'andamento di SARS-CoV-2 nel mondo, abbiamo costruito 6 alberi regionali e 1 globale e li aggiorniamo giornalmente (eccetto nel fine settinama).
+- Per mostrare in tempo reale l'andamento di SARS-CoV-2 nel mondo, abbiamo costruito 6 analisi regionali e 1 globale e le aggiorniamo giornalmente (eccetto nel fine settinama).
 
 <!-- - In Asia, there were numerous between-country transmissions in the region early in the pandemic. More recently, we see a move to within-country links, a trend we see in most regions.-->
-- In Asia, c'erano numerose trasmissioni tra i diversi Paesi nella regione. Più di recente, assistiamo a trasmissioni interne agli Stati, una tendenza che osserviamo nella maggior parte delle regioni. 
+- In Asia, all'inizio della pandemia c'erano numerose trasmissioni tra i diversi Paesi nella regione. Più di recente, assistiamo a trasmissioni interne agli Stati, una tendenza che osserviamo nella maggior parte delle regioni. 
 
 <!-- - In Oceania, New Zealand's cases are contained in a narrow temporal band, corresponding to their elimination of the virus (until this week). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.-->
 - L'epidemia in Oceania e Nuova Zelanda è stata contenuta molto velocemente, portando all'eliminazione del virus in questi Paesi (fino a questa settimana). Il recente aumento dei casi in Australia si manifesta, almeno nei campioni condivisi finora, come casi strettamente raggruppati provenienti da varianti precedentemente circolanti.
 
 <!-- - SARS-CoV-2 spread extremely quickly in Europe - the virus was likely being transmitted in many countries before they realised. This resulted in heavy mixing of European samples early in the pandemic, making it hard to distinguish and identfy introductions from one place to another. More recently, we can see more distinct variants associated with particular countries, as viruses have been constrained through travel restrictions.-->
-- Il virus SARS-CoV-2 si è diffuso molto velocemente in Europa - il virus veniva probabilmente trasmesso localmente in molti Paesi prima che se ne rendessero conto. Ciò ha comportato una forte miscelazione di campioni europei all'inizio della pandemia, rendendo difficile distinguere e identificare le introduzioni da un luogo all'altro. Più recentemente, possiamo vedere varianti più distinte associate a determinati Paesi, poiché la diffusione del virus è stata limitata dalle restrizioni imposte sui viaggi.
+- Il virus SARS-CoV-2 si è diffuso molto velocemente in Europa - il virus veniva probabilmente trasmesso localmente in molti Paesi prima che ci si rendesse conto. Ciò ha comportato una forte miscelazione di campioni europei all'inizio della pandemia, rendendo difficile distinguere e identificare le introduzioni da un luogo all'altro. Più recentemente, possiamo vedere varianti più distinte associate a determinati Paesi, poiché la diffusione del virus è stata limitata dalle restrizioni imposte sui viaggi.
 
 <!--  - Like other regions, South America had multiple introductions, covering most of the known diversity of SARS-CoV-2. After travel restrictions came into place, sequences begin clustering more noticeably. Unfortunately, despite severe ongoing epidemics in many countries, more recent sequences are not readily available.-->
-- Come in altre regioni, l'America del sud ha avuto introduzioni multiple del virus, coprendo la maggior parte della diversità nota di SARS-CoV-2. Dopo l'entrata in vigore delle restrizioni sui viaggi, le sequenze hanno iniziato a raggrupparsi in modo più evidente. Sfortunatamente, nonostante la grave epidemia in corso in molte regioni, non ci sono sequenze più recenti disponibili. 
+- Come in altre regioni, l'America del sud ha avuto introduzioni multiple del virus, coprendo la maggior parte della diversità nota di SARS-CoV-2. Dopo l'entrata in vigore delle restrizioni sui viaggi, le sequenze hanno iniziato a raggrupparsi in modo più evidente. Sfortunatamente, nonostante la grave epidemia in corso in molte regioni, le sequenze piu' recenti non sono spesso immediatamente disponibili. 
 
 <!-- - Africa also had multiple, diverse introductions early in the pandemic. Subsequent travel restrictions seems to have limited mixing among African countries, with most sequences seeming to come from earlier circulating diversity in the same country.-->
 - Anche in Africa ci sono state molteplici introduzioni separate all'inizio della pandemia. Le successive restrizioni di viaggio sembrano avere limitato la mescolanza tra i Paesi africani, e la maggior parte delle sequenze che abbiamo sembrano provenire dalla diversità circolante precedentemente nello stesso Paese.
@@ -182,18 +182,18 @@ L'Europa e il Nord America hanno una mistura di tutti i rami, ma sono dominati d
 
 
 <!--The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.-->
-La sostituzione D614G nel gene che codifica per la proteina Spike (S) è stato recentemente reso noto dalla stampa ed è stato oggetto di molte speculazioni.
+La sostituzione D614G nel gene che codifica per la proteina Spike (S) è stata recentemente discussa dalla stampa ed è stato oggetto di molte speculazioni.
 
 <!--Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).-->
 
-Stanno aumentando le evidenze che la variante G (in giallo in questa visualizzazione) aumenti l'infettivita' del SARS-CoV-2 _in vitro_ e che possa essere stato selezionato evolutivamente perché aumenta la trasmissibilità tra umani ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). D'altro canto questo aumento in infettività potrebbe potenzialmente presentare lo svantaggio di rendere il virus più vulnerabile agli anticorpi neutralizzanti ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
+Stanno aumentando le evidenze del fatto che la variante G (in giallo in questa visualizzazione) aumenti l'infettivita' del SARS-CoV-2 _in vitro_ e che possa essere stato selezionato evolutivamente perché aumenta la trasmissibilità tra umani ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). D'altro canto questo aumento in infettività potrebbe potenzialmente presentare lo svantaggio di rendere il virus più vulnerabile agli anticorpi neutralizzanti ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
 
 <!--Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
 In July the 614G variant was present in the majority of circulating viruses worldwide. Since its initial appearance, the substitution has arisen multiple times and also reverted back to the 614D variant.
 There is no evidence that these other substitutions and reversions have resulted in continued transmission chains.-->
 Qui possiamo vedere che questa variante sembra essere apparsa molto presto dopo la zoonosi iniziale ed essersi successivamente diffusa nel mondo.
 In luglio la variante 614G era presente nella maggior parte dei virus che circolavano nel mondo. A partire dalla sua comparsa iniziale, questa sostituzione è apparsa molte volte, ma spesso è anche ritornata alla variante iniziale 614D.
-
+Non ci sono evidenze che nessuna di queste varianti (originali o mutazioni) siano risultate in catene di trasmissione continuate.
 
 <!-- ############ SLIDE BREAK ############# -->
 <!--# [Analysing regional builds independently](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)-->
@@ -264,7 +264,7 @@ Solo le sequenze australiane e neozelandesi sono colorate.
 Si vede chiaramente che queste sequenze si trovano lungo tutto l'albero, e ciò indica che l'Oceania è stata esposta alla (maggior parte della) variabilità genomica del SARS-CoV-2 osservata nel mondo.
 
 <!--The majority of New Zealand's samples (blues, purples, greens) come from a tight temporal band covering March and April, which is due to the successful control strategy employed by the New Zealand government. While the country is back to relative normality, the borders are still closed to all non-citizens to limit the chances for the virus to re-enter the country. Returning citizens must quarantine for 14 days before entering the country.-->
-La maggior parte dei campioni provenienti dalla Nuova Zelanda (in blu, viola e verde) vengono da un intervallo temporale molto stretto che copre marzo e aprile. Questo è dovuto al successo della strategia impiegata dal governo neozelandese nel controllare l'epidemia. Mentre il Paese è ritornato ad una relativa normalità, i confini sono ancora chiusi a tutti coloro che non sono cittadini del Paese, per limitare le possibilità che il virus ritorni nel Paese. I cittadini di ritorno da altri Stati devono comunque osservare una quarantena di 14 giorni prima di rientrare.
+La maggior parte dei campioni provenienti dalla Nuova Zelanda (in blu, viola e verde) vengono da un intervallo temporale molto stretto che copre marzo e aprile. Questo è dovuto al successo della strategia impiegata dal governo neozelandese nel controllare l'epidemia. Mentre il Paese è ritornato ad una relativa normalità, i confini sono ancora chiusi a tutti coloro che non sono cittadini del Paese, per limitare le possibilità che il virus ritorni nel Paese. I cittadini di ritorno da altri Stati devono comunque osservare una quarantena di 14 giorni al rientro.
 
 <!--This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls -- more below!-->
 Questa settimana il governo neozelandese ha annunciato quattro casi di trasmissione nella comunità che non sono collegati a casi in arrivo dall'estero. La sequenziazione dei campioni potrebbe essere utile per capire come il SARS-CoV-2 ha aggirato i controlli -- ulteriori informazioni a seguire!
@@ -308,7 +308,7 @@ Questa variante ha avuto origine in Europa, ma e' stata osservata in molteplici 
 # [Situazione iniziale in Europa](https://nextstrain.org/ncov/europe/2020-08-10?d=tree,map&f_region=Europe&p=grid&legendOpen&dmax=2020-02-29&dmin=2020-01-03&f_country=Belgium,Denmark,Finland,France,Germany,Greece,Iceland,Italy,Netherlands,Norway,Spain,Sweden,Switzerland,United%20Kingdom,Austria&transmissions=hide)
 
 <!--SARS-CoV-2 spread rapidly across Europe, likely primarily through direct transmissions from Asia.-->
-Il SARS-CoV-2 si è diffuso rapidamente attraverso l'Europa, probabilmente a partire da trasmissioni dirette dall'Asia.
+Il SARS-CoV-2 si è diffuso rapidamente attraverso l'Europa, probabilmente a partire da trasmissioni dirette provenienti dall'Asia.
 
 
 <!--By the end of February, even though there were just [a few hundred cases](https://www.ecdc.europa.eu/en/cases-2019-ncov-eueea) officially reported in Europe, the virus had spread to at least 15 European countries.-->
