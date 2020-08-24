@@ -301,7 +301,7 @@ Il focolaio conta ormai una trentina di casi (al momento della pubblicazione), s
 
 <!--The source is not yet known, however scientists have sequenced the isolates and reported that they fall into pangolin lineage B1.1.1; so while the genomes are yet to be released they are known to fall in the region colored in blue here.
 This lineage originated in Europe, but has since been observed in multiple regions around the world.-->
-La fonte del contagio non è ancora nota, tuttavia gli scienziati hanno sequenziato i campioni isolati e riferito che fanno parte del lineage chiamato pangolin B1.1.1; quindi, anche se i genomi non sono ancora stati diffusi, sappiamo che cadono nella regione qui colorata in blu.
+La fonte del contagio non è ancora nota, tuttavia gli scienziati hanno sequenziato i campioni isolati e riferito che fanno parte del ramo chiamato pangolin B1.1.1; quindi, anche se i genomi non sono ancora stati diffusi, sappiamo che cadono nella regione qui colorata in blu.
 Questa variante ha avuto origine in Europa, ma è stata osservata in molteplici regioni nel mondo.
 
 <!-- ############ SLIDE BREAK ############# -->
