@@ -174,39 +174,39 @@ G変異（この図では黄色）が SARS-CoV-2 の感染性を増加させ、�
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Oceania overview](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
+# [オセアニアの状況](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree,map&f_region=Oceania&legendOpen&p=grid&transmissions=hide)
 
-Here we can explore ~790 genomes from Australia and New Zealand with an extra ~1100 sequences to provide global context.
-Only samples from Australia and New Zealand are colored.
+ここでは、オーストラリアとニュージーランドの約790のゲノムに、さらに約1100の配列を加えて、世界的な状況を提供することができます。
+オーストラリアとニュージーランドのサンプルだけが色付きで表示されています。
 
-You can see that these samples are spread throughout the tree, indicating that Oceania has been exposed to (most of) the observed genomic diversity of SARS-CoV-2.
+これらのサンプルは系統樹全体に広がっており、オセアニア地域では SARS-CoV-2 のゲノムの多様性が観測されていることを示しています。
 
-The majority of New Zealand's samples (blues, purples, greens) come from a tight temporal band covering March and April, which is due to the successful control strategy employed by the New Zealand government. While the country is back to relative normality, the borders are still closed to all non-citizens to limit the chances for the virus to re-enter the country. Returning citizens must quarantine for 14 days before entering the country.
+ニュージーランドのサンプルの大部分（青、紫、緑）は、3月と4月をカバーする狭い時間帯から来ており、これはニュージーランド政府によって採用された管理戦略が成功したためです。国は相対的に正常な状態に戻っていますが、ウイルスが再入国する可能性を制限するために、国境はすべての非市民に対して閉鎖されています。帰国した市民は、入国前に14日間の検疫を受けなければなりません。
 
-This week, the New Zealand government announced four new cases of community transmission which cannot be linked to arriving cases. Genetic sequencing may be able to help uncover how SARS-CoV-2 bypassed the strict controls -- more below!
+今週、ニュージーランド政府は、4つの新たな地域感染例を発表しました。遺伝子配列解析は、SARS-CoV-2 がどのようにして厳格な規制を回避したかを明らかにするのに役立つかもしれません。
 
-_HINT: if you hover your mouse over the circles on the map you can see the relevant tips in the tree highlighted!_
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Resurgence in Australia](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
-
-Australia, and the state of Victoria (capitol city: Melbourne), shown here in orange, have been seeing a reemergence of COVID-19 cases and have recently implemented further public health measures to try to curb this increase.
-
-These most recent genomes all appear to be a subclade of clade 20B (scroll back to the previous slide to see how clade 20B fits into the entire phylogeny).
-The recent dates and clustering are signs of a local outbreak.
-
-We can see similar clustering in sequences from New South Wales, where cases have also increased recently.
+ヒント：地図上の円の上にマウスを置くと、関連するヒントがハイライトされたツリーで見ることができます。
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [New cases detected in New Zealand this week](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
+# [オーストラリアでの再発生](https://nextstrain.org/ncov/oceania/2020-08-11?d=tree&dmin=2019-12-29&f_country=Australia&label=clade:20B&p=grid&transmissions=hide&legendOpen)
 
-New Zealand had reported over 100 days without community transmission before detecting cases in the community this week.
-The cluster has now spread to around 30 known cases (at time of publication), primarily based in the largest city, Auckland.
+オレンジ色で示したオーストラリアとビクトリア州（州都：メルボルン）では、COVID-19 の再発生が確認されており、最近ではこの増加を抑制するために公衆衛生上の対策を実施しています。
 
-The source is not yet known, however scientists have sequenced the isolates and reported that they fall into pangolin lineage B1.1.1; so while the genomes are yet to be released they are known to fall in the region colored in blue here.
-This lineage originated in Europe, but has since been observed in multiple regions around the world.
+これらの最新のゲノムは、すべて 20B 系統郡の副系統郡であるように見えます（20B 系統群がどのように全体の系統に当てはまるかについては、前のスライドにスクロールしてご覧下さい）。
+最近の日付とクラスタリングは、局所的な発生の兆候です。
+
+ニューサウスウェールズ州でも最近症例が増加しており、同様のクラスタリングが見られます。
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [今週ニュージーランドで検出された新しい症例](https://nextstrain.org/ncov/oceania/2020-08-11?c=gt-nuc_10097,23731&d=tree)
+
+ニュージーランドでは、地域社会での感染がない状態が100日以上続いたと報告されていましたが、今週になり新たな地域社会での感染が報告されました。
+この集団は現在、主に最大の都市オークランドを拠点とする約30例の既知の症例に広がっています（発表時）。
+
+感染源はまだわかっていませんが、科学者たちが分離した株の塩基配列を調べたところ、センザンコウ (Pangolins) 系統 B1.1.1 に該当すると報告しています。そのため、ゲノムはまだ公開されていませんが、ここで青色に着色された領域にあることが知られています。
+この系統はヨーロッパを起源としていますが、それ以来、世界中の複数の地域で観察されています。
 
 
 <!-- ############ SLIDE BREAK ############# -->
