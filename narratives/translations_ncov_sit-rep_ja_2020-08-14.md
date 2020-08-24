@@ -1,5 +1,5 @@
 ---
-title: August 2020 update of COVID-19 genomic epidemiology
+title: COVID-19 ゲノム疫学 2020年8月の更新
 authors:
   - James Hadfield
   - Cassia Wagner
@@ -17,29 +17,32 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
 translators:
   - Fengjun Zhang
+  - Tomoyuki Nezu
+  - Takeshi Sato
 translatorLinks:
   - https://twitter.com/fengjun_zhang
+  - https://twitter.com/tommy_nezy
+  - https://github.com/satotake
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
 date: "2020 August 14"
 abstract: "
-The pandemic is currently widespread around the world, with over [1.5 million new cases each week](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) and total reported cases of [18 million](https://ourworldindata.org/covid-cases) and over [600,000 fatailities](https://ourworldindata.org/covid-deaths).
+現在、世界的に感染が拡大しており、[毎週150万人以上の新たな患者](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)、総報告数は[1,800万人](https://ourworldindata.org/covid-cases)、[60万人以上の死亡者数](https://ourworldindata.org/covid-deaths)となっています。
 \n\n
-### The situation [is summarised by the WHO on August 2, 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
+### 2020年8月2日にWHOがまとめた状況: (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports)
 \n\n
-### **\"As countries have eased public health and social measures, implemented to limit transmission of the virus, a number of these countries have observed clusters or resurgences of cases. Risks and vulnerabilities are further magnified in fragile, low-resource and conflict-affected settings.\"**
+### **\"各国がウイルスの感染を制限するために実施した公衆衛生および社会的対策が緩和されるにつれ、これらの国の多くではクラスタの発生や感染の再発が確認されています。リスクと脆弱性は、脆弱で、資源が少なく、紛争の影響を受けている状況ではさらに拡大しています。\"**
 \n\n
-### The worldwide sequencing of the SARS-CoV-2 genome has continued unabated, and with this data we use Nextstrain to track the geographic movement and evolution of the virus.
-To date, there are over 75,000 sequences publicly shared from half the countries in the world - an amazing testament to the scientists and public health officials behind this.
+### 世界的な SARS-CoV-2ゲノムの配列決定作業は衰えることなく続けられており、このデータをもとに Nextstrain を利用してウイルスの地理的な移動と進化を追跡しています。
+現在までに世界の半分の国から75,000以上の配列が公開されていますが、これはこの背後にいる科学者と公衆衛生関係者の驚くべき成果です。
 \n\n
-### We use subsampling approaches to remove potential sampling biases in order to ensure that regions and time-periods are appropriately included for analysis.
-(This also helps for the computational requirements.)
+### 我々は、分析のために地域と期間が適切に含まれるようにするため、サブサンプリング手法を使用して潜在的なサンプリングバイアスを削除します(これは計算要件にも役立ちます)
 \n\n
-### Here you can see the geographical distribution of ~4300 genomes.
-Each circle is centered on an individual country, the colour indicates region and the radius scales with the number of genomes from that country ([see here for help interpreting the map in Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
+### ここでは、約4300のゲノムの地理的分布を見ることができます。
+各円は個々の国を中心にしており、色は地域を示し、半径はその国のゲノム数に応じて変化します（[Nextstrainでの地図の解釈についてはこちらを参照してください](https://nextstrain.org/docs/visualisation/map-interpretation))
 \n\n
-### In this report, we examine the global genomic epidemiology of COVID-19 broadly and provide specific updates for each world region.
+### このレポートでは、COVID-19の世界的ななゲノム疫学を幅広く調査し、各世界の地域に固有の更新情報を提供します。
 "
 ---
 <!-- Translators: Only text after : in the above ^ needs to be translated -->
@@ -50,19 +53,19 @@ Each circle is centered on an individual country, the colour indicates region an
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- table of contents slide -->
-# [COVID-19 Summary](https://nextstrain.org/ncov/global/2020-08-11?d=map)
+# [COVID-19 のまとめ](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
-### Table of contents
-* [Global clade distribution](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [D614G Spike Mutation](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Situation in Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Situation in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Situation in Europe](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Situation in South America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Situation in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Situation in North America](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Closing summary](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+### 目次
+* [世界的な系統群の分布](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
+* [D614Gスパイクの変異](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
+* [アジアの状況](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
+* [オセアニアの状況](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
+* [ヨーロッパの状況](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
+* [南アメリカの状況](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
+* [アフリカの状況](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
+* [北アメリカの状況](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
+* [まとめ](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
+* [著者、提供者など](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
 
 #### Nextstrain Resources
 * [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/)
@@ -72,27 +75,27 @@ Each circle is centered on an individual country, the colour indicates region an
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
 
-# Executive Summary
+# 概要
 
-In this report, we analyzed publicly shared SARS-CoV-2 genomes. By comparing these viral genomes to each other, we can characterize how COVID-19 is moving around the world and spreading locally.
+このレポートでは、公開されている COVID-19 ゲノムを分析しました。これらのウイルスのゲノムを相互に比較することにより、COVID-19 が世界中をどのように移動しているか、地域の中でどのように拡散しているかを特徴付けることができます。
 
-- Asia has a higher proportion of 19A & 19B clades, with 20A, 20B & 20C clades dominating in Europe & North America.
+- アジアでは 19A および 19B 系統群の割合が高く、20A, 20B および 20C 系統群がヨーロッパおよび北米で優勢です。
 
-- Globally, we can clearly see the rise to prominence of the D614G substitution in the Spike protein. This variant is hypothesised to cause an increase in SARS-CoV-2 transmission.
+- 世界的に見ても、Spikeタンパク質の D614G 置換が目立つようになってきているのがよくわかります。この変異は SARS-CoV-2 の感染を増加させる原因になると考えられています。
 
-- To better display real-time builds of the SARS-CoV-2 data around the world, we run 6 regional and 1 global build, which are updated every weekday.
+- 世界中の SARS-CoV-2 データのリアルタイムでの分析をより適切に表示するために、6つの地域分析と1つの全世界での分析を実行します。これらは毎週更新されます。
 
-- In Asia, there were numerous between-country transmissions in the region early in the pandemic. More recently, we see a move to within-country links, a trend we see in most regions.
+- アジアでは感染拡大の初期に国間の感染が多数発生していました。最近では国内での感染が増加しており、これはほとんどの地域で見られる傾向です。
 
-- In Oceania, New Zealand's cases are contained in a narrow temporal band, corresponding to their elimination of the virus (until this week). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.
+- オセアニアでは、ニュージーランドの症例は、ウイルスの排除に対応する狭い時間帯にとどまっています（今週まで）。オーストラリアの最近の症例数の急増は、少なくともこれまでに共有されたサンプルを見ると、以前の多様性からの症例が緊密にクラスタリングされていることを示しています。
 
-- SARS-CoV-2 spread extremely quickly in Europe - the virus was likely being transmitted in many countries before they realised. This resulted in heavy mixing of European samples early in the pandemic, making it hard to distinguish and identfy introductions from one place to another. More recently, we can see more distinct variants associated with particular countries, as viruses have been constrained through travel restrictions.
+- SARS-CoV-2 はヨーロッパで非常に急速に拡散しました。このため、感染拡大の初期にはヨーロッパのサンプルの混合が激しく、ある場所から別の場所への感染を区別し識別することが困難になりました。最近では渡航制限によってウイルスが制限されるようになったため、特定の国に関連したより明確な亜種が見られるようになりました。
 
-- Like other regions, South America had multiple introductions, covering most of the known diversity of SARS-CoV-2. After travel restrictions came into place, sequences begin clustering more noticeably. Unfortunately, despite severe ongoing epidemics in many countries, more recent sequences are not readily available.
+- 他の地域と同様に、南米でも複数の伝播があり、SARS-CoV-2 の既知の多様性のほとんどをカバーしています。渡航制限が行われるようになってからは、遺伝子配列は顕著にクラスター化し始めます。残念ながら、多くの国で進行中の深刻な流行にもかかわらず、より最近の遺伝子配列は容易に入手できません。
 
-- Africa also had multiple, diverse introductions early in the pandemic. Subsequent travel restrictions seems to have limited mixing among African countries, with most sequences seeming to come from earlier circulating diversity in the same country.
+- アフリカでも、感染拡大の初期には複数の多様な伝播がありました。その後の渡航制限により、アフリカ諸国間での混合は制限されているようで、ほとんどの配列は同じ国で以前に流通していた多様性に由来しているようです。
 
-- A different picture is shown in the USA, where domestic travel has not been greatly restricted: we see mixing among all states, as well as local transmission. In Mexico & Central America, we see examples of geographical clustering in transmission, particularly between California (USA) & Baja California (Mexico).
+- 国内旅行が大幅に制限されていない米国では、異なる画像が示されています。すべての州間の混合と局所的な伝播が見られます。メキシコと中米では、特にカリフォルニア州（米国）とバハ・カリフォルニア州（メキシコ）との間で地理的なクラスタリングが見られます。
 
 ```
 
