@@ -55,19 +55,19 @@ Tiap lingkaran berpusat pada sebuah negara, warnanya menandakan wilayah, dan rad
 # [Ringkasan COVID-19](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
 ### Daftar isi
-* [Sebaran klaster global](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [Mutasi 'Spike' D614G](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Keadaan di Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Keadaan di Oseania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Keadaan di Eropa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Keadaan di Amerika Selatan](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Keadaan di Afrika](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Keadaan di Amerika Utara](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Ringkasan penutup](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Pengakuan ilmiah](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+* [Sebaran klaster global](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-08-14?n=2)
+* [Mutasi 'Spike' D614G](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-08-14?n=3)
+* [Keadaan di Asia](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-08-14?n=5)
+* [Keadaan di Oseania](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-08-14?n=7)
+* [Keadaan di Eropa](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-08-14?n=10)
+* [Keadaan di Amerika Selatan](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-08-14?n=13)
+* [Keadaan di Afrika](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-08-14?n=15)
+* [Keadaan di Amerika Utara](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-08-14?n=17)
+* [Ringkasan penutup](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-08-14?n=19)
+* [Pengakuan ilmiah](https://nextstrain.org/narratives/ncov/sit-rep/id/2020-08-14?n=20)
 
 #### Informasi dari Nextstrain
-* [MULAI DARI SINI: Cara membaca pohon filogenetik](https://nextstrain.org/narratives/trees-background/)
+* [MULAI DARI SINI: Cara membaca pohon filogenetik](https://nextstrain.org/narratives/trees-background/id)
 * [Laporan Keadaan sebelumnya](https://nextstrain.org/ncov-sit-reps/)
 * [Latar belakang mengenai koronavirus](https://nextstrain.org/help/coronavirus/human-CoV)
 
