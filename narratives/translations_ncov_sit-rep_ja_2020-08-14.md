@@ -57,7 +57,7 @@ abstract: "
 
 ### 目次
 * [世界的な系統群の分布](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [D614Gスパイクの変異](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
+* [D614G スパイクの変異](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
 * [アジアの状況](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
 * [オセアニアの状況](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
 * [ヨーロッパの状況](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
@@ -68,9 +68,9 @@ abstract: "
 * [著者、提供者など](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
 
 #### Nextstrain Resources
-* [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/)
-* [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/)
-* [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)
+* [最初にご覧下さい: 系統樹の読み方](https://nextstrain.org/narratives/trees-background/ja)
+* [これまでの週次レポート](https://nextstrain.org/ncov-sit-reps/)
+* [コロナウイルスの背景](https://nextstrain.org/help/coronavirus/human-CoV)
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
@@ -81,7 +81,7 @@ abstract: "
 
 - アジアでは 19A および 19B 系統群の割合が高く、20A, 20B および 20C 系統群がヨーロッパおよび北米で優勢です。
 
-- 世界的に見ても、Spikeタンパク質の D614G 置換が目立つようになってきているのがよくわかります。この変異は SARS-CoV-2 の感染を増加させる原因になると考えられています。
+- 世界的に見ても、Spike タンパク質の D614G 変異が目立つようになってきているのがよくわかります。この変異は SARS-CoV-2 の感染を増加させる原因になると考えられています。
 
 - 世界中の SARS-CoV-2 データのリアルタイムでの分析をより適切に表示するために、6つの地域分析と1つの全世界での分析を実行します。これらは毎週更新されます。
 
@@ -101,15 +101,15 @@ abstract: "
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Worldwide distribution of genetic variants](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
+# [遺伝的変異の世界的な分布](https://nextstrain.org/ncov/global/2020-08-11?c=clade_membership&d=map&r=color)
 
-Since its emergence in late 2019, SARS-CoV-2 has diversified into several different co-circulating variants. To facilitate discussion of these variants, we have grouped them into clades which are defined by specific signature mutations.
+2019年後半に登場して以来、SARS-CoV-2 はいくつかの異なる循環型の亜種に多様化しています。これらの多様体の説明を容易にするために、特定の特徴的な変異によって定義される系統群にグループ化しました。
 
-We currently define 5 major clades (see [this blog post](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) for details):
+現在、5つの主要なクレードを定義しています (詳細については[この投稿](https://nextstrain.org/blog/2020-06-02-SARSCoV2-clade-naming) をご覧下さい):
 
-* 19A and 19B emerged in Wuhan and dominated the early outbreak.
-* 20A emerged out of 19A, dominated the European outbreak in March, and has since spread globally.
-* 20B and 20C are large, genetically distinct subclades of 20A.
+* 19A と 19B は武漢で出現し、初期の感染拡大を支配しました。
+* 20A は 19A から出現し、3月のヨーロッパでの流行を支配し、その後世界的に広がっています。
+* 20B および 20C は、20A の大きく、遺伝的に異なる副系統群です。
 
 
 <svg viewBox="0 0 120 80">
@@ -117,60 +117,60 @@ We currently define 5 major clades (see [this blog post](https://nextstrain.org/
 </svg>
 
 
-We're now looking at the distribution of these clades across the world (the color now represents clade membership).
-You can see that countries in the Asia region have a higher proportion of 19A and 19B (blues) as that variant dominated in the early outbreak.
-Europe and North America have a mixture of all clades, but are dominated by 20B and 20C (yellow and orange, respectively).
+次に、これらの亜種の世界的な分布を見てみましょう（色は亜種がその系統群に属しているのかを表しています）。
+アジア地域の国々では、19A と 19B（青）の割合が高くなっているのがわかります。
+ヨーロッパと北米では、すべての系統群が混在していますが、20B と 20C（それぞれ黄色とオレンジ色）が優勢です。
 
-#### If you have SARS-CoV-2 sequences for which you'd like to know their clade (and estimated position on a phylogenetic tree), we made Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)) which lets you drag-and-drop your FASTA files onto the browser.
-
-
-<!-- ############ SLIDE BREAK ############# -->
-# [The well-publicized D614G Spike Mutation](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
-
-The D614G substitution in the gene coding for the Spike (S) protein has been in the news recently and the topic of much speculation.
-
-Evidence is building that the G variant (yellow in this view) increases infectivity of SARS-CoV-2 _in vitro_ and may have been evolutionarily selected for increased human-to-human transmission ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1)). However, an increase in infectivity may potentially come at the cost of making the virus more vulnerable to neutralizing antibodies ([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)).
-
-Here we can see that this variant was inferred to have appeared very shortly after the initial zoonosis and subsequently spread around the world.
-In July the 614G variant was present in the majority of circulating viruses worldwide. Since its initial appearance, the substitution has arisen multiple times and also reverted back to the 614D variant.
-There is no evidence that these other substitutions and reversions have resulted in continued transmission chains.
+#### SARS-CoV-2 の配列で、その系統群（および系統樹上の推定位置）を知りたい場合は、Nextclade ([clades.nextstrain.org/](https://clades.nextstrain.org/)を作成し、FASTA　ファイルをブラウザ上にドラッグ＆ドロップすることで確認が出来ます。
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Analysing regional builds independently](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
+# [よく知られている D614G スパイク変異](https://nextstrain.org/ncov/global/2020-08-11?c=gt-S_614&d=tree,map&r=region&transmissions=hide&legendOpen)
 
-As there are too many genomes to show in a single tree, we provide a regional analysis for each of the 6 regions shown here, in addition to our main 'global' build.
-This allows us to focus on the diversity within each region, while choosing appropriate out-of-region samples, so we can maintain an overview of all of the between-region transmissions over time - as we can see on this slide!
+スパイク（S）タンパク質を表す遺伝子の D614G 置換は最近ニュースになり、多くの憶測が飛び交っています。
 
-In the next slides we're going to provide an overview of each of those regions by switching to the corresponding dataset. (This is a new feature in Nextstrain Narratives!)
+G変異（この図では黄色）が SARS-CoV-2 の感染性を増加させ、人から人への感染を増加させるために進化的に選択された可能性があるという証拠が増えています ([Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1) )。しかしながら、感染性の増加は、ウイルスを中和抗体に対してより脆弱にするという代償を伴う可能性があります([Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1))。
 
-A full inventory of builds maintained by us and others is available at [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
-
-<!-- ############ SLIDE BREAK ############# -->
-# [Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
-
-If we examine the situation in Asia from genomes collected before June 2020, we see signs of both extensive within-Asia transmission as well as transmissions to and from other regions of the world.
-
-#### Interpreting the lines and colors
-
-Here only countries in Asia have been colored, with the other regions represented by shades of grey.
-The color of each transmission line (lines between circles) represents the origin location, so all of the **colored** lines represent transmissions originating from a country within Asia (in this example).
-
-#### Transmissions into Asia
-
-This shows that many of transmissions involving Asian and non-Asian countries were importations into Asia (grey lines).
-Especially pronounced in this view are those transmissions from Europe to Asia (though the lines seem to come from Germany, this point represents all of Europe). However, we must be cautious about how we interpret these inferred transmissions, as sampling biases can play a large role (and we have many more samples from Europe than anywhere else).
+ここでは、この変異体が最初の人獣共通感染症の直後に出現し、その後世界中に広がったと推測されることがわかります。
+7月には、614G 変異体は世界中で流通しているウイルスの大部分に存在していました。最初の出現以来、置換は複数回発生し、614D 型に戻りました。
+これらの他の置換や復帰が継続的な感染連鎖をもたらしたという証拠はありません。
 
 
 <!-- ############ SLIDE BREAK ############# -->
-# [Asia situation after June 1](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
+# [地域毎の分析](https://nextstrain.org/ncov/global/2020-08-11?&c=num_date&d=map&r=region&legendOpen&transmissions=show)
 
-Looking at the genomes sampled after June 1 (i.e. in the past 2 months), we see that the sampling is dominated by fewer countries.
-This limits the conclusions we can draw, but it appears that we may have fewer transmissions between countries.
+ゲノム数が多すぎて1つの系統樹では表示できないため、ここでは「グローバル」の分析に加えて、6つの地域ごとに分析を提供しています。
+これにより、各地域内の多様性に焦点を当てながら、適切な地域外のサンプルを選択することができ、このスライドでわかるように、時間の経過に伴う地域間の伝達の概要を示すことができます。
 
-This is also evident looking at the phylogeny, where we have large monophyletic (in the same part of the tree) groupings of genomes from Singapore (yellow) and Bangladesh (light green).
+次のスライドでは、対応するデータセットに切り替えることにより、それぞれの地域の概要を説明します。これはNextstrain Narrativesの新機能です！！
 
-These data are consistent with less recent international travel and stricter control measures.
+私たちや他の人がメンテナンスしている分析の完全な一覧は [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/) で見ることができます。
+
+<!-- ############ SLIDE BREAK ############# -->
+# [6月以前のアジア状況](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
+
+2020年6月以前に収集されたゲノムからアジアの状況を調べると、アジア内での広範囲な伝播と世界の他の地域との間での伝播の両方の兆候が見られます。
+
+#### 線と色の解釈
+
+ここでは、アジアの国だけが色分けされており、その他の地域は灰色の濃淡で表されています。
+各伝播線（円の間の線）の色は伝播元の場所を表しているので、**色のついた** 線はすべてアジア内の国（この例では）からの伝播を表しています。
+
+#### アジアへの伝播
+
+これは、アジアとアジア以外の国を巻き込んだ伝播の多くが、アジアへの伝播であることを示しています（灰色の線）。
+この見方で特に顕著なのは、ヨーロッパからアジアへの伝播です（この伝播はドイツから来ているように見えますが、この点はヨーロッパ全体を表しています）。しかし、サンプリングの偏りが大きな影響を与える可能性があるため、これらの推定された伝播をどのように解釈するかについては慎重にならざるを得ません（そして、我々は他のどこよりも多くのヨーロッパからのサンプルを持っています）
+
+
+<!-- ############ SLIDE BREAK ############# -->
+# [6月1日以降のアジア状況](https://nextstrain.org/ncov/asia/2020-08-11?d=tree,map&dmin=2020-06-01&f_region=Asia&legendOpen&p=grid)
+
+6月1日以降（つまり過去2ヶ月間）にサンプリングされたゲノムを見ると、サンプリングされた国の数が少ないことがわかります。
+このため結論を出すことができませんが、国間での感染が少ないように思われます。
+
+これは系統樹を見ても明らかで、シンガポール（黄色）とバングラデシュ（薄緑）からのゲノムの大きな単系統（ツリーの同じ部分にある）グループが見られます。
+
+これらのデータは、最近の国際的な移動の少なさや、より厳格な管理措置と一致しています。
 
 
 <!-- ############ SLIDE BREAK ############# -->
