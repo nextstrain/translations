@@ -56,16 +56,16 @@ abstract: "
 # [COVID-19 のまとめ](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
 ### 目次
-* [世界的な系統群の分布](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [D614G スパイクの変異](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [アジアの状況](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [オセアニアの状況](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [ヨーロッパの状況](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [南アメリカの状況](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [アフリカの状況](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [北アメリカの状況](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [まとめ](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [著者、提供者など](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+* [世界的な系統群の分布](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-08-14?n=2)
+* [D614G スパイクの変異](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-08-14?n=3)
+* [アジアの状況](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-08-14?n=5)
+* [オセアニアの状況](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-08-14?n=7)
+* [ヨーロッパの状況](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-08-14?n=10)
+* [南アメリカの状況](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-08-14?n=13)
+* [アフリカの状況](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-08-14?n=15)
+* [北アメリカの状況](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-08-14?n=17)
+* [まとめ](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-08-14?n=19)
+* [著者、提供者など](https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-08-14?n=20)
 
 #### Nextstrain Resources
 * [最初にご覧下さい: 系統樹の読み方](https://nextstrain.org/narratives/trees-background/ja)
