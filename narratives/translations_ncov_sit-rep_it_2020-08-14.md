@@ -199,11 +199,11 @@ Questo ci permette di focalizzarci sulla diversità genetica all'interno di ogni
 Nella prossima slide mostreremo una visione globale di ciascuna di queste regioni, passando al set di dati corrispondente. (Si tratta di una nuova funzionalità in Nextstrain Narratives!)
 
 <!--A full inventory of builds maintained by us and others is available at [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).-->
-Un inventario completo delle strutture che manteniamo noi ed altri è disponibile qui [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).-->
+Un inventario completo delle strutture che manteniamo noi ed altri è disponibile qui [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- [Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)-->
-[Situazione in Asia prima di giugno](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
+# [Situazione in Asia prima di giugno](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)
 
 <!--If we examine the situation in Asia from genomes collected before June 2020, we see signs of both extensive within-Asia transmission as well as transmissions to and from other regions of the world.-->
 Se analizziamo la situazione in Asia usando i genomi raccolti prima di giugno 2020, ci sono evidenze sia di una estesa trasmissione all'interno del continente asiatico, ma anche di trasmissioni da e per altre regioni del mondo.
@@ -402,7 +402,7 @@ Questo risultato probabilmente riflette le continue restrizioni ai movimenti imp
 # [L'epidemia negli Stati Uniti e' un misto di trasmissione locale e all'interno della nazione](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&p=full)
 
 <!--Here we show genomes from the United States epidemic from April 15 to present day. In mid-April, all U.S. states were on lockdown. [States have since implemented heterogeneous reopening policies](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html).-->
-Qui mostriamo i genomi raccolti negli Stati Uniti dal 15 Aprile ad ora. A metà aprile tutti gli stati erano in lockdown. [I diversi stati hanno implementato politiche di riapertura eterogenee] (https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html)
+Qui mostriamo i genomi raccolti negli Stati Uniti dal 15 Aprile ad ora. A metà aprile tutti gli stati erano in lockdown. [I diversi stati hanno implementato politiche di riapertura eterogenee](https://www.nytimes.com/interactive/2020/us/states-reopen-map-coronavirus.html)
 
 <!--In this tree, just like in the trees for other regions, we see examples of local virus transmission as shown by similarly-colored tips clustering together over time. If you click, "Explore the Data Yourself", and filter the location to Yakima County, you can see a clear example of introduction and growth of genetically related viruses into this region of Washington State. (You can also [click here](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) to do this, but you will leave the narrative.)-->
 In quest'albero, proprio come negli alberi relativi ad altre regioni geografiche, vediamo esempi di trasmissione locale del virus come gruppi di foglie dello stesso colore vicine sull'albero durante l'intervallo di tempo. Cliccando su "Esplora i dati da solo" e fitrando la localizzazione Yakima County si puo' vedere un esempio chiaro di introduzione e crescita di virus geneticamente simili nella regione dello stato di Washington. (Cliccando [qui](https://nextstrain.org/ncov/north-america/2020-08-11?d=tree,map&dmin=2020-04-15&f_country=USA&f_location=Yakima%20County&p=grid) si fa lo stesso, ma si abbandona questa narrativa.)
