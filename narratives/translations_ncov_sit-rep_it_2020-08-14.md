@@ -1,5 +1,4 @@
 ---
-<!-- title: August 2020 update of COVID-19 genomic epidemiology-->
 title: Analisi genomica della diffusione del COVID-19. Rapporto sulla situazione aggiornato ad agosto 2020.
 authors:
   - James Hadfield
@@ -17,43 +16,33 @@ authorLinks:
   - https://neherlab.org/emma-hodcroft.html
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
 translators:
--Alice Ledda
--Alessia Lepore
--Sara Pilia
+  - Alice Ledda
+  - Alessia Lepore
+  - Sara Pilia
 translatorLinks:
--@alice_ledda_
--@MEKLab
--@SaraMeiqi
+  - https://twitter.com/alice_ledda_
+  - https://twitter.com/MEKlab
+  - https://twitter.com/SaraMeiqi
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
 date: "2020 August 14"
 abstract: "
-<!--The pandemic is currently widespread around the world, with over [1.5 million new cases each week](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports) and total reported cases of [18 million](https://ourworldindata.org/covid-cases) and over [600,000 fatailities](https://ourworldindata.org/covid-deaths).-->
 La pandemia è correntemente diffusa in tutto il mondo, con oltre [1.5 milioni di nuovi casi ogni settimana](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports), casi riportati per un totale di [18 milioni](https://ourworldindata.org/covid-cases) e più di [600,000 morti](https://ourworldindata.org/covid-deaths).
 \n\n
-<!-- ### The situation [is summarised by the WHO on August 2, 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):-->
 ### La situazione [è stata riassunta dall'OMS il 2 agosto 2020](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports):
 \n\n
-<!--### **\"As countries have eased public health and social measures, implemented to limit transmission of the virus, a number of these countries have observed clusters or resurgences of cases. Risks and vulnerabilities are further magnified in fragile, low-resource and conflict-affected settings.\"**-->
 ### **\"Poiché i Paesi hanno rilassato le misure sanitarie e sociali implementate per limitare la trasmissione del virus, alcuni di questi Paesi hanno osservato clusters (focolai) o un incremento dei casi. I rischi e le vulnerabilità sono ulteriormente amplificati in contesti fragili, con poche risorse e soggetti a conflitti.\"**
 \n\n
-<!--### The worldwide sequencing of the SARS-CoV-2 genome has continued unabated, and with this data we use Nextstrain to track the geographic movement and evolution of the virus.
-To date, there are over 75,000 sequences publicly shared from half the countries in the world - an amazing testament to the scientists and public health officials behind this. -->
-### Il sequenziamento a livello globale del genoma del SARS-CoV-2 è continuato senza sosta, e con questi dati usiamo Nextstrain per tracciare i movimenti geografici e l'evoluzione del virus. 
+### Il sequenziamento a livello globale del genoma del SARS-CoV-2 è continuato senza sosta, e con questi dati usiamo Nextstrain per tracciare i movimenti geografici e l'evoluzione del virus.
 Ad oggi, ci sono più di 75000 sequenze pubbliche condivise da metà delle nazioni nel mondo - un incredibile testamento lasciato dagli scienziati e dai funzionari della sanità pubblica.
 \n\n
-<!-- ### We use subsampling approaches to remove potential sampling biases in order to ensure that regions and time-periods are appropriately included for analysis.
-(This also helps for the computational requirements.)-->
 ### Usiamo metodi di sottocampionamento per rimuovere potenziali sbilanciamenti nel campionamento al fine di garantire che le regioni geografiche e gli intervalli di tempo siano adeguatamente considerati nell'analisi.
 (Questo aiuta anche per i requisiti computazionali.)
 \n\n
-<!-- ### Here you can see the geographical distribution of ~4300 genomes.
-Each circle is centered on an individual country, the colour indicates region and the radius scales with the number of genomes from that country ([see here for help interpreting the map in Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).-->
 ### Qui puoi vedere la distribuzione geografica di circa 4300 genomi.
 Ogni cerchio è centrato su una singola nazione, il colore indica la regione e la dimensione del raggio del cerchio rappresenta il numero di genomi raccolti in quella nazione ([leggi qui per un aiuto su come interpretare le mappe su Nextstrain](https://nextstrain.org/docs/visualisation/map-interpretation)).
 \n\n
-<!--### In this report, we examine the global genomic epidemiology of COVID-19 broadly and provide specific updates for each world region. -->
 ### In questo rapporto, esaminiamo l'epidemiologia genomica globale del COVID-19 e forniamo aggiornamenti specifici per ciascuna regione del mondo.
 "
 ---
@@ -81,24 +70,24 @@ Ogni cerchio è centrato su una singola nazione, il colore indica la regione e l
 * [Closing summary](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
 * [Credit](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)-->
 
-* [Distribuzione globale del clade](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [Mutazione D614G della spike](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [Situazione in Asia](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [Situazione in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [Situazione in Europa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [Situazione in America del Sud](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [Situazione in Africa](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [Situazione in America del Nord](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [Conclusioni](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [Riconoscimenti scientifici](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+* [Distribuzione globale del clade](https://nextstrain.org/narratives/ncov/sit-rep/it/2020-08-14?n=2)
+* [Mutazione D614G della spike](https://nextstrain.org/narratives/ncov/sit-rep/it/2020-08-14?n=3)
+* [Situazione in Asia](https://nextstrain.org/narratives/ncov/sit-rep/it/2020-08-14?n=5)
+* [Situazione in Oceania](https://nextstrain.org/narratives/ncov/sit-rep/it/2020-08-14?n=7)
+* [Situazione in Europa](https://nextstrain.org/narratives/ncov/sit-rep/it/2020-08-14?n=10)
+* [Situazione in America del Sud](https://nextstrain.org/narratives/ncov/sit-rep/it/2020-08-14?n=13)
+* [Situazione in Africa](https://nextstrain.org/narratives/ncov/sit-rep/it/2020-08-14?n=15)
+* [Situazione in America del Nord](https://nextstrain.org/narratives/ncov/sit-rep/it/2020-08-14?n=17)
+* [Conclusioni](https://nextstrain.org/narratives/ncov/sit-rep/it/2020-08-14?n=19)
+* [Riconoscimenti scientifici](https://nextstrain.org/narratives/ncov/sit-rep/it/2020-08-14?n=20)
 
 <!-- #### Nextstrain Resources-->
-#### Risorse su Nextstrain 
+#### Risorse su Nextstrain
 <!-- * [START HERE: How to read a phylogeny](https://nextstrain.org/narratives/trees-background/)
 * [Previous Situation Reports](https://nextstrain.org/ncov-sit-reps/)
 * [Background on coronaviruses](https://nextstrain.org/help/coronavirus/human-CoV)-->
 
-* [INIZIA QUI:Come interpretare gli alberi filogenetici](https://nextstrain.org/narratives/trees-background_it/)
+* [INIZIA QUI:Come interpretare gli alberi filogenetici](https://nextstrain.org/narratives/trees-background/it/)
 * [Precedenti rapporti sulla situazione](https://nextstrain.org/ncov-sit-reps/)
 * [Informazioni generali sui coronavirus](https://nextstrain.org/help/coronavirus/human-CoV)
 
@@ -113,7 +102,7 @@ Ogni cerchio è centrato su una singola nazione, il colore indica la regione e l
 In questo report, abbiamo analizzato i genomi del SARS-CoV-2 condivisi pubblicamente. Confrontando questi genomi virali tra loro, possiamo tracciare come il virus SARS-CoV-2 si sta spostando nel mondo e si sta diffondendo all'interno delle comunità.
 
 <!--  - Asia has a higher proportion of 19A & 19B clades, with 20A, 20B & 20C clades dominating in Europe & North America.-->
-- L'Asia ha un maggior numero di genomi virali appartenenti ai gruppi 19A & 19B, mentre i gruppi 20A, 20B & 20C sono prevalenti in Europa e America del Nord. 
+- L'Asia ha un maggior numero di genomi virali appartenenti ai gruppi 19A & 19B, mentre i gruppi 20A, 20B & 20C sono prevalenti in Europa e America del Nord.
 
 <!-- - Globally, we can clearly see the rise to prominence of the D614G substitution in the Spike protein. This variant is hypothesised to cause an increase in SARS-CoV-2 transmission.-->
 - Globalmente, possiamo vedere chiaramente l'aumento in frequenza della variante D614G nella proteina Spike. Si ipotizza che questa variante provochi un aumento della trasmissione di SARS-CoV-2.
@@ -122,7 +111,7 @@ In questo report, abbiamo analizzato i genomi del SARS-CoV-2 condivisi pubblicam
 - Per mostrare in tempo reale l'andamento di SARS-CoV-2 nel mondo, abbiamo costruito 6 analisi regionali e 1 globale e le aggiorniamo giornalmente (eccetto nel fine settinama).
 
 <!-- - In Asia, there were numerous between-country transmissions in the region early in the pandemic. More recently, we see a move to within-country links, a trend we see in most regions.-->
-- In Asia, all'inizio della pandemia c'erano numerose trasmissioni tra i diversi Paesi nella regione. Più di recente, assistiamo a trasmissioni interne agli Stati, una tendenza che osserviamo nella maggior parte delle regioni. 
+- In Asia, all'inizio della pandemia c'erano numerose trasmissioni tra i diversi Paesi nella regione. Più di recente, assistiamo a trasmissioni interne agli Stati, una tendenza che osserviamo nella maggior parte delle regioni.
 
 <!-- - In Oceania, New Zealand's cases are contained in a narrow temporal band, corresponding to their elimination of the virus (until this week). Australia's recent surge in cases shows up, at least in the samples shared so far, as tightly clustering cases coming from previously circulating diversity.-->
 - L'epidemia in Oceania e Nuova Zelanda è stata contenuta molto velocemente, portando all'eliminazione del virus in questi Paesi (fino a questa settimana). Il recente aumento dei casi in Australia si manifesta, almeno nei campioni condivisi finora, come casi strettamente raggruppati provenienti da varianti precedentemente circolanti.
@@ -131,7 +120,7 @@ In questo report, abbiamo analizzato i genomi del SARS-CoV-2 condivisi pubblicam
 - Il virus SARS-CoV-2 si è diffuso molto velocemente in Europa - il virus veniva probabilmente trasmesso localmente in molti Paesi prima che ci si rendesse conto. Ciò ha comportato una forte miscelazione di campioni europei all'inizio della pandemia, rendendo difficile distinguere e identificare le introduzioni da un luogo all'altro. Più recentemente, possiamo vedere varianti più distinte associate a determinati Paesi, poiché la diffusione del virus è stata limitata dalle restrizioni imposte sui viaggi.
 
 <!--  - Like other regions, South America had multiple introductions, covering most of the known diversity of SARS-CoV-2. After travel restrictions came into place, sequences begin clustering more noticeably. Unfortunately, despite severe ongoing epidemics in many countries, more recent sequences are not readily available.-->
-- Come in altre regioni, l'America del sud ha avuto introduzioni multiple del virus, coprendo la maggior parte della diversità nota di SARS-CoV-2. Dopo l'entrata in vigore delle restrizioni sui viaggi, le sequenze hanno iniziato a raggrupparsi in modo più evidente. Sfortunatamente, nonostante la grave epidemia in corso in molte regioni, le sequenze piu' recenti non sono spesso immediatamente disponibili. 
+- Come in altre regioni, l'America del sud ha avuto introduzioni multiple del virus, coprendo la maggior parte della diversità nota di SARS-CoV-2. Dopo l'entrata in vigore delle restrizioni sui viaggi, le sequenze hanno iniziato a raggrupparsi in modo più evidente. Sfortunatamente, nonostante la grave epidemia in corso in molte regioni, le sequenze piu' recenti non sono spesso immediatamente disponibili.
 
 <!-- - Africa also had multiple, diverse introductions early in the pandemic. Subsequent travel restrictions seems to have limited mixing among African countries, with most sequences seeming to come from earlier circulating diversity in the same country.-->
 - Anche in Africa ci sono state molteplici introduzioni separate all'inizio della pandemia. Le successive restrizioni di viaggio sembrano avere limitato la mescolanza tra i Paesi africani, e la maggior parte delle sequenze che abbiamo sembrano provenire dalla diversità circolante precedentemente nello stesso Paese.
@@ -210,7 +199,7 @@ Questo ci permette di focalizzarci sulla diversità genetica all'interno di ogni
 Nella prossima slide mostreremo una visione globale di ciascuna di queste regioni, passando al set di dati corrispondente. (Si tratta di una nuova funzionalità in Nextstrain Narratives!)
 
 <!--A full inventory of builds maintained by us and others is available at [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).-->
-Un inventario completo delle strutture che manteniamo noi ed altri è disponibile qui [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).--> 
+Un inventario completo delle strutture che manteniamo noi ed altri è disponibile qui [nextstrain.org/sars-cov-2](https://nextstrain.org/sars-cov-2/).-->
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- [Asia situation pre-June](https://nextstrain.org/ncov/asia/2020-08-11?dmax=2020-06-01&d=map&f_region=Asia&legendOpen)-->
@@ -327,7 +316,7 @@ Dato che la raccolta dei campioni era meno diffusa nei primi giorni della pandem
 In marzo e aprile, la maggior parte dell'Europa ha chiuso i suoi confini, e molti paesi hanno imposto diversi tipo di 'lockdown', in cui gli spostamenti sono stati ridotti e le attività economiche e le scuole chiuse. Stimiamo che queste restrizioni abbiano ridotto la trasmissione tra Paesi, rendendo più probabile vedere sequenze da ciascuna regione che si raggruppano con sequenze già identificate in quella stessa area.
 
 <!--However, SARS-CoV-2 was already so mixed across Europe that different variants of the virus were circulating across multiple countries. Most countries had numerous distinct variants circulating before lockdown that were related to the viruses circulating in other countries. This means the phylogenetic picture remains well-mixed even after borders closed (shown by multiple colors near each other on the tree).-->
-Ad ogni modo, il SARS-CoV-2 si era già mescolato così tanto in Europa che diverse varianti del virus stavano circolando in diversi Paesi. Nella maggior parte degli Stati prima del lockdown c'erano già molte varianti distinte collegate ai virus che circolavano in altri Paesi. Questo significa che l'immagine filogenetica resta ben mescolata anche dopo che i confini erano stati chiusi (qui mostrato dai diversi colori vicini gli uni agli altri sull'albero). 
+Ad ogni modo, il SARS-CoV-2 si era già mescolato così tanto in Europa che diverse varianti del virus stavano circolando in diversi Paesi. Nella maggior parte degli Stati prima del lockdown c'erano già molte varianti distinte collegate ai virus che circolavano in altri Paesi. Questo significa che l'immagine filogenetica resta ben mescolata anche dopo che i confini erano stati chiusi (qui mostrato dai diversi colori vicini gli uni agli altri sull'albero).
 
 <!--However, we can see some signs of the local transmission that we would expect. Here, Finland and Sweden have a very distinct transmission cluster in green and orange (about 1/3 from the top), while Spain (dark blue) shows distinct local transmission at the bottom and top of the tree. Iceland (purple) and Switzerland (light blue) also show clusters of local transmission.-->
 Comunque, possiamo vedere alcuni segni della trasmissione locale che ci aspettavamo di vedere. Qui, la Finlandia e la Svezia hanno un gruppo di trasmissione molto distintivo in verde e arancione (a circa un terzo dall'alto), mentre la Spagna (blu scuro) mostra una trasmissione locale distinta verso la base e l'apice dell'albero. L'Islanda (viola) e la Svizzera (blu chiaro) mostrano anch'esse raggruppamenti di trasmissioni locali.
@@ -356,16 +345,16 @@ The reasons for sequencing "old" genomes varies, but these samples help us fill 
 In secondo luogo, possiamo vedere che le foglie presentano una grande differenza nel distanziamnto orizzontale - quindi le sequenze presentate la settimana scorsa rappresentano una finestra temporale di raccolta che va indietro fino all'inizio di marzo.
 
 <!-- ############ SLIDE BREAK ############# -->
-<!-- # [The early situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)--> 
+<!-- # [The early situation in South America](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)-->
 # [Situazione iniziale in America del sud](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmax=2020-04-15)
 
-<!-- South America's first SARS-CoV-2 sequences are from late February and early March, and are scattered across the tree, suggesting multiple introductions. As international travel decreased in March, we can see evidence of sustained local transmission in several countries.--> 
+<!-- South America's first SARS-CoV-2 sequences are from late February and early March, and are scattered across the tree, suggesting multiple introductions. As international travel decreased in March, we can see evidence of sustained local transmission in several countries.-->
 La prime sequenze di SARS-CoV-2 dell' America del sud sono di fine febbraio e inzio marzo e sono sparse sull'albero, suggerendo introduzioni multiple. Poiché i viaggi internazionali sono diminuiti a marzo, possiamo vedere prove di una trasmissione locale sostenuta in diversi paesi.
 
-<!--  Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence that this variant also moved around the continent to Chile, Uruguay, and Argentina. --> 
-Molte delle sequenze dal Brasile (verde chiaro) sono parte di due grandi gruppi (vicino alla cima dell'albero) ci sono alcune prove che questa variante si sia spostata in tutto il continente in Cile, Uruguay e Argentina. 
+<!--  Many of Brazil's (light green) sequences are part of two large clusters (near top of the tree), with some evidence that this variant also moved around the continent to Chile, Uruguay, and Argentina. -->
+Molte delle sequenze dal Brasile (verde chiaro) sono parte di due grandi gruppi (vicino alla cima dell'albero) ci sono alcune prove che questa variante si sia spostata in tutto il continente in Cile, Uruguay e Argentina.
 
-<!--We can also see distinct clusters of transmission involving Colombia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree. --> 
+<!--We can also see distinct clusters of transmission involving Colombia (orange), Chile (turquoise), Uruguay (lighter blue), and Argentina (darker blue) scattered through the tree. -->
 Possiamo anche notare diversi gruppi di trasmissione sparsi nell'albero che coinvolgono la Colombia (arancione), il Cile (turchese), Uruguay (blu chiaro) e l'Argentina( blu scuro).  
 
 
@@ -374,9 +363,9 @@ Possiamo anche notare diversi gruppi di trasmissione sparsi nell'albero che coin
 # [Situazione recente in America del sud](https://nextstrain.org/ncov/south-america/2020-08-10?d=tree&f_region=South%20America&p=full&legendOpen&dmin=2020-05-01)
 
 <!-- Unfortunately, while SARS-CoV-2 continues spreading widely in South America, sequence generation has not kept pace. Though cases remain high across much of the continent, only 68 samples from 5 countries (Brazil, Ecuador, Uruguay, Argentina, & Chile) have been shared since May.-->
-Sfortunatamente, mentre il virus SARS-CoV-2 continua ampiamente a diffondersi in America del sud, la generazione di sequenze non ha mantenuto lo stesso ritmo. Sebbene il numero di casi rimanga alto attraverso la maggiorparte del continente, solo 68 sequenze da 5 nazioni (Brasile, Ecuador, Uruguay,Argentina e Cile) sono state condivise da maggio in poi. 
+Sfortunatamente, mentre il virus SARS-CoV-2 continua ampiamente a diffondersi in America del sud, la generazione di sequenze non ha mantenuto lo stesso ritmo. Sebbene il numero di casi rimanga alto attraverso la maggiorparte del continente, solo 68 sequenze da 5 nazioni (Brasile, Ecuador, Uruguay,Argentina e Cile) sono state condivise da maggio in poi.
 
-<!-- Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the varients circulating now are descendants of those introduced early in the epidemic.--> 
+<!-- Though our inferences are limited by the sparse sampling, in many cases these more recent samples nest within the earlier diversity sampled in the same country, or other South American countries. This suggests the varients circulating now are descendants of those introduced early in the epidemic.-->
 Sebbene le nostre inferenze matematiche sui dati sono limitate dallo scarso numero di sequenze, in molti casi questi campioni più recenti si annidano nella diversità precedente campionata nello stesso paese o in altri paesi sudamericani. Ciò suggerisce che le varietà che circolano ora sono discendenti di quelle introdotte all'inizio dell'epidemia.
 
 
@@ -399,7 +388,7 @@ Il Sud Africa ha contribuito una gran parte delle sequenze.
 From Senegal and South Africa, we also have samples collected more recently.
 These samples generally fall within the older diversity of the country, as we would expect from continued local transmission. -->
 Nella DRC, Senegal e Africa del sud, osserviamo chiari segni di trasmissione locale, mostrata come gruppi di sequenze vicine sull'albero.
-Dal Senegal e dal Sud Africa abbiamo anche sequenze virali raccolte recentemente. 
+Dal Senegal e dal Sud Africa abbiamo anche sequenze virali raccolte recentemente.
 Questi campioni generalmente rientrano nella più precedente diversità virale presente nel paese, come ci aspetteremmo da una trasmissione locale continua.
 
 <!-- Though we must be cautious with our conclusions as they are greatly limited by highly biased sampling, the recent samples from Africa we have do not suggest continued importation of variants from elsewhere.
@@ -465,7 +454,7 @@ Sfortunatamente molti Paesi hanno visto una crescita di casi nelle ultime settim
 
 <!-- We would like to acknowledge the amazing and timely work done by all scientists involved in this outbreak.
 Only through the rapid sharing of genomic data and metadata are analyses such as these possible.-->
-Ringraziamo tutti gli scienziati al lavoro su questa epidemia per lo straordinario e tempestivo lavoro fatto. 
+Ringraziamo tutti gli scienziati al lavoro su questa epidemia per lo straordinario e tempestivo lavoro fatto.
 È solo attraverso la rapida condivisione di dati genomici e dei metadati che analisi come questa sono possibili.
 
 <!-- **We encourage you to click on 'Explore the Data Yourself' and scroll down for a full list of authors; the author of each individual sequence is available by selecting it on the tree.**-->
