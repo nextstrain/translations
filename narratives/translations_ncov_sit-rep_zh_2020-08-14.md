@@ -17,8 +17,10 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland"
 translators:
   - 李雪莹
+  - Fengjun Zhang
 translatorLinks:
   - https://xueyingcli.weebly.com/
+  - https://twitter.com/fengjun_zhang
 license: "CC-BY"
 licenseLink: "https://creativecommons.org/licenses/by/4.0/"
 dataset: "https://nextstrain.org/ncov/global/2020-08-11?d=map"
@@ -87,7 +89,7 @@ abstract: "
 
 - 新冠病毒曾在欧洲极快地传播——它很可能在人们意识到之前就已经在很多国家中传播了。这导致在病毒流行的早期，欧洲的样本大量地混杂在一起，使我们难以辨别和确认病毒在地区之间传播的方向。最近，由于旅行限令限制了病毒的传播，我们可以看到特定国家与特定变异之间更明显的关联。
 
-- 像其他地区一样，南美洲曾经历了多次输入事件，其病毒的遗传多样性涵盖了我们已知的大部分新冠病毒基因组序列的多样性。在旅行限令开始实施之后，当地病毒的序列开始更明显地聚在一起了。很遗憾，尽管很多国家正在经历严重的疫情，我们并没有很容易地得到更多新近的序列。
+- 像其他地区一样，南美洲曾经历了多次输入事件，其病毒的遗传多样性涵盖了我们已知的大部分新冠病毒基因组序列的多样性。在旅行限令开始实施之后，当地病毒的序列开始更明显地聚在一起了。很遗憾，尽管很多国家正在经历严重的疫情，但是我们拿到的新序列并不多。
 
 - 非洲也在病毒流行早期经历了多次不同的输入事件。后续的旅行限令似乎限制了非洲各国之间病毒的混合，当地大多数的序列都似乎来自同一国家早些时候流行的病毒。
 
@@ -123,7 +125,7 @@ abstract: "
 
 棘突蛋白基因中的D614G突变最近上了新闻，成为了很多推论的话题中心。
 
-有证据显示，G型变异（本图中为黄色）在体外实验中提高了新冠病毒的感染性，有可能因其能提高病毒在人与人之间的传播力而在演化中被选择（[Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1) ）。然而，感染力的增加有可能伴随着使病毒更易受中和抗体攻击的代价（[Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)）。
+有证据显示，G型变异（本图中为黄色）在体外实验中提高了新冠病毒的感染性，有可能因为其能提高病毒在人与人之间的传播力而在演化中被选择（[Korber et al.](https://www.cell.com/cell/pdf/S0092-8674(20)30820-5.pdf), [Zhang et al.](https://www.biorxiv.org/content/10.1101/2020.06.12.148726v1.full), [Yurkovetskiy et al.](https://www.biorxiv.org/content/10.1101/2020.07.04.187757v2), [Daniloski et al.](https://www.biorxiv.org/content/10.1101/2020.06.14.151357v2), [Volz et al.](https://www.medrxiv.org/content/10.1101/2020.07.31.20166082v1) ）。然而，感染力的增加有可能伴随着使病毒更易受中和抗体攻击的代价（[Weissman et al.](https://www.medrxiv.org/content/10.1101/2020.07.22.20159905v1)）。
 
 在本图中，我们可以推断，这个变异在新冠病毒最初由动物传给人之后很快就出现了，然后被传播到全球。
 七月，614G变体在全世界所流行的大部分病毒中都存在。自它首次出现以来，这个从D到G的突变发生了好几次，也曾回复突变为614D型变体。
