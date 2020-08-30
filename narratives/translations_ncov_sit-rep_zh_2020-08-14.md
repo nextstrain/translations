@@ -54,16 +54,16 @@ abstract: "
 # [新冠疫情总览](https://nextstrain.org/ncov/global/2020-08-11?d=map)
 
 ### 目录
-* [病毒在全球的谱系分布](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=2)
-* [棘突蛋白基因的D614G突变](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=3)
-* [亚洲的情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=5)
-* [大洋洲的情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=7)
-* [欧洲的情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=10)
-* [南美的情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=13)
-* [非洲的情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=15)
-* [北美的情况](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=17)
-* [结语](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=19)
-* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/2020-08-14?n=20)
+* [病毒在全球的谱系分布](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-08-14?n=2)
+* [棘突蛋白基因的D614G突变](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-08-14?n=3)
+* [亚洲的情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-08-14?n=5)
+* [大洋洲的情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-08-14?n=7)
+* [欧洲的情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-08-14?n=10)
+* [南美的情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-08-14?n=13)
+* [非洲的情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-08-14?n=15)
+* [北美的情况](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-08-14?n=17)
+* [结语](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-08-14?n=19)
+* [科学贡献人员](https://nextstrain.org/narratives/ncov/sit-rep/zh/2020-08-14?n=20)
 
 #### Nextstrain的资料
 * [入门篇：如何解读系统发生树](https://nextstrain.org/narratives/trees-background/zh)
